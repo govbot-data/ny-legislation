@@ -1,4 +1,4 @@
-# 🏛️ ny legislation file tree
+# 🏛️ New York legislation file tree
 
 Download a copy of your states legislation.
 
