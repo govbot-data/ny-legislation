@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - S4955A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4955--A
+2025-2026 Regular Sessions
+IN SENATE
+February 14, 2025
+___________
+Introduced by Sens. HARCKHAM, ADDABBO, BORRELLO, FERNANDEZ, GALLIVAN,
+MAY, MAYER, ROLISON, SEPULVEDA, WEBB -- read twice and ordered print-
+ed, and when printed to be committed to the Committee on Health --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the public health law, in relation to the functions of
+the Medicaid inspector general with respect to audit and review of
+medical assistance program funds
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 30-a of the public health law is amended by adding
+2 three new subdivisions 4, 5 and 6 to read as follows:
+3 4. "Overpayment" shall mean any amount not authorized to be paid under
+4 the medical assistance program, whether paid as the result of inaccurate
+5 or improper cost reporting, improper claiming, unacceptable practices,
+6 fraud, abuse or mistake.
+7 5. "Applicable standards" shall mean the state laws, regulations and
+8 duly promulgated policies, guidelines, protocols and interpretations of
+9 state agencies with jurisdiction in effect at the time the provider
+10 engaged in the regulated conduct or provision of services that the
+11 inspector general is auditing or reviewing.
+12 6. "Clerical or minor error or omission" shall include mathematical or
+13 computational mistakes; transposed procedure or diagnostic codes; inac-
+14 curate data entry; computer errors; duplicate claims; and incorrect data
+15 items, such as provider number, use of a modifier or date of service.
+16 § 2. The public health law is amended by adding a new section 37 to
+17 read as follows:
+18 § 37. Audit and recovery of medical assistance payments to providers.
+19 Any audit or review of any provider contracts, cost reports, claims,
+20 bills, or medical assistance payments by the inspector, anyone desig-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02919-06-5
+
+S. 4955--A 2
+1 nated by the inspector to conduct such audit or review, shall comply
+2 with the following standards:
+3 1. Any reviews or audits of provider contracts, cost reports, claims,
+4 bills or medical assistance payments shall apply the applicable stand-
+5 ard. Prior to commencing an audit or review, the inspector shall provide
+6 to the provider access to any applicable standards. For the purpose of
+7 this subdivision, an applicable standard shall not be deemed in effect
+8 if federal governmental approval was pending or denied at the time the
+9 provider engaged in the regulated conduct or provision of services.
+10 2. The inspector shall publish the most current version of protocols
+11 applicable to and governing any audit or review of a provider or provid-
+12 er contracts, cost reports, claims, bills or medical assistance payments
+13 on the office of the Medicaid inspector general website in advance of
+14 commencing such audit or review, which protocols shall include any and
+15 all applicable standards.
+16 3. In determining the amount of an overpayment a provider must repay
+17 following an audit or review, consistent with subdivision six of section
+18 thirty-two of this title, the inspector must consider the following
+19 factors:
+20 (a) Whether the findings suggest a sustained or high level of payment
+21 error;
+22 (b) Whether the nature of the error is a clerical or minor error or
+23 omission;
+24 (c) Impacts to the provider's financial solvency; and
+25 (d) The potential for the repayment, if ordered, to negatively impact
+26 access to services.
+27 4. Any sampling and extrapolation methodologies utilized by the
+28 inspector shall be consistent with accepted standards of sound auditing
+29 practice and statistical analysis.
+30 5. If the inspector determines that the basis of an overpayment is a
+31 clerical or minor error or omission, and if the inspector further deter-
+32 mines such clerical or minor error or omission are isolated occurrences,
+33 limited to three or less, then the inspector shall not apply extrapo-
+34 lation in those cases and recoupment will be limited to each such
+35 affected audited claim.
+36 6. The draft audit report given to the provider shall include the
+37 inspector's findings and a detailed written explanation of the extrapo-
+38 lation method if used, including the size of the sample, the sampling
+39 methodology, the defined universe of claims, the specific claims
+40 included in the sample, the results of the sample, the assumptions made
+41 about the accuracy and reliability of the sample and the level of confi-
+42 dence in the sample results, and the steps undertaken to calculate the
+43 alleged overpayment and any applicable offset based on the sample
+44 results.
+45 7. The inspector shall consider any supporting documentation that the
+46 provider submits prior to the issuance of the final audit report that
+47 the provider thinks is relevant to the audit, including, but not limited
+48 to attestations addressing missing documentation and/or signatures. The
+49 inspector shall use the totality of the record to determine if the
+50 documentation or signature requirement, as outlined in statute or regu-
+51 lation, is met, and/or consider submitted attestations to resolve the
+52 issue. If the inspector rejects such supporting documentation, an expla-
+53 nation for such rejection shall be provided in writing.
+54 8. The inspector's final audit report or final notice of agency action
+55 shall include a specific explanation of the inspector's consideration of
+
+S. 4955--A 3
+1 the factors described in paragraphs (a) through (d) of subdivision three
+2 of this section.
+3 9. The inspector shall not foreclose or prohibit the provider from
+4 settling through repayment at the lower confidence limit plus applicable
+5 interest, even if the provider requests a hearing, up until the hearing
+6 determination is issued.
+7 10. Neither recoupment by the inspector nor repayment by the provider
+8 of overpayments shall commence earlier than sixty days from the issuance
+9 date of the final audit report or, if the provider requests a hearing,
+10 then sixty days from the issuance date of the hearing determination.
+11 11. Nothing in this section shall prevent the inspector from complying
+12 with Medicaid audit requirements established by federal law, rules and
+13 regulations, or binding federal agency guidance and directives.
+14 § 3. The opening paragraph of subdivision 1 of section 35 of the
+15 public health law, as added by chapter 442 of the laws of 2006, is
+16 amended to read as follows:
+17 The inspector shall, no later than October first of each year,
+18 [submit] consult with the commissioner on the preparation of an annual
+19 report, to be made and filed by the inspector and submitted to the
+20 governor, the temporary president of the senate, the speaker of the
+21 assembly, the minority leader of the senate, the minority leader of the
+22 assembly, the commissioner, the commissioner of the office of addiction
+23 services and supports, and the commissioner of the office of mental
+24 health, the commissioner of the office of persons with developmental
+25 disabilities, the state comptroller and the attorney general[, a report
+26 summarizing the activities of the office during the preceding calendar
+27 year]. Such report shall include:
+28 § 4. Paragraphs (b), (f) and (g) of subdivision 1 of section 35 of the
+29 public health law, paragraph (b) as added by chapter 442 of the laws of
+30 2006, paragraph (f) as amended and paragraph (g) as added by section 111
+31 of part E of chapter 56 of the laws of 2013, are amended and a new para-
+32 graph (h) is added to read as follows:
+33 (b) the number, subject and other relevant characteristics of audits
+34 initiated, and those completed, including but not limited to outcome,
+35 region, reason for audit and the total dollar value identified for
+36 recovery [and], the actual recovery from such audits and how many audits
+37 where overpayments were recovered used extrapolation;
+38 (f) a narrative that evaluates the office's performance, describes any
+39 specific problems and connection with the procedures and agreements
+40 required under this section, discusses any other matters that may have
+41 impaired its effectiveness and summarizes the total savings to the
+42 state's medical assistance program; [and]
+43 (g) a narrative, provided by the department in its annual report
+44 pursuant to paragraph (t) of subdivision one of section two hundred six
+45 of this chapter that summarizes the department's activities to mitigate
+46 fraud, waste and abuse during the preceding calendar year[.]; and
+47 (h) a narrative that describes the steps taken by the office in the
+48 past year to comply with subdivision six of section thirty-two of this
+49 title, which requires consideration of quality and availability of
+50 medical and long term care and services and the best interest of both
+51 the medical assistance program and recipients, in the pursuit of civil
+52 and administrative enforcement actions.
+53 § 5. This act shall take effect April 1, 2026.

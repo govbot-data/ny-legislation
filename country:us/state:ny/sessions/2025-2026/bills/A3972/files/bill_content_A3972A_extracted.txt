@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - A3972A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3972--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 30, 2025
+___________
+Introduced by M. of A. PHEFFER AMATO -- read once and referred to the
+Committee on Governmental Employees -- recommitted to the Committee on
+Governmental Employees in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+eligibility for ordinary disability benefits and re-employment of
+disability retirees of the New York city police pension fund Tier III
+plans
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 506 of the retirement and social security law is
+2 amended by adding a new subdivision a-1 to read as follows:
+3 a-1. The provisions of subdivision a of this section shall not apply
+4 to members of the New York city police pension fund. Medical examina-
+5 tion of a police pension member in city-service for ordinary disability
+6 shall be made upon the application of the police commissioner, or upon
+7 the application of such member or of a person acting on such member's
+8 behalf, stating that such member is physically or mentally incapacitated
+9 for the performance of duty and ought to be retired. If such medical
+10 examination shows that such member is physically or mentally incapaci-
+11 tated for the performance of duty and ought to be retired, the medical
+12 board shall so report and the board shall retire such member for ordi-
+13 nary disability.
+14 § 2. Subdivision d of section 507 of the retirement and social securi-
+15 ty law, as added by chapter 890 of the laws of 1976, is amended to read
+16 as follows:
+17 d. If a member shall cease to be eligible for primary social security
+18 benefits before attaining age sixty-five, or, if receipt of social secu-
+19 rity benefits is not a condition for disability benefits hereunder,
+20 shall engage in such employment or business activity as would render
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01285-04-6
+
+A. 3972--A 2
+1 such member ineligible for social security disability benefits (had [he
+2 or she] such member otherwise been eligible), benefits hereunder shall
+3 cease. Provided, however, if such member is otherwise eligible, the
+4 state civil service department or appropriate municipal commission shall
+5 place the name of such person, as a preferred eligible, on the appropri-
+6 ate eligible lists prepared by it for positions for which such person is
+7 stated to be qualified in a salary grade not exceeding that from which
+8 such person retired. In such event, disability benefits shall be contin-
+9 ued for such member until such member first shall be offered a position
+10 in public service at such salary grade. This subdivision shall not apply
+11 to members of the New York city police pension fund who shall be
+12 governed by section 13-254 of the administrative code of the city of New
+13 York.
+14 § 3. This act shall take effect immediately and shall be deemed to
+15 have been in full force and effect on and after July 1, 2009.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation modifies Ordinary Disability
+Retirement (ODR) eligibility, and provides an additional ODR benefit,
+for Tier 3 members of POLICE by removing the requirements of having at
+least five years of credited service and being eligible for primary
+Social Security disability benefits (SSDI).
+EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Millions)
+Year POLICE
+2027 7.0
+2028 8.1
+2029 9.2
+2030 10.3
+2031 11.4
+2032 12.3
+2033 13.1
+2034 13.9
+2035 14.8
+2036 15.5
+2037 16.3
+2038 17.1
+2039 17.8
+2040 18.6
+2041 19.3
+2042 20.1
+2043 23.4
+2044 24.3
+2045 25.1
+2046 26.0
+2047 26.9
+2048 27.8
+2049 28.7
+2050 29.6
+2051 30.6
+Projected contributions include future new hires that may be impacted.
+For Fiscal Year 2052 and beyond, the expected increase in normal cost as
+a level percent of pay for impacted new entrants is approximately 0.32%.
+The entire increase in employer contributions will be allocated to New
+York City.
+
+A. 3972--A 3
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2025 ($ in Millions)
+Present Value (PV) POLICE
+(1) PV of Employer Contributions: 114.5
+(2) PV of Employee Contributions: 0.0
+Total PV of Benefits (1)+(2): 114.5
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+Changes in UAL were amortized over the expected remaining working life-
+time of those impacted using level dollar payments.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+POLICE
+Increase (Decrease) in UAL: (23.4) M
+Number of Payments: 16
+Amortization Payment: (2.6) M
+CENSUS DATA: The estimates presented herein are based on preliminary
+census data collected as of June 30, 2025. The census data for the
+impacted population is summarized below.
+POLICE
+Active Members
+-Number Count: 23,938
+-Average Age: 33.5
+-Average Service: 6.7
+-Average Salary: 117,700
+IMPACT ON MEMBER BENEFITS: Currently, active Tier 3 POLICE members are
+eligible for an ODR benefit if they are approved for SSDI benefits and
+have at least five years of credited service.
+Under the proposed legislation, active or separated Tier 3 POLICE
+members who are determined to be disabled by the POLICE Medical Board
+would be eligible for an ODR benefit, irrespective of SSDI eligibility
+and credited service. The safeguards provisions associated with SSDI
+would be replaced with Tier 1 and Tier 2 safeguards.
+The proposed ODR benefit would be equal to the greater of 1/3 of
+applicable Final Average Salary (FAS) or 2% of applicable FAS multiplied
+by credited service. This benefit would be subject to an offset, begin-
+ning at age 62, equal to 50% of the primary social security benefit as
+defined in Retirement and Social Security Law Section (RSSL) 511, if
+any, and would be subject to annual escalation pursuant to RSSL Section
+510.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems. In addition:
+* New entrants were assumed to replace exiting members so that total
+payroll increases by 3% each year for impacted groups. New entrant demo-
+graphics were developed based on data for recent new hires and actuarial
+judgement.
+
+A. 3972--A 4
+* For purposes of this Fiscal Note, it has been assumed that 100% of
+members exiting for ODR under current ODR rates would be ineligible for
+SSDI.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-46 dated March 20,
+2026 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2026
+Legislative Session.
