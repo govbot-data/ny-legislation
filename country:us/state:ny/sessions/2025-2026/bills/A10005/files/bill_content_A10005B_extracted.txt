@@ -1,0 +1,2420 @@
+Title: 
+Official Title: 
+Source: versions - A10005B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10005--B
+IN ASSEMBLY
+January 21, 2026
+___________
+A BUDGET BILL, submitted by the Governor pursuant to article seven of
+the Constitution -- read once and referred to the Committee on Ways
+and Means -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee -- again reported from said
+committee with amendments, ordered reprinted as amended and recommit-
+ted to said committee
+AN ACT to amend chapter 268 of the laws of 1996 amending the education
+law and the state finance law relating to providing a recruitment
+incentive and retention program for certain active members of the New
+York army national guard, New York air national guard, and New York
+naval militia, in relation to extending such provisions (Part A); to
+amend the tax law, in relation to extending the suspension of the
+subsidy to state emergency services revolving loan fund from the
+public safety communications surcharge (Part B); Intentionally omitted
+(Subpart A); and to amend the executive law, in relation to firearm
+prevention technology requirements for three-dimensional printers and
+a three-dimensional printed firearm library (Subpart B)(Part C);
+intentionally omitted (Part D); intentionally omitted (Part E); inten-
+tionally omitted (Part F); intentionally omitted (Part G); inten-
+tionally omitted (Part H); intentionally omitted (Part I); inten-
+tionally omitted (Part J); intentionally omitted (Part K);
+intentionally omitted (Part L); intentionally omitted (Part M); to
+amend chapter 396 of the laws of 2010 amending the alcoholic beverage
+control law relating to liquidator's permits and temporary retail
+permits, in relation to the effectiveness thereof (Part N); inten-
+tionally omitted (Part O); intentionally omitted (Part P); inten-
+tionally omitted (Part Q); intentionally omitted (Part R); inten-
+tionally omitted (Part S); intentionally omitted (Part T); to amend
+the executive law and the legislative law, in relation to education
+and training in ethics and lobbying (Part U); intentionally omitted
+(Part V); intentionally omitted (Part W); intentionally omitted (Part
+X); intentionally omitted (Part Y); to amend the legislative law, in
+relation to lobbyist and client registration fees (Part Z); to amend
+the executive law, in relation to requiring the superintendent of
+state police to develop, maintain, and disseminate to all members of
+the division of state police a critical incident paid leave policy
+(Part AA); to amend chapter 1 of the laws of 2005 amending the state
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD12670-04-6
+
+A. 10005--B 2
+finance law relating to restricting contacts in the procurement proc-
+ess and the recording of contacts relating thereto, in relation to
+extending the effectiveness thereof (Part BB); to amend chapter 83 of
+the laws of 1995 amending the state finance law and other laws relat-
+ing to bonds, notes and revenues, in relation to the effectiveness of
+certain provisions thereof (Part CC); intentionally omitted (Part DD);
+intentionally omitted (Part EE); in relation to providing for the
+administration of certain funds and accounts related to the 2026--2027
+budget, authorizing certain payments and transfers; to amend the state
+finance law, in relation to the school tax relief fund; to amend the
+private housing finance law, in relation to housing program bonds and
+notes; to amend part D of chapter 389 of the laws of 1997, relating to
+the financing of the correctional facilities improvement fund and the
+youth facility improvement fund, in relation to the issuance of bonds
+and notes for the youth facilities improvement fund; to amend the
+public authorities law, in relation to the issuance of bonds and notes
+for city university facilities; to amend the public authorities law,
+in relation to the issuance of bonds for library construction
+projects; to amend the public authorities law, in relation to the
+issuance of bonds for state university educational facilities; to
+amend the public authorities law, in relation to the issuance of bonds
+and notes for locally sponsored community colleges; to amend chapter
+392 of the laws of 1973 constituting the New York state medical care
+facilities finance agency act, in relation to the issuance of mental
+health services facilities improvement bonds and notes; to amend part
+K of chapter 81 of the laws of 2002, relating to providing for the
+administration of certain funds and accounts related to the 2002-2003
+budget, in relation to the issuance of bonds and notes to finance
+capital costs related to homeland security; to amend chapter 174 of
+the laws of 1968 constituting the New York state urban development
+corporation act, in relation to financing project costs for the office
+of information technology services and department of law; to amend
+chapter 329 of the laws of 1991, amending the state finance law and
+other laws relating to the establishment of the dedicated highway and
+bridge trust fund, in relation to the issuance of funds to the thruway
+authority; to amend chapter 174 of the laws of 1968 constituting the
+New York state urban development corporation act, in relation to the
+issuance of bonds and notes to fund costs for statewide equipment; to
+amend the public authorities law, in relation to the issuance of bonds
+for purposes of financing environmental infrastructure projects; to
+amend part D of chapter 389 of the laws of 1997, relating to the
+financing of the correctional facilities improvement fund and the
+youth facility improvement fund, in relation to the issuance of bonds
+and notes for the youth facilities improvement fund; to amend the
+public authorities law, in relation to the issuance of bonds and notes
+for the purpose of financing peace bridge projects and capital costs
+of state and local highways; to amend chapter 174 of the laws of 1968
+constituting the New York state urban development corporation act, in
+relation to the issuance of bonds for economic development initi-
+atives; to amend part Y of chapter 61 of the laws of 2005, relating to
+providing for the administration of certain funds and accounts related
+to the 2005-2006 budget, in relation to the issuance of bonds and
+notes for the purpose of financing capital projects for the division
+of military and naval affairs; to amend chapter 174 of the laws of
+1968 constituting the New York state urban development corporation
+act, in relation to issuance of bonds for project costs undertaken by
+
+A. 10005--B 3
+or on behalf of the state education department, special act school
+districts, state-supported schools for the blind and deaf, approved
+private special education schools, non-public schools, community
+centers, day care facilities, residential camps, day camps, Native
+American Indian Nation schools; to amend the public authorities law,
+in relation to the issuance of bonds and notes for the purpose of
+financing the construction of the New York state agriculture and
+markets food laboratory; to amend the public authorities law, in
+relation to authorization for the issuance of bonds for the capital
+restructuring financing program, the health care facility transforma-
+tion programs, and the essential health care provider program; to
+amend part Y of chapter 61 of the laws of 2005, relating to providing
+for the administration of certain funds and accounts related to the
+2005-2006 budget, in relation to the issuance of bonds and notes for
+the purpose of financing capital projects for initiatives of the state
+police; to amend part D of chapter 63 of the laws of 2005, relating to
+the composition and responsibilities of the New York state higher
+education capital matching grant board, in relation to higher educa-
+tion capital matching grants; to amend chapter 174 of the laws of 1968
+constituting the New York state urban development corporation act, in
+relation to the issuance of certain bonds or notes; and to amend the
+public authorities law, in relation to bond limits (Part FF); to amend
+the public lands law, in relation to state aid on certain state leased
+or state owned land (Part GG); to amend chapter 141 of the laws of
+1994, amending the legislative law and the state finance law relating
+to the operation and administration of the legislature, in relation to
+extending such provisions (Part HH); to amend the real property tax
+law, in relation to PILOT payments associated with certain state-owned
+lands in Ulster County (Part II); to amend the local finance law, in
+relation to capitalizing police emergency response vehicles (Part JJ);
+and to amend the correction law and the county law, in relation to
+establishing the office of chief medical examiner; and to repeal
+certain provisions of the county law relating thereto (Part KK)
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act enacts into law major components of legislation
+2 necessary to implement the state public protection and general govern-
+3 ment budget for the 2026-2027 state fiscal year. Each component is whol-
+4 ly contained within a Part identified as Parts A through KK. The effec-
+5 tive date for each particular provision contained within such Part is
+6 set forth in the last section of such Part. Any provision in any section
+7 contained within a Part, including the effective date of the Part, which
+8 makes a reference to a section "of this act", when used in connection
+9 with that particular component, shall be deemed to mean and refer to the
+10 corresponding section of the Part in which it is found. Section three of
+11 this act sets forth the general effective date of this act.
+12 PART A
+13 Section 1. Section 5 of chapter 268 of the laws of 1996 amending the
+14 education law and the state finance law relating to providing a recruit-
+15 ment incentive and retention program for certain active members of the
+16 New York army national guard, New York air national guard, and New York
+
+A. 10005--B 4
+1 naval militia, as amended by section 1 of part P of chapter 55 of the
+2 laws of 2021, is amended to read as follows:
+3 § 5. This act shall take effect January 1, 1997 and shall expire and
+4 be deemed repealed September 1, [2026] 2031; provided that any person
+5 who has begun to receive the benefits of this act prior to its expira-
+6 tion and repeal shall be entitled to continue to receive the benefits of
+7 this act after its expiration and repeal until completion of a baccalau-
+8 reate degree or cessation of status as an active member, whichever
+9 occurs first.
+10 § 2. This act shall take effect immediately.
+11 PART B
+12 Section 1. Paragraph (b) of subdivision 6 of section 186-f of the tax
+13 law, as amended by section 1 of part E of chapter 55 of the laws of
+14 2024, is amended to read as follows:
+15 (b) The sum of one million five hundred thousand dollars must be
+16 deposited into the New York state emergency services revolving loan fund
+17 annually; provided, however, that such sums shall not be deposited for
+18 any state fiscal [years] year between two thousand eleven--two thousand
+19 twelve, [two thousand twelve--two thousand thirteen, two thousand four-
+20 teen--two thousand fifteen, two thousand fifteen--two thousand sixteen,
+21 two thousand sixteen--two thousand seventeen, two thousand seventeen--
+22 two thousand eighteen, two thousand eighteen--two thousand nineteen, two
+23 thousand nineteen--two thousand twenty, two thousand twenty--two thou-
+24 sand twenty-one, two thousand twenty-one--two thousand twenty-two, two
+25 thousand twenty-two--two thousand twenty-three, two thousand twenty-
+26 three--two thousand twenty-four, two thousand twenty-four--two thousand
+27 twenty-five,] and [two thousand twenty-five--two thousand twenty-six]
+28 two thousand twenty-seven--two thousand twenty-eight;
+29 § 2. This act shall take effect April 1, 2026; provided, however, if
+30 this act shall become a law after such date it shall take effect imme-
+31 diately and shall be deemed to have been in full force and effect on and
+32 after April 1, 2026.
+33 PART C
+34 Section 1. This Part enacts into law components of legislation relat-
+35 ing to three-dimensional printed guns and pistol converters. Each compo-
+36 nent is wholly contained within a Subpart identified as Subparts A
+37 through B. The effective date for each particular provision contained
+38 within such Subpart is set forth in the last section of such Subpart.
+39 Any provision in any section contained within a Subpart, including the
+40 effective date of the Subpart, which makes reference to a section "of
+41 this act", when used in connection with that particular component, shall
+42 be deemed to mean and refer to the corresponding section of the Subpart
+43 in which it is found. Section three of this Part sets forth the general
+44 effective date of this Part.
+45 SUBPART A
+46 Intentionally Omitted
+47 SUBPART B
+
+A. 10005--B 5
+1 Section 1. The executive law is amended by adding a new section 837-aa
+2 to read as follows:
+3 § 837-aa. Firearm prevention technology requirements for three-dimen-
+4 sional printers. 1. As used in this section, the following terms shall
+5 have the following meanings:
+6 (a) "Three-dimensional printer" means:
+7 (i) any machine capable of rendering a three-dimensional object from a
+8 digital design file using additive manufacturing; or
+9 (ii) any machine capable of making three-dimensional modifications to
+10 an object from a digital design file using subtractive manufacturing.
+11 (b) "Blocking technology" means hardware, software, firmware, or other
+12 integrated technological measures capable of ensuring a three-dimension-
+13 al printer will not proceed to print any print job unless the underlying
+14 three-dimensional printing file has been evaluated by a firearms blue-
+15 print detection algorithm and determined not to be a printing file that
+16 would produce a firearm or illegal firearm parts.
+17 (c) "Firearms blueprint detection algorithm" means a software service
+18 that evaluates three-dimensional printing files, whether in the form of
+19 stereolithography (STL) files or other computer aided design files or
+20 geometric code, to determine if they can be used to program a three-di-
+21 mensional printer to produce a firearm or illegal firearm parts, and
+22 flag any such files to prevent their use to manufacture said firearm or
+23 illegal firearm parts.
+24 (d) "Illegal firearm parts" means an unfinished frame or receiver, a
+25 major component of a firearm, or any part designed and intended for use
+26 in converting a semi-automatic weapon into a machine gun, including, but
+27 not limited to, a pistol converter.
+28 (e) All other terms shall have the same meaning given to such terms in
+29 section 265.00 of the penal law.
+30 2. There is hereby created within the division, no later than ninety
+31 days of the effective date of this section, a "firearm prevention work-
+32 ing group". Such working group shall be comprised of experts in additive
+33 manufacturing technology, artificial intelligence and digital security,
+34 firearms regulation, public safety, consumer product safety, and any
+35 other relevant disciplines determined by the division to be necessary to
+36 perform the functions prescribed herein.
+37 3. (a) The working group, in consultation with the division, the
+38 department of state, and the state university of New York shall submit a
+39 report to the governor, the temporary president of the senate, the
+40 minority leader of the senate, the speaker of the assembly, and the
+41 minority leader of the assembly no later than one year after it convenes
+42 outlining its findings on the technological feasibility of blocking
+43 technology in three-dimensional printers.
+44 (b) In the report submitted under paragraph (a) of this subdivision,
+45 the working group shall identify available types of blocking technology,
+46 and include minimum performance standards that include, but are not
+47 limited to, implementation of blocking technology on three-dimensional
+48 printers, implementation of firearms blueprint detection algorithms,
+49 necessary safeguards to reduce the risk of circumvention of blocking
+50 technology, alignment with existing state and federal law, recommenda-
+51 tions to prevent infringement on trademark and intellectual property
+52 rights, and any other recommendations for regulations or guidelines.
+53 § 2. The executive law is amended by adding a new section 837-bb to
+54 read as follows:
+55 § 837-bb. Three-dimensional printed firearm library. 1. The division
+56 shall be authorized to create and maintain a library of firearms blue-
+
+A. 10005--B 6
+1 print files and illegal firearm parts blueprint files, and maintain and
+2 update the library, including by adding new files that enable the three-
+3 dimensional printing of firearms or illegal firearm parts. In further-
+4 ance of this authorization, the division may designate another govern-
+5 ment agency or an academic or research institution in this state to
+6 assist with the creation and maintenance of the file library. The
+7 library shall be made available to three-dimensional printer manufactur-
+8 ers, vendors with demonstrated expertise in software development, or
+9 experts in computational design or public safety, for the development or
+10 improvement of blocking technology and firearm blueprint detection algo-
+11 rithms. The division shall establish safeguards to prevent unauthorized
+12 access to and misuse of the library and shall prohibit all persons who
+13 are granted access to the library from misusing, selling, disseminating,
+14 or otherwise publishing its contents.
+15 § 3. This act shall take effect immediately.
+16 § 2. Severability. If any clause, sentence, paragraph, section or
+17 subpart of this act shall be adjudged by any court of competent juris-
+18 diction to be invalid and after exhaustion of all further judicial
+19 review, the judgment shall not affect, impair, or invalidate the remain-
+20 der thereof, but shall be confined in its operation to the clause,
+21 sentence, paragraph, section or subpart of this act directly involved in
+22 the controversy in which the judgment shall have been rendered.
+23 § 3. This act shall take effect immediately provided, however, that
+24 the applicable effective date of Subparts A through B of this Part shall
+25 be as specifically set forth in the last section of such Subparts.
+26 PART D
+27 Intentionally Omitted
+28 PART E
+29 Intentionally Omitted
+30 PART F
+31 Intentionally Omitted
+32 PART G
+33 Intentionally Omitted
+34 PART H
+35 Intentionally Omitted
+36 PART I
+37 Intentionally Omitted
+
+A. 10005--B 7
+1 PART J
+2 Intentionally Omitted
+3 PART K
+4 Intentionally Omitted
+5 PART L
+6 Intentionally Omitted
+7 PART M
+8 Intentionally Omitted
+9 PART N
+10 Section 1. Section 5 of chapter 396 of the laws of 2010 amending the
+11 alcoholic beverage control law relating to liquidator's permits and
+12 temporary retail permits, as amended by section 1 of part Q of chapter
+13 55 of the laws of 2025, is amended to read as follows:
+14 § 5. This act shall take effect on the sixtieth day after it shall
+15 have become a law, provided that paragraph (b) of subdivision 1 of
+16 section 97-a of the alcoholic beverage control law as added by section
+17 two of this act shall expire and be deemed repealed October 12, [2026]
+18 2027.
+19 § 2. This act shall take effect immediately.
+20 PART O
+21 Intentionally Omitted
+22 PART P
+23 Intentionally Omitted
+24 PART Q
+25 Intentionally Omitted
+26 PART R
+27 Intentionally Omitted
+28 PART S
+29 Intentionally Omitted
+
+A. 10005--B 8
+1 PART T
+2 Intentionally Omitted
+3 PART U
+4 Section 1. Paragraph (d) of subdivision 8 of section 94 of the execu-
+5 tive law, as added by section 2 of part QQ of chapter 56 of the laws of
+6 2022, is amended and a new paragraph (d-1) is added to read as follows:
+7 (d) The commission shall develop and administer training courses for
+8 lobbyists and clients of lobbyists and adopt regulations and procedures
+9 related to such training courses including, but not limited to, estab-
+10 lishing deadlines for training course completion.
+11 (d-1) The commission may impose a fee upon lobbyists and clients of
+12 lobbyists for late completion of the training course required by this
+13 subdivision, as set forth in section one-d of the legislative law.
+14 § 2. Subdivision (h) of section 1-d of the legislative law, as added
+15 by section 7 of part A of chapter 399 of the laws of 2011, is amended
+16 and a new subdivision (i) is added to read as follows:
+17 (h) provide an online ethics training course for [individuals regis-
+18 tered as] lobbyists and clients listed on a statement of registration
+19 submitted pursuant to section one-e of this article. The curriculum for
+20 the course shall include, but not be limited to, explanations and
+21 discussions of the statutes and regulations of New York concerning
+22 ethics in the public officers law, the election law, the legislative
+23 law, summaries of advisory opinions, underlying purposes and principles
+24 of the relevant laws, and examples of practical application of these
+25 laws and principles. The commission shall prepare those methods and
+26 materials necessary to implement the curriculum. [Each individual
+27 registered as a] Through calendar year two thousand twenty-six, each
+28 lobbyist [pursuant to section one-e of this article] and client shall
+29 complete such training course at least once in any three-year period
+30 during which [he or she is registered as a] the lobbyist or client is
+31 listed on a statement of registration submitted pursuant to section
+32 one-e of this article in accordance with procedures adopted by the
+33 commission. Commencing with the two thousand twenty-seven--two thousand
+34 twenty-eight biennial period and thereafter, each lobbyist and client
+35 shall complete such training course at least once in each biennial peri-
+36 od and at least once every two years during which the lobbyist or client
+37 is listed on a statement of registration submitted pursuant to section
+38 one-e of this article, in accordance with procedures adopted by the
+39 commission.
+40 (i) impose a fee for failure to complete the online ethics training
+41 course in a timely manner as required by this section, not to exceed
+42 twenty-five dollars for each day that the lobbyist or client is late, in
+43 accordance with procedures adopted by the commission.
+44 § 3. This act shall take effect immediately.
+45 PART V
+46 Intentionally Omitted
+47 PART W
+
+A. 10005--B 9
+1 Intentionally Omitted
+2 PART X
+3 Intentionally Omitted
+4 PART Y
+5 Intentionally Omitted
+6 PART Z
+7 Section 1. Subdivision (e) of section 1-e of the legislative law, as
+8 amended by section 1 of part S of chapter 62 of the laws of 2003, is
+9 amended to read as follows:
+10 (e) (i) The first statement of registration filed annually by each
+11 lobbyist for calendar years through two thousand three shall be accompa-
+12 nied by a registration fee of fifty dollars except that no registration
+13 fee shall be required of a public corporation. A fee of fifty dollars
+14 shall be required for any subsequent statement of registration filed by
+15 a lobbyist during the same calendar year; (ii) The first statement of
+16 registration filed annually by each lobbyist for calendar year two thou-
+17 sand four shall be accompanied by a registration fee of one hundred
+18 dollars except that no registration fee shall be required from any
+19 lobbyist who in any year does not expend, incur or receive an amount in
+20 excess of five thousand dollars of reportable compensation and expenses,
+21 as provided in paragraph five of subdivision (b) of section one-h of
+22 this article, for the purposes of lobbying or of a public corporation. A
+23 fee of one hundred dollars shall be required for any subsequent state-
+24 ment of registration filed by a lobbyist during the same calendar year;
+25 (iii) The first statement of registration filed biennially by each
+26 lobbyist for the first biennial registration requirements for calendar
+27 years two thousand five and two thousand six [and thereafter,] through
+28 the thirty-first day of March two thousand twenty-six shall be accompa-
+29 nied by a registration fee of two hundred dollars except that no regis-
+30 tration fee shall be required from any lobbyist who in any year does not
+31 expend, incur or receive an amount in excess of five thousand dollars of
+32 reportable compensation and expenses, as provided in paragraph five of
+33 subdivision (b) of section one-h of this article, for the purposes of
+34 lobbying or of a public corporation. A fee of two hundred dollars shall
+35 be required for any subsequent statement of registration filed by a
+36 lobbyist during the same biennial period through the thirty-first day of
+37 March two thousand twenty-six; (iv) The statement of registration filed
+38 after the due date of a biennial registration for calendar years two
+39 thousand five and two thousand six through the thirty-first day of March
+40 two thousand twenty-six shall be accompanied by a registration fee that
+41 is prorated to one hundred dollars for any such registration filed after
+42 January first of the second calendar year covered by the biennial
+43 reporting requirement[.]; (v) Beginning with the first statement of
+44 registration filed by each lobbyist on or after the first day of April
+45 two thousand twenty-six and thereafter, there shall be an annual regis-
+46 tration fee of two hundred and fifty dollars for each calendar year in
+47 which such registration remains in effect, except that no registration
+
+A. 10005--B 10
+1 fee shall be required from any lobbyist who in any year does not expend,
+2 incur or receive an amount in excess of five thousand dollars of report-
+3 able compensation and expenses, as provided in paragraph five of subdi-
+4 vision (b) of section one-h of this article, for the purposes of lobby-
+5 ing or of a public corporation. An annual registration fee of two
+6 hundred fifty hundred dollars shall be required for any subsequent
+7 statement of registration filed by a lobbyist during the same biennial
+8 period and for each calendar year in which such registration remains in
+9 effect; (vi) In addition to the fees authorized by this section, the
+10 commission may impose a fee for late filing of a registration statement
+11 required by this section not to exceed twenty-five dollars for each day
+12 that the statement required to be filed is late, except that if the
+13 lobbyist making a late filing has not previously been required by stat-
+14 ute to file such a statement, the fee for late filing shall not exceed
+15 ten dollars for each day that the statement required to be filed is
+16 late.
+17 § 2. This act shall take effect immediately.
+18 PART AA
+19 Section 1. The executive law is amended by adding a new section 214-j
+20 to read as follows:
+21 § 214-j. Critical incident policy. 1. As used in this section, the
+22 following terms shall have the following meanings:
+23 (a) "Critical incident" shall mean the following actions when
+24 performed by a member or experienced by a member in the course of offi-
+25 cial duties: (i) an action that directly causes serious physical injury
+26 or death to another person or member; (ii) a discharge of a firearm by a
+27 member directed at another person; (iii) a traffic accident or incident
+28 involving a division vehicle, aircraft, or vessel that results in seri-
+29 ous physical injury or death; or (iv) any other incident deemed appro-
+30 priate by the superintendent or their designee.
+31 (b) "Serious physical injury" shall mean an injury that, based on the
+32 facts and circumstances reasonably known at the time of the incident,
+33 appears to involve a substantial risk of death or an obvious and severe
+34 impairment of a major bodily function, such that a reasonable person
+35 would conclude the injury is life-threatening or significantly life-al-
+36 tering, without regard to later medical findings, prognosis, or outcome.
+37 The determination of a "serious physical injury" shall be made by the
+38 superintendent or their designee based on the observable conditions and
+39 available information at the time the supervisor arrives at the scene of
+40 the critical incident, and shall not be affected by subsequent medical
+41 evaluation or recovery. "Serious physical injury" shall include, but not
+42 be limited to, suspected spinal cord injury or paralysis, severe pene-
+43 trating head injury, massive blood loss, or loss of limb.
+44 (c) "Directly involved" shall mean any member who was physically pres-
+45 ent within the immediate proximity of a critical incident at the time it
+46 occurred and whose direct exposure to the incident placed the member
+47 within the immediate zone of operational engagement, regardless of
+48 whether the member discharged a weapon or otherwise used force.
+49 (d) "Primary member" means any directly involved member who justifi-
+50 ably used deadly physical force during the critical incident, or whose
+51 actions during the critical incident appear to be the most immediate and
+52 substantial cause of death or serious physical injury to a person.
+53 2. The superintendent shall develop, maintain, and disseminate to all
+54 members of the division of state police a critical incident paid leave
+
+A. 10005--B 11
+1 policy that provides for paid critical incident leave in accordance with
+2 this section.
+3 3. Such critical incident paid leave policy shall guarantee: (a) paid
+4 critical incident leave of at least twenty calendar days for any primary
+5 member whose official actions were the direct and proximate cause of the
+6 death of another person; (b) paid critical incident leave of at least
+7 ten calendar days for any other member directly involved in the critical
+8 incident; and (c) paid critical incident leave under such other circum-
+9 stances the superintendent or their designee determines appropriate.
+10 Such leave shall constitute a separate category of leave and shall not
+11 count against vacation, sick, or personal leave accruals. Such leave,
+12 where appropriate, shall be designated as family and medical leave act
+13 and/or count against a member's workers compensation leave entitlement.
+14 4. Critical incident paid leave shall begin as soon as possible after
+15 the critical incident, provided that initial supervisory inquiries of
+16 the involved members shall occur before leave commences. Critical inci-
+17 dent leave may only be delayed to ensure minimum necessary staffing
+18 levels or protect community safety. Delays shall only be as long as
+19 necessary to address such concerns. Upon agreement of the member and the
+20 superintendent or their designee, the member shall be allowed to return
+21 to duty prior to the completion of the period of critical incident
+22 leave.
+23 5. In any case where critical incident paid leave has been made to a
+24 member, and it is thereafter determined that a critical incident did not
+25 occur or that the member's actions that resulted in the serious physical
+26 injury or death of another person were not justified, the superintendent
+27 or their designee may order the deduction of equivalent vacation or
+28 personal leave days and/or the withholding of future paid leave to such
+29 member, provided that the amount of days deducted and/or withheld shall
+30 not be more than the critical incident paid leave days that were
+31 originally provided.
+32 6. The superintendent shall be prohibited from taking any punitive
+33 administrative action against any member granted critical incident leave
+34 under this section solely on the basis of the provision of such leave
+35 unless the leave was provided, at least in part, based upon the member's
+36 fraud, deceit, or misrepresentation.
+37 7. The superintendent is authorized to promulgate rules and regu-
+38 lations to implement, administer, and enforce the provisions of this
+39 section.
+40 § 2. This act shall take effect on the one hundred twentieth day after
+41 it shall have become a law. Effective immediately, the addition, amend-
+42 ment and/or repeal of any rule or regulation necessary for the implemen-
+43 tation of this act on its effective date are authorized to be made and
+44 completed on or before such effective date.
+45 PART BB
+46 Section 1. Section 16 of chapter 1 of the laws of 2005 amending the
+47 state finance law relating to restricting contacts in the procurement
+48 process and the recording of contacts relating thereto, as amended by
+49 section 1 of part SS of chapter 55 of the laws of 2021, is amended to
+50 read as follows:
+51 § 16. This act shall take effect immediately; provided, however, that
+52 sections one, six, eight, nine, ten, eleven and fifteen of this act
+53 shall take effect January 1, 2006; and provided, however, the amendments
+54 to paragraph f of subdivision 9 of section 163 of the state finance law
+
+A. 10005--B 12
+1 made by section fifteen of this act shall not affect the repeal of such
+2 section and shall be deemed repealed therewith; provided, further, that
+3 the amendments to article 1-A of the legislative law, made by this act,
+4 shall not affect the repeal of such article pursuant to chapter 2 of the
+5 laws of 1999, as amended, and shall be deemed repealed therewith;
+6 provided, further, that sections thirteen and fourteen of this act shall
+7 take effect January 1, 2006 and shall be deemed repealed July 31, [2026]
+8 2031; provided, further, that effective immediately, the advisory coun-
+9 cil on procurement lobbying created pursuant to section twelve of this
+10 act shall be constituted no later than sixty days following the effec-
+11 tive date of this act, provided that effective sixty days following the
+12 effective date of this act, the advisory council on procurement lobbying
+13 shall be authorized to establish model guidelines and to add, amend
+14 and/or repeal any rules or regulations necessary for the implementation
+15 of its duties under sections twelve and thirteen of this act, and the
+16 advisory council authorized to make and complete such model guidelines
+17 on or before the effective date of section thirteen of this act;
+18 provided, further, that procurement contracts for which bid solicita-
+19 tions have been issued prior to the effective date of this act shall be
+20 awarded pursuant to the provisions of law in effect at the time of issu-
+21 ance.
+22 § 2. Intentionally omitted.
+23 § 3. Intentionally omitted.
+24 § 4. This act shall take effect immediately.
+25 PART CC
+26 Section 1. Subdivision 5 of section 362 of chapter 83 of the laws of
+27 1995 amending the state finance law and other laws relating to bonds,
+28 notes and revenues, as amended by section 1 of part RR of chapter 55 of
+29 the laws of 2021, is amended to read as follows:
+30 5. Sections thirty-one through forty-two of this act shall take effect
+31 on the thirtieth day after it shall have become a law and shall be
+32 deemed to have been in full force and effect on and after April 1, 1995;
+33 provided that section 163 of the state finance law, as added by section
+34 thirty-three of this act shall remain in full force and effect until
+35 June 30, [2026] 2031 at which time it shall expire and be deemed
+36 repealed. Contracts executed prior to the expiration of such section 163
+37 shall remain in full force and effect until the expiration of any such
+38 contract notwithstanding the expiration of certain provisions of this
+39 act.
+40 § 2. This act shall take effect immediately.
+41 PART DD
+42 Intentionally Omitted
+43 PART EE
+44 Intentionally Omitted
+45 PART FF
+
+A. 10005--B 13
+1 Section 1. The state comptroller is hereby authorized and directed to
+2 loan money in accordance with the provisions set forth in subdivision 5
+3 of section 4 of the state finance law to the following funds and/or
+4 accounts:
+5 1. Local government records management account (20501).
+6 2. Child health plus program account (20810).
+7 3. EPIC premium account (20818).
+8 4. Transit authorities account (20851).
+9 5. Railroad account (20852).
+10 6. Non-MTA capital account (20853).
+11 7. Education - New (20901).
+12 8. VLT - Sound basic education fund (20904).
+13 9. Sewage treatment program management and administration fund
+14 (21000).
+15 10. Utility environmental regulatory account (21064).
+16 11. Federal grants indirect cost recovery account (21065).
+17 12. Low level radioactive waste account (21066).
+18 13. Environmental regulatory account (21081).
+19 14. Natural resource account (21082).
+20 15. Environmental protection and oil spill compensation fund (21200).
+21 16. Public transportation systems account (21401).
+22 17. Metropolitan mass transportation (21402).
+23 18. Operating permit program account (21451).
+24 19. Mobile source account (21452).
+25 20. New York state thruway authority account (21905).
+26 21. Financial control board account (21911).
+27 22. Regulation of racing account (21912).
+28 23. State university dormitory income reimbursable account (21937).
+29 24. Training, management and evaluation account (21961).
+30 25. Clinical laboratory reference system assessment account (21962).
+31 26. Indirect cost recovery account (21978).
+32 27. Multi-agency training account (21989).
+33 28. Bell jar collection account (22003).
+34 29. Real property disposition account (22006).
+35 30. Parking account (22007).
+36 31. Courts special grants (22008).
+37 32. Batavia school for the blind account (22032).
+38 33. Financial oversight account (22039).
+39 34. Regulation of Indian gaming account (22046).
+40 35. Rome school for the deaf account (22053).
+41 36. Administrative adjudication account (22055).
+42 37. Cultural education account (22063).
+43 38. DHCR mortgage servicing account (22085).
+44 39. Voting Machine Examinations account (22099).
+45 40. DHCR-HCA application fee account (22100).
+46 41. Restitution account (22134).
+47 42. New York State Home for Veterans in the Lower-Hudson Valley
+48 account (22144).
+49 43. Deferred compensation administration account (22151).
+50 44. Transportation aviation account (22165).
+51 45. New York State Campaign Finance Fund account (22211).
+52 46. New York state medical indemnity fund account (22240).
+53 47. Behavioral health parity compliance fund (22246).
+54 48. Pharmacy benefit manager regulatory fund (22255).
+55 49. Virtual currency assessments account (22262).
+56 50. Employers assessment account (22269).
+
+A. 10005--B 14
+1 51. State university general income offset account (22654).
+2 52. Highway safety program account (23001).
+3 53. NYCCC operating offset account (23151).
+4 54. Commercial gaming revenue account (23701).
+5 55. Commercial gaming regulation account (23702).
+6 56. New York state secure choice administrative account (23806).
+7 57. New York state cannabis revenue fund (24800).
+8 58. Fantasy sports administration account (24951).
+9 59. Mobile sports wagering fund (24955).
+10 60. Highway and bridge capital account (30051).
+11 61. State university residence hall rehabilitation fund (30100).
+12 62. State parks infrastructure account (30351).
+13 63. Hazardous waste cleanup account (31506).
+14 64. Youth facilities improvement account (31701).
+15 65. Housing assistance fund (31800).
+16 66. Housing program fund (31850).
+17 67. Highway facility purpose account (31951).
+18 68. New York racing account (32213).
+19 69. Information technology capital financing account (32215).
+20 70. New York environmental protection and spill remediation account
+21 (32219).
+22 71. Department of financial services IT modernization capital account
+23 (32230).
+24 72. Grants Reimbursement from Non-Federal Entity Account (32231).
+25 73. Fire Island project account (32232).
+26 74. Mental hygiene facilities capital improvement fund (32300).
+27 75. Correctional facilities capital improvement fund (32350).
+28 76. OGS convention center account (50318).
+29 77. Empire Plaza Gift Shop (50327).
+30 78. Unemployment Insurance Benefit Fund, Interest Assessment Account
+31 (50651).
+32 79. Centralized services fund (55000).
+33 80. Archives records management account (55052).
+34 81. Federal single audit account (55053).
+35 82. Civil service administration account (55055).
+36 83. Banking services account (55057).
+37 84. Cultural resources survey account (55058).
+38 85. Neighborhood work project account (55059).
+39 86. Automation & printing chargeback account (55060).
+40 87. Data center account (55062).
+41 88. Intrusion detection account (55066).
+42 89. Domestic violence grant account (55067).
+43 90. Centralized technology services account (55069).
+44 91. Labor contact center account (55071).
+45 92. Human services contact center account (55072).
+46 93. Department of law civil recoveries account (55074).
+47 94. Executive direction internal audit account (55251).
+48 95. CIO Information technology centralized services account (55252).
+49 96. Health insurance internal service account (55300).
+50 97. Civil service employee benefits division administrative account
+51 (55301).
+52 98. Correctional industries revolving fund (55350).
+53 99. Employees health insurance account (60201).
+54 100. Medicaid management information system escrow fund (60900).
+55 101. Animal shelter regulation account.
+56 102. Climate initiative account.
+
+A. 10005--B 15
+1 103. Responsible AI Safety and Education account.
+2 104. Data broker account.
+3 § 2. The state comptroller is hereby authorized and directed to loan
+4 money in accordance with the provisions set forth in subdivision 5 of
+5 section 4 of the state finance law to any account within the following
+6 federal funds, provided the comptroller has made a determination that
+7 sufficient federal grant award authority is available to reimburse such
+8 loans:
+9 1. Federal USDA-food and nutrition services fund (25000).
+10 2. Federal health and human services fund (25100).
+11 3. Federal education fund (25200).
+12 4. Federal block grant fund (25250).
+13 5. Federal miscellaneous operating grants fund (25300).
+14 6. Federal unemployment insurance administration fund (25900).
+15 7. Federal unemployment insurance occupational training fund (25950).
+16 8. Federal emergency employment act fund (26000).
+17 9. Federal capital projects fund (31350).
+18 § 3. Notwithstanding any law to the contrary, and in accordance with
+19 section 4 of the state finance law, the comptroller is hereby authorized
+20 and directed to transfer, upon request of the director of the budget, on
+21 or before March 31, 2027, up to the unencumbered balance or the follow-
+22 ing amounts:
+23 Economic Development and Public Authorities:
+24 1. An amount up to the unencumbered balance from the miscellaneous
+25 special revenue fund, business and licensing services account (21977),
+26 to the general fund.
+27 2. $19,810,000 from the miscellaneous special revenue fund, code
+28 enforcement account (21904), to the general fund.
+29 3. $3,000,000 from the general fund to the miscellaneous special
+30 revenue fund, tax revenue arrearage account (22168).
+31 Education:
+32 1. $2,455,000,000 from the general fund to the state lottery fund,
+33 education account (20901), as reimbursement for disbursements made from
+34 such fund for supplemental aid to education pursuant to section 92-c of
+35 the state finance law that are in excess of the amounts deposited in
+36 such fund for such purposes pursuant to section 1612 of the tax law.
+37 2. $1,106,000,000 from the general fund to the state lottery fund, VLT
+38 education account (20904), as reimbursement for disbursements made from
+39 such fund for supplemental aid to education pursuant to section 92-c of
+40 the state finance law that are in excess of the amounts deposited in
+41 such fund for such purposes pursuant to section 1612 of the tax law.
+42 3. $137,600,000 from the general fund to the New York state commercial
+43 gaming fund, commercial gaming revenue account (23701), as reimbursement
+44 for disbursements made from such fund for supplemental aid to education
+45 pursuant to section 97-nnnn of the state finance law that are in excess
+46 of the amounts deposited in such fund for purposes pursuant to section
+47 1352 of the racing, pari-mutuel wagering and breeding law.
+48 4. $1,456,000,000 from the general fund to the mobile sports wagering
+49 fund, education account (24955), as reimbursement for disbursements made
+50 from such fund for supplemental aid to education pursuant to section
+51 92-c of the state finance law that are in excess of the amounts deposit-
+52 ed in such fund for such purposes pursuant to section 1367 of the
+53 racing, pari-mutuel wagering and breeding law.
+54 5. $16,000,000 from the interactive fantasy sports fund, fantasy
+55 sports education account (24950), to the state lottery fund, education
+56 account (20901), as reimbursement for disbursements made from such fund
+
+A. 10005--B 16
+1 for supplemental aid to education pursuant to section 92-c of the state
+2 finance law.
+3 6. $50,000,000 from the cannabis revenue fund cannabis education
+4 account (24801), to the state lottery fund, education account (20901),
+5 as reimbursement for disbursements made from such fund for supplemental
+6 aid to education pursuant to section 99-ii of the state finance law.
+7 7. An amount up to the unencumbered balance in the fund on March 31,
+8 2026 from the charitable gifts trust fund, elementary and secondary
+9 education account (24901), to the general fund, for payment of general
+10 support for public schools pursuant to section 3609-a of the education
+11 law.
+12 8. Moneys from the state lottery fund (20900) up to an amount deposit-
+13 ed in such fund pursuant to section 1612 of the tax law in excess of the
+14 current year appropriation for supplemental aid to education pursuant to
+15 section 92-c of the state finance law.
+16 9. $300,000 from the New York state local government records manage-
+17 ment improvement fund, local government records management account
+18 (20501), to the New York state archives partnership trust fund, archives
+19 partnership trust maintenance account (20351).
+20 10. $900,000 from the general fund to the miscellaneous special reven-
+21 ue fund, Batavia school for the blind account (22032).
+22 11. $900,000 from the general fund to the miscellaneous special reven-
+23 ue fund, Rome school for the deaf account (22053).
+24 12. Intentionally omitted.
+25 13. $343,400,000 from the state university dormitory income fund
+26 (40350) to the miscellaneous special revenue fund, state university
+27 dormitory income reimbursable account (21937).
+28 14. $24,000,000 from any of the state education department's special
+29 revenue and internal service funds to the miscellaneous special revenue
+30 fund, indirect cost recovery account (21978).
+31 15. $4,200,000 from any of the state education department's special
+32 revenue or internal service funds to the capital projects fund (30000).
+33 16. $8,000,000 from the general fund to the miscellaneous special
+34 revenue fund, HESC-insurance premium payments account (21960).
+35 17. $358,000,000 from the state university income fund, state univer-
+36 sity hospitals income reimbursable account (22656), and the state
+37 university income fund, state university-wide hospital reimbursable
+38 account (22658) to the General Fund for the payment of SUNY Hospitals
+39 Health Insurance premiums on or before March 31, 2027.
+40 18. $5,000,000 from the general fund to the miscellaneous capital
+41 projects fund, state university of New York green energy loan fund.
+42 19. $12,000,000 from the miscellaneous special revenue fund office of
+43 professions account (22051) to the miscellaneous special revenue fund
+44 cultural education account (22063).
+45 20. $150,000 from the dedicated miscellaneous special revenue fund,
+46 gifts for the state library system account (23821) to the miscellaneous
+47 special revenue fund, love your library account (22119).
+48 Environmental Affairs:
+49 1. $16,000,000 from any of the department of environmental conserva-
+50 tion's special revenue federal funds, and/or federal capital funds, to
+51 the environmental conservation special revenue fund, federal indirect
+52 recovery account (21065).
+53 2. $5,000,000 from any of the department of environmental conserva-
+54 tion's special revenue federal funds, and/or federal capital funds, to
+55 the conservation fund (21150) or Marine Resources Account (21151) as
+56 necessary to avoid diversion of conservation funds.
+
+A. 10005--B 17
+1 3. $3,000,000 from any of the office of parks, recreation and historic
+2 preservation capital projects federal funds and special revenue federal
+3 funds to the miscellaneous special revenue fund, federal grant indirect
+4 cost recovery account (22188).
+5 4. $200,000,000 from the general fund to the environmental protection
+6 fund, environmental protection fund transfer account (30451).
+7 5. $10,000,000 from the general fund to the hazardous waste remedial
+8 fund, hazardous waste cleanup account (31506).
+9 6. An amount up to or equal to the cash balance within the special
+10 revenue-other waste management & cleanup account (21053) to the capital
+11 projects fund (30000) for services and capital expenses related to the
+12 management and cleanup program as put forth in section 27-1915 of the
+13 environmental conservation law.
+14 7. $7,000,000 from the general fund to the enterprise fund, state fair
+15 account (50051).
+16 8. $3,000,000 from the waste management & cleanup account (21053) to
+17 the environmental protection fund transfer account (30451).
+18 9. $14,000,000 from the general fund to the miscellaneous special
+19 revenue fund, patron services account (22163).
+20 10. $15,000,000 from the enterprise fund, golf account (50332) to the
+21 state park infrastructure fund, state park infrastructure account
+22 (30351).
+23 11. $10,000,000 from the general fund to the environmental protection
+24 and oil spill compensation fund (21203).
+25 12. $250,000 from the general fund to the Lake George park account
+26 (22751).
+27 Family Assistance:
+28 1. $7,000,000 from any of the office of children and family services,
+29 office of temporary and disability assistance, or department of health
+30 special revenue federal funds and the general fund, in accordance with
+31 agreements with social services districts, to the miscellaneous special
+32 revenue fund, office of human resources development state match account
+33 (21967).
+34 2. $4,000,000 from any of the office of children and family services
+35 or office of temporary and disability assistance special revenue federal
+36 funds to the miscellaneous special revenue fund, family preservation and
+37 support services and family violence services account (22082).
+38 3. $18,670,000 from any of the office of children and family services,
+39 office of temporary and disability assistance, or department of health
+40 special revenue federal funds and any other miscellaneous revenues
+41 generated from the operation of office of children and family services
+42 programs to the general fund.
+43 4. $225,300,000 from any of the office of temporary and disability
+44 assistance or department of health special revenue funds to the general
+45 fund.
+46 5. $2,500,000 from any of the office of temporary and disability
+47 assistance special revenue funds to the miscellaneous special revenue
+48 fund, office of temporary and disability assistance program account
+49 (21980).
+50 6. $35,000,000 from any of the office of children and family services,
+51 office of temporary and disability assistance, department of labor, and
+52 department of health special revenue federal funds to the office of
+53 children and family services miscellaneous special revenue fund, multi-
+54 agency training contract account (21989).
+55 7. $205,000,000 from the miscellaneous special revenue fund, youth
+56 facility per diem account (22186), to the general fund.
+
+A. 10005--B 18
+1 8. $788,000 from the general fund to the combined gifts, grants, and
+2 bequests fund, WB Hoyt Memorial account (20128).
+3 9. $5,000,000 from the miscellaneous special revenue fund, state
+4 central registry (22028), to the general fund.
+5 10. $900,000 from the general fund to the Veterans' Remembrance and
+6 Cemetery Maintenance and Operation account (20201).
+7 11. $7,000,000 from the general fund to the housing program fund
+8 (31850).
+9 12. $15,000,000 from any of the office of children and family services
+10 special revenue federal funds to the office of court administration
+11 special revenue other federal iv-e funds account.
+12 13. $10,000,000 from any of the office of children and family services
+13 special revenue federal funds to the office of indigent legal services
+14 special revenue other federal iv-e funds account.
+15 General Government:
+16 1. $12,000,000 from the general fund to the health insurance revolving
+17 fund (55300).
+18 2. $292,400,000 from the health insurance reserve receipts fund
+19 (60550) to the general fund.
+20 3. $150,000 from the general fund to the not-for-profit revolving loan
+21 fund (20650).
+22 4. $150,000 from the not-for-profit revolving loan fund (20650) to the
+23 general fund.
+24 5. $3,000,000 from the miscellaneous special revenue fund, surplus
+25 property account (22036), to the general fund.
+26 6. $19,000,000 from the miscellaneous special revenue fund, revenue
+27 arrearage account (22024), to the general fund.
+28 7. $3,828,000 from the miscellaneous special revenue fund, revenue
+29 arrearage account (22024), to the miscellaneous special revenue fund,
+30 authority budget office account (22138).
+31 8. $1,000,000 from the miscellaneous special revenue fund, parking
+32 account (22007), to the general fund, for the purpose of reimbursing the
+33 costs of debt service related to state parking facilities.
+34 9. $11,460,000 from the general fund to the agencies internal service
+35 fund, central technology services account (55069), for the purpose of
+36 enterprise technology projects.
+37 10. $10,000,000 from the general fund to the agencies internal service
+38 fund, state data center account (55062).
+39 11. $12,000,000 from the miscellaneous special revenue fund, parking
+40 account (22007), to the centralized services, building support services
+41 account (55018).
+42 12. $36,000,000 from the general fund to the internal service fund,
+43 business services center account (55022).
+44 13. $9,500,000 from the general fund to the internal service fund,
+45 building support services account (55018).
+46 14. $1,500,000 from the combined expendable trust fund, plaza special
+47 events account (20120), to the general fund.
+48 15. A transfer from the general fund to the miscellaneous special
+49 revenue fund, New York State Campaign Finance Fund Account (22211), up
+50 to an amount equal to total reimbursements due to qualified candidates.
+51 16. $6,000,000 from the miscellaneous special revenue fund, standards
+52 and purchasing account (22019), to the general fund.
+53 17. $12,400,000 from the banking department special revenue fund
+54 (21970) funded by the assessment to defray operating expenses authorized
+55 by section 206 of the financial services law to the IT Modernization
+56 Capital Fund.
+
+A. 10005--B 19
+1 18. $17,000,000 from the miscellaneous special revenue fund, New York
+2 State cannabis revenue fund (24800), to the miscellaneous capital
+3 projects fund, Cannabis IT subfund.
+4 19. $12,400,000 from the insurance department special revenue fund
+5 (21994) funded by the assessment to defray operating expenses authorized
+6 by section 206 of the financial services law to the IT Modernization
+7 Capital Fund.
+8 20. $1,550,000 from the pharmacy benefits bureau special revenue fund
+9 (22255) funded by the assessment to defray operating expenses authorized
+10 by section 206 of the financial services law, to the IT Modernization
+11 Capital Fund.
+12 21. $4,650,000 from the virtual currency special revenue fund (22262)
+13 funded by the assessment to defray operating expenses authorized by
+14 section 206 of the financial services law, to the IT Modernization Capi-
+15 tal Fund.
+16 22. $30,000,000 from the miscellaneous special revenue fund, workers'
+17 compensation account (21995), to the miscellaneous capital projects
+18 fund, workers' compensation board IT business process design fund
+19 (32218).
+20 Health:
+21 1. A transfer from the general fund to the combined gifts, grants and
+22 bequests fund, breast cancer research and education account (20155), up
+23 to an amount equal to the monies collected and deposited into that
+24 account in the previous fiscal year.
+25 2. A transfer from the general fund to the combined gifts, grants and
+26 bequests fund, prostate cancer research, detection, and education
+27 account (20183), up to an amount equal to the moneys collected and
+28 deposited into that account in the previous fiscal year.
+29 3. A transfer from the general fund to the combined gifts, grants and
+30 bequests fund, Alzheimer's disease research and assistance account
+31 (20143), up to an amount equal to the moneys collected and deposited
+32 into that account in the previous fiscal year.
+33 4. $3,600,000 from the miscellaneous special revenue fund, certificate
+34 of need account (21920), to the miscellaneous capital projects fund,
+35 healthcare IT capital subfund (32216).
+36 5. $4,000,000 from the miscellaneous special revenue fund, vital
+37 health records account (22103), to the miscellaneous capital projects
+38 fund, healthcare IT capital subfund (32216).
+39 6. $6,000,000 from the miscellaneous special revenue fund, profes-
+40 sional medical conduct account (22088), to the miscellaneous capital
+41 projects fund, healthcare IT capital subfund (32216).
+42 7. $126,000,000 from the HCRA resources fund (20800) to the capital
+43 projects fund (30000).
+44 7-a. $80,000,000 from the general fund to HCRA resources fund (20800).
+45 8. $6,550,000 from the general fund to the medical cannabis trust
+46 fund, health operation and oversight account (23755).
+47 9. An amount up to the unencumbered balance from the charitable gifts
+48 trust fund, health charitable account (24900), to the general fund, for
+49 payment of general support for primary, preventive, and inpatient health
+50 care, dental and vision care, hunger prevention and nutritional assist-
+51 ance, and other services for New York state residents with the overall
+52 goal of ensuring that New York state residents have access to quality
+53 health care and other related services.
+54 10. $500,000 from the miscellaneous special revenue fund, New York
+55 State cannabis revenue fund (24800), to the miscellaneous special reven-
+56 ue fund, environmental laboratory fee account (21959).
+
+A. 10005--B 20
+1 11. An amount up to the unencumbered balance from the public health
+2 emergency charitable gifts trust fund (23816), to the general fund, for
+3 payment of goods and services necessary to respond to a public health
+4 disaster emergency or to assist or aid in responding to such a disaster.
+5 12. $1,000,000,000 from the general fund to the health care transfor-
+6 mation fund (24850).
+7 13. $2,590,000 from the miscellaneous special revenue fund, patient
+8 safety center account (22139), to the general fund.
+9 14. $1,000,000 from the miscellaneous special revenue fund, nursing
+10 home receivership account (21925), to the general fund.
+11 15. $130,000 from the miscellaneous special revenue fund, quality of
+12 care account (21915), to the general fund.
+13 16. $2,200,000 from the miscellaneous special revenue fund, adult home
+14 quality enhancement account (22091), to the general fund.
+15 17. $8,467,000 from the general fund, to the miscellaneous special
+16 revenue fund, helen hayes hospital account (22140).
+17 18. $1,303,000 from the general fund, to the miscellaneous special
+18 revenue fund, New York city veterans' home account (22141).
+19 19. $606,000 from the general fund, to the miscellaneous special
+20 revenue fund, New York state home for veterans' and their dependents at
+21 oxford account (22142).
+22 20. $334,000 from the general fund, to the miscellaneous special
+23 revenue fund, western New York veterans' home account (22143).
+24 21. $1,636,000 from the general fund, to the miscellaneous special
+25 revenue fund, New York state for veterans in the lower-hudson valley
+26 account (22144).
+27 22. $750,000,000 from the general fund, to the miscellaneous special
+28 revenue fund, healthcare stability fund account (22267).
+29 23. $5,000,000 from the general fund to the occupational health clin-
+30 ics account (22177).
+31 24. $13,000 from the miscellaneous special revenue fund, veterans home
+32 assistance account (20208), to the miscellaneous special revenue fund,
+33 New York city veterans' home account (22141).
+34 25. $13,000 from the miscellaneous special revenue fund, veterans home
+35 assistance account (20208), to the miscellaneous special revenue fund,
+36 New York state home for veterans' and their dependents at oxford account
+37 (22142).
+38 26. $13,000 from the miscellaneous special revenue fund, veterans
+39 assistance account (20208), to the miscellaneous special revenue fund,
+40 western New York veterans' home account (22143).
+41 27. $13,000 from the miscellaneous special revenue fund, veterans
+42 assistance account (20208), to the miscellaneous special revenue fund,
+43 New York state for veterans in the lower-Hudson valley account (22144).
+44 28. $13,000 from the miscellaneous special revenue fund, veterans
+45 assistance account (20208), to the state university income fund, Long
+46 Island Veterans' Home Account (22652).
+47 29. $159,000,000 from the miscellaneous special revenue fund, health-
+48 care stability fund account (22267) to the HCRA resources fund, HCRA
+49 program account (20807).
+50 Labor:
+51 1. $600,000 from the miscellaneous special revenue fund, DOL fee and
+52 penalty account (21923), to the child performer's protection fund, child
+53 performer protection account (20401).
+54 2. $11,700,000 from the unemployment insurance interest and penalty
+55 fund, unemployment insurance special interest and penalty account
+56 (23601), to the general fund.
+
+A. 10005--B 21
+1 3. $50,000,000 from the DOL fee and penalty account (21923), unemploy-
+2 ment insurance special interest and penalty account (23601), and public
+3 work enforcement account (21998), to the general fund.
+4 4. $850,000 from the miscellaneous special revenue fund, DOL elevator
+5 safety program fund (22252) to the miscellaneous special revenue fund,
+6 DOL fee and penalty account (21923).
+7 5. $22,000,000 from the miscellaneous special revenue fund, Interest
+8 and Penalty Account (23601), to the Training and Education Program on
+9 Occupation Safety and Health Fund, OSHA Training and Education Account
+10 (21251).
+11 6. $1,000,000 from the miscellaneous special revenue fund, Public Work
+12 Enforcement account (21998), to the Training and Education Program on
+13 Occupation Safety and Health Fund, OSHA Training and Education Account
+14 (21251).
+15 7. $4,000,000 from the miscellaneous special revenue fund, Public Work
+16 Enforcement account (21998), to the Training and Education Program on
+17 Occupational Safety and Health Fund, OSHA Inspection Account (21252).
+18 Mental Hygiene:
+19 1. $60,000,000 from the general fund, to the mental hygiene facilities
+20 capital improvement fund (32300).
+21 2. $20,000,000 from the opioid settlement fund (23817) to the miscel-
+22 laneous capital projects fund, opioid settlement capital account
+23 (32200).
+24 3. $20,000,000 from the miscellaneous capital projects fund, opioid
+25 settlement capital account (32200) to the opioid settlement fund
+26 (23817).
+27 Public Protection:
+28 1. $2,587,000 from the general fund to the miscellaneous special
+29 revenue fund, recruitment incentive account (22171).
+30 2. $23,773,000 from the general fund to the correctional industries
+31 revolving fund, correctional industries internal service account
+32 (55350).
+33 3. $2,000,000,000 from any of the division of homeland security and
+34 emergency services special revenue federal funds to the general fund.
+35 4. $115,420,000 from the state police motor vehicle law enforcement
+36 and motor vehicle theft and insurance fraud prevention fund, state
+37 police motor vehicle enforcement account (22802), to the general fund
+38 for state operation expenses of the division of state police.
+39 5. $138,272,000 from the general fund to the correctional facilities
+40 capital improvement fund (32350).
+41 6. $5,000,000 from the general fund to the dedicated highway and
+42 bridge trust fund (30050) for the purpose of work zone safety activities
+43 provided by the division of state police for the department of transpor-
+44 tation.
+45 7. $10,000,000 from the miscellaneous special revenue fund, statewide
+46 public safety communications account (22123), to the capital projects
+47 fund (30000).
+48 8. $9,830,000 from the miscellaneous special revenue fund, legal
+49 services assistance account (22096), to the general fund.
+50 9. $1,000,000 from the general fund to the agencies internal service
+51 fund, neighborhood work project account (55059).
+52 10. $7,980,000 from the miscellaneous special revenue fund, finger-
+53 print identification & technology account (21950), to the general fund.
+54 11. $1,100,000 from the state police motor vehicle law enforcement and
+55 motor vehicle theft and insurance fraud prevention fund, motor vehicle
+56 theft and insurance fraud account (22801), to the general fund.
+
+A. 10005--B 22
+1 12. $38,938,000 from the general fund to the miscellaneous special
+2 revenue fund, criminal justice improvement account (21945).
+3 13. $6,000,000 from the general fund to the miscellaneous special
+4 revenue fund, hazard mitigation revolving loan account (22266).
+5 14. $234,000,000 from the indigent legal services fund, indigent legal
+6 services account (23551) to the general fund.
+7 Transportation:
+8 1. $20,000,000 from the general fund to the mass transportation oper-
+9 ating assistance fund, public transportation systems operating assist-
+10 ance account (21401), of which $12,000,000 constitutes the base need for
+11 operations.
+12 2. $727,500,000 from the general fund to the dedicated highway and
+13 bridge trust fund (30050).
+14 3. $243,250,000 from the general fund to the MTA financial assistance
+15 fund, mobility tax trust account (23651).
+16 4. $477,000 from the miscellaneous special revenue fund, traffic adju-
+17 dication account (22055), to the general fund.
+18 5. $5,000,000 from the miscellaneous special revenue fund, transporta-
+19 tion regulation account (22067) to the general fund, for disbursements
+20 made from such fund for motor carrier safety that are in excess of the
+21 amounts deposited in the general fund for such purpose pursuant to
+22 section 94 of the transportation law.
+23 Miscellaneous:
+24 1. $250,000,000 from the general fund to any funds or accounts for the
+25 purpose of reimbursing certain outstanding accounts receivable balances.
+26 2. $500,000,000 from the general fund to the debt reduction reserve
+27 fund (40000).
+28 3. $15,500,000 from the general fund, community projects account GG
+29 (10256), to the general fund, state purposes account (10050).
+30 4. $100,000,000 from any special revenue federal fund to the general
+31 fund, state purposes account (10050).
+32 5. An amount up to the unencumbered balance from the special revenue
+33 federal fund, ARPA-Fiscal Recovery Fund (25546) to the general fund.
+34 6. $1,500,000,000 from the general fund to the hazardous waste remedi-
+35 al fund, hazardous waste cleanup account (31506), State parks infras-
+36 tructure account (30351), environmental protection fund transfer account
+37 (30451), the correctional facilities capital improvement fund (32350),
+38 housing program fund (31850), or the Mental hygiene facilities capital
+39 improvement fund (32300), up to an amount equal to certain outstanding
+40 accounts receivable balances.
+41 § 4. Notwithstanding any law to the contrary, and in accordance with
+42 section 4 of the state finance law, the comptroller is hereby authorized
+43 and directed to transfer, on or before March 31, 2027:
+44 1. Upon request of the commissioner of environmental conservation, up
+45 to $12,745,400 from revenues credited to any of the department of envi-
+46 ronmental conservation special revenue funds, including $4,000,000 from
+47 the environmental protection and oil spill compensation fund (21200),
+48 and $1,834,600 from the conservation fund (21150), to the environmental
+49 conservation special revenue fund, indirect charges account (21060).
+50 2. Upon request of the commissioner of agriculture and markets, up to
+51 $3,000,000 from any special revenue fund or enterprise fund within the
+52 department of agriculture and markets to the general fund, to pay appro-
+53 priate administrative expenses.
+54 3. Upon request of the commissioner of the division of housing and
+55 community renewal, up to $6,221,000 from revenues credited to any divi-
+56 sion of housing and community renewal federal or miscellaneous special
+
+A. 10005--B 23
+1 revenue fund to the miscellaneous special revenue fund, housing indirect
+2 cost recovery account (22090).
+3 4. Upon request of the commissioner of the division of housing and
+4 community renewal, up to $5,500,000 may be transferred from any miscel-
+5 laneous special revenue fund account, to any miscellaneous special
+6 revenue fund.
+7 5. Upon request of the commissioner of health up to $13,694,000 from
+8 revenues credited to any of the department of health's special revenue
+9 funds, to the miscellaneous special revenue fund, administration account
+10 (21982).
+11 6. Upon the request of the attorney general, up to $5,000,000 from
+12 revenues credited to the federal health and human services fund, federal
+13 health and human services account (25117) or the miscellaneous special
+14 revenue fund, recoveries and revenue account (22041), to the miscella-
+15 neous special revenue fund, litigation settlement and civil recovery
+16 account (22117).
+17 § 5. On or before March 31, 2027, the comptroller is hereby authorized
+18 and directed to deposit earnings that would otherwise accrue to the
+19 general fund that are attributable to the operation of section 98-a of
+20 the state finance law, to the agencies internal service fund, banking
+21 services account (55057), for the purpose of meeting direct payments
+22 from such account.
+23 § 6. Notwithstanding any law to the contrary, and in accordance with
+24 section 4 of the state finance law, the comptroller is hereby authorized
+25 and directed to transfer, upon request of the director of the budget and
+26 upon consultation with the state university chancellor or their desig-
+27 nee, on or before March 31, 2027, up to $16,000,000 from the state
+28 university income fund general revenue account (22653) to the state
+29 general fund for debt service costs related to campus supported capital
+30 project costs for the NY-SUNY 2020 challenge grant program at the
+31 University at Buffalo.
+32 § 7. Notwithstanding any law to the contrary, and in accordance with
+33 section 4 of the state finance law, the comptroller is hereby authorized
+34 and directed to transfer, upon request of the director of the budget and
+35 upon consultation with the state university chancellor or their desig-
+36 nee, on or before March 31, 2027, up to $6,500,000 from the state
+37 university income fund general revenue account (22653) to the state
+38 general fund for debt service costs related to campus supported capital
+39 project costs for the NY-SUNY 2020 challenge grant program at the
+40 University at Albany.
+41 § 8. Notwithstanding any law to the contrary, the state university
+42 chancellor or their designee is authorized and directed to transfer
+43 estimated tuition revenue balances from the state university collection
+44 fund (61000) to the state university income fund, state university
+45 general revenue offset account (22655) on or before March 31, 2027.
+46 § 9. Notwithstanding any law to the contrary, and in accordance with
+47 section 4 of the state finance law, the comptroller is hereby authorized
+48 and directed to transfer, upon request of the director of the budget, a
+49 total of up to $100,000,000 from the general fund to the state universi-
+50 ty income fund, state university general revenue offset account (22655)
+51 and/or the state university income fund, state university hospitals
+52 income reimbursable account (22656) during the period July 1, 2026
+53 through June 30, 2027 to pay costs attributable to the state university
+54 health science center at Brooklyn and/or the state university of New
+55 York hospital at Brooklyn, respectively, pursuant to a plan approved by
+56 the director of the budget.
+
+A. 10005--B 24
+1 § 10. Notwithstanding any law to the contrary, and in accordance with
+2 section 4 of the state finance law, the comptroller is hereby authorized
+3 and directed to transfer, upon request of the director of the budget, up
+4 to $1,650,563,500 from the general fund to the state university income
+5 fund, state university general revenue offset account (22655) during the
+6 period of July 1, 2026 through June 30, 2027 to support operations at
+7 the state university.
+8 § 11. Notwithstanding any law to the contrary, and in accordance with
+9 section 4 of the state finance law, the comptroller is hereby authorized
+10 and directed to transfer, upon request of the director of the budget, up
+11 to $25,000,000 from the general fund to the state university income
+12 fund, state university general revenue offset account (22655) during the
+13 period of April 1, 2026 through June 30, 2026 to support operations at
+14 the state university.
+15 § 12. Notwithstanding any law to the contrary, and in accordance with
+16 section 4 of the state finance law, the comptroller is hereby authorized
+17 and directed to transfer, upon request of the director of the budget, up
+18 to $51,120,000 from the general fund to the state university income
+19 fund, state university general revenue offset account (22655) during the
+20 period of July 1, 2026 to June 30, 2027 for general fund operating
+21 support pursuant to subparagraph (4-b) of paragraph h of subdivision 2
+22 of section three hundred fifty-five of the education law.
+23 § 13. Notwithstanding any law to the contrary, and in accordance with
+24 section 4 of the state finance law, the comptroller is hereby authorized
+25 and directed to transfer, upon request of the state university chancel-
+26 lor or their designee, up to $55,000,000 from the state university
+27 income fund, state university hospitals income reimbursable account
+28 (22656), for services and expenses of hospital operations and capital
+29 expenditures at the state university hospitals; and the state university
+30 income fund, Long Island veterans' home account (22652) to the state
+31 university capital projects fund (32400) on or before June 30, 2027.
+32 § 14. Notwithstanding any law to the contrary, and in accordance with
+33 section 4 of the state finance law, the comptroller, after consultation
+34 with the state university chancellor or their designee, is hereby
+35 authorized and directed to transfer moneys, in the first instance, from
+36 the state university collection fund, Stony Brook hospital collection
+37 account (61006), Brooklyn hospital collection account (61007), and Syra-
+38 cuse hospital collection account (61008) to the state university income
+39 fund, state university hospitals income reimbursable account (22656) in
+40 the event insufficient funds are available in the state university
+41 income fund, state university hospitals income reimbursable account
+42 (22656) to permit the full transfer of moneys authorized for transfer,
+43 to the general fund for payment of debt service related to the SUNY
+44 hospitals. Notwithstanding any law to the contrary, the comptroller is
+45 also hereby authorized and directed, after consultation with the state
+46 university chancellor or their designee, to transfer moneys from the
+47 state university income fund to the state university income fund, state
+48 university hospitals income reimbursable account (22656) in the event
+49 insufficient funds are available in the state university income fund,
+50 state university hospitals income reimbursable account (22656) to pay
+51 hospital operating costs or to permit the full transfer of moneys
+52 authorized for transfer, to the general fund for payment of debt service
+53 related to the SUNY hospitals on or before March 31, 2027.
+54 § 15. Notwithstanding any law to the contrary, upon the direction of
+55 the director of the budget and the chancellor of the state university of
+56 New York or their designee, and in accordance with section 4 of the
+
+A. 10005--B 25
+1 state finance law, the comptroller is hereby authorized and directed to
+2 transfer monies from the state university dormitory income fund (40350)
+3 to the state university residence hall rehabilitation fund (30100), and
+4 from the state university residence hall rehabilitation fund (30100) to
+5 the state university dormitory income fund (40350), in an amount not to
+6 exceed $125 million from each fund.
+7 § 16. Notwithstanding any law to the contrary, and in accordance with
+8 section 4 of the state finance law, the comptroller is hereby authorized
+9 and directed to transfer, at the request of the director of the budget,
+10 up to $700,000,000 from the unencumbered balance of any special revenue
+11 fund or account, agency fund or account, internal service fund or
+12 account, enterprise fund or account, or any combination of such funds
+13 and accounts, to the general fund. The amounts transferred pursuant to
+14 this authorization shall be in addition to any other transfers expressly
+15 authorized in the 2026-27 budget. Transfers from federal funds, debt
+16 service funds, capital projects funds, the community projects fund, or
+17 funds that would result in the loss of eligibility for federal benefits
+18 or federal funds pursuant to federal law, rule, or regulation as assent-
+19 ed to in chapter 683 of the laws of 1938 and chapter 700 of the laws of
+20 1951 are not permitted pursuant to this authorization.
+21 § 17. Notwithstanding any law to the contrary, and in accordance with
+22 section 4 of the state finance law, the comptroller is hereby authorized
+23 and directed to transfer, at the request of the director of the budget,
+24 up to $100 million from any non-general fund or account, or combination
+25 of funds and accounts, to the miscellaneous special revenue fund, tech-
+26 nology financing account (22207), the miscellaneous capital projects
+27 fund, the federal capital projects account (31350), information technol-
+28 ogy capital financing account (32215), or the centralized technology
+29 services account (55069), for the purpose of consolidating technology
+30 procurement and services. The amounts transferred to the miscellaneous
+31 special revenue fund, technology financing account (22207) pursuant to
+32 this authorization shall be equal to or less than the amount of such
+33 monies intended to support information technology costs which are
+34 attributable, according to a plan, to such account made in pursuance to
+35 an appropriation by law. Transfers to the technology financing account
+36 shall be completed from amounts collected by non-general funds or
+37 accounts pursuant to a fund deposit schedule or permanent statute, and
+38 shall be transferred to the technology financing account pursuant to a
+39 schedule agreed upon by the affected agency commissioner. Transfers from
+40 funds that would result in the loss of eligibility for federal benefits
+41 or federal funds pursuant to federal law, rule, or regulation as assent-
+42 ed to in chapter 683 of the laws of 1938 and chapter 700 of the laws of
+43 1951 are not permitted pursuant to this authorization.
+44 § 18. Notwithstanding any law to the contrary, and in accordance with
+45 section 4 of the state finance law, the comptroller is hereby authorized
+46 and directed to transfer, at the request of the director of the budget,
+47 up to $400 million from any non-general fund or account, or combination
+48 of funds and accounts, to the general fund for the purpose of consol-
+49 idating technology procurement and services. The amounts transferred
+50 pursuant to this authorization shall be equal to or less than the amount
+51 of such monies intended to support information technology costs which
+52 are attributable, according to a plan, to such account made in pursuance
+53 to an appropriation by law. Transfers to the general fund shall be
+54 completed from amounts collected by non-general funds or accounts pursu-
+55 ant to a fund deposit schedule. Transfers from funds that would result
+56 in the loss of eligibility for federal benefits or federal funds pursu-
+
+A. 10005--B 26
+1 ant to federal law, rule, or regulation as assented to in chapter 683 of
+2 the laws of 1938 and chapter 700 of the laws of 1951 are not permitted
+3 pursuant to this authorization.
+4 § 19. Notwithstanding any provision of law to the contrary, as deemed
+5 feasible and advisable by its trustees, the power authority of the state
+6 of New York is authorized and directed to transfer to the state treasury
+7 to the credit of the general fund up to $10,000,000 for the state fiscal
+8 year commencing April 1, 2026, the proceeds of which will be utilized to
+9 support energy-related state activities.
+10 § 20. Notwithstanding any provision of law to the contrary, as deemed
+11 feasible and advisable by its trustees, the power authority of the state
+12 of New York is authorized to transfer to the state treasury to the cred-
+13 it of the general fund up to $25,000,000 for the state fiscal year
+14 commencing April 1, 2026, the proceeds of which will be utilized to
+15 support programs established or implemented by or within the department
+16 of labor, including but not limited to the office of just energy transi-
+17 tion and programs for workforce training and retraining, to prepare
+18 workers for employment for work in the renewable energy field.
+19 § 21. Notwithstanding any provision of law, rule or regulation to the
+20 contrary, the New York state energy research and development authority
+21 is authorized and directed to contribute $913,000 to the state treasury
+22 to the credit of the general fund on or before March 31, 2027.
+23 § 22. Notwithstanding any provision of law, rule or regulation to the
+24 contrary, the New York state energy research and development authority
+25 is authorized and directed to transfer five million dollars to the cred-
+26 it of the Environmental Protection Fund on or before March 31, 2027 from
+27 proceeds collected by the authority from the auction or sale of carbon
+28 dioxide emission allowances allocated by the department of environmental
+29 conservation.
+30 § 23. Subdivision 5 of section 97-rrr of the state finance law, as
+31 amended by section 23 of part MM of chapter 56 of the laws of 2025, is
+32 amended to read as follows:
+33 5. Notwithstanding the provisions of section one hundred seventy-one-a
+34 of the tax law, as separately amended by chapters four hundred eighty-
+35 one and four hundred eighty-four of the laws of nineteen hundred eight-
+36 y-one, and notwithstanding the provisions of chapter ninety-four of the
+37 laws of two thousand eleven, or any other provisions of law to the
+38 contrary, during the fiscal year beginning April first, two thousand
+39 [twenty-five] twenty-six, the state comptroller is hereby authorized and
+40 directed to deposit to the fund created pursuant to this section from
+41 amounts collected pursuant to article twenty-two of the tax law and
+42 pursuant to a schedule submitted by the director of the budget, up to
+43 [$1,396,911,000] $1,294,911,000 as may be certified in such schedule as
+44 necessary to meet the purposes of such fund for the fiscal year begin-
+45 ning April first, two thousand [twenty-five] twenty-six.
+46 § 24. Notwithstanding any law to the contrary, the comptroller is
+47 hereby authorized and directed to transfer, upon request of the director
+48 of the budget, on or before March 31, 2027, the following amounts from
+49 the following special revenue accounts to the capital projects fund
+50 (30000), for the purposes of reimbursement to such fund for expenses
+51 related to the maintenance and preservation of state assets:
+52 1. $43,000 from the miscellaneous special revenue fund, administrative
+53 program account (21982).
+54 2. $1,690,000 from the miscellaneous special revenue fund, helen hayes
+55 hospital account (22140).
+
+A. 10005--B 27
+1 3. $219,000 from the miscellaneous special revenue fund, New York city
+2 veterans' home account (22141).
+3 4. $840,000 from the miscellaneous special revenue fund, New York
+4 state home for veterans' and their dependents at oxford account (22142).
+5 5. $176,000 from the miscellaneous special revenue fund, western New
+6 York veterans' home account (22143).
+7 6. $492,000 from the miscellaneous special revenue fund, New York
+8 state for veterans in the lower-hudson valley account (22144).
+9 7. $2,550,000 from the miscellaneous special revenue fund, patron
+10 services account (22163).
+11 8. $5,000,000 from the miscellaneous special revenue fund, state
+12 university general income reimbursable account (22653).
+13 9. $110,000,000 from the miscellaneous special revenue fund, state
+14 university revenue offset account (22655).
+15 10. $35,000,000 from the state university dormitory income fund, state
+16 university dormitory income fund (40350).
+17 11. $1,000,000 from the miscellaneous special revenue fund, litigation
+18 settlement and civil recovery account (22117).
+19 § 24-a. Notwithstanding any law to the contrary, to maintain health
+20 care access for essential plan enrollees in the event that the federal
+21 government does not approve the termination of the 1332 State Innovation
+22 Waiver and reactivation of the 1331 Basic Health Plan ("waiver
+23 submission") for the state of New York by July 1, 2026, the comptroller
+24 is hereby authorized and directed to transfer, at the request of the
+25 director of the budget, up to $2,400,000,000 from the reserve for
+26 economic uncertainties, to the essential plan contingency fund.
+27 § 25. Notwithstanding any law to the contrary, the comptroller is
+28 hereby authorized and directed to transfer, upon request of the director
+29 of the budget, on or before March 31, 2027 the following amounts from
+30 the following special revenue accounts or enterprise funds to the gener-
+31 al fund, for the purposes of offsetting principal and interest costs,
+32 incurred by the state pursuant to section 53 of part PP of chapter 56 of
+33 the laws of 2023, provided that the annual amount of the transfer shall
+34 be no more than the principal and interest that would have otherwise
+35 been due to the power authority of the state of New York, from any state
+36 agency, in a given state fiscal year. Amounts pertaining to special
+37 revenue accounts assigned to the state university of New York shall be
+38 considered interchangeable between the designated special revenue
+39 accounts as to meet the requirements of this section and section 52 of
+40 part RR of chapter 56 of the laws of 2023:
+41 1. $15,000,000 from the miscellaneous special revenue fund, state
+42 university general income reimbursable account (22653).
+43 2. $5,000,000 from state university dormitory income fund, state
+44 university dormitory income fund (40350).
+45 3. $5,000,000 from the enterprise fund, city university senior college
+46 operating fund (60851).
+47 § 26. Paragraph (a) of subdivision 2 of section 47-e of the private
+48 housing finance law, as amended by section 32 of part MM of chapter 56
+49 of the laws of 2025, is amended to read as follows:
+50 (a) Subject to the provisions of chapter fifty-nine of the laws of two
+51 thousand, in order to enhance and encourage the promotion of housing
+52 programs and thereby achieve the stated purposes and objectives of such
+53 housing programs, the agency shall have the power and is hereby author-
+54 ized from time to time to issue negotiable housing program bonds and
+55 notes in such principal amount as shall be necessary to provide suffi-
+56 cient funds for the repayment of amounts disbursed (and not previously
+
+A. 10005--B 28
+1 reimbursed) pursuant to law or any prior year making capital appropri-
+2 ations or reappropriations for the purposes of the housing program;
+3 provided, however, that the agency may issue such bonds and notes in an
+4 aggregate principal amount not exceeding [sixteen billion seven hundred
+5 seventy-seven million nine hundred sixty-four thousand dollars
+6 $16,777,964,000] nineteen billion eight hundred seven million seven
+7 hundred sixty-four thousand dollars $19,807,764,000, excluding bonds
+8 issued after April first, two thousand twenty-five to (i) fund one or
+9 more debt service reserve funds, (ii) pay costs of issuance of such
+10 bonds, and (iii) refund or otherwise repay such bonds or notes previous-
+11 ly issued, provided that nothing herein shall affect the exclusion of
+12 refunding debt issued prior to such date. No reserve fund securing the
+13 housing program bonds shall be entitled or eligible to receive state
+14 funds apportioned or appropriated to maintain or restore such reserve
+15 fund at or to a particular level, except to the extent of any deficiency
+16 resulting directly or indirectly from a failure of the state to appro-
+17 priate or pay the agreed amount under any of the contracts provided for
+18 in subdivision four of this section.
+19 § 27. Subdivision 1 of section 16 of part D of chapter 389 of the laws
+20 of 1997, relating to the financing of the correctional facilities
+21 improvement fund and the youth facility improvement fund, as amended by
+22 section 53 of part MM of chapter 56 of the laws of 2025, is amended to
+23 read as follows:
+24 1. Subject to the provisions of chapter 59 of the laws of 2000, but
+25 notwithstanding the provisions of section 18 of section 1 of chapter 174
+26 of the laws of 1968, the New York state urban development corporation is
+27 hereby authorized to issue bonds, notes and other obligations in an
+28 aggregate principal amount not to exceed [eleven billion one hundred
+29 seventeen million three hundred fifty-nine thousand dollars
+30 $11,117,359,000] eleven billion five hundred thirty-six million five
+31 hundred fifty-nine thousand dollars $11,536,559,000, excluding bonds
+32 issued after April first, two thousand twenty-five to (i) fund one or
+33 more debt service reserve funds, (ii) pay costs of issuance of such
+34 bonds, and (iii) refund or otherwise repay such bonds or notes previous-
+35 ly issued, provided that nothing herein shall affect the exclusion of
+36 refunding debt issued prior to such date.
+37 § 28. Paragraph (c) of subdivision 14 of section 1680 of the public
+38 authorities law, as amended by section 34 of part MM of chapter 56 of
+39 the laws of 2025, is amended to read as follows:
+40 (c) Subject to the provisions of chapter fifty-nine of the laws of two
+41 thousand, (i) the dormitory authority shall not deliver a series of
+42 bonds for city university community college facilities, except to refund
+43 or to be substituted for or in lieu of other bonds in relation to city
+44 university community college facilities pursuant to a resolution of the
+45 dormitory authority adopted before July first, nineteen hundred eighty-
+46 five or any resolution supplemental thereto, if the principal amount of
+47 bonds so to be issued when added to all principal amounts of bonds
+48 previously issued by the dormitory authority for city university commu-
+49 nity college facilities, except to refund or to be substituted in lieu
+50 of other bonds in relation to city university community college facili-
+51 ties will exceed the sum of four hundred twenty-five million dollars and
+52 (ii) the dormitory authority shall not deliver a series of bonds issued
+53 for city university facilities, including community college facilities,
+54 pursuant to a resolution of the dormitory authority adopted on or after
+55 July first, nineteen hundred eighty-five, except to refund or to be
+56 substituted for or in lieu of other bonds in relation to city university
+
+A. 10005--B 29
+1 facilities and except for bonds issued pursuant to a resolution supple-
+2 mental to a resolution of the dormitory authority adopted prior to July
+3 first, nineteen hundred eighty-five, if the principal amount of bonds so
+4 to be issued when added to the principal amount of bonds previously
+5 issued pursuant to any such resolution, except bonds issued to refund or
+6 to be substituted for or in lieu of other bonds in relation to city
+7 university facilities, will exceed [twelve billion three hundred million
+8 three hundred sixty-eight thousand dollars $12,300,368,000] twenty
+9 billion four hundred seventy-one million nine hundred four thousand
+10 dollars $20,471,904,000, excluding bonds issued after April first, two
+11 thousand twenty-five to (i) fund one or more debt service reserve funds,
+12 (ii) pay costs of issuance of such bonds, and (iii) refund or otherwise
+13 repay such bonds or notes previously issued, provided that nothing here-
+14 in shall affect the exclusion of refunding debt issued prior to such
+15 date. The legislature reserves the right to amend or repeal such limit,
+16 and the state of New York, the dormitory authority, the city university,
+17 and the fund are prohibited from covenanting or making any other agree-
+18 ments with or for the benefit of bondholders which might in any way
+19 affect such right.
+20 § 29. Subdivision 1 of section 1689-i of the public authorities law,
+21 as amended by section 35 of part MM of chapter 56 of the laws of 2025,
+22 is amended to read as follows:
+23 1. The dormitory authority is authorized to issue bonds, at the
+24 request of the commissioner of education, to finance eligible library
+25 construction projects pursuant to section two hundred seventy-three-a of
+26 the education law, in amounts certified by such commissioner not to
+27 exceed a total principal amount of [four hundred fifty-five million
+28 dollars $455,000,000] five hundred twenty-five million dollars
+29 $525,000,000.
+30 § 30. Paragraph (c) of subdivision 19 of section 1680 of the public
+31 authorities law, as amended by section 36 of part MM of chapter 56 of
+32 the laws of 2025, is amended to read as follows:
+33 (c) Subject to the provisions of chapter fifty-nine of the laws of two
+34 thousand, the dormitory authority shall not issue any bonds for state
+35 university educational facilities purposes if the principal amount of
+36 bonds to be issued when added to the aggregate principal amount of bonds
+37 issued by the dormitory authority on and after July first, nineteen
+38 hundred eighty-eight for state university educational facilities will
+39 exceed [twenty billion nine hundred forty-eight million one hundred
+40 sixty-four thousand dollars $20,948,164,000] thirty-one billion six
+41 hundred ninety-three million one hundred sixty-four thousand dollars
+42 $31,693,164,000, excluding bonds issued after April first, two thousand
+43 twenty-five to (i) fund one or more debt service reserve funds, (ii) pay
+44 costs of issuance of such bonds, and (iii) refund or otherwise repay
+45 such bonds or notes previously issued, provided that nothing herein
+46 shall affect the exclusion of refunding debt issued prior to such date.
+47 The legislature reserves the right to amend or repeal such limit, and
+48 the state of New York, the dormitory authority, the state university of
+49 New York, and the state university construction fund are prohibited from
+50 covenanting or making any other agreements with or for the benefit of
+51 bondholders which might in any way affect such right.
+52 § 31. Subdivision 10-a of section 1680 of the public authorities law,
+53 as amended by section 37 of part MM of chapter 56 of the laws of 2025,
+54 is amended to read as follows:
+55 10-a. Subject to the provisions of chapter fifty-nine of the laws of
+56 two thousand, but notwithstanding any other provision of the law to the
+
+A. 10005--B 30
+1 contrary, the maximum amount of bonds and notes to be issued after March
+2 thirty-first, two thousand two, on behalf of the state, in relation to
+3 any locally sponsored community college, shall be [one billion four
+4 hundred ninety-five million seven hundred seventy-four thousand dollars
+5 $1,495,774,000] one billion six hundred twenty-three million eight
+6 hundred eighty-four thousand dollars $1,623,884,000. Such amount shall
+7 be exclusive of bonds and notes issued to fund any reserve fund or
+8 funds, costs of issuance and to refund any outstanding bonds and notes,
+9 issued on behalf of the state, relating to a locally sponsored community
+10 college.
+11 § 32. Paragraph b of subdivision 2 of section 9-a of section 1 of
+12 chapter 392 of the laws of 1973, constituting the New York state medical
+13 care facilities finance agency act, as amended by section 38 of part MM
+14 of chapter 56 of the laws of 2025, is amended to read as follows:
+15 b. The agency shall have power and is hereby authorized from time to
+16 time to issue negotiable bonds and notes in conformity with applicable
+17 provisions of the uniform commercial code in such principal amount as,
+18 in the opinion of the agency, shall be necessary, after taking into
+19 account other moneys which may be available for the purpose, to provide
+20 sufficient funds to the facilities development corporation, or any
+21 successor agency, for the financing or refinancing of or for the design,
+22 construction, acquisition, reconstruction, rehabilitation or improvement
+23 of mental health services facilities pursuant to paragraph a of this
+24 subdivision, the payment of interest on mental health services improve-
+25 ment bonds and mental health services improvement notes issued for such
+26 purposes, the establishment of reserves to secure such bonds and notes,
+27 the cost or premium of bond insurance or the costs of any financial
+28 mechanisms which may be used to reduce the debt service that would be
+29 payable by the agency on its mental health services facilities improve-
+30 ment bonds and notes and all other expenditures of the agency incident
+31 to and necessary or convenient to providing the facilities development
+32 corporation, or any successor agency, with funds for the financing or
+33 refinancing of or for any such design, construction, acquisition, recon-
+34 struction, rehabilitation or improvement and for the refunding of mental
+35 hygiene improvement bonds issued pursuant to section 47-b of the private
+36 housing finance law; provided, however, that the agency shall not issue
+37 mental health services facilities improvement bonds and mental health
+38 services facilities improvement notes in an aggregate principal amount
+39 exceeding [thirteen billion six hundred thirty-nine million five hundred
+40 fifty-four thousand dollars $13,639,554,000] fourteen billion two
+41 hundred ninety-nine million four hundred fifty-two thousand dollars
+42 $14,299,452,000, excluding bonds issued after April first, two thousand
+43 twenty-five to (i) fund one or more debt service reserve funds, (ii) pay
+44 costs of issuance of such bonds, and (iii) refund or otherwise repay
+45 such bonds or notes previously issued, provided that nothing herein
+46 shall affect the exclusion of refunding debt issued prior to such date.
+47 The director of the budget shall allocate the aggregate principal
+48 authorized to be issued by the agency among the office of mental health,
+49 office for people with developmental disabilities, and the office of
+50 addiction services and supports, in consultation with their respective
+51 commissioners to finance bondable appropriations previously approved by
+52 the legislature.
+53 § 33. Subdivision (a) of section 48 of part K of chapter 81 of the
+54 laws of 2002, relating to providing for the administration of certain
+55 funds and accounts related to the 2002-2003 budget, as amended by
+
+A. 10005--B 31
+1 section 39 of part MM of chapter 56 of the laws of 2025, is amended to
+2 read as follows:
+3 (a) Subject to the provisions of chapter 59 of the laws of 2000 but
+4 notwithstanding the provisions of section 18 of the urban development
+5 corporation act, the corporation is hereby authorized to issue bonds or
+6 notes in one or more series in an aggregate principal amount not to
+7 exceed [five hundred fifty million five hundred thousand dollars
+8 $550,500,000] seven hundred eight million one hundred thousand dollars
+9 $708,100,000, excluding bonds issued to fund one or more debt service
+10 reserve funds, to pay costs of issuance of such bonds, and bonds or
+11 notes issued to refund or otherwise repay such bonds or notes previously
+12 issued, for the purpose of financing capital costs related to homeland
+13 security and training facilities for the division of state police, the
+14 division of military and naval affairs, and any other state agency,
+15 including the reimbursement of any disbursements made from the state
+16 capital projects fund, and is hereby authorized to issue bonds or notes
+17 in one or more series in an aggregate principal amount not to exceed
+18 [two billion one hundred sixty-eight million three hundred thirty-one
+19 thousand dollars $2,168,331,000] two billion five hundred twenty million
+20 eight hundred six thousand dollars $2,520,806,000, excluding bonds
+21 issued to fund one or more debt service reserve funds, to pay costs of
+22 issuance of such bonds, and bonds or notes issued to refund or otherwise
+23 repay such bonds or notes previously issued, for the purpose of financ-
+24 ing improvements to State office buildings and other facilities located
+25 statewide, including the reimbursement of any disbursements made from
+26 the state capital projects fund. Such bonds and notes of the corporation
+27 shall not be a debt of the state, and the state shall not be liable
+28 thereon, nor shall they be payable out of any funds other than those
+29 appropriated by the state to the corporation for debt service and
+30 related expenses pursuant to any service contracts executed pursuant to
+31 subdivision (b) of this section, and such bonds and notes shall contain
+32 on the face thereof a statement to such effect.
+33 § 34. Subdivision 1 of section 47 of section 1 of chapter 174 of the
+34 laws of 1968, constituting the New York state urban development corpo-
+35 ration act, as amended by section 40 of part MM of chapter 56 of the
+36 laws of 2025, is amended to read as follows:
+37 1. Notwithstanding the provisions of any other law to the contrary,
+38 the dormitory authority and the corporation are hereby authorized to
+39 issue bonds or notes in one or more series for the purpose of funding
+40 project costs for the office of information technology services, depart-
+41 ment of law, and other state costs associated with such capital
+42 projects. The aggregate principal amount of bonds authorized to be
+43 issued pursuant to this section shall not exceed [one billion eight
+44 hundred seventy-three million four hundred twelve thousand dollars
+45 $1,873,412,000] two billion four million one hundred twelve thousand
+46 dollars $2,004,112,000, excluding bonds issued to fund one or more debt
+47 service reserve funds, to pay costs of issuance of such bonds, and bonds
+48 or notes issued to refund or otherwise repay such bonds or notes previ-
+49 ously issued. Such bonds and notes of the dormitory authority and the
+50 corporation shall not be a debt of the state, and the state shall not be
+51 liable thereon, nor shall they be payable out of any funds other than
+52 those appropriated by the state to the dormitory authority and the
+53 corporation for principal, interest, and related expenses pursuant to a
+54 service contract and such bonds and notes shall contain on the face
+55 thereof a statement to such effect. Except for purposes of complying
+
+A. 10005--B 32
+1 with the internal revenue code, any interest income earned on bond
+2 proceeds shall only be used to pay debt service on such bonds.
+3 § 35. Subdivision (b) of section 11 of chapter 329 of the laws of
+4 1991, amending the state finance law and other laws relating to the
+5 establishment of the dedicated highway and bridge trust fund, as amended
+6 by section 41 of part MM of chapter 56 of the laws of 2025, is amended
+7 to read as follows:
+8 (b) Any service contract or contracts for projects authorized pursuant
+9 to sections 10-c, 10-f, 10-g and 80-b of the highway law and section
+10 14-k of the transportation law, and entered into pursuant to subdivision
+11 (a) of this section, shall provide for state commitments to provide
+12 annually to the thruway authority a sum or sums, upon such terms and
+13 conditions as shall be deemed appropriate by the director of the budget,
+14 to fund, or fund the debt service requirements of any bonds or any obli-
+15 gations of the thruway authority issued to fund or to reimburse the
+16 state for funding such projects having a cost not in excess of [fifteen
+17 billion eight hundred twenty-two million three hundred eighty-four thou-
+18 sand dollars $15,822,384,000] sixteen billion nine hundred million one
+19 hundred eighty-one thousand dollars $16,900,181,000. Such limit shall
+20 exclude bonds issued after April first, two thousand twenty-five to (i)
+21 fund one or more debt service reserve funds, (ii) pay costs of issuance
+22 of such bonds, and (iii) refund or otherwise repay such bonds or notes
+23 previously issued, provided that nothing herein shall affect the exclu-
+24 sion of refunding debt issued prior to such date. For purposes of this
+25 subdivision, such projects shall be deemed to include capital grants to
+26 cities, towns and villages for the reimbursement of eligible capital
+27 costs of local highway and bridge projects within such municipality,
+28 where allocations to cities, towns and villages are based on the total
+29 number of New York or United States or interstate signed touring route
+30 miles for which such municipality has capital maintenance responsibil-
+31 ity, and where such eligible capital costs include the costs of
+32 construction and repair of highways, bridges, highway-railroad cross-
+33 ings, and other transportation facilities for projects with a service
+34 life of ten years or more.
+35 § 36. Subdivision 1 of section 53 of section 1 of chapter 174 of the
+36 laws of 1968, constituting the New York state urban development corpo-
+37 ration act, as amended by section 42 of part MM of chapter 56 of the
+38 laws of 2025, is amended to read as follows:
+39 1. Notwithstanding the provisions of any other law to the contrary,
+40 the dormitory authority and the urban development corporation are hereby
+41 authorized to issue bonds or notes in one or more series for the purpose
+42 of funding project costs for the acquisition of equipment, including but
+43 not limited to the creation or modernization of information technology
+44 systems and related research and development equipment, health and safe-
+45 ty equipment, heavy equipment and machinery, the creation or improvement
+46 of security systems, and laboratory equipment and other state costs
+47 associated with such capital projects. The aggregate principal amount
+48 of bonds authorized to be issued pursuant to this section shall not
+49 exceed [six hundred ninety-three million dollars $693,000,000] eight
+50 hundred twenty-three million dollars $823,000,000, excluding bonds
+51 issued to fund one or more debt service reserve funds, to pay costs of
+52 issuance of such bonds, and bonds or notes issued to refund or otherwise
+53 repay such bonds or notes previously issued. Such bonds and notes of the
+54 dormitory authority and the urban development corporation shall not be a
+55 debt of the state, and the state shall not be liable thereon, nor shall
+56 they be payable out of any funds other than those appropriated by the
+
+A. 10005--B 33
+1 state to the dormitory authority and the urban development corporation
+2 for principal, interest, and related expenses pursuant to a service
+3 contract and such bonds and notes shall contain on the face thereof a
+4 statement to such effect. Except for purposes of complying with the
+5 internal revenue code, any interest income earned on bond proceeds shall
+6 only be used to pay debt service on such bonds.
+7 § 37. Subdivision 3 of section 1285-p of the public authorities law,
+8 as amended by section 43 of part MM of chapter 56 of the laws of 2025,
+9 is amended to read as follows:
+10 3. The maximum amount of bonds that may be issued for the purpose of
+11 financing environmental infrastructure projects authorized by this
+12 section shall be [fourteen billion four hundred eighty million eight
+13 hundred sixty thousand dollars $14,480,860,000] seventeen billion eight
+14 hundred thirty million six hundred sixty thousand dollars
+15 $17,830,660,000, exclusive of bonds issued to fund any debt service
+16 reserve funds, pay costs of issuance of such bonds, and bonds or notes
+17 issued to refund or otherwise repay bonds or notes previously issued.
+18 Such bonds and notes of the corporation shall not be a debt of the
+19 state, and the state shall not be liable thereon, nor shall they be
+20 payable out of any funds other than those appropriated by the state to
+21 the corporation for debt service and related expenses pursuant to any
+22 service contracts executed pursuant to subdivision one of this section,
+23 and such bonds and notes shall contain on the face thereof a statement
+24 to such effect.
+25 § 38. Subdivision 1 of section 17 of part D of chapter 389 of the laws
+26 of 1997, relating to the financing of the correctional facilities
+27 improvement fund and the youth facility improvement fund, as amended by
+28 section 44 of part MM of chapter 56 of the laws of 2025, is amended to
+29 read as follows:
+30 1. Subject to the provisions of chapter 59 of the laws of 2000, but
+31 notwithstanding the provisions of section 18 of section 1 of chapter 174
+32 of the laws of 1968, the New York state urban development corporation is
+33 hereby authorized to issue bonds, notes and other obligations in an
+34 aggregate principal amount not to exceed [one billion two hundred seven-
+35 teen million seven hundred fifty-five thousand dollars $1,217,755,000]
+36 one billion two hundred seventy million five hundred eighty thousand
+37 dollars $1,270,580,000, excluding bonds issued after April first, two
+38 thousand twenty-five to (a) fund one or more debt service reserve funds,
+39 (b) to pay costs of issuance of such bonds, and (c) refund or otherwise
+40 repay such bonds or notes previously issued, provided that nothing here-
+41 in shall affect the exclusion of refunding debt issued prior to such
+42 date. Which authorization increases the aggregate principal amount of
+43 bonds, notes and other obligations authorized by section 40 of chapter
+44 309 of the laws of 1996, and shall include all bonds, notes and other
+45 obligations issued pursuant to chapter 211 of the laws of 1990, as
+46 amended or supplemented. The proceeds of such bonds, notes or other
+47 obligations shall be paid to the state, for deposit in the youth facili-
+48 ties improvement fund or the capital projects fund, to pay for all or
+49 any portion of the amount or amounts paid by the state from appropri-
+50 ations or reappropriations made to the office of children and family
+51 services from the youth facilities improvement fund or the capital
+52 projects fund for capital projects.
+53 § 39. Subdivision 1 of section 386-b of the public authorities law, as
+54 amended by section 45 of part MM of chapter 56 of the laws of 2025, is
+55 amended to read as follows:
+
+A. 10005--B 34
+1 1. Notwithstanding any other provision of law to the contrary, the
+2 authority, the dormitory authority and the urban development corporation
+3 are hereby authorized to issue bonds or notes in one or more series for
+4 the purpose of financing peace bridge projects and capital costs of
+5 state and local highways, parkways, bridges, the New York state thruway,
+6 Indian reservation roads, and facilities, and transportation infrastruc-
+7 ture projects including aviation projects, non-MTA mass transit
+8 projects, and rail service preservation projects, including work appur-
+9 tenant and ancillary thereto. The aggregate principal amount of bonds
+10 authorized to be issued pursuant to this section shall not exceed
+11 [seventeen billion thirty million twenty-seven thousand dollars
+12 $17,030,027,000] eighteen billion seven hundred six million three
+13 hundred eighty-five thousand dollars $18,706,385,000, excluding bonds
+14 issued to fund one or more debt service reserve funds, to pay costs of
+15 issuance of such bonds, and to refund or otherwise repay such bonds or
+16 notes previously issued. Such bonds and notes of the authority, the
+17 dormitory authority and the urban development corporation shall not be a
+18 debt of the state, and the state shall not be liable thereon, nor shall
+19 they be payable out of any funds other than those appropriated by the
+20 state to the authority, the dormitory authority and the urban develop-
+21 ment corporation for principal, interest, and related expenses pursuant
+22 to a service contract and such bonds and notes shall contain on the face
+23 thereof a statement to such effect. Except for purposes of complying
+24 with the internal revenue code, any interest income earned on bond
+25 proceeds shall only be used to pay debt service on such bonds.
+26 § 40. Subdivision 1 of section 44 of section 1 of chapter 174 of the
+27 laws of 1968, constituting the New York state urban development corpo-
+28 ration act, as amended by section 46 of part MM of chapter 56 of the
+29 laws of 2025, is amended to read as follows:
+30 1. Notwithstanding the provisions of any other law to the contrary,
+31 the dormitory authority and the corporation are hereby authorized to
+32 issue bonds or notes in one or more series for the purpose of funding
+33 project costs for the regional economic development council initiative,
+34 the economic transformation program, state university of New York
+35 college for nanoscale and science engineering, projects within the city
+36 of Buffalo or surrounding environs, the New York works economic develop-
+37 ment fund, projects for the retention of professional football in west-
+38 ern New York, the empire state economic development fund, the clarkson-
+39 trudeau partnership, the New York genome center, the Cornell university
+40 college of veterinary medicine, the olympic regional development author-
+41 ity, projects at nano Utica, Onondaga county revitalization projects,
+42 Binghamton university school of pharmacy, New York power electronics
+43 manufacturing consortium, regional infrastructure projects, high tech
+44 innovation and economic development infrastructure program, high tech-
+45 nology manufacturing projects in Chautauqua and Erie county, an indus-
+46 trial scale research and development facility in Clinton county, upstate
+47 revitalization initiative projects, downstate revitalization initiative,
+48 market New York projects, fairground buildings, equipment or facilities
+49 used to house and promote agriculture, the state fair, the empire state
+50 trail, the moynihan station development project, the Kingsbridge armory
+51 project, strategic economic development projects, the cultural, arts and
+52 public spaces fund, water infrastructure in the city of Auburn and town
+53 of Owasco, a life sciences laboratory public health initiative, not-for-
+54 profit pounds, shelters and humane societies, arts and cultural facili-
+55 ties improvement program, restore New York's communities initiative,
+56 heavy equipment, economic development and infrastructure projects,
+
+A. 10005--B 35
+1 Roosevelt Island operating corporation capital projects, Lake Ontario
+2 regional projects, Pennsylvania station and other transit projects,
+3 athletic facilities for professional football in Orchard Park, New York,
+4 Rush - NY, New York AI Consortium, New York Creates UEV Tool, and other
+5 state costs associated with such projects. The aggregate principal
+6 amount of bonds authorized to be issued pursuant to this section shall
+7 not exceed [twenty-three billion seven hundred five million two hundred
+8 fifty-three thousand dollars $23,705,253,000] twenty-five billion nine
+9 hundred thirty-three million four hundred fifty-three thousand dollars
+10 $25,933,453,000, excluding bonds issued to fund one or more debt service
+11 reserve funds, to pay costs of issuance of such bonds, and bonds or
+12 notes issued to refund or otherwise repay such bonds or notes previously
+13 issued. Such bonds and notes of the dormitory authority and the corpo-
+14 ration shall not be a debt of the state, and the state shall not be
+15 liable thereon, nor shall they be payable out of any funds other than
+16 those appropriated by the state to the dormitory authority and the
+17 corporation for principal, interest, and related expenses pursuant to a
+18 service contract and such bonds and notes shall contain on the face
+19 thereof a statement to such effect. Except for purposes of complying
+20 with the internal revenue code, any interest income earned on bond
+21 proceeds shall only be used to pay debt service on such bonds.
+22 § 41. Subdivision (a) of section 28 of part Y of chapter 61 of the
+23 laws of 2005, relating to providing for the administration of certain
+24 funds and accounts related to the 2005-2006 budget, as amended by
+25 section 47 of part MM of chapter 56 of the laws of 2025, is amended to
+26 read as follows:
+27 (a) Subject to the provisions of chapter 59 of the laws of 2000, but
+28 notwithstanding any provisions of law to the contrary, one or more
+29 authorized issuers as defined by section 68-a of the state finance law
+30 are hereby authorized to issue bonds or notes in one or more series in
+31 an aggregate principal amount not to exceed [three hundred ninety-seven
+32 million dollars $397,000,000] four hundred forty-two million dollars
+33 $442,000,000, excluding bonds issued to finance one or more debt service
+34 reserve funds, to pay costs of issuance of such bonds, and bonds or
+35 notes issued to refund or otherwise repay such bonds or notes previously
+36 issued, for the purpose of financing capital projects for public
+37 protection facilities in the Division of Military and Naval Affairs,
+38 debt service and leases; and to reimburse the state general fund for
+39 disbursements made therefor. Such bonds and notes of such authorized
+40 issuer shall not be a debt of the state, and the state shall not be
+41 liable thereon, nor shall they be payable out of any funds other than
+42 those appropriated by the state to such authorized issuer for debt
+43 service and related expenses pursuant to any service contract executed
+44 pursuant to subdivision (b) of this section and such bonds and notes
+45 shall contain on the face thereof a statement to such effect. Except for
+46 purposes of complying with the internal revenue code, any interest
+47 income earned on bond proceeds shall only be used to pay debt service on
+48 such bonds.
+49 § 42. Subdivision 1 of section 50 of section 1 of chapter 174 of the
+50 laws of 1968, constituting the New York state urban development corpo-
+51 ration act, as amended by section 48 of part MM of chapter 56 of the
+52 laws of 2025, is amended to read as follows:
+53 1. Notwithstanding the provisions of any other law to the contrary,
+54 the dormitory authority and the urban development corporation are hereby
+55 authorized to issue bonds or notes in one or more series for the purpose
+56 of funding project costs undertaken by or on behalf of the state educa-
+
+A. 10005--B 36
+1 tion department, special act school districts, state-supported schools
+2 for the blind and deaf, approved private special education schools,
+3 non-public schools, community centers, day care facilities, residential
+4 camps, day camps, Native American Indian Nation schools, and other state
+5 costs associated with such capital projects. The aggregate principal
+6 amount of bonds authorized to be issued pursuant to this section shall
+7 not exceed [four hundred forty million three hundred ninety-seven thou-
+8 sand dollars $440,397,000] four hundred eighty-five million nine hundred
+9 sixty thousand dollars $485,960,000, excluding bonds issued to fund one
+10 or more debt service reserve funds, to pay costs of issuance of such
+11 bonds, and bonds or notes issued to refund or otherwise repay such bonds
+12 or notes previously issued. Such bonds and notes of the dormitory
+13 authority and the urban development corporation shall not be a debt of
+14 the state, and the state shall not be liable thereon, nor shall they be
+15 payable out of any funds other than those appropriated by the state to
+16 the dormitory authority and the urban development corporation for prin-
+17 cipal, interest, and related expenses pursuant to a service contract and
+18 such bonds and notes shall contain on the face thereof a statement to
+19 such effect. Except for purposes of complying with the internal revenue
+20 code, any interest income earned on bond proceeds shall only be used to
+21 pay debt service on such bonds.
+22 § 43. Subdivision 1 of section 1680-k of the public authorities law,
+23 as amended by section 49 of part MM of chapter 56 of the laws of 2025,
+24 is amended to read as follows:
+25 1. Subject to the provisions of chapter fifty-nine of the laws of two
+26 thousand, but notwithstanding any provisions of law to the contrary, the
+27 dormitory authority is hereby authorized to issue bonds or notes in one
+28 or more series in an aggregate principal amount not to exceed [forty-one
+29 million one hundred seventy-five thousand dollars $41,175,000] forty-one
+30 million two hundred ninety thousand dollars $41,290,000, excluding bonds
+31 issued to finance one or more debt service reserve funds, to pay costs
+32 of issuance of such bonds, and bonds or notes issued to refund or other-
+33 wise repay such bonds or notes previously issued, for the purpose of
+34 financing the construction of the New York state agriculture and markets
+35 food laboratory. Eligible project costs may include, but not be limited
+36 to the cost of design, financing, site investigations, site acquisition
+37 and preparation, demolition, construction, rehabilitation, acquisition
+38 of machinery and equipment, and infrastructure improvements. Such bonds
+39 and notes of such authorized issuers shall not be a debt of the state,
+40 and the state shall not be liable thereon, nor shall they be payable out
+41 of any funds other than those appropriated by the state to such author-
+42 ized issuers for debt service and related expenses pursuant to any
+43 service contract executed pursuant to subdivision two of this section
+44 and such bonds and notes shall contain on the face thereof a statement
+45 to such effect. Except for purposes of complying with the internal
+46 revenue code, any interest income earned on bond proceeds shall only be
+47 used to pay debt service on such bonds.
+48 § 44. Subdivision 1 of section 1680-r of the public authorities law,
+49 as amended by section 50 of part MM of chapter 56 of the laws of 2025,
+50 is amended to read as follows:
+51 1. Notwithstanding the provisions of any other law to the contrary,
+52 the dormitory authority and the urban development corporation are hereby
+53 authorized to issue bonds or notes in one or more series for the purpose
+54 of funding project costs for the capital restructuring financing program
+55 for health care and related facilities licensed pursuant to the public
+56 health law or the mental hygiene law and other state costs associated
+
+A. 10005--B 37
+1 with such capital projects, the health care facility transformation
+2 programs, the essential health care provider program, and other health
+3 care capital project costs. The aggregate principal amount of bonds
+4 authorized to be issued pursuant to this section shall not exceed [six
+5 billion one hundred sixty-eight million dollars $6,168,000,000] eight
+6 billion one hundred eighty-one million three hundred thousand dollars
+7 $8,181,300,000, excluding bonds issued to fund one or more debt service
+8 reserve funds, to pay costs of issuance of such bonds, and bonds or
+9 notes issued to refund or otherwise repay such bonds or notes previously
+10 issued. Such bonds and notes of the dormitory authority and the urban
+11 development corporation shall not be a debt of the state, and the state
+12 shall not be liable thereon, nor shall they be payable out of any funds
+13 other than those appropriated by the state to the dormitory authority
+14 and the urban development corporation for principal, interest, and
+15 related expenses pursuant to a service contract and such bonds and notes
+16 shall contain on the face thereof a statement to such effect. Except for
+17 purposes of complying with the internal revenue code, any interest
+18 income earned on bond proceeds shall only be used to pay debt service on
+19 such bonds.
+20 § 45. Subdivision (a) of section 27 of part Y of chapter 61 of the
+21 laws of 2005, relating to providing for the administration of certain
+22 funds and accounts related to the 2005-2006 budget, as amended by
+23 section 52 of part MM of chapter 56 of the laws of 2025, is amended to
+24 read as follows:
+25 (a) Subject to the provisions of chapter 59 of the laws of 2000, but
+26 notwithstanding any provisions of law to the contrary, the urban devel-
+27 opment corporation is hereby authorized to issue bonds or notes in one
+28 or more series in an aggregate principal amount not to exceed [five
+29 hundred fifty million one hundred thousand dollars $550,100,000] five
+30 hundred sixty-two million one hundred thousand dollars $562,100,000,
+31 excluding bonds issued to finance one or more debt service reserve
+32 funds, to pay costs of issuance of such bonds, and bonds or notes issued
+33 to refund or otherwise repay such bonds or notes previously issued, for
+34 the purpose of financing capital projects including IT initiatives for
+35 the division of state police, debt service and leases; and to reimburse
+36 the state general fund for disbursements made therefor. Such bonds and
+37 notes of such authorized issuer shall not be a debt of the state, and
+38 the state shall not be liable thereon, nor shall they be payable out of
+39 any funds other than those appropriated by the state to such authorized
+40 issuer for debt service and related expenses pursuant to any service
+41 contract executed pursuant to subdivision (b) of this section and such
+42 bonds and notes shall contain on the face thereof a statement to such
+43 effect. Except for purposes of complying with the internal revenue code,
+44 any interest income earned on bond proceeds shall only be used to pay
+45 debt service on such bonds.
+46 § 45-a. Paragraph (b) of subdivision 3 and clause (B) of subparagraph
+47 (iii) of paragraph (j) of subdivision 4 of section 1 of part D of chap-
+48 ter 63 of the laws of 2005, relating to the composition and responsibil-
+49 ities of the New York state higher education capital matching grant
+50 board, as amended by section 47 of part XX of chapter 56 of the laws of
+51 2024, are amended to read as follows:
+52 (b) Within amounts appropriated therefor, the board is hereby author-
+53 ized and directed to award matching capital grants totaling [four
+54 hundred twenty-five million dollars $425,000,000] four hundred sixty-
+55 five million dollars $465,000,000. Each college shall be eligible for a
+56 grant award amount as determined by the calculations pursuant to subdi-
+
+A. 10005--B 38
+1 vision five of this section. In addition, such colleges shall be eligi-
+2 ble to compete for additional funds pursuant to paragraph (h) of subdi-
+3 vision four of this section.
+4 (B) The dormitory authority shall not issue any bonds or notes in an
+5 amount in excess of [four hundred twenty-five million dollars
+6 $425,000,000] four hundred sixty-five million dollars $465,000,000 for
+7 the purposes of this section; excluding bonds or notes issued to fund
+8 one or more debt service reserve funds, to pay costs of issuance of such
+9 bonds, and bonds or notes issued to refund or otherwise repay such bonds
+10 or notes previously issued. Except for purposes of complying with the
+11 internal revenue code, any interest on bond proceeds shall only be used
+12 to pay debt service on such bonds.
+13 § 45-b. Subdivision 1 of section 51 of section 1 of chapter 174 of the
+14 laws of 1968, constituting the New York state urban development corpo-
+15 ration act, as amended by section 53 of part FFF of chapter 56 of the
+16 laws of 2022, is amended to read as follows:
+17 1. Notwithstanding the provisions of any other law to the contrary,
+18 the dormitory authority and the urban development corporation are hereby
+19 authorized to issue bonds or notes in one or more series for the purpose
+20 of funding project costs for the nonprofit infrastructure capital
+21 investment program and other state costs associated with such capital
+22 projects. The aggregate principal amount of bonds authorized to be
+23 issued pursuant to this section shall not exceed [one hundred seventy
+24 million dollars $170,000,000] two hundred twenty million dollars
+25 $220,000,000, excluding bonds issued to fund one or more debt service
+26 reserve funds, to pay costs of issuance of such bonds, and bonds or
+27 notes issued to refund or otherwise repay such bonds or notes previously
+28 issued. Such bonds and notes of the dormitory authority and the urban
+29 development corporation shall not be a debt of the state, and the state
+30 shall not be liable thereon, nor shall they be payable out of any funds
+31 other than those appropriated by the state to the dormitory authority
+32 and the urban development corporation for principal, interest, and
+33 related expenses pursuant to a service contract and such bonds and notes
+34 shall contain on the face thereof a statement to such effect. Except
+35 for purposes of complying with the internal revenue code, any interest
+36 income earned on bond proceeds shall only be used to pay debt service on
+37 such bonds.
+38 § 45-c. Subdivision 1 of section 2407 of the public authorities law,
+39 as amended by section 4 of chapter 170 of the laws of 2025, is amended
+40 to read as follows:
+41 (1) Except for notes issued in nineteen hundred seventy and nineteen
+42 hundred seventy-one, the agency shall not issue bonds and notes, the
+43 interest on which is not included in the gross income of the holders of
+44 the bonds and notes under the United States Internal Revenue Code of
+45 1986, as amended, or any subsequent corresponding internal revenue law
+46 of the United States, in an aggregate principal amount exceeding [ten
+47 billion nine hundred twenty million dollars] eleven billion four hundred
+48 twenty million dollars, excluding from such limitation (a) an amount
+49 equal to any original issue discount from the principal amount of any
+50 bonds or notes issued, (b) bonds and notes issued to refund outstanding
+51 bonds and notes, and (c) bonds and notes not described in paragraph (b)
+52 of this subdivision issued to refund outstanding bonds and notes in
+53 accordance with the provisions of the Internal Revenue Code of 1986 or
+54 the Tax Reform Act of 1986, as amended, where such bonds or notes are
+55 not included in the statewide volume cap on private purpose bonds under
+56 section 146 of such code provided, however, that upon any refunding
+
+A. 10005--B 39
+1 pursuant to this paragraph or paragraph (b) of this subdivision, such
+2 exclusion shall apply only to the extent that the amount of the refund-
+3 ing bonds or notes does not exceed (i) the outstanding amount of the
+4 refunded bonds or notes, plus (ii) to the extent permitted by applicable
+5 federal tax law, costs of issuance of the refunding bonds or notes to be
+6 financed from the proceeds of the refunding bonds or notes. No such
+7 bond or note shall be issued by the agency on or after July twenty-
+8 third, two thousand twenty-seven, excluding bonds and notes issued to
+9 refund outstanding bonds and notes. No more than two billion four
+10 hundred million dollars of proceeds of bonds or notes issued by the
+11 agency pursuant to this subdivision shall be used for mortgage purposes
+12 by blending with proceeds of bonds issued pursuant to subdivision two of
+13 this section.
+14 § 45-d. Notwithstanding the provisions of any other law to the contra-
+15 ry, the dormitory authority and the urban development corporation are
+16 hereby authorized to issue bonds or notes in one or more series for the
+17 purpose of funding project costs for equipment for facility upgrades for
+18 volunteer fire companies and other state costs associated with such
+19 capital projects. The aggregate principal amount of bonds authorized to
+20 be issued pursuant to this section shall not exceed ten million dollars
+21 $10,000,000, excluding bonds issued to fund one or more debt service
+22 reserve funds, to pay costs of issuance of such bonds, and bonds or
+23 notes issued to refund or otherwise repay such bonds or notes previously
+24 issued. Such bonds and notes of the dormitory authority and the urban
+25 development corporation shall not be a debt of the state, and the state
+26 shall not be liable thereon, nor shall they be payable out of any funds
+27 other than those appropriated by the state to the dormitory authority
+28 and the urban development corporation for principal, interest, and
+29 related expenses pursuant to a service contract and such bonds and notes
+30 shall contain on the face thereof a statement to such effect. Except for
+31 purposes of complying with the internal revenue code, any interest
+32 income earned on bond proceeds shall only be used to pay debt service on
+33 such bonds.
+34 § 46. Intentionally omitted.
+35 § 47. Intentionally omitted.
+36 § 48. This act shall take effect immediately and shall be deemed to
+37 have been in full force and effect on and after April 1, 2026; provided,
+38 however, that the provisions of sections one, two, three, four, five,
+39 six, seven, eight, fourteen, fifteen, sixteen, seventeen, eighteen,
+40 nineteen, twenty, twenty-one and twenty-two of this act shall expire
+41 March 31, 2027.
+42 PART GG
+43 Section 1. Paragraph 1 of subdivision 2-a of section 19-a of the
+44 public lands law, as amended by section 1 of part O of chapter 57 of the
+45 laws of 2016, is amended to read as follows:
+46 (1) Notwithstanding any provision of this section to the contrary, in
+47 addition to state aid otherwise payable pursuant to this section, there
+48 shall be payable to any city located in a county in which there has been
+49 constructed a state office building project in accordance with the
+50 provisions of chapter one hundred fifty-two of the laws of nineteen
+51 hundred sixty-four, as amended, and pursuant to an agreement entitled
+52 the "South Mall contract" dated May eleventh, nineteen hundred sixty-
+53 five, state aid in accordance with the following schedule:
+54 State Fiscal Year
+
+A. 10005--B 40
+1 Amount
+2 2000-2001 $4,500,000
+3 2001-2002 $4,500,000
+4 2002-2003 $4,500,000
+5 2003-2004 $9,850,000
+6 2004-2005 $16,850,000
+7 2005-2006 $22,850,000
+8 2006-2007 $22,850,000
+9 2007-2008 $22,850,000
+10 2008-2009 $22,850,000
+11 2009-2010 $22,850,000
+12 2010-2011 $22,850,000
+13 2011-2012 $15,000,000
+14 2012-2013 $22,850,000
+15 2013-2014 $22,850,000
+16 2014-2015 $15,000,000
+17 2015-2016 $15,000,000
+18 2016-2017 $27,500,000
+19 2017-2018 $15,000,000
+20 2018-2019 $15,000,000
+21 2019-2020 $15,000,000
+22 2020-2021 $15,000,000
+23 2021-2022 $15,000,000
+24 2022-2023 $15,000,000
+25 2023-2024 $15,000,000
+26 2024-2025 $15,000,000
+27 2025-2026 $15,000,000
+28 2026-2027 [$15,000,000] $25,000,000
+29 2027-2028 [$15,000,000] $25,000,000
+30 2028-2029 [$15,000,000] $25,000,000
+31 2029-2030 $15,000,000
+32 2030-2031 $15,000,000
+33 2031-2032 $1,800,000
+34 § 2. This act shall take effect immediately.
+35 PART HH
+36 Section 1. Section 13 of chapter 141 of the laws of 1994, amending the
+37 legislative law and the state finance law relating to the operation and
+38 administration of the legislature, as amended by section 1 of part AAA
+39 of chapter 55 of the laws of 2025, is amended to read as follows:
+40 § 13. This act shall take effect immediately and shall be deemed to
+41 have been in full force and effect as of April 1, 1994, provided that,
+42 the provisions of section 5-a of the legislative law as amended by
+43 sections two and two-a of this act shall take effect on January 1, 1995,
+44 and provided further that, the provisions of article 5-A of the legisla-
+45 tive law as added by section eight of this act shall expire June 30,
+46 [2026] 2027 when upon such date the provisions of such article shall be
+47 deemed repealed; and provided further that section twelve of this act
+48 shall be deemed to have been in full force and effect on and after April
+49 10, 1994.
+50 § 2. This act shall not supersede the findings and determinations made
+51 by the compensation committee as authorized pursuant to part HHH of
+52 chapter 59 of the laws of 2018 unless a court of competent jurisdiction
+
+A. 10005--B 41
+1 determines that such findings and determinations are invalid or other-
+2 wise not applicable or in force.
+3 § 3. This act shall take effect immediately, provided, however, if
+4 this act shall take effect on or after June 30, 2026, this act shall be
+5 deemed to have been in full force and effect on and after June 30, 2026.
+6 PART II
+7 Section 1. Subdivision (e) of section 532 of the real property tax
+8 law, as amended by section 1 of part WW of chapter 59 of the laws of
+9 2021, is amended to read as follows:
+10 (e) All lands in the counties of Rockland [and], Sullivan and Ulster
+11 and in the towns of Blooming Grove, Chester, Monroe, Warwick, Cornwall,
+12 Highlands, Tuxedo and Woodbury, Orange county, [and in the towns of
+13 Gardiner, Rochester, Shawangunk and Wawarsing, Ulster county,] acquired
+14 for a public use by the commissioners of the Palisades Interstate park,
+15 exclusive of the improvements erected thereon by the state;
+16 § 2. This act shall take effect immediately.
+17 PART JJ
+18 Section 1. Paragraph a of section 11.00 of the local finance law is
+19 amended by adding a new subdivision 27-b to read as follows:
+20 27-b. Police emergency response vehicles. Notwithstanding the
+21 provisions of subdivision seventy-seven of this paragraph, the purchase
+22 of a motor vehicle that is specially designed for use for law enforce-
+23 ment purposes, including but not limited to responding to 911 calls or
+24 transporting persons under arrest or in police custody, and that is
+25 equipped with emergency vehicle lights and a police siren, five years.
+26 § 2. Subdivision 29 of paragraph a of section 11.00 of the local
+27 finance law, as amended by section 5 of subpart A of part B of chapter
+28 56 of the laws of 2022, is amended to read as follows:
+29 29. Motor vehicles. The purchase of a motor vehicle, five years. The
+30 term "motor vehicle," as used in this subdivision, shall mean a vehicle
+31 propelled by any power other than muscular power, except
+32 (a) a passenger vehicle, other than a school bus, having a seating
+33 capacity of less than ten persons,
+34 (b) a vehicle used for fighting fires,
+35 (c) a motor cycle, traction engine, and electric truck with small
+36 wheels used in warehouses and railroad stations and a vehicle which runs
+37 only upon rails or tracks,
+38 (d) machinery or apparatus for which a period of probable usefulness
+39 has been determined by subdivision twenty-eight of this paragraph, [and]
+40 (e) a vehicle which is specially designed for use for the treatment,
+41 care or transport of sick or injured persons, [and]
+42 (f) a zero-emission school bus as defined in section three thousand
+43 six hundred thirty-eight of the education law, and
+44 (g) a vehicle that is specially designed for use for law enforcement
+45 purposes and that is equipped with emergency vehicle lights and a police
+46 siren.
+47 § 3. This act shall take effect immediately.
+48 PART KK
+49 Section 1. The correction law is amended by adding a new section 47-a
+50 to read as follows:
+
+A. 10005--B 42
+1 § 47-a. Office of chief medical examiner. 1. There shall be in the
+2 commission the office of the chief medical examiner, which for the
+3 purposes of this section may be referred to as the "office", consisting
+4 of the chief medical examiner and a deputy chief medical examiner who
+5 shall be doctors of medicine with a certification in forensic pathology
+6 and have experience in death investigations. The chief medical examin-
+7 er shall have the authority to hire staff as necessary to perform the
+8 functions and duties of the office. Such staff shall include at least
+9 one additional forensic pathologist.
+10 2. Every administrator of a correctional facility shall immediately
+11 report to the office of the chief medical examiner the death of an
+12 incarcerated individual of any such facility in such manner and form as
+13 the office of the chief medical examiner shall prescribe, and the office
+14 shall have the sole authority to, and shall, investigate such death.
+15 3. The office of the chief medical examiner shall, notwithstanding any
+16 provision of article seventeen-a of the county law to the contrary, have
+17 such duties and responsibilities which shall include but not be limited
+18 to:
+19 (a) upon notification of a death of an incarcerated individual in
+20 custody, report to the scene where the death occurred to evaluate the
+21 body and scene. If the office is unable to respond and take charge of
+22 the body of the deceased in an expeditious manner, the chief of police
+23 of the city or town wherein the body lies, or their representative, may,
+24 at the direction of the office and after conferring with the appropriate
+25 district attorney, move the body to another location until the office is
+26 able to respond. Before moving the body, the police shall document all
+27 facts relevant to the appearance, condition and position of the body and
+28 every fact and circumstance tending to show the cause and circumstances
+29 of death;
+30 (b) conduct autopsies where determined appropriate by the chief
+31 medical examiner or their designee and forensic investigations for
+32 deaths of incarcerated individuals in custody;
+33 (c) prepare an autopsy report and detailed findings and promptly noti-
+34 fy the attorney general office of special investigations of such find-
+35 ings;
+36 (d) publish an annual report that includes, but is not limited to,
+37 individual-level data detailing incarcerated individual deaths investi-
+38 gated by the office by cause of death, manner of death, age,
+39 race/ethnicity, and sex;
+40 (e) publish on its website preliminary death reports for all incarcer-
+41 ated individuals detailing date, time, preliminary cause of death, and
+42 manner within ninety days of the death of such incarcerated individual;
+43 (f) deliver copies of all autopsy reports, toxicological reports, or
+44 any reports of any examination or inquiry prepared directly to the
+45 attorney general office of special investigations and district attorney,
+46 where appropriate; and
+47 (g) promptly provide the commissioner of the department of corrections
+48 and community supervision with copies of any autopsy reports, toxicolog-
+49 ical reports or any reports of any examination or inquiry prepared with
+50 respect to any death occurring to an incarcerated individual of a
+51 correctional facility within their county. The office shall also prompt-
+52 ly provide the executive director of the justice center for the
+53 protection of people with special needs with copies of any autopsy
+54 reports, toxicology reports or any reports of any examination or inquiry
+55 prepared with respect to the death of any service recipient occurring
+56 while such person was a resident in any facility operated, licensed or
+
+A. 10005--B 43
+1 certified by any agency within the department of mental hygiene, the
+2 office of children and family services, the department of health or the
+3 state education department. If the toxicological report is prepared
+4 pursuant to any agreement or contract with any person, partnership,
+5 corporation or governmental agency with the coroner or medical examiner,
+6 such report shall be promptly provided to the chair of the correction
+7 medical review board, the commissioner of the department of corrections
+8 and community supervision or the executive director of the justice
+9 center for the protection of people with special needs, as appropriate,
+10 by such person, partnership, corporation or governmental agency. For the
+11 purposes of this subdivision, in addition to anything else required by
+12 law, the copy of the autopsy report shall include all photographs of the
+13 body and post-mortem x-rays taken by or at the direction of the person
+14 performing the autopsy, and all photographs and post-mortem x-rays
+15 reviewed by the person performing the autopsy in the course of their
+16 examination or in the course of their diagnosis of the cause of death
+17 and the means or manner of death. Such copy of the autopsy report may
+18 also include images of all microscopic slides taken by or at the direc-
+19 tion of the person performing the autopsy and images of all microscopic
+20 slides reviewed by the person performing the autopsy in the course of
+21 their examination or in the course of their diagnosis of the cause of
+22 death and the means or manner of death. If such images of microscopic
+23 slides are not included in the copy of the autopsy report provided
+24 pursuant to this subdivision, the copy of the autopsy report shall indi-
+25 cate that such images of microscopic slides have been omitted, and, upon
+26 request of the chair of the correction medical review board, the commis-
+27 sioner or the executive director of the justice center for the
+28 protection of people with special needs, a coroner, coroner's physician
+29 or medical examiner shall promptly provide access to inspect such micro-
+30 scopic slides or, where practicable, provide images of such microscopic
+31 slides.
+32 4. In carrying out the duties prescribed by this section, the chief
+33 medical examiner or their designee shall be entitled to review and
+34 receive copies of medical records, hospital records, or information
+35 which they deem relevant to establishing the cause and manner of death.
+36 No person or hospital shall be subject to liability of any nature for
+37 providing such records or information in good faith at the request of
+38 the office.
+39 5. The office of the chief medical examiner may use the services of
+40 the New York state police crime laboratory system for the performance of
+41 tests, documentation of evidence, investigating procedures and consulta-
+42 tion on special problems.
+43 § 2. Section 47 of the correction law is amended by adding a new
+44 subdivision 3 to read as follows:
+45 3. The chairperson of the board, with respect to the office of chief
+46 medical examiner, shall exercise the powers and duties set forth in this
+47 chapter, but shall not interfere with the performance by the chief
+48 medical examiner or their office of the powers and duties prescribed by
+49 the provisions of this section or any other law.
+50 § 3. Subdivision 1 of section 671 of the county law, as amended by
+51 chapter 764 of the laws of 1976 and paragraph (b) as amended by chapter
+52 322 of the laws of 2021, is amended to read as follows:
+53 1. The coroner, or if [he is] they are not a physician duly licensed
+54 to practice medicine in this state, the coroner and a coroner's physi-
+55 cian, together, or in counties in which the office of coroner has been
+56 abolished, the medical examiner[,
+
+A. 10005--B 44
+1 (a)] shall make inquiry into unnatural deaths within [his] their coun-
+2 ty as prescribed by law[;
+3 (b) shall make inquiry into all deaths whether natural or unnatural in
+4 his or her county occurring to an incarcerated individual of a correc-
+5 tional facility as defined by subdivision three of section forty of the
+6 correction law, whether or not the death occurred inside such facility].
+7 § 4. Subdivision 1 of section 673 of the county law, as amended by
+8 chapter 1 of the laws of 2019, is amended to read as follows:
+9 1. A coroner or medical examiner has jurisdiction and authority to
+10 investigate the death of every person dying within [his] their county,
+11 or whose body is found within the county, which is or appears to be:
+12 (a) A violent death, whether by criminal violence, suicide or casual-
+13 ty;
+14 (b) A death caused by unlawful act or criminal neglect;
+15 (c) A death occurring in a suspicious, unusual or unexplained manner;
+16 (d) A death while unattended by a physician, so far as can be discov-
+17 ered, or where no physician able to certify the cause of death as
+18 provided in the public health law and in form as prescribed by the
+19 commissioner of health can be found;
+20 (e) A death of a person confined in a public institution other than a
+21 correctional facility, hospital, infirmary or nursing home.
+22 § 5. Subdivision 5 of section 674 of the county law is REPEALED.
+23 § 6. Subdivision 6 of section 677 of the county law is REPEALED.
+24 § 7. This act shall take effect on the one hundred eightieth day after
+25 it shall have become a law.
+26 § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
+27 sion, section or part of this act shall be adjudged by any court of
+28 competent jurisdiction to be invalid, such judgment shall not affect,
+29 impair, or invalidate the remainder thereof, but shall be confined in
+30 its operation to the clause, sentence, paragraph, subdivision, section
+31 or part thereof directly involved in the controversy in which such judg-
+32 ment shall have been rendered. It is hereby declared to be the intent of
+33 the legislature that this act would have been enacted even if such
+34 invalid provisions had not been included herein.
+35 § 3. This act shall take effect immediately provided, however, that
+36 the applicable effective date of Parts A through KK of this act shall be
+37 as specifically set forth in the last section of such Parts.
