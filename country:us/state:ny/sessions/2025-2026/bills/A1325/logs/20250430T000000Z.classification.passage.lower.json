@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "PASSED ASSEMBLY",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A1325?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A1325",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A01325&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A1325"
+}

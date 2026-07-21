@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "VETOED MEMO.38",
+    "occurred_at": "2025-10-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A2168?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A2168",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A02168&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A2168"
+}

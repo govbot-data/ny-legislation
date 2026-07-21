@@ -1,0 +1,294 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "A4521",
+  "title": "Relates to the definition of \"protected consumer\"",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Defines a \"protected consumer\" as an individual who is under the age of eighteen years."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4521"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CONSUMER AFFAIRS AND PROTECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.215",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.215",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CONSUMER PROTECTION",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CONSUMER PROTECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR S6722",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "3RD READING CAL.1413",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "SIGNED CHAP.514",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alicia Hyndman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alicia Hyndman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grace Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Lee\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 6722",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 6722",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 2578",
+      "legislative_session": "2023-2024",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 5674",
+      "legislative_session": "2021-2022",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 865",
+      "legislative_session": "2019-2020",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 2763",
+      "legislative_session": "2017-2018",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 8619",
+      "legislative_session": "2015-2016",
+      "relation_type": "prior-session"
+    }
+  ],
+  "versions": [
+    {
+      "note": "A4521",
+      "links": [
+        {
+          "url": "http://assembly.state.ny.us/leg/?sh=printbill&bn=A4521&term=2025&Text=Y",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4521",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4521?summary=&detail=",
+      "note": ""
+    },
+    {
+      "url": "http://www.nysenate.gov/legislation/bills/2025/A4521",
+      "note": ""
+    },
+    {
+      "url": "https://nyassembly.gov/leg/?bn=A04521&term=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ny/government",
+    "name": "New York",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ny"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:59:03Z"
+  }
+}

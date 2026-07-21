@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ORDERED TO THIRD READING RULES CAL.441",
+    "occurred_at": "2026-06-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11557?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A11557",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A11557&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A11557"
+}

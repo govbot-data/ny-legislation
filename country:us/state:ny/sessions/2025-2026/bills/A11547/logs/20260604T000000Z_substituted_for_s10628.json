@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "SUBSTITUTED FOR S10628",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11547?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A11547",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A11547&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A11547"
+}

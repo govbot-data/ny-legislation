@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ORDERED TO THIRD READING CAL.1495",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9761?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S9761",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S09761&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S9761"
+}

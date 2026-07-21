@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "PASSED ASSEMBLY",
+    "occurred_at": "2025-06-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4495?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S4495",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S04495&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S4495"
+}

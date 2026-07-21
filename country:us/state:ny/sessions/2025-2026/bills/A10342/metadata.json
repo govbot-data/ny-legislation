@@ -1,0 +1,243 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "A10342",
+  "title": "Relates to extending provisions of laws permitting certain deductions from wages",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Extends provisions of law relating to permitted deductions from wages for an additional two years."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a10342"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.343",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR S10569",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "3RD READING CAL.1522",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "SIGNED CHAP.138",
+      "date": "2026-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steven Raga",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steven Raga\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 10569",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 10569",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 9768",
+      "legislative_session": "2023-2024",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 10181",
+      "legislative_session": "2021-2022",
+      "relation_type": "prior-session"
+    }
+  ],
+  "versions": [
+    {
+      "note": "A10342",
+      "links": [
+        {
+          "url": "http://assembly.state.ny.us/leg/?sh=printbill&bn=A10342&term=2025&Text=Y",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A10342",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10342?summary=&detail=",
+      "note": ""
+    },
+    {
+      "url": "http://www.nysenate.gov/legislation/bills/2025/A10342",
+      "note": ""
+    },
+    {
+      "url": "https://nyassembly.gov/leg/?bn=A10342&term=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ny/government",
+    "name": "New York",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ny"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:59:00Z"
+  }
+}

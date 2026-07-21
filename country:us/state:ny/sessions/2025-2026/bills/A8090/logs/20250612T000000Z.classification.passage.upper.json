@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "PASSED SENATE",
+    "occurred_at": "2025-06-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8090?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A8090",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A08090&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A8090"
+}

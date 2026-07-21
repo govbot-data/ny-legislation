@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "SIGNED CHAP.494",
+    "occurred_at": "2025-11-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6558?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A6558",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A06558&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A6558"
+}

@@ -1,0 +1,221 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "A8079",
+  "title": "Amends chapter 530 of the laws of 2024, amending the tax law relating to authorizing an occupancy tax in the village of Medina, in relation to the effectiveness thereof",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Extends the authority of the village of Medina to impose an occupancy tax."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8079"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO WAYS AND MEANS",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8079A",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.911",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.911",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY S7542A",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stephen Hawley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stephen Hawley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 7542",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 7542",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 7542",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 6671",
+      "legislative_session": "2023-2024",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 9767",
+      "legislative_session": "2021-2022",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 6537",
+      "legislative_session": "2019-2020",
+      "relation_type": "prior-session"
+    }
+  ],
+  "versions": [
+    {
+      "note": "A8079",
+      "links": [
+        {
+          "url": "http://assembly.state.ny.us/leg/?sh=printbill&bn=A8079&term=2025&Text=Y",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8079",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8079A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8079A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8079?summary=&detail=",
+      "note": ""
+    },
+    {
+      "url": "http://www.nysenate.gov/legislation/bills/2025/A8079",
+      "note": ""
+    },
+    {
+      "url": "https://nyassembly.gov/leg/?bn=A08079&term=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ny/government",
+    "name": "New York",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ny"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:58:41Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "PASSED SENATE",
+    "occurred_at": "2025-06-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A3280?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A3280",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A03280&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A3280"
+}

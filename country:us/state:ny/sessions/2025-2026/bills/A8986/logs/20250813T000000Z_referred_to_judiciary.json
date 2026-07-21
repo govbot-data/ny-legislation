@@ -1,0 +1,34 @@
+{
+  "action": {
+    "description": "REFERRED TO JUDICIARY",
+    "occurred_at": "2025-08-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "JUDICIARY",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8986?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A8986",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A08986&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A8986"
+}

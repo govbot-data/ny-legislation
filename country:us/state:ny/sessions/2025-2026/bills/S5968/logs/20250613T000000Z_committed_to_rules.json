@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "COMMITTED TO RULES",
+    "occurred_at": "2025-06-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S5968?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S5968",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S05968&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S5968"
+}

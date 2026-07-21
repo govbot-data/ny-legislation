@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "1ST REPORT CAL.1155",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9147?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S9147",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S09147&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S9147"
+}

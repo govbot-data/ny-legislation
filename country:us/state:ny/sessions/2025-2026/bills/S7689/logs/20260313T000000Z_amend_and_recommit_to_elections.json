@@ -1,0 +1,29 @@
+{
+  "action": {
+    "description": "AMEND AND RECOMMIT TO ELECTIONS",
+    "occurred_at": "2026-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S7689?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S7689",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S07689&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S7689"
+}

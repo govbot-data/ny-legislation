@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "SIGNED CHAP.508",
+    "occurred_at": "2025-11-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A1797?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A1797",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A01797&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A1797"
+}

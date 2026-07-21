@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "AMENDED ON THIRD READING 6561B",
+    "occurred_at": "2026-01-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6561?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A6561",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A06561&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A6561"
+}

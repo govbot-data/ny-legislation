@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ORDERED TO THIRD READING RULES CAL.72",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S8811?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S8811",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S08811&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S8811"
+}

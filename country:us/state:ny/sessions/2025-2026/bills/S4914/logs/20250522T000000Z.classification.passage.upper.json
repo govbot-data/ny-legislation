@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "PASSED SENATE",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4914?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S4914",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S04914&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S4914"
+}

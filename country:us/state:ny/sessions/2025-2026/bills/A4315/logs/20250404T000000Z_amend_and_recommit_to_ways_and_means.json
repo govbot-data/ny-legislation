@@ -1,0 +1,29 @@
+{
+  "action": {
+    "description": "AMEND AND RECOMMIT TO WAYS AND MEANS",
+    "occurred_at": "2025-04-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4315?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A4315",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A04315&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A4315"
+}

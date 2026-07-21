@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "RECOMMIT, ENACTING CLAUSE STRICKEN",
+    "occurred_at": "2025-11-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6377?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S6377",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S06377&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S6377"
+}

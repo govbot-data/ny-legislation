@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "SIGNED CHAP.684",
+    "occurred_at": "2025-12-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3781?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S3781",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S03781&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3781"
+}

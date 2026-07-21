@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "SUBSTITUTED BY A4712",
+    "occurred_at": "2025-06-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2460?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S2460",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S02460&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2460"
+}

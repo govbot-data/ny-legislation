@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "AMENDED ON THIRD READING 8412D",
+    "occurred_at": "2025-06-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8412?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A8412",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A08412&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A8412"
+}

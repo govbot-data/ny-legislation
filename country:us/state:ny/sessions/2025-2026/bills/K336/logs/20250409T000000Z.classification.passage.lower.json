@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "ADOPTED",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/K336?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/K336",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=K00336&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "K336"
+}

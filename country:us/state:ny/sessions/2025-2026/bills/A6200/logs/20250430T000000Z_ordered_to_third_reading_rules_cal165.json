@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ORDERED TO THIRD READING RULES CAL.165",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6200?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A6200",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A06200&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A6200"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ENACTING CLAUSE STRICKEN",
+    "occurred_at": "2025-09-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6998?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A6998",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A06998&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A6998"
+}

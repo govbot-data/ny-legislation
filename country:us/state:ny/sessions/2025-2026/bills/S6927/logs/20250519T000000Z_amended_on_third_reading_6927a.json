@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "AMENDED ON THIRD READING 6927A",
+    "occurred_at": "2025-05-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6927?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S6927",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S06927&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S6927"
+}

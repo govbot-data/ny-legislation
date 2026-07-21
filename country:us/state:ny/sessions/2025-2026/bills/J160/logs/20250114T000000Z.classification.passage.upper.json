@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "ADOPTED",
+    "occurred_at": "2025-01-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/J160?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/J160",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=J00160&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "J160"
+}

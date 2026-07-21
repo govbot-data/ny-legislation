@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ORDERED TO THIRD READING RULES CAL.573",
+    "occurred_at": "2026-06-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S8681?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S8681",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S08681&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S8681"
+}

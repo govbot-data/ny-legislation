@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "PRINT NUMBER 4002A",
+    "occurred_at": "2026-01-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4002?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A4002",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A04002&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A4002"
+}

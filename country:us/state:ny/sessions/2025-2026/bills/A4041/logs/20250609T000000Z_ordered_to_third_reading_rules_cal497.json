@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "ORDERED TO THIRD READING RULES CAL.497",
+    "occurred_at": "2025-06-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4041?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A4041",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A04041&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A4041"
+}

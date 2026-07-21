@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "ADOPTED",
+    "occurred_at": "2025-06-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/K666?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/K666",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=K00666&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "K666"
+}

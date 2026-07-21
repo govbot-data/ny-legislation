@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "3RD READING CAL.824",
+    "occurred_at": "2025-05-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A3104?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/A3104",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=A03104&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A3104"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "SUBSTITUTED FOR A5621",
+    "occurred_at": "2025-06-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S7403?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S7403",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S07403&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S7403"
+}

@@ -1,0 +1,29 @@
+{
+  "action": {
+    "description": "AMEND (T) AND RECOMMIT TO LABOR",
+    "occurred_at": "2025-01-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S415?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/S415",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=S00415&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S415"
+}

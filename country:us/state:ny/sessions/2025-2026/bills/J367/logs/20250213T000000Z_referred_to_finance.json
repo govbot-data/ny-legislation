@@ -1,0 +1,34 @@
+{
+  "action": {
+    "description": "REFERRED TO FINANCE",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "FINANCE",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/J367?summary=&detail=",
+        "note": ""
+      },
+      {
+        "url": "http://www.nysenate.gov/legislation/bills/2025/J367",
+        "note": ""
+      },
+      {
+        "url": "https://nyassembly.gov/leg/?bn=J00367&term=2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "J367"
+}
