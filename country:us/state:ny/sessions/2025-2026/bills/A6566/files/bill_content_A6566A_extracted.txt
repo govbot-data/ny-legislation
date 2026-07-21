@@ -1,0 +1,367 @@
+Title: 
+Official Title: 
+Source: versions - A6566A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6566--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 6, 2025
+___________
+Introduced by M. of A. R. CARROLL -- read once and referred to the
+Committee on Ways and Means -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the tax law, in relation to providing a sales tax
+exemption for certain low-carbon building materials (Part A); to
+establish a grant program for manufacturers of concrete for environ-
+mental product declarations (Part B); and to amend the general munici-
+pal law, in relation to expanding eligibility for commercial property
+assessed clean energy financing resources (Part C)
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act enacts into law components of legislation relating
+2 to reducing greenhouse gas emissions in construction. Each component is
+3 wholly contained within a Part identified as Parts A through C. The
+4 effective date for each particular provision contained within such Part
+5 is set forth in the last section of such Part. Any provision in any
+6 section contained within a Part, including the effective date of the
+7 Part, which makes reference to a section "of this act", when used in
+8 connection with that particular component, shall be deemed to mean and
+9 refer to the corresponding section of the Part in which it is found.
+10 Section three of this act sets forth the general effective date of this
+11 act.
+12 PART A
+13 Section 1. Short title. This act shall be known and may be cited as
+14 the "building embodied carbon breakthrough act".
+15 § 2. Legislative findings and purpose. 1. The legislature finds that
+16 reducing greenhouse gas emissions from the building sector is a critical
+17 component of the state's climate goals under the Climate Leadership and
+18 Community Protection Act.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10492-02-5
+
+A. 6566--A 2
+1 2. The legislature further finds that embodied carbon in construction
+2 materials, such as cement, steel, and other building products, contrib-
+3 utes significantly to overall emissions. Studies show that nearly half
+4 of emissions from new buildings between 2020 and 2050 will come from
+5 embodied carbon under a business-as-usual scenario (Carbon Neutral
+6 Buildings Roadmap, NYSERDA).
+7 3. The concrete and steel industries alone account for over 20% of
+8 global industrial emissions, with cement production ranking among the
+9 largest industrial greenhouse gas emitters in New York state (Final
+10 Scoping Plan, NYS Climate Action Council).
+11 4. In New York, 28% of annual building-related emissions are associ-
+12 ated with the production of materials such as concrete, steel, aluminum,
+13 glass, and insulation (Final Scoping Plan, NYS Climate Action Council).
+14 However, specifying lower-carbon alternatives can reduce embodied carbon
+15 emissions by up to 33%, and material reuse strategies can achieve
+16 reductions of up to 80% (Carbon Neutral Buildings Roadmap, NYSERDA).
+17 5. The legislature recognizes that demand for low-carbon building
+18 materials is growing and that New York state has an opportunity to posi-
+19 tion itself as a national leader in manufacturing, innovation, and
+20 deployment of these materials. According to the Climate Action Council's
+21 Final Scoping Plan, public procurement strategies and tax incentives can
+22 accelerate market adoption of these technologies while stimulating
+23 economic growth.
+24 6. The legislature acknowledges that New York's Carbon Neutral Build-
+25 ings Roadmap identifies the manufacturing and supply chain opportunities
+26 that will arise from transitioning to low-embodied carbon construction
+27 materials. Supporting these industries will not only reduce emissions
+28 but also create new jobs and expand economic opportunities across the
+29 state.
+30 7. The legislature finds that providing a tax exemption for low-carbon
+31 materials will establish an early and stable market for these products,
+32 allowing New York-based businesses to develop cutting-edge solutions
+33 that can be exported to meet demand beyond state borders. This policy
+34 aligns with existing initiatives such as NYSERDA's Carbon Neutral
+35 Economic Development Program, which seeks to attract and support busi-
+36 nesses working on climate-friendly materials.
+37 8. The legislature further finds that ensuring local access to low-
+38 carbon materials will encourage workforce development in advanced manu-
+39 facturing, sustainable construction, and related trades. Investments in
+40 low-embodied carbon industries will provide long-term economic benefits
+41 while advancing the state's climate objectives.
+42 § 3. Section 1115 of the tax law is amended by adding a new subdivi-
+43 sion (mm) to read as follows:
+44 (mm) (1) For the purposes of this subdivision, the following terms
+45 shall have the following meanings:
+46 (A) "Authority" shall mean the New York state energy research and
+47 development authority.
+48 (B) "Division" shall mean the department of state's division of build-
+49 ing standards and codes.
+50 (C) "Embodied carbon" shall mean the total greenhouse gas emissions
+51 associated with the production, transportation, installation, mainte-
+52 nance, and end-of-life disposal of a building material or product, meas-
+53 ured in kilograms of carbon dioxide equivalent (kgCO2e).
+54 (D) "Energy code" shall mean the state energy conservation
+55 construction code, as established and administered by the division.
+
+A. 6566--A 3
+1 (E) "Environmental product declaration" or "EPD" shall mean a third-
+2 party verified document that provides transparent and standardized
+3 information about the environmental impact of a product over its life
+4 cycle, in accordance with ISO 14025 and related standards.
+5 (F) "Global warming potential" or "GWP" shall mean a metric used to
+6 compare the impact of different greenhouse gases on climate change over
+7 a specific time horizon, typically 100 years, expressed relative to the
+8 warming effect of carbon dioxide (CO2e).
+9 (G) "Global warming potential threshold" shall mean the value estab-
+10 lished by the state to determine eligibility for the sales tax exemption
+11 under this subdivision and financing under the municipal sustainable
+12 energy loan program. This threshold represents the median global warming
+13 potential of a material, product, or component, based on a represen-
+14 tative sample of product-level environmental product declarations for
+15 that category, or relative to GWP values previously derived and recog-
+16 nized by the state.
+17 (H) "Interior" shall mean a building's interior spaces, including but
+18 not limited to flooring, furniture, wall panels, ceiling systems, cabi-
+19 netry, partitions, and interior insulation.
+20 (I) "Low-carbon" shall designate materials, products and components
+21 used in building construction that meet or exceed the product level
+22 global warming potential threshold established by the authority by a
+23 minimum of fifteen percent.
+24 (J) "Municipal sustainable energy loan program" shall mean the program
+25 authorized under article five-l of the general municipal law.
+26 (K) "Product category rule" shall mean a set of specific rules,
+27 requirements, and guidelines developed in accordance with ISO 14025 that
+28 establish the methodology for conducting life cycle assessments and
+29 creating environmental product declarations for a given product catego-
+30 ry, ensuring consistency and comparability in environmental performance
+31 data.
+32 (L) "Significant embodied carbon reduction improvement" means a
+33 modification to construction materials, products and components that
+34 result in at least a fifty percent reduction in GWP compared to the
+35 global warming potential threshold established for that material, prod-
+36 uct or component product category.
+37 (M) "Standards development organization" or "SDO" means an entity
+38 recognized for developing and maintaining technical standards through a
+39 consensus-based process. SDOs establish guidelines, test methods, and
+40 specifications to ensure product quality, safety, and environmental
+41 performance.
+42 (N) "Uniform code" means the uniform fire prevention and building
+43 code, as established and administered by the division.
+44 (2) (A) Qualifying low-carbon building materials, products, and compo-
+45 nents shall be exempt from tax under this article. A purchaser seeking
+46 exemption under this subdivision shall present a completed form devel-
+47 oped by the department to the seller at the time of purchase. Low-car-
+48 bon building materials, components, and products eligible for an
+49 exemption from tax under this article shall include:
+50 (i) concrete and cementitious materials.
+51 (ii) structural steel and reinforcing bar.
+52 (iii) engineered wood products and mass timber.
+53 (iv) insulation.
+54 (v) flooring.
+55 (vi) architectural coatings.
+
+A. 6566--A 4
+1 (vii) flooring materials, including carpet, laminate, ceramic, resil-
+2 ient, and wood flooring.
+3 (viii) gypsum panel products.
+4 (ix) flat glass.
+5 (x) pressure-treated wood products.
+6 (xi) floor coatings.
+7 (xii) single-ply roofing membranes.
+8 (xiii) pedestrian and revolving doors.
+9 (xiv) water-resistive and air barriers.
+10 (xv) insulation.
+11 (xvi) interior furniture components including seating, storage,
+12 tables, and office furniture workspace products.
+13 (xvii) additional material, product, and component categories included
+14 at the discretion of the commissioner in consultation with the authority
+15 and the division, provided that current product category rules have been
+16 published by recognized standards development organizations.
+17 (B) The authority shall establish the product-level GWP threshold for
+18 building materials, products, and components. Such thresholds shall be
+19 reviewed and revised every three years by the authority, in consultation
+20 with the division, based on the most current recognized product category
+21 rules for each category, and an evaluation of recent statistically
+22 significant samples of EPDs for eligible materials, products, and compo-
+23 nents.
+24 (C) The division, in consultation with the authority, shall be respon-
+25 sible for evaluating and approving materials, products and components
+26 for exemption under this subdivision.
+27 (D) The department, in consultation with the authority, shall maintain
+28 a publicly accessible database of materials and manufacturers that qual-
+29 ify for exemption under this subdivision.
+30 (E) Materials, products, and components used in building construction
+31 and interior design shall be eligible for exemption under this subdivi-
+32 sion where:
+33 (i) a corresponding product category rule has been published by an
+34 accredited standards development organization and approved by the state
+35 for that material, product or component.
+36 (ii) a statistically significant sample of EPDs for the material,
+37 product and component category and relevant sub-categories, as defined
+38 in the product category rule, has been generated and made publicly
+39 available for review and analysis by the authority in order to derive a
+40 median global warming potential threshold that is representative of that
+41 material, product, or component.
+42 (iii) the material, product, or component has been determined to be
+43 compliant with all rules, regulations and guidelines of the state
+44 uniform code and energy code, as well as material evaluation and accept-
+45 ance criteria required by the local municipal jurisdiction having
+46 authority.
+47 (F) Purchasers availing the exemption under this subdivision shall
+48 retain records of all transactions made under this exemption, including
+49 documentation of the product's environmental product declaration, for a
+50 period of at least five years.
+51 § 4. This act shall take effect on the first of January next succeed-
+52 ing the date on which it shall have become a law and shall apply to
+53 taxable years beginning on or after such date. Effective immediately,
+54 the addition, amendment and/or repeal of any rule or regulation neces-
+55 sary for the implementation of this act on its effective date are
+56 authorized to be made and completed on or before such effective date.
+
+A. 6566--A 5
+1 PART B
+2 Section 1. Definitions. For the purposes of this act, the following
+3 terms shall have the following meanings:
+4 (a) "authority" means the New York state energy research and develop-
+5 ment authority (NYSERDA);
+6 (b) "concrete" means a mixture of cementitious material, aggregate,
+7 and water and is inclusive of ready mix concrete, shotcrete, precast
+8 concrete, and concrete masonry units;
+9 (c) "cementitious material" means any material that has cementing
+10 value if used in concrete, grout, or mortar;
+11 (d) "aggregate" means granular material used with a cementing medium
+12 to form concrete, grout, or mortar;
+13 (e) "asphalt" means a mixture of bituminous material and aggregate
+14 used for paving, roofing, and other construction applications, including
+15 hot mix asphalt, warm mix asphalt, cold mix asphalt, and asphalt
+16 concrete;
+17 (f) "embodied carbon" means the total greenhouse gas emissions associ-
+18 ated with the production, transportation, installation, maintenance, and
+19 end-of-life disposal of a building material or product, measured in
+20 kilograms of carbon dioxide equivalent (kgCO2e);
+21 (g) "environmental product declaration (EPD)" means an independently
+22 verified product-specific label that discloses the environmental impact
+23 of a manufactured product based on a life cycle assessment;
+24 (h) "global warming potential" means the impact on climate change as
+25 reported by a life cycle assessment (LCA), reported in units (typically
+26 kg) of carbon dioxide equivalent (CO2e); and
+27 (i) "product- and facility-specific environmental product declara-
+28 tions" means a type III environmental product declaration, as defined by
+29 the international organization for standardization standard 14025,
+30 representing a single product from a single manufacturing facility.
+31 § 2. Grant program for environmental product declarations. (a) The
+32 authority shall establish and administer a grant program to reimburse
+33 manufacturers of concrete for the cost of hiring a third party to devel-
+34 op product- and facility-specific environmental product declarations or
+35 acquire a software for generating product- and facility-specific envi-
+36 ronmental product declarations for concrete, asphalt, aggregate, or
+37 cementitious products.
+38 (b) The authority, in collaboration with the New York state office of
+39 general services, shall adopt rules to implement the program established
+40 under this section, including rules establishing:
+41 (i) eligibility criteria for grant applications;
+42 (ii) grant application procedures;
+43 (iii) criteria for evaluating grant applications and awarding grants;
+44 (iv) guidelines related to grant amounts;
+45 (v) limitations on billable rate and maximum hours that can be used
+46 for soft costs; and
+47 (vi) procedures for monitoring the use of a grant awarded under this
+48 section and ensuring compliance with any conditions of the grant.
+49 (c) The grants shall equal the amount paid for EPD technology imple-
+50 mentation and related soft costs manufacturers incur to support the EPD
+51 development process up to a maximum of $10,000 per plant.
+52 (d) Within amounts appropriated therefor, the office of general
+53 services shall conduct a rigorous and timely review of new and novel
+54 materials for inclusion in the New York state approved materials list.
+
+A. 6566--A 6
+1 § 3. Embodied carbon in building codes recommendation report. (a)
+2 Within amounts appropriated therefor, the authority shall conduct a
+3 study, in collaboration with the office of general services, that
+4 includes:
+5 (i) a review of the language addressing embodied carbon used in build-
+6 ing codes and policies in other jurisdictions;
+7 (ii) the development of recommendations for language addressing
+8 embodied carbon for potential adoption by the state fire prevention and
+9 building code council, and the estimated carbon savings from the primary
+10 proposed options over a 25-year period; and
+11 (iii) consideration of subject areas including, but not limited to,
+12 the applicability to buildings of different sizes with multiple compli-
+13 ance pathways phased in over time; including whole building life cycle
+14 assessments (WBLCA); reuse of existing buildings; and compliance with
+15 material carbon caps.
+16 (b) In conducting the study, the authority shall provide opportunities
+17 for comment from design, construction, and building industry stakehold-
+18 ers.
+19 (c) The authority shall submit a report of the study's findings to the
+20 appropriate committees of the legislature by December 1, 2025.
+21 § 4. This act shall take effect immediately.
+22 PART C
+23 Section 1. Section 119-ff of the general municipal law is amended by
+24 adding 5 new subdivisions 1-a, 2-a, 4-a, 4-b and 4-c to read as follows:
+25 1-a. "Common construction materials" means:
+26 (a) concrete, including ready mix concrete, shotcrete, precast
+27 concrete, and concrete masonry units;
+28 (b) asphalt paving mixtures;
+29 (c) steel, including rebar, reinforcing steel and structural steel,
+30 hot-rolled sections, hollow sections, plate steel and cold-formed steel;
+31 and
+32 (d) other materials the department of state designates by rule after
+33 consultation with the GreenNY Council reviewed every three years.
+34 2-a. "Embodied carbon" means the total greenhouse gas emissions asso-
+35 ciated with the production, transportation, installation, maintenance,
+36 and end-of-life disposal of a building material or product, measured in
+37 kilograms of carbon dioxide equivalent (kgCO2e).
+38 4-a. "Environmental product declaration (EPD)" means an independently
+39 verified product-specific label that discloses the environmental impact
+40 of a manufactured product based on a life cycle assessment.
+41 4-b. "Global warming potential (GWP)" means the impact on climate
+42 change as reported by a life cycle assessment (LCA), reported in units
+43 (typically kg) of carbon dioxide equivalent (CO2e).
+44 4-c. "Global warming potential limit" means the value established by
+45 the state to determine eligibility for commercial property assessed
+46 clean energy (PACE) financing under this article. This threshold repres-
+47 ents the median global warming potential of a material, product, or
+48 component, based on a representative sample of product-level environ-
+49 mental product declarations for that category, or relative to global
+50 warming potential values previously derived and recognized by the state.
+51 § 2. Section 119-gg of the general municipal law is amended by adding
+52 a new subdivision 10 to read as follows:
+53 10. a. Municipal corporations may provide financing for embodied
+54 carbon reduction improvements in common construction materials, defined
+
+A. 6566--A 7
+1 as materials with at least a twenty-five percent reduction in global
+2 warming potential relative to the global warming potential threshold for
+3 covered materials.
+4 b. All qualifying materials, including labor costs, and related engi-
+5 neering expenses associated with their installation at a building
+6 construction location, may be financed by the loan, provided there is
+7 full compliance with all other rules and requirements of the sustainable
+8 energy loan program.
+9 c. Loans made under the sustainable energy loan program for low-carbon
+10 materials shall be subject to verification through Type III environ-
+11 mental product declarations, whole life carbon analysis (WLCA), or other
+12 processes, and compliance with municipal or state procurement standards.
+13 d. The authority shall oversee the implementation and compliance of
+14 embodied carbon reduction loans under the commercial property assessed
+15 clean energy (PACE) framework, in consultation with responsible develop-
+16 ment corporations and municipal authorities responsible for activities
+17 related to loan marketing, approval, and disbursement.
+18 e. Materials used in building construction shall be eligible for
+19 sustainable energy loans, provided that they have been determined to be
+20 compliant with all material evaluation and acceptance criteria required
+21 by the municipal jurisdiction having authority.
+22 § 3. This act shall take effect immediately.
+23 § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
+24 sion, section or part of this act shall be adjudged by any court of
+25 competent jurisdiction to be invalid, such judgment shall not affect,
+26 impair, or invalidate the remainder thereof, but shall be confined in
+27 its operation to the clause, sentence, paragraph, subdivision, section
+28 or part thereof directly involved in the controversy in which such judg-
+29 ment shall have been rendered. It is hereby declared to be the intent of
+30 the legislature that this act would have been enacted even if such
+31 invalid provisions had not been included herein.
+32 § 3. This act shall take effect immediately provided, however, that
+33 the applicable effective dates of Parts A through C of this act shall be
+34 as specifically set forth in the last section of such Parts.

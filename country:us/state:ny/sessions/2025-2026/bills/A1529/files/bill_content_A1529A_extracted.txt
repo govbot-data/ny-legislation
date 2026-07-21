@@ -1,0 +1,644 @@
+Title: 
+Official Title: 
+Source: versions - A1529A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1529--A
+R. R. 292
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 10, 2025
+___________
+Introduced by M. of A. RIVERA, BENEDETTO, BRONSON, CLARK, COLTON,
+CONRAD, DE LOS SANTOS, DINOWITZ, GLICK, GONZALEZ-ROJAS, HEVESI, JACK-
+SON, JACOBSON, LUNSFORD, McDONOUGH, MEEKS, PEOPLES-STOKES, REYES,
+ROSENTHAL, SEAWRIGHT, SEPTIMO, SIMON, STECK, TAYLOR, STIRPE, STERN,
+WALKER, KELLES, BURDICK, SANTABARBARA, SHIMSKY, ZINERMAN, CUNNINGHAM,
+FORREST, LEVENBERG, EPSTEIN, GALLAGHER -- read once and referred to
+the Committee on Judiciary -- reported and referred to the Committee
+on Codes -- reported and referred to the Committee on Rules -- ordered
+to a third reading -- amended on the special order of third reading,
+ordered reprinted as amended, retaining its place on the special order
+of third reading
+AN ACT to amend the real property law, in relation to requiring the
+disclosure of lead-based paint test reports in real estate trans-
+actions
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings. a. The legislature hereby finds and
+2 declares that lead poisoning of children persists as one of the most
+3 prevalent and preventable environmental diseases in New York state.
+4 Nearly 100,000 children were newly identified with levels of lead in
+5 their blood at five micrograms per deciliter (mcg/dL) in New York state
+6 between 2011 and 2015.
+7 b. Medical research indicates that children can suffer permanent brain
+8 damage at blood levels even lower than 5 mcg/dL, and that there is no
+9 level of lead ingestion that is without adverse impact; indeed, in 2021
+10 the federal Centers for Disease Control and Prevention revised the blood
+11 lead reference level downward to 3.5 mcg/dL.
+12 c. Black children and children from low-income households are consist-
+13 ently found to have higher levels of lead in their blood than their
+14 white peers or their peers from higher income households.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03092-02-5
+
+A. 1529--A 2
+1 d. The predominant cause of lead poisoning in young children is the
+2 ingestion of lead particles from deteriorating or abraded lead-based
+3 paint from older and poorly maintained residences. Although New York
+4 state banned the sale of lead-based paint in 1970, (l.1970, ch. 338) 74%
+5 of New York's housing stock was constructed prior to 1970 and lead-based
+6 paint was available outside of the state until 1978. New York state has
+7 both the nation's greatest number (over 4 million units), the highest
+8 percentage (55.08%) of pre-1960 and pre-1950 (41.0%) housing, and the
+9 oldest housing inventory among the fifty states. At least ninety percent
+10 of lead-based paint still exists in occupied housing built before 1960.
+11 New York state's older housing stock places residents at great risk of
+12 exposure to lead hazards, with low-income children living in older hous-
+13 ing having the highest risk of lead poisoning.
+14 e. Knowledge of lead-based paint hazards, their control, mitigation,
+15 abatement, and risk avoidance is not sufficiently widespread. In addi-
+16 tion, while federal law requires the disclosure by sellers of real prop-
+17 erty of knowledge of the existence of lead-based paint and lead-based
+18 paint hazards, and encourages potential buyers to conduct inspections
+19 for lead-based paint, these mechanisms neither mandate that such
+20 inspections take place either by sellers or buyers. This gap in disclo-
+21 sure requirements results in residential property being transferred
+22 without any knowledge of the potential for such property to cause lead
+23 poisoning and the attendant liabilities.
+24 f. Local county health departments lack sufficient information as to
+25 which housing contains lead-based paint and the locations of such lead-
+26 based paint, resulting in less cost-effective prevention of lead poison-
+27 ing, avoidable harm to children's health, and wasted public resources.
+28 g. The purposes of this act are to assure that properties that have
+29 not been previously tested for lead-based paint are not simply trans-
+30 ferred to new owners without knowledge of whether there is lead-based
+31 paint present, and to better utilize the existing federal laws that
+32 mandate disclosure of lead-based paint and lead-based paint hazards and
+33 to aid in the prevention of lead poisoning. This act is not intended to
+34 and does not diminish the responsibility of buyers to carefully examine
+35 the property which they intend to purchase and public records pertaining
+36 to the property. This act is not intended to and does not limit existing
+37 responsibilities by a seller, buyer or agent concerning the condition of
+38 the property or potential liabilities or remedies at law, statute or in
+39 equity.
+40 This act will significantly improve the transfer process and better
+41 serve the interests of all parties to a home purchase. It will increase
+42 clarity regarding the nature of the property and will provide greater
+43 certainty to contracts entered into by better informed buyers and sell-
+44 ers. As well, it will provide incentive to owners to voluntarily test
+45 their property prior to sale.
+46 h. This act will complement existing state and local laws on lead
+47 poisoning prevention. Section 1377 of the public health law, enacted in
+48 2023, requires the department of health to develop a registry of all
+49 rental residential dwellings with two or more units built before 1980
+50 within communities of concern outside the city of New York, which will
+51 also require such dwellings be inspected for lead hazards at least every
+52 three years. This act will ensure equity of information for purchasers
+53 of all residential property built prior to 1978 regardless of location
+54 or number of units by ensuring that they receive information about the
+55 presence of lead-based paint in dwellings they purchase.
+
+A. 1529--A 3
+1 i. This act will require inspection reports that are developed to
+2 comply with this act to be included on the registry of lead inspections
+3 that the department of health is creating pursuant to section 1377 of
+4 the public health law so that future renters and purchasers can learn
+5 about lead-based paint in homes they are considering renting or purchas-
+6 ing.
+7 j. New York city has already added a requirement, subdivision a-1 of
+8 section 27-2056.4 of the administrative code of the city of New York,
+9 that all rental residential properties be tested one time for lead-based
+10 paint by August 2025. This act will not require re-testing of these
+11 residences when rental properties are sold; but will ensure equity and
+12 protect purchasers of residential properties across the state (including
+13 New York city) by requiring one-time testing for lead-based paint before
+14 any residential property is sold.
+15 § 2. The real property law is amended by adding a new article 17 to
+16 read as follows:
+17 ARTICLE 17
+18 LEAD-BASED PAINT RIGHT TO KNOW ACT
+19 Section 530. Short title.
+20 531. Definitions.
+21 532. Inspection of residential real property for lead-based
+22 paint prior to transfer of title.
+23 533. Duty of agent.
+24 534. Liability.
+25 § 530. Short title. This article shall be known and may be cited as
+26 the "lead-based paint right to know act".
+27 § 531. Definitions. As used in this article, the following terms shall
+28 have the following meanings:
+29 1. "Agent" shall mean a person who is licensed as a real estate broker
+30 or a real estate salesperson pursuant to section four hundred forty-a of
+31 this chapter and acting in a fiduciary capacity.
+32 2. "Binding contract of sale" shall mean a real estate purchase
+33 contract or offer that would, upon signing by the seller and subject to
+34 satisfaction of any contingencies, require the buyer to accept a trans-
+35 fer of title.
+36 3. "Broker" shall have the same meaning as "real estate broker"
+37 defined by section four hundred forty of this chapter.
+38 4. "Buyer" shall mean any entity that enters into a real estate
+39 purchase contract, including but not limited to individuals, partner-
+40 ships, corporations, trusts, government agencies, housing agencies,
+41 Indian tribes, and nonprofit organizations.
+42 5. "Lead-based paint" shall mean paint or other similar surface coat-
+43 ing material containing .50 milligrams of lead per square centimeter or
+44 greater, as determined by laboratory analysis of paint samples with all
+45 layers of paint present, or by an x-ray fluorescence analyzer. If an
+46 x-ray fluorescence analyzer is used, readings shall be corrected for
+47 substrate bias when necessary as specified by the performance character-
+48 istic sheets released by the United States environmental protection
+49 agency and the United States department of housing and urban development
+50 for the specific x-ray fluorescence analyzer used. X-ray fluorescence
+51 readings shall be classified as positive, negative or inconclusive in
+52 accordance with the United States department of housing and urban devel-
+53 opment guidelines for the evaluation and control of lead-based paint
+54 hazards in housing (July 2012) or successor guidelines, and the perform-
+55 ance characteristic sheets released by the United States environmental
+56 protection agency and the United States department of housing and urban
+
+A. 1529--A 4
+1 development for the specific x-ray fluorescence analyzer used. X-ray
+2 fluorescence readings that fall within the inconclusive zone, as deter-
+3 mined by the performance characteristic sheets, shall be confirmed by
+4 laboratory analysis of paint chips, the measure of such laboratory anal-
+5 ysis shall be definitive. Where a laboratory analysis of paint chips is
+6 performed (including because an x-ray fluorescence reading is inconclu-
+7 sive), the results shall be reported in percent by weight. In such
+8 case, lead-based paint shall mean any paint or other similar surface-
+9 coating material containing more than 0.009 percent (or 90 parts per
+10 million) of metallic lead, based on the non-volatile content of the
+11 paint or other similar surface-coating material. In the event that the
+12 United States environmental protection agency or a successor agency, or
+13 the United States department of housing and urban development or a
+14 successor agency, or the United States consumer product safety commis-
+15 sion or a successor agency, or a department or agency of the state of
+16 New York that has obtained applicable authorization pursuant to 40
+17 C.F.R. part 745 subpart Q or successor regulation, adopts more stringent
+18 definitions of lead-based paint, such more stringent definitions shall
+19 apply for the purposes of this article.
+20 6. "Real estate purchase contract" shall mean any of the following:
+21 (a) a contract which provides for the purchase and sale or exchange of
+22 residential real property;
+23 (b) a lease with an option to purchase residential real property;
+24 (c) a lease-with-obligation-to-purchase agreement for residential real
+25 property; or
+26 (d) an installment land sale contract for residential real property.
+27 7. "Residential real property" shall mean real property improved by a
+28 residential dwelling erected prior to the year nineteen hundred seven-
+29 ty-eight.
+30 8. "Residential dwelling" shall mean a single-family dwelling, includ-
+31 ing attached structures such as porches and stoops, or a single-family
+32 dwelling unit within a structure that contains more than one separate
+33 residential dwelling unit, used or occupied, or designed to be used or
+34 occupied, wholly or partly, as the home or residence of one or more
+35 persons whether or not it was or will be occupied.
+36 9. "Seller" shall mean any entity that intends to engage in the trans-
+37 fer of title to a buyer of residential real property, in whole or in
+38 part, including but not limited to individuals, partnerships, corpo-
+39 rations, trusts, government agencies, housing agencies, Indian tribes,
+40 mortgage banker, lender, and nonprofit organizations. The term "seller"
+41 also shall mean an entity that transfers shares in a cooperatively owned
+42 project.
+43 10. "Test for lead-based paint" shall mean a test for the presence of
+44 lead-based paint that has been conducted through a lead-based paint
+45 inspection as defined in 40 C.F.R. 745.103, 24 C.F.R. 35.86, and the
+46 United States department of housing and urban development guidelines for
+47 the evaluation and control of lead-based paint hazards in housing (July
+48 2012), or successor regulations and guidelines, and a report prepared
+49 indicating the results of such test, including the locations where tests
+50 were performed for lead-based paint and the readings of all such tests.
+51 Such test shall not be valid unless performed by a person accredited
+52 pursuant to: (a) certification to conduct lead hazard risk assessment or
+53 inspections by the United States environmental protection agency pursu-
+54 ant to 40 C.F.R. 745.226(b) or successor regulation; or (b) certif-
+55 ication by a state or tribal program authorized by the United States
+56 environmental protection agency to certify individuals engaged in lead-
+
+A. 1529--A 5
+1 based paint activities pursuant to 40 C.F.R. 745.325 or successor regu-
+2 lation or eligible to conduct the inspections required by this article.
+3 For multifamily housing, the test must be conducted in accordance with
+4 the United States department of housing and urban development guidelines
+5 for the evaluation and control of lead-based paint hazards in housing
+6 (July 2012), or successor guidelines. Such inspection shall consist of
+7 the use of an x-ray fluorescence analyzer on all types of surfaces in
+8 accordance with the procedures described in chapter 7 of the United
+9 States department of housing and urban development guidelines for the
+10 evaluation and control of lead-based paint hazards in housing (July
+11 2012), or successor regulations, including on chewable surfaces, fric-
+12 tion surfaces, and impact surfaces, to determine whether lead-based
+13 paint is present, and where such paint is located, in such dwelling
+14 unit.
+15 11. "Transfer of title" shall mean delivery of a properly executed
+16 instrument conveying title to residential real property and shall
+17 include delivery of a real estate purchase contract that is a lease or
+18 installment land sale contract.
+19 § 532. Inspection of residential real property for lead-based paint
+20 prior to transfer of title. 1. (a) Effective August first, two thousand
+21 twenty-six, every seller of residential real property pursuant to a real
+22 estate purchase contract shall deliver to a buyer or buyer's agent prior
+23 to the signing by the buyer of a binding contract of sale a certificate
+24 that such property has been tested for lead-based paint, and provide the
+25 report of such test. The seller shall attach a copy of the certificate
+26 containing the signature of the seller and any report of a test for
+27 lead-based paint to the real estate purchase contract. The seller shall
+28 submit a copy of such certificate and report of such test and any subse-
+29 quent reports of such tests to the office authorized under section three
+30 hundred seventy-two of this chapter to be registrar of title in the
+31 county where such real property is located, and such office shall not
+32 accept for filing an instrument of transfer of title unless accompanied
+33 by such certificate where applicable. The seller shall also file such
+34 certificate and report with the registry established by the department
+35 of health pursuant to subdivision one of section thirteen hundred seven-
+36 ty-seven of the public health law. The registry shall be publicly acces-
+37 sible online, translated consistent with section two hundred two-a of
+38 the executive law, and easy to navigate and read by people with an
+39 eighth grade education or less. The department of health shall notify
+40 the county department of health in the location of the property sale
+41 about new entries in the registry coming from property sales.
+42 (b) The presentation of a certificate of such test by a prior owner of
+43 such property and evidence of filing such certificate and report with
+44 the department of health in the county where such residential real prop-
+45 erty is located, and with the registry established by the department of
+46 health pursuant to subdivision one of section thirteen hundred seventy-
+47 seven of the public health law, shall be deemed to be in compliance with
+48 the provisions of this subdivision.
+49 (c) In the event the seller has not received from a prior owner a
+50 certification and report of such tests as set forth in this subdivision,
+51 the costs of testing for lead-based paint and the preparation of a
+52 certificate and report thereof as provided in this subdivision shall be
+53 deductible by the transferor or grantor, up to the amount of five
+54 hundred dollars, or in a building with more than one dwelling unit up to
+55 four hundred dollars per dwelling unit tested, from the taxes imposed by
+56 sections fourteen hundred two and fourteen hundred two-a of the tax law.
+
+A. 1529--A 6
+1 The transferor or grantor shall not be reimbursed for costs in excess of
+2 the total taxes imposed by sections fourteen hundred two and fourteen
+3 hundred two-a of the tax law.
+4 2. Any provision in a real estate purchase contract or any other docu-
+5 ment related to the transfer of title in residential real property that
+6 purports to waive any right created under state or federal law for the
+7 buyer to conduct a risk assessment or inspection of the property to
+8 determine the presence of lead-based paint and/or lead-based paint
+9 hazards, or any oral agreement that purports to waive such right, is
+10 null and void as against public policy, notwithstanding that such waiv-
+11 ers might otherwise be permitted by federal law.
+12 3. A certificate that such property has been tested for lead-based
+13 paint shall not be required in connection with any of the following
+14 transfers of residential real property:
+15 (a) A transfer to a beneficiary of a deed of trust;
+16 (b) A transfer by a fiduciary in the course of the administration of a
+17 decedent's estate, a guardianship, a conservatorship, or a trust;
+18 (c) A transfer from one co-owner to one or more other co-owners;
+19 (d) A transfer made to the transferor's spouse or to one or more
+20 persons in the lineal consanguinity of one or more of the transferors;
+21 (e) A transfer between spouses or former spouses as a result of a
+22 decree of divorce, dissolution of marriage, annulment, or legal sepa-
+23 ration or as a result of property settlement, agreement incidental to a
+24 decree of divorce, dissolution of marriage, annulment or legal sepa-
+25 ration;
+26 (f) A transfer to or from the state, a political subdivision of the
+27 state, or another governmental entity;
+28 (g) A transfer by a sheriff;
+29 (h) A transfer pursuant to a partition action; or
+30 (i) A transfer of an unoccupied dwelling unit or residential property
+31 that is to be demolished, provided the dwelling unit or property will
+32 remain unoccupied until demolition and lead-safe work practices enumer-
+33 ated in 40 C.F.R. 745 and successor regulations, or more protective
+34 state law are followed during the demolition.
+35 4. Nothing contained in this article is intended to prevent the
+36 parties to a contract of sale from entering into agreements of any kind
+37 or nature with respect to the physical condition of the property to be
+38 sold, including, but not limited to, agreements for the sale of real
+39 property "as is".
+40 § 533. Duty of agent. An agent representing a seller of residential
+41 real property as a listing broker, or, if the seller is not represented
+42 by an agent, the agent representing the buyer of residential real prop-
+43 erty and dealing with a prospective seller, shall have the duty to time-
+44 ly (in any event, before the buyer signs a binding contract of sale)
+45 inform each seller of the seller's obligations under this article. An
+46 agent representing a buyer of residential real property, or, if the
+47 buyer is not represented by an agent, the agent representing a seller of
+48 residential real property and dealing with a prospective buyer, shall
+49 have the duty to timely (in any event, before the buyer signs a binding
+50 contract of sale) inform such buyer of the buyer's rights and obli-
+51 gations under this article. If an agent performs the duties and obli-
+52 gations imposed upon such agent pursuant to this section, the agent
+53 shall have no further duties under this article and shall not be liable
+54 to any party for a violation of this article. The department of state
+55 may, pursuant to section four hundred forty-one-c of this chapter,
+56 revoke or suspend the license of an agent who violates this article.
+
+A. 1529--A 7
+1 § 534. Liability. Nothing contained in this article shall be construed
+2 as limiting any existing legal cause of action or remedy at law, in
+3 statute or in equity.
+4 § 3. The real property law is amended by adding a new section 235-aa
+5 to read as follows:
+6 § 235-aa. Disclosure of lead-based paint and lead-based paint hazards.
+7 1. Prior to executing a residential lease or rental agreement with a
+8 tenant, the owner of real property shall provide the tenant a copy of
+9 all reports of a test for lead-based paint issued or prepared pursuant
+10 to section five hundred thirty-two of this chapter, and any other
+11 report, within the possession or control of the owner, pertaining to
+12 lead-based paint or lead-based paint hazards within the meaning of
+13 section 4852d of title 42 of the United States Code and the regulations
+14 thereunder. Owners who deliver a disclosure form with all required docu-
+15 ments under the provisions of section 4852d of title 42 of the United
+16 States Code and the regulations thereunder shall be deemed to have
+17 complied with the requirements of this subdivision.
+18 2. Any agreement by a lessee or tenant of premises for dwelling
+19 purposes waiving or modifying such lessee or tenant's rights as set
+20 forth in this section shall be void as contrary to public policy.
+21 3. An owner who violates this section shall be liable for a civil
+22 penalty not to exceed ten thousand dollars, and in addition, a penalty
+23 to the tenant not to exceed the equivalent of the amount of rental
+24 payments for three months plus any attorney's fees. The powers and
+25 remedies set forth in this section shall be in addition to all other
+26 existing legal cause of action or remedy at law, in statute or in equi-
+27 ty.
+28 § 4. Subdivision 2 of section 462 of the real property law, as amended
+29 by chapter 353 of the laws of 2024, is amended to read as follows:
+30 2. The following shall be the disclosure form:
+31 PROPERTY CONDITION DISCLOSURE STATEMENT
+32 NAME OF SELLER OR SELLERS:
+33 PROPERTY ADDRESS:
+34 THE PROPERTY CONDITION DISCLOSURE ACT REQUIRES THE SELLER OF RESIDEN-
+35 TIAL REAL PROPERTY TO CAUSE THIS DISCLOSURE STATEMENT OR A COPY THEREOF
+36 TO BE DELIVERED TO A BUYER OR BUYER'S AGENT PRIOR TO THE SIGNING BY THE
+37 BUYER OF A BINDING CONTRACT OF SALE.
+38 PURPOSE OF STATEMENT: THIS IS A STATEMENT OF CERTAIN CONDITIONS AND
+39 INFORMATION CONCERNING THE PROPERTY KNOWN TO THE SELLER. THIS DISCLOSURE
+40 STATEMENT IS NOT A WARRANTY OF ANY KIND BY THE SELLER OR BY ANY AGENT
+41 REPRESENTING THE SELLER IN THIS TRANSACTION. IT IS NOT A SUBSTITUTE FOR
+42 ANY INSPECTIONS OR TESTS AND THE BUYER IS ENCOURAGED TO OBTAIN [HIS OR
+43 HER] THEIR OWN INDEPENDENT PROFESSIONAL INSPECTIONS AND ENVIRONMENTAL
+44 TESTS AND ALSO IS ENCOURAGED TO CHECK PUBLIC RECORDS PERTAINING TO THE
+45 PROPERTY.
+46 A KNOWINGLY FALSE OR INCOMPLETE STATEMENT BY THE SELLER ON THIS FORM
+47 MAY SUBJECT THE SELLER TO CLAIMS BY THE BUYER PRIOR TO OR AFTER THE
+48 TRANSFER OF TITLE.
+49 "RESIDENTIAL REAL PROPERTY" MEANS REAL PROPERTY IMPROVED BY A ONE TO
+50 FOUR FAMILY DWELLING USED OR OCCUPIED, OR INTENDED TO BE USED OR OCCU-
+51 PIED, WHOLLY OR PARTLY, AS THE HOME OR RESIDENCE OF ONE OR MORE PERSONS,
+52 BUT SHALL NOT REFER TO (A) UNIMPROVED REAL PROPERTY UPON WHICH SUCH
+53 DWELLINGS ARE TO BE CONSTRUCTED OR (B) CONDOMINIUM UNITS OR COOPERATIVE
+54 APARTMENTS OR (C) PROPERTY ON A HOMEOWNERS' ASSOCIATION THAT IS NOT
+55 OWNED IN FEE SIMPLE BY THE SELLER.
+
+A. 1529--A 8
+1 INSTRUCTIONS TO THE SELLER:
+2 (a) ANSWER ALL QUESTIONS BASED UPON YOUR ACTUAL KNOWLEDGE.
+3 (b) ATTACH ADDITIONAL PAGES WITH YOUR SIGNATURE IF ADDITIONAL SPACE IS
+4 REQUIRED.
+5 (c) COMPLETE THIS FORM YOURSELF.
+6 (d) IF SOME ITEMS DO NOT APPLY TO YOUR PROPERTY, CHECK "NA" (NON-AP-
+7 PLICABLE). IF YOU DO NOT KNOW THE ANSWER CHECK "UNKN" (UNKNOWN).
+8 SELLER'S STATEMENT: THE SELLER MAKES THE FOLLOWING REPRESENTATIONS TO
+9 THE BUYER BASED UPON THE SELLER'S ACTUAL KNOWLEDGE AT THE TIME OF SIGN-
+10 ING THIS DOCUMENT. THE SELLER AUTHORIZES [HIS OR HER] THEIR AGENT, IF
+11 ANY, TO PROVIDE A COPY OF THIS STATEMENT TO A PROSPECTIVE BUYER OF THE
+12 RESIDENTIAL REAL PROPERTY. THE FOLLOWING ARE REPRESENTATIONS MADE BY THE
+13 SELLER AND ARE NOT THE REPRESENTATIONS OF THE SELLER'S AGENT.
+14 GENERAL INFORMATION
+15 1. HOW LONG HAVE YOU OWNED THE PROPERTY?
+16 2. HOW LONG HAVE YOU OCCUPIED THE PROPERTY?
+17 3. WHAT IS THE AGE OF THE STRUCTURE OR STRUCTURES? NOTE TO BUYER--IF
+18 THE STRUCTURE WAS BUILT BEFORE 1978 YOU ARE ENCOURAGED TO INVESTI-
+19 GATE FOR THE PRESENCE OF LEAD BASED PAINT HAZARDS. IN ADDITION, NEW
+20 YORK REAL PROPERTY LAW REQUIRES THE SELLER TO PRODUCE THE RESULTS
+21 OF A TEST OF ALL THE PAINTED SURFACES FOR LEAD, OR TO CONDUCT SUCH
+22 TEST IF NOT PREVIOUSLY PERFORMED.
+23 4. DOES ANYBODY OTHER THAN YOURSELF HAVE A LEASE, EASEMENT OR ANY
+24 OTHER RIGHT TO USE OR OCCUPY ANY PART OF YOUR PROPERTY OTHER THAN
+25 THOSE STATED IN DOCUMENTS AVAILABLE IN THE PUBLIC RECORD, SUCH AS
+26 RIGHTS TO USE A ROAD OR PATH OR CUT TREES OR CROPS. YES NO UNKN NA
+27 5. DOES ANYBODY ELSE CLAIM TO OWN ANY PART OF YOUR PROPERTY? YES NO
+28 UNKN NA (IF YES, EXPLAIN BELOW)
+29 6. HAS ANYONE DENIED YOU ACCESS TO THE PROPERTY OR MADE A FORMAL LEGAL
+30 CLAIM CHALLENGING YOUR TITLE TO THE PROPERTY? YES NO UNKN NA (IF
+31 YES, EXPLAIN BELOW)
+32 7. ARE THERE ANY FEATURES OF THE PROPERTY SHARED IN COMMON WITH
+33 ADJOINING LAND OWNERS OR A HOMEOWNERS ASSOCIATION, SUCH AS WALLS,
+34 FENCES OR DRIVEWAYS? YES NO UNKN NA (IF YES DESCRIBE BELOW)
+35 8. ARE THERE ANY ELECTRIC OR GAS UTILITY SURCHARGES FOR LINE EXTEN-
+36 SIONS, SPECIAL ASSESSMENTS OR HOMEOWNER OR OTHER ASSOCIATION FEES
+37 THAT APPLY TO THE PROPERTY? YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+38 9. ARE THERE CERTIFICATES OF OCCUPANCY RELATED TO THE PROPERTY? YES
+39 NO UNKN NA (IF NO, EXPLAIN BELOW)
+40 ENVIRONMENTAL
+41 NOTE TO SELLER - IN THIS SECTION, YOU WILL BE ASKED QUESTIONS REGARD-
+42 ING PETROLEUM PRODUCTS AND HAZARDOUS OR TOXIC SUBSTANCES THAT YOU KNOW
+43 TO HAVE BEEN SPILLED, LEAKED OR OTHERWISE BEEN RELEASED ON THE PROPERTY
+44 OR FROM THE PROPERTY ONTO ANY OTHER PROPERTY. PETROLEUM PRODUCTS MAY
+45 INCLUDE, BUT ARE NOT LIMITED TO, GASOLINE, DIESEL FUEL, HOME HEATING
+46 FUEL, AND LUBRICANTS. HAZARDOUS OR TOXIC SUBSTANCES ARE PRODUCTS OR
+47 OTHER MATERIAL THAT COULD POSE SHORT- OR LONG-TERM DANGER TO PERSONAL
+48 HEALTH OR THE ENVIRONMENT IF THEY ARE NOT PROPERLY DISPOSED OF, APPLIED
+49 OR STORED. THESE INCLUDE, BUT ARE NOT LIMITED TO, FERTILIZERS, PESTI-
+50 CIDES AND INSECTICIDES, PAINT INCLUDING PAINT THINNER, VARNISH REMOVER
+51 AND WOOD PRESERVATIVES, TREATED WOOD, CONSTRUCTION MATERIALS SUCH AS
+52 ASPHALT AND ROOFING MATERIALS, ANTIFREEZE AND OTHER AUTOMOTIVE PRODUCTS,
+53 BATTERIES, CLEANING SOLVENTS INCLUDING SEPTIC TANK CLEANERS, HOUSEHOLD
+
+A. 1529--A 9
+1 CLEANERS, POOL CHEMICALS, PRODUCTS CONTAINING MERCURY AND LEAD AND
+2 INDOOR MOLD.
+3 NOTE TO BUYER - IF CONTAMINATION OF THIS PROPERTY FROM PETROLEUM
+4 PRODUCTS AND/OR HAZARDOUS OR TOXIC SUBSTANCES IS A CONCERN TO YOU, YOU
+5 ARE URGED TO CONSIDER SOIL AND GROUNDWATER TESTING OF THIS PROPERTY. IF
+6 LEAD IN DRINKING WATER IS A CONCERN TO YOU, YOU ARE URGED TO HAVE THE
+7 PLUMBING EXAMINED, INCLUDING THE SERVICE LINE.
+8 10. IS ANY OR ALL OF THE PROPERTY LOCATED IN A FEDERAL EMERGENCY
+9 MANAGEMENT AGENCY (FEMA) DESIGNATED FLOODPLAIN? YES NO UNKN NA
+10 (IF YES, EXPLAIN BELOW)
+11 11. IS ANY OR ALL OF THE PROPERTY LOCATED WHOLLY OR PARTIALLY IN THE
+12 SPECIAL FLOOD HAZARD AREA ("SFHA"; "100-YEAR FLOODPLAIN") ACCORD-
+13 ING TO THE FEDERAL EMERGENCY MANAGEMENT AGENCY'S (FEMA'S) CURRENT
+14 FLOOD INSURANCE RATE MAPS FOR YOUR AREA? YES NO UNKN NA (IF YES,
+15 EXPLAIN BELOW)
+16 12. IS ANY OR ALL OF THE PROPERTY LOCATED WHOLLY OR PARTIALLY IN A
+17 MODERATE RISK FLOOD HAZARD AREA ("500-YEAR FLOODPLAIN") ACCORDING
+18 TO FEMA'S CURRENT FLOOD INSURANCE RATE MAPS FOR YOUR AREA? YES NO
+19 UNKN NA (IF YES, EXPLAIN BELOW)
+20 13. IS THE PROPERTY SUBJECT TO ANY REQUIREMENT UNDER FEDERAL LAW TO
+21 OBTAIN AND MAINTAIN FLOOD INSURANCE ON THE PROPERTY? YES NO UNKN
+22 NA (IF YES, EXPLAIN BELOW)
+23 HOMES IN THE SPECIAL FLOOD HAZARD AREA, ALSO KNOWN AS HIGH RISK
+24 FLOOD ZONES, ON FEMA'S FLOOD INSURANCE RATE MAPS WITH MORTGAGES
+25 FROM FEDERALLY REGULATED OR INSURED LENDERS ARE REQUIRED TO OBTAIN
+26 AND MAINTAIN FLOOD INSURANCE. EVEN WHEN NOT REQUIRED, FEMA ENCOUR-
+27 AGES HOMEOWNERS IN HIGH RISK, MODERATE RISK, AND LOW RISK FLOOD
+28 ZONES TO PURCHASE FLOOD INSURANCE THAT COVERS THE STRUCTURE(S) AND
+29 THE PERSONAL PROPERTY WITHIN THE STRUCTURE(S). ALSO NOTE THAT
+30 HOMES IN COASTAL AREAS MAY BE SUBJECT TO INCREASED RISK OF FLOOD-
+31 ING OVER TIME DUE TO PROJECTED SEA LEVEL RISE AND INCREASED
+32 EXTREME STORMS CAUSED BY CLIMATE CHANGE WHICH MAY NOT BE REFLECTED
+33 IN CURRENT FLOOD INSURANCE RATE MAPS.
+34 14. HAVE YOU EVER RECEIVED ASSISTANCE, OR ARE YOU AWARE OF ANY PREVI-
+35 OUS OWNERS RECEIVING ASSISTANCE, FROM THE FEDERAL EMERGENCY
+36 MANAGEMENT AGENCY (FEMA), THE U.S. SMALL BUSINESS ADMINISTRATION
+37 (SBA), OR ANY OTHER FEDERAL DISASTER FLOOD ASSISTANCE FOR FLOOD
+38 DAMAGE TO THE PROPERTY? YES NO UNKN NA (IF YES, EXPLAIN BELOW) FOR
+39 PROPERTIES THAT HAVE RECEIVED FEDERAL DISASTER ASSISTANCE, THE
+40 REQUIREMENT TO OBTAIN FLOOD INSURANCE PASSES DOWN TO ALL FUTURE
+41 OWNERS. FAILURE TO OBTAIN AND MAINTAIN FLOOD INSURANCE CAN RESULT
+42 IN AN INDIVIDUAL BEING INELIGIBLE FOR FUTURE ASSISTANCE.
+43 15. IS THERE FLOOD INSURANCE ON THE PROPERTY? YES NO UNKN NA (IF YES,
+44 ATTACH A COPY OF THE POLICY)
+45 A STANDARD HOMEOWNER'S INSURANCE POLICY TYPICALLY DOES NOT COVER
+46 FLOOD DAMAGE. YOU ARE ENCOURAGED TO EXAMINE YOUR POLICY TO DETER-
+47 MINE WHETHER YOU ARE COVERED.
+48 16. IS THERE A FEMA ELEVATION CERTIFICATE AVAILABLE FOR THE PROPERTY?
+49 YES NO UNKN NA (IF YES, ATTACH A COPY OF THE CERTIFICATE)
+50 AN ELEVATION CERTIFICATE IS A FEMA FORM, COMPLETED BY A LICENSED
+51 SURVEYOR OR ENGINEER. THE FORM PROVIDES CRITICAL INFORMATION ABOUT
+52 THE FLOOD RISK OF THE PROPERTY AND IS USED BY FLOOD INSURANCE
+53 PROVIDERS UNDER THE NATIONAL FLOOD INSURANCE PROGRAM (NFIP) TO
+54 HELP DETERMINE THE APPROPRIATE FLOOD INSURANCE RATING FOR THE
+
+A. 1529--A 10
+1 PROPERTY. A BUYER MAY BE ABLE TO USE THE ELEVATION CERTIFICATE
+2 FROM A PREVIOUS OWNER FOR THEIR FLOOD INSURANCE POLICY.
+3 17. HAVE YOU EVER FILED A CLAIM FOR FLOOD DAMAGE TO THE PROPERTY WITH
+4 ANY INSURANCE PROVIDER, INCLUDING THE NATIONAL FLOOD INSURANCE
+5 PROGRAM (NFIP)? YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+6 18. IS ANY OR ALL OF THE PROPERTY LOCATED IN A DESIGNATED WETLAND?
+7 YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+8 19. IS THE PROPERTY LOCATED IN AN AGRICULTURAL DISTRICT? YES NO
+9 UNKN NA (IF YES, EXPLAIN BELOW)
+10 20. WAS THE PROPERTY EVER THE SITE OF A LANDFILL? YES NO UNKN NA
+11 (IF YES, EXPLAIN BELOW)
+12 21. ARE THERE OR HAVE THERE EVER BEEN FUEL STORAGE TANKS ABOVE OR
+13 BELOW THE GROUND ON THE PROPERTY? YES NO UNKN NA IF YES,
+14 ARE THEY CURRENTLY IN USE? YES NO UNKN NA LOCATION(S) ARE THEY
+15 LEAKING OR HAVE THEY EVER LEAKED? YES NO UNKN NA (IF YES,
+16 EXPLAIN BELOW)
+17 22. IS THERE ASBESTOS IN THE STRUCTURE? YES NO UNKN NA (IF YES, STATE
+18 LOCATION OR LOCATIONS BELOW)
+19 23. IS LEAD PLUMBING PRESENT? YES NO UNKN NA (IF YES, STATE LOCATION
+20 OR LOCATIONS BELOW)
+21 24. HAS A RADON TEST BEEN DONE? YES NO UNKN NA (IF YES, ATTACH A COPY
+22 OF THE REPORT)
+23 25. HAS MOTOR FUEL, MOTOR OIL, HOME HEATING FUEL, LUBRICATING OIL OR
+24 ANY OTHER PETROLEUM PRODUCT, METHANE GAS, OR ANY HAZARDOUS OR
+25 TOXIC SUBSTANCE SPILLED, LEAKED OR OTHERWISE BEEN RELEASED ON
+26 THE PROPERTY OR FROM THE PROPERTY ONTO ANY OTHER PROPERTY? YES
+27 NO UNKN NA (IF YES, DESCRIBE BELOW)
+28 26. HAS THE PROPERTY BEEN TESTED FOR THE PRESENCE OF MOTOR FUEL, MOTOR
+29 OIL, HOME HEATING FUEL, LUBRICATING OIL, OR ANY OTHER PETROLEUM
+30 PRODUCT, METHANE GAS, OR ANY HAZARDOUS OR TOXIC SUBSTANCE? YES
+31 NO UNKN NA (IF YES, ATTACH REPORT(S))
+32 27. HAS THE PROPERTY BEEN TESTED FOR INDOOR MOLD? YES NO UNKN (IF YES,
+33 ATTACH A COPY OF THE REPORT)
+34 STRUCTURAL
+35 28. IS THERE ANY ROT OR WATER DAMAGE TO THE STRUCTURE OR STRUCTURES?
+36 YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+37 29. IS THERE ANY FIRE OR SMOKE DAMAGE TO THE STRUCTURE OR STRUCTURES?
+38 YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+39 30. IS THERE ANY TERMITE, INSECT, RODENT OR PEST INFESTATION OR
+40 DAMAGE? YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+41 31. HAS THE PROPERTY BEEN TESTED FOR TERMITE, INSECT, RODENT OR PEST
+42 INFESTATION OR DAMAGE? YES NO UNKN NA (IF YES, PLEASE ATTACH
+43 REPORT(S))
+44 32. WHAT IS THE TYPE OF ROOF/ROOF COVERING (SLATE, ASPHALT, OTHER.)?
+45 ANY KNOWN MATERIAL DEFECTS? HOW OLD IS THE ROOF? IS THERE A TRANS-
+46 FERABLE WARRANTY ON THE ROOF IN EFFECT NOW? YES NO UNKN NA (IF
+47 YES, EXPLAIN BELOW)
+48 33. ARE THERE ANY KNOWN MATERIAL DEFECTS IN ANY OF THE FOLLOWING
+49 STRUCTURAL SYSTEMS: FOOTINGS, BEAMS, GIRDERS, LINTELS, COLUMNS OR
+50 PARTITIONS? YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+51 MECHANICAL SYSTEMS & SERVICES
+52 34. WHAT IS THE WATER SOURCE (CIRCLE ALL THAT APPLY - WELL, PRIVATE,
+53 MUNICIPAL, OTHER)? IF MUNICIPAL, IS IT METERED? YES NO UNKN NA
+
+A. 1529--A 11
+1 35. HAS THE WATER QUALITY AND/OR FLOW RATE BEEN TESTED? YES NO UNKN NA
+2 (IF YES, DESCRIBE BELOW)
+3 36. WHAT IS THE TYPE OF SEWAGE SYSTEM (CIRCLE ALL THAT APPLY - PUBLIC
+4 SEWER, PRIVATE SEWER, SEPTIC OR CESSPOOL)? IF SEPTIC OR CESSPOOL,
+5 AGE? ________ DATE LAST PUMPED? ________ FREQUENCY OF PUMPING?
+6 ________ ANY KNOWN MATERIAL DEFECTS? YES NO UNKN NA (IF YES,
+7 EXPLAIN BELOW)
+8 More information on "septic system operation and maintenance" can
+9 be found on the NYS Department of Health website in the informa-
+10 tional health pamphlet made available by the Department of Health
+11 pursuant to section 396-s of NYS general business law.
+12 37. WHO IS YOUR ELECTRIC SERVICE PROVIDER? ________ WHAT IS THE AMPER-
+13 AGE? ________ DOES IT HAVE CIRCUIT BREAKERS OR FUSES? ________
+14 PRIVATE OR PUBLIC POLES? ________ ANY KNOWN MATERIAL DEFECTS? YES
+15 NO UNKN NA (IF YES, EXPLAIN BELOW)
+16 38. ARE THERE ANY FLOODING, DRAINAGE OR GRADING PROBLEMS THAT RESULTED
+17 IN STANDING WATER ON ANY PORTION OF THE PROPERTY? YES NO UNKN NA
+18 (IF YES, STATE LOCATIONS AND EXPLAIN BELOW)
+19 39. HAS THE STRUCTURE(S) EXPERIENCED ANY WATER PENETRATION OR DAMAGE
+20 DUE TO SEEPAGE OR A NATURAL FLOOD EVENT, SUCH AS FROM HEAVY RAIN-
+21 FALL, COASTAL STORM SURGE, TIDAL INUNDATION OR RIVER OVERFLOW?
+22 YES NO UNKN NA (IF YES, EXPLAIN BELOW)
+23 ARE THERE ANY KNOWN MATERIAL DEFECTS IN ANY OF THE FOLLOWING (IF YES,
+24 EXPLAIN BELOW. USE ADDITIONAL SHEETS IF NECESSARY.):
+25 40. PLUMBING SYSTEM? YES NO UNKN NA
+26 41. SECURITY SYSTEM? YES NO UNKN NA
+27 42. CARBON MONOXIDE DETECTOR? YES NO UNKN NA
+28 43. SMOKE DETECTOR? YES NO UNKN NA
+29 44. FIRE SPRINKLER SYSTEM? YES NO UNKN NA
+30 45. SUMP PUMP? YES NO UNKN NA
+31 46. FOUNDATION/SLAB? YES NO UNKN NA
+32 47. INTERIOR WALLS/CEILINGS? YES NO UNKN NA
+33 48. EXTERIOR WALLS OR SIDING? YES NO UNKN NA
+34 49. FLOORS? YES NO UNKN NA
+35 50. CHIMNEY/FIREPLACE OR STOVE? YES NO UNKN NA
+36 51. PATIO/DECK? YES NO UNKN NA
+37 52. DRIVEWAY? YES NO UNKN NA
+38 53. AIR CONDITIONER? YES NO UNKN NA
+39 54. HEATING SYSTEM? YES NO UNKN NA
+40 55. HOT WATER HEATER? YES NO UNKN NA
+41 56. THE PROPERTY IS LOCATED IN THE FOLLOWING SCHOOL DISTRICT UNKN
+42 NOTE: BUYER IS ENCOURAGED TO CHECK PUBLIC RECORDS CONCERNING THE
+43 PROPERTY (E.G. TAX RECORDS AND WETLAND AND FEMA'S CURRENT FLOOD
+44 INSURANCE RATE MAPS AND ELEVATION CERTIFICATES)
+45 THE SELLER SHOULD USE THIS AREA TO FURTHER EXPLAIN ANY ITEM ABOVE. IF
+46 NECESSARY, ATTACH ADDITIONAL PAGES AND INDICATE HERE THE NUMBER OF ADDI-
+47 TIONAL PAGES ATTACHED.
+48 ______________________________________________________________
+49 ______________________________________________________________
+50 ______________________________________________________________
+51 ______________________________________________________________
+52 SELLER'S CERTIFICATION: SELLER CERTIFIES THAT THE INFORMATION IN THIS
+53 PROPERTY CONDITION DISCLOSURE STATEMENT IS TRUE AND COMPLETE TO THE
+54 SELLER'S ACTUAL KNOWLEDGE AS OF THE DATE SIGNED BY THE SELLER. IF A
+55 SELLER OF RESIDENTIAL REAL PROPERTY ACQUIRES KNOWLEDGE WHICH RENDERS
+56 MATERIALLY INACCURATE A PROPERTY CONDITION DISCLOSURE STATEMENT PROVIDED
+
+A. 1529--A 12
+1 PREVIOUSLY, THE SELLER SHALL DELIVER A REVISED PROPERTY CONDITION
+2 DISCLOSURE STATEMENT TO THE BUYER AS SOON AS PRACTICABLE. IN NO EVENT,
+3 HOWEVER, SHALL A SELLER BE REQUIRED TO PROVIDE A REVISED PROPERTY CONDI-
+4 TION DISCLOSURE STATEMENT AFTER THE TRANSFER OF TITLE FROM THE SELLER TO
+5 THE BUYER OR OCCUPANCY BY THE BUYER, WHICHEVER IS EARLIER.
+6 SELLER__________ DATE___________
+7 SELLER__________ DATE___________
+8 BUYER'S ACKNOWLEDGMENT: BUYER ACKNOWLEDGES RECEIPT OF A COPY OF THIS
+9 STATEMENT AND BUYER UNDERSTANDS THAT THIS INFORMATION IS A STATEMENT OF
+10 CERTAIN CONDITIONS AND INFORMATION CONCERNING THE PROPERTY KNOWN TO THE
+11 SELLER. IT IS NOT A WARRANTY OF ANY KIND BY THE SELLER OR SELLER'S AGENT
+12 AND IS NOT A SUBSTITUTE FOR ANY HOME, PEST, RADON OR OTHER INSPECTIONS
+13 OR TESTING OF THE PROPERTY OR INSPECTION OF THE PUBLIC RECORDS.
+14 BUYER__________ DATE__________
+15 BUYER__________ DATE _________
+16 § 5. This act shall take effect August 1, 2026; provided, however,
+17 that if chapter 353 of the laws of 2024 shall not have taken effect on
+18 or before such date then section four of this act shall take effect on
+19 the same date and in the same manner as such chapter of the laws of 2024
+20 takes effect. Effective immediately, the addition, amendment, and/or
+21 repeal of any rule or regulation necessary for the implementation of
+22 this act on its effective date are authorized to be made and completed
+23 on or before such effective date.

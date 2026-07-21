@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - A8456A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8456--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 16, 2025
+___________
+Introduced by M. of A. KELLES, GALLAGHER -- read once and referred to
+the Committee on Governmental Operations -- recommitted to the Commit-
+tee on Governmental Operations in accordance with Assembly Rule 3,
+sec. 2 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the executive law, in relation to enacting the "low-car-
+bon building construction act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "low-carbon building construction act".
+3 § 2. The executive law is amended by adding a new section 382-c to
+4 read as follows:
+5 § 382-c. Low-carbon building construction. 1. For the purposes of
+6 this section, the following terms shall have the following meanings:
+7 (a) "covered products" means:
+8 (i) structural concrete products, including ready mix, shotcrete,
+9 precast, and concrete masonry units;
+10 (ii) reinforcing steel products, including rebar and post tensioning
+11 tendons;
+12 (iii) structural steel products, including hot rolled sections, hollow
+13 sections, plate, open-web steel joists, and metal deck;
+14 (iv) engineered wood products including mass timber products such as
+15 laminated veneer lumber, parallel strand lumber, cross-laminated timber,
+16 dowel laminated timber, nail laminated timber, glulam laminated timber,
+17 glulam beams and columns, and structural sawn lumber; and
+18 (v) other materials the department designates by rule and reviews
+19 every three years;
+20 (b) "design professional of record" means a licensed architect or
+21 engineer;
+22 (c) "embodied carbon emissions" means the amount of greenhouse gas
+23 emissions associated with the extraction, manufacturing, transport,
+24 installation, maintenance, and disposal of construction products
+25 throughout the product's life;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11868-04-6
+
+A. 8456--A 2
+1 (d) "global warming potential" means the potential climate change
+2 impact of a product or process as measured by a life-cycle assessment.
+3 It is the metric for tracking embodied carbon emissions and is reported
+4 in units of carbon dioxide equivalent;
+5 (e) "product and facility-specific environmental product declarations"
+6 means a type III environmental product declaration, as defined by the
+7 international organization for standardization standard 14025, repres-
+8 enting a single product from a single manufacturing facility; and
+9 (f) "whole building life-cycle assessments" means a cradle to grave
+10 assessment covering life-cycle stages A-C as defined by the interna-
+11 tional organization for standardization standard 21931-1, excluding
+12 modules B6 and B7, or similarly robust whole building life-cycle assess-
+13 ment methods or whole life carbon assessment standards that evaluate the
+14 environmental impacts of a building including, at a minimum, global
+15 warming potential.
+16 2. The code shall require construction of any building, addition, or
+17 renovation greater than twenty-five thousand square feet to meet at
+18 least one of the following standards intended to reduce the embodied
+19 carbon emissions associated with the construction.
+20 (a) Construction of a building may comply with the requirements of
+21 this section by maintaining and reusing at least forty-five percent of
+22 an existing structure and/or envelope if the building does not exceed
+23 the square footage of the existing structure by more than fifty percent.
+24 The code or rules adopted by the department shall specify how the
+25 percentage of an existing structure maintained and reused shall be
+26 calculated, such as by cost, mass, area, volume, and/or other suitable
+27 metrics.
+28 (b) Construction of a building, addition, or renovation may comply
+29 with the requirements of this section by demonstrating, and requiring in
+30 the construction documents, that the life-cycle stage A1 through A3
+31 embodied carbon emissions of the covered products used, measured in
+32 terms of global warming potential for each covered product and summed up
+33 at the project level, achieves the reduction in embodied carbon emis-
+34 sions set forth in subdivision three of this section when compared to
+35 the project's summed industry average global warming potential. Building
+36 projects shall use project-specific material quantities and product and
+37 facility-specific environmental product declarations to demonstrate
+38 compliance. The code or rules adopted by the department shall specify
+39 how covered materials shall be calculated, such as by cost, mass,
+40 volume, and/or other suitable metrics, and shall establish how industry
+41 averages shall be determined.
+42 (c) Construction of a building, addition, or renovation may comply
+43 with the requirements of this section by demonstrating through a whole
+44 building life-cycle assessment that the project achieves the reduction
+45 in embodied carbon emissions set forth in subdivision three of this
+46 section when compared against a reference building that is functionally
+47 equivalent in size, geographic location, function, and thermal perform-
+48 ance. The materials and material quantities in the proposed building and
+49 the reference building may vary, provided that the buildings are func-
+50 tionally equivalent.
+51 3. The code shall require that to be in compliance with this section
+52 pursuant to paragraph (b) or (c) of subdivision two of this section,
+53 construction projects commenced on or after January first, two thousand
+54 thirty and on or before December thirty-first, two thousand thirty-two
+55 shall achieve a fifteen percent reduction in embodied carbon emissions
+56 from a project-wide static baseline using the carbon leadership forum
+
+A. 8456--A 3
+1 2030 materials baselines or comparable industry data sources specified
+2 in the code or by rules adopted by the department, and construction
+3 projects commenced on or after January first, two thousand thirty-three
+4 shall achieve a thirty percent reduction in embodied carbon emissions
+5 from such project-wide static baseline.
+6 4. (a) The design professional of record responsible for the embodied
+7 carbon calculations and reporting for any construction project subject
+8 to the requirements of this section shall be specified in the architect
+9 of record construction documents. The design professional of record
+10 shall stamp an attestation that the designed building complies with the
+11 code requirements and any rules adopted by the department pursuant to
+12 this section. The attestation shall be submitted along with the permit
+13 and documents showing compliance.
+14 (b) For a building to be in compliance with this section pursuant to
+15 paragraph (b) of subdivision two of this section, the design profes-
+16 sional of record shall update quantity and embodied carbon emissions
+17 calculations based on product and facility-specific environmental prod-
+18 uct declarations from procured products and attest that they are accu-
+19 rate and comply with the construction document requirements to the best
+20 of the design professional's knowledge. These calculations shall be
+21 verified as accurate within the industry standard of care with a letter
+22 stamped by a design professional of record.
+23 (c) For any construction project subject to the requirements of this
+24 section, the department shall provide a worksheet to be completed by
+25 project teams for consistent reporting.
+26 (d) The design professional of record shall enter all embodied carbon
+27 emissions reduction data on a standard form and public database created
+28 and maintained by the department. At a minimum, the database shall
+29 indicate whether the compliance pathway under paragraph (a), (b), or (c)
+30 of subdivision two of this section was selected, and shall include basic
+31 information about the project, project area, the reporting worksheet,
+32 and how the project met the standards for the selected pathway.
+33 (e) The department shall develop a public-facing website with educa-
+34 tional resources to support implementation. The website shall:
+35 (i) detail the embodied carbon emissions reduction requirements in the
+36 code;
+37 (ii) outline reporting requirements and guidelines;
+38 (iii) provide instructions for the use of the database;
+39 (iv) provide guidance for whole building life-cycle assessments;
+40 (v) provide checklists, templates, and training to support implementa-
+41 tion; and
+42 (vi) provide a list of software that may be used to support compliance
+43 pursuant to paragraph (c) of subdivision two of this section.
+44 (f) The department shall conduct random audits on three percent of
+45 projects subject to the requirements of this section annually, and shall
+46 make audit results public.
+47 5. The department shall report to the governor and the legislature a
+48 baseline assessment of global warming potential of building construction
+49 as defined by this section by December thirty-first, two thousand twen-
+50 ty-nine, and progress towards achieving reductions in annual global
+51 warming potential of building construction by December thirty-first, two
+52 thousand thirty-two, and every three years thereafter.
+53 § 3. This act shall take effect immediately.
