@@ -1,0 +1,234 @@
+Title: 
+Official Title: 
+Source: versions - A73A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+73--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. SOLAGES, MAMDANI, SIMONE, SHIMSKY, ANDERSON,
+CHANDLER-WATERMAN, GALLAGHER, TAPIA, EACHUS, DAVILA, SAYEGH, ROSEN-
+THAL, LEVENBERG, BURDICK, REYES, LUCAS, WEPRIN, BICHOTTE HERMELYN,
+TAYLOR, HEVESI, FORREST, KELLES, SHRESTHA, SIMON, EPSTEIN, COLTON,
+SEAWRIGHT, KAY, FALL, VALDEZ, PAULIN, CUNNINGHAM, TORRES, ALVAREZ,
+BURROUGHS, SCHIAVONI, O'PHARROW, ROMERO, GRIFFIN, BRONSON, GIBBS,
+STIRPE, SEPTIMO, GONZALEZ-ROJAS, LASHER, LAVINE, LUNSFORD, CRUZ,
+HOOKS, KIM, McDONOUGH -- read once and referred to the Committee on
+Consumer Affairs and Protection -- reported and referred to the
+Committee on Codes -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to labeling
+requirements for gas stoves
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Healthy Homes Right To Know Act".
+3 § 2. Legislative findings. The legislature finds and declares that:
+4 1. New York has a long history of protecting its citizens by making
+5 sure they have adequate knowledge to make informed purchasing decisions.
+6 2. The public is broadly unaware of the health dangers posed by gas
+7 stoves. On May 8, 2023, ten state attorneys general, including the
+8 attorney general of New York State as well as the New York City Corpo-
+9 ration Counsel, sent a letter to the Consumer Product Safety Commission
+10 (CPSC), in which they asserted, "Most of the research and evidence on
+11 the health risks associated with elevated levels of emissions from gas
+12 appliances has been circulated among decisionmakers and engaged stake-
+13 holders. This has left the public to try to piece together health and
+14 safety information--which can be false or misleading--from the internet,
+15 social media, and other non-authoritative sources. Thus, when it comes
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00310-02-5
+
+A. 73--A 2
+1 to gas stove emissions, consumers are presently unprotected against, and
+2 inadequately informed about, the health hazards these appliances pose."
+3 Those dangers may now be particularly acute as, according to the U.S.
+4 Environmental Protection Agency, "Americans on average, spend approxi-
+5 mately 90% of their time indoors where concentrations of some pollutants
+6 are often 2 to 5 times higher than typical outdoor concentrations."
+7 3. The same letter suggests, "requiring warning labels on gas stoves
+8 that provide more information on their health risks". The letter goes on
+9 to say, "Proper labeling on gas stoves would represent an important step
+10 in helping to educate consumers about the health risks associated with
+11 gas stoves. Providing this information upfront is essential to enabling
+12 consumers to make a fully informed decision."
+13 4. Current New York state regulations regarding unvented gas appli-
+14 ances are inconsistent. Since there is no statewide requirement that gas
+15 stoves be ventilated to the outdoors, a precautionary approach to public
+16 safety requires that these appliances be treated as unvented.
+17 5. Although the research regarding the impacts of unvented gas heaters
+18 is vastly less robust than that regarding gas stoves, the New York State
+19 Department of Health nonetheless adopted regulations in January of 2023
+20 to require labeling of unvented gas heaters including, "WARNING: This
+21 appliance produces CARBON MONOXIDE, a poisonous gas. You MUST use carbon
+22 monoxide alarms to avoid injury or death". Labeling requirements for
+23 unvented heaters in California also include warnings of exposure to:
+24 "...chemicals including benzene, which is known to the state of Califor-
+25 nia to cause cancer and cause birth defects or other reproductive harm".
+26 6. Given that the research regarding gas stoves is even more complete
+27 and compelling, New York State should also act to inform the public as
+28 has already been done with unvented gas heaters.
+29 7. The scientific consensus on gas stove emissions is robust and grow-
+30 ing. It is now understood that gas stoves can emit carbon monoxide
+31 (CO), nitrogen dioxide (NO2), benzene, and formaldehyde. Methane emis-
+32 sions can occur even when the gas stove is turned off. According to the
+33 Concerned Health Professionals of New York and the Physicians for Social
+34 Responsibility, "Nearly three-quarters of methane emissions from gas
+35 stoves take place while the stove is turned off and not in use. At the
+36 same time levels of hazardous air pollutants from everyday use of gas
+37 stoves often exceed the limits of outdoor air quality standards. Indoor
+38 concentrations are often much higher than health-protective guidelines
+39 set by the World Health Organization."
+40 8. According to the Centers for Disease Control and Prevention,
+41 "Carbon monoxide, or "CO," is an odorless, colorless gas that can kill
+42 you". The New York State Department of Health refers to carbon monoxide
+43 as a poisonous gas. Approximately 430 people die each year from carbon
+44 monoxide exposure. Thousands more become ill and seek medical attention.
+45 Carbon monoxide poisoning is estimated to cause more than 50,000 emer-
+46 gency room visits in the United States each year. According to the New
+47 York State Department of Health, annually, "In New York State, about 200
+48 people are hospitalized and over 1800 people visit an emergency depart-
+49 ment because of accidental CO poisoning." The numbers of accidental
+50 poisonings are on the rise. The U.S. Consumer Product Safety Commission
+51 "found evidence of a statistically significant upward trend in non-fire
+52 CO deaths for the 11-year period from 2009 to 2019". According to
+53 Preventative Medicine reports, "Accidental, non-fire related poisoning
+54 accounts for over $1.3 billion annually in societal costs."
+55 9. Notably, while carbon monoxide alarms are an important preventative
+56 measure to lower the risk of carbon monoxide poisoning, they are not
+
+A. 73--A 3
+1 guaranteed to be effective. According to the National Carbon Monoxide
+2 Awareness Association: "Only 14% of families in the US have a properly
+3 functioning carbon monoxide alarm". An earlier report showed that in
+4 2009, 83% of NYC residents reported having CO alarms. However, only 54%
+5 of them had recently tested or replaced their batteries.
+6 10. Nitrogen dioxide, or NO2, is a gaseous air pollutant composed of
+7 nitrogen and oxygen and is formed when fossil fuels are burned. The EPA
+8 has determined that NO2 is "causal" of more severe respiratory symptoms
+9 in people with asthma and that long-term exposure to NO2 is "likely
+10 causal" of respiratory illnesses such as asthma. The New England Journal
+11 of Medicine has found that, "Gas combustion in stoves, boilers and
+12 furnaces generates oxides of nitrogen," to which the article attributes,
+13 "Increased asthma risk; exacerbation of COPD and cardiovascular
+14 disease". The EPA includes NO2 on its list of asthma triggers, and
+15 "unvented combustion appliances, e.g. gas stoves" is first on its list
+16 of "primary sources of NO2 indoors".
+17 11. Each year, asthma accounts for more than 439,000 hospitalizations,
+18 1.6 million emergency department visits, and 10.5 million physician
+19 office visits in the United States. About 10 people die from the disease
+20 every day. Asthma has been linked to 13.8 million missed school days and
+21 14.2 million missed workdays annually. The cost of treating asthma in
+22 the United States is $62.8 billion every year.
+23 12. A 2013 meta-analysis of 41 studies found that children living in
+24 homes with gas stoves had a 42 percent higher risk of experiencing asth-
+25 ma symptoms, and, over their lifetime, a 24 percent increase in the risk
+26 of being diagnosed with asthma, and a 2022 peer-reviewed research paper
+27 published in the International Journal of Environmental Research and
+28 Public Health found that more than 12% of current childhood asthma cases
+29 in the US can be attributed to gas stove use. The same paper suggests
+30 that attribution number is 18.8% of children with asthma in New York
+31 State.
+32 13. The asthma crisis does not equally affect all New York communi-
+33 ties. Black Americans are approximately two times more likely to die of
+34 asthma than White Americans. Further, the percentage of Black children
+35 in the U.S. suffering from asthma is nearly twice that of White chil-
+36 dren, and their death rate is ten times higher. According to a 2023
+37 joint report from the New York State Department of Health and the New
+38 York City Department of Health and Mental Hygiene, "The burden of asthma
+39 falls disproportionately among specific demographic groups, specifically
+40 for persons and communities of color, where asthma prevalence is higher
+41 among Black, American Indian, and multiracial New Yorkers." The Centers
+42 for Disease Control and Prevention concurs with the assessment of
+43 disproportionate burden.
+44 14. While the age-adjusted asthma mortality rate for New York City is
+45 higher than for New York State as a whole, with the Bronx demonstrating
+46 a notably higher mortality rate than the other boroughs, this problem
+47 should not be construed as a New York City issue. Other hotspots exist
+48 around the state. For example, years of academic research has convinc-
+49 ingly demonstrated alarmingly high rates of asthma on Buffalo's West
+50 Side. A study by Dr. Lwebuga-Mukasa, Professor of Medicine at the
+51 University of Buffalo, found that "nearly 45% of West Side households
+52 reported at least one case of chronic respiratory illness or asthma".
+53 15. Gas and propane combustion from gas stoves emits benzene. A study
+54 from the Stanford Woods Institute for the Environment found that a
+55 single gas cooktop burner set on high, or an oven set at 350 degrees
+56 Fahrenheit can, "raise indoor levels of the carcinogen benzene above
+
+A. 73--A 4
+1 those of secondhand smoke". According to the World Health Organization,
+2 "Human exposure to benzene has been associated with a range of acute and
+3 long-term adverse health effects and diseases, including cancer and
+4 haematological effects."
+5 16. Formaldehyde is listed as a human carcinogen and has been found at
+6 more elevated levels associated with gas burners set to "simmer".
+7 17. Ventilation of gas stove emissions to the outdoors can improve
+8 indoor air quality. However, many homeowners do not have ventilation,
+9 and it is not required by state law. In addition, studies also show that
+10 many people who have ventilation systems don't use them, often because
+11 of noise concerns. Vents can become blocked with debris and the effec-
+12 tiveness of ventilation systems can be compromised by changes in air
+13 pressure in the building envelope caused by the opening of windows or
+14 doors or the activation of bathroom fans, for example. Lastly, some
+15 people with range hoods may be under the mistaken belief that pollutants
+16 are being vented outdoors when in fact many hoods simply recirculate the
+17 air into the kitchen after filtering it. The effectiveness of filtration
+18 varies widely and is partially based on active maintenance of the
+19 filtration system.
+20 18. Therefore it is the intent of the legislature to promote public
+21 health, support informed consumer choice, and create consistent public
+22 policy, by requiring labeling and signage regarding the health impacts
+23 of gas stoves.
+24 § 3. The general business law is amended by adding a new section 322-d
+25 to read as follows:
+26 § 322-d. Labeling requirements for gas stoves. 1. For the purposes of
+27 this section, "gas stove" means a stove or range that utilizes natural
+28 gas or propane and is used for indoor food preparation, whether in a
+29 commercial or residential setting, and provides at least one of the
+30 following functions:
+31 (a) surface cooking;
+32 (b) oven cooking; or
+33 (c) broiling.
+34 2. No person, firm, partnership, association, or corporation shall
+35 manufacture, distribute, assemble, sell or offer for sale any new gas
+36 stove unless the following requirements are met:
+37 (a) A removable label is affixed to the gas stove, and a label is
+38 either affixed to or printed on the package in which it is contained, if
+39 applicable. Such label shall contain the following message:
+40 "WARNING: Gas stoves can emit health harming pollutants (such as
+41 NITROGEN DIOXIDE, CARBON MONOXIDE, BENZENE, and FORMALDEHYDE) at
+42 potentially unsafe levels inside homes. The presence of these pollu-
+43 tants can affect your health and may exacerbate or contribute to the
+44 development of respiratory illnesses. Properly installed and operating
+45 ventilation to the outdoors can reduce but not eliminate emissions."
+46 (b) Such removable label shall be in a type size no smaller than the
+47 largest type size used for other consumer information on the gas stove
+48 or package, and shall be in an easily viewable and accessible location
+49 on the gas stove or package.
+50 3. The department of state shall adopt regulations regarding the
+51 placement and format of such removable labels outlined in subdivision
+52 two of this section.
+53 4. The department of state shall make available on its website a model
+54 removable label, outlined in subdivision two of this section that can be
+55 used to comply with the provisions of this section.
+
+A. 73--A 5
+1 5. Any person who violates any provision of this section shall receive
+2 a warning notice for the first such violation. A person shall be liable
+3 to the state of New York for a civil penalty not to exceed two hundred
+4 fifty dollars for the second violation and not to exceed one thousand
+5 dollars for any subsequent violation. A hearing or opportunity to be
+6 heard shall be provided prior to the assessment of any civil penalty.
+7 6. The department of state and the office of the attorney general are
+8 authorized to enforce the provisions of this section.
+9 § 4. This act shall take effect one year after it shall have become a
+10 law.

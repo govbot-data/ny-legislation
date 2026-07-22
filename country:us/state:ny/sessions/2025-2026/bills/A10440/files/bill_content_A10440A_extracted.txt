@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - A10440A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10440--A
+IN ASSEMBLY
+March 6, 2026
+___________
+Introduced by M. of A. STECK, K. BROWN, LUNSFORD, SIMON, HYNDMAN,
+BURROUGHS, TAPIA -- read once and referred to the Committee on Racing
+and Wagering -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the racing, pari-mutuel wagering and breeding law, in
+relation to preventing minors from participating in sports wagering
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 1344 of the racing, pari-mutuel wagering and breed-
+2 ing law is amended by adding a new subdivision 6 to read as follows:
+3 6. The commission shall further provide by regulation for the estab-
+4 lishment of an exclusion list for identifying information on mobile
+5 sports wagering platforms as described in paragraph (k) of subdivision
+6 twelve of section thirteen hundred sixty-seven of this article. Such
+7 regulations shall allow persons to electronically register for placement
+8 on such list.
+9 § 2. Paragraphs (bb) and (cc) of subdivision 1 of section 1367 of the
+10 racing, pari-mutuel wagering and breeding law, as amended by section 3
+11 of part Y of chapter 59 of the laws of 2021, are amended and two new
+12 paragraphs (dd) and (ee) are added to read as follows:
+13 (bb) "Suspicious wagering activity" means unusual wagering activity
+14 that cannot be explained and is indicative of match fixing, the manipu-
+15 lation of an event, misuse of inside information, or other prohibited
+16 activity; [and]
+17 (cc) "Independent integrity monitor" means an independent individual
+18 or entity approved by the commission to receive reports of unusual
+19 wagering activity from a casino, mobile sports wagering licensee, or
+20 commission for the purpose of assisting in identifying suspicious wager-
+21 ing activity[.];
+22 (dd) "Identifying information" means any data that identifies or could
+23 reasonably be linked, directly or indirectly, with a specific natural
+24 person or device. Identifying information as used in this section and in
+25 section thirteen hundred sixty-seven-a of this article may include an
+26 Internet protocol address; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11781-08-6
+
+A. 10440--A 2
+1 (ee) "Internet protocol address" means a unique numerical identifier
+2 assigned to a device that can be used to direct Internet traffic to such
+3 device.
+4 § 3. Paragraph (i) of subdivision 12 of section 1367 of the racing,
+5 pari-mutuel wagering and breeding law, as added by section 3 of part Y
+6 of chapter 59 of the laws of 2021, is amended to read as follows:
+7 (i) Casinos and mobile sports wagering licensees shall adopt proce-
+8 dures to prevent persons from wagering on sports events who are prohib-
+9 ited from placing sports wagers. A casino or mobile sports wagering
+10 licensee shall not accept wagers from any person:
+11 (i) whose name appears on the exclusion list maintained by the commis-
+12 sion and provided to the casino or mobile sports wagering licensee;
+13 (ii) whose name appears on any self-exclusion list maintained by the
+14 commission and provided to the casino or mobile sports wagering licen-
+15 see;
+16 (iii) who is attempting to create an account or place a wager using
+17 excluded identifying information as described in paragraph (k) of this
+18 subdivision;
+19 (iv) who is the operator, director, officer, owner, or employee of the
+20 casino or mobile sports wagering licensee or any spouse, child, sibling
+21 or parent living in the same principal place of abode as such individ-
+22 ual;
+23 [(iv)] (v) who has been identified as a prohibited sports bettor in a
+24 list provided by the sports governing body to the commission and casino
+25 or mobile sports wagering operator, that identifies the individual by
+26 such personally identifiable information as specified by rules and regu-
+27 lations promulgated by the commission; or
+28 [(v)] (vi) who is an agent or proxy for a prohibited sports bettor.
+29 § 4. Subdivision 12 of section 1367 of the racing, pari-mutuel wager-
+30 ing and breeding law is amended by adding a new paragraph (k) to read as
+31 follows:
+32 (k) (i) The commission shall establish a means by which persons may
+33 electronically register any of their identifying information on an
+34 exclusion list for the purposes of preventing themselves and any other
+35 person, including a minor, from using such information to create an
+36 account on a mobile sports wagering platform.
+37 (ii) Mobile sports wagering operators shall be prohibited from permit-
+38 ting the registration of any account with such identifying information,
+39 provided that the commission has provided mobile sports wagering opera-
+40 tors access to such excluded identifying information.
+41 (iii) The commission shall promulgate regulations under this paragraph
+42 to ensure: the secure collection and transmittal of such identifying
+43 information to mobile sports wagering operators, as provided in subpara-
+44 graph (ii) of this paragraph; the uniqueness and reliability of the
+45 identifying information being collected; and that the identifying infor-
+46 mation is strictly protected by data security measures, including but
+47 not limited to encryption, firewalls, and password protection, data
+48 system monitoring, limitations on access to authorized persons within
+49 the commission, and other reasonable administrative, technical, and
+50 physical safeguards to protect the security, confidentiality, and integ-
+51 rity of identifying information provided by persons under this para-
+52 graph.
+53 (iv) Persons submitting their identifying information for exclusion
+54 from mobile sports wagering under this paragraph shall retain the right
+55 to voluntarily rescind such exclusion at any time, at which point such
+56 identifying information shall be deleted from the commission's database.
+
+A. 10440--A 3
+1 § 5. Subparagraph (iii) of paragraph (a) of subdivision 4 of section
+2 1367-a of the racing, pari-mutuel wagering and breeding law, as added by
+3 section 4 of part Y of chapter 59 of the laws of 2021, is amended to
+4 read as follows:
+5 (iii) (A) prohibit minors from participating in any sports wagering
+6 pursuant to rules and regulations promulgated by the commission. Such
+7 rules and regulations shall require the operator to conduct age assur-
+8 ance to determine, at the point of account registration, that the person
+9 creating an account is not a minor. The commission shall promulgate
+10 regulations identifying commercially reasonable and technically feasible
+11 methods for mobile sports wagering operators to determine if a person is
+12 a minor, considering the size, financial resources, and technical capa-
+13 bilities of the mobile sports wagering platform operated by such opera-
+14 tor, the costs and effectiveness of available age determination tech-
+15 niques, the audience of the mobile sports wagering platform, and
+16 prevalent practices of the industry of the mobile sports wagering opera-
+17 tor and other similar digital industries. Such regulations shall also
+18 identify the appropriate levels of accuracy that would be commercially
+19 reasonable and technically feasible for mobile sports wagering operators
+20 to achieve in determining whether a person is a minor, provided, howev-
+21 er, that a person self-reporting their age with no other supporting
+22 evidence shall not be deemed an acceptable method under this subpara-
+23 graph. Any information collected for the purpose of the age assurance
+24 requirement under this subparagraph shall be deleted immediately after
+25 an attempt to determine a person's age, except where necessary for
+26 applicable provisions of state or federal law or regulation.
+27 (B) For the purposes of this subparagraph, a mobile sports wagering
+28 operator shall treat a person as a minor if the person's device communi-
+29 cates or signals that the person is or shall be treated as a minor,
+30 including through a privacy setting, device setting, or other mechanism;
+31 § 6. Severability. If any provision of this act or application there-
+32 of shall for any reason be adjudged by any court of competent
+33 jurisdiction to be invalid, such judgment shall not affect, impair, or
+34 invalidate the remainder of the act, but shall be confined in its opera-
+35 tion to the provision thereof directly involved in the controversy in
+36 which the judgment shall have been rendered.
+37 § 7. This act shall take effect on the one hundred eightieth day after
+38 it shall have become a law. Effective immediately, the addition, amend-
+39 ment and/or repeal of any rule or regulation necessary for the implemen-
+40 tation of this act on its effective date are authorized to be made and
+41 completed on or before such effective date.

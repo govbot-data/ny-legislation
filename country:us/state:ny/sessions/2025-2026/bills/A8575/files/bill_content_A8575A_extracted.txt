@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - A8575A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8575--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 21, 2025
+___________
+Introduced by M. of A. EACHUS -- read once and referred to the Committee
+on Governmental Employees -- recommitted to the Committee on Govern-
+mental Employees in accordance with Assembly Rule 3, sec. 2 -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT in relation to granting retroactive tier IV membership in the New
+York city employees' retirement system to Ryan D. O'Connor
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Notwithstanding any other provision of law to the contrary,
+2 Ryan D. O'Connor, an employee of the metropolitan transportation author-
+3 ity metro-north railroad as of April 26, 2023 and a member of the metro-
+4 politan transportation authority defined benefit pension plan, who was
+5 employed with the New York city transit authority from January 19, 2012
+6 through April 25, 2023 and who was a member of the New York city
+7 employees' retirement system through April 25, 2023, who for reasons
+8 not ascribable to his own negligence, failed to become a member of such
+9 retirement system during such employment with the New York city transit
+10 authority until September 10, 2012, shall be deemed to have joined the
+11 New York city employees' retirement system from January 19, 2012 and
+12 shall be granted Tier IV status in such retirement system, if, within
+13 one year of the effective date of this act, he shall file a written
+14 request with the New York city employees' retirement system.
+15 § 2. No contributions made to the New York city employees' retirement
+16 system by Ryan D. O'Connor shall be returned or refunded to him pursuant
+17 to this act.
+18 § 3. All past service costs of implementing the provisions of this act
+19 shall be borne by the city of New York.
+20 § 4. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would permit Ryan D. O'Connor, a
+vested Tier 6 member of the New York City Employees' Retirement System
+(NYCERS), to elect, by filing a written request with NYCERS within one
+year of the effective date, membership in the Tier 4 NYCERS 57/5 Plan.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00924-05-6
+
+A. 8575--A 2
+EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($)
+Year NYCERS
+2027 0
+2028 17,500
+2029 0
+2030 0
+2031 0
+2032 0
+2033 0
+2034 0
+2035 0
+2036 0
+2037 0
+2038 0
+2039 0
+2040 0
+2041 0
+2042 0
+2043 0
+2044 0
+2045 0
+2046 0
+2047 0
+2048 0
+2049 0
+2050 0
+2051 0
+While the past service costs for this member would normally be borne
+by the New York City Transit Authority, the proposed legislation assigns
+such costs to the City of New York.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2026 ($)
+Present Value (PV) NYCERS
+(1)PV of Employer Contributions: 15,800
+(2)PV of Employee Contributions: 0
+Total PV of Benefits (1) + (2): 15,800
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+For purposes of this Fiscal Note, UAL attributable to inactive members
+was recognized immediately.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+NYCERS
+Increase (Decrease) in UAL: 15,800
+Number of Payments: 1
+Amortization Payment: 17,500
+
+A. 8575--A 3
+CENSUS DATA: The estimates presented herein are based on preliminary
+census data collected as of June 30, 2025. The census data for the
+impacted population is summarized below.
+NYCERS
+Term. Vested Members
+-Number Count: 1
+-Average Age: 39
+BACKGROUND: Mr. O'Connor commenced employment with the New York City
+Transit Authority on January 19, 2012 and subsequently joined NYCERS in
+September 2012. In the nine-month period between the commencement of his
+employment and the date on which he joined NYCERS, Chapter 18 of the
+Laws of 2012, or Tier 6, was enacted. Therefore, Mr. O'Connor joined
+NYCERS as a Tier 6 member.
+The proposed legislation would allow Mr. O'Connor to apply for a
+retroactive NYCERS membership date of January 19, 2012, which would
+entitle him to Tier 4 membership, without a refund of past Tier 6
+contributions, in the NYCERS 57/5 Plan. A change from Tier 6 to Tier 4
+would result in an earlier date of retirement eligibility, lower overall
+prospective employee contribution rates (should he return to active
+service), and a larger benefit.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems.
+Mr. O'Connor separated from service with New York City Transit Author-
+ity on April 25, 2023, and subsequently became employed by Metropolitan
+Transportation Authority Metro-North Railroad. It is assumed that his
+benefit will be transferred to MTA pursuant to Chapter 717 of the Law of
+2023, as his service exceeds 10 years. The cost of this proposed legis-
+lation was calculated as the difference in transfer reserve.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-62 dated April 16,
+2026 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2026
+Legislative Session.

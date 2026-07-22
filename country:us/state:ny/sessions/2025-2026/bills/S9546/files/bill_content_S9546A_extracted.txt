@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - S9546A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9546--A
+IN SENATE
+March 23, 2026
+___________
+Introduced by Sens. SUTTON, BASKIN, HINCHEY, MYRIE, RAMOS, SALAZAR,
+SKOUFIS, WEBB -- read twice and ordered printed, and when printed to
+be committed to the Committee on Internet and Technology -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to certain proce-
+dural protections granted to third-party sellers and seller profiles
+of online marketplaces
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 48 to read as follows:
+3 ARTICLE 48
+4 FAIR AND TIMELY PROCESS FOR SUSPENDING THIRD-PARTY SELLERS AND SELLER
+5 PROFILES OF ONLINE MARKETPLACES
+6 Section 1705. Definitions.
+7 1706. Third-party seller and seller profile pre-suspension warn-
+8 ing period.
+9 1707. Third-party seller and seller profile suspension and
+10 appeals processes.
+11 1708. Enforcement and penalties.
+12 § 1705. Definitions. As used in this article:
+13 1. "Online marketplace" means any person or entity that operates a
+14 consumer-directed electronically based or accessed platform that
+15 includes features that allow for, facilitate, or enable third-party
+16 sellers and/or seller profiles to engage in the advertisement, display,
+17 sale, purchase, payment, storage, shipping, and/or delivery of a consum-
+18 er product in New York state; and is used by one or more third-party
+19 sellers and/or seller profiles for such purposes.
+20 2. "Third-party seller" means any person or entity, independent of an
+21 online marketplace, who sells, offers to sell, or contracts to sell a
+22 consumer product in New York state through such online marketplace's
+23 platform.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15192-05-6
+
+S. 9546--A 2
+1 3. "Seller profile" means any person or entity, independent of an
+2 online marketplace, that uses an online marketplace to showcase or
+3 otherwise advertise its business information in order to independently
+4 solicit sales of consumer product.
+5 4. "Consumer product" means any tangible personal property which is
+6 advertised and/or distributed in commerce by a third-party seller or
+7 seller profile through an online marketplace.
+8 5. "Suspension" means action taken by an online marketplace to tempo-
+9 rarily or permanently block selling privileges of third-party sellers or
+10 seller profiles for alleged or actual policy or code of conduct
+11 violations, performance issues, or account integrity problems, including
+12 but not limited to product quality or authenticity, intellectual proper-
+13 ty infringement, customer complaints or feedback, late shipments,
+14 cancellations, pricing or listing issues, or customer service.
+15 § 1706. Third-party seller and seller profile pre-suspension warning
+16 period. 1. No online marketplace shall suspend a third-party seller or
+17 seller profile without first providing a two-week warning period in
+18 which the online marketplace:
+19 (a) notifies the third-party seller or seller profile with reasonable
+20 documentation and details related to any and all infractions used to
+21 justify a particular suspension;
+22 (b) allows the third-party seller or seller profile to offer any
+23 defense or justification against alleged or actual culpability, as well
+24 as the ability to cure any and all infractions that are used to justify
+25 a particular suspension; and
+26 (c) provides a reasonable response to any correspondence, communi-
+27 cation, or outreach by a third-party seller or seller profile.
+28 2. Such two-week warning period shall begin when an online marketplace
+29 provides a third-party seller or seller profile with the notification
+30 required in paragraph (a) of subdivision one of this section and may be
+31 extended at the online marketplace's discretion in order to allow the
+32 third-party seller or seller profile to cure any and all infractions for
+33 the purposes of avoiding such suspension.
+34 3. Where an online marketplace reasonably believes a third-party sell-
+35 er or seller profile is engaged in imminent illegal activity, fraud,
+36 deceit, misrepresentation, or similar abuses or deceptive practices with
+37 impending effects to consumers within the marketplace, such online
+38 marketplace may limit the third-party seller's or seller profile's
+39 account capabilities during such two-week warning period.
+40 § 1707. Third-party seller and seller profile suspension and appeals
+41 processes. 1. An online marketplace shall designate a representative to
+42 liaise with a third-party seller or seller profile who is actively
+43 suspended or pending suspension, as well as provide such represen-
+44 tative's contact information to such third-party seller or seller
+45 profile. Such representative shall be within the online marketplace's
+46 decision making department for suspensions and shall maintain consist-
+47 ent, direct communication with a suspended third-party seller or seller
+48 profile to work to resolve the issue leading to suspension.
+49 2. A suspended third-party seller or seller profile shall have the
+50 right to appeal the determination of the online marketplace in seeking
+51 account reinstatement. Such appeals shall be acknowledged by the online
+52 marketplace within one week of the appeal being made. An online market-
+53 place shall acknowledge and reasonably respond to a suspended third-par-
+54 ty seller's or seller profile's appeal within one week of the appeal's
+55 submission.
+
+S. 9546--A 3
+1 3. Upon a final determination by the online marketplace to permanently
+2 suspend a third-party seller or seller profile, the online marketplace
+3 shall provide any and all documents and information detailing alleged or
+4 actual infractions used to justify a particular suspension that have not
+5 previously been shared with the third-party seller or seller profile as
+6 set forth in section seventeen hundred six of this article, which may
+7 additionally be utilized and considered for the purposes of any subse-
+8 quent legal action or dispute resolution process.
+9 4. An online marketplace is prohibited from seizing or holding a
+10 suspended third-party seller's or seller profile's consumer products
+11 that are otherwise unrelated to any and all infractions used to justify
+12 a particular suspension.
+13 5. A suspended third-party seller or seller profile shall have the
+14 right to recall all consumer products from an online marketplace's
+15 possession that are listed for sale through such online marketplace that
+16 are otherwise unrelated to any and all infractions used to justify a
+17 particular suspension.
+18 6. An online marketplace is prohibited from holding or seizing funds
+19 from suspended third-party sellers or seller profiles that were gener-
+20 ated from sales of consumer products unrelated to any and all infrac-
+21 tions used to justify a particular suspension.
+22 § 1708. Enforcement and penalties. Any third-party seller or seller
+23 profile who has been injured by reason of any violation of this article
+24 may bring an action in such person's or entity's own name against an
+25 online marketplace to enjoin such unlawful act or practice, an action to
+26 recover such person's or entity's actual damages or fifty dollars,
+27 whichever is greater, or both such actions. The court may, in its
+28 discretion, increase the award of damages to an amount not to exceed
+29 three times the actual damages if the court finds the defendant willful-
+30 ly or knowingly violated this article. The court may award reasonable
+31 attorney's fees to a prevailing plaintiff.
+32 § 2. This act shall take effect on the ninetieth day after it shall
+33 have become a law.

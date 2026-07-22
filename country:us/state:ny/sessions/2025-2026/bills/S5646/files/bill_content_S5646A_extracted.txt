@@ -1,0 +1,385 @@
+Title: 
+Official Title: 
+Source: versions - S5646A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5646--A
+2025-2026 Regular Sessions
+IN SENATE
+February 26, 2025
+___________
+Introduced by Sen. BAILEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Transportation -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the vehicle and traffic law and the public officers law,
+in relation to authorizing the city of Mt. Vernon to establish a
+school speed zone demonstration program; and providing for the repeal
+of such provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The vehicle and traffic law is amended by adding a new
+2 section 1180-h to read as follows:
+3 § 1180-h. Owner liability for failure of operator to comply with
+4 certain posted maximum speed limits; Mt. Vernon. (a) 1. Notwithstanding
+5 any other provision of law, the city of Mt. Vernon is hereby authorized
+6 to establish a demonstration program imposing monetary liability on the
+7 owner of a vehicle for failure of an operator thereof to comply with
+8 posted maximum speed limits in a school speed zone within such city (i)
+9 when a school speed limit is in effect as provided in paragraphs one and
+10 two of subdivision (c) of section eleven hundred eighty of this article
+11 or (ii) when other speed limits are in effect as provided in subdivision
+12 (b), (d), (f) or (g) of section eleven hundred eighty of this article
+13 during the following times: (A) on school days during school hours and
+14 one hour before and one hour after the school day, and (B) a period
+15 during student activities at the school and up to thirty minutes imme-
+16 diately before and up to thirty minutes immediately after such student
+17 activities. Such demonstration program shall empower the city of Mt.
+18 Vernon to install photo speed violation monitoring systems within no
+19 more than twenty school speed zones within such city at any one time and
+20 to operate such systems within such zones (iii) when a school speed
+21 limit is in effect as provided in paragraphs one and two of subdivision
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10283-03-5
+
+S. 5646--A 2
+1 (c) of section eleven hundred eighty of this article or (iv) when other
+2 speed limits are in effect as provided in subdivision (b), (d), (f) or
+3 (g) of section eleven hundred eighty of this article during the follow-
+4 ing times: (A) on school days during school hours and one hour before
+5 and one hour after the school day, and (B) a period during student
+6 activities at the school and up to thirty minutes immediately before and
+7 up to thirty minutes immediately after such student activities. In
+8 selecting a school speed zone in which to install and operate a photo
+9 speed violation monitoring system, the city shall consider criteria
+10 including, but not limited to, the speed data, crash history, and the
+11 roadway geometry applicable to such school speed zone.
+12 2. No photo speed violation monitoring system shall be used in a
+13 school speed zone unless (i) on the day it is to be used it has success-
+14 fully passed a self-test of its functions; and (ii) it has undergone an
+15 annual calibration check performed pursuant to paragraph four of this
+16 subdivision. The city shall install signs giving notice that a photo
+17 speed violation monitoring system is in use to be mounted on advance
+18 warning signs notifying motor vehicle operators of such upcoming school
+19 speed zone and/or on speed limit signs applicable within such school
+20 speed zone, in conformance with standards established in the MUTCD.
+21 3. Operators of photo speed violation monitoring systems shall have
+22 completed training in the procedures for setting up, testing, and oper-
+23 ating such systems. Each such operator shall complete and sign a daily
+24 set-up log for each such system that such operator operates that (i)
+25 states the date and time when, and the location where, the system was
+26 set up that day, and (ii) states that such operator successfully
+27 performed, and the system passed, the self-tests of such system before
+28 producing a recorded image that day. The city shall retain each such
+29 daily log until the later of the date on which the photo speed violation
+30 monitoring system to which it applies has been permanently removed from
+31 use or the final resolution of all cases involving notices of liability
+32 issued based on photographs, microphotographs, videotape or other
+33 recorded images produced by such system.
+34 4. Each photo speed violation monitoring system shall undergo an annu-
+35 al calibration check performed by an independent calibration laboratory
+36 which shall issue a signed certificate of calibration. The city shall
+37 keep each such annual certificate of calibration on file until the final
+38 resolution of all cases involving a notice of liability issued during
+39 such year which were based on photographs, microphotographs, videotape
+40 or other recorded images produced by such photo speed violation monitor-
+41 ing system.
+42 5. (i) Such demonstration program shall utilize necessary technologies
+43 to ensure, to the extent practicable, that photographs, microphoto-
+44 graphs, videotape or other recorded images produced by such photo speed
+45 violation monitoring systems shall not include images that identify the
+46 driver, the passengers, or the contents of the vehicle. Provided,
+47 however, that no notice of liability issued pursuant to this section
+48 shall be dismissed solely because such a photograph, microphotograph,
+49 videotape or other recorded image allows for the identification of the
+50 driver, the passengers, or the contents of vehicles where the city shows
+51 that it made reasonable efforts to comply with the provisions of this
+52 paragraph in such case.
+53 (ii) Photographs, microphotographs, videotape or any other recorded
+54 image from a photo speed violation monitoring system shall be for the
+55 exclusive use of the city for the purpose of the adjudication of liabil-
+56 ity imposed pursuant to this section and of the owner receiving a notice
+
+S. 5646--A 3
+1 of liability pursuant to this section, and shall be destroyed by the
+2 city upon the final resolution of the notice of liability to which such
+3 photographs, microphotographs, videotape or other recorded images
+4 relate, or one year following the date of issuance of such notice of
+5 liability, whichever is later. Notwithstanding the provisions of any
+6 other law, rule or regulation to the contrary, photographs, microphoto-
+7 graphs, videotape or any other recorded image from a photo speed
+8 violation monitoring system shall not be open to the public, nor subject
+9 to civil or criminal process or discovery, nor used by any court or
+10 administrative or adjudicatory body in any action or proceeding therein
+11 except that which is necessary for the adjudication of a notice of
+12 liability issued pursuant to this section, and no public entity or
+13 employee, officer or agent thereof shall disclose such information,
+14 except that such photographs, microphotographs, videotape or any other
+15 recorded images from such systems:
+16 (A) shall be available for inspection and copying and use by the motor
+17 vehicle owner and operator for so long as such photographs, microphoto-
+18 graphs, videotape or other recorded images are required to be maintained
+19 or are maintained by such public entity, employee, officer or agent; and
+20 (B) (1) shall be furnished when described in a search warrant issued
+21 by a court authorized to issue such a search warrant pursuant to article
+22 six hundred ninety of the criminal procedure law or a federal court
+23 authorized to issue such a search warrant under federal law, where such
+24 search warrant states that there is reasonable cause to believe such
+25 information constitutes evidence of, or tends to demonstrate that, a
+26 misdemeanor or felony offense was committed in this state or another
+27 state, or that a particular person participated in the commission of a
+28 misdemeanor or felony offense in this state or another state, provided,
+29 however, that if such offense was against the laws of another state, the
+30 court shall only issue a warrant if the conduct comprising such offense
+31 would, if occurring in this state, constitute a misdemeanor or felony
+32 against the laws of this state; and
+33 (2) shall be furnished in response to a subpoena duces tecum signed by
+34 a judge of competent jurisdiction and issued pursuant to article six
+35 hundred ten of the criminal procedure law or a judge or magistrate of a
+36 federal court authorized to issue such a subpoena duces tecum under
+37 federal law, where the judge finds and the subpoena states that there is
+38 reasonable cause to believe such information is relevant and material to
+39 the prosecution, or the defense, or the investigation by an authorized
+40 law enforcement official, of the alleged commission of a misdemeanor or
+41 felony in this state or another state, provided, however, that if such
+42 offense was against the laws of another state, such judge or magistrate
+43 shall only issue such subpoena if the conduct comprising such offense
+44 would, if occurring in this state, constitute a misdemeanor or felony in
+45 this state; and
+46 (3) may, if lawfully obtained pursuant to this clause and clause (A)
+47 of this subparagraph and otherwise admissible, be used in such criminal
+48 action or proceeding.
+49 (b) If the city of Mt. Vernon establishes a demonstration program
+50 pursuant to subdivision (a) of this section, the owner of a vehicle
+51 shall be liable for a penalty imposed pursuant to this section if such
+52 vehicle was used or operated with the permission of the owner, express
+53 or implied, within a school speed zone in violation of subdivision (c)
+54 or during the times authorized pursuant to subdivision (a) of this
+55 section in violation of subdivision (b), (d), (f) or (g) of section
+56 eleven hundred eighty of this article, such vehicle was traveling at a
+
+S. 5646--A 4
+1 speed of more than ten miles per hour above the posted speed limit in
+2 effect within such school speed zone, and such violation is evidenced by
+3 information obtained from a photo speed violation monitoring system;
+4 provided however that no owner of a vehicle shall be liable for a penal-
+5 ty imposed pursuant to this section where the operator of such vehicle
+6 has been convicted of the underlying violation of subdivision (b), (c),
+7 (d), (f) or (g) of section eleven hundred eighty of this article.
+8 (c) For purposes of this section, the following terms shall have the
+9 following meanings:
+10 1. "manual on uniform traffic control devices" or "MUTCD" shall mean
+11 the manual and specifications for a uniform system of traffic control
+12 devices maintained by the commissioner of transportation pursuant to
+13 section sixteen hundred eighty of this chapter;
+14 2. "owner" shall have the meaning provided in article two-B of this
+15 chapter;
+16 3. "photo speed violation monitoring system" shall mean a vehicle
+17 sensor installed to work in conjunction with a speed measuring device
+18 which automatically produces two or more photographs, two or more micro-
+19 photographs, a videotape or other recorded images of each vehicle at the
+20 time it is used or operated in a school speed zone in violation of
+21 subdivision (b), (c), (d), (f) or (g) of section eleven hundred eighty
+22 of this article in accordance with the provisions of this section; and
+23 4. "school speed zone" shall mean a distance not to exceed one thou-
+24 sand three hundred twenty feet on a highway passing a school building,
+25 entrance or exit of a school abutting on the highway.
+26 (d) A certificate, sworn to or affirmed by a technician employed by
+27 the city of Mt. Vernon, or a facsimile thereof, based upon inspection of
+28 photographs, microphotographs, videotape or other recorded images
+29 produced by a photo speed violation monitoring system, shall be prima
+30 facie evidence of the facts contained therein. Any photographs, micro-
+31 photographs, videotape or other recorded images evidencing such a
+32 violation shall include at least two date and time stamped images of the
+33 rear of the motor vehicle that include the same stationary object near
+34 the motor vehicle and shall be available for inspection reasonably in
+35 advance of and at any proceeding to adjudicate the liability for such
+36 violation pursuant to this section.
+37 (e) An owner liable for a violation of subdivision (b), (c), (d), (f)
+38 or (g) of section eleven hundred eighty of this article pursuant to a
+39 demonstration program established pursuant to this section shall be
+40 liable for monetary penalties in accordance with a schedule of fines and
+41 penalties to be promulgated by the parking violations bureau of the city
+42 of Mt. Vernon. The liability of the owner pursuant to this section shall
+43 not exceed fifty dollars for each violation; provided, however, that
+44 such parking violations bureau may provide for an additional penalty not
+45 in excess of twenty-five dollars for each violation for the failure to
+46 respond to a notice of liability within the prescribed time period.
+47 (f) An imposition of liability under the demonstration program estab-
+48 lished pursuant to this section shall not be deemed a conviction as an
+49 operator and shall not be made part of the operating record of the
+50 person upon whom such liability is imposed nor shall it be used for
+51 insurance purposes in the provision of motor vehicle insurance coverage.
+52 (g) 1. A notice of liability shall be sent by first class mail to each
+53 person alleged to be liable as an owner for a violation of subdivision
+54 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this arti-
+55 cle pursuant to this section, within fourteen business days if such
+56 owner is a resident of this state and within forty-five business days if
+
+S. 5646--A 5
+1 such owner is a non-resident. Personal delivery on the owner shall not
+2 be required. A manual or automatic record of mailing prepared in the
+3 ordinary course of business shall be prima facie evidence of the facts
+4 contained therein.
+5 2. A notice of liability shall contain the name and address of the
+6 person alleged to be liable as an owner for a violation of subdivision
+7 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this arti-
+8 cle pursuant to this section, the registration number of the vehicle
+9 involved in such violation, the location where such violation took
+10 place, the date and time of such violation, the identification number of
+11 the camera which recorded the violation or other document locator
+12 number, at least two date and time stamped images of the rear of the
+13 motor vehicle that include the same stationary object near the motor
+14 vehicle, and the certificate charging the liability.
+15 3. The notice of liability shall contain information advising the
+16 person charged of the manner and the time in which such person may
+17 contest the liability alleged in the notice. Such notice of liability
+18 shall also contain a prominent warning to advise the person charged that
+19 failure to contest in the manner and time provided shall be deemed an
+20 admission of liability and that a default judgment may be entered there-
+21 on.
+22 4. The notice of liability shall be prepared and mailed by the city of
+23 Mt. Vernon, or by any other entity authorized by the city to prepare and
+24 mail such notice of liability.
+25 (h) Adjudication of the liability imposed upon owners by this section
+26 shall be by the city of Mt. Vernon parking violations bureau.
+27 (i) If an owner receives a notice of liability pursuant to this
+28 section for any time period during which the vehicle or the number plate
+29 or plates of such vehicle was reported to the police department as
+30 having been stolen, it shall be a valid defense to an allegation of
+31 liability for a violation of subdivision (b), (c), (d), (f) or (g) of
+32 section eleven hundred eighty of this article pursuant to this section
+33 that the vehicle or the number plate or plates of such vehicle had been
+34 reported to the police as stolen prior to the time the violation
+35 occurred and had not been recovered by such time. For purposes of
+36 asserting the defense provided by this subdivision, it shall be suffi-
+37 cient that a certified copy of the police report on the stolen vehicle
+38 or number plate or plates of such vehicle be sent by first class mail to
+39 the city of Mt. Vernon parking violations bureau or by any other entity
+40 authorized by the city to prepare and mail such notice of liability.
+41 (j) 1. An owner who is a lessor of a vehicle to which a notice of
+42 liability was issued pursuant to subdivision (g) of this section shall
+43 not be liable for the violation of subdivision (b), (c), (d), (f) or (g)
+44 of section eleven hundred eighty of this article pursuant to this
+45 section, provided that:
+46 (i) prior to the violation, the lessor has filed with such parking
+47 violations bureau in accordance with the provisions of section two
+48 hundred thirty-nine of this chapter; and
+49 (ii) within thirty-seven days after receiving notice from such bureau
+50 of the date and time of a liability, together with the other information
+51 contained in the original notice of liability, the lessor submits to
+52 such bureau the correct name and address of the lessee of the vehicle
+53 identified in the notice of liability at the time of such violation,
+54 together with such other additional information contained in the rental,
+55 lease or other contract document, as may be reasonably required by such
+56 bureau pursuant to regulations that may be promulgated for such purpose.
+
+S. 5646--A 6
+1 2. Failure to comply with subparagraph (ii) of paragraph one of this
+2 subdivision shall render the owner liable for the penalty prescribed in
+3 this section.
+4 3. Where the lessor complies with the provisions of paragraph one of
+5 this subdivision, the lessee of such vehicle on the date of such
+6 violation shall be deemed to be the owner of such vehicle for purposes
+7 of this section, shall be subject to liability for such violation pursu-
+8 ant to this section and shall be sent a notice of liability pursuant to
+9 subdivision (g) of this section.
+10 (k) 1. If the owner liable for a violation of subdivision (c) or (d)
+11 of section eleven hundred eighty of this article pursuant to this
+12 section was not the operator of the vehicle at the time of the
+13 violation, the owner may maintain an action for indemnification against
+14 the operator.
+15 2. Notwithstanding any other provision of this section, no owner of a
+16 vehicle shall be subject to a monetary fine imposed pursuant to this
+17 section if the operator of such vehicle was operating such vehicle with-
+18 out the consent of the owner at the time such operator operated such
+19 vehicle in violation of subdivision (b), (c), (d), (f) or (g) of section
+20 eleven hundred eighty of this article. For purposes of this subdivision
+21 there shall be a presumption that the operator of such vehicle was oper-
+22 ating such vehicle with the consent of the owner at the time such opera-
+23 tor operated such vehicle in violation of subdivision (b), (c), (d), (f)
+24 or (g) of section eleven hundred eighty of this article.
+25 (l) Nothing in this section shall be construed to limit the liability
+26 of an operator of a vehicle for any violation of subdivision (c) or (d)
+27 of section eleven hundred eighty of this article.
+28 (m) If the city adopts a demonstration program pursuant to subdivision
+29 (a) of this section it shall conduct a study and submit an annual report
+30 on the results of the use of photo devices to the governor, the tempo-
+31 rary president of the senate and the speaker of the assembly on or
+32 before the first day of June next succeeding the effective date of this
+33 section and on the same date in each succeeding year in which the demon-
+34 stration program is operable. Such report shall include:
+35 1. the locations where and dates when photo speed violation monitoring
+36 systems were used;
+37 2. the aggregate number, type and severity of crashes, fatalities,
+38 injuries and property damage reported within all school speed zones
+39 within the city, to the extent the information is maintained by the
+40 department of motor vehicles of this state;
+41 3. the aggregate number, type and severity of crashes, fatalities,
+42 injuries and property damage reported within school speed zones where
+43 photo speed violation monitoring systems were used, to the extent the
+44 information is maintained by the department of motor vehicles of this
+45 state;
+46 4. the number of violations recorded within all school speed zones
+47 within the city, in the aggregate on a daily, weekly and monthly basis;
+48 5. the number of violations recorded within each school speed zone
+49 where a photo speed violation monitoring system is used, in the aggre-
+50 gate on a daily, weekly and monthly basis;
+51 6. the number of violations recorded within all school speed zones
+52 within the city that were:
+53 (i) more than ten but not more than twenty miles per hour over the
+54 posted speed limit;
+55 (ii) more than twenty but not more than thirty miles per hour over the
+56 posted speed limit;
+
+S. 5646--A 7
+1 (iii) more than thirty but not more than forty miles per hour over the
+2 posted speed limit; and
+3 (iv) more than forty miles per hour over the posted speed limit;
+4 7. the number of violations recorded within each school speed zone
+5 where a photo speed violation monitoring system is used that were:
+6 (i) more than ten but not more than twenty miles per hour over the
+7 posted speed limit;
+8 (ii) more than twenty but not more than thirty miles per hour over the
+9 posted speed limit;
+10 (iii) more than thirty but not more than forty miles per hour over the
+11 posted speed limit; and
+12 (iv) more than forty miles per hour over the posted speed limit;
+13 8. the total number of notices of liability issued for violations
+14 recorded by such systems;
+15 9. the number of fines and total amount of fines paid after the first
+16 notice of liability issued for violations recorded by such systems;
+17 10. the number of violations adjudicated and the results of such adju-
+18 dications including breakdowns of dispositions made for violations
+19 recorded by such systems;
+20 11. the total amount of revenue realized by the city in connection
+21 with the program;
+22 12. the expenses incurred by the city in connection with the program;
+23 and
+24 13. the quality of the adjudication process and its results.
+25 (n) It shall be a defense to any prosecution for a violation of subdi-
+26 vision (b), (c), (d), (f) or (g) of section eleven hundred eighty of
+27 this article pursuant to this section that such photo speed violation
+28 monitoring system was malfunctioning at the time of the alleged
+29 violation.
+30 § 2. Subdivision 2 of section 87 of the public officers law is amended
+31 by adding a new paragraph (v) to read as follows:
+32 (v) are photographs, microphotographs, videotape or other recorded
+33 images prepared under authority of section eleven hundred eighty-h of
+34 the vehicle and traffic law.
+35 § 3. The purchase or lease of equipment for a demonstration program
+36 established pursuant to section 1180-h of the vehicle and traffic law,
+37 as added by section one of this act, shall be subject to the provisions
+38 of section 103 of the general municipal law.
+39 § 4. This act shall take effect on the thirtieth day after it shall
+40 have become a law and shall expire December 1, 2031, when upon such date
+41 the provisions of this act shall be deemed repealed. Effective imme-
+42 diately, the addition, amendment and/or repeal of any rule or regulation
+43 necessary for the implementation of this act on its effective date are
+44 authorized to be made and completed on or before such effective date.

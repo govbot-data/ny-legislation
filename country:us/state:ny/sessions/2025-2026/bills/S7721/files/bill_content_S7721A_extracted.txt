@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - S7721A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7721--A
+Cal. No. 1018
+2025-2026 Regular Sessions
+IN SENATE
+May 1, 2025
+___________
+Introduced by Sens. BRISPORT, BASKIN, CLEARE, COMRIE, GONZALEZ, HARCK-
+HAM, LIU, MYRIE, SALAZAR, SANDERS -- read twice and ordered printed,
+and when printed to be committed to the Committee on Judiciary --
+recommitted to the Committee on Judiciary in accordance with Senate
+Rule 6, sec. 8 -- reported favorably from said committee, ordered to
+first and second report, amended on second report, ordered to a third
+reading, and to be reprinted as amended, retaining its place in the
+order of third reading
+AN ACT to amend the real property actions and proceedings law, in
+relation to establishing a right of action for deed theft
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "deed theft: private right of action act".
+3 § 2. The real property actions and proceedings law is amended by
+4 adding a new section 891 to read as follows:
+5 § 891. Action for deed theft. 1. Definitions. For the purposes of this
+6 section, the following terms shall have the following meanings:
+7 (a) "Lender" means any trust company, private banker, savings bank,
+8 safe deposit company, licensed lender, savings and loan association,
+9 credit union, investment company, or mutual trust company, as such terms
+10 are defined in section two of the banking law, that provides a loan that
+11 encumbers covered property or was collateralized by covered property.
+12 (b) "Covered property" means residential real property, including but
+13 not limited to, one-to-six family dwellings, condominium units, cooper-
+14 ative apartments, lots in manufactured home parks, and securities that
+15 entitle the holder thereof to possession or occupancy of such property.
+16 (c) "Deed theft" means the act of taking, transferring or encumbering
+17 title to covered property without the owner's approval or knowledge, or
+18 through unfair, deceptive or abusive acts or practices. Deed theft
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10740-04-6
+
+S. 7721--A 2
+1 includes, but is not limited to actions taken by a natural person or
+2 entity whereby such person or entity:
+3 (i) alters, falsifies, forges, or misrepresents any written instrument
+4 involved in the conveyance or financing of covered property, such as a
+5 residential or commercial deed or title, with the effect of deceiving,
+6 defrauding, or unlawfully transferring or encumbering the ownership
+7 rights or a portion thereof of covered property;
+8 (ii) misrepresents themselves as the owner or authorized represen-
+9 tative of covered property to induce others to rely on such false infor-
+10 mation in order to obtain financing;
+11 (iii) takes, obtains, or transfers title or ownership of covered prop-
+12 erty by fraud, misrepresentation, forgery, larceny, false pretenses,
+13 false promise, or any other fraudulent or deceptive practice; or
+14 (iv) fails to disclose materially relevant information in order to
+15 induce an unfair transfer or encumbrance of the ownership rights of
+16 covered property.
+17 (d) "Deed thief" means any person or entity that commits deed theft.
+18 (e) "High-value experienced commercial transaction" means a trans-
+19 action the value of which exceeds six million dollars where all parties
+20 to the transaction are licensed realtors, lawyers, and/or have purchas-
+21 ing, selling, renting, and/or encumbering real property as their primary
+22 source of income.
+23 2. Private right of action for victims of deed theft. (a) A person or
+24 entity that is a victim of deed theft, as defined in this section, may
+25 maintain a private right of action against any deed thief, as defined in
+26 this section, who has committed deed theft against the covered property
+27 of such person or entity.
+28 (b) A person or entity that is a victim of deed theft, as defined in
+29 this section, may maintain an action against a lender that is not a bona
+30 fide encumbrancer if such lender:
+31 (i) provides a loan to a deed thief and such loan materially assists
+32 the deed thief in the commission of the deed theft; and
+33 (ii) fails to conduct reasonable due diligence or complete a standard
+34 non-negligent investigation regarding the covered property that is
+35 subject to the claim of deed theft.
+36 (c) A person or entity that is a victim of deed theft, as defined in
+37 this section, may maintain an action against a title insurance corpo-
+38 ration that has negligently facilitated such deed theft if such title
+39 insurance corporation:
+40 (i) provides title insurance coverage to a lender that provides a loan
+41 to a deed thief and such title insurance coverage assists in the commis-
+42 sion of the deed theft; and
+43 (ii) fails to conduct reasonable due diligence or complete a standard
+44 non-negligent investigation of the title ownership of the covered prop-
+45 erty that is subject to the claim of deed theft.
+46 3. High-value experienced commercial transactions. No private cause of
+47 action for deed theft shall be available for high-value experienced
+48 commercial transactions.
+49 4. Remedies and limitations. (a) Any deed or mortgage obtained by deed
+50 theft shall be deemed void ab initio.
+51 (b) Any person or entity found by a preponderance of the evidence to
+52 have violated this section shall be liable to the deed theft victim for
+53 the following: (i) actual damages, including consequential and inci-
+54 dental damages, (ii) treble damages, and (iii) reasonable attorneys'
+55 fees.
+
+S. 7721--A 3
+1 (c) With respect to a bona fide purchaser or encumbrancer for value,
+2 any right to equitable subrogation shall be limited to an amount not to
+3 exceed the amount that such bona fide purchaser or encumbrancer for
+4 value paid to satisfy any liens encumbering the covered property before
+5 the deed theft. This lien shall not accrue interest, shall not provide
+6 for a right to foreclose on the covered property, and shall become due
+7 upon the sale of the subject covered property.
+8 (d) The remedies provided in this section are not intended to be the
+9 exclusive remedies available to a victim of deed theft, and a deed theft
+10 victim may be granted injunctive, declaratory and such other equitable
+11 relief as the court deems appropriate in an action to enforce compliance
+12 with this section.
+13 (e) A private action for damages against the lender or deed thief
+14 pursuant to this section shall be commenced within six years of discov-
+15 ery of the deed theft.
+16 (f) In any action by an assignee to enforce a loan against a deed
+17 theft victim, a deed theft victim may assert any claims in recoupment
+18 and defenses to payment under the provisions of this section and with
+19 respect to the loan, without time limitations, that the deed theft
+20 victim could assert against the original lender.
+21 § 3. This act shall take effect on the ninetieth day after it shall
+22 have become a law. Effective immediately, the addition, amendment and/or
+23 repeal of any rule or regulation necessary for the implementation of
+24 this act on its effective date are authorized to be made and completed
+25 on or before such effective date.

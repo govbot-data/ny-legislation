@@ -1,0 +1,535 @@
+Title: 
+Official Title: 
+Source: versions - A10354B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10354--B
+IN ASSEMBLY
+February 26, 2026
+___________
+Introduced by M. of A. KELLES, GALLAGHER, SHIMSKY, LEVENBERG, SIMON,
+DINOWITZ, BURDICK, SHRESTHA, OTIS -- read once and referred to the
+Committee on Energy -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- reported and
+referred to the Committee on Ways and Means -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public service law, in relation to establishing the
+New York State grid reliability and energy affordability transition
+act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "New York
+2 State grid reliability and energy affordability transition (GREAT) act".
+3 § 2. Legislative findings and declarations. The legislature finds and
+4 declares that:
+5 1. New Yorkers face rising energy costs and grid reliability risks
+6 driven by extreme weather, aging infrastructure, and use of expensive,
+7 polluting fossil fuel plants to meet peak demand.
+8 2. A virtual power plant is a coordinated network of energy resources
+9 like batteries, electric vehicles, and smart thermostats working togeth-
+10 er to help meet the needs of the electric grid. During periods of peak
+11 demand for electricity, virtual power plants can reduce demand, supply
+12 electricity, and provide other essential grid services, preventing
+13 blackouts and lessening the need for costly upgrades to utility infras-
+14 tructure.
+15 3. Virtual power plants can lower electric bills for all ratepayers
+16 and reduce emissions of greenhouse gases and other air pollutants, espe-
+17 cially from aging "peaker plants" in disadvantaged communities. Virtual
+18 power plants also pay participating families and businesses for support-
+19 ing the grid, enabling and encouraging them to invest in distributed
+20 energy resources and reduce their net energy costs. This can help the
+21 state advance its clean energy goals and give customers tools to better
+22 manage their energy bills.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14809-09-6
+
+A. 10354--B 2
+1 4. Current market rules, complex energy program structures, and inade-
+2 quate compensation to participants are preventing New York from using
+3 virtual power plants at the scale they are capable of, leaving a great
+4 potential source of grid reliability, ratepayer savings and customer
+5 benefits untapped.
+6 5. Through the Reforming the Energy Vision initiative, the Public
+7 Service Commission has taken important steps toward modernizing New
+8 York's energy system, encouraging utilities to work proactively with
+9 customers and third-party providers to start the integration of distrib-
+10 uted energy resources into system planning and operations in order to
+11 lower system costs, reduce emissions, meet clean energy targets, and
+12 advance other public policy goals. Through this act the legislature
+13 provides comprehensive guidance to strengthen, accelerate, and codify
+14 those efforts, giving the Commission clear statutory direction to expand
+15 distributed energy markets by enhancing existing utility programs, and
+16 providing new program opportunities. This act further directs the
+17 Commission to reduce program barriers and maximize the benefits of
+18 virtual power plants.
+19 6. The policy of New York State shall therefore be to establish a
+20 statewide virtual power plant program to promote greater use of distrib-
+21 uted energy resources to support a cleaner, more affordable, resilient,
+22 and reliable electric grid.
+23 § 3. The public service law is amended by adding a new article 12 to
+24 read as follows:
+25 ARTICLE 12
+26 VIRTUAL POWER PLANT PROGRAM
+27 Section 240. Definitions.
+28 241. Virtual power plant program.
+29 242. Cost recovery.
+30 243. Program targets and performance incentive mechanisms.
+31 244. Reporting.
+32 § 240. Definitions. Where used in this article, the following terms,
+33 unless the context otherwise requires, shall have the following mean-
+34 ings:
+35 1. "Aggregator" means a person or entity, other than a utility or its
+36 affiliate, that enrolls and manages customer participation in a utili-
+37 ty's virtual power plant program. An aggregator shall not be considered
+38 an electric corporation by virtue of its participation in the program.
+39 2. "Battery" means a commercially available non-electric vehicle ener-
+40 gy storage system utilizing mechanical, chemical or thermal processes to
+41 absorb energy generated at one period of time, store such energy for a
+42 period of time, and discharge it for use at a later time.
+43 3. "Battery rider" means the section of a utility's virtual power
+44 plant program tariff that specifies the terms and conditions for battery
+45 resource participation.
+46 4. "Capacity value" refers to the value from reducing energy usage
+47 during the most energy-intensive days of the year.
+48 5. "Demand reduction value" means the monetary value of avoided
+49 distribution system costs.
+50 6. "Demand response" means actions taken by a customer to reduce the
+51 amount of electric load supplied by a utility, including through reduced
+52 customer consumption or the use of controllable water heaters, smart
+53 thermostats and other non-battery technologies.
+54 7. "Direct participant" means a customer that enrolls in the virtual
+55 power plant program directly with a utility rather than via an aggrega-
+56 tor.
+
+A. 10354--B 3
+1 8. "Disadvantaged community" means a community identified as disadvan-
+2 taged pursuant to the criteria set forth in section 75-0111 of the envi-
+3 ronmental conservation law.
+4 9. "Distributed energy resource" means batteries, non-battery technol-
+5 ogies, and electric vehicles that are capable of reducing or shifting
+6 customer load supplied by a utility, generating electricity, storing
+7 electricity, discharging electricity to supply customer energy needs or
+8 exporting electricity to the grid.
+9 10. "Electric vehicle" means a car, truck, bus or other mobile unit
+10 that utilizes electric power stored in an onboard battery for propulsion
+11 along with the associated equipment utilized to charge the battery.
+12 11. "Electric vehicle rider" means the section of a utility's virtual
+13 power plant program tariff that specifies the terms and conditions for
+14 electric vehicle resource participation.
+15 12. "Eligible customer" means an active residential electric service
+16 account holder of a utility with an eligible device.
+17 13. "Eligible device" means customer or third-party-owned distributed
+18 energy resources that meet the requirements for participation specified
+19 in the relevant virtual power plant program rider.
+20 14. "Grid-edge distributed energy management system" means a third-
+21 party software platform capable of communicating, optimizing and facili-
+22 tating the participation of behind-the-meter distributed energy
+23 resources to provide grid services.
+24 15. "Grid event" means a condition on an electric system in response
+25 to which a utility calls upon a virtual power plant to provide a grid
+26 service.
+27 16. "Grid service" means those services identified in paragraph (a) of
+28 subdivision one of section two hundred forty-one of this article.
+29 17. "Locational system relief value" means the monetary value of
+30 avoided distribution costs in specific geographic locations.
+31 18. "Low-to-moderate income customer" means a utility account holder
+32 for a household with an income of up to eighty percent of the state
+33 median income or area median income, whichever is greater.
+34 19. "Non-battery technology" means demand response and customer-sited
+35 devices, including but not limited to smart thermostats, water heaters,
+36 and other devices that can be controlled to reduce or otherwise modify
+37 customer energy consumption.
+38 20. "Non-battery rider" means the section of a utility's virtual power
+39 plant program tariff that specifies the terms and conditions for non-
+40 battery resource participation.
+41 21. "Participant" means an aggregator or a direct participant.
+42 22. "Performance payment" means the compensation received by a partic-
+43 ipant for the amount of grid service delivered or deemed delivered by
+44 the customer, device or aggregator during the applicable grid event or
+45 grid events.
+46 23. "Program rider" means one or more of the following: (a) a battery
+47 rider; (b) a non-battery rider; (c) an electric vehicle rider; or (d)
+48 any other virtual power plant program rider approved by the commission.
+49 24. "Small commercial customer" means a non-residential customer of a
+50 utility with an onsite behind-the-meter distributed energy resource with
+51 a rated capacity of seven hundred fifty kilowatts of alternating current
+52 or lower.
+53 25. "System peak load reduction" means a reduction in electricity
+54 demand or the amount of electricity supplied by a utility during the
+55 highest use periods of the day.
+
+A. 10354--B 4
+1 26. "Utility" means an electric corporation as defined in section two
+2 of this chapter.
+3 27. "Utilization factor" means a system or device's capacity used at a
+4 particular time as a percentage of the system or device's total capaci-
+5 ty.
+6 28. "Value of distributed energy resources" means a structured frame-
+7 work for determining the component values of distributed energy
+8 resources established by the commission.
+9 29. "Virtual power plant" means an aggregation of distributed energy
+10 resources operated in coordination to provide one or more grid services.
+11 30. "Virtual power plant program tariff" or "tariff" means the commis-
+12 sion approved standardized terms and conditions, including formal pric-
+13 ing schedules and operating rules, governing aggregator and customer
+14 participation and utility operation of the virtual power plant program.
+15 § 241. Virtual power plant program. 1. No later than ninety days after
+16 the effective date of this article, each utility shall file with the
+17 commission a virtual power plant program proposal including standard
+18 terms and conditions for participation and compensation in accordance
+19 with the requirements of this article. Each utility shall post its
+20 proposal in a conspicuous and easily accessible place on its website.
+21 The commission shall provide public notice of each utility's proposal,
+22 and provide opportunity for the public and parties to the case to
+23 comment for a period of not less than sixty days, and provide such other
+24 opportunity for public input as the commission determines appropriate.
+25 The commission shall conduct at least two public hearings on each utili-
+26 ty's proposal following the public comment period. Public hearings shall
+27 be held within the utility's service territory, at least one of which
+28 shall be held in a disadvantaged community within such territory, and
+29 shall offer video participation and any other measures the commission
+30 deems appropriate to ensure accessibility. Within ninety days of a util-
+31 ity filing its proposal, the commission shall, after consideration of
+32 all public and party comments, approve, or approve with modifications,
+33 the virtual power plant program. Within thirty days of final approval by
+34 the commission, the utility shall file a virtual power plant program
+35 tariff proposal with the commission for program implementation. No later
+36 than forty-five days after a utility files a tariff proposal, the
+37 commission shall approve, or approve with modification, the proposed
+38 tariff for immediate implementation. Upon such approval, the utility
+39 shall update its website with the final approved program and provide
+40 additional customer education materials and such other content as the
+41 commission may direct or approve on its website. Such materials and
+42 other content shall be distributed through bill inserts and such other
+43 means deemed appropriate by the commission to sufficiently educate rate-
+44 payers of the program's existence, benefits, and how to participate.
+45 (a) The program filed pursuant to this subdivision shall include a
+46 battery rider and a non-battery rider, and may include a separate elec-
+47 tric vehicle rider for eligible customers to enroll eligible devices
+48 into the applicable rider for their respective technologies. Each rider
+49 shall independently, at a minimum, provide a system peak load reduction
+50 service offering, and may provide additional grid service offerings,
+51 including, but not limited to:
+52 (i) clean peak service to reduce reliance on fossil fuel generation
+53 during peak demand periods;
+54 (ii) congestion relief, system utilization factor improvement,
+55 location specific demand reduction, and other location specific
+56 services;
+
+A. 10354--B 5
+1 (iii) avoidance or deferral of need to construct new or upgrade exist-
+2 ing components of the distribution system;
+3 (iv) ancillary services, including but not limited to voltage support
+4 and frequency regulation; and
+5 (v) such other grid services as the commission may direct or otherwise
+6 deem are in the public interest.
+7 (b) The program filed pursuant to this subdivision shall provide oper-
+8 ating parameters and related terms for each grid service offered under
+9 each technology specific rider, which may be incorporated into existing
+10 programs for residential customers or as new programs for such custom-
+11 ers, and which shall include:
+12 (i) the minimum and maximum numbers of grid events the utility may
+13 call;
+14 (ii) the months of the year that grid events may occur;
+15 (iii) days of the week that grid events may occur;
+16 (iv) times of day that grid events may occur;
+17 (v) maximum duration of grid events;
+18 (vi) day-ahead notification of grid events, along with ability to call
+19 events on a day-of basis for grid services or grid events that are not
+20 or cannot be forecasted on a day-ahead basis;
+21 (vii) a list of eligible devices; and
+22 (viii) customer protections for direct participants and customers
+23 participating through an aggregator; and
+24 (ix) such other provisions as the commission may direct or otherwise
+25 deem appropriate.
+26 (c) If a utility does not include an electric vehicle rider as part of
+27 the utility's initial filing pursuant to this subdivision, such utility
+28 shall file for commission approval of such rider no later than two years
+29 after the effective date of this article.
+30 (i) The electric vehicle rider shall, at a minimum:
+31 (1) offer opportunities for program participants to provide system
+32 peak load reduction services. The rider may also offer opportunities to
+33 provide additional grid services identified in paragraph (a) of this
+34 subdivision.
+35 (2) address the parameters identified in paragraph (b) of this subdi-
+36 vision for each grid service offering.
+37 (3) be posted by the utility in a conspicuous and easily accessible
+38 place on the utility's website.
+39 (ii) The commission shall provide public notice of each utility's
+40 electric vehicle rider proposal, if not part of the initial filing
+41 pursuant to this subdivision. The provisions and timeframes for commis-
+42 sion approvals and for implementation provided in paragraph (a) of this
+43 subdivision shall apply to the electric vehicle rider, except that the
+44 public hearing requirement shall be waived.
+45 (d) On an annual basis on such date as directed by the commission,
+46 each utility shall file a report identifying any grid service listed in
+47 paragraph (b) of this subdivision that is not included as a grid service
+48 offering for any rider then in effect. Each report shall discuss any
+49 grid conditions, technology constraints or other circumstances prevent-
+50 ing the utility from including such grid service offerings and provide
+51 an assessment of what conditions or circumstances would need to be in
+52 place to incorporate such offerings in the respective riders. Such
+53 reports shall be subject to comment by the parties to the rider and the
+54 public. The commission may direct utilities to submit for commission
+55 approval additional grid service offerings under one or more riders as
+56 the commission deems appropriate.
+
+A. 10354--B 6
+1 2. The virtual power plant program, inclusive of the respective riders
+2 filed pursuant to subdivision one of this section, shall include the
+3 following additional terms and conditions:
+4 (a) Provisions for the participation of aggregators, including the
+5 ability to directly enroll, unenroll and otherwise manage their custom-
+6 ers' participation, receive dispatch instructions and other communi-
+7 cations from the utility, receive program payments directly from the
+8 utility, and other customer protections determined by the commission.
+9 (b) Provisions for direct participant customers to enroll and partic-
+10 ipate through the utility, disenroll from the program without penalty,
+11 receive dispatch signals and other communications from the utility,
+12 deliver performance measurement and verification data to the utility,
+13 and receive program payments directly from the utility.
+14 (c) Provisions for device eligibility which shall allow for partic-
+15 ipation of new and existing distributed energy resources on a non-dis-
+16 criminatory basis.
+17 (d) Program participation compensation through performance payments as
+18 follows:
+19 (i) The commission shall approve performance payment rates for the
+20 system peak load reduction service in the form of a dollar per kilowatt
+21 value that is no lower than the sum of the capacity value and the demand
+22 reduction value using the most recent information for such value compo-
+23 nents as provided in the commission's value of distributed energy
+24 resources proceeding, or any successor proceeding, for each utility.
+25 (ii) Where applicable, the commission shall approve performance
+26 payment rates for resources located in areas designated as a locational
+27 system relief value area in the form of a dollar per kilowatt value no
+28 lower than the locational system relief value using the most recent
+29 information provided in the commission's value of distributed energy
+30 resources proceeding, or any successor proceeding.
+31 (iii) For a period of no less than four years from the effective date
+32 of this article, the demand reduction value component for establishing
+33 the system peak load reduction service performance payment rate shall be
+34 calculated based on the system-wide average of a utility's long-run,
+35 non-zero marginal cost of service, inclusive of all substation areas
+36 with non-zero costs.
+37 (iv) For a period of no less than four years from the effective date
+38 of this article, the locational system relief value component for estab-
+39 lishing the system peak load reduction service performance payment rate
+40 shall be calculated based on a single level of locational system relief
+41 value for each utility, reflecting the threshold level at which a utili-
+42 ty's costs are significantly higher than costs on average on a system-
+43 wide basis. The locational system relief value shall relate to no less
+44 than ten percent of a company's service areas for no less than five
+45 years from the effective date of this article.
+46 (v) For a period of no less than four years from the effective date of
+47 this article, the capacity value for establishing the system peak load
+48 reduction service performance payment rate shall be calculated as the
+49 average market clearing price across the utility territory for the prior
+50 calendar year. After such four-year period, the commission may continue
+51 to use this method or adopt an alternative methodology to calculate the
+52 capacity value component.
+53 (vi) The commission shall utilize the demand reduction value, loca-
+54 tional system relief value, and other values calculated pursuant to the
+55 commission's value of distributed energy resources proceeding, or any
+56 successor proceeding, and such other related valuation considerations to
+
+A. 10354--B 7
+1 establish performance payment rates, or such other compensation rates as
+2 the commission determines appropriate, for other grid service offerings
+3 approved under the program other than the system peak reduction service,
+4 provided that such rates reflect fair value for the service provided.
+5 (vii) Participants shall receive the performance payment rate approved
+6 for a grid service that is applicable at the time of enrollment for a
+7 period of five years. After such five-year period, a participant may
+8 reenroll in the program at the then applicable rate for subsequent five-
+9 year terms.
+10 (viii) Participants shall be eligible to provide multiple grid
+11 services under multiple technology riders and receive compensation for
+12 each grid service pursuant to each rider; provided, however, that the
+13 grid value delivered under one service is incremental to that provided
+14 under another service.
+15 (ix) Customers shall have the option to receive performance payments
+16 directly or to assign such payments to a third-party.
+17 (x) Performance payments shall be made by a utility to the applicable
+18 customer or third-party designated by the customer no less than once per
+19 year, but may be made more frequently, as approved by the commission. A
+20 utility shall provide performance payments in the form of a check or
+21 electronic transfer of funds, such as direct deposit or other ACH
+22 payment. The utility may provide customers the option to receive
+23 performance payments as a direct bill credit, but shall not require such
+24 payments to be issued in such manner.
+25 (xi) The commission shall periodically review performance payment
+26 rates in relation to a utility's performance in achieving the partic-
+27 ipation targets established in section two hundred forty-three of this
+28 article. The commission may increase the performance payment rates as
+29 it determines appropriate to achieve the participation targets.
+30 (e) Provisions to measure device performance, where:
+31 (i) Battery performance shall be measured directly at the inverter;
+32 and
+33 (ii) Non-battery and electric vehicle technology performance may be
+34 measured directly at the device or through such other methodologies as
+35 the commission may approve.
+36 (f) Performance payment compensation calculations and methodologies,
+37 where:
+38 (i) System peak load reduction service and locational services
+39 provided under a battery rider shall be compensated based on the appli-
+40 cable performance payment rate multiplied by the average battery
+41 performance as measured at the inverter during grid events over the
+42 course of the applicable measurement period. The commission may adopt
+43 the same or alternative methodologies to calculate compensation for
+44 other grid services offered under a battery rider as the commission
+45 deems appropriate.
+46 (ii) The commission shall provide methodologies to calculate compen-
+47 sation for grid services offered under non-battery and electric vehicle
+48 riders taking into account the ability to directly measure performance
+49 from the respective eligible technologies, costs of facilitating direct
+50 measurement, and related considerations.
+51 (g) A utility shall not assess penalties on customers or aggregators
+52 under this program; provided, however, that the commission may approve
+53 reasonable mechanisms to disenroll participants for continued non-per-
+54 formance.
+
+A. 10354--B 8
+1 (h) Provisions allowing customers to co-participate in other programs
+2 and provide multiple grid services across riders within the virtual
+3 power plant program, where:
+4 (i) Customers may co-participate in the net metering, value of
+5 distributed energy resources, and any other applicable interconnection
+6 tariff approved by the commission. Net metering customers shall not be
+7 required to transition to a value of distributed energy resources or
+8 other non-net metering interconnection tariff to participate in the
+9 program.
+10 (ii) Customers may co-participate in one or more program riders and
+11 provide multiple grid services within each rider. Customers may partic-
+12 ipate in other grid service programs outside the virtual power plant
+13 program, including wholesale market programs where otherwise permitted,
+14 so long as such value is distinct from that provided under the virtual
+15 power plant program.
+16 (i) Notwithstanding the provisions of subdivision one of this section,
+17 each utility shall update the participation rules for battery storage
+18 resources to participate in the direct load control program approved by
+19 the commission in the commission proceeding to develop dynamic load
+20 management programs, or any successor proceeding. Such revisions to the
+21 direct load control program shall be made to comply with the directives
+22 set forth in this subdivision as applicable to batteries in time to be
+23 effective for the two thousand twenty-seven program year. Such revisions
+24 to the direct load control programs may occur through the process
+25 currently administered by the commission to review and approve changes
+26 proposed by each utility in its annual dynamic load management program
+27 report filed in the commission's proceeding to develop dynamic load
+28 management programs, or as the commission may otherwise direct.
+29 3. The following additional terms shall apply to the virtual power
+30 plant program:
+31 (a) Participating aggregators shall: (i) make customer performance
+32 data and related customer specific information available to the customer
+33 upon request for visibility into device performance under the program;
+34 (ii) provide a clear and prominently displayed statement on the applica-
+35 tion form and customer portal that such information is available upon
+36 request and disclosing that the operation, power consumption, or power
+37 discharge of the customer's enrolled devices may be remotely adjusted,
+38 curtailed, or dispatched by the aggregator during grid events, subject
+39 to the customer's right to physically or digitally override such adjust-
+40 ments; (iii) include reasonable terms and conditions for customers to
+41 disenroll from the program without penalty; (iv) not sell, trade, or
+42 otherwise provide customer data related to participation in a virtual
+43 power plant program, except as authorized by this article, and without
+44 the written consent of such customer; and (v) establish robust proce-
+45 dures and practices to protect customer data.
+46 (b) The commission shall adopt other reasonable requirements for
+47 participation consistent with this subdivision; provided, however, that
+48 collateral or other financial commitments from aggregators or direct
+49 participants shall not be required as a condition for participation.
+50 (c) Utility-owned distributed energy resources shall not be eligible
+51 to participate in the program. Utilities and utility affiliates may not
+52 be aggregators.
+53 (d) Utilities shall provide non-discriminatory access to customer
+54 data, hosting capacity data, and other grid data to facilitate: (i)
+55 program enrollment; (ii) identification of grid support needs; and (iii)
+56 other program participation considerations for customers, distributed
+
+A. 10354--B 9
+1 energy resource developers and aggregators. No later than one year after
+2 the effective date of this article the commission shall promulgate rules
+3 allowing customers timely data sharing and third-party access, as neces-
+4 sary, to grid data.
+5 (e) Utilities may, upon review by and with the consent of the commis-
+6 sion, engage third-party grid-edge distributed energy resource manage-
+7 ment system providers for program administration and other program
+8 support, such as facilitating the participation of aggregators and the
+9 enrollment and participation of direct participants.
+10 (f) Each electric corporation shall take all necessary steps to facil-
+11 itate and streamline the processes required for virtual power plant
+12 participation. Such efforts shall include, but not be limited to, reduc-
+13 ing administrative barriers and transaction costs for virtual power
+14 plant participants and adopting standardized processes to simplify and
+15 ensure timely: (i) interconnection; (ii) data sharing and automated
+16 system integration with third-party aggregators; (iii) administrative
+17 and logistical coordination for mass-market enrollment; (iv) performance
+18 verification and payment settlement; and (v) such other measures as the
+19 commission may direct.
+20 (g) (i) Prior to enrollment with an aggregator, each customer shall
+21 receive information in plain language, which shall include: (1) the
+22 rights of customers under the program; (2) how to disenroll or temporar-
+23 ily suspend participation in the program; and (3) examples of when an
+24 aggregator may control the customer's device to provide the grid service
+25 to the utility under the program.
+26 (ii) Such information shall also be made available on the department's
+27 website as well as each participating utility's website.
+28 § 242. Cost recovery. 1. Utilities may recover prudently incurred
+29 costs to facilitate administration and implementation of a virtual power
+30 plant program established pursuant to this article, as determined by the
+31 commission, including but not limited to grid-edge distributed energy
+32 resource management system provider and other service contract costs,
+33 operations and maintenance expenses, information technology costs, and
+34 such other costs, expenses and investments the commission finds neces-
+35 sary and prudent for the development and implementation of the program.
+36 2. Utilities may recover the cost of program payments made to partic-
+37 ipants through cost recovery mechanisms approved by the commission.
+38 § 243. Program targets and performance incentive mechanisms. 1. No
+39 later than one year after the effective date of this article, the
+40 commission shall, after notice and opportunity for public comment,
+41 establish system peak load reduction targets and performance incentive
+42 mechanisms for a virtual power plant program for each utility and guid-
+43 ance to ensure robust initial participant engagement and growth of
+44 virtual power plant programs. Each such target shall: (a) be established
+45 for a minimum period of ten years; (b) include increasing annual bench-
+46 marks; and (c) be structured as a percentage of a utility system's peak
+47 demand to ensure the program scales dynamically with load growth.
+48 2. The commission shall adopt performance incentive mechanisms for
+49 achieving or exceeding the targets established for each year of the
+50 performance period. The commission may include as part of the perform-
+51 ance incentive mechanism: (a) performance metrics; (b) publicly-accessi-
+52 ble data dashboards, scorecards, and other tracking tools; (c) financial
+53 incentives and financial penalties for failure to meet performance
+54 targets; and (d) such other mechanisms appropriate to track performance
+55 and create financial incentive structures to motivate the utility to
+56 achieve performance targets.
+
+A. 10354--B 10
+1 3. The commission shall develop program performance incentive mech-
+2 anisms for additional grid services as the commission deems appropriate.
+3 4. The commission shall design the virtual power plant program in a
+4 manner to provide substantial benefits for disadvantaged communities,
+5 which shall include consideration of proposals to deploy virtual power
+6 plants in order to reduce the usage of combustion-powered peaking facil-
+7 ities located in or near disadvantaged communities; for low or moderate
+8 income end-use consumers; and for maximum consumer cost reductions at a
+9 reasonable cost.
+10 § 244. Reporting. Each utility shall file an annual report at a date
+11 determined by the commission that shall include, at minimum:
+12 1. the total participants enrolled in each virtual power plant program
+13 rider broken out by technology type, customer class, and aggregator vs.
+14 direct participants for each grid service offered in the prior calendar
+15 year;
+16 2. estimated cost reductions as a result of the virtual power plant
+17 program and how such reductions are reflected in customer bill savings;
+18 3. recommendations to increase participation in the virtual power
+19 plant program; and
+20 4. such other information as the commission may require.
+21 § 4. This act shall take effect immediately.

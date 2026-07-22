@@ -1,0 +1,296 @@
+Title: 
+Official Title: 
+Source: versions - S3492A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3492--A
+Cal. No. 1374
+2025-2026 Regular Sessions
+IN SENATE
+January 28, 2025
+___________
+Introduced by Sens. MAY, HARCKHAM, HOYLMAN-SIGAL, JACKSON, SALAZAR --
+read twice and ordered printed, and when printed to be committed to
+the Committee on Environmental Conservation -- reported favorably from
+said committee, ordered to first and second report, ordered to a third
+reading, amended and ordered reprinted, retaining its place in the
+order of third reading
+AN ACT to amend the environmental conservation law and the public hous-
+ing law, in relation to enacting the "sustainable affordable housing
+and sprawl prevention act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "sustaina-
+2 ble affordable housing and sprawl prevention act".
+3 § 2. The environmental conservation law is amended by adding a new
+4 section 8-0119 to read as follows:
+5 § 8-0119. Certain actions exempt or subject to limited review.
+6 1. Exempt actions for construction of residential dwellings. (a)
+7 Notwithstanding any law, rule or regulation to the contrary, qualifying
+8 actions with respect to the construction of a new multiple dwelling or
+9 more than one contiguous multiple dwellings, including building permits,
+10 variances, subdivision approvals, site plan approvals, and zoning text
+11 amendments, that meet the following thresholds shall be automatically
+12 determined not to have a significant impact on the environment and shall
+13 be exempt from any environmental review requirements under this article
+14 or any rules or regulations promulgated pursuant hereto:
+15 (i) fewer than ten total residential units in municipalities that have
+16 not adopted zoning or subdivision regulations;
+17 (ii) fewer than fifty total residential units in a building in which
+18 no more than twenty percent of the floor area consists of commercial or
+19 community facility uses, not to be connected at the commencement of
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03754-05-5
+
+S. 3492--A 2
+1 habitation to existing community or public water and sewerage systems
+2 including sewage treatment works;
+3 (iii) in a city, town, or village having a population of ninety thou-
+4 sand persons or less, fewer than two hundred total residential units in
+5 a building in which no more than twenty percent of the floor area
+6 consists of commercial or community facility uses to be connected at the
+7 commencement of habitation to existing community or public water and
+8 sewerage systems including sewage treatment works;
+9 (iv) in a city, town, or village having a population of greater than
+10 ninety thousand but less than one million, fewer than five hundred total
+11 residential units in a building in which no more than twenty percent of
+12 the floor area consists of commercial or community facility uses to be
+13 connected at the commencement of habitation to existing community or
+14 public water and sewerage systems including sewage treatment works; or
+15 (v) in a city having a population of one million or more persons,
+16 fewer than one thousand total residential units in a building in which
+17 no more than twenty percent of the floor area consists of commercial or
+18 community facility uses to be connected at the commencement of habita-
+19 tion to existing community or public water and sewerage systems includ-
+20 ing sewage treatment works.
+21 (b) To be determined as a "qualifying action" under paragraph (a) of
+22 this subdivision, such multiple dwelling shall:
+23 (i) be located in a census tract defined as an urbanized area or an
+24 urban cluster by the federal Census Bureau or in a village with a mini-
+25 mum population density of one thousand people per square mile;
+26 (ii) be located on previously disturbed land;
+27 (iii) qualify as affordable housing, as shall be determined by the
+28 division of housing and community renewal, relative to the municipality
+29 or county, as shall be determined by the division of housing and commu-
+30 nity renewal, in which it is located;
+31 (iv) not be located in an area:
+32 (1) projected to experience flooding in the event of sea level rise
+33 greater than or equal to the high-medium projection by year twenty-one
+34 hundred as set forth in regulations promulgated pursuant to section
+35 3-0319 of this chapter, or any other science-based projection of future
+36 sea level conditions deemed satisfactory by the commissioner;
+37 (2) designated as a special flood hazard area by the federal emergency
+38 management agency, provided that this provision shall not apply to muni-
+39 cipalities that have adopted a building code that mitigates flood hazard
+40 risk by requiring new construction to be elevated above the base flood
+41 elevation as defined by the federal emergency management agency; or
+42 (3) designated as a critical environmental area by the department;
+43 (v) complete a Phase I Environmental Site Assessment in accordance
+44 with all appropriate inquiries regulations of the United States Environ-
+45 mental Protection Agency under the federal Comprehensive Environmental
+46 Response, Compensation and Liability Act (Title forty of the Code of
+47 Federal Regulations, Section 312), and complete testing for lead water
+48 and paint, asbestos, and radon, the results of which shall be submitted
+49 by the proposed developer of such multiple dwelling to the local agency
+50 responsible for approving or denying the application for such multiple
+51 dwelling. If the Phase I Environmental Site Assessment identifies condi-
+52 tions indicative of releases or threatened releases of hazardous
+53 substances, the proposed developer shall conduct such physical sampling
+54 and testing as is necessary to ascertain the presence of hazardous
+55 substances. If such testing finds contamination that exceeds acceptable
+56 levels of contaminants for residential use as set forth in regulations
+
+S. 3492--A 3
+1 promulgated pursuant to titles thirteen and fourteen of article twenty-
+2 seven and title five of article fifty-six of this chapter and related
+3 regulations governing environmental remediation, the proposed project
+4 shall either (1) obtain a written signoff from the lead agency that no
+5 further environmental investigation is required or that a plan to
+6 address any hazardous materials is acceptable; or (2) consent that the
+7 development site will be developed pursuant to a regulatory agreement
+8 with a government agency with appropriate protections and development
+9 oversight requirements. Nothing in this subparagraph shall be deemed to
+10 exempt any such site from applicable provisions of article twenty-seven
+11 or title five of article fifty-six of this chapter, or other laws
+12 governing hazardous waste and the presence of hazardous substances;
+13 (vi) receive a written certification from a qualified environmental
+14 professional, as such term shall be defined by the department in regu-
+15 lation, that the construction of such multiple dwelling will not violate
+16 any state wetland laws under articles twenty-four and twenty-five of
+17 this chapter, or any rules or regulations promulgated thereto;
+18 (vii) receive a written certification from a qualified professional,
+19 as such term shall be defined by the department in regulation, that
+20 construction of such multiple dwelling, as proposed, will not violate
+21 any drinking water laws under article eleven of the public health law,
+22 or any rules or regulations promulgated thereto; and
+23 (viii) receive certification by an architect licensed by the state
+24 that the building has been designed to meet one or more of the following
+25 building standards:
+26 (1) the Leadership in Energy and Environmental Design Building Rating
+27 System (LEED) published by the United States Green Building Council for
+28 the category of certified gold, at minimum, as determined by a LEED
+29 accredited professional;
+30 (2) enterprise green communities review and certification;
+31 (3) Passive House Institute Passive House certification;
+32 (4) fossil fuel free building standards under subdivisions six and
+33 seven of section 11-104 of the energy law and subdivision nineteen of
+34 section three hundred seventy-eight of the executive law; or
+35 (5) in municipalities that have opted in, the New York Stretch Code as
+36 developed by the New York state energy research and development authori-
+37 ty.
+38 2. Actions with respect to construction of multiple dwellings subject
+39 to limited review. (a) Notwithstanding any law, rule or regulation to
+40 the contrary, actions with respect to the construction of new multiple
+41 dwellings that are not exempt from environmental review under subdivi-
+42 sion one of this section, and that are qualifying actions, shall not be
+43 subject to any environmental review standards under this article, or
+44 rules or regulations promulgated thereto, that do not consist of core
+45 environmental concerns, as such term shall be defined by the department
+46 in regulation. Topics of review that shall be exempt under this subdivi-
+47 sion as failing to meet the standard of core environmental concerns
+48 shall include, but not be limited to, casting of shading or shadows,
+49 impacts on views from neighboring buildings, consistency with community
+50 character, impacts on neighborhood character, and the resources of local
+51 school systems; except that, in the case of a disadvantaged community,
+52 such topics of concern may include the resources of local school
+53 systems.
+54 (b) To be determined as a "qualifying action" under paragraph (a) of
+55 this subdivision, the proposed multiple dwelling shall:
+
+S. 3492--A 4
+1 (i) be located in a census tract defined as an urbanized area or an
+2 urban cluster by the federal Census Bureau;
+3 (ii) be located on previously disturbed land;
+4 (iii) qualify as affordable housing, as shall be determined by the
+5 division of housing and community renewal, relative to the municipality
+6 or county, as shall be determined by the division of housing and commu-
+7 nity renewal, in which it is located; and
+8 (iv) not be located in an area:
+9 (1) projected to experience flooding in the event of sea level rise
+10 greater than or equal to the high-medium projection by year twenty-one
+11 hundred as set forth in regulations promulgated pursuant to section
+12 3-0319 of this chapter, or any other science-based projection of future
+13 sea level conditions deemed satisfactory by the commissioner;
+14 (2) designated as a special flood hazard area by the federal emergency
+15 management agency, provided that this provision shall not apply to muni-
+16 cipalities that have adopted a building code that mitigates flood hazard
+17 risk by requiring new construction to be elevated above the base flood
+18 elevation as defined by the federal emergency management agency ; or
+19 (3) designated as a critical environmental area by the department.
+20 3. Mandatory review. Every action that is a qualifying action under
+21 subdivision one or two of this section shall be subjected to a determi-
+22 nation by the local permitting authority of whether such action is
+23 exempt under subdivision one of this section, and if such action is not
+24 exempt under subdivision one of this section, whether such action is
+25 exempt under subdivision two of this section. If, after sixty days, the
+26 local agency responsible for approving or denying the application for
+27 such multiple dwelling has failed to return such a determination, the
+28 applicant may appeal to the division of housing and community renewal
+29 for a determination, and in such case the division shall render a deter-
+30 mination within sixty days of receipt of the application.
+31 4. Historic sites. An action otherwise exempt from environmental
+32 review requirements under subdivision one of this section may be
+33 required to undergo environmental review pursuant to this article or the
+34 rules or regulations promulgated pursuant hereto on the basis that the
+35 multiple dwelling would be constructed wholly or partially within a
+36 historic site, provided, however that such action affects a contributing
+37 property within such historic site, and provided further that such envi-
+38 ronmental review is limited in its scope to such contributing property.
+39 An action shall not be required to undergo an environmental review under
+40 this subdivision solely on the basis that such the proposed multiple
+41 dwelling would be substantially contiguous to a historic site, or
+42 located in a neighborhood containing historic sites.
+43 5. Wastewater treatment and stormwater management. (a) An action
+44 exempt from environmental review requirements under subdivision one or
+45 two of this section may provide concept plans to either the appropriate
+46 local governmental entity or the department that demonstrate that the
+47 multiple dwelling will have adequate wastewater treatment to accommodate
+48 the completed multiple dwelling for no less than thirty years. The
+49 department shall establish a method by which developers of proposed
+50 multiple dwellings may submit such concept plans pursuant to this para-
+51 graph. Upon submission of such concept plans, the local governmental
+52 entity or the department, as applicable, shall approve or deny such
+53 concept wastewater treatment plans no later than thirty days after
+54 submission of such plans.
+
+S. 3492--A 5
+1 (b) An action exempt from environmental review requirements under
+2 subdivision one or two of this section shall be required to maintain
+3 compliance with all applicable stormwater regulations.
+4 6. Disadvantaged communities. The department shall require, by rule or
+5 regulation, that qualifying actions with respect to the construction of
+6 new multiple dwellings shall not:
+7 (a) contribute more than a de minimis amount of pollution or any
+8 disproportionate pollution burden after the completion of construction;
+9 or
+10 (b) directly displace low-income households by reducing, in aggre-
+11 gate, their residential housing opportunities in a disadvantaged commu-
+12 nity.
+13 7. Authority of the commissioner. The commissioner shall be authorized
+14 to consult with any other state or local agency and to promulgate and/or
+15 amend any rules and/or regulations such commissioner shall deem neces-
+16 sary for the implementation of the provisions of this section; provided,
+17 however, that the department and the division of housing and community
+18 renewal shall jointly promulgate such rules and regulations as they
+19 shall deem necessary for the implementation of subdivision six of this
+20 section.
+21 8. The proposed developer shall promptly provide to the department and
+22 to the local agency, and shall promptly post on a publicly accessible
+23 website, all certifications for the proposed developer's project that
+24 are required by this section, and the Phase I site assessment and the
+25 results of all testing required under subparagraph (v) of paragraph (b)
+26 of subdivision one of this section.
+27 § 3. Section 8-0105 of the environmental conservation law is amended
+28 by adding six new subdivisions 11, 12, 13, 14, 15 and 16 to read as
+29 follows:
+30 11. "Historic site" means a historic building, structure, facility,
+31 site or district, or prehistoric site that is listed on the National
+32 Register of Historic Places (36 CFR Parts 60 and 63), or that is listed
+33 on the state register of historic places or that has been determined by
+34 the commissioner of parks, recreation and historic preservation to be
+35 eligible for listing on the state register of historic places pursuant
+36 to section 14.07 or 14.09 of the parks, recreation and historic preser-
+37 vation law, or historic buildings listed as landmarks by the New York
+38 city landmarks preservation commission.
+39 12. "Contributing property" means a building, structure, facility, or
+40 site located within a historic site or district that wholly or partially
+41 contributes to such designation as a historic site.
+42 13. "Dwelling" means any building or structure or portion thereof
+43 which is occupied or intended to be occupied in whole or in part as the
+44 home, residence, or sleeping place of one or more human beings.
+45 14. "Multiple dwelling" means a dwelling that is either rented,
+46 leased, let or hired out, or sold, to be occupied, or is occupied as the
+47 residence or home of four or more separate individuals or groups of
+48 individuals living independently of each other, including, but not
+49 limited to, apartments, condominiums, and townhouses. A "multiple dwell-
+50 ing" shall not be deemed to include a class B multiple dwelling as
+51 defined by section four of the multiple dwelling law, or a hospital,
+52 convent, monastery, residential care facility, or a building used wholly
+53 for commercial purposes.
+54 15. "Residential unit" means a room or group of rooms within a multi-
+55 ple dwelling that is designated as the living quarters for an individual
+
+S. 3492--A 6
+1 or group of individuals living independently from other individuals
+2 occupying such multiple dwelling.
+3 16. "Previously disturbed land" shall mean a parcel or lot of land
+4 that was occupied or formerly occupied by a building or otherwise
+5 improved or utilized at least one year prior to the effective date of
+6 this subdivision, and was not most recently used for commercial agricul-
+7 tural purposes.
+8 § 4. Section 600 of the public housing law is amended by adding a new
+9 subdivision 6 to read as follows:
+10 6. A covered housing agency in this state shall be subject, as appli-
+11 cable, to the provisions of article eight of the environmental conserva-
+12 tion law and any rules and/or regulations promulgated thereto.
+13 § 5. This act shall take effect on the one hundred eightieth day after
+14 it shall have become a law. Effective immediately, the addition, amend-
+15 ment and/or repeal of any rule or regulation necessary for the implemen-
+16 tation of this act on its effective date are authorized to be made and
+17 completed on or before such effective date.
