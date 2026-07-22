@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - S4590A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4590--A
+2025-2026 Regular Sessions
+IN SENATE
+February 10, 2025
+___________
+Introduced by Sen. PARKER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Energy and Telecommuni-
+cations -- recommitted to the Committee on Energy and Telecommuni-
+cations in accordance with Senate Rule 6, sec. 8 -- reported favorably
+from said committee and committed to the Committee on Finance --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT in relation to establishing the New York state grid modernization
+commission
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. New York state grid modernization commission. (a) Within
+2 one hundred eighty days of the effective date of this act, the New York
+3 state grid modernization commission shall be established.
+4 (b) The New York state grid modernization commission shall consist of:
+5 (i) the chief executive officer of the department of public service or
+6 their chosen designee, (ii) the commissioner of environmental conserva-
+7 tion or their chosen designee, (iii) the commissioner of economic devel-
+8 opment or their chosen designee, (iv) the commissioner of transportation
+9 or their chosen designee, (v) the commissioner of labor or their chosen
+10 designee, (vi) the commissioner of the division of homeland security and
+11 emergency services or their chosen designee, (vii) the commissioner of
+12 agriculture and markets or their chosen designee, (viii) the commission-
+13 er of health or their chosen designee, (ix) the secretary of state or
+14 their chosen designee, (x) the president of the power of authority or
+15 their chosen designee, (xi) the president of the New York state energy
+16 research and development authority or their chosen designee and (xii)
+17 two representatives appointed by the governor, two representatives
+18 appointed by the temporary president of the senate and two represen-
+19 tatives appointed by the speaker of the assembly as well as one repre-
+20 sentative appointed by the minority leader of the senate and one repre-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01626-02-6
+
+S. 4590--A 2
+1 sentative appointed by the minority leader of the assembly. Such
+2 members shall be appointed in accordance with the provisions of subdivi-
+3 sion (c) of this section.
+4 (c) The grid modernization commission shall include members from
+5 communities of color, low-income communities, and communities bearing
+6 disproportionate pollution and climate change burdens, or shall be
+7 representatives of community-based organizations with experience and a
+8 history of advocacy on environmental justice issues, and shall include
+9 at least two representatives from New York city communities, two repre-
+10 sentatives from rural communities, and two representatives from upstate
+11 New York urban communities. Such representatives shall have experience
+12 in one or more of the following fields: economics, engineering, law,
+13 utility regulation, consumer advocacy, or environmental management. The
+14 grid modernization commission shall also include at least one local
+15 official from a city, town, or village that owns or operates a municipal
+16 electric utility.
+17 (d) Members of the grid modernization commission shall serve without
+18 compensation, but shall be reimbursed for the necessary and actual
+19 expenses incurred in the performance of duties as members of the commis-
+20 sion.
+21 (e) The grid modernization commission shall meet biannually.
+22 § 2. (a) The grid modernization commission shall, in consultation with
+23 the department of public service, conduct a study of research, develop-
+24 ment, and demonstrations of electric grid modernization that address the
+25 principal challenges identified in the New York Independent System Oper-
+26 ator's 2021-2040 System & Resource Outlook and any subsequent twenty-
+27 year comprehensive reliability plans. The study shall identify tools,
+28 resources, and deployment models that may enable improved performance
+29 through the adoption of emerging, commercially available or advanced
+30 grid technologies or solutions, including but not limited to:
+31 (i) micro-grids;
+32 (ii) distributed energy resources;
+33 (iii) energy storage;
+34 (iv) electric vehicles;
+35 (v) electric vehicle charging infrastructure;
+36 (vi) integrated information and communications systems;
+37 (vii) transactive energy systems;
+38 (viii) advanced demand management systems;
+39 (ix) the role of the speed of interconnection to the distribution or
+40 bulk system in enabling a robust future electric grid;
+41 (x) the role of state and local regulatory authorities in enabling a
+42 robust future electric grid to ensure that:
+43 (A) electric utilities remain financially viable;
+44 (B) electric utilities make the needed investments that ensure a reli-
+45 able, secure, and resilient grid; and
+46 (C) costs incurred to transform to an integrated grid are allocated
+47 and recovered responsibly, efficiently, and equitably; and
+48 (xi) any other technologies, solutions, or strategies that the commis-
+49 sion deems important to modernizing the grid.
+50 (b) The grid modernization commission shall solicit input from stake-
+51 holders, including but not limited to:
+52 (i) local governments;
+53 (ii) municipal utilities;
+54 (iii) utility companies;
+55 (iv) rural electric cooperatives;
+56 (v) labor unions;
+
+S. 4590--A 3
+1 (vi) ratepayers;
+2 (vii) trade associations;
+3 (viii) generators;
+4 (ix) community organizations; and
+5 (x) transmission owners.
+6 (c) The grid modernization commission shall hold at least one public
+7 hearing in the preparation of the study and may base study findings on
+8 existing literature.
+9 (d) Any expenses associated with the reimbursement of the grid modern-
+10 ization commission members shall be borne by the New York state energy
+11 research and development authority.
+12 (e) No later than eighteen months after the effective date of this
+13 act, the grid modernization commission shall issue a report on the find-
+14 ings of its study to the state energy planning board containing any
+15 recommendations appropriate for consideration in the development of the
+16 state energy plan. The grid modernization commission shall issue an
+17 annual report following the submission of its initial report to the
+18 state energy planning board with any necessary updates. Such reports
+19 shall be posted on the authority's website and be issued to the tempo-
+20 rary president of the senate and the speaker of the assembly.
+21 § 3. The grid modernization commission shall make recommendations to
+22 the New York state energy research and development authority of grants
+23 that the authority may make to carry out eligible projects related to
+24 the modernization of the electric grid, including but not limited to the
+25 application of technologies to improve observability, advanced controls,
+26 and prediction of system performance on the distribution system.
+27 § 4. In the development of the state energy plan, the state energy
+28 planning board shall consult with the grid modernization commission and
+29 consider the reasonableness, efficacy and expense of including in the
+30 state energy plan the recommendations contained in the grid moderniza-
+31 tion commission's report issued pursuant to this act.
+32 § 5. This act shall take effect immediately.

@@ -1,0 +1,334 @@
+Title: 
+Official Title: 
+Source: versions - A10133A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10133--A
+IN ASSEMBLY
+February 3, 2026
+___________
+Introduced by M. of A. VANEL -- read once and referred to the Committee
+on Banks -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to personal loans and
+short-term lending conditions
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new section 3 to
+2 read as follows:
+3 § 3. True lender; personal loans; short-term lending conditions. 1. As
+4 used in this section, the following terms shall have the following mean-
+5 ings:
+6 (a) (i) "Personal loan" shall mean any extension of money or credit
+7 made to a natural person for household or personal use in exchange for
+8 such natural person's agreement to a certain set of terms, including,
+9 but not limited to, any finance charges, fees, interest, other consider-
+10 ation, or other conditions.
+11 (ii) "Personal loan" includes closed-end and open-end credit and any
+12 transaction conducted via any medium, including paper or electronic
+13 means, facsimile, internet, or telephone.
+14 (iii) The term "personal loan" shall not include:
+15 (A) open-end credit plans subject to the federal Truth in Lending Act
+16 and Regulation Z that are accessed by the use of a credit card or simi-
+17 lar device and that contemplate repeated transactions;
+18 (B) any extension of credit secured by a mortgage, deed of trust, or
+19 other consensual security interest in real property, including home
+20 equity lines of credit; or
+21 (C) any other extension of credit that is subject to a charter,
+22 license, or regulatory regime under this chapter or other provisions of
+23 New York state law that provides for ongoing supervision, examination,
+24 and enforcement authority by the superintendent, as determined by the
+25 superintendent pursuant to rules establishing objective criteria.
+26 (b) "Lender" shall mean:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13842-03-6
+
+A. 10133--A 2
+1 (i) Any person, including any affiliate or subsidiary of such person,
+2 that:
+3 (A) offers or makes a personal loan;
+4 (B) purchases or acquires a whole or partial interest in a personal
+5 loan or any receivable arising from a personal loan;
+6 (C) arranges, brokers, or facilitates a personal loan for a third
+7 party; or
+8 (D) acts as an agent for a third party in making a personal loan,
+9 regardless of whether approval, acceptance, or ratification by the third
+10 party is necessary to create a legal obligation for the third party.
+11 (ii) A person is a lender notwithstanding that such person purports to
+12 act as an agent, service provider, or in another capacity for another
+13 person that is exempt from this section or the laws of this state if any
+14 of the following apply:
+15 (A) such person holds, acquires, or maintains, directly or indirectly,
+16 the predominant economic interest in a personal loan;
+17 (B) such person markets, brokers, arranges, or facilitates a personal
+18 loan and holds the right, requirement, or first right of refusal to
+19 purchase or acquire a personal loan or any receivable or interest in a
+20 personal loan; or
+21 (C) the totality of the circumstances indicate that such person is a
+22 lender, and the personal loan is structured to evade the requirements of
+23 this section. Circumstances that weigh in favor of such a finding
+24 include, without limitation, where such person:
+25 (1) indemnifies, insures, or protects a person that is not subject to
+26 this section for any costs or risks related to such personal loan;
+27 (2) predominantly designs, controls, or operates the program for such
+28 personal loan; or
+29 (3) holds the trademark or intellectual property rights in the brand,
+30 underwriting system, or other core aspects of a lender.
+31 (c) "Control" shall mean the possession, directly or indirectly, of
+32 the power to direct or cause the direction of the management and poli-
+33 cies of a person, whether through the ownership of voting stock, the
+34 ownership of voting stock of any person which possess such power or
+35 otherwise. Control shall be presumed to exist if any person, directly
+36 or indirectly, owns, controls, or holds the power to vote ten per centum
+37 or more of the voting stock of another person, but no person shall be
+38 deemed to control another person solely by reason of being an officer or
+39 director of such other person.
+40 (d) "Exempt organization" shall mean any of the following:
+41 (i) Any bank, savings bank, savings and loan association, trust compa-
+42 ny, private banker, credit union, investment company organized under
+43 article twelve of this chapter, national bank, federal savings associ-
+44 ation, federal savings and loan association, federal credit union,
+45 federal trust company, and foreign banking corporation licensed by the
+46 comptroller of the currency to transact business in this state or by the
+47 United States.
+48 (ii) Any person organized under and conducting transactions subject to
+49 article nine, nine-A or ten of the personal property law, unless credit
+50 is extended to purchase merchandise certificates, coupons, open or
+51 closed loop stored value, or other similar items issued and redeemable
+52 by a retail seller other than the retail seller extending the credit, or
+53 under article eleven of the personal property law.
+54 (iii) Any person organized under and conducting transactions subject
+55 to articles nine, twelve-B, twelve-D, twelve-E and fourteen-B of this
+56 chapter.
+
+A. 10133--A 3
+1 (iv) Any person making loans under programs of the United States
+2 Department of Agriculture, Department of Housing and Urban Development,
+3 or any other federal government program that provides funding or access
+4 to funding for single-family housing developments or grants to low-in-
+5 come individuals for the purchase or repair of single-family housing.
+6 (v) Nonprofit housing organizations making loans, or loans made under
+7 housing programs that are funded in whole or in part by federal or state
+8 programs if the primary purpose of such programs is to assist low-income
+9 borrowers with purchasing or repairing housing or the development of
+10 housing for low-income New York state residents.
+11 (vi) Any person that extends money or credit to another person on a
+12 nonrecourse basis in exchange for a contingent right to receive an
+13 amount of the potential proceeds of any award, judgment, settlement,
+14 verdict, or other resolution from a pending legal action, unless such
+15 person requires repayment in the event that such other person does not
+16 prevail in their civil proceeding.
+17 (e) "Short-term loan" shall mean:
+18 (i) a closed-end personal loan;
+19 (ii) in the principal amount of three thousand dollars or less;
+20 (iii) with a scheduled term of not less than three months and not more
+21 than twelve months;
+22 (iv) repayable in substantially equal periodic installments with no
+23 payment resulting in a material increase in principal balance, deferral
+24 of principal repayment, or negative amortization;
+25 (v) that amortize the principal balance over the scheduled term; and
+26 (vi) that is unsecured by real property, a motor vehicle title, or any
+27 other collateral other than the borrower's personal obligation to repay.
+28 2. (a) Any personal loan made by a lender, other than an exempt organ-
+29 ization, to a resident of or person physically located in the state of
+30 New York is subject to the authority and restrictions of this chapter
+31 and applicable provisions of the financial services law, the general
+32 obligations law, the penal law, and the laws of this state.
+33 (b) The provisions of this section apply to any person, other than an
+34 exempt organization, that the superintendent determines is a lender
+35 seeking to evade its applicability by any device, subterfuge, or
+36 pretense, including by exercising control over the origination, under-
+37 writing, servicing, or collection of a personal loan through another
+38 person.
+39 (c) The provisions of this section shall not apply to any loan made
+40 before the effective date of this section.
+41 (d) The provisions of this section shall not apply to any loan made
+42 for a commercial or business purpose.
+43 3. It shall be unlawful for any lender to engage in any device,
+44 subterfuge, or pretense to evade the requirements of this section or to
+45 designate another person as the lender in name or form for the purpose
+46 of such evasion.
+47 4. Where a lender, other than an exempt organization, makes a personal
+48 loan to a person who is physically located in or a resident of this
+49 state, the interest rate of such personal loan shall not exceed the
+50 rates permitted in section 5-501 of the general obligations law or
+51 sections 190.40 and 190.42 of the penal law.
+52 5. (a) Notwithstanding subdivision four of this section, section 5-501
+53 of the general obligations law or sections 190.40 and 190.42 of the
+54 penal law, a lender may extend a short-term loan pursuant to the follow-
+55 ing requirements:
+
+A. 10133--A 4
+1 (i) The total cost of credit, inclusive of all interest, finance
+2 charges, fees, administrative charges, and any other consideration
+3 retained by the lender or its affiliates in connection with a short-term
+4 loan, whether charged upfront, periodically, or as a condition of
+5 obtaining or maintaining such short-term loan, shall not exceed an
+6 amount equal to twenty-five percent per annum of the principal amount
+7 advanced, calculated based on the scheduled term of the loan.
+8 (ii) A lender may impose a one-time, non-recurring administrative
+9 charge, provided that:
+10 (A) such administrative charge is flat in amount and is imposed no
+11 more than once per short-term loan;
+12 (B) such administrative charge is included in, and counts toward, the
+13 total cost of credit permitted under subparagraph (i) of this paragraph;
+14 (C) no such administrative charge may be imposed in connection with
+15 any refinancing, renewal, extension, or modification of a short-term
+16 loan, and short-term loans made in a pattern that functionally replicate
+17 refinancing or extension may be treated as a single loan for purposes of
+18 this section; and
+19 (D) such administrative charge shall not exceed five dollars for a
+20 short-term loan with a principal amount of five hundred dollars or less,
+21 ten dollars for a short-term loan with a principal amount exceeding five
+22 hundred dollars but not exceeding one thousand dollars, or fifteen
+23 dollars for a short-term loan with a principal amount exceeding one
+24 thousand dollars but not exceeding three thousand dollars.
+25 (iii) Upon prepayment of a short-term loan prior to the scheduled
+26 maturity date, a lender may retain an administrative fee lawfully
+27 imposed pursuant to clause (D) of subparagraph (ii) of this paragraph,
+28 provided that the total cost of credit, including such administrative
+29 fee, retained by the lender does not exceed the maximum amount permitted
+30 under subparagraph (i) of this paragraph.
+31 (b) A borrower may prepay a short-term loan in whole or in part at any
+32 time without penalty. No fee, charge, or additional consideration may be
+33 imposed solely as a result of such prepayment, except as expressly
+34 permitted pursuant to subparagraph (iii) of paragraph (a) of this subdi-
+35 vision.
+36 (c) With regard to a short-term loan, a lender shall not:
+37 (i) accelerate the maturity of a short-term loan, declare a short-term
+38 loan immediately due and payable, or otherwise require immediate payment
+39 of the entire unpaid balance;
+40 (ii) impose any fee, charge or additional consideration in connection
+41 with a forbearance, deferment or extension of repayment, other than the
+42 continued accrual of interest on the unpaid principal balance at a rate
+43 not exceeding the rate otherwise permitted under this subdivision;
+44 (iii) structure, label, or administer a transaction in a manner that
+45 circumvents or attempts to circumvent the requirements of this subdivi-
+46 sion; or
+47 (iv) make a short-term loan prior to performing, or causing to be
+48 performed, reasonable risk-based underwriting, subject to regulations to
+49 be promulgated by the superintendent.
+50 (d) (i) Late fees imposed pursuant to this paragraph shall not be
+51 considered part of the total cost of credit for purposes of paragraph
+52 (a) of this subdivision.
+53 (ii) A lender may impose a late fee in connection with a short-term
+54 loan only if an installment payment is not received within a reasonable
+55 grace period prescribed by regulation, and only as follows:
+
+A. 10133--A 5
+1 (A) no more than one late fee may be imposed for any missed or late
+2 installment payment;
+3 (B) a late fee shall be flat in amount and shall not exceed five
+4 dollars for a short-term loan with a principal amount of five hundred
+5 dollars or less, ten dollars for a short-term loan with a principal
+6 amount exceeding five hundred dollars but not exceeding one thousand
+7 dollars, or fifteen dollars for a short-term loan with a principal
+8 amount exceeding one thousand dollars but not exceeding three thousand
+9 dollars;
+10 (C) such late fee shall not compound, be assessed on a per-day basis,
+11 or be imposed more than once with respect to the same installment
+12 payment.
+13 (iii) In no event shall the aggregate amount of late fees imposed
+14 pursuant to this paragraph over the life of a short-term loan exceed
+15 fifteen dollars for short-term loans of five hundred dollars or less,
+16 thirty dollars for short-term loans exceeding five hundred dollars but
+17 not exceeding one thousand dollars, or forty-five dollars for short-term
+18 loans exceeding one thousand dollars but not exceeding three thousand
+19 dollars.
+20 (iv) A lender shall not design or administer a short-term loan in a
+21 manner intended or reasonably expected to generate late fees as a regu-
+22 lar or anticipated source of revenue.
+23 (e) (i) Upon a borrower's default, interest may continue to accrue on
+24 the unpaid principal balance of a short-term loan; provided, however,
+25 that such interest shall not accrue at a rate greater than the rate
+26 otherwise permitted under this subdivision, and no increased or default
+27 rate of interest shall be imposed as a result of such default.
+28 (ii) Except as expressly permitted by this subdivision, no lender
+29 shall impose or collect, directly or indirectly, any fee, charge, or
+30 consideration in connection with a borrower's default, including but not
+31 limited to default fees, acceleration fees, collection fees, convenience
+32 fees, or any fee calculated as a percentage of the unpaid balance.
+33 (f) A short-term loan that is in compliance with this subdivision at
+34 the time it is made shall not be deemed to violate this subdivision
+35 solely because the actual time required for repayment exceeds twelve
+36 months due to late payment, default, forbearance, deferment, or other
+37 borrower noncompliance, provided that the lender does not renew, refi-
+38 nance, or modify such short-term loan in a manner that extends the sche-
+39 duled term beyond twelve months or imposes any charge or consideration
+40 not otherwise permitted under this subdivision.
+41 (g) Nothing in this subdivision shall be construed to prohibit the
+42 recovery of court-awarded costs, statutory interest on a judgment, or
+43 attorneys' fees to the extent otherwise permitted by law.
+44 (h) A short-term loan that complies with this subdivision shall not be
+45 deemed civilly or criminally usurious solely by reason of the annualized
+46 equivalent rate of interest or fees. Nothing in this subdivision shall
+47 be construed to authorize any charge or practice not expressly permitted
+48 herein, or to limit the applicability of the usury laws of this state to
+49 any personal loan that does not meet the requirements of this subdivi-
+50 sion.
+51 6. (a) No lender shall have any right to collect, attempt to collect,
+52 receive, or retain any fee, interest, charges, or other consideration in
+53 excess of the principal related to a personal loan that violates the
+54 provisions of this section.
+
+A. 10133--A 6
+1 (b) Violation of the provisions of this section may be subject to
+2 civil penalties, restitution, injunctive relief and other corrective
+3 action or enforcement measures imposed by the superintendent.
+4 7. (a) The superintendent shall promulgate, and may from time to time
+5 amend, rules and regulations as necessary to implement this section,
+6 including, but not limited to, rules and regulations relating to the
+7 reasonable risk based underwriting of short-term loans, the disclosure
+8 of personal and short-term loan terms and conditions, grace periods for
+9 late payments, and the establishment of objective criteria for determin-
+10 ing whether an extension of credit is subject to a charter, license, or
+11 regulatory regime providing for ongoing supervision, examination, and
+12 enforcement authority for purposes of subparagraph (iii) of paragraph
+13 (a) of subdivision one of this section.
+14 (b) The superintendent may, by regulation, adjust the dollar amounts
+15 specified in subdivision five of this section to reflect changes in the
+16 Consumer Price Index, or a successor index, as published by the United
+17 States Bureau of Labor Statistics, provided that:
+18 (i) any such adjustment shall apply prospectively only to short-term
+19 loans made on or after the effective date of such adjustment;
+20 (ii) no such adjustment shall occur more frequently than once every
+21 three years;
+22 (iii) adjusted dollar amounts shall be rounded to the nearest whole
+23 dollar; and
+24 (iv) the superintendent shall publish notice of any adjustment made
+25 pursuant to this paragraph in the state register and on the department
+26 of financial services' website.
+27 8. (a) If any provision of this section or the application thereof to
+28 any person or circumstances is held to be invalid, such invalidity shall
+29 not affect other provisions or applications of this section which can be
+30 given effect without the invalid provision or application, and to this
+31 end, the provisions of this section are severable.
+32 (b) This section shall not apply to the extent that it is preempted by
+33 federal law. Nothing in this section shall be construed to require any
+34 act prohibited, or prohibit any act required, by federal law.
+35 § 2. The superintendent of financial services shall promulgate rules
+36 and regulations necessary to implement the provisions of section one of
+37 this act no later than one year after this section shall have become a
+38 law.
+39 § 3. This act shall take effect immediately; provided, however, that:
+40 (a) section one of this act shall take effect on the one hundred
+41 eightieth day after the superintendent of financial services has promul-
+42 gated the rules and regulations required under section two of this act;
+43 and
+44 (b) the superintendent of financial services shall notify the legisla-
+45 tive bill drafting commission upon the occurrence of the promulgation of
+46 the rules and regulations provided for in section two of this act in
+47 order that the commission may maintain an accurate and timely effective
+48 data base of the official text of the laws of the state of New York in
+49 furtherance of effectuating the provisions of section 44 of the legisla-
+50 tive law and section 70-b of the public officers law.
+51 Effective immediately, the addition, amendment and/or repeal of any
+52 rule or regulation necessary for the implementation of section one of
+53 this act on its effective date are authorized to be made and completed
+54 on or before such effective date.

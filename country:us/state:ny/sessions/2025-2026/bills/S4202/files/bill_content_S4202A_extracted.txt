@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - S4202A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4202--A
+2025-2026 Regular Sessions
+IN SENATE
+February 3, 2025
+___________
+Introduced by Sens. COMRIE, COONEY -- read twice and ordered printed,
+and when printed to be committed to the Committee on Budget and Reven-
+ue -- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the tax law, in relation to authorizing a personal
+income tax deduction for student loan payments
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subsection (c) of section 612 of the tax law is amended by
+2 adding a new paragraph 48 to read as follows:
+3 (48) Payment not in excess of five thousand dollars actually paid by
+4 an eligible borrower for student loan repayment, to the extent not
+5 deductible in determining federal adjusted gross income and not reim-
+6 bursed. For the purposes of this paragraph, the following terms have
+7 the following meanings:
+8 (i) "Student loans" means any indebtedness incurred by the taxpayer
+9 solely for any qualified education loan to the extent provided in
+10 section 221 of the Internal Revenue Code.
+11 (ii) "Eligible borrower" shall mean a taxpayer who has incurred
+12 indebtedness on student loans as defined in subparagraph (i) of this
+13 paragraph on behalf of the taxpayer, the taxpayer's spouse, or any
+14 dependent of the taxpayer as of the time the indebtedness was incurred.
+15 (iii) Any payment made by an employer, employee, or on behalf of an
+16 employee pursuant to this section that is directly deducted from the
+17 employee's wages through payroll and administered by a third-party plat-
+18 form that facilitates direct payments to educational institutions or
+19 related loan servicers on behalf of students shall be excluded from the
+20 employee's New York state gross income, provided that such payments do
+21 not exceed five thousand dollars in any taxable year.
+22 (iv) Any contribution to a tuition program under section 529 of the
+23 Internal Revenue Code made through payroll deduction and facilitated by
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00109-02-5
+
+S. 4202--A 2
+1 an employer or a third-party platform that facilitates direct payments
+2 to such programs on behalf of employees shall be excluded from the
+3 employee's New York state gross income, provided such contributions do
+4 not exceed five thousand dollars in any taxable year.
+5 § 2. This act shall take effect immediately and shall apply to taxable
+6 years beginning on or after January 1, 2026.
