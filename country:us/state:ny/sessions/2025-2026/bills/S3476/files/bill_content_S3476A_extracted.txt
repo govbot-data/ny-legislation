@@ -1,0 +1,494 @@
+Title: 
+Official Title: 
+Source: versions - S3476A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3476--A
+2025-2026 Regular Sessions
+IN SENATE
+January 27, 2025
+___________
+Introduced by Sens. RIVERA, CLEARE, FERNANDEZ, GONZALEZ, HARCKHAM,
+HINCHEY, HOYLMAN-SIGAL, JACKSON, MAY, MYRIE, SALAZAR, SANDERS, SERRANO
+-- read twice and ordered printed, and when printed to be committed to
+the Committee on Energy and Telecommunications -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public authorities law, the state finance law, the
+energy law, the executive law, the labor law and the emergency tenant
+protection act of nineteen seventy-four, in relation to enacting the
+"bucks for boilers act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "bucks for boilers act".
+3 § 2. The public authorities law is amended by adding a new section
+4 1885 to read as follows:
+5 § 1885. Bucks for boilers program. 1. The authority, in consultation
+6 with the department of public service, shall establish a program to aid
+7 in the transition of all existing housing units' heating and cooling
+8 from reliance on combusting oil and gas, to electric heat pumps and
+9 other high energy efficiency upgrades, systems and services.
+10 2. Using funds made available from the bucks for boilers fund as set
+11 forth in section ninety-nine-ss of the state finance law, the authority
+12 shall ensure that any building or household existing in a disadvantaged
+13 community, as such term is defined by the climate justice working group
+14 established under section 75-0111 of the environmental conservation law,
+15 or buildings housing formerly-incarcerated individuals, with a priority
+16 to buildings owned by low-income homeowners or rented to low-income
+17 tenants, shall be eligible for full-cost funding for the procurement and
+18 installation of equipment to be compliant with the energy efficiency
+19 standards set forth under section 11-104 of the energy law, including
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06828-04-5
+
+S. 3476--A 2
+1 the procurement and installation of non-fossil fuel heating and cooling
+2 and hot water systems and other high energy efficiency systems, includ-
+3 ing electrical panel and wiring upgrades and induction or electric
+4 stoves. For purposes of this subdivision, installation shall also
+5 include bringing eligible housing into a state of good repair. A multi-
+6 family building shall be considered low-income if at least fifty percent
+7 of the households within such building have incomes less than sixty
+8 percent of area medium income. A multifamily building shall be consid-
+9 ered medium-income if at least fifty percent of households within such
+10 building have incomes between sixty percent and one hundred twenty
+11 percent of area median income.
+12 3. Using funds made available from the bucks for boilers fund as set
+13 forth in section ninety-nine-ss of the state finance law, the authority
+14 shall subsidize each residential housing building's transition through
+15 the following household income thresholds:
+16 (a) low-to-moderate income households with an income below one hundred
+17 twenty percent area median income shall receive one hundred percent of
+18 the cost of the project;
+19 (b) medium-income households with an income between one hundred twenty
+20 percent and one hundred eighty percent area medium income shall receive
+21 eighty percent of the cost of the project; and
+22 (c) high-income households with an income over one hundred eighty
+23 percent of area medium income shall receive fifty percent of the cost of
+24 the project.
+25 4. Using funds made available from the bucks for boilers fund as set
+26 forth in section ninety-nine-ss of the state finance law, the authority
+27 shall create a program to pay up to fifty thousand dollars per unit for
+28 any privately owned residential housing for the procurement and instal-
+29 lation of equipment to be compliant with the energy efficiency standards
+30 set forth under section 11-104 of the energy law, including the procure-
+31 ment and installation of non-fossil fuel heating and cooling and hot
+32 water systems and other high energy efficiency systems, including elec-
+33 trical panel and wiring upgrades and induction or electric stoves, as
+34 well as to ensure that such housing is in a state of good repair. Funds
+35 from the bucks for boilers fund shall be provided to households or their
+36 contractors in advance of the commencement of such procurement and
+37 installation provided that the authority has reviewed and approved such
+38 projects.
+39 5. Using funds made available from the bucks for boilers fund as set
+40 forth in section ninety-nine-ss of the state finance law, the authority
+41 shall subsidize the procurement and installation of equipment to be
+42 compliant with the energy efficiency standards set forth under section
+43 11-104 of the energy law, including the procurement and installation of
+44 non-fossil fuel heating and cooling and hot water systems and other high
+45 energy efficiency systems, for all public housing units throughout the
+46 state, as well as to ensure that such housing is in a state of good
+47 repair.
+48 6. Using funds made available from the bucks for boilers fund as set
+49 forth in section ninety-nine-ss of the state finance law, the authority
+50 shall establish affordability programs to pay any additional costs of
+51 utility bills in order to ensure that no low-to-moderate income house-
+52 holds face a higher cost for heating and cooling that may be incurred as
+53 a result of conversion to electric heat pumps and/or other high energy
+54 efficiency equipment for heating and cooling. For the purposes of this
+55 subdivision "low-to-moderate income households" shall mean households
+56 with annual incomes at or below eighty percent of the area median income
+
+S. 3476--A 3
+1 of the county or metro area where they reside. These affordability
+2 programs shall also assist households with annual incomes above eighty
+3 percent of the area median income of the county or metro area to help
+4 defray additional costs but only where funds are available after priori-
+5 tization of households with annual incomes at or below eighty percent of
+6 the area median income of the county or metro area where they reside,
+7 and with prioritization with any such funds or assistance for compar-
+8 atively lower-income over higher-income households within the distrib-
+9 ution of households over eighty percent of the area median income of the
+10 county or metro area where they reside.
+11 7. The authority shall include requirements that to be eligible for
+12 receiving funds under this program, building owners:
+13 (a) are prohibited for a period of five years following the completion
+14 of work under this program from rent increases for temporary major capi-
+15 tal improvement and individual apartment improvements for buildings
+16 undertaking energy efficiency, boiler, furnace, stove replacements,
+17 electrical panel, electrical wiring or related work stemming directly
+18 from the building's adherence to requirements enacted pursuant to this
+19 section; and
+20 (b) shall extend the lease of tenants for no less than five years
+21 following the completion of work under this program.
+22 8. (a) The authority shall promulgate requirements for eligibility to
+23 receive funds under this program which prohibit buildings from initiat-
+24 ing eviction proceedings, fail to renew a lease or otherwise seek to
+25 remove a tenant from housing accommodation, except:
+26 (i) in situations of non-payment of rent;
+27 (ii) where the tenant is violating a substantial obligation of the
+28 tenancy and has failed to cure such violation within ten days;
+29 (iii) where the tenant is committing or permitting a nuisance in the
+30 housing accommodation;
+31 (iv) where the tenant's occupancy or use or permitted use of the hous-
+32 ing accommodation is in violation of the law; or
+33 (v) where the tenant has unreasonably refused the landlord's access to
+34 the housing accommodation for the purpose of making repairs and improve-
+35 ments.
+36 (b) A rent increase is presumed to be unreasonable and not a basis for
+37 eviction if it exceeds either three percent of the previous rental
+38 amount or one and one-half times the annual percentage change in the
+39 consumer price index for the relevant region, whichever is higher.
+40 9. The authority, in consultation with the department of corrections
+41 and community supervision, shall include requirements that to be eligi-
+42 ble for receiving funds over fifty thousand dollars under this program,
+43 all work done in the procurement and installation of non-fossil fuel
+44 heating and cooling systems on state-owned properties or in properties
+45 that receive subsidies from the state shall, to the greatest extent
+46 possible, provide training and hiring of formerly-incarcerated individ-
+47 uals.
+48 10. (a) Nothing in this program shall alter the rights or benefits,
+49 privileges, including but not limited to terms and conditions of employ-
+50 ment, civil service status, and collective bargaining unit membership,
+51 of any current employees of the authority.
+52 (b) Nothing in this program shall result in: (i) the discharge,
+53 displacement, or loss of position, including partial displacement such
+54 as a reduction in hours of non-overtime work, wages, or employment bene-
+55 fits; (ii) the impairment of existing collective bargaining agreements;
+56 or (iii) the transfer of existing duties and functions.
+
+S. 3476--A 4
+1 11. The authority shall ensure that the bucks for boilers program does
+2 not enable landlords to shift energy costs to their tenants by requiring
+3 tenants to pay for heating costs after electrification where such land-
+4 lords had been paying tenants' heating costs prior to electrification.
+5 12. The authority shall issue relevant guidance for providing funding
+6 under this program, including but not limited to guidance on programs
+7 offered by the authority which provide funding to assist with compliance
+8 with changes in subdivisions seven and eight of section 11-104 of the
+9 energy law made by the chapter of the laws of two thousand twenty-five
+10 that added this section. The authority shall make such information
+11 available by engaging and paying for large-scale advertising, mailings,
+12 door-to-door canvassing, community outreach, programming in schools, and
+13 anything else the authority deems necessary and reasonable to ensure the
+14 public is fully aware and that a wide understanding that such programs
+15 exist, including rights and responsibilities of landlords and tenants,
+16 is achieved in the public in all regions and demographics of the state.
+17 13. Using funds made available from the bucks for boilers fund as set
+18 forth in section ninety-nine-ss of the state finance law, the authority
+19 shall administer a program to provide grants, loans or other services,
+20 based on standards and guidelines established by the authority, for the
+21 costs related to enabling fuel-switching for residences with propane or
+22 fuel-oil heating systems to efficient electric heat pumps, including but
+23 not limited to, clean energy measures, energy efficiency measures, resi-
+24 liency measures, heating and cooling, health and safety, and other
+25 related energy improvements and expenses, as well as to ensure such
+26 housing is in a state of good repair.
+27 § 3. Section 1854 of the public authorities law is amended by adding a
+28 new subdivision 27 to read as follows:
+29 27. All revenues generated pursuant to regulations or actions taken by
+30 the department of public service, the authority or any other state enti-
+31 ty, pursuant to section eighteen hundred eighty-five of this title,
+32 shall be placed into a segregated authority funding account, established
+33 pursuant to section eighteen hundred sixty-a of this title, prior to
+34 programmatic or administrative allocation, and shall not be commingled
+35 with other authority funds. Within thirty days following receipt of
+36 revenues generated pursuant to regulations or actions pursuant to
+37 section eighteen hundred eighty-five of this title, the authority shall
+38 transfer from such segregated authority funding account to the bucks for
+39 boilers fund established pursuant to section ninety-nine-ss of the state
+40 finance law.
+41 § 4. The state finance law is amended by adding a new section 99-ss to
+42 read as follows:
+43 § 99-ss. Bucks for boilers fund. 1. There is hereby established in the
+44 joint custody of the commissioner of taxation and finance and the state
+45 comptroller a special fund to be known as the "bucks for boilers fund".
+46 2. (a) The bucks for boilers fund shall consist of moneys received by
+47 the state pursuant to subdivision twenty-seven of section eighteen
+48 hundred fifty-four of the public authorities law, and all other moneys
+49 appropriated, credited, or transferred thereto from any other fund or
+50 source pursuant to law including the annual deposit of four billion
+51 dollars by the president of the New York state energy research and
+52 development authority. Moneys of the account shall be expended for the
+53 purposes of providing up-front financial assistance to residential
+54 building owners and renters to convert their existing space or water
+55 heating equipment to energy efficient zero-emissions equipment or build-
+56 ing systems and energy efficiency and resiliency measures including but
+
+S. 3476--A 5
+1 not limited to: (i) purposes which are consistent with the scoping plan
+2 prepared pursuant to section 75-0103 of the environmental conservation
+3 law; (ii) measures which prioritize such conversions and measures in
+4 disadvantaged communities; (iii) measures which prioritize residential
+5 buildings on delivered fuels such as propane and heating oil; (iv)
+6 financial assistance for the cost of upgrading dilapidated housing to a
+7 state of good repair; (v) removal of fossil fuel combustion equipment
+8 and building systems; and (vi) administrative and implementation costs,
+9 program design, and other associated costs.
+10 (b) Moneys of such account shall not be expended for the purposes of:
+11 (i) providing financial assistance to residential building owners or
+12 renters to convert their existing space or water heating equipment to
+13 electric resistance or biofuel equipment; (ii) the installation or
+14 purchase of carbon capture technologies or equipment; or (iii) the
+15 installation or purchase of energy efficient gas boilers.
+16 3. Moneys in the bucks for boilers fund shall be kept separate from
+17 and shall not be commingled with any other moneys in the custody of the
+18 comptroller or the commissioner of taxation and finance. Provided,
+19 however, that any moneys of the fund not required for immediate use may,
+20 at the discretion of the comptroller, in consultation with the director
+21 of the division of the budget, be invested by the comptroller in obli-
+22 gations of the United States or of the state. The proceeds of any such
+23 investment shall be retained by the fund as assets to be used for
+24 purposes of the fund.
+25 § 5. Subdivision 6 of section 11-104 of the energy law is amended by
+26 adding a new paragraph (c) to read as follows:
+27 (c) In addition to paragraphs (a) and (b) of this subdivision, to
+28 support the goal of zero on-site greenhouse gas emissions and help
+29 achieve the state's clean energy and climate agenda, including but not
+30 limited to greenhouse gas reduction requirements set forth within chap-
+31 ter one hundred six of the laws of two thousand nineteen, also known as
+32 the New York state climate leadership and community protection act, the
+33 code shall prohibit prohibited emissions, in any existing building not
+34 more than seven stories in height, except for existing commercial or
+35 industrial buildings greater than one hundred thousand square feet in
+36 conditioned floor area, on or after December thirty-first, two thousand
+37 twenty-nine, and the code shall prohibit prohibited emissions, in all
+38 existing buildings after December thirty-first, two thousand thirty-
+39 four.
+40 § 6. Paragraph (b) of subdivision 7 of section 11-104 of the energy
+41 law, as added by section 1 of part RR of chapter 56 of the laws of 2023,
+42 is amended and a new paragraph (a-1) is added to read as follows:
+43 (a-1) The provisions set forth in paragraph (c) of subdivision six of
+44 this section shall not be construed as prohibiting the continued use and
+45 maintenance of fossil-fuel equipment and building systems, including as
+46 related to cooking equipment, installed prior to the effective date of
+47 the applicable prohibition.
+48 (b) In addition, in effectuating the provisions set forth in [para-
+49 graph] paragraphs (b) and (c) of subdivision six of this section the
+50 code shall include exemptions for the purposes of allowing prohibited
+51 emissions and the installation and use of fossil-fuel equipment and
+52 building systems where such are installed and used:
+53 (i) for generation of emergency back-up power and standby power
+54 systems;
+55 (ii) in a manufactured home as defined in subdivision seven of section
+56 six hundred one of the executive law; or
+
+S. 3476--A 6
+1 (iii) in a building or part of a building that is used as a manufac-
+2 turing facility, commercial food establishment, laboratory, car wash,
+3 laundromat, hospital, other medical facility, critical infrastructure,
+4 including but not limited to emergency management facilities, wastewater
+5 treatment facilities, and water treatment and pumping facilities, agri-
+6 cultural building, fuel cell system, or crematorium, as such terms are
+7 defined by the code council.
+8 § 7. Subdivision 8 of section 11-104 of the energy law is amended by
+9 adding a new paragraph (c) to read as follows:
+10 (c) "Prohibited emissions" shall mean the emission of twenty-five
+11 kilograms or more of carbon dioxide per million British thermal units of
+12 energy, as determined by the United States energy information adminis-
+13 tration, provided however, the emission of twenty-five kilograms or more
+14 of carbon dioxide per million British thermal units of energy or more
+15 shall not mean "prohibited emissions" where such emissions occur in
+16 connection with a device that contains no connection to a building's gas
+17 supply line or fuel oil piping system, is used on an intermittent basis,
+18 and is not used to supply a building with heat or hot water.
+19 § 8. Paragraphs c and e of subdivision 19 of section 378 of the execu-
+20 tive law, as added by section 3 of part RR of chapter 56 of the laws of
+21 2023, are amended and two new paragraphs a-1 and b-1 are added to read
+22 as follows:
+23 a-1. To support the goal of zero on-site gas emissions and help
+24 achieve the state's clean energy and climate agenda, including but not
+25 limited to greenhouse gas reduction requirements set forth within chap-
+26 ter one hundred six of the laws of two thousand nineteen, also known as
+27 the New York state climate leadership and community protection act, the
+28 uniform code shall prohibit prohibited emissions, in any existing build-
+29 ing not more than seven stories in height, except for existing commer-
+30 cial or industrial buildings greater than one hundred thousand square
+31 feet in conditioned floor area, on or after December thirty-first, two
+32 thousand twenty-nine, and the uniform code shall prohibit prohibited
+33 emissions, in all existing buildings on or after December thirty-first,
+34 two thousand thirty-four.
+35 b-1. The provisions set forth in paragraph a-1 of this subdivision
+36 shall not be construed as prohibiting the continued use and maintenance
+37 of fossil-fuel equipment and building systems, including as related to
+38 cooking equipment, installed prior to the effective date of the applica-
+39 ble prohibition.
+40 c. In addition, in effectuating the provisions set forth in [para-
+41 graph] paragraphs a and a-1 of this subdivision the code shall include
+42 exemptions for the purposes of allowing prohibited emissions and the
+43 installation and use of fossil-fuel equipment and building systems where
+44 such systems are installed and used:
+45 (i) for generation of emergency back-up power and standby power
+46 systems;
+47 (ii) in a manufactured home as defined in subdivision seven of section
+48 six hundred one of [the executive law] this chapter; or
+49 (iii) in a building or part of a building that is used as a manufac-
+50 turing facility, commercial food establishment, laboratory, car wash,
+51 laundromat, hospital, other medical facility, critical infrastructure,
+52 including but not limited to emergency management facilities, wastewater
+53 treatment facilities, and water treatment and pumping facilities, agri-
+54 cultural building, fuel cell system, or crematorium, as such terms are
+55 defined by the code council.
+
+S. 3476--A 7
+1 e. Exemptions included in the uniform code pursuant to this subdivi-
+2 sion shall be periodically reviewed by the code council to [assure]
+3 ensure that they continue to effectuate the purposes of [paragraph]
+4 paragraphs a and a-1 of this subdivision and subparagraph three of para-
+5 graph b of subdivision two of section three hundred seventy-one of this
+6 article to the fullest extent feasible.
+7 § 9. Paragraph g of subdivision 19 of section 378 of the executive law
+8 is amended by adding a new subparagraph (iii) to read as follows:
+9 (iii) "Prohibited emissions" shall mean the emission of twenty-five
+10 kilograms or more of carbon dioxide per million British thermal units of
+11 energy, as determined by the United State energy information adminis-
+12 tration, provided however, the emission of twenty-five kilograms or more
+13 of carbon dioxide per million British thermal units of energy or more
+14 shall not mean "prohibited emissions" where such emissions occur in
+15 connection with a device that contains no connection to a building's gas
+16 supply line or fuel oil piping system, is used on an intermittent basis,
+17 and is not used to supply a building with heat or hot water.
+18 § 10. Section 224-f of the labor law, as amended by chapter 100 of the
+19 laws of 2025, is amended to read as follows:
+20 § 224-f. Wage requirements for certain climate risk-related and energy
+21 transition projects and bucks for boilers projects. 1. For purposes of
+22 this section, a "covered climate risk-related and energy transition
+23 project" means a construction project that receives at least one hundred
+24 thousand dollars of funds from the New York climate action fund climate
+25 investment account established pursuant to section ninety-nine-qq of the
+26 state finance law or the climate change adaptation fund established
+27 pursuant to section ninety-seven-m of the state finance law and a
+28 "covered bucks for boilers project" means a construction project that
+29 receives at least one hundred thousand dollars of funds from the bucks
+30 for boilers fund established pursuant to section ninety-nine-ss of the
+31 state finance law.
+32 2. A covered climate risk-related and energy transition project and a
+33 covered bucks for boilers project shall be subject to prevailing wage
+34 requirements in accordance with sections two hundred twenty, two hundred
+35 twenty-a, two hundred twenty-b, two hundred twenty-i, two hundred twen-
+36 ty-three, and two hundred twenty-four-b of this article, provided that a
+37 covered climate risk-related and energy transition project and a covered
+38 bucks for boilers project may still otherwise be considered a covered
+39 project pursuant to section two hundred twenty or two hundred twenty-
+40 four-a of this article if it meets the definition therein.
+41 3. For purposes of this section, a covered climate risk-related and
+42 energy transition project and a covered bucks for boilers project shall
+43 exclude:
+44 a. Privately owned construction work performed under a pre-hire
+45 collective bargaining agreement between an owner or developer and a bona
+46 fide building and construction trades labor organization which has
+47 established itself, and/or its affiliates, as the collective bargaining
+48 representative for all persons who will perform work on such a project,
+49 and which provides that only contractors and subcontractors who sign a
+50 pre-negotiated agreement with the labor organization can perform work on
+51 such a project; or
+52 b. Construction work on one- or two-family dwellings where the proper-
+53 ty is the owner's primary residence, or construction work performed on
+54 property where the owner of the property owns no more than four dwelling
+55 units; or
+
+S. 3476--A 8
+1 c. Construction work performed on a multiple residence and/or ancil-
+2 lary amenities or installations that is wholly privately owned in any of
+3 the following circumstances:
+4 (i) where no less than twenty-five percent of the residential units
+5 are affordable and shall be retained subject to an anticipated regulato-
+6 ry agreement with a local, state, or federal governmental entity, or a
+7 not-for-profit entity with an anticipated formal agreement with a local,
+8 state, or federal governmental entity for purposes of providing afforda-
+9 ble housing in a given locality or region provided that the period of
+10 affordability for a residential unit deemed affordable under the
+11 provisions of this paragraph shall be for no less than fifteen years
+12 from the date of construction; or
+13 (ii) where no less than thirty-five percent of the residential units
+14 involves the provision of supportive housing services for vulnerable
+15 populations provided that such units are subject to an anticipated regu-
+16 latory agreement with a local, state, or federal governmental entity.
+17 4. As a condition of receiving funds from the New York climate action
+18 fund climate investment account established pursuant to section ninety-
+19 nine-qq of the state finance law or from the climate change adaptation
+20 fund established pursuant to section ninety-seven-m of the state finance
+21 law for a covered climate risk-related and energy transition project or
+22 the bucks for boilers fund established pursuant to section ninety-nine-
+23 ss of the state finance law for a covered bucks for boilers project, the
+24 owner or developer of such covered climate risk-related and energy tran-
+25 sition project or covered bucks for boilers project, or a third party
+26 acting on such owner's or developer's behalf, shall agree to enter into
+27 a labor peace agreement with at least one bona fide labor organization
+28 either:
+29 a. where such bona fide labor organization is actively representing
+30 non-construction employees who will be working within the covered
+31 climate risk-related and energy transition project or covered bucks for
+32 boilers project once built; or
+33 b. upon notice by a bona fide labor organization that is attempting to
+34 represent such non-construction employees.
+35 5. For purposes of this section "labor peace agreement" means an
+36 agreement between an owner and/or developer and labor organization that,
+37 at a minimum, protects the state's proprietary interests by prohibiting
+38 labor organizations and members from engaging in picketing, work stop-
+39 pages, boycotts, and any other economic interference.
+40 6. The owner or developer using funds from the New York climate action
+41 fund climate investment account established pursuant to section ninety-
+42 nine-qq of the state finance law or from the climate change adaptation
+43 fund established pursuant to section ninety-seven-m of the state finance
+44 law for a covered climate risk-related and energy transition project or
+45 the bucks for boilers fund established pursuant to section ninety-nine-
+46 ss of the state finance law for a covered bucks for boilers project
+47 pursuant to this section shall:
+48 a. require the use of apprenticeship agreements as defined by article
+49 twenty-three of this chapter; or for industries without apprenticeship
+50 programs, require the use of workforce training, preferably in conjunc-
+51 tion with a bona fide labor organization; and
+52 b. consider use of registered pre-apprenticeship direct entry programs
+53 for the recruitment of local and/or disadvantaged workers.
+54 7. For purposes of this section, the "fiscal officer" shall be deemed
+55 to be the commissioner. The enforcement of any covered climate risk-re-
+56 lated and energy transition project or covered bucks for boilers project
+
+S. 3476--A 9
+1 under this section shall be subject to the requirements of sections two
+2 hundred twenty, two hundred twenty-a, two hundred twenty-b, two hundred
+3 twenty-i, two hundred twenty-three, two hundred twenty-four-b of this
+4 article, and section two hundred twenty-seven of this chapter and within
+5 the jurisdiction of the fiscal officer; provided, however, nothing
+6 contained in this section shall be deemed to construe any covered
+7 climate risk-related and energy transition project or covered bucks for
+8 boilers project as otherwise being considered public work pursuant to
+9 this article.
+10 8. The fiscal officer may issue rules and regulations governing the
+11 provisions of this section. Violations of this section shall be grounds
+12 for determinations and orders pursuant to section two hundred twenty-b
+13 of this article.
+14 9. For any building service work on a covered climate risk-related and
+15 energy transition project or covered bucks for boilers project, prevail-
+16 ing wage shall be paid consistent with article nine of this chapter.
+17 10. Any public entity receiving at least five million dollars in funds
+18 from the New York climate action fund climate investment account estab-
+19 lished pursuant to section ninety-nine-qq of the state finance law or
+20 from the climate change adaptation fund established pursuant to section
+21 ninety-seven-m of the state finance law or the bucks for boilers fund
+22 established pursuant to section ninety-nine-ss of the state finance law
+23 for a project which involves the construction, reconstruction, alter-
+24 ation, maintenance, moving, demolition, excavation, development or other
+25 improvement of any building, structure or land, shall be subject to
+26 section two hundred twenty-two of this article.
+27 § 11. Subdivision (a) of section 10-b of section 4 of chapter 576 of
+28 the laws of 1974, constituting the emergency tenant protection act of
+29 nineteen seventy-four, is amended by adding a new paragraph 14 to read
+30 as follows:
+31 14. (i) prohibit temporary major capital improvement increases and
+32 individual apartment improvement increases for buildings undertaking
+33 energy efficiency, boiler, furnace, stove replacements, electrical
+34 panel, electrical wiring or related work pursuant to the bucks for boil-
+35 ers program established pursuant to section eighteen hundred eighty-five
+36 of the public authorities law; and
+37 (ii) require the extension of the lease of tenants for no less than
+38 five years following the completion of work under such program.
+39 § 12. This act shall take effect immediately.

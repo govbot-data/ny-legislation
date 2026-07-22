@@ -1,0 +1,312 @@
+Title: 
+Official Title: 
+Source: versions - S9144A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9144--A
+IN SENATE
+February 6, 2026
+___________
+Introduced by Sens. KRUEGER, GONZALEZ, ADDABBO, BASKIN, BRISPORT, BROUK,
+CLEARE, COMRIE, FERNANDEZ, HINCHEY, KAVANAGH, MAY, MYRIE, RIVERA,
+SALAZAR, SERRANO, WEBB -- read twice and ordered printed, and when
+printed to be committed to the Committee on Environmental Conservation
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to
+imposing a moratorium on data center permit issuance; to amend the
+public service law, in relation to data center rate impacts; and to
+amend the public authorities law, in relation to applicability of
+certain provisions to the Long Island power authority
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings. The legislature hereby finds and
+2 declares the following:
+3 1. It is the policy of the State of New York to conserve, improve and
+4 protect its natural resources and environment and to prevent, abate and
+5 control water, land and air pollution, in order to enhance the health,
+6 safety and welfare of the people of the state and their overall economic
+7 and social well-being.
+8 2. The projected tripling of data centers across the nation in the
+9 next five years would result in data centers consuming more electricity
+10 than 28 million households.
+11 3. Data center electricity usage in New York has been projected to
+12 increase by more than 9,000 MW, which is approximately double the elec-
+13 tricity use of all New York households combined.
+14 4. 56 percent of the electricity used to power data centers comes from
+15 fossil fuels. Data centers disproportionately use fossil fuels, with an
+16 average carbon intensity that is 48 percent higher than the national
+17 average.
+18 5. Even when data centers use renewable energy, they often capture new
+19 renewable generation development that would otherwise have allowed for
+20 the closure or reduced reliance on fossil fuel power plants, thereby
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14606-04-6
+
+S. 9144--A 2
+1 resulting in continued use of fossil fuel-based energy generation beyond
+2 current expectations.
+3 6. The growth of data centers is inconsistent with New York's climate
+4 commitments.
+5 7. A Bloomberg analysis of wholesale electricity prices found that 70
+6 percent of locations with year-on-year price increases were within 50
+7 miles of significant data center activity. Nationally, household elec-
+8 tricity rates increased 13 percent in 2025, largely driven by the devel-
+9 opment of data centers.
+10 8. A tripling of data centers nationwide would require the equivalent
+11 water usage of 18.5 million households just for cooling the servers.
+12 9. Data centers convert agricultural and other non-industrial land to
+13 industrial usage, removing farmland, woodland, and other resources while
+14 driving up land values and property taxes.
+15 10. The computing hardware used to run artificial intelligence (AI),
+16 including microchips and processing, memory, and storage components has
+17 a lifespan of 2-5 years and is regularly replaced with updated versions.
+18 As a result, the current AI boom will be responsible for generating up
+19 to 5 million tons of e-waste annually by 2030.
+20 § 2. The environmental conservation law is amended by adding a new
+21 article 31 to read as follows:
+22 ARTICLE 31
+23 MORATORIUM ON DATA CENTER PERMIT ISSUANCE
+24 Section 31-0101. Definitions.
+25 31-0103. Moratorium on data center permit issuance.
+26 31-0105. Environmental impact report.
+27 31-0107. Promulgation of regulations.
+28 § 31-0101. Definitions.
+29 For the purposes of this article, the following terms shall have the
+30 following meanings:
+31 1. "Data center" shall mean all buildings, equipment, structures,
+32 infrastructure within an existing structure, and other stationary items,
+33 such as server racks, that are located on a single site or on contig-
+34 uous, adjacent, or otherwise connected sites, and that are owned or
+35 operated by the same entity or by any entity who controls, is controlled
+36 by, or is under common control by such entity, regardless of whether the
+37 data center is a single-occupant site or multi-occupant site, that is
+38 capable of using twenty megawatts of electricity or more and is designed
+39 or intended to be primarily engaged in data processing, data storage,
+40 data transport, web hosting, web streaming support, or other services
+41 described under code 518210 of the 2022 North American Industry Classi-
+42 fication System.
+43 2. "Control" (including the terms "controlled by" and "under common
+44 control with") means the possession, direct or indirect, of the power to
+45 direct or cause the direction of the management and policies of an enti-
+46 ty, whether through the ownership of voting securities, by contract, or
+47 otherwise.
+48 3. "Electric corporation" shall have the same meaning given to such
+49 term in subdivision thirteen of section two of the public service law.
+50 4. "Gas corporation" shall have the same meaning given to such term in
+51 subdivision eleven of section two of the public service law.
+52 5. "Water-works corporation" shall have the same meaning given to such
+53 term in subdivision twenty-seven of section two of the public service
+54 law.
+55 6. "Disadvantaged communities" shall have the same meaning given to
+56 such term in section 75-0101 of this chapter.
+
+S. 9144--A 3
+1 § 31-0103. Moratorium on data center permit issuance.
+2 No permit, certificate, license, or other form of approval may be
+3 issued by the state or any governmental agency or political subdivision
+4 or public benefit corporation of the state, for the siting,
+5 construction, or commencement of operation of a data center prior to
+6 ninety days after the department shall have issued regulations pursuant
+7 to section 31-0107 of this article and the public service commission
+8 shall have taken all actions required pursuant to section sixty-six-x of
+9 the public service law. This section shall not apply to the modifica-
+10 tion, renewal, reissuance, or recertification of any previously issued
+11 permit, certificate, license, or other form of approval.
+12 § 31-0105. Environmental impact report.
+13 1. The department, after consulting with the department of public
+14 service, department of health, and the federally designated bulk system
+15 operator, shall prepare an environmental impact report on data center
+16 development in this state.
+17 2. The environmental impact report shall consist of a study of, and
+18 recommended regulatory and/or legislative action relating to, matters
+19 including, but not limited to:
+20 a. The number, size in acreage, current and maximum GW capacity, and
+21 location of current data centers in the state, active proposals for new
+22 data centers, and projections for future growth of data centers.
+23 b. Electricity consumption by data centers, including:
+24 i. the amount of electricity used by data centers within the state;
+25 ii. identification of the generation sources for such electricity,
+26 including the share that comes from fossil fuel generation, nuclear
+27 generation, renewable energy systems as defined in paragraph (b) of
+28 subdivision one of section sixty-six-p of the public service law, and
+29 generation imported from outside of the state;
+30 iii. the impact of data center development on monthly electricity and
+31 gas rates for residential consumers, commercial consumers, and indus-
+32 trial consumers, broken down by rate class and type, as well as projec-
+33 tions for the changes to these amounts for both the proposed and
+34 projected growth of data centers in the state;
+35 iv. the impact of data center development on the bulk system operator
+36 interconnection queue;
+37 v. the impact of data center development on transmission development,
+38 transmission constraints, and other issues relating to grid reliability
+39 throughout all load zones identified by the bulk system operator; and
+40 vi. how data center development has impacted capital planning, spend-
+41 ing and maintenance needs for electric corporations and gas corpo-
+42 rations, municipal electric utilities, and any power authorities estab-
+43 lished under article five of the public authorities law.
+44 c. Water consumption and discharge by data centers, including:
+45 i. the amount of water used by data centers for cooling, including the
+46 sources of such water;
+47 ii. the daily rate of consumption of water from such sources;
+48 iii. the amount of water discharged from data centers back into the
+49 state's water resources;
+50 iv. the amount of water consumed by cooling systems, lost to evapo-
+51 ration, or in anyway not returned to the waters of the state;
+52 v. projections for the changes to these amounts for both the proposed
+53 and projected growth of data centers in the state;
+54 vi. the impact of data center development on capital planning, spend-
+55 ing, and maintenance needs of water-works corporations and of any water
+
+S. 9144--A 4
+1 authorities, water boards, or sewer authorities established under arti-
+2 cle five of the public authorities law; and
+3 vii. the impact of data center development on monthly water rates for
+4 residential consumers, commercial consumers, and industrial consumers,
+5 broken down by rate class and type, as well as projections for the
+6 changes to these amounts for both the proposed and projected growth of
+7 data centers in the state.
+8 d. Land use for data centers, including:
+9 i. the total acreage used for existing data centers;
+10 ii. the types and amount of land that have been rezoned from other
+11 zoning categories for use by data centers;
+12 iii. the impact on land values and property taxes within a ten-mile
+13 radius of a data center;
+14 iv. projections for the changes to these amounts for both the proposed
+15 and projected growth of data centers in the state; and
+16 v. impacts on farmland, including an analysis of impacts on prime
+17 farmland mineral soil types 1-4.
+18 e. Pollution from data centers, including, but not limited to:
+19 i. the amount of greenhouse gases emitted by each existing data center
+20 and the cumulative total for the state emitted by existing, proposed,
+21 and projected data centers, expressed in metric tons of carbon dioxide
+22 equivalent, as defined in section 75-0101 of this chapter;
+23 ii. the types and quantity of air pollutants emitted by each data
+24 center and the cumulative total for the state emitted by existing,
+25 proposed, and projected data centers;
+26 iii. the types and quantity of water pollution produced by each data
+27 center, including thermal pollution from water discharges, and the cumu-
+28 lative total for the state produced by existing, proposed, and projected
+29 data centers; and
+30 iv. the level of noise pollution produced by each data center, with
+31 projections for proposed and projected data centers, at regular inter-
+32 vals beginning at the property line of the data center and extending
+33 half a mile.
+34 f. Electronic waste from data centers, including:
+35 i. the current volume of electronic waste produced by data centers, by
+36 waste type;
+37 ii. the current methods being used to dispose of or recycle electronic
+38 waste produced by data centers; and
+39 iii. projections for the changes to these amounts for both the
+40 proposed and projected growth of data centers in the state.
+41 g. the impacts, including health impacts and air, water, and noise
+42 pollution impacts, of current, proposed, and projected data centers on
+43 disadvantaged communities and federally or state recognized indigenous
+44 nations located within a ten-mile radius of such data centers.
+45 h. A review of current statutes and regulations addressing the envi-
+46 ronmental impact of data centers.
+47 3. Projections of future data center growth within the state may be
+48 based solely on data available as of the date on which this section
+49 shall take effect, and the department may choose to account for ongoing
+50 changes and uncertainty in growth projections.
+51 4. A draft environmental impact report shall be posted on the depart-
+52 ment's website and be subject to at least one hundred twenty days of
+53 public comment from the date of issuance. The department shall conduct
+54 at least one in-person public hearing in each of the following regions
+55 of the state: western New York, the Finger Lakes, the southern tier,
+56 central New York, the Mohawk valley, the north country, the capital
+
+S. 9144--A 5
+1 region/Hudson valley, the city of New York, and Long Island, as defined
+2 by the empire state development corporation, and provide meaningful
+3 opportunity for comment at such hearings.
+4 5. The department shall issue a final environmental impact report
+5 pursuant to this section no sooner than eighteen months after this
+6 section shall have become a law.
+7 § 31-0107. Promulgation of regulations.
+8 After the completion of the environmental impact report pursuant to
+9 section 31-0105 of this article, and in any event, no sooner than three
+10 years after the effective date of this section, the department, in
+11 consultation with the department of public service and the department of
+12 health, shall promulgate final new or updated regulations to mitigate
+13 the environmental impacts of data centers identified by the environ-
+14 mental impact report. Such regulations shall be additional to existing
+15 requirements pursuant to this chapter and rules and regulations promul-
+16 gated pursuant thereto, including but not limited to standards and
+17 permitting requirements under articles seventeen and nineteen of this
+18 chapter. Such regulations shall be designed, to the greatest possible
+19 extent, to:
+20 1. Minimize energy consumption;
+21 2. Minimize emission of greenhouse gases and production of other air,
+22 water, and soil pollution;
+23 3. Minimize noise pollution;
+24 4. Minimize water consumption;
+25 5. Avoid burdens on disadvantaged communities; and
+26 6. Require a minimum amount of electricity usage to be provided by on-
+27 and off-site renewable energy systems, as defined in paragraph (b) of
+28 subdivision one of section sixty-p of the public service law, and energy
+29 storage.
+30 § 3. The public service law is amended by adding a new section 66-x to
+31 read as follows:
+32 § 66-x. Data center rate impacts. 1. (a) No later than eighteen months
+33 after this section shall have become a law, the commission shall issue a
+34 final report on data centers, as defined in section 31-0101 of the envi-
+35 ronmental conservation law, including:
+36 (i) the impact of data centers on electricity and gas rates for resi-
+37 dential, commercial, and industrial users;
+38 (ii) how data center operators can minimize the impact of data centers
+39 on electricity and gas rates for residential, commercial, and industrial
+40 users without additional government spending;
+41 (iii) a review of current statutes and regulations designed to mini-
+42 mize the impact of data centers on electricity and gas rates for resi-
+43 dential, commercial, and industrial users; and
+44 (iv) an evaluation of actions the commission can take to minimize the
+45 impact of data centers on electricity and gas rates for residential,
+46 commercial, and industrial users, including, but not limited to, the
+47 creation of a new customer classification for data centers.
+48 (b) A draft report shall be issued prior to the completion of the
+49 final report, with such draft report subject to at least one hundred
+50 twenty days of public comment from the date of issuance. The final
+51 report shall take into consideration feedback submitted during the
+52 public comment period.
+53 2. No sooner than three years after the enactment of this section, the
+54 commission shall issue any additional orders necessary to minimize, to
+55 the greatest possible extent, the impact of data centers, as defined in
+56 section 31-0101 of the environmental conservation law, on electricity
+
+S. 9144--A 6
+1 and gas rates for residential, commercial, and industrial users, and to
+2 ensure that all costs associated with providing and maintaining electric
+3 and gas service to data centers, including, but not limited to, require-
+4 ments for any new electricity generation, transmission, and distribution
+5 infrastructure, costs associated with increases in electricity wholesale
+6 supply and capacity market prices, peak and non-peak demand impacts on
+7 generation sources and generation capacity needs, and increases in
+8 natural gas and oil commodity prices, shall be borne by such data
+9 center. In developing such new order or orders, the commission shall be
+10 informed by the environmental impact report issued pursuant to section
+11 31-0105 of the environmental conservation law as well as the report
+12 issued pursuant to subdivision one of this section.
+13 § 4. The public authorities law is amended by adding a new section
+14 1014-a to read as follows:
+15 § 1014-a. Section sixty-six-x of the public service law applicable to
+16 the authority and its subsidiaries. Notwithstanding any provision of
+17 section one thousand fourteen of this title or any other provision of
+18 law to the contrary, section sixty-six-x of the public service law shall
+19 apply to the authority and all its subsidiaries.
+20 § 5. Section 1020-s of the public authorities law, as amended by chap-
+21 ter 388 of the laws of 2011, is amended by adding a new subdivision 4 to
+22 read as follows:
+23 4. Notwithstanding any provision of this section, section one thousand
+24 twenty-zz of this title or any other provision of law to the contrary,
+25 section sixty-six-x of the public service law applies to the authority
+26 and all its subsidiaries.
+27 § 6. This act shall take effect on the thirtieth day after it shall
+28 have become a law, and shall apply to all permits pending or filed after
+29 such effective date.

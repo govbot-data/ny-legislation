@@ -1,0 +1,561 @@
+Title: 
+Official Title: 
+Source: versions - A9584A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9584--A
+IN ASSEMBLY
+January 21, 2026
+___________
+Introduced by M. of A. WOERNER, McDONALD, SHIMSKY, TAPIA, CLARK, DeSTE-
+FANO, K. BROWN, BENDETT, GLICK, STECK -- read once and referred to the
+Committee on Racing and Wagering -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the racing, pari-mutuel wagering and breeding law, in
+relation to enhancing know your customer requirements and responsible
+gaming procedures
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The racing, pari-mutuel wagering and breeding law is
+2 amended by adding a new section 1367-b to read as follows:
+3 § 1367-b. Know your customer requirements for mobile sports wagering
+4 licensees. 1. The terms used in this section shall have the same mean-
+5 ings as set forth in subdivision one of section thirteen hundred sixty-
+6 seven and subdivision one of section thirteen hundred sixty-seven-a of
+7 this title. For the purposes of this section, section thirteen hundred
+8 sixty-seven and section thirteen hundred sixty-seven-a of this title,
+9 the following terms shall have the following meanings:
+10 (a) "At-risk sports bettor" shall mean an authorized sports bettor
+11 who, following completion of a risk assessment conducted pursuant to
+12 subdivision seven of this section, has been determined to be at signif-
+13 icant risk of gambling-related harm and is designated as such;
+14 (b) "Account sharing" shall mean the use of an authorized sports
+15 bettor's account by any person other than the authorized sports bettor
+16 for whom such account was created;
+17 (c) "Elevated-risk sports bettor" shall mean an at-risk sports bettor
+18 who, following completion of a risk assessment conducted pursuant to
+19 subdivision seven of this section, is determined to be at persistent or
+20 escalating risk of significant gambling-related harm;
+21 (d) "Gambling-related harm" shall mean significant psychological,
+22 self-inflicted physical, occupational, financial, legal, domestic, or
+23 familial harm resulting from or reasonably attributable to gambling-re-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14473-05-6
+
+A. 9584--A 2
+1 lated actions or patterns of behavior, including problem gambling and
+2 gambling addiction;
+3 (e) "High-risk sports bettor" shall mean an at-risk sports bettor who,
+4 following completion of a risk assessment conducted pursuant to subdivi-
+5 sion seven of this section, is determined to be at chronic or acute risk
+6 of severe or imminent gambling-related harm;
+7 (f) "Prospective sports bettor" shall mean a person seeking to partic-
+8 ipate in mobile sports wagering who has not been verified as an author-
+9 ized sports bettor;
+10 (g) "Proxy betting" shall mean an authorized sports bettor placing a
+11 sports wager on behalf of another person;
+12 (h) "Responsible gaming" means policies, procedures, and controls
+13 reasonably designed and implemented to promote informed decision making,
+14 identify and assess risk of gambling-related harm, and mitigate such
+15 harm;
+16 (i) "Risk assessment" shall mean a documented, comprehensive examina-
+17 tion of the nature, frequency, and severity of risk factors, both indi-
+18 vidually and in combination, associated with an authorized sports bettor
+19 to determine whether such authorized sports bettor is at significant
+20 risk of gambling-related harm pursuant to subdivision seven of this
+21 section; and
+22 (j) "Risk factor" shall mean behavioral, transactional, or financial
+23 patterns that may reasonably indicate risk of gambling-related harm,
+24 including those identified pursuant to subdivision six of this section.
+25 2. (a) Prior to activating an account or permitting a prospective
+26 sports bettor to place a sports wager, a mobile sports wagering licensee
+27 shall require such prospective sports bettor to provide, at a minimum,
+28 the following:
+29 (i) full legal name;
+30 (ii) physical residential address, including zip code;
+31 (iii) date of birth;
+32 (iv) the last four digits of the social security number; provided,
+33 however, that: (A) such prospective sports bettor may voluntarily
+34 provide the full social security number or a driver license number in
+35 lieu of the last four digits; or (B) if such prospective sports bettor
+36 does not possess a social security number, such prospective sports
+37 bettor may provide an equivalent government-issued identification
+38 number, such as a passport number or taxpayer identification number;
+39 (v) a valid email address;
+40 (vi) a valid telephone number;
+41 (vii) a photograph of a driver license or other government-issued
+42 identification card; and
+43 (viii) a live photograph.
+44 (b) All information required pursuant to paragraph (a) of this subdi-
+45 vision shall be directly and affirmatively provided by the prospective
+46 sports bettor. A mobile sports wagering licensee shall not pre-populate,
+47 auto-fill, suggest, derive, or otherwise present such required informa-
+48 tion for confirmation or selection by a prospective sports bettor.
+49 (c) A mobile sports wagering licensee shall request, on a voluntary
+50 basis and not as a condition of account creation or wagering, the
+51 following information, which may be used in aggregate form only for
+52 purposes of research, regulatory oversight, and responsible gaming anal-
+53 ysis:
+54 (i) race and ethnicity;
+55 (ii) gender; and
+56 (iii) estimated annual income.
+
+A. 9584--A 3
+1 (d) No account shall be activated and no sports wager shall be permit-
+2 ted unless the mobile sports wagering licensee has verified the identity
+3 of the prospective sports bettor pursuant to subdivision three of this
+4 section.
+5 (e) Prior to placing an initial sports wager, an authorized sports
+6 bettor shall affirmatively acknowledge and attest, at a minimum, the
+7 following:
+8 (i) the information provided in connection with the creation of the
+9 account is accurate and complete;
+10 (ii) such authorized sports bettor is at least twenty-one years of
+11 age;
+12 (iii) such authorized sports bettor is not a prohibited sports bettor;
+13 (iv) only such authorized sports bettor shall access the account and
+14 such authorized sports bettor shall not permit any other person to
+15 access or use the account or engage in account sharing or proxy betting;
+16 (v) the account is the only mobile sports wagering account such
+17 authorized sports bettor owns with the particular skin and that such
+18 account is not transferable;
+19 (vi) no sports wager on the account shall be made by computerized
+20 software or other automated or unauthorized mechanisms; and
+21 (vii) such authorized sports bettor accepts the terms and conditions
+22 of opening an account and agrees to comply with applicable law.
+23 (f) A mobile sports wagering licensee shall permit an authorized
+24 sports bettor to permanently close such authorized sports bettor's
+25 account at any time and for any reason.
+26 (i) Upon closure of an account, any funds remaining in such account,
+27 less any amounts lawfully withheld pursuant to this chapter or commis-
+28 sion regulation, shall be returned to the authorized sports bettor with-
+29 out unreasonable delay and in accordance with commission regulation.
+30 (ii) A mobile sports wagering licensee shall not impose unnecessary
+31 barriers, conditions, or delays on the closure of an account or the
+32 return of funds.
+33 3. (a) A mobile sports wagering licensee shall establish and maintain
+34 written identity verification procedures reasonably designed to form a
+35 reasonable belief that such mobile sports wagering licensee knows the
+36 true identity of each prospective sports bettor prior to activating an
+37 account or accepting sports wagers from such prospective sports bettor.
+38 (b) Such identity verification procedures shall: (i) be incorporated
+39 into the mobile sports wagering licensee's system of internal controls;
+40 (ii) ensure that no prohibited sports bettor is permitted to activate or
+41 access an account or place sports wagers; and (iii) include measures
+42 reasonably designed to detect and prevent identity theft, fraud, and
+43 duplicate or otherwise unlawful accounts.
+44 (c) Such identity verification procedures shall, at a minimum and to
+45 the extent reasonably practicable, include the following:
+46 (i) verification of the authenticity of identifying information
+47 obtained pursuant to subdivision two of this section through one or more
+48 independent and reliable data sources, including commercially available
+49 fraud-detection databases, public records, or other comparable sources;
+50 (ii) identification of material discrepancies in identifying informa-
+51 tion and documented resolution of such discrepancies prior to account
+52 activation;
+53 (iii) provision for verification through documentary methods, non-do-
+54 cumentary methods, or a combination thereof, as appropriate; and
+55 (iv) application of enhanced verification procedures where identifying
+56 information is inconsistent, incomplete, associated with multiple
+
+A. 9584--A 4
+1 accounts, or otherwise indicative of an elevated threat of fraud or
+2 unlawful activity.
+3 (d) The use of a third-party service provider to perform identity
+4 verification shall not relieve a mobile sports wagering licensee of its
+5 responsibility to comply with this subdivision.
+6 (e) Where a mobile sports wagering licensee cannot form a reasonable
+7 belief that it knows the true identity of a prospective sports bettor,
+8 such licensee shall not activate the account or permit the placement of
+9 sports wagers and shall take such further action as may be required by
+10 the commission.
+11 4. (a) Each authorized sports bettor shall be required to use a user-
+12 name and password or other primary login credential, together with at
+13 least one additional authentication factor that is independent of such
+14 username and password or other primary login credential, to verify such
+15 authorized sports bettor's identity, which shall include one or more of
+16 the following:
+17 (i) biometric data, including fingerprint, facial or voice recogni-
+18 tion;
+19 (ii) an authorization code sent by phone call, text message or email
+20 to the appropriate contact information provided at the opening of the
+21 account;
+22 (iii) knowledge-based authentication methods, including security ques-
+23 tions, where approved by the commission;
+24 (iv) device-based authentication tied to a previously verified device;
+25 or
+26 (v) any other authorization types as approved by the commission.
+27 (b) Following successful multi-factor authentication, a mobile sports
+28 wagering licensee may permit continued access to the same account on the
+29 same verified device without re-authentication for a period not to
+30 exceed one hour.
+31 (c) No single authentication factor shall satisfy both the primary and
+32 additional authentication requirements of this subdivision.
+33 (d) A mobile sports wagering licensee shall promptly re-verify infor-
+34 mation required pursuant to paragraph (a) of subdivision two of this
+35 section after such information is modified and as required by the
+36 commission.
+37 (e) A mobile sports wagering licensee shall implement written monitor-
+38 ing procedures reasonably designed to detect suspicious activity,
+39 account compromise, fraud, account sharing, proxy betting, placement of
+40 a sports wager by a prohibited sport bettor, or other unlawful activity.
+41 (f) Where monitoring conducted pursuant to paragraph (e) of this
+42 subdivision identifies activity reasonably indicating a material risk of
+43 account compromise, fraud, account sharing, proxy betting, the placement
+44 of a sports wager by a prohibited sports bettor, or other unlawful
+45 activity, the mobile sports wagering licensee shall promptly suspend the
+46 affected account pending review. If, following such review, the mobile
+47 sports wagering licensee determines that such activity is likely to have
+48 occurred or be occurring, the commission shall be notified, and the
+49 account shall remain suspended until corrective measures required pursu-
+50 ant to commission regulation have been implemented.
+51 (g) If a mobile sports wagering licensee or the commission determines
+52 that an authorized sports bettor or any other person has, in connection
+53 with mobile sports wagering, knowingly engaged in fraud, account shar-
+54 ing, proxy betting, or other unlawful activity, such authorized sports
+55 bettor, and any other person determined to have knowingly participated
+
+A. 9584--A 5
+1 in such activity, may be designated a prohibited sports bettor in
+2 accordance with commission regulation.
+3 5. (a) A mobile sports wagering licensee shall establish, implement,
+4 and maintain written responsible gaming procedures reasonably designed
+5 to identify, assess, and mitigate gambling-related harm, including
+6 through risk assessments conducted pursuant to this section.
+7 (b) Such procedures shall be incorporated into the mobile sports
+8 wagering licensee's system of internal controls and subject to review by
+9 the commission and approval as required by commission regulation.
+10 (c) Each mobile sports wagering licensee shall designate a responsible
+11 gaming lead who shall be a senior employee or officer with sufficient
+12 authority and resources to implement, oversee, and enforce such mobile
+13 sports wagering licensee's responsible gaming procedures and ensure that
+14 such procedures comply with this section and applicable commission regu-
+15 lations.
+16 (i) Such responsible gaming lead shall ensure that risk assessments
+17 are conducted in accordance with this section and applicable commission
+18 regulations.
+19 (ii) Such responsible gaming lead shall oversee documentation, record
+20 retention, internal review, and reporting obligations pursuant to this
+21 section.
+22 (iii) The designation of a responsible gaming lead shall not relieve a
+23 mobile sports wagering licensee of ultimate responsibility for compli-
+24 ance.
+25 (iv) The responsible gaming lead shall provide periodic written
+26 reports, no less than annually, to senior management of the mobile
+27 sports wagering licensee regarding the following:
+28 (A) the effectiveness of responsible gaming procedures;
+29 (B) trends in risk assessments and risk designations, including
+30 at-risk, elevated-risk, and high-risk sports bettor designations;
+31 (C) responsible gaming actions and interventions undertaken; and
+32 (D) recommendations for modifications or improvements to responsible
+33 gaming procedures.
+34 (v) Such reports shall be documented and retained in accordance with
+35 subdivision eight of this section and made available to the commission
+36 upon request.
+37 (d) Responsible gaming procedures shall include training for relevant
+38 employees regarding risk factors, risk assessment, documentation, and
+39 responsible gaming obligations in accordance with commission regu-
+40 lations.
+41 (e) Responsible gaming procedures shall include periodic internal
+42 review of the effectiveness of risk assessments, responsible gaming
+43 actions taken pursuant to this section, and other procedures as
+44 prescribed by the commission. Such review shall be documented and made
+45 available to the commission upon request.
+46 6. (a) Responsible gaming procedures shall include ongoing monitoring
+47 and documentation reasonably designed to identify risk factors associ-
+48 ated with an authorized sports bettor, including but not limited to the
+49 following:
+50 (i) escalation in wager size or loss exposure, or patterns of
+51 sustained wagering losses;
+52 (ii) increases in deposit frequency or amounts, including rapid or
+53 repeated redeposit behavior following losses;
+54 (iii) extended duration, high-frequency, or repeated late-night wager-
+55 ing sessions, or other patterns of intensified engagement with the
+56 mobile sports wagering platform;
+
+A. 9584--A 6
+1 (iv) frequent modification or removal of deposit, wager, or time
+2 limits or reversal of withdrawals from an account;
+3 (v) repeated failed payment transactions or other indicators of finan-
+4 cial distress;
+5 (vi) frequent interactions with responsible gaming tools or resources
+6 that may indicate heightened risk; and
+7 (vii) any other risk factor established by regulation of the commis-
+8 sion.
+9 (b) The commission shall promulgate regulations establishing guidance
+10 regarding the identification, weighting, and evaluation of risk factors
+11 consistent with this section.
+12 7. (a) Responsible gaming procedures shall include a documented risk
+13 assessment conducted when risk factors, individually or in combination,
+14 reach objective, evidence-based thresholds established pursuant to
+15 commission regulation, which may be qualitative, quantitative, or both,
+16 and reasonably indicate that an authorized sports bettor is at signif-
+17 icant risk of gambling-related harm.
+18 (i) Such review shall evaluate the nature, frequency, and severity of
+19 the risk factors.
+20 (ii) The results of such review shall be documented and retained in
+21 accordance with subdivision eight of this section.
+22 (b) If, following completion of a risk assessment conducted pursuant
+23 to paragraph (a) of this subdivision, a mobile sports wagering licensee
+24 determines that an authorized sports bettor is at significant risk of
+25 gambling-related harm, such authorized sports bettor shall be designated
+26 as an at-risk sports bettor.
+27 (c) The commission shall establish additional criteria, including
+28 objective, evidence-based thresholds, to determine whether an at-risk
+29 sports bettor qualifies as an elevated-risk or high-risk sports bettor.
+30 (d) A prior risk assessment or risk designation of an authorized
+31 sports bettor shall not relieve a mobile sports wagering licensee of its
+32 obligation to continue monitoring such authorized sports bettor pursuant
+33 to subdivision six of this section or to conduct subsequent risk assess-
+34 ments where such monitoring identifies risk factors that meet or exceed
+35 objective, evidence-based thresholds established pursuant to commission
+36 regulation. Risk assessments shall be conducted on an ongoing basis as
+37 warranted by such monitoring and may result in the maintenance, esca-
+38 lation, or reduction of an authorized sports bettor's risk designation.
+39 8. (a) A mobile sports wagering licensee shall document, in a manner
+40 sufficient to demonstrate compliance with this section and applicable
+41 commission regulations, the following:
+42 (i) suspicious activity associated with an account, such as indicators
+43 of account sharing, proxy betting, fraud, or otherwise unlawful activ-
+44 ity, including the investigation and disposition of such activity;
+45 (ii) documentation relating to identity verification procedures and
+46 resolution of discrepancies pursuant to subdivision three of this
+47 section;
+48 (iii) documentation of re-verification actions taken pursuant to
+49 subdivision four of this section;
+50 (iv) documentation of periodic internal reviews conducted pursuant to
+51 subdivision five of this section;
+52 (v) documentation of reports provided to senior management pursuant to
+53 subdivision five of this section;
+54 (vi) risk factors identified pursuant to subdivision six of this
+55 section associated with authorized sports bettors;
+
+A. 9584--A 7
+1 (vii) risk assessments conducted pursuant to subdivision seven of this
+2 section;
+3 (viii) determinations regarding whether an authorized sports bettor
+4 qualifies as an at-risk sports bettor, elevated-risk sports bettor, or
+5 high-risk sports bettor;
+6 (ix) any responsible gaming actions and interventions taken in
+7 response to such determinations; and
+8 (x) other information required pursuant to commission regulation
+9 consistent with this section.
+10 (b) The responsible gaming lead shall establish and periodically
+11 update a list of at-risk sports bettors, which shall be provided to the
+12 commission upon request.
+13 (i) An at-risk sports bettor may be removed from such list if, pursu-
+14 ant to a subsequent risk assessment conducted in accordance with this
+15 section, such authorized sports bettor is determined to no longer quali-
+16 fy as an at-risk sports bettor.
+17 (ii) If an authorized sports bettor meets or exceeds thresholds estab-
+18 lished pursuant to commission regulations under subdivision seven of
+19 this section that trigger a risk assessment and is subsequently deter-
+20 mined not to qualify as an at-risk sports bettor, the documented risk
+21 assessment shall include the specific reasons for such determination.
+22 (c) All records required pursuant to this section shall be retained
+23 for not less than five years, or such longer period as may be required
+24 by regulations promulgated by the commission, except as provided in
+25 paragraph (c) of subdivision nine of this section.
+26 (d) The commission may require periodic reporting, in anonymized or
+27 aggregated form, regarding demographic information, risk factors, risk
+28 assessments, responsible gaming actions and interventions, and related
+29 outcomes for the purpose of:
+30 (i) evaluating compliance with this section and applicable commission
+31 regulations;
+32 (ii) assessing the effectiveness of responsible gaming procedures; and
+33 (iii) informing public policy development related to mobile sports
+34 wagering, responsible gaming, and gambling-related harm.
+35 (e) No personally identifiable information collected pursuant to this
+36 section shall be disclosed unless otherwise required by law.
+37 (f) The commission may audit compliance with this section and regu-
+38 lations promulgated hereunder.
+39 (g) Nothing in this section shall require a mobile sports wagering
+40 licensee to verify an authorized or prospective sports bettor's income,
+41 assets, or credit history.
+42 (h) The commission shall promulgate regulations establishing minimum
+43 standards for documentation, record retention, testing, and auditing of
+44 responsible gaming procedures required pursuant to this section.
+45 9. (a) No mobile sports wagering licensee shall sell, share or other-
+46 wise allow third-party access to consumer data required to be collected
+47 by this section with third parties unless such selling or sharing is
+48 strictly necessary to provide, maintain, improve, or update the services
+49 requested by an authorized sports bettor, to comply with applicable law,
+50 or as otherwise required by this section or commission regulation.
+51 (b) Upon receipt of a verifiable request from an authorized sports
+52 bettor, a mobile sports wagering licensee shall, without undue delay,
+53 make available a copy of all consumer data that such mobile sports
+54 wagering licensee has collected about such authorized sports bettor
+55 pursuant to this section.
+
+A. 9584--A 8
+1 (c) Upon the deletion of an authorized sports bettor's account, such
+2 authorized sports bettor may request that the mobile sports wagering
+3 licensee delete all consumer data that the mobile sports wagering licen-
+4 see has collected about such authorized sports bettor.
+5 (i) Upon receiving such request, the mobile sports wagering licensee
+6 shall delete all such consumer data within thirty days and provide such
+7 authorized sports bettor with confirmation that all such consumer data
+8 has been deleted.
+9 (ii) Notwithstanding subdivision eight of this section or any other
+10 provision of state law relating solely to record retention requirements
+11 of this section, the deletion requirements of this paragraph shall
+12 control.
+13 (iii) A mobile sports wagering licensee shall not be required to
+14 comply with the deletion requirements of this paragraph to the extent
+15 that retaining such consumer data is required by federal law, a judicial
+16 order, or an ongoing regulatory investigation or enforcement action.
+17 (d) Each mobile sports wagering licensee shall develop, implement, and
+18 maintain reasonable administrative, technical, and physical safeguards
+19 to protect consumer data against unauthorized access, disclosure, alter-
+20 ation, or destruction, consistent with commission regulations. Such
+21 safeguards shall be appropriate to the nature and scope of such mobile
+22 sports wagering licensee's activities and the sensitivity of the consum-
+23 er data collected.
+24 10. (a) The commission shall promulgate such rules and regulations as
+25 are necessary and appropriate to implement, maintain, and enforce the
+26 provisions of this section, including but not limited to rules and regu-
+27 lations:
+28 (i) establishing standards governing account creation and closure
+29 pursuant to subdivision two of this section;
+30 (ii) establishing minimum standards for identity verification proce-
+31 dures pursuant to subdivision three of this section;
+32 (iii) establishing standards for multi-factor authentication and ongo-
+33 ing verification pursuant to subdivision four of this section;
+34 (iv) governing the review and approval of responsible gaming proce-
+35 dures pursuant to subdivision five of this section;
+36 (v) establishing guidance and requirements concerning the identifica-
+37 tion, weighting, evaluation, and documentation of risk factors pursuant
+38 to subdivision six of this section;
+39 (vi) establishing objective, evidence-based thresholds and additional
+40 criteria for risk assessments pursuant to subdivision seven of this
+41 section;
+42 (vii) establishing documentation, record retention, reporting, test-
+43 ing, and auditing requirements pursuant to subdivision eight of this
+44 section; and
+45 (viii) establishing standards for data security and safeguards pursu-
+46 ant to this subdivision.
+47 (b) In addition to any other authority provided by law, the commission
+48 may:
+49 (i) conduct examinations, investigations, and audits of mobile sports
+50 wagering licensees to determine compliance with this section and regu-
+51 lations promulgated pursuant to this section;
+52 (ii) require the submission of records, reports, or other information
+53 necessary to evaluate compliance;
+54 (iii) issue written findings of deficiency;
+55 (iv) require corrective action plans within such timeframes as the
+56 commission may prescribe; and
+
+A. 9584--A 9
+1 (v) order the suspension or modification of practices found to be in
+2 violation of this section or commission regulation.
+3 (c) A violation of this section or regulations promulgated pursuant to
+4 this section shall constitute a violation of this chapter and shall be
+5 subject to civil penalties, license conditions, suspension, revocation,
+6 or other disciplinary action as authorized under this chapter and regu-
+7 lations of the commission.
+8 (d) In determining the appropriate enforcement action or penalty, the
+9 commission may consider:
+10 (i) the nature and severity of the violation;
+11 (ii) whether the violation was knowing, reckless, or negligent;
+12 (iii) the duration and frequency of the violation;
+13 (iv) the mobile sports wagering licensee's history of prior
+14 violations;
+15 (v) the degree of harm or risk of harm to authorized sports bettors;
+16 and
+17 (vi) the mobile sports wagering licensee's cooperation and corrective
+18 efforts.
+19 (e) Nothing in this section shall be construed to limit any other
+20 authority of the commission under this chapter or other applicable law.
+21 (f) Nothing in this section shall be construed to create a private
+22 right of action.
+23 § 2. Subparagraph (xv) of paragraph (a) of subdivision 4 of section
+24 1367-a of the racing, pari-mutuel wagering and breeding law, as added by
+25 section 4 of part Y of chapter 59 of the laws of 2021, is amended to
+26 read as follows:
+27 (xv) submit annually a problem gaming plan that was approved by the
+28 commission in consultation with the office of addiction services and
+29 supports that includes: the objectives of and timetables for implement-
+30 ing the plan; identification of the persons responsible for implementing
+31 and maintaining the plan; procedures for identifying users with
+32 suspected or known problem gaming behavior; procedures for providing
+33 information to users concerning problem gaming identification and
+34 resources; procedures to prevent gaming by minors and self-excluded
+35 persons; and such other problem gaming information as the commission may
+36 require by rule; provided further, that such problem gaming plan shall
+37 include responsible gaming procedures pursuant to section thirteen
+38 hundred sixty-seven-b of this title.
+39 § 3. The opening paragraph of subdivision 1 of section 1367 of the
+40 racing, pari-mutuel wagering and breeding law, as amended by section 3
+41 of part Y of chapter 59 of the laws of 2021, is amended to read as
+42 follows:
+43 As used in this section [and in], section thirteen hundred sixty-sev-
+44 en-a, and section thirteen hundred sixty-seven-b of this title:
+45 § 4. Paragraph (a) of subdivision 1 of section 1367-a of the racing,
+46 pari-mutuel wagering and breeding law, as added by section 4 of part Y
+47 of chapter 59 of the laws of 2021, is amended to read as follows:
+48 (a) Except as provided in this subdivision, the terms in this section
+49 shall have the same meanings as such terms are defined in subdivision
+50 one of section thirteen hundred sixty-seven and subdivision one of
+51 section thirteen hundred sixty-seven-b of this title.
+52 § 5. Subdivision 8 of section 1367 of the racing, pari-mutuel wagering
+53 and breeding law, as amended by section 1 of part OO of chapter 59 of
+54 the laws of 2025, is amended to read as follows:
+55 8. Notwithstanding section thirteen hundred fifty-one of this article,
+56 mobile sports wagering gross gaming revenue and tax revenue shall be
+
+A. 9584--A 10
+1 excluded from sports wagering gross gaming revenue and tax revenue.
+2 Mobile sports wagering tax revenue shall be separately maintained and
+3 returned to the state for deposit into the state lottery fund for educa-
+4 tion aid except as otherwise provided in this subdivision. Any interest
+5 and penalties imposed by the commission relating to those taxes, all
+6 penalties levied and collected by the commission, and the appropriate
+7 funds, cash or prizes forfeited from sports wagering shall be deposited
+8 into the state lottery fund for education; provided, however, that
+9 penalties levied against mobile sports wagering licensees for violations
+10 of problem gaming plan requirements pursuant to subdivision four of
+11 section one thousand three hundred sixty-seven-a of this title and
+12 responsible gaming procedures pursuant to section one thousand three
+13 hundred sixty-seven-b of this title shall be deposited as follows: one-
+14 third to the state lottery fund for education aid; one-third to be
+15 collected by the commission and deposited into the commercial gaming
+16 revenue fund, established in section ninety-seven-nnnn of the state
+17 finance law, to be distributed for problem gambling education and treat-
+18 ment purposes pursuant to paragraph a of subdivision four of such
+19 section; and one-third shall be retained by the commission for the
+20 administration and enforcement of such problem gaming plan and responsi-
+21 ble gaming procedure requirements. In fiscal year two thousand twenty-
+22 two, the commission shall pay into the commercial gaming fund one
+23 percent of the state tax imposed on mobile sports wagering by this
+24 section to be distributed for problem gambling education and treatment
+25 purposes pursuant to paragraph a of subdivision four of section ninety-
+26 seven-nnnn of the state finance law; provided however, that such amount
+27 shall be equal to six million dollars for each fiscal year through
+28 fiscal year two thousand twenty-six and twelve million dollars for each
+29 fiscal year thereafter, provided that this amount may only be expended
+30 pursuant to a plan approved by the director of the budget. In fiscal
+31 year two thousand twenty-two, the commission shall pay one percent of
+32 the state tax imposed on mobile sports wagering by this section to the
+33 general fund, a program to be administered by the office of children and
+34 family services for a statewide youth sports activities and education
+35 grant program for the purpose of providing annual awards to sports
+36 programs for underserved youth under the age of eighteen years; provided
+37 however, that such amount shall be equal to five million dollars for
+38 each fiscal year thereafter. The commission shall require at least
+39 monthly deposits by a platform provider of any payments pursuant to
+40 subdivision seven of this section, at such times, under such conditions,
+41 and in such depositories as shall be prescribed by the state comp-
+42 troller. The deposits shall be deposited to the credit of the state
+43 commercial gaming revenue fund. The commission shall require a monthly
+44 report and reconciliation statement to be filed with it on or before the
+45 tenth day of each month, with respect to gross revenues and deposits
+46 received and made, respectively, during the preceding month.
+47 § 6. This act shall take effect on the one hundred eightieth day after
+48 it shall have become a law.

@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - A10763A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10763--A
+IN ASSEMBLY
+April 1, 2026
+___________
+Introduced by M. of A. KAY, BURDICK, COLTON, YEGER, SHIMSKY, CASHMAN --
+read once and referred to the Committee on Energy -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public service law, in relation to reducing the
+response time for securing downed wires
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 66 of the public service law is amended by adding
+2 a new subdivision 21-a to read as follows:
+3 21-a. Require each utility to take appropriate safety precautions
+4 regarding electrical hazards, including developing plans to prompt-
+5 ly de-energize downed wires within two hours of notification of the
+6 location of such downed wires from a municipal emergency responder and
+7 promptly secure such wires within six hours in the case of events that
+8 are not considered emergencies pursuant to subdivision twenty-one of
+9 this section. Such plans developed by a utility pursuant to this section
+10 shall identify communication procedures to notify emergency responders
+11 of expected time frames for securing wires.
+12 § 2. This act shall take effect on the one hundred eightieth day after
+13 it shall have become a law.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15259-02-6

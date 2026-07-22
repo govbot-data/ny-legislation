@@ -1,0 +1,553 @@
+Title: 
+Official Title: 
+Source: versions - A7996A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7996--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+April 16, 2025
+___________
+Introduced by M. of A. LUCAS -- read once and referred to the Committee
+on Real Property Taxation -- recommitted to the Committee on Real
+Property Taxation in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the real property tax law, in relation to creating the
+Neighborhood Small Business Rent Increase Exemption
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Neighborhood Small Business Rent Increase Exemption".
+3 § 2. Article 4 of the real property tax law is amended by adding a new
+4 title 7 to read as follows:
+5 TITLE 7
+6 TAX ABATEMENT FOR LIMITING RENT INCREASES ON NEIGHBORHOOD
+7 SMALL BUSINESSES
+8 IN A CITY OF ONE MILLION OR MORE PERSONS
+9 Section 499-aaaaaa. Definitions.
+10 499-bbbbbb. Authority to enact local law; real property tax
+11 abatement.
+12 499-cccccc. Eligibility requirements.
+13 499-dddddd. Application for certificate of abatement.
+14 499-eeeeee. Enforcement and administration.
+15 499-ffffff. Reporting requirements; revocation of abatements.
+16 499-gggggg. Tax lien; interest and penalty.
+17 499-hhhhhh. Confidentiality.
+18 § 499-aaaaaa. Definitions. When used in this title, the following
+19 terms shall mean or include:
+20 1. "Abatement base." The lesser of (i) two dollars and fifty cents of
+21 the tax liability per square foot or (ii) fifty per centum of the tax
+22 liability per square foot.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04149-02-6
+
+A. 7996--A 2
+1 2. "Abatement zone." Any area of a city having a population of one
+2 million or more designated by local law pursuant to this title as an
+3 abatement zone. Any tax lot that is partly located inside an abatement
+4 zone shall be deemed to be entirely located inside such zone.
+5 3. "Aggregate floor area." The sum of the gross areas of the several
+6 floors of a building, measured from the exterior faces of exterior walls
+7 or from the center lines of walls separating two buildings.
+8 4. "Applicant." The landlord and the tenant.
+9 5. "Benefit period." The period commencing with the first day of the
+10 month immediately following the rent commencement date and terminating
+11 no later than one hundred twenty months thereafter.
+12 6. "Billable assessed value." The lesser of the taxable transitional
+13 or the taxable actual assessed value of the eligible building and the
+14 land on which the eligible building is located for the fiscal year in
+15 which the benefit period commences.
+16 7. "Commercial activities." The buying, selling or otherwise providing
+17 of goods or services by a small business.
+18 8. "Department of finance." The department of finance of any city
+19 having a population of one million or more.
+20 9. "Eligible building." With respect to the abatement zone defined in
+21 subdivision two of this section, a non-residential or mixed-use building
+22 which shall not include any building owned by a governmental agency.
+23 Each condominium unit in a building that meets the requirements of this
+24 subdivision shall be considered a separate eligible building.
+25 10. "Eligibility period." The period commencing April first, two thou-
+26 sand twenty-six and terminating March thirty-first, two thousand forty-
+27 two.
+28 11. "Eligible premises." With respect to the abatement zone defined in
+29 subdivision two of this section, premises located in an eligible build-
+30 ing that (a) are occupied or used for retail purposes and (b) are occu-
+31 pied or used by a tenant under a lease that meets the eligibility
+32 requirements of section four hundred ninety-nine-cccccc of this title.
+33 12. "Fiscal year." The fiscal year of any city having a population of
+34 one million or more.
+35 13. "Governmental agency." The United States of America or any agency
+36 or instrumentality thereof, the state of New York, the city of New York,
+37 any public corporation (including a body corporate and politic created
+38 pursuant to agreement or compact between the state of New York and any
+39 other state), public benefit corporation, public authority or other
+40 political subdivision of the state.
+41 14. "Landlord." Any person who (a) controls all non-residential
+42 portions of an eligible building, including, without limitation, the
+43 record owner, the lessee under a ground lease, any mortgagee in
+44 possession or any receiver, and (b) who grants the right to use or occu-
+45 py eligible premises to any tenant, provided that landlord shall not
+46 include any lessee who at any time during the lease term occupied or
+47 used or occupies or uses any part of the non-residential portions of
+48 such eligible building, other than premises occupied or used by such
+49 lessee to provide rental or management services to such building.
+50 15. "Lease commencement date." The date set forth in the lease on
+51 which the term of the lease commences.
+52 16. "Mixed-use building." A building used for both residential and
+53 commercial activities, provided that more than twenty-five per centum of
+54 the aggregate floor area of such building is used or held out for use as
+55 commercial, community facility or accessory use space.
+
+A. 7996--A 3
+1 17. "Person." An individual, corporation, limited liability company,
+2 partnership, association, agency, trust, estate, foreign or domestic
+3 government or subdivision thereof, or other entity.
+4 18. "Renewal tenant." A person who (a) occupies premises in an eligi-
+5 ble building under a lease which expires during the eligibility period
+6 and (b) executes a lease for the continued occupancy of all or part of
+7 such premises or all or part of such premises and additional premises in
+8 such eligible building, provided such premises are eligible premises and
+9 such lease meets the eligibility requirements of section four hundred
+10 ninety-nine-cccccc of this title.
+11 19. "Rent commencement date." The date set forth in the lease on which
+12 the obligation to pay basic fixed rent shall commence.
+13 20. "Retail purposes" means any activity that consists predominantly
+14 of (a) the final sale of tangible personal property or services by a
+15 vendor as defined in section eleven hundred one of the tax law, (b) the
+16 sale of services that generally involve the physical, mental, and/or
+17 spiritual care of individuals or the physical care of the personal prop-
+18 erty of individuals, (c) the final sale of food and/or beverage by a
+19 vendor as defined in section eleven hundred one of the tax law, includ-
+20 ing the assembly, processing or packaging of goods, provided that sales
+21 of such tangible personal property or services are predominantly to
+22 purchasers who personally visit the facilities at which such sales are
+23 made or such property and services are provided. "Retail purposes" shall
+24 not include hotel uses as described in subdivision four of section four
+25 hundred ninety-nine-cccccc of this title.
+26 21. "Small business." A business engaged in commercial activities that
+27 employs fifty or fewer persons.
+28 22. "Subtenant." A person whose right to occupy and use the eligible
+29 premises is not derived from a lease with the landlord.
+30 23. "Tax commission." The tax commission in any city having a popu-
+31 lation of one million or more.
+32 24. "Tax liability." The product obtained by multiplying the billable
+33 assessed value for the fiscal year in which the benefit period commences
+34 by the tax rate applicable to the eligible building for such fiscal year
+35 as set by the local legislative body of any city having a population of
+36 one million or more.
+37 25. "Tax liability per square foot." The tax liability divided by the
+38 total number of square feet in the eligible building, as listed on the
+39 records of the department of finance.
+40 26. "Tenant." A person, including any successors in interest, who
+41 executes a lease with the landlord for the right to occupy or use the
+42 eligible premises and who occupies or uses the eligible premises pursu-
+43 ant to such lease. Tenant shall not include any subtenant. When used in
+44 this title, "tenant" includes "renewal tenant."
+45 27. "Tenant's percentage share." The percentage of the eligible
+46 building's aggregate floor area allocated to the eligible premises,
+47 which shall be presumed to be such percentage as set forth in the lease
+48 for the eligible premises.
+49 § 499-bbbbbb. Authority to enact local law; real property tax abate-
+50 ment. 1. Any city having a population of one million or more, acting
+51 through its local legislative body, is authorized and empowered to
+52 determine that incentives in the form of abatement of real property
+53 taxes are necessary to encourage vibrant neighborhood small business
+54 activity in designated areas of such city, to enact a local law provid-
+55 ing that such benefits shall be provided in the manner set forth in this
+
+A. 7996--A 4
+1 title, and to designate by local law the boundaries of one or more
+2 abatement zones in which such benefits shall be provided.
+3 2. Within an abatement zone so designated, eligible buildings contain-
+4 ing eligible premises shall receive an abatement of real property
+5 taxes during the benefit period as follows:
+6 (a) for each of the first five years of the benefit period, the abate-
+7 ment shall be equal to the product obtained by (i) multiplying the
+8 tenant's percentage share by the number of square feet in the eligible
+9 building, as listed on the records of the department of finance and (ii)
+10 multiplying the product obtained in subparagraph (i) of this paragraph
+11 by the abatement base;
+12 (b) for the sixth, seventh, and eighth year of the benefit period, the
+13 abatement shall be equal to two-thirds of the abatement in the first
+14 year of the benefit period; and
+15 (c) for the ninth and tenth year of the benefit period, the abatement
+16 shall be equal to one-third of the abatement in the first year of the
+17 benefit period.
+18 3. If, as a result of application to the tax commission or a court
+19 order or action by the department of finance, the billable assessed
+20 value is reduced, the department of finance shall recalculate the abate-
+21 ment utilizing such reduced billable assessed value. The amount equal to
+22 the difference between the abatement originally granted and the abate-
+23 ment as so recalculated shall be deducted from any refund otherwise
+24 payable or remission otherwise due as a result of such reduction in
+25 billable assessed value, and any balance of such amount remaining unpaid
+26 after making any such deduction shall be paid to the department of
+27 finance within thirty days from the date of mailing by the department of
+28 finance of a notice of the amount payable. Such amount payable shall
+29 constitute a tax lien on the eligible building as of the date of such
+30 notice and, if not paid within such thirty-day period, penalty and
+31 interest at the rate applicable to delinquent taxes on such eligible
+32 building shall be charged and collected on such amount from the date of
+33 such notice to the date of payment.
+34 4. In no event shall the abatement for the eligible premises granted
+35 pursuant to this title exceed the tax liability allocable to the eligi-
+36 ble premises.
+37 5. Notwithstanding the provisions of any lease for occupancy of non-
+38 eligible premises in an eligible building or for occupancy of eligible
+39 premises for which no certificate of abatement has been issued pursuant
+40 to this title, a lessee of non-eligible premises or of eligible premises
+41 for which no certificate of abatement has been issued pursuant to this
+42 title shall not be entitled to receive directly or indirectly a
+43 reduction in either the real property taxes or any rent (including addi-
+44 tional rent) payable pursuant to such lease where such reduction would
+45 result from an abatement of real property taxes granted pursuant to this
+46 title. A landlord of an eligible building shall not allocate, credit,
+47 assign or disburse any portion of an abatement granted pursuant to this
+48 title to a lessee of non-eligible premises or of eligible premises for
+49 which no certificate of abatement has been issued pursuant to this
+50 title. A landlord shall not be required to reduce the real property
+51 taxes or any rent (including additional rent) payable by renewal tenants
+52 by an amount that exceeds the full amount of the abatement granted
+53 pursuant to this title, but a landlord shall be required to reduce the
+54 real property taxes or any rent (including additional rent) payable by
+55 renewal tenants by an amount that, in the aggregate, equals the full
+56 amount of the abatement granted pursuant to this title. Such reduction
+
+A. 7996--A 5
+1 shall be allocated in accordance with the abatement granted for the
+2 eligible premises occupied by each such tenant.
+3 6. A tenant who occupies or uses eligible premises for which a certif-
+4 icate of abatement is issued pursuant to this title shall not be eligi-
+5 ble to receive a second certificate of abatement for the same eligible
+6 premises. A tenant who occupies or uses eligible premises for which a
+7 certificate of abatement is issued pursuant to this title and who, upon
+8 the expiration of the lease for such eligible premises, relocates to
+9 otherwise eligible premises, shall not be eligible to receive a certif-
+10 icate of abatement for such otherwise eligible premises, except to the
+11 extent that the square footage of such otherwise eligible premises
+12 exceeds the square footage of all eligible premises previously occupied
+13 or used by such tenant for which such tenant held a certificate of
+14 abatement. If the square footage of such otherwise eligible premises
+15 exceeds the square footage of all such eligible premises previously
+16 occupied or used by such tenant and if there is any variation in the tax
+17 liability per square foot of such otherwise eligible premises, then, for
+18 purposes of determining which square footage in such otherwise eligible
+19 premises is entitled to an abatement pursuant to this title, square
+20 footage with the greatest tax liability per square foot, in an amount
+21 equal to the square footage of all such eligible premises previously
+22 occupied or used by such tenant, shall first be excluded.
+23 § 499-cccccc. Eligibility requirements. 1. No abatement shall be
+24 granted pursuant to this title unless:
+25 (a) the landlord enters into a ten year lease for eligible premises
+26 with a tenant and (b) such landlord includes within such lease with a
+27 tenant a renewal clause that limits a rent increase to no more than
+28 three percent annually.
+29 2. No abatement shall be granted pursuant to this title if an appli-
+30 cant shall fail to meet any of the requirements of this title within
+31 sixty days of the rent commencement date.
+32 3. For purposes of this title, the expiration date of a lease shall be
+33 determined by the expiration date set forth in such lease, without
+34 giving effect to any rights of the landlord or the tenant to terminate
+35 such lease prior to the expiration date set forth therein.
+36 4. The lease for the eligible premises shall contain the following
+37 provisions:
+38 (a) a statement of the tenant's percentage share;
+39 (b) a statement certifying the percentage of eligible premises occu-
+40 pied or used for retail purposes, as defined in subdivision twenty of
+41 section four hundred ninety-nine-aaaaaa of this title; and
+42 (c) a statement informing the tenant in at least twelve-point type
+43 that:
+44 (1) an application for abatement of real property taxes pursuant to
+45 this title will be made for the premises;
+46 (2) the rent, including amounts payable by the tenant for real proper-
+47 ty taxes, will accurately reflect any abatement of real property taxes
+48 granted pursuant to this title for the premises;
+49 (3) a renewal of the lease will not increase rent by more than three
+50 percent annually pursuant to the lease agreement;
+51 (4) all abatements granted with respect to a building pursuant to this
+52 title will be revoked if, during the benefit period, real estate taxes
+53 or water or sewer charges or other lienable charges are unpaid for more
+54 than one year, unless such delinquent amounts are paid as provided in
+55 subdivision four of section four hundred ninety-nine-ffffff of this
+56 title; and
+
+A. 7996--A 6
+1 (5) all benefits granted with respect to eligible premises will be
+2 reduced if, during the benefit period, the aggregate floor area of such
+3 eligible premises occupied or used for commercial activities, as defined
+4 in subdivision seven of section four hundred ninety-nine-aaaaaa of this
+5 title, is reduced.
+6 5. No abatement shall be granted pursuant to this title if:
+7 (a) the lease for the eligible premises provides that during the
+8 initial lease term required by subdivision one of this section either
+9 the landlord or the tenant may terminate such lease prior to the expira-
+10 tion date of such required initial lease term; provided that such lease
+11 may provide that either the landlord or the tenant may terminate such
+12 lease if (1) the other party is in default of any of such party's obli-
+13 gations under the lease, (2) the eligible premises are damaged or
+14 destroyed by fire or other casualty, (3) the eligible premises are
+15 rendered unusable for any reason not attributable to any act or failure
+16 to act of either tenant or landlord, or (4) the eligible premises are
+17 acquired by eminent domain; and
+18 (b) there are real property taxes, water or sewer charges or other
+19 lienable charges currently due and owing on the eligible building which
+20 is the subject of an application for abatement pursuant to this title,
+21 unless such real property taxes or charges are currently being paid in
+22 timely installments pursuant to a written agreement with the department
+23 of finance or other appropriate agency.
+24 6. No abatement shall be granted pursuant to this title unless the
+25 applicant shall file, together with the application, an affidavit
+26 setting forth the following information:
+27 (a) a statement that within the seven years immediately preceding the
+28 date of application for a certificate of abatement, neither the appli-
+29 cant nor any person owning a substantial interest in the eligible build-
+30 ing as defined in paragraph (c) of this subdivision, nor any officer,
+31 director or general partner of the applicant or such person was finally
+32 adjudicated by a court of competent jurisdiction to have violated
+33 section two hundred thirty-five of the real property law or any section
+34 of article one hundred fifty of the penal law or any similar arson law
+35 of another jurisdiction with respect to any building, or was an officer,
+36 director or general partner of a person at the time such person was
+37 finally adjudicated to have violated such law; and
+38 (b) a statement setting forth any pending charges alleging violation
+39 of section two hundred thirty-five of the real property law or any
+40 section of article one hundred fifty of the penal law or any similar
+41 arson law of another jurisdiction with respect to any building by the
+42 applicant or any person owning a substantial interest in the eligible
+43 building as defined in paragraph (c) of this subdivision, or any offi-
+44 cer, director or general partner of the applicant or such person, or any
+45 person for whom the applicant or person owning a substantial interest in
+46 the eligible building is an officer, director or general partner.
+47 (c) for purposes of this subdivision and subdivision seven of section
+48 four hundred ninety-nine-ffffff of this title, "substantial interest"
+49 shall mean ownership and control of an interest of ten per centum or
+50 more in the eligible building or in any person owning the eligible
+51 building.
+52 § 499-dddddd. Application for certificate of abatement. 1. Applica-
+53 tion for a certificate of abatement may be made on or after April first,
+54 two thousand twenty-six and until sixty days after the end of the eligi-
+55 bility period. Applications shall be filed with the department of
+
+A. 7996--A 7
+1 finance. No application may be filed prior to the date on which the
+2 lease for the eligible premises is executed by the landlord and tenant.
+3 2. No abatement pursuant to this title shall be granted unless the
+4 applicant files an application for a certificate of abatement within
+5 sixty days following the lease commencement date.
+6 3. In addition to any other information required by the department of
+7 finance, the application for a certificate of abatement shall include an
+8 abstract of the lease for the eligible premises for which an abatement
+9 is being sought, which abstract is signed by the landlord and the
+10 tenant. Such abstract shall include the tenant's percentage share, the
+11 lease commencement date, the rent commencement date, the expiration date
+12 for such lease and a description of the lease renewal clause, including
+13 the annual rent increase percentage. Such application shall also include
+14 (i) a statement of the number of persons who will, on the rent commence-
+15 ment date, be employed in the eligible premises, (ii) a statement of the
+16 location of all commercial space in the city of New York occupied by the
+17 tenant prior to the execution of the lease for the eligible premises,
+18 (iii) the commencement and expiration dates of all leases for eligible
+19 premises, and (iv) the aggregate floor area of the eligible building.
+20 Such application shall also state that the applicant agrees to comply
+21 with and be subject to the rules issued from time to time by the depart-
+22 ment of finance.
+23 4. Within one hundred eighty days following the lease commencement
+24 date, the applicant shall provide, in addition to any other information
+25 required by the department of finance, evidence acceptable to the
+26 department of finance of the number of employees in the eligible prem-
+27 ises. The department of finance shall issue a certificate of abatement
+28 upon determining that the applicant has submitted proof acceptable to
+29 the department of finance that the applicant has met the requirements
+30 set forth in this title.
+31 5. The burden of proof shall be on the applicant to show by clear and
+32 convincing evidence that the requirements for granting a certificate of
+33 abatement have been satisfied. The department of finance shall have the
+34 authority to require that statements in connection with such application
+35 be made under oath.
+36 6. The department of finance may provide by rule for reasonable admin-
+37 istrative charges or fees necessary to defray expenses in administering
+38 the abatement program provided by this title.
+39 § 499-eeeeee. Enforcement and administration. The department of
+40 finance shall have, in addition to any other functions, powers and
+41 duties which have been or may be conferred on it by law, the following
+42 functions, powers and duties:
+43 1. To receive and review applications for certificates of abatement
+44 under this title and issue such certificates where authorized pursuant
+45 to this title.
+46 2. To receive all certificates of continuing eligibility required by
+47 section four hundred ninety-nine-ffffff of this title.
+48 3. To collect all real property taxes, with interest and penalty, due
+49 and owing as a result of reduction, termination or revocation of any
+50 abatement granted pursuant to this title.
+51 4. To make and promulgate rules to carry out the purposes of this
+52 title.
+53 § 499-ffffff. Reporting requirements; revocation of abatements. 1.
+54 For the duration of the applicant's benefit period, the applicant shall
+55 file annually with the department of finance, on or before July first of
+56 each year, a certificate of continuing eligibility confirming that the
+
+A. 7996--A 8
+1 eligible premises are occupied by the tenant who originally executed the
+2 lease and that the eligible premises are being used for the purposes
+3 described in the application. Such certificate of continuing eligibil-
+4 ity shall be on a form prescribed by the department of finance and shall
+5 contain such additional information as the department of finance shall
+6 require. The department of finance shall have the authority to terminate
+7 abatements granted pursuant to this title upon failure of an applicant
+8 to file such certificate by such July first date. The burden of proof
+9 shall be on the applicant to establish continuing eligibility for bene-
+10 fits and the department of finance shall have the authority to require
+11 that statements made in such certificate shall be made under oath.
+12 2. The department of finance shall revoke any abatement granted pursu-
+13 ant to this title when the tenant who originally executed the lease is
+14 no longer occupying the eligible premises. Such revocation shall be
+15 retroactive to the date that such tenant vacated the eligible premises
+16 and the department of finance shall require the landlord to pay, with
+17 interest, any taxes which become payable as a result of such revocation.
+18 The landlord shall notify the department of finance within thirty days
+19 following the date on which such tenant vacated the eligible premises
+20 and, for failure to comply with this notification requirement, shall be
+21 liable for a penalty calculated for the same period as interest is
+22 calculated pursuant to the preceding sentence.
+23 3. If any portion of the premises for which an abatement has been
+24 granted pursuant to this title ceases to be occupied or used as eligible
+25 premises or is occupied by a subtenant, the department of finance shall
+26 reduce the abatement granted pursuant to this title by an amount equal
+27 to the percentage of such eligible premises which has ceased to be occu-
+28 pied or used as eligible premises or is occupied by a subtenant. Such
+29 reduction shall be retroactive to the date that such premises ceased to
+30 be occupied or used as eligible premises or was occupied by a subtenant,
+31 and the department of finance shall require the landlord to pay, with
+32 interest, any taxes which become payable as a result of such reduction.
+33 The landlord shall notify the department of finance within thirty days
+34 following the date on which the premises ceased to be occupied or used
+35 as eligible premises or was occupied by a subtenant and, for failure to
+36 comply with this notification requirement, shall be liable for penalty
+37 calculated for the same period as interest is calculated pursuant to the
+38 preceding sentence.
+39 4. If, during the benefit period, any real property tax or water or
+40 sewer charge or other lienable charge due and payable with respect to an
+41 eligible building shall remain unpaid for at least one year following
+42 the date upon which such tax or charge became due and payable, all
+43 abatements granted pursuant to this title with respect to such building
+44 shall be revoked, unless within thirty days from the mailing of a notice
+45 of revocation by the department of finance satisfactory proof is
+46 presented to the department of finance that any and all delinquent taxes
+47 and charges owing with respect to such building as of the date of such
+48 notice have been paid in full or are currently being paid in timely
+49 installments pursuant to a written agreement with the department of
+50 finance or other appropriate agency. Any revocation pursuant to this
+51 subdivision shall be effective with respect to real property taxes which
+52 become due and payable following the date of such revocation.
+53 5. The department of finance may deny, reduce, suspend, terminate or
+54 revoke any abatement granted pursuant to this title whenever:
+
+A. 7996--A 9
+1 (a) the landlord or the tenant receiving abatement pursuant to this
+2 title fails to comply with the requirements of this title or the rules
+3 promulgated hereunder; or
+4 (b) an application, certificate, report or other document submitted by
+5 the applicant contains a false or misleading statement as to a material
+6 fact or omits to state any material fact necessary in order to make the
+7 statement therein not false or misleading, and may declare any applicant
+8 who makes such false or misleading statement or omission to be ineligi-
+9 ble for future abatement pursuant to this title for the same or other
+10 property. In addition, the department of finance shall require the
+11 applicant to pay, with penalty and interest, any abatement received
+12 pursuant to this title as a result of such false or misleading statement
+13 or omission of a material fact.
+14 6. Notwithstanding any other provision of this title, the department
+15 of finance shall deny, terminate or revoke any abatement applied for or
+16 granted pursuant to this title upon a determination that the lease
+17 between the landlord and the tenant does not constitute a bona fide
+18 arm's length lease. In making such determination, the department of
+19 finance may consider, among other factors, the relationship, if any,
+20 between the landlord and the tenant and whether the business terms of
+21 such lease are consistent with the business terms generally found in
+22 leases for comparable space.
+23 7. (a) If any person described in the statement required by paragraph
+24 (b) of subdivision six of section four hundred ninety-nine-cccccc of
+25 this title or paragraph (b) of this subdivision is finally adjudicated
+26 by a court of competent jurisdiction to be guilty of any charge listed
+27 in such statement, the department of finance shall revoke the abatement
+28 granted pursuant to this title and shall require the payment, with
+29 interest, of any abatement received pursuant to this title.
+30 (b) The applicant shall, on the certificate of continuing eligibility,
+31 state whether any charges alleging violation by the applicant or any
+32 person owning a substantial interest in the eligible building, or any
+33 officer, director or general partner of the applicant or person owning a
+34 substantial interest in the eligible building, or any person for whom
+35 the applicant or person owning a substantial interest in the eligible
+36 building is an officer, director or general partner, of section two
+37 hundred thirty-five of the real property law or any section of article
+38 one hundred fifty of the penal law or any similar arson law of another
+39 jurisdiction, are pending. For purposes of this paragraph, "substantial
+40 interest" shall have the same meaning as set forth in paragraph (c) of
+41 subdivision six of section four hundred ninety-nine-cccccc of this
+42 title.
+43 § 499-gggggg. Tax lien; interest and penalty. All taxes, with inter-
+44 est, required to be paid retroactively pursuant to this title shall
+45 constitute a tax lien as of the date it is determined such taxes and
+46 interest are owed. All interest shall be calculated from the date the
+47 taxes would have been due but for the abatement granted pursuant to this
+48 title at the applicable rate or rates of interest imposed by such city
+49 generally for non-payment of real property tax with respect to the
+50 eligible building for the period in question. When a provision of this
+51 title requires the payment of a penalty in addition to interest, the
+52 amount of such penalty shall be equal to the amount of interest that
+53 would have been payable pursuant to such provision had such interest
+54 been calculated at the rate of three percent per annum.
+55 § 499-hhhhhh. Confidentiality. 1. Except in accordance with a proper
+56 judicial order or as otherwise provided by law, it shall be unlawful for
+
+A. 7996--A 10
+1 the commissioner of finance, any officer or employee of the department
+2 of finance, the president or a commissioner or employee of the tax
+3 commission, any person engaged or retained by such department or such
+4 commission on an independent contract basis, or any person who, pursuant
+5 to this title, is permitted to inspect any information submitted by an
+6 applicant to the department of finance pursuant to this title or to whom
+7 a copy, an abstract or a portion of any such information is furnished,
+8 to divulge or make known in any manner any such information to any
+9 person not authorized pursuant to this title to inspect such informa-
+10 tion. The officers charged with custody of such information shall not be
+11 required to produce any of it or evidence of anything contained in it in
+12 any action or proceeding in any court except on behalf of the commis-
+13 sioner of finance in an action or proceeding under the provisions of
+14 this title, or on behalf of any party to any action or proceeding under
+15 the provisions of this title when such information or facts shown there-
+16 by are directly involved in such action or proceeding, in either of
+17 which events the court may require the production of, and may admit in
+18 evidence so much of such information or of the facts shown thereby, as
+19 are pertinent to the action or proceeding and no more. Nothing herein
+20 shall be construed to prohibit the inspection by the legal represen-
+21 tatives of the department of finance or the tax commission of such
+22 information submitted by any applicant who shall bring an action to
+23 correct an assessment. Nothing herein shall be construed to prohibit
+24 the delivery to an applicant or the applicant's duly authorized repre-
+25 sentative of a certified copy of any information submitted by an appli-
+26 cant to the department of finance pursuant to this title; or to any
+27 agency or any department of any city having a population of one million
+28 or more provided the same is requested for official business; nor to
+29 prohibit the inspection for official business of such information by the
+30 corporation counsel or other legal representatives of a city having a
+31 population of one million or more or by the district attorney of any
+32 county within such city; nor to prohibit the publication of statistics
+33 so classified as to prevent the identification of such information or
+34 particular items thereof. Information submitted by an applicant to the
+35 department of finance pursuant to this title shall not be subject to
+36 disclosure pursuant to article six of the public officers law.
+37 2. Any violation of the provisions of subdivision one of this section
+38 shall be punishable by a fine not exceeding one thousand dollars or by
+39 imprisonment not exceeding one year, or both, at the discretion of the
+40 court, and if the offender be an officer or employee of the department
+41 of finance or of the tax commission, the offender shall be dismissed
+42 from office.
+43 § 3. This act shall take effect immediately.
