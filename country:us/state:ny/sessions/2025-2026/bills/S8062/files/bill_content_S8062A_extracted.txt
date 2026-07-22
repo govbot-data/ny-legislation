@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - S8062A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8062--A
+Cal. No. 399
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sens. WEBB, JACKSON -- read twice and ordered printed, and
+when printed to be committed to the Committee on Energy and Telecommu-
+nications -- recommitted to the Committee on Energy and Telecommuni-
+cations in accordance with Senate Rule 6, sec. 8 -- reported favorably
+from said committee, ordered to first and second report, amended on
+second report, ordered to a third reading, and to be reprinted as
+amended, retaining its place in the order of third reading
+AN ACT to amend the public service law, in relation to establishing a
+usage monitor program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 44 of the public service law is amended by adding a
+2 new subdivision 8 to read as follows:
+3 8. The commission shall require every gas and electric utility corpo-
+4 ration utilizing smart meters to establish a usage monitor program for
+5 the purposes of notifying residential customers when energy usage
+6 exceeds a cost or usage threshold in a given billing period determined
+7 by the residential customer.
+8 a. The usage monitor program shall provide residential customers with
+9 daily updates on their electricity and/or gas usage. This information
+10 shall be viewable to the customer on the gas and/or electricity utility
+11 corporation website within a customer's online account. Participating
+12 residential customers shall be able to utilize within their customer
+13 account a function to set a monthly usage threshold that is measured in
+14 kilowatt hours (kWh) for electricity service, and therms or hundred
+15 cubic feet (CCF) for gas service.
+16 b. The usage monitor program shall notify residential customers elec-
+17 tronically or by mail when half of their determined energy usage thresh-
+18 old is met, and when their usage threshold exceeds their determined
+19 threshold. This electronic and paper notification shall include an esti-
+20 mate of their monthly bill.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13114-02-6
+
+S. 8062--A 2
+1 c. The usage monitor program shall be an elective program for residen-
+2 tial customers to join.
+3 d. For the purposes of this subdivision, "smart meter" shall mean a
+4 metering device that electronically measures and transmits energy usage
+5 to a utility for the purposes of billing and monitoring.
+6 § 2. This act shall take effect one year after it shall have become a
+7 law.

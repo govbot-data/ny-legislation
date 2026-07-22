@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - S8641A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8641--A
+Cal. No. 684
+IN SENATE
+January 7, 2026
+___________
+Introduced by Sen. MAY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Internet and Technology --
+reported favorably from said committee, ordered to first and second
+report, ordered to a third reading, amended and ordered reprinted,
+retaining its place in the order of third reading
+AN ACT to amend the general business law, in relation to providing
+website and mobile application users the right to refuse non-essential
+cookies
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 39-FFF to read as follows:
+3 ARTICLE 39-FFF
+4 NON-ESSENTIAL COOKIES PRIVACY
+5 Section 899-ss. Definitions.
+6 899-tt. Right to refuse non-essential cookies.
+7 899-uu. Enforcement.
+8 § 899-ss. Definitions. As used in this article, the following terms
+9 shall have the following meanings:
+10 1. "Cookie" means a small text file a web browser creates when a user
+11 visits a website or mobile application.
+12 2. "Essential cookies" means a cookie strictly necessary to maintain
+13 basic website or mobile application functionality, including but not
+14 limited to, security and network management.
+15 3. "Non-essential cookies" means a cookie not required for basic
+16 website or mobile application functionality, including, but not limited
+17 to, data analytics, marketing, and user preferences.
+18 4. "User" means a user of a website or mobile application in New York
+19 state, not acting as an operator, agent, or affiliate of the operator of
+20 such website or mobile application, or any portion thereof.
+21 5. "Operator" means any person, business, organization, or other legal
+22 entity who operates or provides a website or mobile application in which
+23 data concerning residents of New York state is collected, processed,
+24 stored, or otherwise obtained.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14240-02-6
+
+S. 8641--A 2
+1 6. "Consent" means an affirmative act by a user that clearly communi-
+2 cates the user's freely given, specific, and unambiguous authorization
+3 for an act or practice after having been informed, in response to a
+4 specific request from an operator.
+5 § 899-tt. Right to refuse non-essential cookies. 1. An operator shall:
+6 (a) require consent from a user to use any non-essential cookies on a
+7 website or mobile application;
+8 (b) present to the user, in a clear and conspicuous manner, without
+9 additional steps or delay, the option to refuse non-essential cookies.
+10 Such refusal option shall feature a prominent "Reject Non-Essential
+11 Cookies" selection displayed at the same level and in the same config-
+12 uration as a selection to "Accept" or otherwise consent to non-essential
+13 cookies;
+14 (c) provide the user with a continuous mechanism to refuse or disable
+15 non-essential cookies at any time; and
+16 (d) present a privacy notice, in a clear and conspicuous manner, to
+17 the user. Such privacy notice shall:
+18 (i) be clear and prominent in appearance;
+19 (ii) use concise, clear, and plain language;
+20 (iii) explain the role of essential cookies and non-essential cookies;
+21 and
+22 (iv) describe the results of a user's decision to reject non-essential
+23 cookies.
+24 2. It shall be unlawful for an operator to make additional requests
+25 for the use of non-essential cookies after a user's initial rejection of
+26 non-essential cookies, unless such user later seeks to consent to non-
+27 essential cookies or enables a feature that requires additional cookies.
+28 § 899-uu. Enforcement. On or after the effective date of this article,
+29 whenever it appears to the attorney general, upon complaint or other-
+30 wise, that any operator, within or outside the state, has violated the
+31 provisions of this article, the attorney general may bring an action or
+32 special proceeding in the name and on behalf of the people of the state
+33 of New York to enjoin any such violation, to obtain restitution of any
+34 moneys or property obtained directly or indirectly by any such
+35 violation, to obtain disgorgement of any profits or gains obtained
+36 directly or indirectly by any such violation, to obtain damages caused
+37 directly or indirectly by any such violation, to obtain civil penalties
+38 of up to five thousand dollars per violation, and to obtain any such
+39 other and further relief as the court may deem proper, including prelim-
+40 inary relief.
+41 § 2. This act shall take effect on the ninetieth day after it shall
+42 have become a law. Effective immediately, the addition, amendment and/or
+43 repeal of any rule or regulation necessary for the implementation of
+44 this act on its effective date are authorized to be made and completed
+45 on or before such effective date.

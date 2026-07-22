@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - S825B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+825--B
+Cal. No. 869
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. LIU, HARCKHAM, C. RYAN -- read twice and ordered
+printed, and when printed to be committed to the Committee on Labor --
+recommitted to the Committee on Labor in accordance with Senate Rule
+6, sec. 8 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee -- reported favorably from
+said committee, ordered to first and second report, ordered to a third
+reading, passed by Senate and delivered to the Assembly, recalled,
+vote reconsidered, restored to third reading, amended and ordered
+reprinted, retaining its place in the order of third reading
+AN ACT to amend the labor law and the estates, powers and trusts law, in
+relation to establishing protections for minors who are featured in
+compensated video content
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The article heading of article 4-A of the labor law, as
+2 added by chapter 630 of the laws of 2003, is amended to read as follows:
+3 [EMPLOYMENT AND EDUCATION OF] CHILD PERFORMERS
+4 AND MINORS FEATURED IN COMPENSATED VIDEO CONTENT
+5 § 2. Section 150 of the labor law is amended by adding four new subdi-
+6 visions 9, 10, 11 and 12 to read as follows:
+7 9. "Online platform" shall mean any public-facing website, web appli-
+8 cation, or digital application, including a mobile application. "Online
+9 platform" includes a social network, advertising network, mobile operat-
+10 ing system, search engine, email service, or Internet access service.
+11 10. "Content creator" shall mean an individual that creates video
+12 content, performed in the state, in exchange for compensation, and
+13 includes any sole proprietorship, partnership, company, or other corpo-
+14 rate entity assuming the name or identity of a particular individual for
+15 the purposes of that content creation. "Content creator" shall not mean
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02531-07-6
+
+S. 825--B 2
+1 any person under the age of eighteen who produces their own pieces of
+2 video content.
+3 11. "Compensated video content" shall mean video content shared on an
+4 online platform that meets either of the following criteria:
+5 (a) the number of views received per video segment meets the online
+6 platform's threshold for the generation of compensation; or
+7 (b) the content creator received actual compensation for the video
+8 segment at a rate greater than or equal to ten cents per view.
+9 12. "Featured minor" shall mean a minor under the age of eighteen
+10 whose likeness, name, or photograph was included in at least thirty
+11 percent of a content creator's compensated video content produced within
+12 a thirty-day period at any time during the previous twelve-month period.
+13 Content percentage shall be measured by comparing the length of time
+14 that the likeness, name, or photograph of the minor visually appears in
+15 a video segment to the total length of time of such segment. "Featured
+16 minor" shall not mean a child performer for the purposes of this arti-
+17 cle.
+18 § 3. Section 154-a of the labor law is renumbered section 156 and a
+19 new section 155 is added to read as follows:
+20 § 155. Minors featured in compensated video content. 1. Every content
+21 creator whose compensated video content includes one or more featured
+22 minors shall establish a minor content creator trust account pursuant to
+23 the provisions of section 7-7.2 of the estates, powers and trusts law
+24 for each such minor.
+25 2. All content creators whose compensated video content includes one
+26 or more featured minors shall maintain the following records and shall
+27 provide them to each minor on an ongoing basis:
+28 (a) the name and documentary proof of the age of the featured minor;
+29 (b) the number of segments of compensated video content during the
+30 reporting period;
+31 (c) the total number of minutes from compensated video content that
+32 included the featured minor during the reporting period;
+33 (d) the total number of minutes in which the likeness, name, or photo-
+34 graph of the featured minor visually appeared in compensated video
+35 content during the reporting period;
+36 (e) the total compensation generated from compensated video content
+37 that included the featured minor during the reporting period; and
+38 (f) the amount deposited into the trust account for the benefit of the
+39 featured minor, as required by section 7-7.2 of the estates, powers and
+40 trusts law.
+41 3. If a content creator whose compensated video content includes one
+42 or more featured minors fails to maintain the records as provided in
+43 subdivision three of this section, the minor may commence a civil action
+44 to enforce the provisions of this section.
+45 4. (a) Featured minors thirteen years of age or older may request
+46 permanent deletion from an online platform of any compensated video
+47 content in which their likeness, name, or photograph visually appeared.
+48 Online platforms shall have an easily accessible form available online
+49 for submission of the deletion request.
+50 (b) An online platform that receives a deletion request shall remove
+51 and permanently delete the content for which the request was made within
+52 seven days after the request was submitted.
+53 (c) Any contract between a content creator and an online platform that
+54 would reasonably be anticipated to feature a minor child shall include
+55 notification from the online platform of the rights under this subdivi-
+56 sion.
+
+S. 825--B 3
+1 5. If the commissioner finds that a content creator or online platform
+2 has violated any relevant provision of this section or any rule or regu-
+3 lation promulgated thereunder, the commissioner may commence a civil
+4 action to enforce the provisions of this section.
+5 § 4. The estates, powers and trusts law is amended by adding a new
+6 section 7-7.2 to read as follows:
+7 § 7-7.2 Minor content creator trust account
+8 1. As used in this section, the terms "content creator", "compensated
+9 video content", and "featured minor" shall have the same meanings as
+10 defined in section one hundred fifty of the labor law.
+11 2. Content creators whose compensated video content includes one or
+12 more featured minors shall set aside a percentage of gross earnings from
+13 such content in a trust account to be preserved for the benefit of the
+14 featured minor upon reaching the age of majority, according to the
+15 following distribution:
+16 (a) where only one featured minor is included in compensated video
+17 content, the percentage of total gross earnings on any video segment
+18 shall be equal to the percentage of the video segment that includes the
+19 likeness, name, or photograph of the minor as described in subdivision
+20 twelve of section one hundred fifty of the labor law; or
+21 (b) where more than one featured minor is included in a segment of
+22 compensated video content, the percentage described in paragraph (a) of
+23 this subdivision for all featured minors in any segment shall be equally
+24 divided between the featured minors, regardless of differences in
+25 percentage of time such minors were featured.
+26 3. A trust account required under this section shall provide, at a
+27 minimum, the following:
+28 (a) that the funds in the account shall be available only to the
+29 featured minor;
+30 (b) that the account shall be held by a bank or trust company, as
+31 those terms are defined in section two of the banking law;
+32 (c) that the funds in the account shall become available to the
+33 featured minor upon the featured minor attaining the age of eighteen
+34 years or until the featured minor is declared emancipated; and
+35 (d) that the account meets the requirements of part six of this arti-
+36 cle.
+37 4. If a content creator knowingly or recklessly violates this section,
+38 a featured minor may commence an action to enforce the provisions of
+39 this section regarding the trust account. The court may award, to a
+40 featured minor who prevails in any action brought in accordance with
+41 this section, the following damages:
+42 (a) actual damages;
+43 (b) punitive damages; and
+44 (c) the costs of the action, including attorney's fees and litigation
+45 costs.
+46 5. If the commissioner of labor finds that a content creator knowingly
+47 or recklessly violates this section, the commissioner of labor may
+48 commence an action on behalf of the featured minor to enforce the
+49 provisions of this section regarding the trust account. The commissioner
+50 of labor may recover costs and fees that result from this action.
+51 6. This section shall not affect any right or remedy available under
+52 any other law of the state.
+53 7. Nothing contained in this section shall be interpreted to have any
+54 effect on a party that is neither the content creator nor the featured
+55 minor.
+
+S. 825--B 4
+1 § 5. Subdivision 2 of section 130 of the labor law is amended by
+2 adding a new paragraph i to read as follows:
+3 i. A minor under fourteen years of age featured in compensated video
+4 content in compliance with section one hundred fifty-five of this chap-
+5 ter.
+6 § 6. Subdivision 3 of section 131 of the labor law, as amended by
+7 chapter 975 of the laws of 1996, is amended by adding a new paragraph h
+8 to read as follows:
+9 h. Nothing in this section shall be construed to prohibit a minor
+10 fourteen or fifteen years of age from being featured in compensated
+11 video content in compliance with section one hundred fifty-five of this
+12 chapter.
+13 § 6-a. Subdivision 3 of section 131 of the labor law, as amended by
+14 section 3 of part X of chapter 56 of the laws of 2025, is amended by
+15 adding a new paragraph f to read as follows:
+16 f. Nothing in this section shall be construed to prohibit a minor
+17 fourteen or fifteen years of age from being featured in compensated
+18 video content in compliance with section one hundred fifty-five of this
+19 chapter.
+20 § 7. Subdivision 3 of section 132 of the labor law is amended by
+21 adding a new paragraph g to read as follows:
+22 g. Nothing in this section shall be construed to prohibit a minor
+23 sixteen or seventeen years of age from being featured in compensated
+24 video content in compliance with section one hundred fifty-five of this
+25 chapter.
+26 § 8. This act shall take effect on the ninetieth day after it shall
+27 have become a law; provided, however, that the amendments to subdivision
+28 3 of section 131 of the labor law made by section six-a of this act
+29 shall take effect on the same date and in the same manner as section 3
+30 of part X of chapter 56 of the laws of 2025 takes effect. Effective
+31 immediately, the addition, amendment and/or repeal of any rule or regu-
+32 lation necessary for the implementation of this act on its effective
+33 date are authorized to be made and completed on or before such effective
+34 date.

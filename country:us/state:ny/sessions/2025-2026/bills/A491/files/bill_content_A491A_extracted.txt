@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - A491A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+491--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. WOERNER, GRIFFIN -- read once and referred to the
+Committee on Energy -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the public service law, in relation to building make-
+ready electrical infrastructure for the charging of electric vehicles
+for public serving fleet vehicles
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 66-x to read as follows:
+3 § 66-x. Make-ready electrical infrastructure. 1. Legislative intent
+4 and purpose. It is the intent and purpose of this section to implement
+5 cost effective and unified treatment by electric corporations of elec-
+6 trical distribution infrastructure, and certain customer-owned make-
+7 ready infrastructure, needed to charge electric public serving fleet
+8 vehicles; and provide for certain costs of such infrastructure to be
+9 included in electric corporations' rate bases and generally recovered
+10 through rates or surcharges, instead of directly from the public serving
+11 fleet customers served by such infrastructure. Nothing in this section
+12 shall modify any obligation of an electric corporation to provide a full
+13 and accurate accounting of costs related to electrical distribution
+14 infrastructure needed to charge electric vehicles.
+15 2. Definitions. For the purposes of this section the following terms
+16 shall have the following meanings:
+17 (a) "Electrical distribution infrastructure" means any utility facili-
+18 ties used to distribute electric service to customers, and includes
+19 poles, vaults, service drops, transformers, mounting pads, trenching,
+20 conduit, wire, cable, meters, other equipment as necessary, and associ-
+21 ated engineering and civil construction work.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00265-03-5
+
+A. 491--A 2
+1 (b) "Utility-owned make-ready costs" means any capital investment in
+2 electrical distribution infrastructure needed to connect and serve a new
+3 electric vehicle charger, including step down transformers, overhead
+4 service lines, and utility meters.
+5 (c) "Customer-owned make-ready costs" means any capital investment in
+6 equipment or infrastructure beyond the utility service point necessary
+7 to make a site ready to accept an electric vehicle charger, including
+8 conductors, trenching, and panels.
+9 (d) "Disadvantaged community" means a community defined as a disadvan-
+10 taged community under article seventy-five of the environmental conser-
+11 vation law.
+12 (e) "Public serving fleet" means a fleet of vehicles owned, leased, or
+13 contracted by the state, any municipality, public authority or school
+14 district.
+15 3. Reasonable efforts required. Electric corporations shall make
+16 reasonable efforts to ensure that any infrastructure built pursuant to
+17 this section is efficiently sized and operated. Such efforts may
+18 include, but not be limited to, considering customers' reasonably fore-
+19 seeable load management activities and deployments of distributed energy
+20 resources.
+21 4. Application. No later than sixty days after the effective date of
+22 this section, all electric corporations shall file an application with
+23 the commission to establish a tariff that shall replace the line exten-
+24 sion rules currently used by such electric corporations. Such tariff, at
+25 a minimum, shall:
+26 (a) provide for such electric corporation to deploy or reimburse the
+27 customer's reasonable costs, subject to reasonable conditions, of
+28 customer-side make-ready infrastructure for public serving fleets;
+29 (b) authorize such electric corporation to include in its rate base
+30 one hundred percent of all reasonable and prudent utility-owned make-
+31 ready costs incurred to serve electric vehicle charging loads of public
+32 serving fleets;
+33 (c) authorize such electronic corporation to include in its base rate
+34 of reasonable and prudent customer-side make-ready costs needed to
+35 prepare a public serving fleet's site for electric vehicle charging in
+36 the following manner:
+37 (i) a minimum fifty percent or higher where authorized by the commis-
+38 sion, of reasonable customer-owned make-ready costs in locations that
+39 are not within a disadvantaged community or a disadvantaged community
+40 zone;
+41 (ii) a minimum ninety percent, or higher where authorized by the
+42 commission, of reasonable customer-owned make-ready costs located within
+43 a disadvantaged community or disadvantaged community zone; and
+44 (d) provide that the portion of customer-owned make-ready costs
+45 included in the electric corporation's rate base shall not be charged
+46 directly or solely to the customer served by such make-ready infrastruc-
+47 ture; except where the customer is not a public entity, and within ten
+48 years of receiving a customer-side make-ready incentive at a location
+49 pursuant to this section, reduces the number of electric public serving
+50 fleet vehicles operating at such location. The tariff shall provide for
+51 the electric corporation to recover a prorated portion of the customer-
+52 side make-ready incentive directly from the customer in such instance.
+53 5. Disadvantaged community zone. For the purposes of this section the
+54 commission shall define the term "disadvantaged community zone".
+55 6. Cost treatment and recovery for utility-owned make-ready costs. All
+56 electric corporations shall maintain budgets for its costs incurred
+
+A. 491--A 3
+1 under this section. The portion of customer-owned make-ready costs
+2 incurred by an electric corporation pursuant to subdivision four of this
+3 section shall be treated in accordance with a depreciation or amorti-
+4 zation schedule as authorized by the commission. Any electric corpo-
+5 ration may recover the incremental revenue requirement associated with
+6 such costs through a surcharge mechanism until its base rates are reset.
+7 Any electric corporation seeking to recover such costs through a
+8 surcharge mechanism shall include such proposal as part of its applica-
+9 tion filed pursuant to subdivision four of this section.
+10 7. Approval of tariffs. The commission shall, after notice and oppor-
+11 tunity for public comment and within ninety days of the filing of the
+12 tariff, approve, or modify and approve, such tariff.
+13 § 2. This act shall take effect immediately.

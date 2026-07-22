@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - A1778B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1778--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 14, 2025
+___________
+Introduced by M. of A. RAJKUMAR -- read once and referred to the Commit-
+tee on Governmental Employees -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee --
+again reported from said committee with amendments, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the administrative code of the city of New York, in
+relation to granting members of the city's police force eligibility
+for retirement and pension based on previous service as traffic
+enforcement agents
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The administrative code of the city of New York is amended
+2 by adding a new section 13-633 to read as follows:
+3 § 13-633 Transfer of members of the New York city police department
+4 from traffic enforcement to the police force. a. The time served as a
+5 member of the city's traffic enforcement who has become a member of the
+6 uniformed force of the police department of the city, whether by trans-
+7 fer or as a result of a competitive examination and appointment, and who
+8 is still a member of the uniformed force of the police department of the
+9 city, shall be included and counted as police service as defined in
+10 section 13-214 of this title in determining retirement and pension bene-
+11 fits as provided in this code and the retirement and social security law
+12 if such person becomes a member of a state or city retirement system
+13 available to members of the police department of the city, provided,
+14 however, that no person becoming a member of the uniformed force of the
+15 police department of the city in the manner herein provided, shall be
+16 entitled to participate in the benefits of a state or city retirement
+17 system available to members of the police department of the city, unless
+18 such person shall pay into such fund the total sum that such person
+19 would have been required to pay in order to participate therein had such
+20 person been a member of such force from the time they entered the
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02377-04-5
+
+A. 1778--B 2
+1 service of traffic enforcement. These provisions shall not be subject to
+2 any restriction relative to transfers contained in the civil service law
+3 or in the rules and regulations of the civil service commission of the
+4 state, or any subdivision thereof.
+5 b. Notwithstanding any other provisions of law, a member of the New
+6 York city police department shall be entitled to buy back and receive
+7 service credit for the period of time such member was previously
+8 employed as a New York city traffic enforcement agent pursuant to subdi-
+9 vision a of this section.
+10 § 2. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would deem certain prior service
+rendered as a traffic enforcement agent with the New York City Police
+Department, that was purchased or transferred into the New York City
+Police Pension Fund (POLICE), as uniformed service for purposes of
+determining the eligibility and amount of POLICE retirement benefits.
+EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Millions)
+Year NYC
+2026 11.3
+2027 11.2
+2028 11.4
+2029 11.6
+2030 11.8
+2031 12.1
+2032 12.3
+2033 12.6
+2034 13.1
+2035 13.6
+2036 14.0
+2037 14.3
+2038 3.7
+2039 4.1
+2040 4.6
+2041 4.9
+2042 5.3
+2043 5.8
+2044 6.3
+2045 6.7
+2046 7.2
+2047 7.8
+2048 8.4
+2049 9.1
+2050 9.8
+Projected contributions include future new hires that may be impacted.
+For Fiscal Year 2051 and beyond, the expected increase in normal cost as
+a level percent of pay for impacted new entrants is approximately 1.62%
+for each year of traffic enforcement service transferred.
+The entire increase in employer contributions will be allocated to New
+York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+
+A. 1778--B 3
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2024 ($ in Millions)
+Present Value (PV) NYC
+(1) PV of Employer Contributions: 65.0
+(2) PV of Employee Contributions: (1.0)
+Total PV of Benefits (1) + (2): 64.0
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+Changes in UAL were amortized over the expected remaining working life-
+time of those impacted using level dollar payments.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+NYC
+Increase (Decrease) in UAL: 84.5 M
+Number of Payments: 12
+Amortization Payment: 11.0 M
+CENSUS DATA: The estimates presented herein are based on preliminary
+census data collected as of June 30, 2024 and was supplemented with data
+previously provided by the New York City Police Department and the
+Police Benevolent Association. The census data for the impacted popu-
+lation is summarized below.
+POLICE
+Active Members
+- Number Count: 847
+- Average Age: 38.0
+- Average Service: 11.1
+- Average Traffic Enforcement
+Service: 3.3
+- Average Salary: 119,400
+IMPACT ON MEMBER BENEFITS: Currently, Tier 2 members of POLICE receive
+a benefit based on 75% of 1/60th times the member's average earnings
+over their last five years of service for each year of non-uniformed
+civilian service, such as prior traffic enforcement agent service. Tier
+3 members generally receive no additional benefit for non-uniformed
+civilian service.
+Under the proposed legislation, periods of qualifying prior non-uni-
+formed service rendered as a traffic enforcement agent, that are
+purchased or transferred, would be classified as Allowable Service in
+the police force and therefore be included in the minimum service
+required for eligibility and payment of an unreduced service retirement
+benefit for all tiers.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems. In addition:
+* New entrants were assumed to replace exiting members so that total
+payroll increases by 3% each year for impacted groups. New entrant demo-
+
+A. 1778--B 4
+graphics were developed based on data for recent new hires and actuarial
+judgement.
+* Each year, 2.5% of new entrants are assumed to purchase an average
+of 3.0 years of prior service. For the purposes of this Fiscal Note, new
+entrant costs have been shown assuming that the entirety of the cost
+would be funded via normal cost.
+To determine the impact of the elective nature of the proposed legis-
+lation, a subgroup of eligible members was developed based on who is
+assumed to benefit actuarially by comparing the net present value impact
+of future employer costs of each member's benefit before and after the
+transfer or purchase of traffic enforcement agent service.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2025-34 dated March 27,
+2025 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2025
+Legislative Session.

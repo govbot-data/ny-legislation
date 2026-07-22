@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - A10953A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10953--A
+IN ASSEMBLY
+April 14, 2026
+___________
+Introduced by M. of A. PAULIN -- read once and referred to the Committee
+on Health -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the public health law, in relation to directing the
+department of health to collect certain data from entities regarding
+calls and dispatches for emergency medical services
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 3011 of the public health law is amended by adding
+2 a new subdivision 1-a to read as follows:
+3 1-a. The department shall collect, from all relevant entities subject
+4 to the provisions of this article and from designated public safety
+5 answering points to receive 911 service calls in the state, including
+6 but not limited to the state police and the office of homeland security,
+7 and provide an analysis of the following data elements including, but
+8 not limited to:
+9 a. the actual number and percentage of all dispatches for emergency
+10 medical services in their primary service operating territory;
+11 b. the actual number and percentage of all dispatches for emergency
+12 medical services in their primary service operating territory excluding
+13 interfacility non-emergency trips;
+14 c. the number and percentages of dispatches made pursuant to a mutual
+15 aid agreement, aggregated by city, county, town and village across the
+16 state;
+17 d. the timelines and standards for dispatches made pursuant to a mutu-
+18 al aid agreement, aggregated by city, county, town and village across
+19 the state;
+20 e. the response times for each dispatch for each public service
+21 answering point across the state;
+22 f. the number of full-time equivalents for each EMS program agency
+23 including paid and volunteer positions;
+24 g. the time dispatch, the time enroute, and time to arrive at the
+25 scene of life threatening calls for emergency medical services; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15381-05-6
+
+A. 10953--A 2
+1 h. the time dispatch, the time enroute, and time to arrive at the
+2 scene of all calls for emergency medical services.
+3 § 2. This act shall take effect on the one hundredth day after it
+4 shall have become a law.

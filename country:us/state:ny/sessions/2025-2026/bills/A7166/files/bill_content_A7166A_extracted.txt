@@ -1,0 +1,601 @@
+Title: 
+Official Title: 
+Source: versions - A7166A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7166--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 21, 2025
+___________
+Introduced by M. of A. BICHOTTE HERMELYN -- read once and referred to
+the Committee on Environmental Conservation -- recommitted to the
+Committee on Environmental Conservation in accordance with Assembly
+Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the environmental conservation law and the state finance
+law, in relation to the proper collection and disposal of mercury
+thermostats; and to amend chapter 550 of the laws of 2013, amending
+the environmental conservation law relating to establishing the mercu-
+ry thermostat collection act, in relation to the effectiveness thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Title 29 of article 27 of the environmental conservation
+2 law, as added by chapter 550 of the laws of 2013, is amended to read as
+3 follows:
+4 TITLE 29
+5 MERCURY THERMOSTAT COLLECTION ACT
+6 § 27-2901. Definitions.
+7 1. "Collection program" means a system for the collection, transporta-
+8 tion, recycling, and disposal of out-of-service mercury thermostats that
+9 is financed and managed or provided by a thermostat manufacturer indi-
+10 vidually or collectively with other thermostat manufacturers in accord-
+11 ance with this section.
+12 2. "Producer responsibility organization" means a not-for-profit
+13 organization established by a thermostat manufacturer or group of ther-
+14 mostat manufacturers to implement an out-of-service mercury thermostat
+15 collection program.
+16 3. "Collection site" means a location accepting mercury thermostats as
+17 part of a mercury thermostat collection program.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11030-03-6
+
+A. 7166--A 2
+1 4. "Contractor" means a person engaged in the business of installa-
+2 tion, service or removal of heating, ventilation, and air-conditioning
+3 components in this state.
+4 5. "Mercury thermostat" means a product or device that uses a mercury
+5 switch to sense and control room temperature through communication with
+6 heating, ventilation, or air-conditioning equipment and includes thermo-
+7 stats used to sense and control room temperature in residential, commer-
+8 cial, industrial and other buildings but does not include a thermostat
+9 used to sense and control temperature as part of a manufacturing proc-
+10 ess.
+11 [3.] 6. "Out-of-service mercury thermostat" means a mercury thermostat
+12 that is removed, replaced or otherwise taken out of service in this
+13 state.
+14 [4. "Qualified contractor" means a person engaged in the business of
+15 installation, service or removal of heating, ventilation, and air-condi-
+16 tioning components who employs seven or more service technicians or
+17 installers.
+18 5.] 7. "Qualified local government [authorities] authority" means any
+19 municipal corporation or planning unit as defined in section 27-0107 of
+20 this article, or county departments of health.
+21 [6.] 8. "Thermostat" means a product or device that senses and
+22 controls room temperature through communication with heating, ventilat-
+23 ing, or air-conditioning equipment. "Thermostat" includes a thermostat
+24 used to sense and control room temperature in residential, commercial,
+25 industrial, and other buildings, but does not include a thermostat used
+26 to sense and control temperature as part of a manufacturing process.
+27 9. "Thermostat manufacturer" means a person who owns or owned a name
+28 brand of one or more mercury thermostats sold in the state.
+29 [7.] 10. "Thermostat retailer" means a person who sells thermostats of
+30 any kind primarily to homeowners or other nonprofessionals through any
+31 sale or distribution mechanism including sales using the internet or
+32 catalogs.
+33 [8.] 11. "Thermostat wholesaler" means a person who is engaged in the
+34 distribution and wholesale selling of heating, ventilation or air-condi-
+35 tioning components, including thermostats, to contractors, and whose
+36 total wholesale sales account for eighty percent or more of its total
+37 sales. A thermostat manufacturer is not, by virtue of manufacturing, a
+38 thermostat wholesaler.
+39 § 27-2903. [Mercury-containing] Mercury thermostat collection program
+40 requirements.
+41 1. [Each] No later than one hundred eighty days after the effective
+42 date of the chapter of the laws of two thousand twenty-six which amended
+43 this section, each thermostat manufacturer [shall], either individually
+44 [or collectively, with other thermostat manufacturers, establish and
+45 maintain a] or through a producer responsibility organization, shall
+46 submit to the department for the department's approval a plan for the
+47 establishment, implementation, maintenance, and promotion of a
+48 collection program for the collection, transportation, recycling,
+49 disposal and proper management of out-of-service mercury thermostats in
+50 accordance with the provisions of subdivision seven of this section.
+51 2. [Each] A thermostat manufacturer or producer responsibility organ-
+52 ization operating an existing out-of-service mercury thermostat
+53 collection program in the state on the effective date of the chapter of
+54 the laws of two thousand twenty-six which amended this section shall
+55 continue to implement such program until a proposed collection program
+
+A. 7166--A 3
+1 outlined in the plan required by subdivision one of this section is
+2 approved and implemented.
+3 3. The department shall approve or reject a plan submitted under this
+4 section within sixty days of submission and, if rejected, inform the
+5 manufacturer or group of manufacturers or producer responsibility organ-
+6 ization in writing as to any deficiencies of the submitted plan. A
+7 rejected plan shall be amended and resubmitted for approval within sixty
+8 days of notification of the rejection of the submitted plan. The depart-
+9 ment shall approve or reject an amended plan within thirty days of
+10 resubmission.
+11 4. No later than three months after the plan is approved under subdi-
+12 vision three of this section, each thermostat manufacturer [shall],
+13 either individually or [collectively with other thermostat manufacturers
+14 through a collection program, do the following:] through participation
+15 in a producer responsibility organization, shall implement an out-of-
+16 service mercury thermostat collection program.
+17 5. The out-of-service mercury thermostat collection program shall not
+18 include any fees or other charges to consumers, contractors or persons
+19 using the collection program. Each thermostat wholesaler, contractor,
+20 qualified local government authority, or thermostat retailer that is
+21 provided with one or more collection containers may only be charged a
+22 fee not to exceed twenty-six dollars to replace any collection container
+23 that is misplaced, stolen or otherwise lost.
+24 6. The out-of-service mercury thermostat collection program shall
+25 provide for an incentive to a contractor or New York state real property
+26 owner of no less than twenty dollars per out-of-service mercury thermo-
+27 stat collected in this state, and educate contractors and New York state
+28 real property owners on the availability of the incentive. A collection
+29 incentive shall be available only to a contractor or to a New York state
+30 real property owner that attests, under penalty of perjury, that the
+31 returned out-of-service mercury thermostat was removed from a building
+32 or facility in the state of New York. Such incentive shall be provided
+33 by a thermostat manufacturer or producer responsibility organization.
+34 Such incentive shall be the financial responsibility of the manufacturer
+35 or producer responsibility organization, as appropriate.
+36 7. Each thermostat manufacturer or producer responsibility organiza-
+37 tion shall submit a plan for the out-of-service mercury thermostat
+38 collection program required under subdivision one of this section, that
+39 shall, at a minimum:
+40 (a) [On and after July first, two thousand fourteen, compile a]
+41 Include a list of thermostat wholesalers in the state and [offer each
+42 thermostat wholesaler containers] provide a detailed description of how
+43 the manufacturer or producer responsibility organization will make
+44 collection containers for the collection of out-of-service mercury ther-
+45 mostats available to each thermostat wholesaler location.
+46 (b) [On and after July first, two thousand fourteen,] Include a
+47 detailed description of how the manufacturer or producer responsibility
+48 organization will make collection containers available to all [quali-
+49 fied] contractors, [thermostat wholeslers,] thermostat retailers, and
+50 qualified local government authorities that request a container. Each
+51 thermostat manufacturer or producer responsibility organization shall
+52 with each container include information regarding the proper management
+53 of out-of-service mercury thermostats.
+54 (c) [Establish a] Include a detailed description of the proposed
+55 system to collect, transport, recycle, dispose and properly manage out-
+56 of-service mercury thermostats from all collection sites.
+
+A. 7166--A 4
+1 (d) [Not include any fees or other charges to consumers or persons
+2 participating in the program. Each thermostat wholesaler, qualified
+3 contractor, qualified local government authority, or thermostat retailer
+4 that is provided with one or more collection containers may be charged a
+5 fee not to exceed twenty-six dollars to replace any collection container
+6 that is misplaced, stolen or otherwise lost.] Provide details on the
+7 process to submit and receive the out-of-service mercury thermostat
+8 collection incentive as required by subdivision six of this section.
+9 (e) [Beginning July first, two thousand fourteen, conduct] Provide
+10 details on how the collection program will comply with the outreach and
+11 education requirements of subdivision eight of this section.
+12 (f) Provide details on how the collection program will comply with the
+13 convenience requirements of subdivision nine of this section.
+14 (g) Provide fiscal accounting details on how the incentive will be
+15 provided as required by subdivision six of this section.
+16 (h) Provide any other information required by the department.
+17 8. Each thermostat manufacturer or producer responsibility organiza-
+18 tion shall implement an out-of-service mercury thermostat collection
+19 program that provides for continuous education and outreach [efforts,]
+20 including, but not limited to the following:
+21 [(i) establish and maintain a public website for the dissemination of
+22 educational materials to promote the collection of out-of-service mercu-
+23 ry thermostats. This website shall include templates of the educational
+24 materials on the internet website in a form and format that can be easi-
+25 ly downloaded and printed. The link to this website shall be provided to
+26 the department;
+27 (ii) contact thermostat wholesalers at least once a year to encourage
+28 their support and participation in educating customers on the importance
+29 of statutory requirements for the collection and proper management of
+30 out-of-service mercury thermostats;
+31 (iii) create and maintain a web-based program that allows contractors
+32 and consumers to identify collection sites for out-of-service mercury
+33 thermostats in the state and provide a list of collection sites to the
+34 department; and
+35 (iv) develop informational articles, press releases, and news stories
+36 pertaining to the importance of and opportunities for collecting and
+37 recycling out-of-service mercury thermostats and distribute those mate-
+38 rials to trade publications, local media, and stakeholder groups.
+39 (f) On or before July first, two thousand fourteen, develop and update
+40 as necessary educational and other outreach materials for distribution
+41 to contractors, contractor associations and consumers. These materials
+42 shall be made available for use by participating thermostat wholesalers,
+43 thermostat retailers, contractors, and qualified government authorities.
+44 The materials shall include, but not be limited to, the following:
+45 (i) signage, such as posters and cling signage, that can be prominent-
+46 ly displayed to promote the collection of out-of-service mercury thermo-
+47 stats to contractors and consumers; and
+48 (ii) written materials or templates of materials for reproduction by
+49 thermostat wholesalers and thermostat retailers to be provided to
+50 customers at the time of purchase or delivery of a thermostat. The mate-
+51 rials shall include, but not be limited to, information on the impor-
+52 tance of properly managing out-of-service mercury thermostats and oppor-
+53 tunities for the collection of these thermostats.
+54 (g) Provide an opportunity for the department to review and offer
+55 feedback and suggestions on the collection program.
+
+A. 7166--A 5
+1 3. The collection programs established by thermostat manufacturers
+2 under this section shall be designed to achieve collectively the follow-
+3 ing statewide goals:
+4 (a) For calendar year two thousand fifteen, the collection of no less
+5 than fifteen thousand five hundred out-of-service mercury thermostats;
+6 (b) For calendar years two thousand sixteen through two thousand twen-
+7 ty-three, the collection goals shall be established by the department.
+8 The department shall establish collection goals no later than October
+9 first, two thousand fifteen. The collection goals established by the
+10 department shall achieve the maximum feasible number of out-of-service
+11 mercury thermostats in the state. In developing the collection goals,
+12 the department shall take into account, at a minimum, (i) the effective-
+13 ness of collection programs for out-of-service mercury thermostats in
+14 the state and other states, including education and outreach efforts,
+15 (ii) collection requirements in other states, including those states
+16 with the highest collection goals, (iii) any reports or studies on the
+17 number of out-of-service mercury thermostats that are available for
+18 collection in this state, other states, and nationally, and (iv) other
+19 relevant factors. Prior to establishing the collection goals, the
+20 department shall consult with stakeholder groups that include, at a
+21 minimum, representatives of thermostat manufacturers, environmental
+22 groups, municipal recyclers, thermostat wholesalers, qualified contrac-
+23 tors, and thermostat retailers.
+24 (c) Thermostat manufacturers shall implement any collection program
+25 revisions approved by the department within ninety days.
+26 4. If the collection programs do not collectively achieve the
+27 collection goals provided for in subdivision three of this section for
+28 calendar year two thousand fifteen or any year thereafter the depart-
+29 ment, after conducting stakeholder consultations, may require modifica-
+30 tions to one or more collection programs that the department determines
+31 are necessary to achieve the collection goals. Modifications required by
+32 the department may include improvements to outreach and education
+33 conducted under the collection program, expansion of the number and
+34 location of collection sites established under the program, modification
+35 of the roles of participants, and a five dollar financial incentive in
+36 the form of either cash or coupon offered by the manufacturer to
+37 contractors and consumers for each out-of-service mercury thermostat
+38 returned to a collection site.
+39 5.] (a) The development, implementation, and updating as necessary, of
+40 a statewide educational and outreach campaign to inform appropriate
+41 entities about the importance of safe recycling and disposal of out-of-
+42 service mercury thermostats, where to find out-of-service mercury ther-
+43 mostat collection sites, and how to submit for and receive the available
+44 out-of-service mercury thermostat collection incentive.
+45 (b) The development, and updating as necessary, of educational and
+46 other outreach materials for distribution to contractors, contractor
+47 associations and consumers. These materials shall be made available by
+48 each thermostat manufacturer or producer responsibility organization for
+49 use by participating thermostat wholesalers, thermostat retailers,
+50 contractors, and qualified local government authorities. The materials
+51 shall include, but not be limited to, the following:
+52 (i) signage, such as posters and cling signage, that can be prominent-
+53 ly displayed to promote the collection of out-of-service mercury thermo-
+54 stats and the available out-of-service mercury thermostat collection
+55 incentive to contractors and New York state real property owners;
+
+A. 7166--A 6
+1 (ii) written materials or templates of materials for reproduction by
+2 thermostat wholesalers and thermostat retailers to be provided to
+3 customers at the time of purchase or delivery of a thermostat. The mate-
+4 rials shall include, but not be limited to, information on the impor-
+5 tance of properly managing out-of-service mercury thermostats, opportu-
+6 nities for the collection of out-of-service mercury thermostats, and
+7 information on the available out-of-service mercury thermostat
+8 collection incentive;
+9 (iii) advertising or other promotional materials, or both, that
+10 include references to out-of-service mercury thermostat collection
+11 opportunities and the available out-of-service mercury thermostat
+12 collection incentive; and
+13 (iv) a public service announcement promoting the proper management of
+14 out-of-service mercury thermostats, and a plan for a public service
+15 campaign using the public service announcement that includes the media
+16 and markets into which the public service announcement is to be distrib-
+17 uted and aired on behalf of the program. Copies of the public service
+18 announcement shall be provided to the department for its use and
+19 promotion.
+20 (c) Establishing and maintaining a public website for the dissem-
+21 ination of educational materials to promote the collection of out-of-
+22 service mercury thermostats. The link to this website shall be provided
+23 to the department. Such website shall include:
+24 (i) templates of the educational materials on the internet website in
+25 a form and format that can be easily downloaded and printed;
+26 (ii) location information, by county, of all established out-of-ser-
+27 vice mercury thermostat collection sites in the state. Location informa-
+28 tion shall be posted and updated in a manner that allows members of the
+29 public to easily identify the most convenient collection site for out-
+30 of-service mercury thermostats; and
+31 (iii) information about obtaining the available out-of-service mercury
+32 thermostat collection incentive.
+33 (d) Creating and maintaining a web-based program that allows contrac-
+34 tors and consumers to identify collection sites for out-of-service
+35 mercury thermostats in the state and provide a list of collection sites
+36 to the department.
+37 (e) An annual visit to each thermostat wholesaler, thermostat retail-
+38 er, and qualified local government authority provided with at least one
+39 collection container to encourage their support and participation in
+40 educating customers on the importance of statutory requirements for the
+41 collection and proper management of out-of-service mercury thermostats.
+42 (f) Developing strategies to work with all of the following to encour-
+43 age their participation in the collection and proper management of out-
+44 of-service mercury thermostats:
+45 (i) State utilities participating in programs involving the replace-
+46 ment of thermostats. These strategies may include the inclusion of an
+47 educational insert in their customers' utility bills.
+48 (ii) Wholesalers of thermostats in the state.
+49 (iii) Retailers and other outlets that sell thermostats directly to
+50 consumers in the state.
+51 (iv) Household hazardous waste collection facilities to partner with
+52 local take-back centers, including retailers and wholesalers, to facili-
+53 tate convenient out-of-service mercury thermostat collection options for
+54 community members.
+55 9. A thermostat manufacturer or its producer responsibility organiza-
+56 tion shall establish a collection program under this section with suffi-
+
+A. 7166--A 7
+1 ciently convenient collection sites and methods in all parts of the
+2 state, including within rural communities, to encourage the collection
+3 of out-of-service mercury thermostats. For purposes of this subdivision,
+4 "sufficiently convenient" means both of the following requirements are
+5 met:
+6 (a) For at least ninety percent of state residents, a collection site
+7 is located within fifteen miles of their residence; and
+8 (b) At least one collection site in each county of the state and in
+9 each municipality with a population of ten thousand or greater.
+10 10. No later than April first, two thousand [fifteen] twenty-seven,
+11 and no later than April first of each year thereafter, each thermostat
+12 manufacturer shall, individually or collectively with other thermostat
+13 manufacturers, submit an annual report on its collection program to the
+14 department covering the one-year period ending December thirty-first of
+15 the previous year. Each report shall be posted on the thermostat
+16 manufacturer's or [program operator's] producer responsibility organiza-
+17 tion's respective internet website. The annual report shall include the
+18 following:
+19 (a) the number of out-of-service mercury thermostats collected and
+20 managed under this section during the previous calendar year;
+21 (b) the estimated total amount of mercury contained in the out-of-ser-
+22 vice mercury thermostats collected under this section during the previ-
+23 ous calendar year;
+24 (c) the number of incentives submitted by contractors and New York
+25 state real property owners and the total dollar amount of incentives
+26 paid to contractors and New York state real property owners;
+27 (d) a list of all thermostat wholesalers, contractors, qualified local
+28 government authorities, and thermostat retailers participating in the
+29 collection program as mercury thermostat collection sites and the number
+30 of out-of-service mercury thermostats returned by each;
+31 [(d)] (e) an accounting of the collection program's administrative
+32 costs;
+33 [(e)] (f) a description of outreach strategies employed under para-
+34 graph [(e)] (f) of subdivision [two] eight of this section;
+35 [(f)] (g) examples of outreach and educational materials used under
+36 paragraph [(e)] (b) of subdivision [two] eight of this section;
+37 [(g)] (h) the internet website address [of addresses] where the annual
+38 report may be viewed online;
+39 [(h)] (i) a description of how the out-of-service mercury thermostats
+40 were managed;
+41 [(i)] (j) any modifications that the thermostat manufacturer or
+42 producer responsibility organization is planning to make in its
+43 collection program; [and
+44 (j)] (k) the identification of a collection program contact and the
+45 business phone number, mailing address, and e-mail address for the
+46 contact[.
+47 6.]; and
+48 (l) any additional information the department requests.
+49 11. Beginning April first, two thousand twenty-eight, and no later
+50 than April first of each year thereafter, each thermostat manufacturer,
+51 either individually or collectively with other thermostat manufacturers,
+52 or through a producer responsibility organization, shall reimburse the
+53 department for the department's actual costs for the administration,
+54 implementation and enforcement associated with this title. All monies
+55 received by the department pursuant to this paragraph shall be deposited
+
+A. 7166--A 8
+1 to the credit of the mercury thermostat stewardship fund established
+2 pursuant to section ninety-two-kk of the state finance law.
+3 12. All [contractors, thermostat wholesalers, thermostat manufactur-
+4 ers, and thermostat retailers] persons participating in the collection
+5 program shall handle and manage the out-of-service mercury thermostats
+6 in a manner that is consistent with the requirements for the handling,
+7 management, transportation and disposal of hazardous waste.
+8 [7. On and after July first, two thousand fourteen, no thermostat
+9 wholesaler shall sell, offer to sell, distribute, or offer to distribute
+10 thermostats unless the wholesaler participates as a collection site for
+11 out-of-service mercury thermostats or requests and receives a waiver
+12 from the department following a demonstration that such participation
+13 would pose an undue burden.]
+14 § 27-2905. Thermostat wholesaler and retailer requirements.
+15 1. Upon implementation of the collection program plan submitted pursu-
+16 ant to section 27-2903 of this title, no thermostat wholesaler shall
+17 sell, offer to sell, distribute, or offer to distribute thermostats in
+18 this state unless the wholesaler participates as a collection site for
+19 out-of-service mercury thermostats or requests and receives a waiver
+20 from the department following a demonstration that such participation
+21 would pose an undue burden.
+22 2. No thermostat wholesaler or thermostat retailer shall sell, offer
+23 for sale or distribute in this state any thermostat for final sale
+24 unless the thermostat manufacturer [of such thermostat] is listed [on
+25 the department's website,] as participating under an approved collection
+26 program plan in accordance with the provisions of this title.
+27 3. No thermostat wholesaler or thermostat retailer shall sell, offer
+28 for sale or distribute in this state any thermostat for final sale
+29 unless the thermostat wholesaler or thermostat retailer makes use of the
+30 educational and outreach materials it has been provided by the
+31 collection program as outlined in paragraph (b) of subdivision eight of
+32 section 27-2903 of this title.
+33 § 27-2907. Contractor requirements.
+34 1. Any person or contractor who replaces a mercury thermostat in a
+35 building in this state shall ensure the proper management, transporta-
+36 tion and delivery of such mercury thermostat to a collection site in
+37 accordance with the provisions of this title.
+38 2. Any person or contractor who demolishes a building in this state
+39 shall ensure that all mercury thermostats are removed from the building
+40 prior to demolition and shall ensure the proper management, transporta-
+41 tion and delivery of such mercury thermostats to a collection site in
+42 accordance with the provisions of this title.
+43 3. Any contractor, organization or subcontractor of such organization,
+44 who contracts with or receives funding or financing provided in whole or
+45 in part by or through any department, agency, instrumentality, or poli-
+46 tical subdivision of the state for the installation, service, or removal
+47 of heating, ventilation, or air-conditioning components resulting in the
+48 removal or handling of out-of-service mercury thermostats, shall ensure
+49 the proper collection, management, transportation, and delivery of out-
+50 of-service mercury thermostats to a collection site in accordance with
+51 the provisions of this title.
+52 § 27-2909. Department responsibilities.
+53 1. [No later than June first, two thousand fifteen,] Upon implementa-
+54 tion of a collection program plan submitted pursuant to subdivision one
+55 of section 27-2903 of this title, the department shall maintain on its
+56 website information regarding the collection and proper management of
+
+A. 7166--A 9
+1 out-of-service mercury thermostats in the state. The information shall
+2 include the following:
+3 (a) a description of the collection programs established under this
+4 section;
+5 (b) [a report on the progress towards achieving the statewide
+6 collection goals set forth in this title; and
+7 (c)] a list of all [thermostat wholesalers, contractors, qualified
+8 local government authorities, and thermostat retailers participating in
+9 the program as] collection sites; and
+10 (c) a link to the internet website for a collection program estab-
+11 lished pursuant to the approved plan as required by section 27-2903 of
+12 this title.
+13 2. No later than November first, two thousand [eighteen] twenty-nine,
+14 and every five years thereafter, the department shall submit a written
+15 report to the governor and the legislature regarding the effectiveness
+16 of the collection programs established under this section, information
+17 on the number of out-of-service thermostats collected, how the out-of-
+18 service thermostats were managed[, and]. The report due November first,
+19 two thousand forty-five, shall include an estimate of the number of
+20 thermostats that are available for collection. The department shall use
+21 this information to recommend whether the provisions of this section
+22 should be extended, along with any other statutory changes. In preparing
+23 the report, the department shall consult with mercury thermostat
+24 manufacturers, environmental organizations, municipal recyclers, and
+25 other interest groups.
+26 § [27-2909.] 27-2911. Disposal prohibition.
+27 1. No transporter shall knowingly commingle [mercury-added] mercury
+28 thermostats with solid waste or recyclable materials.
+29 2. No transporter shall knowingly deliver [mercury-added] mercury
+30 thermostats or knowingly cause such materials to be delivered to:
+31 (a) an incinerator;
+32 (b) a landfill;
+33 (c) a transfer station; or
+34 (d) anyone who the transporter knows or should know will either
+35 commingle such materials with other solid waste or deliver such materi-
+36 als to an incinerator or a landfill for disposal.
+37 3. No operator of an incinerator or a landfill shall knowingly accept
+38 [mercury-added] mercury thermostats for disposal.
+39 4. No operator of a transfer station shall knowingly commingle [mercu-
+40 ry-added] mercury thermostats with other solid waste or cause such mate-
+41 rials to be transferred to an incinerator or landfill for disposal.
+42 5. Each landfill and transfer station shall post, in a conspicuous
+43 location at the facility, a sign stating that [mercury-added] mercury
+44 thermostats are not accepted at the facility.
+45 § 27-2913. Enforcement and penalties.
+46 1. Notwithstanding the provisions of section 71-2724 of this chapter,
+47 and except as otherwise provided in this section, any person who
+48 violates any of the provisions of, or who fails to perform any duty
+49 imposed by this title or any rule or regulation promulgated pursuant
+50 thereto, or any term or condition of any certificate or permit issued
+51 pursuant thereto, or any final determination or order of the commission-
+52 er made pursuant to this title shall be liable for a civil penalty not
+53 to exceed five hundred dollars for each such violation and an additional
+54 penalty of not more than five hundred dollars for each day during which
+55 such violation continues.
+
+A. 7166--A 10
+1 2. Notwithstanding the provisions of section 71-2724 of this chapter,
+2 any person, contractor, organization or subcontractor of such organiza-
+3 tion, who violates any provision of, or fails to perform any duty
+4 imposed by subdivisions two and three of section 27-2907 of this title,
+5 or any rule or regulation promulgated pursuant thereto, shall be liable
+6 for a civil penalty not to exceed three thousand dollars for each
+7 violation and an additional penalty of not more than one thousand
+8 dollars for each day during which such violation continues.
+9 3. Notwithstanding the provisions of section 71-2724 of this chapter,
+10 any contractor, thermostat wholesaler, or thermostat retailer, who
+11 violates any provision of, or fails to perform any duty imposed by this
+12 title, other than subdivisions two and three of section 27-2907 of this
+13 title, or any rule or regulation promulgated pursuant thereto, or any
+14 term or condition of any certificate or permit issued pursuant thereto,
+15 or any final determination or order of the commissioner made pursuant to
+16 this title, shall be liable for a civil penalty not to exceed one thou-
+17 sand five hundred dollars for each violation and an additional penalty
+18 of not more than one thousand dollars for each day during which such
+19 violation continues.
+20 4. (a) Any thermostat manufacturer or producer responsibility organ-
+21 ization, as defined in this title, who fails to submit any plan, report,
+22 or fee to the department as required by this title, shall be liable for
+23 a civil penalty not to exceed one thousand dollars for each day such
+24 plan, report, or fee is not submitted.
+25 (b) Notwithstanding the provisions of section 71-2724 of this chapter,
+26 any thermostat manufacturer or producer responsibility organization, as
+27 defined in this title, who violates any other provision of, or fails to
+28 perform any duty imposed by this title or any rule or regulation promul-
+29 gated pursuant thereto, or any term or condition of any certificate or
+30 permit issued pursuant thereto, or any final determination or order of
+31 the commissioner made pursuant to this title shall be liable for a civil
+32 penalty not to exceed two thousand five hundred dollars for the first
+33 violation, five thousand dollars for the second violation, and ten thou-
+34 sand dollars for the third and subsequent violations of this title with-
+35 in a twelve-month period.
+36 5. Notwithstanding the provisions of section 71-2724 of this chapter,
+37 and in addition to any other penalties provided in this section, any
+38 person who violates any of the provisions of, or who fails to perform
+39 any duty imposed by, titles three, seven, or nine of this article
+40 related to the handling, management, storage, transportation or disposal
+41 of solid and hazardous waste, or any other provision of this chapter, or
+42 any rule or regulation promulgated pursuant thereto, or any term or
+43 condition of any certificate or permit issued pursuant thereto, or any
+44 final determination or order of the commissioner made pursuant to this
+45 title shall be subject to the applicable penalties in article seventy-
+46 one of this chapter, including sections 71-2703 and 71-2705 of this
+47 chapter, as applicable.
+48 6. Penalties under this section shall be assessed by the commissioner
+49 after a hearing or opportunity to be heard pursuant to the provisions of
+50 section 71-1709 of this chapter, or by the court in any action or
+51 proceeding pursuant to section 71-2727 of this chapter, and, in addition
+52 thereto, such person may by similar process be enjoined from continuing
+53 such violation and any permit or certificate issued to such person may
+54 be revoked or suspended or a pending renewal application denied.
+55 7. All civil penalties and fines collected for any violation of this
+56 title shall be deposited to the credit of the environmental protection
+
+A. 7166--A 11
+1 fund established pursuant to section ninety-two-s of the state finance
+2 law.
+3 § 2. The state finance law is amended by adding a new section 92-kk to
+4 read as follows:
+5 § 92-kk. Mercury thermostat stewardship fund. 1. There is hereby
+6 established in the joint custody of the state comptroller and the
+7 commissioner of the department of taxation and finance, a special fund
+8 to be known as the "mercury thermostat stewardship fund".
+9 2. The mercury thermostat stewardship fund shall consist of all reven-
+10 ue collected from fees pursuant to title twenty-nine of article twenty-
+11 seven of the environmental conservation law and any cost recoveries or
+12 other revenues collected pursuant to title twenty-nine of article twen-
+13 ty-seven of the environmental conservation law, and any other monies
+14 deposited into the fund pursuant to law.
+15 3. Moneys of the fund, following appropriation by the legislature,
+16 shall be used for execution of the program pursuant to title twenty-nine
+17 of article twenty-seven of the environmental conservation law, and
+18 expended for the purposes as set forth in title twenty-nine of article
+19 twenty-seven of the environmental conservation law.
+20 § 3. Any department, authority, instrumentality, or municipal corpo-
+21 ration of the state administering a program that involves the removal or
+22 replacement of mercury thermostats as a result of any statutory require-
+23 ment, shall inform contractors of their statutory obligations to deliver
+24 the mercury thermostats to a collection site and prohibiting the
+25 disposal of such thermostats in a solid-waste facility.
+26 § 4. Section 4 of chapter 550 of the laws of 2013, amending the envi-
+27 ronmental conservation law relating to establishing the mercury thermo-
+28 stat collection act, as amended by chapter 242 of the laws of 2025, is
+29 amended to read as follows:
+30 § 4. This act shall take effect immediately and shall expire and be
+31 deemed repealed January 1, [2027] 2050.
+32 § 5. This act shall take effect immediately; provided, however, that
+33 the amendments to title 29 of article 27 of the environmental conserva-
+34 tion law made by section one of this act shall not affect the repeal of
+35 such title and shall be deemed repealed therewith.
