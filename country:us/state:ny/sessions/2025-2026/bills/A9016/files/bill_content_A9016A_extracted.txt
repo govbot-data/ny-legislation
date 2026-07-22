@@ -1,0 +1,426 @@
+Title: 
+Official Title: 
+Source: versions - A9016A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9016--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+August 27, 2025
+___________
+Introduced by M. of A. TORRES, FORREST -- read once and referred to the
+Committee on Insurance -- recommitted to the Committee on Insurance in
+accordance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the insurance law, in relation to requiring
+property/casualty insurance companies to submit certain zip code-level
+data, market share data, and information about models and scoring
+methods used for catastrophes to the department of financial services;
+to amend the insurance law, in relation to requiring an annual report
+on the housing insurance market for multifamily and nonprofit housing
+providers; to amend the insurance law, in relation to authorizing a
+premium discount to policyholders who demonstrate certain mitigation
+actions; to amend the insurance law, in relation to the timing of
+cancellation and nonrenewal notices for certain insurance poli-
+cies; and to amend the insurance law, in relation to increasing
+membership of the board governing the New York property insurance
+underwriting association and to requiring a quadrennial report on the
+activities of such association
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The insurance law is amended by adding a new section 4122
+2 to read as follows:
+3 § 4122. Reporting requirements for property/casualty insurance compa-
+4 nies. (a) For the purposes of this section, the following terms shall
+5 have the following meanings:
+6 (1) "Catastrophe model" means a tool, instrumentality, means, or prod-
+7 uct, including a map-based tool, a computer-based tool, or a simulation
+8 that is used by an insurer to estimate potential losses from catastroph-
+9 ic events.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13657-02-5
+
+A. 9016--A 2
+1 (2) "Community-level mitigation action" means a science-based miti-
+2 gation action as demonstrated by a community or neighborhood level
+3 designation or certification or as undertaken by a government entity.
+4 (3) "Property-specific mitigation action" means a science-based miti-
+5 gation action that includes a verification and certification process.
+6 (4) "Natural disaster risk model" means a tool, instrumentality,
+7 means, or product, including a map-based tool, a computer-based tool, or
+8 a simulation, that is used by an insurer in whole or in part, to measure
+9 or assess the natural disaster risk associated with a residential prop-
+10 erty or community for purposes of rating, classifying, pricing, or
+11 underwriting, including but not limited to writing or renewing insur-
+12 ance, based on natural disaster risk or estimating risks or losses
+13 corresponding to the natural disaster risk classifications.
+14 (5) "Natural disaster" means the occurrence or imminent threat of
+15 widespread catastrophic or severe damage, injury, or loss of life or
+16 property resulting from any natural cause including, but not limited to,
+17 fire, flood, earthquake, hurricane, tornado, high water, landslide,
+18 mudslide, wind, storm, wave action, ice storm, air contamination,
+19 blight, drought, infestation, explosion, water contamination, bridge
+20 failure, or bridge collapse.
+21 (b) Every property/casualty insurance company doing business in this
+22 state shall submit the following information to the department:
+23 (1) Zip code-level data on the following topics:
+24 (A) nonrenewal rates;
+25 (B) nonpayment cancellation rates;
+26 (C) other cancellation rates;
+27 (D) claim frequency rates;
+28 (E) average claim amounts;
+29 (F) paid loss ratios; and
+30 (G) average premiums;
+31 (2) Market share data; and
+32 (3) If utilized, the natural disaster risk model or catastrophe model
+33 or scoring method used to assign risk.
+34 (A) The following information about a natural disaster risk model or
+35 catastrophe model or scoring method shall be submitted:
+36 (i) a description of such model or method;
+37 (ii) the impact of such model or method on rates;
+38 (iii) an actuarial justification for all rating factors, including
+39 mitigation discounts offered; and
+40 (iv) an explanation of the use of the model or method in underwriting
+41 decisions.
+42 (B) Any model or method submitted to the department pursuant to this
+43 paragraph shall be treated as a trade secret and shall not be subject to
+44 disclosure under article six of the public officers law.
+45 (C) Any property/casualty insurance company that uses a natural disas-
+46 ter risk model, a catastrophe model, or a combination of models shall
+47 ensure the following factors are either incorporated in the natural
+48 disaster risk model, catastrophe model, or combination of models or are
+49 otherwise demonstrably included in such property/casualty insurance
+50 company's underwriting and pricing:
+51 (i) property-specific mitigation actions such as establishing defensi-
+52 ble space, incorporating building hardening measures, or receiving
+53 certification from an entity with experience in mitigation of properties
+54 against natural disasters; and
+55 (ii) community-level mitigation activities or designations, including
+56 forest treatment and other fuel reduction activities.
+
+A. 9016--A 3
+1 (D) Any property/casualty insurance company that uses a natural disas-
+2 ter risk model or a catastrophe model or scoring method to assign risk
+3 shall also include the information required in subparagraph (A) of this
+4 paragraph in any rate filing submitted to the superintendent by such
+5 property/casualty insurance company.
+6 (c) The department shall create and maintain a public-facing database
+7 where policyholders can access the market share data submitted by
+8 property/casualty insurance companies pursuant to paragraph two of
+9 subsection (b) of this section.
+10 § 2. The insurance law is amended by adding a new section 3463 to read
+11 as follows:
+12 § 3463. Report on the housing insurance market for multifamily and
+13 nonprofit housing providers. (a) Definitions. For purposes of this
+14 section:
+15 (1) "Multifamily residential building" means a property containing
+16 five or more dwelling units.
+17 (2) "Nonprofit housing provider" means organizations described by
+18 section 501(c)(3) of the United States internal revenue code, charitable
+19 corporations as defined in paragraph (a) of section one hundred two of
+20 the not-for-profit corporation law and formed pursuant to paragraph (a)
+21 of section two hundred one of the not-for-profit corporation law, and
+22 organizations described by section two hundred sixteen-a of the educa-
+23 tion law that own or operate residential housing in New York.
+24 (3) "Affordable housing development" means a residential building with
+25 units required to be affordable by statute, regulation, regulatory
+26 agreement, or recorded covenant.
+27 (4) "Excess line insurance" has the same meaning as in article twen-
+28 ty-one of this chapter.
+29 (5) "Insurer" means an authorized insurer writing property or liabil-
+30 ity coverage on residential buildings and includes reporting by excess
+31 line placements through the excess line association of New York as
+32 provided by regulation.
+33 (b) Annual joint report. (1) The superintendent and the commissioner
+34 of homes and community renewal shall submit a joint report detailed in
+35 subdivision (c) of this section on or before October first of each year
+36 to the governor, the temporary president of the senate, and the speaker
+37 of the assembly, and post it on their websites.
+38 (2) The report shall analyze the availability, pricing, terms, and
+39 affordability of property and liability insurance for multifamily resi-
+40 dential buildings owned or operated by nonprofit and mission-driven
+41 entities, including affordable housing developments.
+42 (3) The report shall include statewide and regional results, with New
+43 York city reported separately from the rest of the state.
+44 (c) Required contents. The report shall present, at a minimum, aggre-
+45 gated statistics for the prior calendar year on:
+46 (1) Premium levels and changes, including average and median premium
+47 per unit and square foot, and premium as a share of operating expenses.
+48 (2) Coverage availability and market channel, including non-renewal
+49 and declination counts, the share placed in the excess-line market, and
+50 use of New York property insurance underwriting association.
+51 (3) Deductibles by peril and trend.
+52 (4) Common exclusions and limitations, including new or expanded
+53 exclusions introduced in the reporting year.
+54 (5) Coverage limits relative to reported replacement cost.
+55 (6) Claims frequency and severity for fire, water, wind, and liabil-
+56 ity, to the extent available.
+
+A. 9016--A 4
+1 (7) Documented affordability impacts in the division of housing and
+2 community renewal portfolios, including rent-pressure indicators,
+3 reserve draws, or capital-plan deferrals linked to insurance expense
+4 changes.
+5 (8) Risk-mitigation credits and building resiliency investments
+6 reported by owners and recognized by insurers.
+7 (9) Regional heat-map summaries of market stress using the methodology
+8 set by the department by bulletin or circular letter. The department may
+9 align with the national association of insurance commissioners' market-
+10 intelligence data elements.
+11 (d) Data collection and confidentiality. (1) The superintendent may
+12 require special reports under section three hundred eight of this chap-
+13 ter and may consolidate requests with existing department data calls.
+14 (2) The department may require grantees, borrowers, and regulated
+15 owners to provide insurance expense and coverage data as a condition of
+16 assistance.
+17 (3) Submissions that constitute trade secrets or sensitive commercial
+18 information are confidential under paragraph (d) of subdivision two of
+19 section eighty-seven of the public officers law. The published report
+20 shall contain only aggregated, de-identified statistics and analysis.
+21 (4) The department shall consult with excess line and New York proper-
+22 ty insurance underwriting association regarding reporting formats that
+23 capture excess-line placements and assigned-risk activity without iden-
+24 tifying individual insureds.
+25 (e) The division of housing and community renewal. The division of
+26 housing and community renewal shall cooperate with the department in
+27 producing the joint report, including collecting portfolio-level insur-
+28 ance expense and coverage data from regulated entities through existing
+29 reporting systems. The division of housing and community renewal shall
+30 publish non-confidential aggregated statistics and provide technical
+31 assistance to owners on risk-mitigation practices recognized by insur-
+32 ers.
+33 (f) Rulemaking. The department may adopt regulations or circular
+34 letters to implement this section, harmonize data standards with
+35 national association of insurance commissioners and other states, limit
+36 the burden on small insurers, and ensure data quality. The division of
+37 housing and community renewal may issue guidance to participating
+38 owners.
+39 (g) No private right of action. Nothing in this section creates a
+40 private right of action.
+41 § 3. The insurance law is amended by adding a new section 2346-b to
+42 read as follows:
+43 § 2346-b. Homeowners insurance or property/casualty insurance; miti-
+44 gation action. 1. For the purposes of this section, the following terms
+45 shall have the following meanings:
+46 (a) "community-level mitigation action" means a science-based miti-
+47 gation action as demonstrated by a community or neighborhood-level
+48 designation or certification or as undertaken by a government entity;
+49 (b) "natural disaster" means the occurrence or imminent threat of
+50 widespread catastrophic or severe damage, injury, or loss of life or
+51 property resulting from any natural cause including, but not limited to,
+52 fire, flood, earthquake, hurricane, tornado, high water, landslide,
+53 mudslide, wind, storm, wave action, ice storm, air contamination,
+54 blight, drought, infestation, explosion, water contamination, bridge
+55 failure, or bridge collapse;
+
+A. 9016--A 5
+1 (c) "natural disaster risk model" means a tool, instrumentality,
+2 means, or product, including a map-based tool, a computer-based tool, or
+3 a simulation, that is used by an insurer in whole or in part, to measure
+4 or assess the natural disaster risk associated with a residential prop-
+5 erty or community for purposes of rating, classifying, or pricing based
+6 on natural disaster risk or estimating risks or losses corresponding to
+7 the natural disaster risk classifications; and
+8 (d) "property-specific mitigation action" means a science-based miti-
+9 gation action that includes a verification and certification process.
+10 2. The superintendent shall provide for an actuarially appropriate
+11 reduction in the rates of homeowners insurance premiums and
+12 property/casualty insurance premiums applicable to residential real
+13 property for policyholders who can demonstrate that property-specific
+14 mitigation actions have been undertaken on the property or community-
+15 level mitigation actions have been undertaken in sufficient proximity to
+16 the property to reduce the risk of loss from a natural disaster. The
+17 superintendent shall by regulation establish a process for policyholders
+18 to demonstrate such mitigation actions have occurred.
+19 3. An insurer shall post on its public website readily accessible
+20 information on the premium discounts, incentives or other premium
+21 adjustments that are available to policyholders of homeowners insurance
+22 or property/casualty insurance applicable to residential real property
+23 who undertake property-specific mitigation actions or provide evidence
+24 of community-level mitigation actions. The website shall identify, as
+25 applicable:
+26 (a) Property-specific mitigation actions for the policyholder to
+27 undertake and community-level mitigation actions, as determined by the
+28 superintendent, that could result in a discount, incentive, or other
+29 premium adjustment; and
+30 (b) The amount of the discount, incentive, or other premium adjustment
+31 associated with each action.
+32 4. (a) An insurer that provides a mitigation discount or that uses a
+33 natural disaster risk model or risk score to underwrite, nonrenew,
+34 price, create a rate differential, or surcharge the premium based upon
+35 the policyholder's or applicant's natural disaster risk shall provide an
+36 annual written notice to each policyholder or applicant upon application
+37 for insurance of the applicable mitigation discounts, the natural disas-
+38 ter risk score, and any other natural disaster risk classification used
+39 by the insurer to underwrite, nonrenew, price, create a rate differen-
+40 tial, or surcharge the premium based upon the policyholder's or appli-
+41 cant's natural disaster risk.
+42 (b) Such notice shall include:
+43 (i) a plain-language explanation of the natural disaster risk score or
+44 other natural disaster risk classification, including an explanation
+45 that insurers may use different models and have different risk score
+46 changes that could result in different risk scores from other insurers;
+47 (ii) the range of the scores or classifications that could potentially
+48 be assigned to the property;
+49 (iii) the relative position of the score or classification assigned to
+50 the property within that range of possible scores or classifications
+51 provided by the insurer's risk model;
+52 (iv) a written explanation of why the policyholder or applicant
+53 received the assigned score or classification that identifies the prima-
+54 ry features of the property that influenced the assignment of the score
+55 or classification; and
+
+A. 9016--A 6
+1 (v) the impact, if any, that each property-specific mitigation or
+2 community-level mitigation action could have on a natural disaster risk
+3 score or classification assigned to the property.
+4 5. The insurer shall provide the natural disaster risk score or clas-
+5 sification to the policyholder or the applicant:
+6 (a) for applicants, no later than fifteen days after the submission of
+7 the applicant's completed application to the insurer;
+8 (b) for policyholders, in the offer of renewal;
+9 (c) for policyholders that are not being offered a renewal, with the
+10 nonrenewal notice; and
+11 (d) for a policyholder or applicant, if the policyholder or applicant
+12 has completed a property-specific mitigation action or provides evidence
+13 of a community-level mitigation action in sufficient proximity to the
+14 property to reduce the risk of loss since the time of the last applica-
+15 tion to or renewal by the insurer, no later than thirty days after the
+16 submission to the insurer of the policyholder's or applicant's request
+17 that the insurer provide a revised natural disaster risk score or risk
+18 classification.
+19 6. A policyholder or applicant for a policy of insurance whose natural
+20 disaster risk model score, natural disaster risk classification assigned
+21 to the property, or applicable mitigation discount is inaccurate and
+22 provides evidence of the property-specific or community-level mitigation
+23 action may appeal the score directly to the insurer. The insurer shall
+24 notify the policyholder or applicant in writing of the right to appeal
+25 the natural disaster risk score or other natural disaster risk classi-
+26 fication or applicable mitigation discount when the score or classifica-
+27 tion or discount is provided to the policyholder or applicant as
+28 required by this section. If the policyholder or applicant appeals the
+29 natural disaster risk score or other natural disaster risk classifica-
+30 tion or applicable discount, the insurer shall acknowledge receipt of
+31 the appeal in writing within ten calendar days after receipt of the
+32 appeal. The insurer shall respond to the appeal in writing with a
+33 reconsideration and decision within thirty calendar days after receiving
+34 the appeal. If an appeal is denied, the insurer shall, upon request by
+35 the superintendent, forward a copy of the appeal and the insurer's
+36 response, to the superintendent.
+37 § 4. Paragraphs 12 and 13 of subsection (b) of section 2305 of the
+38 insurance law, as amended by section 9 of part AAA of chapter 59 of the
+39 laws of 2017, are amended and a new paragraph 14 is added to read as
+40 follows:
+41 (12) gap insurance; [and]
+42 (13) private passenger automobile insurance, except as provided in
+43 section two thousand three hundred fifty of this article[,]; and
+44 (14) homeowners insurance or property/casualty insurance applicable to
+45 residential real property as it relates to the inclusion of property-
+46 specific mitigation actions and community-level mitigation actions in
+47 the calculation of such rates,
+48 § 5. Paragraphs 1 and 2 of subsection (d) of section 3425 of the
+49 insurance law are amended to read as follows:
+50 (1) Unless the insurer, at least [forty-five] ninety but not more than
+51 [sixty] one hundred twenty days in advance of the end of the policy
+52 period for nonrenewal or conditional renewal or the effective date for
+53 cancellation, mails or delivers to the named insured, at the address
+54 shown in the policy, a written notice of its intention not to renew a
+55 covered policy, [or] to condition its renewal upon change of limits or
+56 elimination of any coverages, or to cancel the policy, the named insured
+
+A. 9016--A 7
+1 shall be entitled to renew the policy upon timely payment of the premium
+2 billed to the insured for the renewal. The specific reason or reasons
+3 for nonrenewal or conditioned renewal shall be stated in or shall accom-
+4 pany the notice. The specific reason or reasons for cancellation as
+5 provided in subsection (c) of this section shall be stated in or shall
+6 accompany the notice. This paragraph shall not apply when the named
+7 insured, an agent or broker authorized by the named insured, or an
+8 insurer of the named insured, has mailed or delivered written notice to
+9 the insurer that the policy has been replaced or is no longer desired.
+10 (2) If an insurer has the right to cancel a policy it may, in lieu of
+11 cancellation, condition continuation of such policy upon change of
+12 limits or elimination of any coverage not required by law, if written
+13 notice of such intention is mailed or delivered to the insured at the
+14 address shown in the policy at least [twenty] ninety days prior to the
+15 effective date of such action.
+16 § 6. The opening paragraph of subsection (c) of section 3426 of the
+17 insurance law, as amended by chapter 235 of the laws of 1989, is amended
+18 to read as follows:
+19 After a covered policy has been in effect for sixty days unless
+20 cancelled pursuant to subsection (b) of this section, or on or after the
+21 effective date if such policy is a renewal, no notice of cancellation
+22 shall become effective until [fifteen] ninety days after written notice
+23 is mailed or delivered to the first-named insured and to such insured's
+24 authorized agent or broker, and such cancellation is based on one or
+25 more of the following:
+26 § 7. Paragraphs 3 and 4 of subsection (a) of section 3462 of the
+27 insurance law, as added by section 1 of part BB of chapter 56 of the
+28 laws of 2024, are amended and a new paragraph 5 is added to read as
+29 follows:
+30 (3) The level or source of income of the tenants of the residential
+31 building or the shareholders of a cooperative housing corporation; [or]
+32 (4) Whether such residential building is owned by a limited-equity
+33 cooperative; owned by a public housing authority; or owned by a cooper-
+34 ative housing corporation subject to the provisions of article two,
+35 article four, article five or article eleven of the private housing
+36 finance law[.]; or
+37 (5) The residential building is located in a disadvantaged community,
+38 as identified pursuant to section 75-0111 of the environmental conserva-
+39 tion law. An insurer who cancels, refuses to issue, refuses to renew or
+40 increase the premium of a policy, or excludes, limits, restricts, or
+41 reduces coverage under a policy for a residential building located in a
+42 disadvantaged community shall provide actuarial information to the
+43 insured or applicant to support such action.
+44 § 8. Subsection (b) of section 5402 of the insurance law, as amended
+45 by chapter 42 of the laws of 1996, is amended to read as follows:
+46 (b) The association shall be governed by a board of [thirteen] twen-
+47 ty-three directors, ten of whom shall be elected annually by cumulative
+48 voting by the members of the association, whose votes in such election
+49 shall be weighted in accordance with each member's net direct premiums
+50 written during the preceding calendar year. An additional six directors
+51 shall be appointed annually by the legislature, two by the temporary
+52 president of the senate, two by the speaker of the assembly, one by the
+53 minority leader of the senate and one by the minority leader of the
+54 assembly. Four directors shall be appointed annually by the governor and
+55 two of such directors shall be representatives of consumers. The remain-
+56 ing three directors shall be appointed annually by the superintendent
+
+A. 9016--A 8
+1 and be duly licensed insurance agents or brokers representative of broad
+2 segments of the public obtaining insurance through the association.
+3 § 9. Subsection (g) of section 5402 of the insurance law, as amended
+4 by chapter 182 of the laws of 2023, is amended to read as follows:
+5 (g) In addition to fire insurance, extended coverage, coverage for
+6 additional perils and homeowners insurance should the same be made
+7 available through the association in accordance with a determination of
+8 necessity pursuant to section five thousand four hundred twelve of this
+9 article, the association may offer broad form coverage to applicants
+10 seeking to insure real property at fixed locations of this state, or the
+11 tangible personal property located thereon. The association may offer
+12 broad form coverage until June thirtieth, two thousand twenty-eight. On
+13 or before October first, two thousand twenty-seven the superintendent
+14 shall require the association to report to the superintendent as to the
+15 number of policies written pursuant to this subsection and paragraph
+16 three of subsection (f) of section five thousand four hundred five of
+17 this article, and any other information the superintendent may require.
+18 On or before January first, two thousand twenty-eight, and every four
+19 years thereafter, the superintendent shall report to the governor and
+20 the legislature regarding the number of policies issued pursuant to this
+21 section and such paragraph, the geographic location of such policies,
+22 the types of policies offered, the coverage limits of such policies,
+23 risk reduction investments, information on the financial standing of the
+24 association and [shall include] recommendations as to the continuation
+25 of such insurance offerings.
+26 § 10. This act shall take effect on the one hundred eightieth day
+27 after it shall have become a law. Effective immediately, the addition,
+28 amendment and/or repeal of any rule or regulation necessary for the
+29 implementation of this act on its effective date are authorized to be
+30 made and completed on or before such effective date.

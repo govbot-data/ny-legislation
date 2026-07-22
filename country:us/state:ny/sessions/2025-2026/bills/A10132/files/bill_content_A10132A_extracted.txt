@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - A10132A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10132--A
+IN ASSEMBLY
+February 3, 2026
+___________
+Introduced by M. of A. OTIS -- read once and referred to the Committee
+on Science and Technology -- reported and referred to the Committee on
+Codes -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to enacting the
+"connected consumer product end of life disclosure act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "connected consumer product end of life disclosure act".
+3 § 2. The general business law is amended by adding a new section 399-
+4 mm to read as follows:
+5 § 399-mm. Connected consumer product end of life disclosure. 1. Defi-
+6 nitions. As used in this section, the following terms shall have the
+7 following meanings:
+8 (a) "Connected consumer product" means any product that is intended
+9 for consumer use and depends for its functioning, in whole or in part,
+10 on connection to the internet. The term includes the product, the mobile
+11 application, and necessary cloud infrastructure.
+12 (b) "End of life" means the point at which the manufacturer ceases
+13 providing technical support, security updates, or bug fixes for the
+14 software, hardware, or firmware necessary for the connected consumer
+15 product to securely function, even if the product is still in use.
+16 (c) "Firmware" means low-level software that is embedded into hardware
+17 devices, where such software provides the essential instructions needed
+18 for hardware to operate properly, acting as a middle layer between the
+19 hardware and higher-level software such as device operating systems or
+20 applications.
+21 (d) "Minimum guaranteed support time frame" means the minimum amount
+22 of time for which a company has publicly committed to providing techni-
+23 cal support, security updates, or bug fixes for the software, hardware,
+24 or firmware, expressed as continuing until a specific date.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13518-04-6
+
+A. 10132--A 2
+1 (e) "Product web page" means a web page specific to the particular
+2 connected consumer product that contains information about such product
+3 and its features.
+4 (f) "Security updates" means updates released to address vulnerabili-
+5 ties in the software, hardware, or firmware used by a connected consumer
+6 product.
+7 (g) "Support" means service to ensure that a connected consumer prod-
+8 uct continues to fully function and to provide information and guidance
+9 to consumers regarding proper use of the product.
+10 (h) "Update" means a security update, or an update released for a
+11 connected consumer product to address effectively a flaw in the soft-
+12 ware, hardware, or firmware running on the product that interferes with
+13 the full functioning of the product.
+14 (i) "Vulnerability" means a flaw in the software, hardware, or firm-
+15 ware running on a connected consumer product that lessens the security
+16 and integrity of the software, hardware, or firmware needed to operate
+17 such product.
+18 2. Requirements. The following requirements shall apply to any
+19 connected consumer product manufactured or sold after January first, two
+20 thousand twenty-seven:
+21 (a) The manufacturer shall clearly and conspicuously disclose a mini-
+22 mum guaranteed support time frame on the product webpage.
+23 (b) The seller shall clearly and conspicuously disclose at the point
+24 of sale instructions on how to find the information outlined in para-
+25 graph (a) of this subdivision.
+26 (c) The minimum guaranteed support time frame shall not be inconsist-
+27 ent with reasonable consumer expectations about how long a connected
+28 consumer product's features that depend upon internet connectivity will
+29 continue to function safely and effectively.
+30 (d) The minimum guaranteed support time frame for a connected consumer
+31 product shall not be reduced after it is disclosed pursuant to this
+32 subdivision. A manufacturer may extend the minimum guaranteed support
+33 time frame at any time by making a new disclosure pursuant to this
+34 subdivision.
+35 (e) The disclosures described in paragraph (a) of this subdivision
+36 shall also include a detailed account of the features and functionality
+37 that will be lost when the connected consumer product reaches its end of
+38 life.
+39 (f) The manufacturer shall provide advance notice of the decision to
+40 cease providing technical support, security updates, or bug fixes for
+41 the software, hardware, or firmware on the product webpage. Such notice
+42 shall:
+43 (i) be posted six months before the product reaches end of life; and
+44 (ii) disclose the date on which the product reaches end of life.
+45 (g) The disclosure outlined in paragraph (a) of this subdivision and
+46 the notification outlined in paragraph (f) of this subdivision shall
+47 include clear information about actions the user can take if they want
+48 to continue using the connected consumer product in a secure and effec-
+49 tive manner, disconnecting such product from the internet and shall
+50 provide a list of features lost, and vulnerabilities and security risks
+51 that are likely to result from the end of life.
+52 (h) A business that owns or controls a connected consumer product and
+53 leases or otherwise provides such connected consumer product to their
+54 customers shall:
+
+A. 10132--A 3
+1 (i) ensure that updates associated with the minimum guaranteed support
+2 time frame associated with such connected consumer product are promptly
+3 received by the customer; and
+4 (ii) when the product has reached end of life:
+5 (A) promptly notify customers; and
+6 (B) replace the product, at no additional cost to customers, with a
+7 comparable product capable of receiving necessary updates and support,
+8 when such comparable product is reasonably available to the business,
+9 and notify customers of such replacement product.
+10 3. Enforcement. Any entity that violates this section shall be subject
+11 to a civil penalty of not more than one hundred dollars for the first
+12 violation, not more than two hundred fifty dollars for the second
+13 violation, and not more than five hundred dollars for each violation
+14 thereafter. The provisions of this section may be enforced concurrently
+15 by the director of a municipal consumer affairs office, or by the town
+16 attorney, city corporation counsel, or other lawful designee of a
+17 municipality or local government, and all moneys collected thereunder
+18 shall be retained by such municipality or local government.
+19 § 3. This act shall take effect immediately.

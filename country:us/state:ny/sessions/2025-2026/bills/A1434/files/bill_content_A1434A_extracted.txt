@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - A1434A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1434--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 9, 2025
+___________
+Introduced by M. of A. BRAUNSTEIN -- read once and referred to the
+Committee on Ways and Means -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the tax law, in relation to creating an excise tax on
+the collection of consumer data by commercial data collectors
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The tax law is amended by adding a new section 186-h to
+2 read as follows:
+3 § 186-h. Excise tax on the collection of consumer data by commercial
+4 data collectors. 1. Imposition of tax. There is hereby imposed a monthly
+5 excise tax on the collection of the consumer data of individual New York
+6 consumers by commercial data collectors. The tax shall apply regardless
+7 of the format, electronic or otherwise, in which the consumer data is
+8 collected by the commercial data collector.
+9 2. Definitions. As used in this section:
+10 (a) The words "commercial data collector" mean a for-profit entity
+11 that:
+12 (i) collects, maintains, uses, processes, sells or shares consumer
+13 data in support of its business activities; and
+14 (ii) collects consumer data, other than consumer contact information,
+15 on more than one million individual New York consumers in a month within
+16 the calendar year.
+17 (b) The word "consumer" means an individual who purchases goods or
+18 services from a commercial data collector or uses the services of a
+19 commercial data collector, whether charged for those services or not.
+20 (c) The words "consumer contact information" mean (i) a consumer's
+21 email address, telephone number, telefax number, home address, mailing
+22 address; and (ii) credit card information necessary to engage in a sales
+23 transaction.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04012-03-5
+
+A. 1434--A 2
+1 (d) The words "consumer data" mean any information that identifies,
+2 relates to, describes, is capable of being associated with, or could
+3 reasonably be linked with a consumer, whether directly submitted to the
+4 commercial data collector by the consumer or derived from other sources.
+5 (e) The words "New York consumer" mean a consumer whose primary resi-
+6 dence, as defined in article twenty-two of this chapter, is in New York
+7 state.
+8 3. Rate of tax. The tax is imposed on commercial data collectors at
+9 the following rates based on the number of New York consumers a commer-
+10 cial data collector collects data on within the month.
+11 New York consumers tax
+12 Less than or equal to one million 0
+13 over one million to two million five cents per month on the number
+14 of New York consumers over
+15 one million but not more
+16 than two million
+17 over two million to three million fifty thousand dollars per month plus
+18 ten cents per month on the number
+19 of New York consumers over
+20 two million but not more than
+21 three million
+22 over three million to four million one hundred fifty thousand dollars
+23 per month plus fifteen cents per
+24 month on the number of New York
+25 consumers over three million
+26 but not more than four million
+27 over four million to five million three hundred thousand dollars per
+28 month plus twenty cents per month
+29 on the number of New York
+30 consumers over four million but
+31 not more than five million
+32 over five million to six million five hundred thousand dollars per
+33 month plus twenty-five cents per
+34 month on the number of
+35 New York consumers over five
+36 million but not more than
+37 six million
+38 over six million to seven million seven hundred fifty thousand
+39 dollars per month plus thirty
+40 cents per month on the number
+41 of New York consumers over six
+42 million but not more
+43 than seven million
+44 over seven million to eight million one million, fifty thousand dollars
+45 per month plus thirty-five cents per
+46 month on the number of New York
+47 consumers over seven
+48 million but not more than eight
+49 million
+50 over eight million to nine million one million, four hundred thousand
+51 dollars per month plus forty cents
+52 per month on the number of New
+53 York consumers over eight
+54 million but not more than nine
+55 million
+56 over nine million to ten million one million, eight hundred thousand
+
+A. 1434--A 3
+1 dollars per month plus forty-five
+2 cents per month on the number
+3 of New York consumers over
+4 nine million but not more than ten
+5 million
+6 over ten million two million, two hundred fifty
+7 thousand dollars per month plus
+8 fifty cents per month on the number
+9 of New York consumers over
+10 ten million.
+11 4. Taxpayers. (a) There shall be a rebuttable presumption that a
+12 consumer whose information on record with or available to a commercial
+13 data collector indicates a New York home address, a New York mailing
+14 address, or an internet protocol address connected with a New York
+15 location is a New York consumer for purposes of this section. The
+16 presumption may be rebutted by evidence that a consumer's primary resi-
+17 dence, as defined in article twenty-two of this chapter, is outside New
+18 York.
+19 (b) A New York consumer shall be counted only once in the calculation
+20 by a consumer data collector of the monthly excise tax imposed on a
+21 commercial data collector.
+22 (c) Business entities having common ownership as defined in section
+23 1563(a) of the internal revenue code shall be treated as a single
+24 taxpayer for purposes of meeting the definition of commercial data
+25 collector under this section. The entities constituting the single
+26 taxpayer are jointly and severally liable for any tax due.
+27 (d) The single member of a single member limited liability company
+28 shall be treated as a consumer under this section.
+29 5. Alternative methods for calculating tax liability. A commercial
+30 data collector and the department may agree on a methodology for deter-
+31 mining the number of New York consumers for the purpose of calculating
+32 the tax.
+33 6. Credit against tax paid to another jurisdiction. A commercial data
+34 collector that has paid tax under this section may claim a credit
+35 against the tax paid with respect to a New York consumer when another
+36 state imposes an excise tax identical to the tax imposed under this
+37 section with respect to the same consumer.
+38 7. Recordkeeping. A commercial data collector shall maintain records
+39 as required by the commissioner.
+40 8. Returns. (a) A commercial data collector shall file a monthly
+41 return as prescribed by the commissioner.
+42 (b) A commercial data collector that pays the tax imposed under this
+43 section in a given month must file a return in subsequent months until
+44 it reports no tax liability for twelve consecutive months.
+45 9. Administrative procedures. The administrative procedures set forth
+46 in article twenty-seven of this chapter shall apply unless specific
+47 provisions to the contrary are set forth in this section.
+48 10. The department of taxation and finance may prescribe such rules
+49 and regulations as may be necessary to carry out this section.
+50 § 2. This act shall take effect immediately and shall apply to all tax
+51 years commencing on or after the first day of the first month that
+52 begins more than six months after the law takes effect.

@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - A8769B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8769--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 2, 2025
+___________
+Introduced by M. of A. TAPIA -- read once and referred to the Committee
+on Economic Development -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- recommitted
+to the Committee on Economic Development in accordance with Assembly
+Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the economic development law, in relation to enacting
+"the New York state credit risk transparency and investor protection
+act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "New York
+2 state credit risk transparency and investor protection act".
+3 § 2. The economic development law is amended by adding a new section
+4 103-a to read as follows:
+5 § 103-a. State bond security. 1. For the purposes of this section,
+6 the following terms shall have the following meanings:
+7 (a) "credit risk decay" shall mean the natural reduction in the like-
+8 lihood of bond default over time, resulting from the bond's amorti-
+9 zation, improved issuer performance, or external economic factors that
+10 reduce default risk;
+11 (b) "material credit event" shall mean any event that significantly
+12 impacts the issuer's ability to meet its obligations, including but not
+13 limited to:
+14 (i) changes in federal funding, including but not limited to Medicaid
+15 cuts or infrastructure funding reductions;
+16 (ii) tariffs, trade policy changes, or other external economic factors
+17 that may alter the bond issuer's financial position; or
+18 (iii) any significant modification of legal obligations that affects a
+19 bond's performance;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13079-05-6
+
+A. 8769--B 2
+1 (c) "risk reconciliation statement" shall mean a quarterly report
+2 filed by an issuer of bonds, which provides an update on the bond's
+3 credit risk, including but not limited to:
+4 (i) changes in credit ratings;
+5 (ii) material credit events affecting bond performance; and
+6 (iii) yield-to-maturity drift and other relevant credit performance
+7 metrics;
+8 (d) "yield-to-maturity drift" or "YTM drift" shall mean the change in
+9 the yield of a bond over time due to shifts in the credit quality of the
+10 issuer, and the collateral or external credit factors, that impact such
+11 bond's risk profile and valuation;
+12 (e) "fixed point scale" shall mean a standardized method used to
+13 assess the bond's current performance by comparing its original credit
+14 risk rating to the bond's current risk profile, including, but not
+15 limited to, yield-to-maturity drift and credit rating shifts;
+16 (f) "investor right of action for value destruction" shall mean the
+17 legal right of an investor to seek damages if the bond issuer fails to
+18 disclose material credit events or if a bond's credit risk deteriorates
+19 without proper disclosure, resulting in financial harm to the investor;
+20 and
+21 (g) "material deviation" shall mean a significant change in a bond's
+22 creditworthiness that differs from the issuer's original projections or
+23 credit ratings, including, but not limited to, a drop in credit rating
+24 or significant change in market price or arm's-length valuation due to a
+25 material credit event.
+26 (h) "intentional action" shall mean any deliberate act or policy deci-
+27 sion by any public, private, or governmental entity that is reasonably
+28 foreseeable to materially and disproportionately impair the creditwor-
+29 thiness, repayment, or market value of state-backed bonds.
+30 (i) "arbitrary action" shall mean any action or policy decision lack-
+31 ing a rational or reasonable basis that results in the material and
+32 disproportionate devaluation of state-backed bonds, including actions
+33 taken without due consideration of predictable fiscal impacts on the
+34 state's debt obligations.
+35 2. It shall be unlawful for any broker, dealer, or municipal securi-
+36 ties dealer to issue state or municipal bonds unless such broker or
+37 dealer is in compliance with the requirements of this section.
+38 3. All issuers of state and municipal state-backed bonds within the
+39 state shall file a quarterly risk reconciliation statement with the
+40 department in accordance with a filing schedule to be promulgated by the
+41 department. Such statements shall include, but not be limited to, the
+42 following:
+43 (a) the name and address of the issuing authority;
+44 (b) the name and purpose of the project or projects the fund is to be
+45 used for;
+46 (c) the offering price, interest rate, selling compensation, aggregate
+47 principal amount, principal amount per maturity, and delivery dates of
+48 each bond;
+49 (d) up-to-date credit risk projections and bond ratings where applica-
+50 ble;
+51 (e) yield-to-maturity drift and its implications on bond valuation;
+52 (f) any material credit events which have occurred or have impacted
+53 the issuer's credit risk during the relevant quarter; and
+54 (g) any other disclosures required by state or federal law.
+55 4. Notwithstanding any laws to the contrary, the department of econom-
+56 ic development shall create a searchable database, or modify an existing
+
+A. 8769--B 3
+1 one, displaying the quarterly risk reconciliation statements of each
+2 state-backed bond issuer within the state.
+3 5. Where an issuer, dealer, or broker of state or municipal state-
+4 backed bonds fails to disclose a material credit event or to update such
+5 issuer, dealer, or broker's risk assessments on its quarterly risk
+6 reconciliation statement, as required by this section, an investor or
+7 bond-holder injured by such violation of this section may bring suit in
+8 such investor or bond-holder's own name. Judgment may be entered in the
+9 amount of actual damages reflecting the difference between the actual
+10 amount paid for the bond and the fair market value of such bond, for
+11 rescission of the bond purchase, upon which the issuer shall refund the
+12 investor's original investment, or both such actions.
+13 6. (a) The department shall have the authority to enforce the require-
+14 ments of this section. The department shall, from time to time, conduct
+15 audits of risk reconciliation statements filed by issuers.
+16 (b) If an issuer is found to be in repeated violation of this section,
+17 the department may, in its discretion, refer such issuer for investi-
+18 gation by the state attorney general for the purposes of determining
+19 compensation of damages to all investors.
+20 § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+21 sion, section or part of this act shall be adjudged by any court of
+22 competent jurisdiction to be invalid, such judgment shall not affect,
+23 impair, or invalidate the remainder thereof, but shall be confined in
+24 its operation to the clause, sentence, paragraph, subdivision, section
+25 or part thereof directly involved in the controversy in which such judg-
+26 ment shall have been rendered. It is hereby declared to be the intent of
+27 the legislature that this act would have been enacted even if such
+28 invalid provisions had not been included herein.
+29 § 4. This act shall take effect on the one hundred eightieth day after
+30 it shall have become a law. Effective immediately, the addition, amend-
+31 ment and/or repeal of any rule or regulation necessary for the implemen-
+32 tation of this act on its effective date are authorized to be made and
+33 completed on or before such effective date.

@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - A8769A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8769--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 2, 2025
+___________
+Introduced by M. of A. TAPIA -- read once and referred to the Committee
+on Economic Development -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the economic development law, in relation to enacting
+"the New York state credit risk transparency and investor protection
+act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "New York
+2 state credit risk transparency and investor protection act".
+3 § 2. The economic development law is amended by adding a new section
+4 103-a to read as follows:
+5 § 103-a. State bond security. 1. For the purposes of this section,
+6 the following terms shall have the following meanings:
+7 (a) "credit risk decay" shall mean the natural reduction in the like-
+8 lihood of bond default over time, resulting from the bond's amorti-
+9 zation, improved issuer performance, or external economic factors that
+10 reduce default risk;
+11 (b) "material credit event" shall mean any event that significantly
+12 impacts the issuer's ability to meet its obligations, including but not
+13 limited to:
+14 (i) changes in federal funding, including but not limited to Medicaid
+15 cuts or infrastructure funding reductions;
+16 (ii) tariffs, trade policy changes, or other external economic factors
+17 that may alter the bond issuer's financial position; or
+18 (iii) any significant modification of legal obligations that affects a
+19 bond's performance;
+20 (c) "risk reconciliation statement" shall mean a quarterly report
+21 filed by an issuer of bonds, which provides an update on the bond's
+22 credit risk, including but not limited to:
+23 (i) changes in credit ratings;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13079-03-5
+
+A. 8769--A 2
+1 (ii) material credit events affecting bond performance; and
+2 (iii) yield-to-maturity drift and other relevant credit performance
+3 metrics;
+4 (d) "yield-to-maturity drift" or "YTM drift" shall mean the change in
+5 the yield of a bond over time due to shifts in the credit quality of the
+6 issuer, and the collateral or external credit factors, that impact such
+7 bond's risk profile and valuation;
+8 (e) "fixed point scale" shall mean a standardized method used to
+9 assess the bond's current performance by comparing its original credit
+10 risk rating to the bond's current risk profile, including, but not
+11 limited to, yield-to-maturity drift and credit rating shifts;
+12 (f) "investor right of action for value destruction" shall mean the
+13 legal right of an investor to seek damages if the bond issuer fails to
+14 disclose material credit events or if a bond's credit risk deteriorates
+15 without proper disclosure, resulting in financial harm to the investor;
+16 and
+17 (g) "material deviation" shall mean a significant change in a bond's
+18 creditworthiness that differs from the issuer's original projections or
+19 credit ratings, including, but not limited to, a drop in credit rating
+20 or significant change in market price or arm's-length valuation due to a
+21 material credit event.
+22 (h) "intentional action" shall mean any deliberate act or policy deci-
+23 sion by any public, private, or governmental entity that is reasonably
+24 foreseeable to materially and disproportionately impair the creditwor-
+25 thiness, repayment, or market value of state-backed bonds.
+26 (i) "arbitrary action" shall mean any action or policy decision lack-
+27 ing a rational or reasonable basis that results in the material and
+28 disproportionate devaluation of state-backed bonds, including actions
+29 taken without due consideration of predictable fiscal impacts on the
+30 state's debt obligations.
+31 2. It shall be unlawful for any broker, dealer, or municipal securi-
+32 ties dealer to issue state or municipal bonds unless such broker or
+33 dealer is in compliance with the requirements of this section.
+34 3. All issuers of state and municipal state-backed bonds within the
+35 state shall file a quarterly risk reconciliation statement with the
+36 department in accordance with a filing schedule to be promulgated by the
+37 department. Such statements shall include, but not be limited to, the
+38 following:
+39 (a) the name and address of the issuing authority;
+40 (b) the name and purpose of the project or projects the fund is to be
+41 used for;
+42 (c) the offering price, interest rate, selling compensation, aggregate
+43 principal amount, principal amount per maturity, and delivery dates of
+44 each bond;
+45 (d) up-to-date credit risk projections and bond ratings where applica-
+46 ble;
+47 (e) yield-to-maturity drift and its implications on bond valuation;
+48 (f) any material credit events which have occurred or have impacted
+49 the issuer's credit risk during the relevant quarter; and
+50 (g) any other disclosures required by state or federal law.
+51 4. Notwithstanding any laws to the contrary, the department of econom-
+52 ic development shall create a searchable database, or modify an existing
+53 one, displaying the quarterly risk reconciliation statements of each
+54 state-backed bond issuer within the state.
+55 5. Where an issuer, dealer, or broker of state or municipal state-
+56 backed bonds fails to disclose a material credit event or to update such
+
+A. 8769--A 3
+1 issuer, dealer, or broker's risk assessments on its quarterly risk
+2 reconciliation statement, as required by this section, an investor or
+3 bond-holder injured by such violation of this section may bring suit in
+4 such investor or bond-holder's own name. Judgment may be entered in the
+5 amount of actual damages reflecting the difference between the actual
+6 amount paid for the bond and the fair market value of such bond, for
+7 rescission of the bond purchase, upon which the issuer shall refund the
+8 investor's original investment, or both such actions.
+9 6. (a) The department shall have the authority to enforce the require-
+10 ments of this section. The department shall, from time to time, conduct
+11 audits of risk reconciliation statements filed by issuers.
+12 (b) If an issuer is found to be in repeated violation of this section,
+13 the department may, in its discretion, refer such issuer for investi-
+14 gation by the state attorney general for the purposes of determining
+15 compensation of damages to all investors.
+16 7. (a) The attorney general may initiate investigations and
+17 proceedings against any entity, public, private, or governmental, which
+18 causes, by its actions, material devaluation of state-backed bonds which
+19 disproportionally harm state-backed debt obligations. The attorney
+20 general may consider, but is not limited to, the following factors:
+21 (i) the foreseeability of the impact on the state's bonded debt;
+22 (ii) whether reasonable alternatives were available;
+23 (iii) the proportionality of the impact relative to the stated purpose
+24 of the action; and
+25 (iv) the degree of transparency or concealment surrounding the action.
+26 (b) Upon a finding that a public or governmental entity has engaged in
+27 an intentional action or arbitrary action that materially devalues
+28 state-backed bonds, the attorney general may:
+29 (i) initiate legal proceedings to enjoin such actions;
+30 (ii) pursue claims for compensatory or equitable relief on behalf of
+31 the state or its bondholders; and
+32 (iii) recover damages to offset increased borrowing costs or other
+33 financial harm incurred by the state as a result of the material devalu-
+34 ation.
+35 (c) The attorney general shall have standing to bring claims in any
+36 court of competent jurisdiction, whether the responsible party is within
+37 or outside the state, to protect New York's credit reputation and the
+38 value of its public debt obligations.
+39 (d) Nothing in this section shall be construed to limit any other
+40 cause of action or remedy available to the state under law.
+41 § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+42 sion, section or part of this act shall be adjudged by any court of
+43 competent jurisdiction to be invalid, such judgment shall not affect,
+44 impair, or invalidate the remainder thereof, but shall be confined in
+45 its operation to the clause, sentence, paragraph, subdivision, section
+46 or part thereof directly involved in the controversy in which such judg-
+47 ment shall have been rendered. It is hereby declared to be the intent of
+48 the legislature that this act would have been enacted even if such
+49 invalid provisions had not been included herein.
+50 § 4. This act shall take effect on the one hundred eightieth day after
+51 it shall have become a law. Effective immediately, the addition, amend-
+52 ment and/or repeal of any rule or regulation necessary for the implemen-
+53 tation of this act on its effective date are authorized to be made and
+54 completed on or before such effective date.

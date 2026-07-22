@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - A9016D
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9016--D
+2025-2026 Regular Sessions
+IN ASSEMBLY
+August 27, 2025
+___________
+Introduced by M. of A. TORRES, FORREST, KELLES, TAPIA, SIMON, GALLAGHER
+-- read once and referred to the Committee on Insurance -- recommitted
+to the Committee on Insurance in accordance with Assembly Rule 3, sec.
+2 -- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee -- again reported from said commit-
+tee with amendments, ordered reprinted as amended and recommitted to
+said committee -- again reported from said committee with amendments,
+ordered reprinted as amended and recommitted to said committee --
+again reported from said committee with amendments, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the insurance law, in relation to requiring
+property/casualty insurance companies to submit certain zip code-level
+data to the department of financial services; to amend the insurance
+law, in relation to authorizing a premium discount to policyholders
+who demonstrate certain mitigation actions; to amend the insurance
+law, in relation to the timing of cancellation and nonrenewal notices
+for certain insurance policies; and to amend the insurance law, in
+relation to increasing membership of the board governing the New York
+property insurance underwriting association and to requiring a
+quadrennial report on the activities of such association
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The insurance law is amended by adding a new section 4122
+2 to read as follows:
+3 § 4122. Reporting requirements for property/casualty insurance compa-
+4 nies. Every property/casualty insurance company doing business in this
+5 state shall annually submit the following information to the department
+6 with zip code-level data:
+7 (a) nonrenewal rates;
+8 (b) nonpayment cancellation rates;
+9 (c) other cancellation rates;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13657-06-6
+
+A. 9016--D 2
+1 (d) claim frequency rates;
+2 (e) average claim amounts;
+3 (f) paid loss ratios; and
+4 (g) average premiums.
+5 § 2. The insurance law is amended by adding a new section 2346-b to
+6 read as follows:
+7 § 2346-b. Homeowners insurance or property/casualty insurance; miti-
+8 gation action. 1. For the purposes of this section, the following terms
+9 shall have the following meanings:
+10 (a) "community-level mitigation action" means an actuarially appropri-
+11 ate mitigation action as demonstrated by a community or neighborhood-
+12 level designation or certification or as undertaken by a government
+13 entity; and
+14 (b) "property-specific mitigation action" means an actuarially appro-
+15 priate mitigation action that includes a verification and certification
+16 process.
+17 2. The superintendent shall provide for an actuarially appropriate
+18 reduction in the rates of homeowners insurance premiums and
+19 property/casualty insurance premiums applicable to residential real
+20 property for policyholders who can demonstrate that property-specific
+21 mitigation actions have been undertaken on the property or community-
+22 level mitigation actions have been undertaken in sufficient proximity to
+23 the property to reduce the risk of loss from a natural disaster. The
+24 superintendent shall by regulation establish a process for policyholders
+25 to demonstrate such mitigation actions have occurred.
+26 3. An insurer shall post on its public website readily accessible
+27 information on the premium discounts, incentives or other premium
+28 adjustments that are available to policyholders of homeowners insurance
+29 or property/casualty insurance applicable to residential real property
+30 who undertake property-specific mitigation actions or provide evidence
+31 of community-level mitigation actions. The website shall identify, as
+32 applicable:
+33 (a) Property-specific mitigation actions for the policyholder to
+34 undertake and community-level mitigation actions, as determined by the
+35 superintendent, that could result in a discount, incentive, or other
+36 premium adjustment; and
+37 (b) The amount of the discount, incentive, or other premium adjustment
+38 associated with each action.
+39 4. An insurer that issues or delivers in this state a policy that
+40 insures loss of or damage to real property shall specify the nature and
+41 the total percentage amount reduction of each discount applied to the
+42 policy on the declarations page and specify the nature and percentage of
+43 all available discounts that the insurer offers on the policy in a
+44 conspicuous note entitled "DISCOUNT INFORMATION" included with the poli-
+45 cy.
+46 5. An insurer shall report the following information to the super-
+47 intendent, in a form prescribed by the superintendent, by April first of
+48 each year:
+49 (a) a list of all discounts offered to insureds during the preceding
+50 calendar year, including the nature of the discounts and the discount
+51 percentage amounts; and
+52 (b) the number of insureds who received each discount during the
+53 preceding calendar year and the zip codes in which the insured proper-
+54 ties are located.
+55 6. A policyholder or applicant for a policy of insurance whose appli-
+56 cable mitigation discount related to property-specific or community-lev-
+
+A. 9016--D 3
+1 el mitigation is inaccurate and provides evidence of the property-spe-
+2 cific or community-level mitigation action may appeal directly to the
+3 insurer. The insurer shall notify the policyholder or applicant in writ-
+4 ing of the right to appeal the applicable mitigation discount when the
+5 discount is provided to the policyholder or applicant as required by
+6 this section. If the policyholder or applicant appeals the applicable
+7 discount, the insurer shall acknowledge receipt of the appeal in writing
+8 within ten calendar days after receipt of the appeal. The insurer shall
+9 respond to the appeal in writing with a reconsideration and decision
+10 within thirty calendar days after receiving the appeal. If an appeal is
+11 denied, the insurer shall, upon request by the superintendent, forward a
+12 copy of the appeal and the insurer's response, to the superintendent.
+13 § 3. Subsections 1 and 2 of section 2346 of the insurance law,
+14 subsection 1 as amended by chapter 454 of the laws of 1994 and
+15 subsection 2 as amended by chapter 637 of the laws of 1993, are amended
+16 to read as follows:
+17 1. [The superintendent may provide for a] An insurer shall offer at
+18 least one discount, subject to approval by the superintendent, that
+19 provides an actuarially appropriate reduction in the rates of fire
+20 insurance premiums or the fire insurance component of homeowners insur-
+21 ance premiums applicable to residential real property for fire
+22 prevention or mitigation improvements, such as when the real property is
+23 equipped with smoke detecting alarm devices, approved sprinkler systems,
+24 or fire extinguishers[, should a statistically valid study of insurer
+25 experience indicate an actuarially significant decrease in losses in the
+26 aforementioned circumstances. The reductions provided for shall be
+27 proportionally related to the actuarially calculable decrease in losses
+28 in the aforementioned circumstances].
+29 2. [The superintendent may provide for a] (a) An insurer shall offer
+30 at least one discount that provides an actuarially appropriate reduction
+31 in the rates of homeowners insurance premiums applicable to residential
+32 real property for each of the following categories of improvements:
+33 (1) theft prevention or mitigation improvements, such as when the real
+34 property is equipped with dead-bolt locks[, should a statistically valid
+35 study of insurer experience indicate an actuarially significant decrease
+36 in losses attributable to the use of such a device. The superintendent
+37 shall by regulation establish standards for dead-bolt locks for which a
+38 reduction may be approved. The reductions provided for shall be propor-
+39 tionally related to the actuarially calculable decrease in losses
+40 attributable to the use of such a device] or a security system; and
+41 (2) water damage prevention or mitigation improvements, such as a
+42 smart water monitor and shutoff device.
+43 (b) An insurer shall offer a discount that provides an actuarially
+44 appropriate reduction in the rates of homeowners insurance premiums
+45 applicable to residential real property for the installation of a newly
+46 constructed roof or a roof replacement and for each of the following
+47 wind damage mitigation improvements to the property:
+48 (1) improvements made to roof coverings, such as tiles or shingles,
+49 for wind-resistance;
+50 (2) roof deck attachments;
+51 (3) secondary water resistance, including sealing and strengthening a
+52 roof deck, roof and gable end vents or covers, and improvements made for
+53 water intrusion resistance of attic vents; and
+54 (4) roof to wall connections, including toe nails, clips, strapping,
+55 or ties.
+
+A. 9016--D 4
+1 (c) To be considered for any discount provided for in paragraph (b) of
+2 this subsection, an insurable property shall be certified as constructed
+3 in accordance with any building code applicable in this state or New
+4 York city, as amended from time-to-time, or such other standards as
+5 approved by the superintendent.
+6 § 4. Paragraphs 12 and 13 of subsection (b) of section 2305 of the
+7 insurance law, as amended by section 9 of part AAA of chapter 59 of the
+8 laws of 2017, are amended and a new paragraph 14 is added to read as
+9 follows:
+10 (12) gap insurance; [and]
+11 (13) private passenger automobile insurance, except as provided in
+12 section two thousand three hundred fifty of this article[,]; and
+13 (14) homeowners insurance or property/casualty insurance applicable to
+14 residential real property as it relates to the inclusion of property-
+15 specific mitigation actions and community-level mitigation actions in
+16 the calculation of such rates,
+17 § 5. Paragraphs 1 and 2 of subsection (d) of section 3425 of the
+18 insurance law are amended to read as follows:
+19 (1) Unless the insurer, at least [forty-five] ninety but not more than
+20 [sixty] one hundred twenty days in advance of the end of the policy
+21 period for nonrenewal or conditional renewal or the effective date for
+22 cancellation, mails or delivers to the named insured, at the address
+23 shown in the policy, a written notice of its intention not to renew a
+24 covered policy, [or] to condition its renewal upon change of limits or
+25 elimination of any coverages, or to cancel the policy, the named insured
+26 shall be entitled to renew the policy upon timely payment of the premium
+27 billed to the insured for the renewal. The specific reason or reasons
+28 for nonrenewal or conditioned renewal shall be stated in or shall accom-
+29 pany the notice. The specific reason or reasons for cancellation as
+30 provided in subsection (c) of this section shall be stated in or shall
+31 accompany the notice. This paragraph shall not apply when the named
+32 insured, an agent or broker authorized by the named insured, or an
+33 insurer of the named insured, has mailed or delivered written notice to
+34 the insurer that the policy has been replaced or is no longer desired.
+35 (2) If an insurer has the right to cancel a policy it may, in lieu of
+36 cancellation, condition continuation of such policy upon change of
+37 limits or elimination of any coverage not required by law, if written
+38 notice of such intention is mailed or delivered to the insured at the
+39 address shown in the policy at least [twenty] ninety days prior to the
+40 effective date of such action.
+41 § 6. The opening paragraph of subsection (c) of section 3426 of the
+42 insurance law, as amended by chapter 235 of the laws of 1989, is amended
+43 to read as follows:
+44 After a covered policy has been in effect for sixty days unless
+45 cancelled pursuant to subsection (b) of this section, or on or after the
+46 effective date if such policy is a renewal, no notice of cancellation
+47 shall become effective until [fifteen] ninety days after written notice
+48 is mailed or delivered to the first-named insured and to such insured's
+49 authorized agent or broker, and such cancellation is based on one or
+50 more of the following:
+51 § 7. Paragraphs 3 and 4 of subsection (a) of section 3462 of the
+52 insurance law, as added by section 1 of part BB of chapter 56 of the
+53 laws of 2024, are amended and a new paragraph 5 is added to read as
+54 follows:
+55 (3) The level or source of income of the tenants of the residential
+56 building or the shareholders of a cooperative housing corporation; [or]
+
+A. 9016--D 5
+1 (4) Whether such residential building is owned by a limited-equity
+2 cooperative; owned by a public housing authority; or owned by a cooper-
+3 ative housing corporation subject to the provisions of article two,
+4 article four, article five or article eleven of the private housing
+5 finance law[.]; or
+6 (5) The residential building is located in a disadvantaged community,
+7 as identified pursuant to section 75-0111 of the environmental conserva-
+8 tion law. An insurer who cancels, refuses to issue, refuses to renew or
+9 increase the premium of a policy, or excludes, limits, restricts, or
+10 reduces coverage under a policy for a residential building located in a
+11 disadvantaged community shall provide actuarial information to the
+12 insured or applicant to support such action.
+13 § 8. Subsection (b) of section 5402 of the insurance law, as amended
+14 by chapter 42 of the laws of 1996, is amended to read as follows:
+15 (b) The association shall be governed by a board of [thirteen] twen-
+16 ty-three directors, ten of whom shall be elected annually by cumulative
+17 voting by the members of the association, whose votes in such election
+18 shall be weighted in accordance with each member's net direct premiums
+19 written during the preceding calendar year. An additional six directors
+20 shall be appointed annually by the legislature, two by the temporary
+21 president of the senate, two by the speaker of the assembly, one by the
+22 minority leader of the senate and one by the minority leader of the
+23 assembly. Four directors shall be appointed annually by the governor and
+24 two of such directors shall be representatives of consumers. The remain-
+25 ing three directors shall be appointed annually by the superintendent
+26 and be duly licensed insurance agents or brokers representative of broad
+27 segments of the public obtaining insurance through the association.
+28 § 9. Subsection (g) of section 5402 of the insurance law, as amended
+29 by chapter 182 of the laws of 2023, is amended to read as follows:
+30 (g) In addition to fire insurance, extended coverage, coverage for
+31 additional perils and homeowners insurance should the same be made
+32 available through the association in accordance with a determination of
+33 necessity pursuant to section five thousand four hundred twelve of this
+34 article, the association may offer broad form coverage to applicants
+35 seeking to insure real property at fixed locations of this state, or the
+36 tangible personal property located thereon. The association may offer
+37 broad form coverage until June thirtieth, two thousand twenty-eight. On
+38 or before October first, two thousand twenty-seven the superintendent
+39 shall require the association to report to the superintendent as to the
+40 number of policies written pursuant to this subsection and paragraph
+41 three of subsection (f) of section five thousand four hundred five of
+42 this article, and any other information the superintendent may require.
+43 On or before January first, two thousand twenty-eight, and every four
+44 years thereafter, the superintendent shall report to the governor and
+45 the legislature regarding the number of policies issued pursuant to this
+46 section and such paragraph, the geographic location of such policies,
+47 the types of policies offered, the coverage limits of such policies,
+48 risk reduction investments, information on the financial standing of the
+49 association and [shall include] recommendations as to the continuation
+50 of such insurance offerings.
+51 § 10. This act shall take effect on the one hundred eightieth day
+52 after it shall have become a law. Effective immediately, the addition,
+53 amendment and/or repeal of any rule or regulation necessary for the
+54 implementation of this act on its effective date are authorized to be
+55 made and completed on or before such effective date.
