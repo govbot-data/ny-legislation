@@ -1,0 +1,375 @@
+Title: 
+Official Title: 
+Source: versions - A9251A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9251--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+November 7, 2025
+___________
+Introduced by M. of A. VANEL, SHIMSKY, STECK, HYNDMAN -- read once and
+referred to the Committee on Consumer Affairs and Protection -- recom-
+mitted to the Committee on Consumer Affairs and Protection in accord-
+ance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general business law and the racing, pari-mutuel
+wagering and breeding law, in relation to prediction markets
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 48 to read as follows:
+3 ARTICLE 48
+4 PREDICTION MARKETS
+5 Section. 1800. Short title.
+6 1801. Definitions.
+7 1802. Age restrictions.
+8 1803. Exclusions from participation.
+9 1804. Certain markets prohibited.
+10 1805. Settlement sources.
+11 1806. At-risk trading measures.
+12 1807. Advertising restrictions.
+13 1808. Restrictions on credit-based products and gift certif-
+14 icates.
+15 1809. Restrictions on market making.
+16 1810. Certain contract provisions void.
+17 1811. Insider trading and market manipulation.
+18 1812. Penalties.
+19 1813. Rulemaking authority.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14025-02-6
+
+A. 9251--A 2
+1 § 1800. Short title. This article shall be known and may be cited as
+2 the "oversight and regulation of activity for contracts linked to events
+3 (ORACLE) act".
+4 § 1801. Definitions. As used in this article, the following terms have
+5 the following meanings:
+6 1. "Consumer" means an individual who is a resident of the state of
+7 New York.
+8 2. "Prediction market platform" means any platform or service that
+9 provides consumers with the ability to open, close, trade, or settle
+10 speculative positions on prediction markets. A prediction market plat-
+11 form shall not include a platform operated by an entity that (a) is
+12 licensed in this state, (b) would otherwise be required to be licensed
+13 to operate in this state, or (c) that is prohibited from operating in
+14 this state under the racing, pari-mutuel wagering and breeding law.
+15 3. "Prediction market" means a system that allows consumers to open a
+16 speculative position on the outcome of future events, in a bid-ask
+17 format. This definition shall include all forms of prediction markets
+18 regardless of the mechanisms or structures used for opening speculative
+19 positions on future events.
+20 4. "Bid-ask format" shall mean a format in which parties submit offers
+21 to buy positions on a prediction market at a specific price or range of
+22 prices and offers to sell positions at a specific price or range of
+23 prices, with market prices determined through the matching of these
+24 offers.
+25 5. "Catastrophic event market" means a prediction market that enables
+26 a consumer to open a speculative position on an outcome that relates to
+27 war, state or national emergencies, natural or human-made disasters,
+28 mass shootings, acts of terrorism, or public health crises or the ancil-
+29 lary effects thereof.
+30 6. "Political market" means a prediction market that enables a consum-
+31 er to open a speculative position that relates to:
+32 (a) a federal election, a statewide election in New York, or an
+33 election held by a municipality within the state; or
+34 (b) the actions or conduct of the federal government, its agencies,
+35 employees, officers or leaders, the New York state government or any of
+36 its agencies, employees, officers or leaders, or a municipal government
+37 or any of its agencies, employees, officers or leaders in their official
+38 government capacity.
+39 7. "Death market" means a prediction market that enables a consumer to
+40 open a speculative position on the death, assassination, or attempted
+41 killing of a person or group of persons, or on mass casualty events.
+42 This shall not include a prediction market where the outcome could indi-
+43 rectly depend on a death as a consequence of a person's inclusion in the
+44 market, such as a lawful prediction market which depends on a person
+45 engaging in some action where their death would naturally settle the
+46 market as such person not engaging in such action.
+47 8. "Security market" means a prediction market that enables a consumer
+48 to open a speculative position on the price of a publicly traded compa-
+49 ny.
+50 9. "Speculative position" means a financial commitment made by a
+51 participant in a prediction market.
+52 10. "Athletic event market" means a prediction market that enables a
+53 consumer to open a speculative position on the outcome of a specific
+54 athletic event or events or events within an athletic event or events.
+55 Athletic events shall include horse racing and prop betting.
+
+A. 9251--A 3
+1 11. "Athletic event" means an organized competition between two or
+2 more persons or groups of persons that involves physical or mental
+3 skill.
+4 12. "Athletic tournament" means a series of athletic events in which
+5 the winners of individual events progress to compete in subsequent
+6 events until a final overall winner is determined.
+7 13. "Settlement source" means an entity from which the prediction
+8 market platform obtains or sources information for the purpose of deter-
+9 mining the outcome of a market.
+10 14. "Liquidity provider" or "market maker" shall mean any person or
+11 entity that, directly or indirectly, and whether manually or through
+12 automated means, offers to buy or sell position in a prediction market
+13 with the primary purpose of facilitating trading, supporting price
+14 discovery, or maintaining market liquidity by posting bids and asks.
+15 § 1802. Age restrictions. 1. No prediction market platform provider
+16 shall permit any consumer under the age of twenty-one years to register
+17 or to open any speculative position on a prediction market.
+18 2. If the provider has inadvertently permitted a user that is under
+19 the age of twenty-one to use the provider's platform and such provider
+20 discovers the error, the provider shall immediately suspend that
+21 account, close all positions on that account, pay out to the consumer
+22 any funds on the account, and prohibit the individual from further use
+23 of the provider's platform until such consumer has attained the age of
+24 twenty-one.
+25 § 1803. Exclusions from participation. 1. A provider shall maintain
+26 and enforce policies to exclude certain individuals from participation,
+27 including:
+28 (a) any person who has self-excluded from using the platform;
+29 (b) any officer, director, employee, or agent of the provider or its
+30 affiliated companies;
+31 (c) any officer, director, employee, or agent of a source settlement
+32 provider;
+33 (d) any person who has insider information on a particular market or
+34 markets; and
+35 (e) any other category of persons the attorney general by regulation
+36 designates as excluded.
+37 2. Such exclusion shall be enforced until such person no longer meets
+38 the criteria required for exclusion under this section.
+39 § 1804. Certain markets prohibited. A prediction market platform
+40 provider shall not permit New York users to open a speculative position
+41 on the following types of markets:
+42 1. Catastrophic event markets;
+43 2. Political markets;
+44 3. Death markets;
+45 4. Security markets; and
+46 5. Athletic event markets.
+47 § 1805. Settlement sources. 1. Every provider shall maintain a compre-
+48 hensive list of all settlement sources that the provider uses to deter-
+49 mine the outcomes of the provider's prediction markets and shall make
+50 this list readily accessible to consumers at all stages of the registra-
+51 tion process.
+52 2. Each provider shall display, on every section of the provider's
+53 website in which a person can open a speculative position on a specific
+54 prediction market, the settlement source for the settlement of such
+55 market.
+
+A. 9251--A 4
+1 3. No provider shall settle a market based on proprietary or confiden-
+2 tial information.
+3 § 1806. At-risk trading measures. 1. Every provider shall implement
+4 and adhere to responsible trading measures to protect consumers who may
+5 be at risk of at-risk trading behavior. Such measures shall include, at
+6 a minimum:
+7 (a) Providing a mechanism by which an individual can voluntarily self-
+8 exclude from the platform for a definite or indefinite period. If a
+9 consumer self-excludes, the provider must immediately block such consum-
+10 er's access to opening a speculative position and take reasonable steps
+11 to prevent the consumer from creating new accounts.
+12 (b) Allowing consumers to set daily, weekly, or monthly limits on the
+13 amount they can deposit or spend in opening speculative positions, if
+14 they so choose. The platform may not encourage consumers to remove or
+15 increase limits once set; any request to increase a self-imposed limit
+16 shall have a fourteen day waiting period.
+17 (c) Providing features that allow consumers to limit the amount of
+18 time spent on the platform, and periodic notifications that remind
+19 consumers of how long they have been active and their net
+20 spendings/winnings during that session.
+21 (d) Clearly posting and providing the toll-free HOPE NY hotline on the
+22 platform's website and apps and in any advertisements. No other hotline
+23 may be displayed.
+24 (e) All advertisements and marketing materials must include a at-risk
+25 trading message and the HOPE NY hotline number in a clear and conspicu-
+26 ous manner, consistent with New York law requiring addiction warnings on
+27 all advertisements.
+28 2. Every provider shall implement training for employees to recognize
+29 and respond to indications of at-risk trading and how they can direct
+30 consumers to resources for help.
+31 3. Every provider shall implement policies to identify at-risk trading
+32 and shall, upon making a determination that a user is engaged in at-risk
+33 trading, prohibit access to the provider's service.
+34 4. Every prediction market platform provider shall comply with the
+35 advertising standards set forth in section eighteen-hundred seven of
+36 this article.
+37 § 1807. Advertising restrictions. 1. All advertising by a prediction
+38 market platform shall be truthful and not misleading.
+39 2. A prediction market provider shall be prohibited from sending push
+40 notifications to users which pertain to bonuses or prediction markets
+41 which the user does not currently have an open speculative position on.
+42 3. No advertisement shall depict a person under the age of twenty-one,
+43 except incidentally.
+44 4. No advertisements shall target persons under the age of twenty-one
+45 or other vulnerable classes of persons, which the attorney general may
+46 designate by regulation.
+47 5. A provider shall not advertise in a manner that is calculated to
+48 reach individuals on the self-exclusion list or individuals known to
+49 have engaged in at-risk trading.
+50 6. Every advertisement for a prediction market platform shall include
+51 the HOPE NY hotline. Where such advertisement is a video, the message
+52 and hotline shall be visible for the entire duration of the video. Where
+53 the advertisement is auditory only in nature, the message shall be stat-
+54 ed at the beginning and end of the advertisement.
+
+A. 9251--A 5
+1 7. No advertisement may suggest that the prediction market product is
+2 endorsed by the state of New York or any government agency, except that
+3 it may state that the platform is within the state.
+4 8. A provider shall provide consumers with a readily accessible way to
+5 opt out of direct marketing. Upon a consumer's request, the provider
+6 shall cease sending them promotional material.
+7 9. No promotion may be advertised as "risk-free" or of similar
+8 language.
+9 10. If the provider offers bonuses, free credits, referral rewards, or
+10 other promotions to consumers, the terms and conditions of these offers
+11 must be described in plain language and shall be readily available to
+12 the consumer prior to the consumer accepting such bonuses, free credits,
+13 referral rewards, or other promotions.
+14 11. Where a provider uses affiliate marketers or third-party promoters
+15 to promote the provider's platform, the provider shall be responsible
+16 for ensuring such third parties also comply with the advertising stand-
+17 ards required by this section and are liable for non-compliance with the
+18 provisions of this section.
+19 12. The attorney general may promulgate additional rules and regu-
+20 lations pertaining to advertising by prediction market providers.
+21 § 1808. Restrictions on credit-based products and gift certificates.
+22 1. No prediction market provider or another, whether affiliated or
+23 otherwise, shall sell physical or digital gift certificates in relation
+24 to their platform.
+25 2. No prediction market provider shall permit a consumer to use a
+26 credit card or other credit-based product to add funds to such consum-
+27 er's account or, in any way, wager on a prediction market.
+28 § 1809. Restrictions on market making. 1. A prediction market provider
+29 shall not offer a prediction market in the state if the market includes,
+30 as a liquidity provider or market maker, any person or entity who know-
+31 ingly engages in gaming activities in the ordinary course of business,
+32 whether within or outside the state. This prohibition shall also apply
+33 to any affiliated entities, subsidiaries, parent companies, joint
+34 ventures, partnerships, agents, employees, or any entity acting at the
+35 direction of, in cooperation with, or for the financial benefit of such
+36 a person or entity.
+37 2. A prediction market provider shall not offer markets to residents
+38 where in such markets there is a contract or share of revenue with a
+39 person or entity who knowingly engages in gaming activities in the ordi-
+40 nary course of business, whether within or outside the state. This
+41 prohibition shall also apply to any affiliated entities, subsidiaries,
+42 parent companies, joint ventures, partnerships, agents, employees, or
+43 any entity acting at the direction of, in cooperation with, or for the
+44 financial benefit of such a person or entity.
+45 § 1810. Certain contract provisions void. 1. A provider's terms of
+46 service shall not alter or eliminate any right provided to a consumer
+47 under this article.
+48 2. Any agreement which violates any provision within this article
+49 shall be deemed void.
+50 § 1811. Insider trading and market manipulation. 1. A prediction
+51 market platform provider shall implement commercially reasonable and
+52 technically feasible measures to detect and prevent any fraudulent or
+53 manipulative conduct by participants or others. If the provider detects
+54 potential manipulation, insider trading, or fraud, it shall report it to
+55 the attorney general and, if appropriate, to law enforcement.
+
+A. 9251--A 6
+1 2. A person who engages in insider trading or market manipulation may
+2 be subject to penalties as prescribed by section three hundred fifty-two
+3 of this chapter.
+4 § 1812. Penalties. 1. Any prediction market provider who violates any
+5 provision of this article, or any rule, regulation, or order promulgated
+6 thereunder, shall be liable for a civil penalty not to exceed ten thou-
+7 sand dollars for each violation. Where the attorney general determines
+8 that the provider has engaged in a persistent course of conduct in
+9 violation of this section, the attorney general may impose a civil
+10 penalty not to exceed fifty thousand dollars for each violation.
+11 2. Where a prediction market provider violated the provisions of
+12 sections eighteen-hundred three or eighteen-hundred nine of this arti-
+13 cle, such civil penalty shall be the greater of two times such profits
+14 derived from such market or fifty thousand dollars.
+15 3. Whenever the attorney general shall believe from evidence satisfac-
+16 tory to them that a prediction market provider has engaged in a persist-
+17 ent course of conduct in violation of this article, they may bring an
+18 action in the name and on behalf of the people of the state of New York,
+19 in a court of justice having jurisdiction to issue an injunction, to
+20 enjoin and restrain the continuation of such violation. In such action,
+21 preliminary relief may be granted under article sixty-three of the civil
+22 practice law and rules. In such action the court shall order such
+23 provider to cease operations in the state.
+24 4. Where a prediction market provider continues to operate in the
+25 state after an order pursuant to subdivision three of this section is
+26 made, such provider shall incur a civil penalty of one million dollars
+27 per day that such provider is operating in violation of such order.
+28 5. Nothing in this article shall be construed to preclude criminal
+29 prosecution under any other law.
+30 6. The fact that a prediction market provider did not charge money or
+31 earn profit from such activities in violation of this section shall not
+32 be a defense to a violation of this article.
+33 7. Nothing in this article shall be construed as limiting the commis-
+34 sioner of the New York state gaming commission or the attorney general
+35 from penalizing prediction platforms for violating any law under the
+36 jurisdiction of each. The commissioner of gaming shall have concurrent
+37 jurisdiction with respect to any violation of section nine hundred thir-
+38 teen of the racing, pari-mutuel wagering and breeding law.
+39 8. The remedies and penalties in this article are cumulative. Imposi-
+40 tion of a penalty under this section does not preclude the attorney
+41 general from taking any other action authorized for the same violation.
+42 § 1813. Rulemaking authority. The attorney general shall promulgate
+43 rules and regulations as are necessary to effectuate and enforce the
+44 provisions of this article.
+45 § 2. The racing, pari-mutuel wagering and breeding law is amended by
+46 adding a new section 913 to read as follows:
+47 § 913. Prohibition of licensed entities engaging in prediction market
+48 activity. 1. For the purposes of this section, the following terms shall
+49 have the following meanings:
+50 (a) "Prediction market" means a system that allows consumers to open a
+51 speculative position on the outcome of future events, in a bid-ask
+52 format. This definition shall include all forms of prediction markets
+53 regardless of the mechanisms or structures used for opening speculative
+54 positions on future events.
+55 (b) "Bid-ask format" shall mean a format in which parties submit
+56 offers to buy positions on a prediction market at a specific price or
+
+A. 9251--A 7
+1 range of prices and offers to sell positions at a specific price or
+2 range of prices, with market prices determined through the matching of
+3 these offers.
+4 (c) "Speculative position" means a financial commitment made by a
+5 participant in a prediction market.
+6 2. No entity that (a) is licensed in this state, (b) would otherwise
+7 be required to be licensed to operate in this state, or (c) is prohibit-
+8 ed from operating in this state under this chapter shall offer predic-
+9 tion markets to consumers in this state.
+10 3. (a) Any applicant, licensed entity, gaming employee, key employee,
+11 individual investor or investment firm, board member, or any other
+12 person or entity found in violation of this section shall be subject to
+13 a fine of not less than ten thousand dollars and not more than one
+14 hundred thousand dollars for each violation and shall be subject to the
+15 loss of a gaming license and/or be ineligible for a gaming license.
+16 (b) All fines resulting from violations of this section shall be
+17 collected by the state gaming commission and deposited into the commer-
+18 cial gaming revenue fund, established in section ninety-seven-nnnn of
+19 the state finance law, to be distributed for problem gambling education
+20 and treatment purposes pursuant to paragraph a of subdivision four of
+21 such section.
+22 4. (a) The state gaming commission, the state police, or the attorney
+23 general's office shall have the authority to enforce the provisions of
+24 this section.
+25 (b) The state gaming commission, state police or attorney general's
+26 office may conduct investigations, hold hearings, issue cease and desist
+27 letters, and issue subpoenas to ensure compliance with the provisions of
+28 this section, provided however that the attorney general may engage in
+29 such activity only with respect to any concurrent violation of article
+30 forty-eight of the general business law.
+31 § 3. Severability. If any clause, sentence, paragraph, section, or
+32 part of this article shall be adjudged by any court of competent juris-
+33 diction to be invalid. Such judgment shall not affect, impair, or inval-
+34 idate the remainder thereof, but shall be confined in its operation to
+35 the clause, sentence, paragraph, subdivision, section, or part thereof
+36 directly involved in the controversy in which such judgment has been
+37 rendered. It is hereby declared to be the intent of the legislature that
+38 this act would have been enacted if such invalid provisions had not been
+39 included therein.
+40 § 4. This act shall take effect one year after it shall have become a
+41 law.

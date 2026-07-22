@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - A2299B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2299--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 16, 2025
+___________
+Introduced by M. of A. GALLAGHER, SEAWRIGHT, HEVESI, SIMONE, SIMON,
+GONZALEZ-ROJAS, SHIMSKY, TAPIA, RAGA, KELLES, R. CARROLL, SHRESTHA,
+McDONALD, VALDEZ, MAMDANI, VANEL, ALVAREZ, WIEDER -- read once and
+referred to the Committee on Transportation -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee -- again reported from said committee with amendments,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the vehicle and traffic law, in relation to requiring
+the installation of intelligent speed assistance devices for repeated
+violation of maximum speed limits
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The vehicle and traffic law is amended by adding a new
+2 section 119-c to read as follows:
+3 § 119-c. Intelligent speed assistance device. A device, also referred
+4 to as a "speed limiter", which is installed in a motor vehicle and
+5 utilizes technology to cap the speed of a motor vehicle at five miles
+6 per hour more than the speed limit in a specific zone. The technology
+7 shall allow for slight acceleration past the speed limit, if necessary,
+8 based on traffic conditions.
+9 § 2. Subdivision (h) of section 1180 of the vehicle and traffic law is
+10 amended by adding a new paragraph 6 to read as follows:
+11 6. (i) Upon a conviction for any violation or set of violations of
+12 subdivision (b), (c), (d), (f) or (g) of this section which results in
+13 an accumulation of eleven or more points on the driving record of any
+14 person for violations that occurred during the preceding twenty-four
+15 month period, the court shall, in addition to any other fines, imprison-
+16 ment, conditional discharge or license suspension or revocation, mandate
+17 that the person have installed an intelligent speed assistance device,
+18 otherwise known as a speed limiter, in any motor vehicle owned or oper-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05518-05-5
+
+A. 2299--B 2
+1 ated by such person for a minimum period of twelve months or for any
+2 period of license suspension or revocation, whichever is later.
+3 (ii) Where a person who has accumulated eleven points on their driving
+4 record as a result of any violation or set of violations of subdivision
+5 (b), (c), (d), (f), or (g) of this section in the preceding twenty-four
+6 month period does not appear in court, the commissioner shall send a
+7 written notice, by first class mail to the address of such person on
+8 file with the department or at the current address provided by the
+9 United States postal service, that such person is required to have
+10 installed an intelligent speed assistance device, otherwise known as a
+11 speed limiter, in any motor vehicle owned or operated by such person for
+12 a minimum period of twelve months or for any period of license suspen-
+13 sion or revocation, whichever is later. The person shall provide proof
+14 of installation as outlined in subparagraph (viii) of this paragraph.
+15 If the person fails to provide such proof of installation, the commis-
+16 sioner may suspend their license, modify an existing order of suspen-
+17 sion, or may order the revocation of their license or driving privi-
+18 leges.
+19 (iii) Upon the finding of owner liability for failure of an operator
+20 to comply with certain posted maximum speed limits through a photo speed
+21 violation monitoring system, where such person has received six or more
+22 notices of liability; or the finding of owner liability for failure of
+23 an operator to comply with traffic-control indications through use of a
+24 traffic-control signal photo violation-monitoring device, where such
+25 person has received six or more notices of liability, during the preced-
+26 ing twelve-month period, the commissioner shall send a written
+27 notice, by first class mail to the address of such person on file with
+28 the department or at the current address provided by the United States
+29 postal service, that such person is required to have installed an intel-
+30 ligent speed assistance device, otherwise known as a speed limiter, in
+31 any motor vehicle owned or operated by such person for a minimum period
+32 of twelve months. The New York city department of finance and any other
+33 local authorities collecting information related to notices of liability
+34 for failure of an operator to comply with certain posted maximum speed
+35 limits through a photo speed violation-monitoring system or failure of
+36 an operator to comply with traffic-control indications through use of a
+37 traffic-control signal photo violation-monitoring device shall regularly
+38 provide the commissioner with any and all information, data, or documen-
+39 tation which the commissioner deems necessary to identify and notify
+40 persons who have received sufficient notices of liability to require the
+41 installation of an intelligent speed assistance device.
+42 (iv) A person who is required to install a speed limiter under this
+43 paragraph shall request removal of the device from the department upon
+44 the end of their mandated period of use of the speed limiter. Upon
+45 receiving this request, the commissioner may require such person to
+46 complete a written driving test and a road test administered pursuant to
+47 subdivision four of section five hundred two of this chapter prior to
+48 having the intelligent speed assistance device removed. The commissioner
+49 may deny the request to remove the device based upon the individual's
+50 performance on the written driving test, the road test, or as a result
+51 of their driving record during the period of speed limiter use.
+52 (v) The cost of installing and maintaining a speed limiter shall be
+53 borne by the person subject to such condition unless the court or the
+54 commissioner determines such person is financially unable to afford such
+55 cost whereupon such cost may be imposed pursuant to a payment plan or
+56 waived. At the end of the required installation period a speed limiter
+
+A. 2299--B 3
+1 device shall be returned to a qualified service provider, as established
+2 by subparagraph (vii) of this paragraph. If deemed to be in working
+3 order after being returned to a qualified service center, the device may
+4 be installed on any other motor vehicle required to have a speed limiter
+5 installed.
+6 (vi) The commissioner shall create a list of approved intelligent
+7 speed assistance devices. Approved intelligent speed assistance devices
+8 must be capable of accurately detecting speed limits across road and
+9 weather conditions, and the commissioner may promulgate any rules and
+10 regulations necessary to further ensure that devices operate reliably.
+11 (vii) The commissioner shall create a list of service providers which
+12 are qualified to install, service, inspect, and remove approved intelli-
+13 gent speed assistance devices. This list may include any
+14 installation/service providers, as defined in 9 NYCRR 358.3, which are
+15 approved for the installation, servicing, and removal of ignition inter-
+16 lock devices installed pursuant to section eleven hundred ninety-eight
+17 of this title.
+18 (viii) Proof of installation of a speed limiter required under subpar-
+19 agraph (i) of this paragraph shall occur within ten days of the court
+20 order. If a person ordered to have a speed limiter device installed
+21 under subparagraph (ii) or (iii) of this paragraph is unable to finan-
+22 cially afford the cost of the speed limiter, they may request in writ-
+23 ing, within ten days of receiving the notification from the commission-
+24 er, a payment plan or to have payment for the device waived. Proof of
+25 installation of a speed limiter required under this paragraph shall
+26 occur within ten days of receiving a written notice of a determination
+27 from the commissioner as to whether such person will be granted a
+28 payment plan or have payment for the device waived. Within thirty days
+29 after the initial installation of an intelligent speed assistance
+30 device, the device shall be inspected by a qualified service center to
+31 ensure the device is properly calibrated and installed.
+32 The commissioner shall promulgate regulations governing the monitor-
+33 ing of compliance by the department of persons ordered to install and
+34 maintain speed limiters.
+35 (ix) (A) No person shall tamper with or circumvent an otherwise
+36 operable speed limiter.
+37 (B) No person subject to a court ordered speed limiter shall oper-
+38 ate a motor vehicle without such device.
+39 (C) In addition to any other provisions of law, any person convicted
+40 of a violation of clause (A) or (B) of this subparagraph shall be guil-
+41 ty of a class A misdemeanor.
+42 (x) A violation of any provision of this paragraph, or a finding that
+43 any person has assisted a driver to violate this paragraph, shall be a
+44 class A misdemeanor punishable by up to one year in jail.
+45 (xi) (A) The commissioner shall submit a report every twenty-four
+46 months to the governor and the legislature with the following informa-
+47 tion about the speed limiter program under this paragraph:
+48 (1) Number of individuals actively required to have speed limiters
+49 installed in motor vehicles they own or operate.
+50 (2) Number of motor vehicles required to have speed limiters
+51 installed.
+52 (3) Number of fee waivers approved to waive the entire fee for
+53 installing a speed limiter.
+54 (4) Number of individuals put on a payment plan for their speed limi-
+55 ter.
+
+A. 2299--B 4
+1 (B) As available to the commissioner, they shall also include the
+2 following information about the speed limiter program under this para-
+3 graph:
+4 (1) Number of speeding tickets issued to individuals with speed limi-
+5 ters installed.
+6 (2) Number of other traffic law infractions committed by individuals
+7 with speed limiters installed, organized by category or type of traffic
+8 violation.
+9 (3) Number of reported accidents involving individuals with speed
+10 limiters installed.
+11 (4) Number of known individuals who have not complied with the
+12 provisions of this paragraph, separated by three categories: not
+13 initially installing a device as required, removing the device before a
+14 follow-up inspection, and being cited for not having a device properly
+15 installed during a traffic stop.
+16 (C) Such report shall also be made publicly available on the depart-
+17 ment of transportation and department of motor vehicles websites.
+18 (xii) The commissioner may promulgate any rules and regulations neces-
+19 sary to implement the provisions of this paragraph.
+20 § 3. This act shall take effect on the sixtieth day after it shall
+21 have become a law; provided, however, that subparagraph (iii) of para-
+22 graph 6 of subdivision (h) of section 1180 of the vehicle and traffic
+23 law, as added by section two of this act, shall take effect one year
+24 after such effective date.

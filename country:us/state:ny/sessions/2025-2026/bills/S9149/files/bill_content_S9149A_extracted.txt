@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - S9149A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9149--A
+IN SENATE
+February 6, 2026
+___________
+Introduced by Sen. CLEARE -- read twice and ordered printed, and when
+printed to be committed to the Committee on Transportation -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the public authorities law, in relation to time-delay
+mechanisms on emergency exit gates
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public authorities law is amended by adding a new
+2 section 1279-j to read as follows:
+3 § 1279-j. Time-delay emergency mechanisms. Notwithstanding any other
+4 provision of law, the authority may install and operate time-delay
+5 egress mechanisms on emergency exit gates at subway stations operated by
+6 the authority. The authority shall be prohibited from using such time-
+7 delay egress mechanisms at unstaffed stations. If a station becomes
+8 unstaffed, the authority shall be required to deactivate such time-delay
+9 mechanism until such station has a trained human station agent phys-
+10 ically present and on duty. Further, any time-delay egress mechanism
+11 utilized pursuant to this section shall:
+12 (a) include override systems in the event of emergencies, including
+13 but not limited to fires, power failures, and emergency evacuations; and
+14 (b) comply with the Americans with Disabilities Act of 1990.
+15 § 2. This act shall take effect immediately.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14323-03-6

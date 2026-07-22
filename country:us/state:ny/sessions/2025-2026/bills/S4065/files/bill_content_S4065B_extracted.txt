@@ -1,0 +1,219 @@
+Title: 
+Official Title: 
+Source: versions - S4065B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4065--B
+2025-2026 Regular Sessions
+IN SENATE
+January 31, 2025
+___________
+Introduced by Sen. PARKER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Environmental Conservation
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the energy law and the tax law, in relation to estab-
+lishing a sustainable aviation fuel tax credit in New York state
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The energy law is amended by adding a new section 5-112 to
+2 read as follows:
+3 § 5-112. Sustainable aviation fuel tax credit. 1. Except as otherwise
+4 provided under this section, a sustainable aviation fuel producer may
+5 claim a credit against the tax imposed by section three hundred one-e of
+6 the tax law in an amount equal to one dollar per gallon of sustainable
+7 aviation fuel purchased in this state during the tax year by a business
+8 for use as fuel for flights departing in this state. The amount of cred-
+9 it per gallon allowed under this section increases by two cents for each
+10 additional one percent reduction in carbon dioxide equivalent emissions
+11 above fifty percent but shall not exceed two dollars per gallon.
+12 2. A taxpayer shall not claim a credit under this section unless the
+13 office issued a certificate to the taxpayer. The taxpayer shall attach
+14 the certificate to their annual return on which a credit under this
+15 section is claimed. The certificate required under this subdivision
+16 shall state all of the following:
+17 a. The name, business address, and tax identification number of the
+18 taxpayer.
+19 b. The total amount of gallons of sustainable aviation fuel that is
+20 purchased in this state during the tax year from the taxpayer and to be
+21 used as fuel in an aircraft departing from an airport in this state.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08509-03-5
+
+S. 4065--B 2
+1 c. The number of gallons of sustainable aviation fuel for which the
+2 percentage reduction in carbon dioxide equivalent emissions is above
+3 fifty percent and that percentage amount.
+4 3. If the amount of the credit allowed under this section exceeds the
+5 taxpayer's tax liability for the tax year, that portion that exceeds the
+6 tax liability for the tax year shall be refunded.
+7 4. As used in this section, the following terms shall have the follow-
+8 ing meanings:
+9 a. "Aviation fuel" means kero-jet fuel and gasoline as that term is
+10 described in subdivision (a) of section three hundred one-b of the tax
+11 law.
+12 b. "Biomass" means any organic matter that is available on a renewable
+13 or recurring basis, including agricultural crops, wood and wood waste
+14 and residues, plants including aquatic plants, grasses, residues,
+15 fibers, animal waste, and the organic portion of solid wastes.
+16 c. "Carbon dioxide equivalent" means a metric measure used to compare
+17 the emissions from various greenhouse gases based upon their global-
+18 warming potential.
+19 d. "Carbon intensity" means the quantity of life-cycle greenhouse gas
+20 emission, per unit of fuel energy, expressed in grams of carbon dioxide
+21 equivalent per megajoule.
+22 e. "Office" means the New York state energy research and development
+23 authority established pursuant to article eight of the public authori-
+24 ties law.
+25 f. "Commissioner" means the president of the New York state energy
+26 research and development authority.
+27 g. "Sustainable aviation fuel" means liquid fuel that:
+28 (i) consists of synthesized hydrocarbons and meets the requirements
+29 of:
+30 (A) the American Society for Testing and Materials International Stan-
+31 dard D7566; or
+32 (B) Standard D1655;
+33 (ii) is derived from biomass resources, waste streams, renewable or
+34 zero-carbon energy sources, or gaseous carbon oxides;
+35 (iii) is not derived from any palm or petroleum derivatives; and
+36 (iv) the fuel production pathway for the sustainable aviation fuel
+37 achieves at least a fifty percent lifecycle greenhouse gas emissions
+38 reduction in comparison with petroleum-based jet fuel, as determined by
+39 a test that shows either:
+40 (A) that the fuel production pathway achieves at least a fifty percent
+41 reduction of the aggregate attributional core lifecycle emissions and
+42 the positive induced land use change values under the lifecycle method-
+43 ology for sustainable aviation fuels adopted by the International Civil
+44 Aviation Organization with the agreement of the United States; or
+45 (B) that the fuel production pathway achieves at least a fifty percent
+46 reduction of the aggregate attributional core lifecycle greenhouse gas
+47 emissions values utilizing the most recent version of Argonne National
+48 Laboratory's GREET model, inclusive of but not limited to climate smart
+49 agricultural practices, on-site renewables and carbon capture and
+50 sequestration.
+51 5. The total amount of tax credits listed on certificates of tax cred-
+52 it issued by the commissioner pursuant to this article may not exceed
+53 thirty million dollars for each year the credit is available.
+54 6. Each aviation fuel producer claiming such credit shall report to
+55 the commissioner of the department of taxation and finance on a monthly
+56 basis the amount of sustainable aviation fuel to be sold within the
+
+S. 4065--B 3
+1 state. The commissioner of the department of taxation and finance shall
+2 make all such reports publicly available on such department's website.
+3 7. The department of taxation and finance shall determine a fair and
+4 equitable maximum distribution of such credit per eligible entity.
+5 § 2. The tax law is amended by adding a new section 50 to read as
+6 follows:
+7 § 50. Sustainable aviation fuel tax credit. (a) Allowance of credit.
+8 For taxable years beginning on or after January first, two thousand
+9 twenty-five, a taxpayer subject to tax pursuant to articles nine,
+10 nine-A, thirteen-A, or twenty-two of this chapter shall be allowed a
+11 credit against such tax pursuant to the provisions referenced in subdi-
+12 vision (f) of this section. The amount of the credit shall be equal to
+13 the amount determined pursuant to section 5-112 of the energy law. No
+14 cost or expense paid or incurred by the taxpayer that is included as
+15 part of the calculation of such credit shall be the basis of any other
+16 tax credit allowed under this chapter.
+17 (b) Eligibility criteria. To be eligible for the aviation fuel tax
+18 credit, the taxpayer shall have been issued a certificate of tax credit
+19 by the New York state energy research and development authority pursuant
+20 to section 5-112 of the energy law, which certificate shall set forth
+21 the amount of the credit that may be claimed for the taxable year. The
+22 taxpayer shall be allowed to claim only the amount listed on the certif-
+23 icate of tax credit for the taxable year. A taxpayer that is a partner
+24 in a partnership, member of a limited liability company, or shareholder
+25 in a subchapter S corporation that has received a certificate of tax
+26 credit shall be allowed its pro rata share of the credit earned by the
+27 partnership, limited liability company, or subchapter S corporation.
+28 (c) Tax return requirement. The taxpayer shall be required to attach
+29 to its tax return, in the form prescribed by the commissioner, proof of
+30 receipt of its certificate of tax credit issued by the New York state
+31 energy research and development authority.
+32 (d) Information sharing. Notwithstanding any provision of this chap-
+33 ter, employees of the division of criminal justice services and the
+34 department shall be allowed and are directed to share and exchange:
+35 (1) information derived from tax returns or reports that is relevant
+36 to a taxpayer's eligibility to participate in the sustainable aviation
+37 fuel tax credit program;
+38 (2) information regarding the credit applied for, allowed, or claimed
+39 pursuant to this section and taxpayers that are applying for the credit
+40 or that are claiming such credit; and
+41 (3) information contained in or derived from credit claim forms
+42 submitted to the department and applications for admission into the
+43 sustainable aviation fuel tax credit program. All information exchanged
+44 between the department, the New York state energy research and develop-
+45 ment authority and the department of environmental conservation shall
+46 not be subject to disclosure or inspection under the state's freedom of
+47 information law.
+48 (e) Credit recapture. If a certificate of tax credit issued by the New
+49 York state energy research and development authority is revoked by such
+50 department, the amount of credit described in this section and claimed
+51 by the taxpayer prior to such revocation shall be added back to tax in
+52 the taxable year in which any such revocation becomes final. Post credit
+53 issuance revocation shall only apply to the previous taxable year.
+54 (f) Cross references. For application of the credit provided for in
+55 this section, see the following provisions of this chapter:
+56 (1) article 9: section 187-s;
+
+S. 4065--B 4
+1 (2) article 9-A: section 210-b, subdivision 61;
+2 (3) article 22: section 606, subsection (www).
+3 § 3. The tax law is amended by adding a new section 187-s to read as
+4 follows:
+5 § 187-s. Sustainable aviation fuel tax credit. (a) Allowance of cred-
+6 it. A taxpayer shall be allowed a credit, to be computed as provided in
+7 section fifty of this chapter, against the tax imposed by this article.
+8 (b) Application of credit. In no event shall the credit under this
+9 section be allowed in an amount that will reduce the tax payable to less
+10 than the applicable minimum tax fixed by section one hundred eighty-two
+11 of this article. If, however, the amount of credit allowable under this
+12 section for any taxable year reduces the tax to such amount, any amount
+13 of credit not deductible in such taxable year shall be treated as an
+14 overpayment of tax to be refunded in accordance with the provisions of
+15 section one thousand eighty-six of this chapter. Provided, however, the
+16 provisions of subsection (c) of section one thousand eighty-eight of
+17 this chapter notwithstanding, no interest shall be paid thereon.
+18 § 4. Section 210-B of the tax law is amended by adding a new subdivi-
+19 sion 61 to read as follows:
+20 61. Sustainable aviation fuel tax credit. (a) Allowance of credit. A
+21 taxpayer shall be allowed a credit, to be computed as provided in
+22 section fifty of this chapter, against the tax imposed by this article.
+23 (b) Application of credit. The credit allowed under this subdivision
+24 for any taxable year shall not reduce the tax due for such year to less
+25 than the fixed dollar minimum amount prescribed in paragraph (d) of
+26 subdivision one of section two hundred ten of this article. However, if
+27 the amount of credits allowed under this subdivision for any taxable
+28 year reduces the tax to such amount or if the taxpayer otherwise pays
+29 tax based on the fixed dollar minimum amount, any amount of credit thus
+30 not deductible in such taxable year shall be treated as an overpayment
+31 of tax to be credited or refunded in accordance with the provisions of
+32 section one thousand eighty-six of this chapter. Provided, however, the
+33 provisions of subsection (c) of section one thousand eighty-eight of
+34 this chapter notwithstanding, no interest shall be paid thereon.
+35 § 5. Section 606 of the tax law is amended by adding a new subsection
+36 (www) to read as follows:
+37 (www) Sustainable aviation fuel tax credit. (1) Allowance of credit. A
+38 taxpayer shall be allowed a credit, to be computed as provided in
+39 section fifty of this chapter, against the tax imposed by this article.
+40 (2) Application of credit. If the amount of the credit allowed under
+41 this subsection for the taxable year exceeds the taxpayer's tax for such
+42 year, the excess shall be treated as an overpayment of tax to be credit-
+43 ed or refunded in accordance with the provisions of section six hundred
+44 eighty-six of this article, provided, however, that no interest shall be
+45 paid thereon.
+46 § 6. Subparagraph (B) of paragraph 1 of subsection (i) of section 606
+47 of the tax law is amended by adding a new clause (lii) to read as
+48 follows:
+49 (lii) Sustainable aviation fuel Amount of credit under
+50 tax credit under subsection subdivision sixty-one of
+51 (www) section two hundred ten-B
+52 § 7. This act shall take effect immediately.

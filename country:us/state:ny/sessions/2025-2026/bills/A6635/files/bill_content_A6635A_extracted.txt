@@ -1,0 +1,1267 @@
+Title: 
+Official Title: 
+Source: versions - A6635A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6635--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 6, 2025
+___________
+Introduced by M. of A. GONZALEZ-ROJAS -- read once and referred to the
+Committee on Corporations, Authorities and Commissions -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public authorities law, in relation to establishing
+the green accessible transition authority; to amend the tax law, in
+relation to establishing a for-hire vehicle improvement surcharge; and
+making an appropriation therefor
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "green accessible transition act".
+3 § 2. Legislative findings and declaration. The legislature finds and
+4 declares that:
+5 1. New York State's For-Hire Vehicle (FHV) industry is at the center
+6 of three interlinked crises that impact FHV drivers, people with disa-
+7 bilities, and the environment.
+8 a. FHV driver poverty. Rideshare driver earnings are in the lowest 10%
+9 of all occupations in the United States. This led the City of New York
+10 to establish the first-ever pay regulations for app-based drivers, but
+11 long hours and low pay remain the norm for most of the for-hire vehicle
+12 industry's 91% immigrant, predominantly people of color workforce of
+13 over 60,000 active drivers in NYC and for thousands more drivers across
+14 the state. Earnings from trips are only half the problem. Union surveys
+15 indicate that on average, each driver must spend $31,000 per year for
+16 the things they need to do their job: a vehicle, gas, repairs, and
+17 insurance. Vehicle costs push drivers into poverty. Unfunded mandates
+18 to transition to electric vehicles, such as that of the City of New
+19 York's "Green Rides" program, risk deepening this crisis.
+20 b. Climate change. New York's fleet of rideshare vehicles is a major
+21 source of greenhouse gas emissions that drive climate change. In New
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01021-04-5
+
+A. 6635--A 2
+1 York City alone, a fleet of 81,000 gasoline-fueled rideshare vehicles
+2 puts 1.4 million tons of CO2 into the atmosphere every year, a 62%
+3 increase from 2013 to 2018 as the FHV fleet ballooned. Transportation
+4 generates approximately 30% of New York City's total carbon emissions,
+5 with the FHV fleet responsible for a substantial portion of this total.
+6 The massive increase in emissions from the FHV fleet has moved New York
+7 City away from the goal established by the City Council of zero carbon
+8 emissions by 2050. Statewide, rideshare vehicles are a disproportionate
+9 driver of greenhouse gas emissions that cause climate change because
+10 they are on the road more hours than privately-used vehicles. Addi-
+11 tionally, the State is far behind the curve in meeting its emissions
+12 reductions and renewable energy production established by the Climate
+13 Leadership and Community Protection Act (CLCPA).
+14 c. Wheelchair accessibility. Very few rideshare vehicles are wheel-
+15 chair accessible across New York State. In 2011, people with disabili-
+16 ties launched a campaign to bring New York City's taxicab fleet into
+17 line with the requirements of the Americans with Disabilities Act (ADA).
+18 In 2014, the campaign won a consent decree that mandated that half of
+19 the taxicab fleet of 13,587 vehicles would be made up of Wheelchair
+20 Accessible Vehicles (WAVs) by 2020. The 2013 decree was enhanced by an
+21 August 29, 2024 court order requiring all new taxis to be wheelchair
+22 accessible until half of all taxis are accessible. To fund this mandate,
+23 in 2014 the City of New York created a 30-cent surcharge on all yellow
+24 and green cab rides to establish a Taxicab Improvement Fund (TIF) which
+25 would issue grants of up to $30,000 to medallion owners to buy and main-
+26 tain accessible vehicles. This surcharge was recently increased to
+27 $1/trip. To date, 3,564 WAV vehicles, which is less than half the fleet
+28 of 13,587 taxis, have been purchased and deployed as taxis. Only around
+29 half the medallion fleet has come back on the road since the start of
+30 the pandemic. The Taxis For All Campaign advocated for accessibility in
+31 New York City's FHV fleets; in response, the New York City Taxi and
+32 Limousine Commission approved performance standards for these fleets,
+33 requiring them to serve wheelchair users within 15 minutes of a ride
+34 request. However, with no funding available on the for-hire vehicle side
+35 of the industry, only 3,373 out of a total of 94,000 FHVs in New York
+36 City are wheelchair accessible. Statewide, there is no mandate for taxi
+37 or for-hire vehicle accessibility, and wheelchair accessible vehicles
+38 are essentially non-existent, in spite of efforts by advocates to
+39 require wheelchair accessibility when the state passed legislation to
+40 allow FHVs to operate. In practical terms, the failure to provide wheel-
+41 chair accessible FHVs and taxis means that persons with disabilities who
+42 need to use WAVs are unable to get jobs, attend school, or otherwise
+43 fully participate in the civic and public life of their communities.
+44 Instead, they must rely on woefully inadequate paratransit systems or
+45 infrequent and unreliable bus service, or are just isolated at home.
+46 2. It is in the interest of the state to establish a dedicated public
+47 authority, the Green Accessible Transition Authority, to address the
+48 three crises of driver poverty, climate change, and lack of wheelchair
+49 accessible vehicles in the FHV industry. The Green Accessible Transition
+50 Authority will manage funding collected through a surcharge on FHV
+51 rides, additional government appropriations, and bond issuances to:
+52 a. Work with and incentivize auto manufacturers and retrofitters to
+53 rapidly develop and market zero-emissions wheelchair accessible vehi-
+54 cles;
+
+A. 6635--A 3
+1 b. Establish a co-investment program to incentivize and enable FHV
+2 drivers to purchase or retrofit zero-emission and wheelchair accessible
+3 vehicles;
+4 c. Develop zero-emission vehicle charging infrastructure and mainte-
+5 nance facilities for zero-emission and wheelchair accessible vehicles;
+6 d. Establish a voluntary transition program for drivers who wish to
+7 leave the FHV industry to receive paid training for employment in green
+8 jobs or jobs in disability advocacy;
+9 e. Fund other initiatives to advance economic development with the
+10 goal of decarbonizing the transportation sector and creating good, green
+11 jobs and jobs in disability advocacy; and
+12 f. Improve paratransit service across New York State.
+13 3. It is critical that the Green Accessible Transition Authority
+14 represent the public, drivers, autoworkers, environmental justice advo-
+15 cates, and disability justice advocates, and be transparent and account-
+16 able to these stakeholders in managing funding and programs.
+17 § 3. Article 8 of the public authorities law is amended by adding a
+18 new title 7 to read as follows:
+19 TITLE 7
+20 GREEN ACCESSIBLE TRANSITION AUTHORITY
+21 Section 1750. Definitions.
+22 1751. Green accessible transition authority.
+23 1752. Members.
+24 1753. Purposes, powers and duties of the authority.
+25 1754. Additional powers of the authority.
+26 1755. Green accessible transition fund.
+27 1756. Accounts and funding.
+28 1757. Exemption from taxes, assessments and certain fees.
+29 1758. Audit and annual report.
+30 1759. Labor and procurement standards.
+31 1760. Bonds and notes.
+32 1761. Reserve funds and appropriations.
+33 1762. Exemption from taxation of bonds and notes.
+34 1763. Bonds and notes legal investments for fiduciaries.
+35 1764. Right of state to require redemption of bonds.
+36 1765. Rights and remedies of bondholders and noteholders.
+37 1766. State not liable on bonds and notes.
+38 § 1750. Definitions. As used or referred to in this title, unless a
+39 different meaning clearly appears from the context:
+40 1. "Authority" means the green accessible transition authority estab-
+41 lished pursuant to section seventeen hundred fifty-one of this title.
+42 2. "Disadvantaged communities" means communities that bear the burdens
+43 of negative public health effects, environmental pollution, and impacts
+44 of climate change, and possess certain socioeconomic criteria, as iden-
+45 tified pursuant to section 75-0111 of the environmental conservation
+46 law.
+47 3. "Disadvantaged or underrepresented worker" means a resident of New
+48 York state who:
+49 (a) is a woman, when considering construction and building contracts;
+50 (b) has a household income of less than fifty percent of the area
+51 median income;
+52 (c) is an individual residing in an area of concentrated poverty;
+53 (d) has a disability;
+54 (e) is a veteran;
+55 (f) is a person previously incarcerated or convicted of a crim-
+56 inal offense; or
+
+A. 6635--A 4
+1 (g) is long-term unemployed.
+2 4. "Downstate region" means that portion of the state that includes
+3 each of the following counties: Nassau, Suffolk, Putnam, Rockland, West-
+4 chester, Dutchess, Orange, Bronx, Kings, New York, Queens, and Richmond.
+5 5. "Electric vehicle" means a vehicle powered only by an electric
+6 motor that draws current from rechargeable storage batteries, fuel
+7 cells, photovoltaic arrays, or other sources of electric current.
+8 6. "Electric vehicle charging infrastructure" means any physical
+9 infrastructure required for the construction of electric vehicle charg-
+10 ing stations.
+11 7. "Electric vehicle charging station" means stations that deliver
+12 electricity from a source outside an electric vehicle into one or more
+13 electric vehicles, or any related equipment needed to facilitate charg-
+14 ing electric vehicles.
+15 8. "Environmentally sustainable practices" means practices that prior-
+16 itize the responsible use of natural resources to maintain ecological
+17 balance and ensure the conservation of resources for future generations.
+18 9. "For-hire vehicle" means any transportation network company vehicle
+19 (TNC vehicle) as defined in section sixteen hundred ninety-one of the
+20 vehicle and traffic law and any for-hire vehicle as defined in section
+21 19-502 of the administrative code of the city of New York.
+22 10. "For-hire vehicle improvement surcharge" means the surcharge on
+23 for-hire vehicle transportation trips imposed under article
+24 twenty-nine-E of the tax law.
+25 11. "Green job" means employment within industries that employ envi-
+26 ronmentally sustainable practices.
+27 12. "Upstate region" means that portion of the state that includes
+28 each and every county of the state not included in the downstate region,
+29 as defined in subdivision four of this section.
+30 13. "Wheelchair accessible vehicle" means a vehicle equipped with a
+31 hydraulic lift or ramps designed for the purpose of transporting persons
+32 using wheelchairs or a vehicle containing any other physical device or
+33 alteration designed to permit access to and enable the transportation of
+34 persons using wheelchairs and which meets the federal Americans with
+35 Disabilities Act requirements for a wheelchair accessible vehicle.
+36 14. "Zero-emission vehicle" means a vehicle that produces no direct
+37 exhaust or tailpipe emissions and includes, but is not limited to, elec-
+38 tric vehicles.
+39 15. "Paratransit" means transportation services required by the
+40 federal Americans with Disabilities Act for individuals with disabili-
+41 ties who are unable to use fixed route transportation systems as defined
+42 in 49 CFR § 37.3.
+43 16. "President" means the chief executive officer of the authority.
+44 § 1751. Green accessible transition authority. There is hereby created
+45 the green accessible transition authority (GreATA). The authority shall
+46 be a body corporate and politic constituting a public benefit corpo-
+47 ration.
+48 § 1752. Members. 1. The authority shall consist of nine voting
+49 members, who shall be appointed as follows: two shall be representatives
+50 of environmental justice organizations, one of whom shall be appointed
+51 by the governor, and one of whom shall be appointed by the speaker of
+52 the assembly; two shall be representatives of disability justice organ-
+53 izations and shall be paratransit users, one of whom shall be appointed
+54 by the governor, and one of whom shall be appointed by the temporary
+55 president of the senate; one shall be a representative of drivers of
+56 for-hire vehicles who is a member of a New York state worker cooperative
+
+A. 6635--A 5
+1 corporation owned by drivers licensed by the New York city taxi and
+2 limousine commission and shall be appointed by the governor; one shall
+3 be a representative of an organization with a track record of advocacy
+4 for a just, green transition of the for-hire vehicle industry and shall
+5 be appointed by the speaker of the assembly; one shall be a represen-
+6 tative of automotive workers' union and shall be appointed by the tempo-
+7 rary president of the senate; one shall be a representative of a build-
+8 ing trades union and shall be appointed by the governor; and one shall
+9 be appointed by the governor as an at-large representative of the public
+10 with consent from both houses of the legislature. Four of the members
+11 shall reside in the upstate region of the state and five of the members
+12 shall reside in the downstate region. All of the appointed members
+13 shall have relevant experience in any or all of the following areas:
+14 environmental justice, disability justice, energy markets, energy
+15 systems, organized labor, workforce development, sustainable land use,
+16 transportation, and clean energy.
+17 2. All members shall continue to hold office until their successors
+18 are appointed and qualify. Of the appointed members, six of the members
+19 appointed by the governor shall serve initial terms of four years, while
+20 the remaining five members shall serve initial terms of three years.
+21 Thereafter, all terms shall be for a period of four years.
+22 3. Vacancies shall be filled in the manner provided for original
+23 appointments. Members may be removed from office for the same reasons
+24 and in the same manner as may be provided by law for the removal of
+25 officers of a county.
+26 4. The members of the authority shall designate the chair. The chair
+27 shall preside over meetings of the authority and shall serve as the
+28 primary liaison between the members and authority staff. A vice-chair
+29 may be elected by the authority from among its other members to serve as
+30 such at the pleasure of the authority. The vice-chair shall preside over
+31 all meetings of the authority in the absence of the chair and shall have
+32 such other duties as the authority may prescribe. The president shall be
+33 the chief executive officer of the authority and shall be primarily
+34 responsible for the discharge of the executive and administrative func-
+35 tions of the authority.
+36 5. The members of the authority shall receive no compensation for
+37 their services but shall be reimbursed for all other actual and neces-
+38 sary expenses incurred in connection with the carrying out of the
+39 purposes of this title.
+40 § 1753. Purposes, powers and duties of the authority. 1. The
+41 purposes of the authority shall be to promote the simultaneous transi-
+42 tion of the for-hire vehicle and other state industries to environ-
+43 mentally sustainable practices and increase universal accessibility of
+44 for-hire vehicles, paratransit services, and taxi services statewide.
+45 2. Except as otherwise limited by this title, the authority shall
+46 have the power to:
+47 (a) Sue and be sued;
+48 (b) Have a seal or alter such seal at pleasure;
+49 (c) Make and alter by-laws for its organization and management and to
+50 make and alter rules and regulations governing the exercise of its
+51 powers and fulfillment of its purposes under this title;
+52 (d) Make rules and regulations governing the exercise of its corporate
+53 powers and the fulfillment of its corporate purposes under this title
+54 and title nine-A of this article, which shall be filed with the depart-
+55 ment of state in the manner provided by section one hundred two of the
+56 executive law;
+
+A. 6635--A 6
+1 (e) Appoint such officers, agents, and employees, without regard to
+2 any personnel or civil service law, rule or regulation of the state and
+3 in accordance with guidelines adopted by the authority, as it may
+4 require for the performance of its duties and to fix and determine their
+5 qualifications, duties and compensation;
+6 (f) Acquire, lease, hold, and dispose of real and personal property,
+7 whether tangible or intangible, or any interest therein, by any method;
+8 (g) Make and execute agreements, contracts or other instruments neces-
+9 sary or convenient for the exercise of its functions, powers and duties
+10 under this title;
+11 (h) Fix and collect fees, rentals and charges for the use of any prop-
+12 erty or facility under its jurisdiction, or for the sale of any product,
+13 by-product or service produced in or provided by any such facility, and
+14 establish the rights and privileges created upon payment thereof. Such
+15 fees, rentals and charges shall be established by the authority so as to
+16 produce, in the judgment of the authority, revenues sufficient, together
+17 with any other funds available to the authority, to meet the expenses of
+18 maintenance and operation of the facilities of the authority, to repay
+19 any moneys repayable to the state, to fulfill the terms of agreements
+20 with the holders of its bonds, notes, or other obligations, and to
+21 provide funds for such other corporate purposes as the authority may
+22 deem appropriate;
+23 (i) Borrow money and issue such notes, bonds, or other obligations in
+24 relation to such indebtedness, and secure any of its obligations by
+25 mortgage or pledge of all or any of its property or any interest there-
+26 in, wherever situated;
+27 (j) Arrange for guarantees of its bonds, notes, or other obligations
+28 by the federal government or by any private insurer or otherwise and to
+29 pay any premiums therefor;
+30 (k) Purchase bonds, notes, or other obligations of the authority at
+31 such price or prices as the authority may determine;
+32 (l) Lend money, invest and reinvest its funds, and take and hold real
+33 and personal property as security for the payment of funds so loaned or
+34 invested;
+35 (m) Procure insurance or obtain indemnification from the federal
+36 government or other persons against any loss in connection with its
+37 properties or operations in such amount or amounts and from such insur-
+38 ers, including the federal government, as it may deem necessary or
+39 desirable, and to pay any premiums therefor;
+40 (n) Accept any gifts or grants or loans of funds or property or finan-
+41 cial or other aid in any form from the federal government or any agency
+42 or instrumentality thereof, the state, or any other source, and to
+43 comply with the provisions of this title and the terms and conditions
+44 thereof;
+45 (o) Engage the services of bond counsel, financial advisors, account-
+46 ants, engineers, attorneys, and other private consultants on a contract
+47 basis for rendering professional and technical assistance and advice;
+48 (p) Create or acquire one or more wholly-owned subsidiaries as may be
+49 necessary to carry out the provisions of this title;
+50 (q) Negotiate and enter into agreements with trustees or receivers
+51 appointed by United States bankruptcy courts or federal district courts
+52 or in other proceedings involving adjustment of debts, and to authorize
+53 legal counsel for the authority to appear in any such proceedings;
+54 (r) File a petition under chapter nine of title eleven of the United
+55 States bankruptcy code, or take other similar action for the adjustment
+56 of its debts;
+
+A. 6635--A 7
+1 (s) Enter into management agreements for the operation of all or any
+2 of the property or facilities owned by the authority;
+3 (t) Maintain an office or offices at such place or places in the state
+4 as it may determine;
+5 (u) Make any inquiry, investigation, survey, or study which the
+6 authority may deem necessary to enable it to effectively carry out the
+7 provisions of this title and to require the production of records,
+8 books, papers, accounts, and other documents, including public records,
+9 and to make copies thereof or extracts therefrom;
+10 (v) Adopt, revise, amend, and repeal rules and regulations with
+11 respect to its operations, properties, facilities, and projects as may
+12 be necessary or convenient to carry out the purposes of this title,
+13 subject to the provisions of the state administrative procedure act;
+14 (w) From time to time enter into agreements with the New York state
+15 energy research and development authority, the department of environ-
+16 mental conservation, the New York power authority, the department of
+17 labor, the department of state, the metropolitan transportation authori-
+18 ty, other state transit authorities, the New York city taxi and limou-
+19 sine commission or any other relevant entity to finance the capital
+20 costs of projects authorized pursuant to section eighty-eight-b of the
+21 state finance law, and to issue bonds and notes for capital projects
+22 approved by the board; provided, however, that each provision of this
+23 title relating to bonds and notes which are not inconsistent with the
+24 provisions of this section shall apply to the bonds and notes authorized
+25 by this section;
+26 (x) Request support and services to the authority from any other state
+27 agency or authority;
+28 (y) Levy fines and fees;
+29 (z) Establish and issue grants for programs, jobs, upgrades, or for
+30 any other purpose within the scope of the authority;
+31 (aa) Prioritize granting funds to projects, programs and initiatives
+32 in disadvantaged communities or disadvantaged workers; and
+33 (bb) Assist other state and local agencies and authorities in the
+34 procurement of zero-emission wheelchair accessible vehicles.
+35 3. (a) The authority shall not give, grant, gift, or loan money to any
+36 projects, jobs, programs, or initiatives that further dependence on
+37 fossil fuels or are not in compliance with the Americans with Disabili-
+38 ties Act.
+39 (b) The authority shall not grant or gift money to any projects, jobs,
+40 programs, or initiatives whose shares contain a fifty percent or greater
+41 interest from a fossil fuel company or that are being led by a fossil
+42 fuel company.
+43 (c) The authority shall not give, grant, gift, or loan money to any
+44 projects, jobs, programs or initiatives that use blue, turquoise,
+45 brown/black, yellow, white or grey hydrogen, or any combination thereof,
+46 or the production thereof in any amount. Any use of such colors of
+47 hydrogen that are combined with green hydrogen shall not receive any
+48 funding from the authority.
+49 (d) The authority shall have the ability to establish and issue grants
+50 for programs, jobs, upgrades, or anything else that falls within the
+51 scope of the authority, and at a minimum, shall grant fifty percent of
+52 vehicle purchase funds to support the purchase or retrofit of zero-emis-
+53 sion wheelchair accessible for-hire vehicles in the first year, and
+54 increase the percentage by ten percent every year thereafter until one
+55 hundred percent of vehicle at purchase funds have been dedicated to
+56 zero-emission wheelchair accessible for-hire vehicles.
+
+A. 6635--A 8
+1 (e) The authority shall ensure that at least forty percent of spending
+2 on transportation and clean energy benefits disadvantaged communities in
+3 accordance with section 75-0117 of the environmental conservation law.
+4 § 1754. Additional powers of the authority. In addition to the powers
+5 enumerated in section seventeen hundred fifty-three of this title, the
+6 authority shall have the power and obligation to:
+7 1. Collect data from transportation network company providers operat-
+8 ing in the state including, but not limited to: (a) the number of wheel-
+9 chair-accessible and electric vehicles operating in each county or
+10 region; (b) the number of trips, and mileage driven by for-hire vehicles
+11 and taxis; (c) the annual estimated emissions of for-hire vehicles and
+12 taxis statewide; and (d) the number of wheelchair accessible trips
+13 requested and completed by for-hire vehicles and taxis statewide.
+14 2. Conduct and publish annual studies of the for-hire vehicle industry
+15 to set standards and goals for the transition of the for-hire vehicle
+16 and paratransit fleets to the exclusive use of zero-emission and wheel-
+17 chair accessible vehicles;
+18 3. Convene a green accessible vehicle taskforce, including environ-
+19 mental justice, disability justice, and labor advocates to: (a) assess
+20 the availability of zero-emission and wheelchair accessible vehicles;
+21 (b) work with government authorities and automakers to ensure that vehi-
+22 cles meeting appropriate environmental and accessibility standards are
+23 brought to market, including issuing a request for proposal to incentiv-
+24 ize production of zero-emission wheelchair accessible vehicles within
+25 six months of the effective date of this article; and (c) vet vehicles
+26 eligible for inclusion in the co-investment program pursuant to subdivi-
+27 sion four of this section based on their available features and the
+28 automakers' commitment to labor, social and environmental benefits;
+29 4. Administer a co-investment program for the purchase of qualifying
+30 vehicles, under the terms of which for-hire vehicle drivers and para-
+31 transit agencies and programs shall be eligible for a voucher of an
+32 amount and under the terms to be determined by the authority toward the
+33 purchase of zero-emission vehicles and wheelchair accessible vehicles
+34 approved for inclusion in the program by the green accessible vehicle
+35 taskforce pursuant to subdivision three of this section. In the event
+36 the authority makes a determination that insufficient accessible zero-
+37 emissions vehicles are available for purchase or retrofit to meet this
+38 goal in a given year, the authority may instead utilize funds to support
+39 expansion of on-demand paratransit service statewide and electrification
+40 of dedicated paratransit fleets;
+41 5. After the zero-emission and wheelchair accessible vehicle transi-
+42 tion goals are met, develop and administer a voluntary program for driv-
+43 ers of for-hire vehicles to receive training and financial support to
+44 enter into alternative employment in public service, green, or disabili-
+45 ty justice jobs;
+46 6. Fund the development of infrastructure required to support the
+47 expanding use of zero-emission vehicles, including but not limited to
+48 electric vehicle charging infrastructure;
+49 7. Fund the purchase of zero-emission and wheelchair accessible vehi-
+50 cles, excluding any hydrogen-based vehicles that operate on any color of
+51 hydrogen other than green hydrogen, and infrastructure needed to rapidly
+52 transition public paratransit services to zero-emission vehicles;
+53 8. Fund any and all other activities that promote and facilitate the
+54 transition of New York state toward one hundred percent zero-emission
+55 wheelchair accessible vehicles;
+
+A. 6635--A 9
+1 9. Fund programs to expand and improve reliability of paratransit
+2 services in the state including, but not limited to: (a) purchase and
+3 operation of zero-emission wheelchair accessible vehicles by paratransit
+4 agencies and their contractors; (b) adoption of, expansion of, and ongo-
+5 ing support for on-demand paratransit service statewide; (c) expansion
+6 of paratransit service to broader geographic areas; and (d) other inno-
+7 vative projects that seek to enhance paratransit service quality through
+8 improved technology, education, and other strategies. The authority
+9 shall ensure that at least twenty percent of overall funds are used to
+10 support paratransit services and shall further ensure that at least
+11 fifty percent of such funds are allocated to supporting paratransit
+12 services operating in the upstate region, with the goal of making on-de-
+13 mand paratransit service available statewide with availability twenty-
+14 four hours a day, seven days a week, at least three miles beyond exist-
+15 ing public transit routes; and
+16 10. Provide ten percent of overall funds to grants for organizations
+17 to provide training and assistance for drivers to access and operate
+18 zero-emission wheelchair accessible vehicles and subsidies, with awards
+19 to no less than five providers annually. Awarded providers shall be
+20 nonprofit organizations or labor unions, and shall have a track record
+21 of providing services for for-hire vehicle drivers in New York state.
+22 § 1755. Green accessible transition fund. 1. The authority shall
+23 create and establish a fund to be known as the "green accessible transi-
+24 tion fund" which shall be kept separate from and shall not be commingled
+25 with any other moneys of the authority. The green accessible transition
+26 fund shall consist of moneys received by the authority pursuant to the
+27 provisions of section twelve hundred ninety-nine-ff of the tax law in
+28 accordance with the provisions thereof.
+29 2. Moneys in the fund shall be used for the exclusive purpose of
+30 funding programs administered by the authority.
+31 3. Any revenues deposited in the green accessible transition fund
+32 pursuant to subdivision one of this section shall be used exclusively
+33 for the purposes described in subdivision two of this section. Such
+34 revenues shall only supplement and shall not supplant any federal,
+35 state, or local funds expended by the authority or such authority's
+36 affiliates or subsidiaries for such purposes.
+37 4. Any revenues deposited into the green accessible transition fund
+38 pursuant to subdivision one of this section shall not be diverted into
+39 the general fund of the state, any other fund maintained for the support
+40 of any other governmental purpose, or for any other purpose not author-
+41 ized by subdivision two of this section.
+42 5. The authority shall report on the receipt and uses of all funds
+43 received by the green accessible transition fund to the director of the
+44 budget, the temporary president of the senate, and the speaker of the
+45 assembly, on an annual basis no later than the first day of February.
+46 § 1756. Accounts and funding. 1. The programs administered by the
+47 authority shall be funded in part by the green accessible transition
+48 fund established pursuant to section seventeen hundred fifty-five of
+49 this title and any other moneys received by the authority, including
+50 payments, gifts, or appropriations to the authority from any other
+51 source.
+52 2. The authority shall be authorized to set a standard rate for vehi-
+53 cle charging stations owned by the authority and to collect any revenue
+54 generated from such charging stations.
+55 3. The authority shall have the power and is hereby authorized from
+56 time to time to issue its negotiable bonds in conformity with applicable
+
+A. 6635--A 10
+1 provisions of the uniform commercial code for any purpose authorized by
+2 this title.
+3 § 1757. Exemption from taxes, assessments and certain fees. It is
+4 hereby determined that the creation of the authority and the carrying
+5 out of its corporate purposes is in all respects for the benefit of the
+6 people of the municipality and the state and is a public purpose and the
+7 authority shall be regarded as performing a governmental function in the
+8 exercise of the powers conferred upon it by this title and shall not be
+9 required to pay any taxes, special ad valorem levies or special assess-
+10 ments upon any property owned by it or under its jurisdiction, control
+11 or supervision or upon its activities or any filing, recording or trans-
+12 fer fees or taxes in relation to instruments filed, recorded or trans-
+13 ferred by it or on its behalf. The construction, use, occupation or
+14 possession of any property owned by the authority or the municipality,
+15 including improvements thereon, by any person or public corporation
+16 under a lease, lease and sublease or any other agreement shall not oper-
+17 ate to abrogate or limit the foregoing exemption, notwithstanding that
+18 the lessee, user, occupant or person in possession shall claim ownership
+19 for federal income tax purposes. Mortgages made or financed, directly or
+20 indirectly, by the authority shall be exempt from the mortgage recording
+21 taxes imposed by article eleven of the tax law. The authority shall be
+22 deemed a public authority for the purposes of section four hundred
+23 twelve of the real property tax law.
+24 § 1758. Audit and annual report. In conformity with the provisions of
+25 section five of article ten of the constitution, the accounts of the
+26 authority shall be subject to the supervision of the state comptroller
+27 and an annual audit shall be performed by an independent certified
+28 accountant. The authority shall annually submit to the governor, state
+29 comptroller and state legislature a detailed report pursuant to the
+30 provisions of section twenty-eight hundred of this chapter, and a copy
+31 of such report shall be filed with every municipality included in the
+32 report. The authority shall comply with the provisions of sections twen-
+33 ty-eight hundred one, twenty-eight hundred two and twenty-eight hundred
+34 three of this chapter.
+35 § 1759. Labor and procurement standards. 1. Any project that is funded
+36 by the authority shall:
+37 (a) Be deemed a public work project subject to article eight of the
+38 labor law;
+39 (b) Require that any materials used in the project are produced or
+40 made in whole or substantial part in the United States, its territories
+41 or possessions; provided, however, that the provisions of this paragraph
+42 shall not apply in any case or category of cases in which the head of
+43 the contracting public entity finds that: (i) applying this paragraph
+44 would be inconsistent with the public interest; (ii) products are not
+45 produced in the United States in sufficient and reasonably available
+46 quantities and of a satisfactory quality; or (iii) inclusion of products
+47 produced in the United States will increase the cost of the overall
+48 project by more than twenty-five percent. If the head of the contracting
+49 public entity receives a request for a waiver from the requirements of
+50 this paragraph, such person shall make available to the public on an
+51 informal basis a copy of the request and information available to such
+52 person concerning the request, and shall allow for informal public input
+53 on the request for at least fifteen days prior to making a finding based
+54 on the request. The head of the contracting public entity shall make the
+55 request and accompanying information available by electronic means,
+56 including on the official public website of the public entity; provided
+
+A. 6635--A 11
+1 further, however, that the provisions of this paragraph shall not apply
+2 to products purchased prior to the effective date of this title. The
+3 head of the contracting public entity may, at the contracting public
+4 entity's sole discretion, provide for a solicitation of a request for
+5 proposal, invitation for bid, or solicitation of proposal, or any other
+6 method provided for by law or regulation for soliciting a response from
+7 offerors intending to result in a contract pursuant to this paragraph
+8 involving a competitive process in which the evaluation of competing
+9 bids gives significant consideration in the evaluation process to the
+10 procurement of equipment and supplies from businesses located in New
+11 York state;
+12 (c) Require that any public owner or third party acting on the behalf
+13 of a public owner enter into a project labor agreement as defined by
+14 section two hundred twenty-two of the labor law for all construction
+15 work;
+16 (d) Require the payment of prevailing wage standards consistent with
+17 article nine of the labor law for building services work; and
+18 (e) Require that all rights or benefits, including terms and condi-
+19 tions of employment, and protection of civil service and collective
+20 bargaining status of all existing public employees and the work juris-
+21 diction, covered job titles, and work assignments, set forth in the
+22 civil service law and collective bargaining agreements with labor organ-
+23 izations representing public employees shall be preserved and protected.
+24 2. Any such project shall not result in the:
+25 (a) Displacement of any currently employed worker or loss of position,
+26 including partial displacement such as a reduction in the hours of non-
+27 overtime work, wages, or employment benefits, or result in the impair-
+28 ment of existing collective bargaining agreements;
+29 (b) Transfer of existing duties and functions related to maintenance
+30 and operations performed by existing employees of authorized entities to
+31 a contracting entity; or
+32 (c) Transfer of future duties and functions ordinarily performed by
+33 employees of authorized entities to a contracting entity.
+34 3. Any project funded by the authority shall certify that the materi-
+35 als, components, parts or vehicles are produced or made in whole or
+36 substantial part in the United States, its territories or possessions;
+37 provided, however, that the president of the authority, or the presi-
+38 dent's designee may waive the procurement requirements set forth in this
+39 subdivision if such official determines that: (a) the requirements
+40 would result in unreasonable costs; (b) obtaining such infrastructure-
+41 related materials, components or parts in the United States would
+42 increase the cost of a project by an unreasonable amount; or (c) any
+43 such vehicles, parts, or components cannot be produced, made, or assem-
+44 bled in the United States in sufficient and reasonably available quanti-
+45 ties or of satisfactory quality. Any such waiver shall remain in effect
+46 only so long as the conditions necessitating the waiver are in effect.
+47 All determinations on waivers shall be made on an annual basis no later
+48 than December thirty-first, after providing notice and opportunity for
+49 public comment, and such determination shall be made publicly available,
+50 in writing, on the authority's website with a detailed explanation of
+51 the findings leading to such a determination. If the president or the
+52 president's designee has issued determinations for three consecutive
+53 years finding that no such waiver is warranted pursuant to this subdivi-
+54 sion, then the authority shall no longer be required to provide the
+55 annual determination required by this subdivision.
+
+A. 6635--A 12
+1 4. (a) For the purposes of this subdivision, the following terms shall
+2 have the following meanings:
+3 (i) "Contractor" means an entity that sells an approved eligible vehi-
+4 cle to a vehicle purchaser and that meets the following criteria:
+5 (1) Is any of the following types of entities:
+6 (A) A zero-emission wheelchair accessible vehicle dealership that has
+7 a written agreement with a zero-emission wheelchair accessible vehicle
+8 original equipment manufacturer and that sells or leases complete eligi-
+9 ble vehicles to vehicle owner-operators;
+10 (B) An original equipment manufacturer that builds and sells or leases
+11 complete eligible vehicles directly to fleets or vehicle owner-opera-
+12 tors;
+13 (C) An automotive vehicle upfit or retrofit manufacturer that has a
+14 written agreement with an original equipment manufacturer and that
+15 upfits, retrofits, or performs final equipment installations on new
+16 replacement or repowered vehicles and sells or leases the completed
+17 eligible vehicle to a leasing company, fleet, or vehicle owner-operator;
+18 or
+19 (D) A retrofit kit company that produces and installs such kits on
+20 existing vehicles, such as a battery electric vehicle kit on an existing
+21 diesel-powered vehicle;
+22 (2) Has a valid business license for the past two years; and
+23 (3) Is the entity that sells or leases the fully assembled and
+24 completed new eligible vehicle or repowered vehicle.
+25 (ii) "Disadvantaged communities" shall have the same meaning as
+26 defined by section 75-0101 of the environmental conservation law.
+27 (iii) "Displaced workers" means workers who have lost their jobs in
+28 the previous five years due to lack of business, a reduction in work-
+29 force, or other economic, non-disciplinary reasons related to a pandemic
+30 or to the transition from the fossil fuel industry to renewable energy
+31 or electric transportation, and who have not been able to secure a
+32 comparably compensated position.
+33 (iv) "Eligible vehicle" means a zero-emission wheelchair accessible
+34 vehicle that meets all of the rules and requirements of the authority.
+35 (v) "New York jobs plan" means a component of the documentation
+36 submitted during the eligibility application process and that shall be
+37 used to determine certain plus-ups and deductions from the base incen-
+38 tive amount. The New York jobs plan shall include the information
+39 submitted by the contractor, the contractor's supplier, and the contrac-
+40 tor's major supplier, which states: (1) the minimum number of jobs; (2)
+41 proposed wages, benefits, and investment in training; (3) targeted
+42 hiring plans for disadvantaged workers, displaced workers, and individ-
+43 uals facing barriers to employment for jobs created or retained in the
+44 state; (4) lifecycle emissions analysis; (5) use of recycled content;
+45 (6) plans to maximize reuse and recycling of batteries; and (7) the use
+46 of recycled or responsibly-mined minerals.
+47 (vi) "Original equipment manufacturer" means a manufacturer that
+48 builds or assembles, at a minimum, the completed drivetrain and chassis
+49 for an eligible vehicle.
+50 (vii) "Supplier" means a company that sells vehicles or component
+51 parts of vehicles to an original equipment manufacturer or an upfit or
+52 retrofit manufacturer.
+53 (viii) "Responsible mineral sourcing" means original equipment
+54 manufacturer procurement practices for components and raw materials that
+55 enable the original equipment manufacturer to accurately assess and
+56 report the social and environmental impact of mined minerals used in the
+
+A. 6635--A 13
+1 production of the vehicle, and in which the original equipment manufac-
+2 turer takes active steps to improve the social and environmental impact
+3 of the mined minerals used in the production of such vehicle by ensuring
+4 that any mined minerals used in the vehicle conform to the highest
+5 possible standards of social responsibility, including free, prior, and
+6 informed consent, human rights, labor rights, worker and community
+7 health and safety, conflict involvement, community engagement and
+8 consultation, and cultural heritage, and environmental responsibility,
+9 including water management, air quality, greenhouse gas emissions, noise
+10 management, protection of ecosystems and biodiversity, and management of
+11 toxins including mercury and cyanide. Whenever available, standards and
+12 evaluations shall conform to those of the initiative for responsible
+13 mining assurance.
+14 (ix) "Upfit or retrofit manufacturer" means a manufacturer that
+15 installs equipment on an automotive vehicle chassis purchased from an
+16 original equipment manufacturer. The upfit or retrofit manufacturer
+17 shall bear full responsibility under federal law for any vehicle defects
+18 and shall be responsible for certifying that the vehicle meets all
+19 applicable federal safety standards.
+20 (b) The authority shall establish guidelines governing the qualifica-
+21 tions of eligible vehicles and shall consider prospective vehicle
+22 contractors' experience, financial capability and responsibility, and
+23 past performance, including performance on meeting New York jobs plan
+24 commitments.
+25 (c) The authority shall develop procedures for determining incentive
+26 amounts for eligible vehicles. As part of the eligibility qualification
+27 process, the authority shall require prospective contractors to submit
+28 New York jobs plan information for themselves as well as their suppli-
+29 ers. If a contractor is a zero-emission vehicle dealership that has a
+30 written agreement with a zero-emission vehicle original equipment
+31 manufacturer, then the contractor shall submit New York jobs plan infor-
+32 mation from the original equipment manufacturer. At a minimum, the New
+33 York jobs plan shall require prospective contractors and their suppliers
+34 to provide the following information:
+35 (i) The minimum number of full-time equivalent permanent jobs in
+36 production occupations to be retained and created per ten vehicle sales;
+37 (ii) The minimum wage levels by job classification;
+38 (iii) The minimum amounts that will be paid for fringe benefits by job
+39 classification;
+40 (iv) The minimum amounts that will be paid for worker training by job
+41 classification;
+42 (v) Information on recruitment and training programs targeted specif-
+43 ically towards individuals facing barriers to employment, displaced
+44 workers, and disadvantaged workers;
+45 (vi) Lifecycle emissions analysis of the vehicles;
+46 (vii) The minimum percent total values of recycled content in the
+47 chassis, body, battery, and motor, along with the total value of each of
+48 these components;
+49 (viii) A plan to maximize reuse and recycling of the traction battery
+50 at end of use in vehicles; and
+51 (ix) A plan to purchase motors manufactured using recycled (first
+52 priority) or responsibly-mined (second priority) copper and batteries
+53 using recycled or responsibly-mined lithium, nickel, and cobalt, accord-
+54 ing to the standards and assessments established by the initiative for
+55 responsible mining assurance.
+
+A. 6635--A 14
+1 (d) Upon certification of an eligible vehicle, the New York jobs plan
+2 information shall be incorporated as a material term of the contract.
+3 (e) To determine the incentive amount for each eligible vehicle, the
+4 authority shall score the contractor's and the contractor's suppliers'
+5 New York jobs plan commitments from zero to one hundred, according to a
+6 formula which includes comparative assessments of:
+7 (i) Economic benefits: fifty percent. Economic benefits shall be
+8 calculated as the product of full-time equivalent positions created or
+9 retained at each classification and the square of each classification's
+10 total compensation, wages, and monetary fringe benefits.
+11 (ii) Workforce development: ten percent. Workforce development shall
+12 be calculated as the total amount of investment in worker training for
+13 employees of the original equipment manufacturer over the twelve-month
+14 period prior to final delivery of the vehicle. Workforce development
+15 shall account for ten percent of the comparative assessment.
+16 (iii) Inclusion: fifteen percent. Inclusion shall be calculated as a
+17 qualitative evaluation of the original equipment manufacturer's recruit-
+18 ing and training programs targeted specifically towards individuals
+19 facing barriers to employment and displaced workers.
+20 (iv) Environmental sustainability: twenty-five percent. Environmental
+21 sustainability shall be calculated as an integrated evaluation of
+22 sustainable manufacturing practices, including the following factors:
+23 (1) Lifecycle emissions analysis: twenty-five percent;
+24 (2) Commitments for percent of total value of recycled content in the
+25 chassis, body, battery, and motor: twenty-five percent;
+26 (3) Qualitative evaluation of the plan to maximize reuse and recycling
+27 of the traction battery: twenty-five percent; and
+28 (4) Qualitative evaluation of the plan for responsible sourcing of
+29 motor and battery minerals and/or reducing mineral use in the vehicle:
+30 twenty-five percent.
+31 (v) New York's regional employment benefits: up to ten bonus points.
+32 (f) Contractors shall be required to provide quarterly reports to the
+33 authority for the first year after a contract is awarded and then annu-
+34 ally thereafter. Such reports shall detail progress and compliance with
+35 the contractor's New York jobs plan commitments and the commitments of
+36 their suppliers on forms provided by the authority. If any such report
+37 indicates a failure to comply with the contractor's New York jobs plan
+38 commitments, the authority shall notify such contractor of their noncom-
+39 pliance and the time frame within which compliance must be met. Failure
+40 to comply with their New York jobs plan commitments within the given
+41 time frame shall result in forfeiture of the entire value of the vouch-
+42 er.
+43 (g) The authority shall publish New York jobs plan commitments and
+44 reports to the authority's website within two weeks of vehicle certif-
+45 ication and shall publish quarterly reports within two weeks of receipt
+46 by the authority.
+47 § 1760. Bonds and notes. 1. The authority shall have the power and is
+48 hereby authorized to issue at one time or in series from time to time
+49 its negotiable bonds and notes in conformity with applicable provisions
+50 of the uniform commercial code in such principal amounts as, in the
+51 opinion of the authority, shall be necessary to provide sufficient
+52 moneys for achieving the authority's corporate purposes, including the
+53 establishment of reserves to secure the bonds and notes and the payment
+54 of interest on bonds and notes.
+55 2. The authority shall have power from time to time to renew bonds or
+56 notes or to issue renewal bonds or notes for such purpose, to issue
+
+A. 6635--A 15
+1 bonds or notes to pay bonds or notes, and, whenever it deems refunding
+2 expedient, to refund any bond or note by the issuance of new bonds or
+3 notes, whether the bonds or notes to be refunded have or have not
+4 matured, and may issue bonds or notes partly to refund bonds or notes
+5 then outstanding and partly for any other corporate purpose of the
+6 authority. Bonds or notes issued for refunding purposes shall be sold
+7 and the proceeds applied to the purchase, redemption or payment of the
+8 bonds or notes to be refunded.
+9 3. Except as may otherwise be expressly provided by the authority,
+10 every issue of bonds or notes shall be general obligations payable out
+11 of any moneys or revenues of the authority, subject only to any agree-
+12 ments with the holders of bonds or notes pledging any receipts or reven-
+13 ues.
+14 4. The bonds and notes shall be authorized by resolution of the
+15 authority, shall bear such date or dates and mature at such time or
+16 times as such resolution shall provide, except that notes and any
+17 renewals thereof shall mature within five years from their respective
+18 dates of issuance or renewal, as the case may be, and bonds shall mature
+19 within forty years from their respective dates of issuance or renewal,
+20 as the case may be. The bonds and notes shall bear interest at such rate
+21 or rates, be in such denomination, be in such form, either coupon or
+22 registered, carry such registration privileges, be executed in such
+23 manner, be payable in such medium of payment at such place or places,
+24 and be subject to such terms of redemption as such resolution or resol-
+25 utions may provide.
+26 5. Bonds and notes shall be sold by the authority, at public or
+27 private sale, at such price or prices as the authority may determine.
+28 Bonds and notes of the authority shall not be sold by the authority at
+29 private sale unless such sale and the terms thereof have been approved
+30 in writing by the comptroller, where such sale is not to the comp-
+31 troller, or by the director of the budget, where such sale is to the
+32 comptroller.
+33 6. In the discretion of the authority any bonds or issue of bonds or
+34 notes or issue of notes may be secured by such resolution or by a trust
+35 indenture by and between the authority and a corporate trustee which may
+36 be any trust company or bank having the powers of a trust company in the
+37 state or by a secured loan agreement or other instrument. Such resol-
+38 ution, trust indenture, loan agreement or other instrument may contain
+39 any usual or customary provisions, covenants or limitations for bonds or
+40 notes of similar nature which shall be a part of the contract with the
+41 holders thereof, including such provisions for protecting and enforcing
+42 the rights and remedies of bondholders and noteholders as may be reason-
+43 able and proper and not in violation of law.
+44 7. Any resolution or resolutions authorizing any notes or bonds or any
+45 issue thereof may contain provisions, which shall be a part of the
+46 contract with the holders thereof, as to:
+47 (a) pledging all or part of the fees, charges, gifts, grants, rents,
+48 revenues or other moneys received or to be received and leases or agree-
+49 ments to secure the payment of the notes or bonds or of any issue there-
+50 of subject to such agreements with bondholders and noteholders as may
+51 then exist;
+52 (b) the rates of the fees or charges to be established, and the
+53 amounts to be raised in each year thereby and the use and disposition of
+54 the fees, charges, gifts, grants, rents, revenues or other moneys
+55 received or to be received;
+
+A. 6635--A 16
+1 (c) the setting aside of reserves or sinking funds, and the regulation
+2 and disposition thereof;
+3 (d) limitations on the purpose to which the proceeds of sale of any
+4 issue of notes or bonds then or thereafter to be issued may be applied
+5 and pledging such proceeds to secure the payment of the notes or bonds
+6 or of any issue thereof;
+7 (e) limitations on the issuance of additional notes or bonds; the
+8 terms upon which additional notes or bonds may be issued and secured;
+9 the refunding of outstanding or other notes or bonds;
+10 (f) the procedure, if any, by which the terms of any contract with
+11 bondholders or noteholders may be amended or abrogated, the amount of
+12 notes or bonds the holders of which must consent thereto, and the manner
+13 in which such consent may be given; and
+14 (g) any other matters, of like or different character, which in any
+15 way affect the security or protection of the notes or bonds.
+16 8. It is the intention hereof that any pledge made by the authority
+17 shall be valid and binding from the time when the pledge is made, that
+18 the moneys so pledged and thereafter received by the authority shall
+19 immediately be subject to the lien of such pledge without any physical
+20 delivery thereof or further act, and that the lien of any such pledge
+21 shall be valid and binding as against all parties having claims of any
+22 kind in tort, contract or otherwise against the authority irrespective
+23 of whether such parties have notice thereof. Neither the resolution nor
+24 any other instrument by which a pledge is created need be recorded.
+25 9. Neither the members of the authority nor any person executing the
+26 bonds or notes shall be liable personally on the bonds or notes or be
+27 subject to any personal liability or accountability by reason of the
+28 issuance thereof.
+29 10. Subject to such agreements with bondholders or noteholders as may
+30 then exist, the authority shall have power out of any funds available
+31 therefor to purchase bonds or notes at a price not exceeding (a) if the
+32 notes or bonds are then redeemable, the redemption price then applicable
+33 plus accrued interest to the next interest payment date thereon, or (b)
+34 if the notes or bonds are not then redeemable, the redemption price
+35 applicable on the first date after such purchase upon which the notes or
+36 bonds become subject to redemption plus accrued interest to said date.
+37 Bonds and notes so purchased shall thereupon be cancelled.
+38 11. The state does hereby pledge to and agree with the holders of any
+39 bonds or notes that the state will not limit or alter the rights and
+40 powers vested in the authority by this title to fulfill the terms of any
+41 contract made by the authority with such holders, or in any way impair
+42 the rights and remedies of such holders until such bonds and notes,
+43 together with the interest thereon, with interest on any unpaid install-
+44 ments of interest, and all costs and expenses in connection with any
+45 action or proceeding by or on behalf of such holders, are fully met and
+46 discharged. The authority is authorized to include this pledge and
+47 agreement of the state, insofar as it refers to holders of any bonds or
+48 notes, in any contract with such holders.
+49 § 1761. Reserve funds and appropriations. 1. The authority may create
+50 and establish one or more reserve funds to be known as debt service
+51 reserve funds and may pay into such reserve funds (a) any moneys appro-
+52 priated and made available by the state for the purposes of such funds,
+53 (b) any proceeds of sale of bonds and notes to the extent provided in
+54 the resolution of the authority authorizing the issuance thereof, (c)
+55 any moneys directed to be transferred by the authority to such funds,
+56 and (d) any other moneys which may be made available to the authority
+
+A. 6635--A 17
+1 for the purposes of such funds from any other source or sources. The
+2 moneys held in or credited to any debt service reserve fund established
+3 under this subdivision, except as hereinafter provided, shall be used
+4 solely for the payment of the principal of bonds of the authority
+5 secured by such reserve fund, as the same mature, required payments to
+6 any sinking fund established for the amortization of such bonds (herein-
+7 after referred to as "sinking fund payments"), the purchase or redemp-
+8 tion of such bonds of the authority, the payment of interest on such
+9 bonds of the authority or the payment of any redemption premium required
+10 to be paid when such bonds are redeemed prior to maturity; provided,
+11 however, that moneys in any such fund shall not be withdrawn therefrom
+12 at any time in such amount as would reduce the amount of such fund to
+13 less than the maximum amount of principal and interest maturing and
+14 becoming due in any succeeding calendar year on the bonds of the author-
+15 ity then outstanding and secured by such reserve fund, except for the
+16 purpose of paying principal and interest on the bonds of the authority
+17 secured by such reserve fund maturing and becoming due and sinking fund
+18 payments for the payment of which other moneys of the authority are not
+19 available. Any income or interest earned by, or increment to, any such
+20 debt service reserve fund due to the investment thereof may be trans-
+21 ferred to any other fund or account of the authority to the extent it
+22 does not reduce the amount of such debt service reserve fund below the
+23 maximum amount of principal and interest maturing and becoming due in
+24 any succeeding calendar year on all bonds of the authority then
+25 outstanding and secured by such reserve fund. In computing the amount
+26 of any debt service reserve fund for the purposes of this section, secu-
+27 rities in which all or a portion of such reserve fund are invested shall
+28 be valued at par or, if purchased at less than par, at their cost to the
+29 authority.
+30 2. The authority shall not issue bonds at any time if the maximum
+31 amount of principal and interest maturing and becoming due in a succeed-
+32 ing calendar year on the bonds outstanding and then to be issued and
+33 secured by a debt service reserve fund will exceed the amount of such
+34 reserve fund at the time of issuance, unless the authority, at the time
+35 of issuance of such bonds, shall deposit in such reserve fund from the
+36 proceeds of the bonds so to be issued, or otherwise, an amount which
+37 together with the amount then in such reserve fund, will be not less
+38 than the maximum amount of principal and interest maturing and becoming
+39 due in any succeeding calendar year on the bonds then to be issued and
+40 on all other bonds of the authority then outstanding and secured by such
+41 reserve fund.
+42 3. To assure the continued operation and solvency of the authority for
+43 the carrying out of the public purposes of this title provision is made
+44 in subdivision one of this section for the accumulation in each debt
+45 service reserve fund of an amount equal to the maximum amount of princi-
+46 pal and interest maturing and becoming due in any succeeding calendar
+47 year on all bonds of the authority then outstanding and secured by such
+48 reserve fund. In order further to assure the maintenance of such debt
+49 service reserve funds, there shall be annually apportioned and paid to
+50 the authority for deposit in each debt service reserve fund such sum, if
+51 any, as shall be certified by the chair of the authority to the governor
+52 and state director of the budget as necessary to restore such reserve
+53 fund to an amount equal to the maximum amount of principal and interest
+54 maturing and becoming due in any succeeding calendar year on the bonds
+55 of the authority then outstanding and secured by such reserve fund. The
+56 chair of the authority shall annually, on or before December first, make
+
+A. 6635--A 18
+1 and deliver to the governor and state director of the budget a certif-
+2 icate stating the sum, if any, required to restore each such debt
+3 service reserve fund to the amount aforesaid, and the sum or sums so
+4 certified, if any, shall be apportioned and paid to the authority during
+5 the then current state fiscal year. The principal amount of bonds
+6 secured by a debt service reserve fund or funds to which state funds are
+7 apportionable pursuant to this subdivision shall be limited to the total
+8 amount of bonds and notes outstanding on the effective date of this
+9 title, plus the total amount of bonds and notes contracted after the
+10 effective date of this title to finance projects in progress on the
+11 effective date of this title as determined by the New York state public
+12 authorities control board created pursuant to section fifty of this
+13 chapter whose affirmative determination shall be conclusive as to all
+14 matters of law and fact solely for the purposes of the limitations
+15 contained in this subdivision, but in no event shall the total amount of
+16 bonds so secured by such a debt service reserve fund or funds exceed
+17 nine million six hundred sixty thousand dollars, excluding bonds issued
+18 to refund such outstanding bonds until the date of redemption of such
+19 outstanding bonds. As outstanding bonds so secured are paid, the amount
+20 so secured shall be reduced accordingly but the redemption of such
+21 outstanding bonds from the proceeds of refunding bonds shall not reduce
+22 the amount so secured.
+23 4. All amounts paid over to the authority by the state pursuant to the
+24 provisions of this section shall constitute and be accounted for as
+25 advances by the state to the authority and, subject only to the rights
+26 of the holders of any bonds or notes of the authority theretofore or
+27 thereafter issued, shall be repaid to the state from all available oper-
+28 ating revenues of the authority in excess of debt service reserve fund
+29 requirements and operating expenses.
+30 5. As used in this section, (a) the term "operating expenses" shall
+31 mean ordinary expenditures for operation and administration of the
+32 authority, including maintenance, repair and replacement of authority
+33 property; and (b) the term "available operating revenues" shall mean all
+34 amounts received on account of rentals and fees charged by the authori-
+35 ty, if any, and income or interest earned or added to funds of the
+36 authority due to the investment thereof, and not required under the
+37 terms or provisions of any covenant or agreement with holders of any
+38 bonds or notes of the authority to be applied to any purposes other than
+39 payment of operating expenses of the authority.
+40 § 1762. Exemption from taxation of bonds and notes. The state coven-
+41 ants with the purchasers and with all subsequent holders and transferees
+42 of bonds and notes, in consideration of the acceptance of and payment
+43 for the bonds and notes, that the bonds and notes and the income there-
+44 from, and all moneys, funds and revenues pledged to pay or secure the
+45 payment of such bonds and notes shall at all times be free from taxa-
+46 tion, except for estate and gift taxes and taxes on transfers.
+47 § 1763. Bonds and notes legal investments for fiduciaries. The bonds
+48 and notes are hereby made securities in which all public officers and
+49 bodies of the state and all municipalities and municipal subdivisions,
+50 all insurance companies and associations and other persons carrying on
+51 an insurance business, all banks, bankers, trust companies, savings
+52 banks, savings associations, including savings and loan associations and
+53 building and loan associations, investment companies and other persons
+54 carrying on a banking business, all administrators, guardians, execu-
+55 tors, trustees and other fiduciaries, and all other persons whatsoever
+56 who are now or who may hereafter be authorized to invest in bonds or
+
+A. 6635--A 19
+1 other obligations of the state, may properly and legally invest funds
+2 including capital in their control or belonging to them. Notwithstanding
+3 any other provisions of law, the bonds and notes of the authority are
+4 also hereby made securities which may be deposited with and may be
+5 received by all public officers and bodies of this state and all munici-
+6 palities and municipal subdivisions for any purpose for which the depos-
+7 it of bonds or other obligations of the state is now or may hereafter be
+8 authorized.
+9 § 1764. Right of state to require redemption of bonds. Notwithstanding
+10 and in addition to any provisions for the redemption of bonds which may
+11 be contained in any contract with the holders of the bonds, the state
+12 may, upon furnishing sufficient funds therefor, require the authority to
+13 redeem, prior to maturity, as a whole, any issue of bonds on any inter-
+14 est payment date not less than twenty years after the date of the bonds
+15 of such issue at one hundred five percent of their face value and
+16 accrued interest or at such lesser redemption price as may be provided
+17 in the bonds in case of the redemption thereof as a whole on the redemp-
+18 tion date. Notice of such redemption shall be published in at least two
+19 newspapers published and circulating respectively in the cities of Alba-
+20 ny and New York at least twice, the first publication to be at least
+21 thirty days before the date of redemption.
+22 § 1765. Rights and remedies of bondholders and noteholders. The hold-
+23 ers of bonds and notes shall have the following rights and remedies,
+24 subject to the terms of the resolution authorizing such bonds and notes
+25 or any trust indenture, secured loan agreement or other instrument
+26 related thereto:
+27 1. In the event that the authority shall default in the payment of
+28 principal of or interest on any issue of bonds or notes after the same
+29 shall become due, whether at maturity or upon call for redemption, and
+30 such default shall continue for a period of thirty days, or in the event
+31 that the authority shall fail or refuse to comply with the provisions of
+32 this title, or shall default in any contract made with the holders of
+33 any issue of bonds or notes, the holders of twenty-five per centum in
+34 aggregate principal amount of the bonds or notes of such issue then
+35 outstanding, by instrument or instruments filed in the office of the
+36 clerk in the county of Albany and approved or acknowledged in the same
+37 manner as a deed to be recorded, may appoint a trustee to represent the
+38 holders of such bonds or notes for the purposes herein provided.
+39 2. Such trustee may, and upon written request of the holders of twen-
+40 ty-five per centum in principal amount of such bonds or notes then
+41 outstanding shall, in such trustee's or its own name:
+42 (a) by suit, action or special proceeding, enforce all rights of the
+43 bondholders or noteholders, including the right to require the authority
+44 to collect fees, rentals and charges adequate to carry out any agree-
+45 ments with the holders of such bonds or notes and to perform its duties
+46 under this title;
+47 (b) bring suit upon such bonds or notes;
+48 (c) by action or suit in equity, require the authority to account as
+49 if it were the trustee of an express trust for the holders of such bonds
+50 or notes;
+51 (d) by action or suit in equity, enjoin any act or things which may be
+52 unlawful or in violation of the rights of the holders of such bonds or
+53 notes; and
+54 (e) declare all such bonds or notes due and payable, and if all
+55 defaults shall be made good then with the consent of the holders of
+
+A. 6635--A 20
+1 twenty-five per centum of the principal amount of such bonds or notes
+2 then outstanding, to annul such declaration and its consequences.
+3 3. Such trustee, whether or not the issuance of bonds or notes repres-
+4 ented by such trustee had been declared due and payable, shall be enti-
+5 tled as of right to the appointment of a receiver of any property of the
+6 authority, the fees, rentals, charges or other revenues of which are
+7 pledged for the security of the bonds or notes of such issue and such
+8 receiver may enter and take possession of such property, or any part or
+9 parts thereof and operate and maintain the same and receive all fees,
+10 charges, rentals and other revenues thereafter arising therefrom and
+11 exercise such other powers of the authority as the court may deem advis-
+12 able and perform the public duties and carry out the agreements and
+13 obligations of the authority under the direction of the court. In any
+14 suit, action or proceeding by the trustee the fees, counsel fees and
+15 expenses of the trustee and of the receiver, if any, shall constitute
+16 taxable disbursements and all costs and disbursements allowed by the
+17 court shall be a first charge on any fees, charges, rentals and other
+18 revenues derived from such properties.
+19 4. Such trustee shall in addition to the foregoing have and possess
+20 all of the powers necessary or appropriate for the exercise of any func-
+21 tions specifically set forth herein or incident to the general represen-
+22 tation of bondholders or noteholders in the enforcement and protection
+23 of their rights.
+24 5. The supreme court shall have jurisdiction of any suit, action or
+25 proceeding by the trustee on behalf of such bondholders or noteholders.
+26 The venue of any such suit, action or proceeding shall be laid in the
+27 county of Albany.
+28 6. Before declaring the principal of bonds or notes due and payable,
+29 the trustee shall first give thirty days' notice in writing to the
+30 governor, to the authority, to the comptroller and to the attorney
+31 general of the state.
+32 § 1766. State not liable on bonds and notes. The bonds and notes shall
+33 not be a debt of the state of New York nor shall the state be liable
+34 thereon and such bonds and notes shall contain on the face thereof a
+35 statement to that effect.
+36 § 4. The tax law is amended by adding a new article 29-E to read as
+37 follows:
+38 ARTICLE 29-E
+39 FOR-HIRE VEHICLE IMPROVEMENT SURCHARGE
+40 Section 1299-aa. Definitions.
+41 1299-bb. Imposition of tax.
+42 1299-cc. Liability for surcharge.
+43 1299-dd. Returns and payment of surcharge.
+44 1299-ee. Records to be kept.
+45 1299-ff. Deposit and disposition of revenue.
+46 § 1299-aa. Definitions. As used or referred to in this article, unless
+47 a different meaning clearly appears from the context:
+48 (a) "Person" means an individual, partnership, limited liability
+49 company, society, association, joint stock company, corporation, estate,
+50 receiver, trustee, assignee, referee or any other person acting in a
+51 fiduciary or representative capacity, whether appointed by a court or
+52 otherwise, any combination of individuals and any other form of unincor-
+53 porated enterprise owned or conducted by two or more persons.
+54 (b) "Authority" means the green accessible transition authority
+55 established pursuant to section seventeen hundred fifty-one of the
+56 public authorities law.
+
+A. 6635--A 21
+1 (c) "For-hire vehicle" means any transportation network company vehi-
+2 cle (TNC vehicle) as defined in section sixteen hundred ninety-one of
+3 the vehicle and traffic law and any for-hire vehicle as defined in
+4 section 19-502 of the administrative code of the city of New York.
+5 (d) "For-hire transportation trip" means transportation provided in a
+6 for-hire vehicle as defined in subdivision (c) of this section, for
+7 which a charge is made.
+8 (e) "High-volume for-hire service" shall have the same meaning as
+9 defined in section 19-502 of the administrative code of the city of New
+10 York.
+11 § 1299-bb. Imposition of tax. (a) In addition to any other tax or
+12 assessment imposed by this chapter or other law, there is hereby imposed
+13 a surcharge of one dollar for each for-hire transportation trip
+14 conducted in a transportation network company vehicle or by a high-vo-
+15 lume for-hire service, other than trips dispatched by a paratransit
+16 service.
+17 (b) Receipts subject to tax under paragraph ten of subdivision (c) of
+18 section eleven hundred five of this chapter shall be deemed to exclude
+19 any surcharge imposed by this article.
+20 § 1299-cc. Liability for surcharge. (a) Notwithstanding any provision
+21 of law to the contrary, any person who dispatches a motor vehicle by any
+22 means that provides transportation that is subject to a surcharge
+23 imposed by this article shall be liable for the surcharge imposed by
+24 this article.
+25 (b) Notwithstanding any law to the contrary: (1) The surcharge imposed
+26 by this article shall be passed along to passengers and separately stat-
+27 ed on any receipt that is provided to such passengers. The passing along
+28 of such surcharge shall not be construed by any court or administrative
+29 body as the imposition of the surcharge on the person or entity that
+30 pays for the for-hire transportation trip. All regulatory agencies shall
+31 adjust any fares that are authorized by such agencies to include the
+32 surcharge imposed by this article and shall require that any meter or
+33 other instrument used in any for-hire vehicle regulated by such agency
+34 to calculate fares be adjusted to include the surcharge.
+35 (2) Neither the failure of a regulatory agency to adjust fares nor the
+36 failure to adjust a meter or other instrument used in a for-hire vehicle
+37 to calculate fares shall relieve any person liable for the surcharge
+38 imposed by this article from the obligation to pay such surcharge.
+39 § 1299-dd. Returns and payment of surcharge. (a) Every person liable
+40 for the surcharge imposed by this article shall file a return with the
+41 commissioner on a monthly basis. Each return shall show the number of
+42 for-hire transportation trips subject to the surcharge imposed by this
+43 article in the month for which the return is filed, along with such
+44 other information as the commissioner may require. The returns required
+45 by this section shall be filed within twenty days after the end of the
+46 month covered thereby. If the commissioner deems it necessary to ensure
+47 the payment of the surcharge imposed by this article, the commissioner
+48 may require returns to be made for shorter periods than prescribed by
+49 the provisions of this section, and upon such dates as may be specified.
+50 The form of returns shall be prescribed by the commissioner and shall
+51 contain such information as the commissioner may deem necessary for the
+52 proper administration of this article. The commissioner may require that
+53 returns be filed electronically.
+54 (b) Every person liable for the surcharge imposed by this article
+55 shall, at the time of filing such return, pay to the commissioner the
+56 total amount of all surcharges due under this article. Such amount shall
+
+A. 6635--A 22
+1 be due and payable on the date specified for the filing of the return
+2 for such period, without regard to whether a return is filed, or whether
+3 the return that is filed correctly shows the correct number of for-hire
+4 trips that are subject to the surcharge, or the correct surcharge amount
+5 due thereon. The commissioner may require that the surcharge be paid
+6 electronically.
+7 (c) In addition to any other penalty or interest provided for under
+8 this article or other law, and unless it is shown that such failure is
+9 due to reasonable cause and not due to willful neglect, any person
+10 liable for the surcharge imposed by this article that fails to pay such
+11 surcharge when due shall be liable for a penalty in an amount equal to
+12 two hundred percent of the total surcharge amount that is due.
+13 § 1299-ee. Records to be kept. Every person liable for the surcharge
+14 imposed by this article shall keep, and shall make available for review
+15 upon demand by the commissioner:
+16 (a) records of every trip provided or arranged by such person, or
+17 provided through the use of a for-hire vehicle owned or leased by such
+18 person, including all amounts paid, charged, or due thereon, in such
+19 form as the commissioner may require;
+20 (b) true and complete copies of any records required to be kept by any
+21 applicable regulatory department or agency; and
+22 (c) such other records and information as the commissioner may require
+23 to perform their duties under this article.
+24 § 1299-ff. Deposit and disposition of revenue. (a) Any surcharge,
+25 interest, and penalties collected or received by the commissioner shall
+26 be deposited daily with such responsible banks, banking houses, or trust
+27 companies, as may be designated by the comptroller, to the credit of the
+28 comptroller in trust for the green accessible transition authority. An
+29 account may be established in one or more of such depositories. Such
+30 deposits shall be kept separate and apart from all other money in the
+31 possession of the comptroller. The comptroller shall require adequate
+32 security from all such depositories. Of the total revenue collected or
+33 received under this article, the comptroller shall retain such amount as
+34 the commissioner may determine to be necessary for refunds under this
+35 article. The commissioner is authorized and directed to deduct from the
+36 amounts the department receives under this article, before deposit into
+37 the trust accounts designated by the comptroller, a reasonable amount
+38 necessary to effectuate refunds of appropriations of the department to
+39 reimburse the department for the costs incurred to administer, collect
+40 and distribute the surcharge, interest, and penalties imposed by this
+41 article.
+42 (b) On or before the twelfth day of each month, after reserving such
+43 amount for such refunds and deducting such amounts for such costs, as
+44 provided for in subdivision (a) of this section, the commissioner shall
+45 certify to the comptroller the amount of revenues so received during the
+46 prior month as a result of the surcharge, interest, and penalties so
+47 imposed. Notwithstanding any provision of law to the contrary, after
+48 deducting the amounts specified in this subdivision, the remaining funds
+49 collected shall be deposited by the comptroller, without appropriation,
+50 into the green accessible transition fund established pursuant to
+51 section seventeen hundred fifty-five of the public authorities law.
+52 § 5. The sum of ten million dollars ($10,000,000), or so much thereof
+53 as may be necessary, is hereby appropriated to the green accessible
+54 transition authority from any moneys in the state treasury in the gener-
+55 al fund to the credit of the state purposes account not otherwise appro-
+56 priated for the purposes of carrying out the provisions of this act.
+
+A. 6635--A 23
+1 Such sum shall be payable on the audit and warrant of the state comp-
+2 troller on vouchers certified or approved by the secretary of state or
+3 such secretary's duly designated representative in the manner provided
+4 by law.
+5 § 6. This act shall take effect immediately.
