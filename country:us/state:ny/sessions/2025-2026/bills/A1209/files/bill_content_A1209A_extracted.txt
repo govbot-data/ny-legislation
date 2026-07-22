@@ -1,0 +1,413 @@
+Title: 
+Official Title: 
+Source: versions - A1209A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1209--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 9, 2025
+___________
+Introduced by M. of A. PAULIN, COLTON, OTIS, ROSENTHAL, LEVENBERG,
+ROZIC, SAYEGH, BURDICK, LEE, PEOPLES-STOKES, SIMONE, SCHIAVONI, KELLES
+-- read once and referred to the Committee on Environmental Conserva-
+tion -- reported and referred to the Committee on Codes -- reported
+and referred to the Committee on Ways and Means -- reported and
+referred to the Committee on Rules -- recommitted to the Committee on
+Ways and Means in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the environmental conservation law, in relation to
+establishing extended producer responsibility for mattresses
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 27 of the environmental conservation law is amended
+2 by adding a new title 34 to read as follows:
+3 TITLE 34
+4 EXTENDED PRODUCER RESPONSIBILITY FOR MATTRESSES
+5 Section 27-3401. Definitions.
+6 27-3403. Producer plan.
+7 27-3405. Producer responsibilities.
+8 27-3407. Retailer responsibilities.
+9 27-3409. Department responsibilities.
+10 27-3411. Mattress stewardship advisory board.
+11 27-3413. Enforcement and penalties.
+12 27-3415. Rules and regulations.
+13 § 27-3401. Definitions.
+14 As used in this title:
+15 1. "Brand" means a name, symbol, word, or mark that attributes the
+16 product to the owner or licensee of the brand as the producer.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03512-03-6
+
+A. 1209--A 2
+1 2. "Collection site" means a permanent location in the state at which
+2 a consumer may discard mattresses.
+3 3. "Consumer" means a person located in the state who purchases, owns,
+4 leases, or uses mattresses, including but not limited to an individual,
+5 a business, corporation, limited partnership, not-for-profit corpo-
+6 ration, the state, a public corporation, public school, school district,
+7 private or parochial school or board of cooperative educational services
+8 or governmental entity, but does not include a retailer or person that
+9 acquires a mattress solely for purposes of recycling.
+10 4. "Discarded mattress" means a mattress that a consumer has used and
+11 discarded in the state.
+12 5. "Energy recovery" means the process by which all or a portion of
+13 solid waste materials are processed or combusted in order to utilize the
+14 heat content or other forms of energy derived from such solid waste
+15 materials.
+16 6. (a) "Mattress" means any resilient material, or combination of
+17 materials that is enclosed by ticking, used alone or in combination with
+18 other products, and that is intended for or promoted for sleeping upon.
+19 Mattress includes any foundation and any used mattress. For the purposes
+20 of this title, a "foundation" means a ticking-covered structure used to
+21 support a mattress or sleep surface. A foundation may include
+22 constructed frames, foam, box springs, or other materials, used alone or
+23 in combination.
+24 (b) Mattress shall not include:
+25 (i) an unattached mattress pad or mattress topper that is intended to
+26 be used with, or on top of a mattress;
+27 (ii) a crib or bassinet mattress or car bed;
+28 (iii) juvenile products, including: a carriage, basket, dressing
+29 table, stroller, playpen, infant carrier, lounge pad, crib bumper, and
+30 the pads for those juvenile products;
+31 (iv) a product containing liquid- and gaseous-filled ticking, includ-
+32 ing a waterbed and air mattress that does not contain upholstery materi-
+33 al between the ticking and the mattress core; or
+34 (v) a fold-out sofa bed or futon.
+35 7. "Producer" means any person who manufactures or renovates mattress-
+36 es that are sold, offered for sale, or distributed to a consumer in this
+37 state. "Producer" includes:
+38 (a) the owner of a trademark or brand under which a mattress is sold,
+39 offered for sale, or distributed in this state, whether or not such
+40 trademark or brand is registered in the state; and
+41 (b) any person who imports a mattresses into the United States that is
+42 sold or offered for sale in the state and that is manufactured by a
+43 person who does not have a presence in the United States.
+44 8. "Recycle" means to separate, dismantle or process the materials,
+45 components or commodities contained in mattresses for the purpose of
+46 preparing the materials, components or commodities for use or reuse in
+47 new products or components. "Recycle" does not include:
+48 (a) energy recovery or energy generation by any means, including but
+49 not limited to, combustion, incineration, pyrolysis, gasification,
+50 solvolysis, or waste to fuel;
+51 (b) any chemical conversion process; or
+52 (c) landfill disposal.
+53 9. "Recycler" means a person that engages in recycling.
+54 10. "Recycling rate" means the percentage of discarded mattresses that
+55 is managed through recycling or reuse, as defined by subdivisions eight
+56 and thirteen of this section, and is computed by dividing the amount of
+
+A. 1209--A 3
+1 discarded mattresses collected and recycled or reused by the estimated
+2 total amount of discarded mattresses generated over a program year.
+3 11. "Representative organization" means a not-for-profit organization
+4 established by a producer or group of producers to implement the
+5 mattress collection program.
+6 12. "Retailer" means any person who sells or offers for sale a
+7 mattress to a consumer in the state.
+8 13. "Reuse" means donating or selling a discarded mattress back into
+9 the market for its original intended use, when the discarded mattress
+10 retains its original performance characteristics and can be used for its
+11 original purpose.
+12 14. "Sale" or "sell" means a transfer of title to a mattress for
+13 consideration, including a remote sale conducted through a sale outlet,
+14 catalog, website, by telephone or through similar electronic means.
+15 "Sale" or "sell" includes a lease through which a mattress is provided
+16 to a consumer in the state by a producer or retailer.
+17 15. "Ticking" means the outermost layer of fabric or materials of a
+18 mattress. Ticking does not include any layer of fabric or material
+19 quilted together with, or otherwise attached to the outermost layer of
+20 fabric or material of a mattress.
+21 16. "Upholstery material" means all material loose or attached between
+22 the ticking and the core of the mattress.
+23 § 27-3403. Producer plan.
+24 1. No later than December thirty-first, two thousand twenty-eight, a
+25 producer, either individually or cooperatively with one or more produc-
+26 ers, or a representative organization shall submit to the department for
+27 the department's approval a plan for the establishment of a mattress
+28 collection program that meets the collection requirements described in
+29 this section.
+30 2. A producer may satisfy the mattress collection program requirement
+31 of this section by agreeing to participate collectively with other
+32 producers. Any such collective mattress collection program shall notify
+33 the department.
+34 3. A producer or representative organization shall update the plan, as
+35 needed, when there are changes proposed to the current program. A new
+36 plan or amendment will be required to be submitted to the department for
+37 approval when:
+38 (a) there is a revision of the program's goals; or
+39 (b) every three years from the date of approval of a previous plan.
+40 4. The plan submitted by the producer or representative organization
+41 to the department under this section shall, at a minimum, provide:
+42 (a) A list of each participating provider and brands covered by the
+43 program;
+44 (b) Information on the products covered by the program;
+45 (c) A description of how the producer or representative organization
+46 will collect, transport, recycle, and process discarded mattresses;
+47 (d) (1) i. A description of how the producer or representative organ-
+48 ization shall provide for a convenient and cost-effective collection of
+49 discarded mattresses, which may include, using existing public and
+50 private waste collection channels and collection sites in the state
+51 pursuant to voluntary agreements. Such description shall also include a
+52 description of how the program will achieve within a reasonable period
+53 of time a minimum convenience goal which ensures that all counties of
+54 the state shall have at least one collection site, and within two years
+55 after the program approval, not less than seventy percent of the state's
+56 residents will live within a fifteen mile radius of a collection site,
+
+A. 1209--A 4
+1 and within three years after the program approval, not less than eighty
+2 percent of the state's residents will live within a fifteen mile radius
+3 of a collection site.
+4 ii. Provided, however, that with respect to a city or county having a
+5 population of one million or more, a convenience goal shall be estab-
+6 lished for that city or county. In the case of a city, the convenience
+7 goal shall be proposed after consultation with the department of sanita-
+8 tion of such city. In the case of a county, the convenience goal shall
+9 be proposed after consultation with an agency designated by the county
+10 executive. Such proposed city and county convenience goals shall be
+11 submitted to the department, which may approve, modify, or otherwise
+12 establish alternative convenience goals.
+13 (2) To meet these convenience goals, the producer or representative
+14 organization shall:
+15 i. Enter into voluntary agreements to establish collection sites at
+16 public and private solid waste facilities; transfer stations; landfills;
+17 recyclables handling and recovery facilities that are permitted or
+18 registered with the department; or other suitable sites for the
+19 collection of discarded mattresses;
+20 ii. Provide mattress storage containers at no cost to a participating
+21 collection site described in clause i of this subparagraph;
+22 iii. Negotiate mutually agreed upon voluntary agreements with partic-
+23 ipating collection sites described in clause i of this subparagraph that
+24 provide for reasonable compensation for the actual costs these
+25 collection sites incur to handle, store, and transport discarded
+26 mattresses for recycling;
+27 iv. For collection sites as described in clause i of this subpara-
+28 graph, and other entities such as healthcare facilities, educational
+29 facilities, military facilities, junk haulers, hotels and motels that
+30 provide transient lodging, and other facilities that periodically
+31 replace mattresses that they own or use, and who have collected at least
+32 one hundred recyclable mattresses for recycling, provide at its expense
+33 an appropriate storage container, transportation from a collection point
+34 to a recycler, and services to recycle the mattresses; and
+35 v. Enter into voluntary agreements with retailers that pick up or
+36 accept mattresses from consumers upon the purchase of a new mattress for
+37 recycling;
+38 (e) The names and locations of collection sites, transporters, and
+39 recyclers who will manage discarded mattresses delivered to collection
+40 sites at the time of plan submission;
+41 (f) A description of how the discarded mattresses will be safely and
+42 securely transported, tracked, and handled from collection sites through
+43 final recycling and processing;
+44 (g) A description of the methods to be used to reuse or recycle
+45 discarded mattresses to ensure that the components, to the extent feasi-
+46 ble, are transformed or remanufactured into finished products for use;
+47 (h) A description of the methods to be used to manage or dispose of
+48 discarded mattresses that cannot be recycled or reused;
+49 (i) A detailed description of the outreach and educational materials
+50 that must be provided to consumers, retailers, collection sites, and
+51 transporters of discarded mattresses, and how such outreach will be
+52 evaluated for effectiveness;
+53 (j) A description of how the program will meet annual performance
+54 goals, including collection, recycling, and reuse rates, as determined
+55 by the department through rules and regulations, provided that at a
+56 minimum, the program shall achieve the following recycling rates:
+
+A. 1209--A 5
+1 (i) a forty percent recycling rate of mattresses by three years after
+2 the plan is approved by the department pursuant to section 27-3409 of
+3 this title;
+4 (ii) a fifty-five percent recycling rate of mattresses by seven years
+5 after the plan is approved by the department pursuant to section 27-3409
+6 of this title;
+7 (iii) a seventy percent recycling rate of mattresses by ten years
+8 after the plan is approved by the department pursuant to section 27-3409
+9 of this title;
+10 (k) A description of what, if any, incentives will be used to encour-
+11 age retailer participation;
+12 (l) A description of the outreach and education methods that will be
+13 used to encourage municipal landfill and transfer station participation;
+14 and
+15 (m) any other information required by the department to implement the
+16 program.
+17 § 27-3405. Producer responsibilities.
+18 1. Beginning six months after the plan is approved under subdivision
+19 four of section 27-3409 of this title, the producer or representative
+20 organization shall implement the mattress collection program utilizing
+21 collection sites pursuant to paragraph (d) of subdivision four of
+22 section 27-3403 of this title.
+23 2. A producer shall not sell, or offer for sale, a mattress to any
+24 person in the state unless the producer is implementing or participating
+25 under an approved plan.
+26 3. The program shall be free to the consumer, convenient and adequate
+27 to serve the needs of consumers in all areas of the state on an ongoing
+28 basis.
+29 4. A producer or representative organization shall maintain records
+30 demonstrating compliance with the provisions of this title and make them
+31 available for audit and inspection by the department for a period of
+32 three years. The department shall make such audit records available to
+33 the public upon request in accordance with the provisions of the state
+34 freedom of information law and the regulations promulgated thereunder,
+35 provided that confidential or business proprietary records shall be
+36 exempt from this provision. Record holders shall submit the records
+37 required to comply with the request within sixty working days of written
+38 notification by the department of receipt of the request.
+39 5. A producer or representative organization shall be responsible for
+40 all costs associated with the implementation of the mattress collection
+41 program. A producer or representative organization shall pay costs
+42 incurred by the state in the administration and enforcement of this
+43 title. Exclusive of fines and penalties, the state shall only recover
+44 its actual direct cost of administration and enforcement.
+45 6. Any person who becomes a producer on or after December thirty-
+46 first, two thousand twenty-eight shall submit a plan to the department,
+47 or notify the department that it has joined an existing plan, prior to
+48 selling or offering for sale in the state any mattress, and shall comply
+49 with the requirements of this title.
+50 7. Within eighteen months following approval of the producer plan, and
+51 annually thereafter, a producer or representative organization shall
+52 submit a report to the department that includes, for the previous
+53 program calendar year, a description of the program including, but not
+54 limited to the following:
+55 (a) a detailed description of the methods used to collect, transport,
+56 and process discarded mattresses in the state, including detailing
+
+A. 1209--A 6
+1 collection methods made available to consumers and an evaluation of the
+2 program's collection convenience;
+3 (b) identification of all collection sites in the state;
+4 (c) the estimated weight of all discarded mattresses collected, recy-
+5 cled, or reused pursuant to the mattress collection program;
+6 (d) an evaluation of whether the performance goals and recycling rates
+7 have been achieved;
+8 (e) the estimated weight of discarded mattresses and any component
+9 materials that were collected pursuant to the collection program, but
+10 not recycled;
+11 (f) the total cost of implementing the program;
+12 (g) samples of all educational materials provided to consumers and a
+13 detailed list of efforts undertaken and an evaluation of the methods
+14 used to disseminate such materials including recommendations, if any,
+15 for how the educational component of the program can be improved; and
+16 (h) any other information required by the department that is relevant
+17 to the requirements of this title.
+18 8. Each producer or representative organization shall submit an annual
+19 report to the department as provided for in subdivision seven of this
+20 section that assesses compliance with performance goals and describes
+21 any modifications necessary to achieve such goals.
+22 9. (a) A producer or representative organization shall not be liable
+23 for any claim of a violation of antitrust, restraint of trade, or unfair
+24 trade practice arising from an action undertaken, in accordance with a
+25 mattress collection program approved by the department, solely to
+26 increase the collection and recycling of mattresses, which affects the
+27 types and quantities being collected and recycled or the cost and struc-
+28 ture of such collection program that the producer or representative
+29 organization is participating in pursuant to this title.
+30 (b) Provided, however, paragraph (a) of this subdivision shall not
+31 apply to any agreement establishing or affecting the price or output of
+32 mattresses or restricting the geographic area or customers to which
+33 mattresses will be sold.
+34 § 27-3407. Retailer responsibilities.
+35 1. Beginning December thirty-first, two thousand twenty-nine, no
+36 retailer may sell or offer for sale mattresses in this state unless the
+37 producer of such mattresses is participating in a mattress collection
+38 program. A retailer shall be in compliance with this section if, on the
+39 date the mattresses were ordered from the producer or its agent, the
+40 producer was listed on the department's website as implementing or
+41 participating in an approved program.
+42 2. Any retailer may participate, on a voluntary basis, as a designated
+43 collection site pursuant to a mattress collection program and in accord-
+44 ance with all applicable laws and regulations.
+45 § 27-3409. Department responsibilities.
+46 1. The department shall maintain a list of producers, including a list
+47 of such producers' brands, who are participating under a department
+48 approved plan and post such list on the department's website.
+49 2. The department shall post on its website the location of all
+50 collection sites identified to the department by the producer in its
+51 annual reports.
+52 3. The department shall post on its website each producer plan
+53 approved by the department.
+54 4. Within ninety days after receipt of a proposed plan or plan amend-
+55 ment, the department shall approve or reject such plan or plan amendment
+56 based on whether such proposed plan or plan amendment satisfactorily
+
+A. 1209--A 7
+1 meets the requirements of subdivision four of section 27-3403 of this
+2 title. If the plan or plan amendment is approved, the department shall
+3 notify the producer or representative organization in writing. If the
+4 department rejects the plan or plan amendment, the department shall
+5 notify the producer or representative organization in writing stating
+6 the reason for rejecting the plan or plan amendment. A producer or
+7 representative organization whose plan is rejected shall submit a
+8 revised plan to the department within thirty days of receiving a notice
+9 of rejection. If the producer or representative organization fails to
+10 submit a plan that is acceptable to the department because it does not
+11 meet the requirements of subdivision four of section 27-3403 of this
+12 title, the department shall modify a submitted plan to make it conform
+13 to the requirements of such subdivision and approve it.
+14 5. The department shall submit a report regarding the implementation
+15 of this title in this state to the governor and legislature by April
+16 first, two thousand thirty and every two years thereafter. The report
+17 shall include, at a minimum, an evaluation of:
+18 (a) The stream of mattresses in the state;
+19 (b) Disposal, recycling, and reuse rates in the state of mattresses;
+20 (c) A discussion of compliance and enforcement related to the require-
+21 ments of this title; and
+22 (d) Recommendations for any changes to this title.
+23 § 27-3411. Mattress stewardship advisory board.
+24 1. There is hereby established within the department a mattress
+25 stewardship advisory board to make recommendations to the commissioner
+26 regarding producer plans required by this title.
+27 2. The board shall be composed of twelve voting members. Such members
+28 shall include:
+29 (a) One representative of mattress producers;
+30 (b) Two representatives of mattress retailers;
+31 (c) One representative of mattress recyclers;
+32 (d) Two representatives of mattress collectors;
+33 (e) One representative of a company that utilizes discarded mattresses
+34 to manufacture a new product;
+35 (f) One representative from a statewide environmental organization;
+36 (g) One representative from a statewide waste disposal association;
+37 (h) One representative from the New York product stewardship council;
+38 (i) One representative from a consumer organization; and
+39 (j) One representative from a statewide recycling organization.
+40 3. The members shall be appointed as follows:
+41 (a) Two members to be appointed by the temporary president of the
+42 senate;
+43 (b) Two members to be appointed by the speaker of the assembly;
+44 (c) One member to be appointed by the minority leader of the senate;
+45 (d) One member to be appointed by the minority leader of the assembly;
+46 and
+47 (e) Six members to be appointed by the governor.
+48 4. Such appointments shall be made no later than sixty days following
+49 the date on which this title takes effect. The members shall designate a
+50 chair from among the members by majority vote. Board members shall
+51 receive no compensation but shall be entitled to their necessary and
+52 actual expenses incurred in the performance of their board duties.
+53 5. The board shall meet at least annually by call of the chair.
+54 § 27-3413. Enforcement and penalties.
+55 Any producer, representative organization, or retailer who violates
+56 any provision of or who fails to perform any duty imposed pursuant to
+
+A. 1209--A 8
+1 this title shall be liable for a civil penalty not to exceed five
+2 hundred dollars for each violation and an additional penalty of not more
+3 than five hundred dollars for each day during which such violation
+4 continues. Civil penalties under this section shall be assessed by the
+5 department after a hearing or opportunity to be heard pursuant to the
+6 provisions of section 71-1709 of this chapter.
+7 § 27-3415. Rules and regulations.
+8 The department is hereby authorized to promulgate any rules and regu-
+9 lations necessary to implement this title.
+10 § 2. Section 71-1701 of the environmental conservation law, as amended
+11 by chapter 795 of the laws of 2022, is amended to read as follows:
+12 § 71-1701. Applicability of this title.
+13 This title shall be applicable to the enforcement of titles 1 through
+14 11 and titles 15 through 19 of article 17; article 19; and titles 1
+15 [and], 33 and 34 of article 27 of this chapter.
+16 § 3. This act shall take effect immediately.

@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - S8540A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8540--A
+2025-2026 Regular Sessions
+IN SENATE
+October 22, 2025
+___________
+Introduced by Sens. GONZALEZ, BROUK, FAHY, GOUNARDES, KRUEGER, STAVISKY
+-- read twice and ordered printed, and when printed to be committed to
+the Committee on Rules -- recommitted to the Committee on Energy and
+Telecommunications in accordance with Senate Rule 6, sec. 8 -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the public service law, in relation to enacting the
+"accountability of costs for data centers act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "account-
+2 ability of costs for data centers act" or the "AC/DC act".
+3 § 2. Subdivision 5 of section 65 of the public service law, as amended
+4 by chapter 134 of the laws of 1921, is amended to read as follows:
+5 5. (a) Nothing in this chapter shall be taken to prohibit a gas corpo-
+6 ration or [electrical] electric corporation from establishing classi-
+7 fications of service based upon the quantity used, the time when used,
+8 the purpose for which used, the duration of use or upon any other
+9 reasonable consideration, and providing schedules of just and reasonable
+10 graduated rates applicable thereto. No such classification, schedule,
+11 rate or charge shall be lawful unless it shall be filed with and
+12 approved by the commission, and every such classification, rate or
+13 charge shall be subject to change, alteration and modification by the
+14 commission.
+15 (b) (i) The commission shall require each electric corporation, gas
+16 corporation, and municipality to establish, and file with the commission
+17 for approval or modification, an independent classification of service
+18 for large energy use facilities that is separate and distinct from other
+19 classifications of service. The commission shall also require each elec-
+20 tric corporation, gas corporation, and municipality to file updates, if
+21 applicable, to existing classifications of service to exclude large
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13019-06-6
+
+S. 8540--A 2
+1 energy use facilities and to update any other filings, documents, or
+2 components thereof necessary to effectuate the reclassification of large
+3 energy use facilities. Each such service classification for large energy
+4 use facilities shall at a minimum, in a manner that is just and reason-
+5 able, establish a rate, charge, or schedule of rates, and additional
+6 terms of service, to:
+7 (A) assign the costs incurred by the electric corporation, gas corpo-
+8 ration, or municipality to serve large energy use facilities, including,
+9 but not limited to, the costs of any infrastructure upgrades, improve-
+10 ments, or additions and operational costs, necessary to facilitate and
+11 maintain service to such facilities, entirely among such classification;
+12 (B) assign all costs related to the recovery of any rate of return
+13 attributable to large energy use facilities entirely among such classi-
+14 fication; and
+15 (C) mitigate risks and impacts to other service classifications from
+16 large energy use facilities, including increases to surcharges, basic
+17 service or other fixed charges not directly related to actual energy
+18 usage.
+19 (ii) The commission, in coordination with the federally designated
+20 bulk system operator, shall establish, implement, and annually update an
+21 adjustment mechanism to ensure that all costs from any increases in
+22 commodity prices after the effective date of the chapter of the laws of
+23 two thousand twenty-six that amended this subdivision, including, but
+24 not limited to, transmission service fees, attributable to large energy
+25 use facilities are borne by such facilities.
+26 (iii) The department may promulgate regulations regarding financial
+27 surety requirements, between an electric corporation, gas corporation,
+28 or municipality and a large energy use facility, for the provision of
+29 service to large energy use facilities which may include one, or any
+30 combination, of the following: insurance, guarantee, surety bond, letter
+31 of credit, or qualification as a self-insurer. In promulgating require-
+32 ments under this section, the commission shall be authorized to specify
+33 policy or other contractual terms, conditions, or defenses which are
+34 necessary or are unacceptable in establishing such evidence of financial
+35 surety.
+36 (iv) For the purposes of this paragraph, the term "large energy use
+37 facilities" shall mean all facilities, or combination of facilities
+38 under common ownership at the same site, that:
+39 (A) receive service from an electric corporation, gas corporation, or
+40 municipality, have applied or requested to receive such service, or have
+41 otherwise caused an electric corporation, gas corporation, or munici-
+42 pality to incur an expense in relation to the provision of service; and
+43 (B) have a peak demand of twenty megawatts or more that is used for:
+44 (I) computing infrastructure, not including manufacturing;
+45 (II) data processing services;
+46 (III) web hosting services, not including software publishing;
+47 (IV) streaming support services, not including streaming distribution;
+48 and
+49 (V) other related services and functions as defined by the commission.
+50 § 3. The public service commission shall:
+51 1. not approve any change of rates or related updates to a tariff
+52 requested by an electric corporation, gas corporation, or municipality
+53 after the effective date of this act unless such proposal includes a
+54 service classification for large energy use facilities and an adjustment
+55 mechanism in compliance with this act; and
+
+S. 8540--A 3
+1 2. ensure that all new or modified service classifications and adjust-
+2 ment mechanisms required by this act are fully implemented by electric
+3 corporations, gas corporations, and municipalities no later than June 1,
+4 2030.
+5 § 4. This act shall take effect immediately; provided, however, that
+6 any new or revised service classification or adjustment mechanism
+7 authorized by this act shall not go into effect on or before June 1,
+8 2027.

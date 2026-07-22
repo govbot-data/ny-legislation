@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - A3279A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3279--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 27, 2025
+___________
+Introduced by M. of A. VANEL, BURDICK, SAYEGH -- read once and referred
+to the Committee on Banks -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT in relation to establishing the New York state cryptocurrency and
+blockchain study task force; and providing for the repeal of such
+provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York state cryptocurrency and blockchain study act".
+3 § 2. There is hereby established the New York state cryptocurrency and
+4 blockchain study task force (hereinafter referred to as "the task
+5 force") within the department of financial services to provide the
+6 governor and the legislature with information on the effects of the
+7 widespread use of cryptocurrencies and other forms of digital currencies
+8 and their ancillary systems, including but not limited to blockchain
+9 technology, in the state.
+10 § 3. 1. The task force shall consist of sixteen members as follows:
+11 a. six members appointed by the governor, which shall include the
+12 following:
+13 i. the superintendent of the department of financial services, or such
+14 superintendent's designee;
+15 ii. the commissioner of the department of environmental conservation,
+16 or such commissioner's designee;
+17 iii. the commissioner of taxation and finance or such commissioner's
+18 designee;
+19 iv. a representative from the financial services industry;
+20 v. a representative from a state or national organization promoting
+21 environmental conservation; and
+22 vi. a representative who is a faculty member of an accredited college
+23 or university in New York state with experience in economic studies.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06929-02-5
+
+A. 3279--A 2
+1 b. the comptroller of the state of New York, or the comptroller's
+2 designee;
+3 c. four members appointed by the temporary president of the senate,
+4 two of which are representatives from two separate cryptocurrency trade
+5 groups, organizations, or companies;
+6 d. four members appointed by the speaker of the assembly, two of which
+7 are representatives from two separate cryptocurrency trade groups,
+8 organizations, or companies; and
+9 e. the attorney general of the state of New York, or the attorney
+10 general's designee.
+11 2. To the extent practicable, members appointed to the task force
+12 shall have relevant experience and knowledge concerning the digital
+13 currency, cryptocurrency and blockchain industries.
+14 3. The members of the task force shall receive no compensation for
+15 their services, but shall be allowed their actual and necessary expenses
+16 incurred in the performance of their duties pursuant to this act.
+17 4. Any vacancies in the membership of the task force shall be filled
+18 in the same manner provided for in the initial appointment.
+19 5. The task force may consult with any organization, government enti-
+20 ty, or person, in the development of its report required under section
+21 four of this act.
+22 6. The members of the task force shall be appointed no later than
+23 ninety days after the effective date of this act.
+24 § 4. On or before December 15, 2027, the task force shall submit to
+25 the governor, the temporary president of the senate and the speaker of
+26 the assembly a report containing, but not limited to, the following
+27 information based on available data:
+28 a. a review of the digital currency, cryptocurrency and blockchain
+29 industries in New York state;
+30 b. the number of digital currencies currently being traded and their
+31 approximate percentage of market share;
+32 c. the number of exchanges operating in New York state and their aver-
+33 age monthly trade volume;
+34 d. the use of digital currencies' impact on state and local tax
+35 receipts;
+36 e. the types of investment entities that are large investors in
+37 digital currency;
+38 f. the energy consumption necessary for coin mining operations and
+39 other policy considerations related thereto;
+40 g. the environmental impact of coin mining operations;
+41 h. the transparency of the digital currency marketplace and the
+42 related potential of market manipulation and other illegal activities;
+43 i. a review of laws and regulations on digital currency used by other
+44 states, the federal government, foreign countries, and foreign political
+45 and economic unions to regulate the marketplace; and
+46 j. legislative and regulatory recommendations, if any, to increase
+47 transparency and security, enhance consumer protections, and to address
+48 the long-term impact related to the use of cryptocurrency.
+49 § 5. This act shall take effect immediately and shall expire December
+50 15, 2027 when upon such date the provisions of this act shall be deemed
+51 repealed.

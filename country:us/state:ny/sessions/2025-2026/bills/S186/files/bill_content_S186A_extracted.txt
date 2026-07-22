@@ -1,0 +1,689 @@
+Title: 
+Official Title: 
+Source: versions - S186A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+186--A
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+when printed to be committed to the Committee on Insurance -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the insurance law, the financial services law, and the
+banking law, in relation to establishing the insure our communities
+act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "insure our communities act".
+3 § 2. Legislative findings and intent. The legislature hereby finds and
+4 declares the following:
+5 1. The Department of Financial Services has identified that New York
+6 state is "in the midst of an affordable housing crisis driven by numer-
+7 ous factors, including the availability of affordable insurance";
+8 2. The Office of Budget Policy and Analysis has identified that "rates
+9 of rental cost burden have increased across all income groups since
+10 2012" and "significant racial disparities exist among households suffer-
+11 ing from housing insecurity. In New York, 55 percent of households head-
+12 ed by a Hispanic person (any race), 50 percent of households headed by a
+13 Black or African American person and 48 percent of households headed by
+14 an Asian person had at least one housing insecurity problem, compared
+15 with 31 percent of households headed by a white person. People experi-
+16 encing homelessness were also disproportionately Black and Hispanic or
+17 Latino";
+18 3. A 2022 study conducted by the Department of Financial Services and
+19 New York State Homes and Community Renewal found that affordable housing
+20 developers "had seen premiums rise, even in instances where there had
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00753-04-5
+
+S. 186--A 2
+1 been no previous claims made, to levels that they deemed prohibitively
+2 expensive";
+3 4. The availability of fair and affordable insurance has a significant
+4 impact on community credit needs as homeowners and business owners need
+5 insurance coverage in order to secure residential or commercial loans,
+6 as well as to protect their homes and businesses when damages occur, and
+7 housing developers need access to fair and affordable insurance coverage
+8 to secure financing for the development of affordable rental housing;
+9 5. A lack of fair and affordable insurance coverage can limit access
+10 to homeownership and business development, reduce the development of
+11 affordable rental housing, and can also limit lending and community
+12 development financing opportunities of institutions covered by New
+13 York's Community Reinvestment Act that evaluates banking institutions on
+14 their ability to meet credit needs of the entire community;
+15 6. Climate change, resulting primarily from the combustion of fossil
+16 fuels, is an immediate, grave threat to the state's communities, envi-
+17 ronment, and economy. New York has experienced an increasing number of
+18 extreme and unusual weather events, including Hurricanes Irene and Lee
+19 and the unprecedented Superstorm Sandy in 2012, which caused at least 48
+20 deaths and $41.9 billion in damage in New York state;
+21 7. Preexisting social and economic challenges combined with the uneven
+22 distribution of climate change impacts makes certain communities more
+23 vulnerable to climate change impacts than others, such as low- and
+24 moderate-income communities and communities of color;
+25 8. Homeowners, businesses, and affordable multifamily developers are
+26 increasingly facing obstacles in securing fair and affordable insurance
+27 coverage in light of climate change and its economic impacts, and the
+28 New York State Climate Impacts Assessment has identified that "many
+29 regions are already experiencing an increase in policy premiums derived
+30 from past extreme climate events";
+31 9. Scientific evidence shows that climate change impacts will become
+32 more severe over time with the continuing rise of global warming from
+33 greenhouse gas emissions;
+34 10. The state of New York must raise additional resources in order to
+35 mitigate the effects of climate change, as evident by a report commis-
+36 sioned by New York State Energy Research and Development Authority's
+37 (NYSERDA) estimating that climate change costs in New York "could
+38 approach $10 billion annually by midcentury"; and
+39 11. Comprehensive data collection on insurance industry practices in
+40 New York state in the form of a statewide database is necessary in order
+41 to facilitate enforcement of the law and to determine if additional
+42 steps need to be taken to increase the availability of affordable insur-
+43 ance in areas underserved by insurance companies. Such data includes but
+44 is not limited to:
+45 a. The availability and affordability of insurance coverage and the
+46 quality or type of insurance coverage, by the race, ethnicity, gender
+47 and income of the policyholder, as well as race, ethnicity, and income
+48 of the census tract the insured risk is located in;
+49 b. The location of the principal place of business of insurance
+50 agents, by census tract, including in low- and moderate-income census
+51 tracts and census tracts in disadvantaged communities;
+52 c. The extent to which insurance companies are significant financiers
+53 of the fossil fuel industry and new fossil fuel projects; and
+54 d. Whether the extent and characteristics of insurance availability,
+55 affordability, and coverage require public officials to take any actions
+56 to remedy redlining or other illegally or unfairly discriminatory insur-
+
+S. 186--A 3
+1 ance practices; or to promote insurance availability and affordability
+2 in areas underserved by insurers.
+3 § 3. The insurance law is amended by adding a new article 92 to read
+4 as follows:
+5 ARTICLE 92
+6 INSURE OUR COMMUNITIES ACT
+7 Section 9201. Definitions.
+8 9202. Implementing climate leadership and community protection
+9 act targets for insurers.
+10 9203. Reporting.
+11 § 9201. Definitions. In this article, unless the context or subject
+12 matter otherwise requires:
+13 (a) "New fossil fuel project" means a project designed to facilitate
+14 the production of fossil fuels in excess of what is in development as of
+15 the effective date of this article, including production of new coal
+16 infrastructure, power plants, or mines. "New fossil fuel project" also
+17 includes projects that would support exploring new oil and gas fields or
+18 otherwise expanding oil and gas reserves. Examples of such projects
+19 include, but are not limited to, new wells, pipelines, terminals or gas
+20 power plants.
+21 (b) "Department" means the department of financial services.
+22 (c) "Superintendent" means the superintendent of the department of
+23 financial services.
+24 (d) "Precautionary principle" means an approach taken to regulation
+25 which mandates that when activities under consideration may lead to
+26 unacceptably serious or irreversible harm that is scientifically plausi-
+27 ble but uncertain, actions shall be taken to avoid or diminish that
+28 harm.
+29 (e) "Guidance" means the department guidance for New York domestic
+30 insurers on managing the financial risks from climate change issued by
+31 the department of financial services.
+32 (f) "Disadvantaged communities" means communities identified as disad-
+33 vantaged communities pursuant to the criteria set forth in paragraph c
+34 of subdivision one of section 75-0111 of the environmental conservation
+35 law.
+36 § 9202. Implementing climate leadership and community protection act
+37 targets for insurers. (a) The department shall:
+38 (1) Integrate the precautionary principle into its regulation and
+39 supervision of insurers by:
+40 (A) incorporating measures to anticipate, prevent, or minimize the
+41 effects of climate risk and its adverse effects; and
+42 (B) implementing cost-effective measures to address the climate risk
+43 exposure of insurers, even in the absence of full economic or scientific
+44 certainty;
+45 (2) Require insurers to annually file and report progress on plans to
+46 align their investment and underwriting activities with science-based
+47 climate mitigation targets consistent with the emissions limits set in
+48 section 75-0107 of the environmental conservation law and to certify
+49 that they do not invest or underwrite new fossil fuel projects;
+50 (3) Align insurer investment and underwriting activities with
+51 science-based climate mitigation targets consistent with the emissions
+52 limits set in section 75-0107 of the environmental conservation law by
+53 prohibiting underwriting for any new fossil fuel project and directing
+54 insurers to phase out existing underwriting for exploration, extraction,
+55 processing, exporting, transporting, and any other significant action
+56 with respect to oil, natural gas, coal, or any byproduct thereof; and
+
+S. 186--A 4
+1 (4) Develop a process for insurance companies to certify as a condi-
+2 tion of licensure that they file and report progress on plans to align
+3 their investment and underwriting activities with science-based climate
+4 mitigation targets consistent with the emissions limits set in section
+5 75-0107 of the environmental conservation law and to certify that they
+6 do not invest or underwrite new fossil fuel projects. The department
+7 shall review each insurance company's certification to ensure that they
+8 file and report on such plans.
+9 (b) Within twelve months of the effective date of this article, the
+10 superintendent shall develop and implement criteria for certain insurers
+11 doing business in this state, as determined by the superintendent pursu-
+12 ant to subsection (f) of this section, to submit annually to the super-
+13 intendent a report disclosing:
+14 (1) Such insurer's investments in:
+15 (A) any company that derives ten percent or more of revenue from
+16 exploration, extraction, processing, exporting, transporting, and any
+17 other significant action with respect to oil, natural gas, coal, or any
+18 byproduct thereof;
+19 (B) any project intended to facilitate or expand exploration,
+20 extraction, processing, exporting, transporting, and any other signif-
+21 icant action with respect to oil, natural gas, coal, or any byproduct
+22 thereof; and
+23 (C) any project intended to construct any infrastructure related to
+24 projects under subparagraph (B) of this paragraph, such as wells, pipe-
+25 lines, terminals or refineries;
+26 (2) The financed emissions from all of the insurer's investments in
+27 the previous reporting year;
+28 (3) Information concerning such insurer's gross premium underwriting
+29 for:
+30 (A) any company that derives ten percent or more of revenue from
+31 exploration, extraction, processing, exporting, transporting, and any
+32 other significant action with respect to oil, natural gas, coal, or any
+33 byproduct thereof;
+34 (B) any project intended to facilitate or expand exploration,
+35 extraction, processing, exporting, transporting, and any other signif-
+36 icant action with respect to oil, natural gas, coal, or any byproduct
+37 thereof; and
+38 (C) any project intended to construct any infrastructure related
+39 projects under subparagraph (B) of this paragraph, such as wells, pipe-
+40 lines, terminals or refineries;
+41 (4) The insured emissions from all of the insurer's underwriting in
+42 the previous reporting year;
+43 (5) Any other information the department deems necessary to effec-
+44 tively implement and enforce any rule or regulation promulgated pursuant
+45 to this article.
+46 (c) The criteria developed by the superintendent pursuant to
+47 subsection (b) of this section shall enable the superintendent to post
+48 the information reported to the superintendent pursuant to subsection
+49 (d) of this section on the department's website.
+50 (d) Within twelve months of the effective date of this article, and
+51 annually thereafter, such insurers doing business in this state, as
+52 determined by the superintendent subject to subsection (f) of this
+53 section, shall submit a report to the superintendent disclosing the
+54 information set forth in subsection (b) of this section for the preced-
+55 ing calendar year.
+
+S. 186--A 5
+1 (e) Within three months of receiving the report required pursuant to
+2 subsection (b) of this section, and annually thereafter, the superinten-
+3 dent shall compile and post the information in such report on the
+4 department's website.
+5 (f) The superintendent may engage the services of attorneys, actuar-
+6 ies, accountants and other experts not otherwise a part of the super-
+7 intendent's staff, at the reporting insurer's expense, as shall be
+8 reasonably necessary to assist in the review of such insurer's filing
+9 under subsection (c) of this section. All persons so engaged shall be
+10 under the direction and control of the superintendent and shall act in a
+11 purely advisory capacity.
+12 (g) The superintendent shall subject an insurer to the requirements of
+13 this section if:
+14 (1) The insurer reports over one hundred million dollars on its annual
+15 schedule T filing with the National Association of Insurance Superinten-
+16 dents; or
+17 (2) The insurer's activities or investments may expose such insurer to
+18 a heightened level of risk from the physical or transition effects of
+19 climate change; or
+20 (3) The superintendent otherwise determines that disclosure would be
+21 in the public interest.
+22 (h) The superintendent shall review and update the guidance at least
+23 once every two years and shall update the guidance to reflect develop-
+24 ments elsewhere in the world, with the intent of incorporating emerging
+25 best practices and ensuring the smooth functioning of New York insurance
+26 markets.
+27 (i) The superintendent may adopt such regulations as the superinten-
+28 dent deems necessary to carry out the purposes of this article.
+29 (j) Within five years of the effective date of this article, the
+30 superintendent shall require any insurer doing business in the state to
+31 certify that they have divested from:
+32 (1) any company that derives ten percent or more of revenue from
+33 exploration, extraction, processing, exporting, transporting, and any
+34 other significant action with respect to oil, natural gas, coal, or any
+35 byproduct thereof;
+36 (2) any project intended to facilitate or expand exploration,
+37 extraction, processing, exporting, transporting, and any other signif-
+38 icant action with respect to oil, natural gas, coal, or any byproduct
+39 thereof; and
+40 (3) any project intended to construct any infrastructure related to
+41 projects under paragraph two of this subsection, such as wells, pipe-
+42 lines, terminals or refineries.
+43 § 9203. Reporting. (a) Within twelve months of the effective date of
+44 this article, and once every two years thereafter, the superintendent
+45 shall submit a report to the legislature and the governor. The report
+46 shall also be made available to the public and posted on the depart-
+47 ment's website. The report shall disclose, for the preceding two calen-
+48 dar years, the department's:
+49 (1) Efforts to implement the provisions of section nine thousand two
+50 hundred two of this article;
+51 (2) Regulatory and supervisory actions taken, if any, to bolster the
+52 resilience of insurers to the physical impacts of climate change;
+53 (3) Regulatory and supervisory actions planned, if any, to bolster the
+54 resilience of insurers to the physical impacts of climate change;
+
+S. 186--A 6
+1 (4) The effects, if any, that the insurers' efforts to address climate
+2 risk have had on the affordability and availability of insurance for
+3 disadvantaged communities.
+4 (b) Such report shall also summarize available information regarding:
+5 (1) insurer and insurance market readiness for climate change and the
+6 energy transition;
+7 (2) major sources of climate risk faced by New York insurers;
+8 (3) any gaps related to climate risk that the department intends to
+9 address; and
+10 (4) any legislative action that must be taken in order to allow the
+11 department to address climate risk.
+12 § 4. Subsections (k) and (l) of section 102 of the financial services
+13 law are amended and a new subsection (m) is added to read as follows:
+14 (k) To promote the reduction and elimination of fraud, criminal abuse
+15 and unethical conduct by, and with respect to, banking, insurance and
+16 other financial services institutions and their customers; [and]
+17 (l) To educate and protect users of banking, insurance, and financial
+18 services products and services through the provision of timely and
+19 understandable information[.]; and
+20 (m) To identify, supervise, regulate and manage exposure to risk in
+21 New York's banking, insurance and financial services industries, includ-
+22 ing risks related to climate change.
+23 § 5. The insurance law is amended by adding a new section 2354 to read
+24 as follows:
+25 § 2354. Protecting communities from bluelining. (a) The superintendent
+26 shall have the authority to place a moratorium on non-renewals in under-
+27 served communities that have been affected by a climate disaster in the
+28 last year.
+29 (b) No insurer shall refuse to issue or renew or shall cancel a policy
+30 of property and casualty insurance based solely on the insured residing
+31 in an area that is designated as a disadvantaged community. Such prohi-
+32 bition shall not preclude an insurer from refusing to issue or renew or
+33 from canceling such policies based on sound underwriting and actuarial
+34 principles reasonably related to actual or anticipated loss experience
+35 subject to the applicable provisions of this section and of section
+36 three thousand four hundred twenty-five of this chapter.
+37 § 6. Subsection (d) of section 3425 of the insurance law is amended by
+38 adding a new paragraph 4 to read as follows:
+39 (4) With respect to cancellation of policies in disadvantaged communi-
+40 ties, in addition to the requirements contained in paragraph one of this
+41 subsection, unless the insurer, at least one year in advance of the end
+42 of the policy period, mails or delivers to the named insured, at the
+43 address shown in the policy, a written notice of its intention not to
+44 renew a covered policy, or to condition its renewal upon change of
+45 limits or elimination of any coverages, the named insured shall be enti-
+46 tled to renew the policy upon timely payment of the premium billed to
+47 the insured for the renewal.
+48 § 7. The insurance law is amended by adding a new section 215 to read
+49 as follows:
+50 § 215. Rating and affordability improvement study. (a) The department
+51 shall conduct a study on methods for keeping property and casualty
+52 insurance lines affordable for disadvantaged communities, including the
+53 development of a public option for residential insurance, consideration
+54 of homeowner mitigation in premium discounts and non-renewal and cancel-
+55 lations decisions, assistance programs for low-income policyholders
+56 similar to those proposed for the national flood insurance program, and
+
+S. 186--A 7
+1 a tax on homeowners insurance lines that declines into a rebate based on
+2 income.
+3 (b) Within twelve months of the effective date of this section, the
+4 department shall issue a report on their findings which shall provide
+5 recommendations for regulatory and legislative actions relating to
+6 affordable insurance lines in disadvantaged communities.
+7 (c) For the purposes of this section, affordability shall be measured
+8 by comparing average written premiums in census tracts where the insured
+9 risk is located to the median household income of census tracts where
+10 the insured risk is located, differentiating among policies issued for
+11 single-family homes, multi-family homes, and condominium or cooperative
+12 units and between policies with varying types of benefits, including but
+13 not limited to guaranteed replacement cost, standard or limited replace-
+14 ment cost, market value or actual cash value.
+15 § 8. Subdivision 4 of section 28-b of the banking law, as amended by
+16 chapter 180 of the laws of 2012, is amended to read as follows:
+17 4. Notwithstanding any other provision of this chapter or other law to
+18 the contrary, the term banking institution when used in this section
+19 shall mean and include all banks, trust companies, savings banks,
+20 savings and loan associations, credit unions, covered insurance compa-
+21 nies and foreign banking corporations incorporated, chartered, organized
+22 or licensed under the laws of this state. In the case of a foreign bank-
+23 ing corporation licensed pursuant to this article and maintaining a
+24 branch in this state, the management of the branch shall establish a
+25 committee of not fewer than three officers to function in the role of a
+26 board of directors for purposes of this section.
+27 § 9. Section 28-b of the banking law is amended by adding eight new
+28 subdivisions 7, 8, 9, 10, 11, 12, 13, and 14 to read as follows:
+29 7. The superintendent shall consider the following factors in assess-
+30 ing a covered insurance company's record of performance at meeting the
+31 insurance needs of their assessment areas, and include in its written
+32 assessment required by this section the record of performance of such
+33 covered insurance company as to each of the following factors:
+34 (a) The number and distribution of policyholders throughout the commu-
+35 nity, including the number and distribution of low- and moderate-income
+36 policyholders, and the number and distribution of policyholders based on
+37 the race or ethnicity of policyholders, as identified in data collected
+38 pursuant to subdivision thirteen of this section;
+39 (b) The number and distribution of policyholders residing in low- and
+40 moderate-income census tracts, as well as the number and distribution of
+41 policyholders residing in census tracts identified as disadvantaged
+42 communities, as identified in data collected pursuant to subdivision
+43 thirteen of this section;
+44 (c) The extent to which the company has adopted innovative and flexi-
+45 ble marketing methods and products that facilitate the sale of insurance
+46 on a nondiscriminatory basis to low- and moderate-income consumers,
+47 consumers in disadvantaged communities, and developers of affordable
+48 housing for low- and moderate-income renters;
+49 (d) The extent to which the company offers affordable insurance. For
+50 the purposes of this paragraph, affordability shall be measured by
+51 comparing average written premiums of the covered insurance company in
+52 census tracts where the insured risk is located to the median household
+53 income of census tracts where the insured risk is located, differentiat-
+54 ing among policies issued for single-family homes, multi-family homes,
+55 and condominium or cooperative units and between policies with varying
+56 types of benefits, including but not limited to guaranteed replacement
+
+S. 186--A 8
+1 cost, standard or limited replacement cost, market value or actual cash
+2 value;
+3 (e) The distribution of the insurance company's retail offices by
+4 income level of census tracts and retail offices located in disadvan-
+5 taged communities and the range of services offered by retail offices
+6 across census tracts by income level and disadvantaged communities
+7 status;
+8 (f) The extent to which the company financially supports, in the form
+9 of loans, investments, or grants, projects designed to avoid, moderate,
+10 repair, or adapt to negative impacts caused by climate change, for the
+11 benefit of households residing in, and businesses located in, low- and
+12 moderate-income communities or disadvantaged communities in order to
+13 help such communities prepare for future climate change-driven
+14 disruptions. Such projects shall include, but are not limited to:
+15 (i) hardening homes and businesses in order to better protect them
+16 from extreme weather events;
+17 (ii) restoring coastal wetlands and developing other nature-based
+18 solutions and coastal protections;
+19 (iii) upgrading storm water drainage systems;
+20 (iv) making defensive upgrades to roads, bridges, subways, and transit
+21 systems;
+22 (v) preparing for and recovering from hurricanes and other extreme
+23 weather events;
+24 (vi) undertaking preventive health care programs and providing medical
+25 care to treat illness or injury caused by the effects of climate change,
+26 including but not limited to programs to minimize health issues caused
+27 by air pollution, water pollution, or rising temperatures, such as Lyme
+28 disease and West Nile virus;
+29 (vii) relocating, elevating, or retrofitting sewage treatment plants
+30 vulnerable to flooding;
+31 (viii) installing energy efficient cooling systems and other weatheri-
+32 zation and energy efficiency upgrades and retrofits in public and
+33 private buildings including schools and public housing;
+34 (ix) upgrading parts of the electrical grid to increase stability and
+35 resilience, including supporting the creation of self-sufficient clean
+36 energy microgrids;
+37 (x) addressing urban heat island effects through green spaces, urban
+38 forestry, and other interventions; and
+39 (xi) responding to toxic algae blooms, loss of agricultural topsoil,
+40 and other climate-driven ecosystem threats to forests, farms, fisheries,
+41 and food systems;
+42 (g) Evidence of prohibited discriminatory, unfair, deceptive, abusive
+43 or other illegal insurance practices, including practices that dispro-
+44 portionately disadvantage low-income consumers or consumers of color
+45 irrespective of whether such practices may be grounded in traditional or
+46 actuarial principles; and
+47 (h) other factors that, in the judgment of the superintendent, reason-
+48 ably bear upon the extent to which a covered insurance company is help-
+49 ing to meet the insurance needs of its assessment area.
+50 8. For the purposes of this section:
+51 (a) The term "assessment area" means, with respect to a covered insur-
+52 ance company, each community, including metropolitan statistical areas
+53 and rural counties, in which such company: (i) maintains a retail office
+54 or is represented by an agent; and (ii) has not less than fifty policy-
+55 holders residing in either the metropolitan statistical area or rural
+
+S. 186--A 9
+1 county. The communities constituting assessment areas shall include the
+2 communities in which the great majority of policies have been issued.
+3 (b) The term "disadvantaged communities" means communities identified
+4 as disadvantaged communities pursuant to the criteria set forth in para-
+5 graph c of subdivision one of section 75-0111 of the environmental
+6 conservation law.
+7 9. In the case of any covered insurance company which the superinten-
+8 dent determines has engaged in any practice or provided any service in a
+9 manner which unlawfully discriminates against, or is unfair, deceptive,
+10 or abusive towards, any person or disadvantaged community, the super-
+11 intendent:
+12 (a) may not give positive consideration to any such practice in
+13 assessing the extent to which such covered insurance company has met its
+14 obligations under subdivision seven of this section;
+15 (b) shall reduce the rating that the covered insurance company would
+16 otherwise obtain with respect to such company after consideration of the
+17 extent of such discriminatory practice or service; and
+18 (c) shall, in addition to any other penalty or sanction imposed by
+19 law, order the covered insurance company to make restitution to all
+20 consumers harmed by such practice.
+21 10. Whenever a covered insurance company receives a rating of "Needs
+22 to Improve" or lower in any assessment area or overall rating, the
+23 company shall submit an improvement plan, subject to public notice and
+24 comment, to the superintendent.
+25 (a) Any improvement plan submitted to the superintendent by a covered
+26 insurance company pursuant to this subdivision shall describe how the
+27 institution intends to improve its performance overall and in any
+28 assessment area where the company received a rating of "Needs to
+29 Improve" or lower.
+30 (b) The superintendent shall review any improvement plan submitted by
+31 a covered insurance company and either approve the plan or send it back
+32 to the company for revisions.
+33 (c) After the superintendent approves an improvement plan submitted by
+34 a covered insurance company pursuant to this subdivision, the company
+35 shall submit reports and data on a quarterly basis so that the super-
+36 intendent and the general public can monitor performance.
+37 (d) If any covered insurance company receives a rating of "Needs to
+38 Improve" or "Substantial Noncompliance" in any assessment area or over-
+39 all rating, the superintendent may not accept or approve any application
+40 by such covered insurance company or any merger applications involving
+41 such company until the company's performance improves on a subsequent
+42 evaluation and may increase examination fees pursuant to subdivision
+43 eleven of this section.
+44 (e) The superintendent shall consider the progress in meeting the
+45 goals described in any improvement plan as an integral factor in reviews
+46 of any application by such covered insurance company or any merger
+47 applications involving such company.
+48 11. The superintendent shall have the authority to examine each
+49 covered insurance company for compliance with this section, in consulta-
+50 tion with state and federal regulators with an appropriate regulatory
+51 interest, for and in compliance with applicable New York and federal
+52 consumer protection and anti-discrimination laws, as often as the super-
+53 intendent deems necessary and proper. The superintendent may adopt rules
+54 and regulations with respect to the frequency and manner of examination
+55 including the imposition of examination fees. The superintendent may
+56 also increase fees for covered insurance companies with less than satis-
+
+S. 186--A 10
+1 factory community reinvestment performance, as well as covered insurance
+2 companies identified using data collected pursuant to article ninety-two
+3 of the insurance law to be significant financiers of fossil fuel busi-
+4 nesses and new fossil fuel projects as defined pursuant to section nine-
+5 ty-two hundred one of the insurance law. Fees collected pursuant to this
+6 subdivision may be transferred to other departments or state-adminis-
+7 tered funds for the purpose of financing projects and initiatives
+8 designed to avoid, moderate, repair, or adapt to negative impacts caused
+9 by climate change, for the benefit of households residing in, and busi-
+10 nesses located in, low- and moderate-income communities or disadvantaged
+11 communities in order to help such communities prepare for future climate
+12 change-driven disruptions. The superintendent and the superintendent's
+13 appointees may examine the entire books, records, documents, and oper-
+14 ations of covered insurance companies, their parent company, and their
+15 subsidiaries, affiliates, or agents, and may examine any of the covered
+16 insurance companies, their parent company's or their subsidiaries',
+17 affiliates', or agents' officers, directors, employees, and agents under
+18 oath. Any document or record prepared or obtained in connection with or
+19 relating to any such examination, and any record prepared or obtained by
+20 the superintendent to the extent that the record summarizes or contains
+21 information derived from any document or record described in this subdi-
+22 vision, shall not be disclosed to the public unless otherwise authorized
+23 pursuant to article ninety-two of the insurance law.
+24 12. Covered insurance companies with less than "Satisfactory CRA"
+25 performance, as identified by the superintendent, will be ineligible for
+26 prior approval of raising property insurance rates as stipulated by the
+27 filing requirements established pursuant to sections twenty-three
+28 hundred five and twenty-three hundred eight of the insurance law and
+29 will be ineligible for prior approval of raising property insurance
+30 rates beyond limitations specified by regulation pursuant to section
+31 twenty-three hundred forty-four of the insurance law.
+32 13. By March thirty-first of each year, every covered insurance compa-
+33 ny shall file with the superintendent a "residential insurance rate,
+34 experience and statistical report" and shall make available in an elec-
+35 tronic database format the statistical information on its residential
+36 and commercial activities by census tract and demographics of the poli-
+37 cyholder according to the provisions of paragraphs (a) and (b) of this
+38 subdivision.
+39 (a) Such statistical report shall be in a form prescribed by the
+40 superintendent as in effect at the commencement of the calendar year
+41 reported upon and shall include, but not be limited to, the following
+42 information:
+43 (i) the number of policies in effect, or other exposures insured. For
+44 the purposes of this paragraph: "policies in effect" shall mean the
+45 number of policies written in the reporting year; and "other exposures",
+46 if any, shall mean any coverage extended other than policies written,
+47 and shall be described in the report in sufficient detail to identify
+48 the coverage provided;
+49 (ii) the number of applications for coverage;
+50 (iii) the number of applications for which coverage was not provided,
+51 classified according to applications withdrawn, applications denied, and
+52 applications still in process;
+53 (iv) the number of policies not renewed;
+54 (v) the number of policies canceled or terminated;
+55 (vi) the number of claims filed;
+56 (vii) the number of claims approved, in whole or in part;
+
+S. 186--A 11
+1 (viii) the number of claims denied, in whole or in part;
+2 (ix) the amounts of the losses incurred;
+3 (x) the amounts of the losses paid;
+4 (xi) applicable rates, within assessment areas served by a covered
+5 insurance company, for each form of property insurance and rating clas-
+6 sification, including rates by tier in multi-tier programs, and differ-
+7 entiating between policies with varying types of benefits, including but
+8 not limited to guaranteed replacement cost, standard or limited replace-
+9 ment cost, market value or actual cash value, and differentiating among
+10 policies issued for single-family homes, multi-family homes, condominium
+11 or cooperative units, and renters;
+12 (xii) for covered insurance companies distributing through direct
+13 solicitation, the number of direct mail or telephone solicitations;
+14 (xiii) the number of agents appointed by the covered insurance compa-
+15 ny;
+16 (xiv) the street addresses of all offices issuing or servicing poli-
+17 cies;
+18 (xv) languages spoken, other than English, with sufficient fluency to
+19 conduct business in that language by personnel within each office;
+20 (xvi) whether the covered insurance company issues policies in a
+21 language other than English, and, if so, identifying the languages in
+22 which policies are issued and the number of policies issued in each
+23 language;
+24 (xvii) for each of the categories of information described in subpara-
+25 graphs (i) through (xi) of this paragraph: further classifications and
+26 aggregated data according to race, national origin, ethnicity, household
+27 income, and gender of the insureds or applicants; classifications and
+28 aggregated data by race, national origin, ethnicity, and income charac-
+29 teristics of the census tract in which the insured risk is located,
+30 including whether the insured risk is located in a disadvantaged commu-
+31 nity, pursuant to rules and regulations promulgated by the superinten-
+32 dent; and, where an insurer applies any other classification which
+33 affects the premium rate at which the policy is issued, totals by race,
+34 national origin, ethnicity, household income and gender for each such
+35 classification;
+36 (xviii) all of the information upon which an insurer, rate service
+37 organization, or group of insurers filed with the superintendent in
+38 support of the rates as required to be filed with the superintendent by
+39 subsection (b) of section twenty-three hundred four and subsection (c)
+40 of section twenty-three hundred five of the insurance law. An insurer or
+41 group of insurers which are members or subscribers of a rate service
+42 organization which makes or files rates on behalf of such insurer or
+43 group of insurers shall be responsible for filing such information as
+44 part of the report required by this paragraph;
+45 (xix) the total dollar amount of financing to fossil fuel businesses,
+46 including investments and insurance policies. For purposes of this
+47 subparagraph, "fossil fuel businesses" means any company that derives
+48 ten percent or more of revenue from exploration, extraction, processing,
+49 exporting, transporting, and any other significant action with respect
+50 to oil, natural gas, coal, or any byproduct thereof; and
+51 (xx) the total dollar amount of financing for new fossil fuel
+52 projects, including investments and insurance policies. For purposes of
+53 this subparagraph, "new fossil fuel projects" means projects designed to
+54 facilitate the production of fossil fuels in excess of what is in devel-
+55 opment as of the effective date of this subdivision, including
+56 production of new coal infrastructure, power plants, or mines, and also
+
+S. 186--A 12
+1 includes projects that would support exploring new oil and gas fields or
+2 otherwise expanding oil and gas reserves, including, but not limited to,
+3 projects relating to new wells, pipelines, terminals or gas power
+4 plants.
+5 (b) In addition to aggregate data required to be reported pursuant to
+6 this subdivision, each insurer shall file with the superintendent, and
+7 make available to the public, the individual record data collected
+8 pursuant to subparagraphs (i) through (xi) of paragraph (a) of this
+9 subdivision from which the report summaries were tabulated. Such data
+10 shall be provided in an online, electronic database format as prescribed
+11 by the superintendent and the superintendent shall make such database
+12 files available directly to the public in accordance with the procedures
+13 and time requirements established in paragraph (c) of this subdivision.
+14 The superintendent shall require that all information which would
+15 personally identify any individual applicant or policyholder shall be
+16 deleted. The categories of data to be made available for each individual
+17 record shall include all of the same categories of information collected
+18 pursuant to subparagraphs (i) through (xi) of paragraph (a) of this
+19 subdivision and shall be presented in accordance with standardized clas-
+20 sification codes to be established by the superintendent.
+21 (c) Notwithstanding the provisions of any other law, by July first of
+22 each year the superintendent shall make the full text of the reports
+23 filed pursuant to this subdivision available to the public on request
+24 and shall make such reports available for inspection at the office of
+25 the superintendent. Such reports shall be made available in both printed
+26 and electronic format, including access through the department's
+27 website, at no charge to the requesting party; provided, however, that
+28 printed copies or photocopies shall be available for a reasonable fee,
+29 not to exceed five cents per page or the actual cost of duplication,
+30 whichever is less. Data presented in electronic format shall be made
+31 available in a database file format of the type in general usage by the
+32 public.
+33 14. A covered insurance company who does not file the statistical
+34 report or other information required by this section as of the date such
+35 report is required to be filed shall, upon notice and opportunity to be
+36 heard, be subject to a penalty not to exceed one thousand dollars per
+37 day for each day beyond the date such report or information was required
+38 to be filed; provided, however, that the superintendent may waive such
+39 penalty upon a written finding that the report or other information was
+40 filed by such insurer by the required date, was substantially complete,
+41 and the insurer has corrected any deficiencies within a date set by the
+42 superintendent. A covered insurance company required by this section to
+43 submit a statistical report or other information who willfully fails to
+44 file such statistical report or other information shall, in addition to
+45 any other penalties provided for by law, upon notice and opportunity to
+46 be heard, be subject to a penalty of up to five hundred dollars per day
+47 for each day beyond the date such report or information was required to
+48 be filed. Fees collected pursuant to this subdivision may be transferred
+49 to other departments or state-administered funds for the purpose of
+50 financing projects and initiatives designed to avoid, moderate, repair,
+51 or adapt to negative impacts caused by climate change, and to assist
+52 low- and moderate-income and minority communities, households, and busi-
+53 nesses in preparing for future climate change-driven disruptions. Where
+54 an insurer has failed to comply with the requirements of this section,
+55 an aggrieved individual, including any person or agency attempting to
+56 analyze the performance of any insurer subject to this section, shall
+
+S. 186--A 13
+1 have a cause of action in any court of competent jurisdiction for
+2 declaratory and injunctive relief. The court may, in its discretion,
+3 award costs and reasonable attorney fees to the successful party in any
+4 action or proceeding brought pursuant to this section.
+5 § 10. This act shall take effect immediately.

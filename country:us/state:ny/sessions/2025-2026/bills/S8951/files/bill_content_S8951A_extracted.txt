@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - S8951A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8951--A
+IN SENATE
+January 20, 2026
+___________
+Introduced by Sens. COONEY, FERNANDEZ, HINCHEY, RAMOS, ROLISON -- read
+twice and ordered printed, and when printed to be committed to the
+Committee on Investigations and Government Operations -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the cannabis law, in relation to prohibiting cannabis
+inversion and establishing penalties and whistleblower protections
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "cannabis
+2 supply chain integrity and anti-inversion act".
+3 § 2. Legislative findings and intent. The legislature finds that the
+4 integrity of New York state's regulated cannabis market depends on tran-
+5 sparency, traceability, and lawful origin of cannabis and cannabis
+6 products offered for sale to consumers in New York. The introduction of
+7 illicit cannabis into the regulated supply chain, commonly known as
+8 "cannabis inversion," threatens consumer health, undermines public
+9 confidence, deprives the state of tax revenue, and disadvantages compli-
+10 ant licensees. It is the intent of the legislature to define cannabis
+11 inversion, prohibit such conduct, provide for meaningful penalties and
+12 license consequences, and establish accountability for responsible
+13 persons and laboratories.
+14 § 3. Subdivision 1 of section 136 of the cannabis law is amended to
+15 read as follows:
+16 1. "Illicit cannabis" means and includes (a) any cannabis flower,
+17 concentrated cannabis and cannabis product on which any tax required to
+18 have been paid under any applicable state law, has not been paid. Illic-
+19 it cannabis shall not include any cannabis lawfully possessed in accord-
+20 ance with this chapter or the penal law[.];
+21 (b) sourced cannabis or cannabis products from an unlicensed or unau-
+22 thorized person or entity; or
+23 (c) misrepresented geographic origin, cultivation site, or chain of
+24 custody of cannabis, cannabis products, or cannabis-derived materials.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14524-06-6
+
+S. 8951--A 2
+1 § 4. The cannabis law is amended by adding new section 125-a to read
+2 as follows:
+3 § 125-a. Cannabis inversion. "Cannabis inversion" means any act or
+4 omission involving illicit cannabis.
+5 1. (a) No registrant, licensee, permittee, or laboratory testing
+6 facility, and no person acting on behalf of any such registrant, licen-
+7 see, permittee, or laboratory testing facility, shall engage in cannabis
+8 inversion.
+9 (b) A violation of this section shall constitute cause for discipline
+10 pursuant to section one hundred thirty-three of this article and any
+11 applicable regulations.
+12 2. (a) In addition to any other penalty, the office may impose a civil
+13 penalty of not less than three times the retail value of the inverted
+14 cannabis or cannabis products involved in the violation, or two hundred
+15 fifty thousand dollars, whichever is greater.
+16 (b) Inverted cannabis or cannabis products, and any proceeds directly
+17 derived therefrom, shall be subject to seizure, forfeiture, and
+18 destruction or other disposition as determined by the office in accord-
+19 ance with applicable law and regulation.
+20 (c) Upon reasonable grounds to believe a violation occurred, the
+21 office may order immediate suspension pending investigation. Upon a
+22 finding that cannabis inversion was committed knowingly or recklessly,
+23 revocation shall be presumed to be the appropriate sanction, subject to
+24 any procedures and standards applicable under section one hundred thir-
+25 ty-three of this article.
+26 (d) In addition to any other sanction, submission, use, or issuance of
+27 a fraudulent or materially unreliable certificate of analysis in furth-
+28 erance of cannabis inversion shall constitute cause for permanent revo-
+29 cation of a laboratory testing permit and a civil penalty of not less
+30 than three times the retail value of the inverted cannabis involved in
+31 the violation, or two hundred fifty thousand dollars, whichever is
+32 greater.
+33 (e) It shall constitute a violation of this section if any person
+34 listed in paragraph (a) of this subdivision:
+35 (i) utilizes a fraudulent, misleading, or materially unreliable
+36 certificate of analysis;
+37 (ii) falsifies or omits required inventory, testing, transfer, or
+38 tracking records;
+39 (iii) sells, transfers, or offers for sale inverted cannabis products
+40 to any registrant, licensee, or permittee; or
+41 (iv) sells, transfers, or offers for sale any products that violate
+42 the office's regulations on hemp products shall have the burden of prov-
+43 ing that they have not knowingly engaged in inversion.
+44 (f) For purposes of subdivision (e) of this section, the office shall
+45 presume that any cannabis, cannabis derivative, cannabis plant, or
+46 cannabis product where the complete chain of custody cannot be demon-
+47 strated is illicit cannabis. Where electronic inventory records are
+48 missing or inadequate to demonstrate the complete chain of custody, a
+49 licensee shall have the burden of proof and may present video or photo-
+50 graphic evidence to be considered by the office to overcome the presump-
+51 tion that such product is illicit cannabis.
+52 3. (a) For purposes of this section, "responsible person" means any
+53 principal officer, managing member, general partner, or other natural
+54 person who exercises operational control or managerial authority over
+55 the relevant licensed or permitted activity.
+
+S. 8951--A 3
+1 (b) Where the office finds that a responsible person knew or should
+2 have known of cannabis inversion and failed to take reasonable steps to
+3 prevent, stop, or report such conduct, such responsible person may be
+4 held jointly and severally liable for civil penalties imposed pursuant
+5 to subdivision two of this section, in addition to any license disci-
+6 pline imposed on the entity.
+7 § 5. Subdivision 1 of section 138-a of the cannabis law, as added by
+8 section 20 of part UU of chapter 56 of the laws of 2023, is amended to
+9 read as follows:
+10 1. order any person who is unlawfully cultivating, processing,
+11 distributing or selling cannabis, cannabis product, cannabinoid hemp or
+12 hemp extract product, or any product marketed or labeled as such in this
+13 state without obtaining the appropriate registration, license, or permit
+14 therefor, or engaging in cannabis inversion or in an indirect retail
+15 sale to cease such prohibited conduct;
+16 § 6. The cannabis law is amended by adding a new section 138-c to read
+17 as follows:
+18 § 138-c. Whistleblower protection; anti-retaliation. 1. No registrant,
+19 licensee, permittee, laboratory testing facility, or contractor thereof
+20 shall discharge, threaten, penalize, discipline, or otherwise retaliate
+21 against any employee or contractor because such employee or contractor,
+22 in good faith, reported or attempted to report suspected prohibitions
+23 and restrictions to the office, the board, or any law enforcement agen-
+24 cy.
+25 2. Retaliation in violation of this section shall constitute an inde-
+26 pendent violation subject to discipline and civil penalties pursuant to
+27 section one hundred thirty-three of this article and applicable regu-
+28 lations.
+29 § 7. Severability. If any clause, sentence, paragraph, subdivision,
+30 section or part of this act shall be adjudged by any court of competent
+31 jurisdiction to be invalid, such judgment shall not affect, impair, or
+32 invalidate the remainder thereof, but shall be confined in its operation
+33 to the clause, sentence, paragraph, subdivision, section or part thereof
+34 directly involved in the controversy in which such judgment shall have
+35 been rendered.
+36 § 8. This act shall take effect on the one hundred eightieth day after
+37 it shall have become a law. Effective immediately, the addition, amend-
+38 ment and/or repeal of any rule or regulation necessary for the implemen-
+39 tation of this act on its effective date are authorized to be made and
+40 completed on or before such effective date.

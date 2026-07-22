@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - A5885A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5885--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 24, 2025
+___________
+Introduced by M. of A. BERGER -- read once and referred to the Committee
+on Governmental Employees -- recommitted to the Committee on Govern-
+mental Employees in accordance with Assembly Rule 3, sec. 2 -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT authorizing Jonathan Grossman to apply for a recalculation of his
+retirement benefits
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Notwithstanding any provision of law to the contrary, Jona-
+2 than Grossman, who joined the New York city teachers' retirement system
+3 as a Tier I member on January 1, 1972, who retired from such system on
+4 September 28, 2010, and who for reasons not ascribable to his own negli-
+5 gence had his retirement benefits calculated without the inclusion of a
+6 lump sum payment for accumulated vacation, shall have his retirement
+7 benefits recalculated with such lump sum payments, including interest
+8 accruing from the date of retirement, if he shall file an application
+9 therefor with the state comptroller on or before one year of the effec-
+10 tive date of this act.
+11 § 2. All past service costs of implementing the provisions of this act
+12 shall be borne by the city of New York.
+13 § 3. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would allow Jonathan Grossman, a
+retired Tier 1 member of the New York City Teachers' Retirement System
+(TRS) to have his retirement benefits recalculated to include his lump
+sum payment for accumulated vacation in the calculation of his final
+average salary.
+EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($)
+Year TRS
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00846-03-6
+
+A. 5885--A 2
+2027 0
+2028 378,000
+2029 0
+2030 0
+2031 0
+2032 0
+2033 0
+2034 0
+2035 0
+2036 0
+2037 0
+2038 0
+2039 0
+2040 0
+2041 0
+2042 0
+2043 0
+2044 0
+2045 0
+2046 0
+2047 0
+2048 0
+2049 0
+2050 0
+2051 0
+The entire increase in employer contributions will be allocated to New
+York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2026 ($)
+Present Value (PV) TRS
+(1) PV of Employer Contributions: 342,000
+(2) PV of Employee Contributions: 0
+Total PV of Benefits (1) + (2): 342,000
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+For purposes of this Fiscal Note, UAL attributable to inactive members
+was recognized immediately.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+TRS
+Increase (Decrease) in UAL: 342,000
+Number of Payments: 1
+Amortization Payment: 378,000
+CENSUS DATA: The estimates presented herein are based on preliminary
+census data collected as of June 30, 2025. The census data for the
+impacted population is summarized below.
+
+A. 5885--A 3
+TRS
+Receiving Members
+- Number Count: 1
+- Average Age: 78.0
+IMPACT ON MEMBER BENEFITS: Mr. Grossman retired as a Tier 1 TRS member
+on September 28, 2010. As of June 30, 2025, Mr. Grossman receives an
+annual retirement allowance of $104,269 per year under the 50% Joint and
+Survivor with Pop-Up payment option.
+Under the proposed legislation, Mr. Grossman's retirement allowance
+would be recalculated to include in his final average salary a lump sum
+payment he received for unused vacation time, which is a benefit that is
+generally not afforded to TRS retirees. The additional cost, less any
+required member contributions paid by Mr. Grossman, to fund the
+increased retirement allowance under the proposed legislation would be
+paid by the City of New York.
+Tier 1 TRS members are generally permitted to take an actuarial
+reduction of their retirement allowance to account for deficits in
+member contributions. For purposes of this fiscal note, it is assumed
+that Mr. Grossman would not pay any owed member contributions resulting
+from the recalculation. Based on this assumption and application of
+other Tier 1 benefit calculation provisions, it is estimated that Mr.
+Grossman's annual retirement allowance would increase to $115,288. This
+annual increase would apply prospectively as well as retroactively, less
+any payments previously made, to Mr. Grossman's September 28, 2010 date
+of retirement.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-20 dated February
+24, 2026 was prepared by the Chief Actuary for the New York City Retire-
+ment Systems and Pension Funds and is intended for use only during the
+2026 Legislative Session.
