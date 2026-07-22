@@ -1,0 +1,1352 @@
+Title: 
+Official Title: 
+Source: versions - S8703A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8703--A
+IN SENATE
+January 7, 2026
+___________
+Introduced by Sen. HINCHEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Finance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public authorities law, in relation to establishing
+the New York water authority
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 5 of the public authorities law is amended by
+2 adding a new title 10-E to read as follows:
+3 TITLE 10-E
+4 NEW YORK WATER AUTHORITY
+5 Section 1240. Short title.
+6 1240-a. Legislative findings and declaration of policy.
+7 1240-b. Definitions.
+8 1240-c. New York water authority.
+9 1240-d. General powers of the authority.
+10 1240-e. New York water authority advisory board.
+11 1240-f. Water board.
+12 1240-g. Powers of the water board to operate, purchase, and
+13 maintain certain water companies.
+14 1240-h. Appropriations for purposes of the water board or
+15 authority; transfer or acquisition of property;
+16 contracts.
+17 1240-i. Transfer of officers and employees.
+18 1240-j. Subsidiaries.
+19 1240-k. Bonds of the authority.
+20 1240-l. Remedies of bondholders.
+21 1240-m. Local governments, state, and water board not liable on
+22 bonds or notes; authority liable.
+23 1240-n. Legal investments.
+24 1240-o. Moneys of the authority.
+25 1240-p. Agreement of the state.
+26 1240-q. Exemption from taxes, assessments and certain fees.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13525-02-6
+
+S. 8703--A 2
+1 1240-r. Payment in lieu of taxes.
+2 1240-s. Repayment of state appropriations.
+3 1240-t. Audit and annual reports.
+4 1240-u. Authority subject to open meetings law.
+5 1240-v. Actions against the water board and authority.
+6 1240-w. Conflicts of interest.
+7 1240-x. Severability.
+8 1240-y. Inconsistent provisions of other laws superseded.
+9 § 1240. Short title. This title shall be known and may be cited as the
+10 "New York water authority act".
+11 § 1240-a. Legislative findings and declaration of policy. It is hereby
+12 found that small water companies across New York state are struggling.
+13 Many are no longer financially capable of maintaining reliable,
+14 adequate, and safe water service to their customers at just, reasonable,
+15 and affordable rates. As a result, the state needs to step in and help
+16 take over ownership of small water companies and assist in repairing the
+17 infrastructure necessary to improve water quality, quantity, safety, and
+18 compliance with state and federal law, and service to customers.
+19 § 1240-b. Definitions. As used or referred to in this title, unless a
+20 different meaning clearly appears from the context:
+21 1. "Authority" means the corporation created by section twelve hundred
+22 forty-c of this title.
+23 2. "Board" means the water board established pursuant to section
+24 twelve hundred forty-f of this title.
+25 3. "Bonds" means the bonds, notes, or other evidences of indebtedness
+26 issued by the authority pursuant to this title, and the provisions of
+27 this title relating to bonds and bondholders shall apply with equal
+28 force and effect to notes and noteholders, respectively, unless the
+29 context otherwise clearly requires.
+30 4. "Comptroller" means the comptroller of the state of New York.
+31 5. "Construction" or "constructed" means the acquisition, erection,
+32 building, alteration, improvement, increase, enlargement, extension,
+33 reconstruction, renovation or rehabilitation of: the water facilities
+34 and their associated transmission and distribution systems; the wastewa-
+35 ter facilities and their associated interceptor and collection systems,
+36 including treatment facilities and pumping stations; or storm water
+37 facilities including catch basins, sewers, drainage pipes, treatment
+38 facilities and all appurtenances to such water, wastewater, and storm
+39 water facilities; the inspection and supervision thereof; and the envi-
+40 ronmental, engineering, architectural, legal, fiscal, and economic
+41 investigations, services and studies, surveys, designs, plans, working
+42 drawings, specifications, procedures and other actions preliminary or
+43 incidental thereto and claims arising therefrom.
+44 6. "Cost" as applied to any project, includes the cost of
+45 construction, the cost of the acquisition of all property, including
+46 real property and other property, both real, personal and mixed,
+47 improved and unimproved, the cost of demolishing, removing or relocating
+48 any buildings or structures on lands so acquired, including the cost of
+49 acquiring any lands to which such buildings or structures may be moved
+50 or relocated, the cost of all system facilities, machinery, apparatus
+51 and equipment, financing charges, interest prior to, during and after
+52 construction to the extent not paid or provided for from revenues or
+53 other sources, the cost of any environmental, engineering and architec-
+54 tural investigations, surveys, plans and specifications, the cost of
+55 consultant and legal services, the cost of any guarantee or bond insur-
+56 ance or any other credit support devices and the cost of other expenses
+
+S. 8703--A 3
+1 necessary, reasonably related or incidental to the construction of any
+2 such project and the financing of the construction thereof, including
+3 the amount authorized in the resolution of the authority providing for
+4 the issuance of bonds to be paid into any reserve or other special fund
+5 from the proceeds of such bonds, and the financing of the placing of any
+6 project in operation, including the reimbursement to a county, city or
+7 other municipality, state agency, the state, the United States govern-
+8 ment, or any other person for expenditures that would be costs of any
+9 project hereunder had they been made directly by the authority or the
+10 water board.
+11 7. "Executive director" means the executive director or chief execu-
+12 tive officer of the water board, or any other person duly appointed or
+13 delegated to perform such duties by the governing body of the water
+14 board.
+15 8. "Facilities" means any of the properties of the authority or the
+16 water board or any other real property, personal or mixed property
+17 controlled, leased, or operated by the authority or the water board
+18 which is used or intended to be used in the system or in furtherance of
+19 their respective corporate purposes.
+20 9. "Governing body" means the members of the authority or the water
+21 board, as the case may be, constituting and acting as the governing body
+22 of the authority or the water board, as the case may be.
+23 10. "Person" means any natural person, firm, trustee, executor,
+24 personal representative, partnership, association, limited partnership,
+25 limited liability company, limited liability partnership, joint venture
+26 or corporation, or other legal entity whatsoever, exclusive of a public
+27 corporation as defined pursuant to article two-A of the general
+28 construction law.
+29 11. "Project" means any system-related facility or properties, includ-
+30 ing the acquisition, planning, development, financing or construction
+31 thereof.
+32 12. "Properties" means any part of the system or facility of the water
+33 board, whether situated within or without the territorial limits of a
+34 county, city, or other municipality within the water board's service
+35 area, including the plants, works, structures, instrumentalities or part
+36 thereof and appurtenances thereto, real property, or any other property
+37 incidental or appurtenant to and included in such facility or facilities
+38 or part thereof, and any improvements, extensions and betterments.
+39 13. "Real property" means lands, structures, franchises, rights and
+40 interests in land, air space, waters, land underwater, riparian rights
+41 and air rights and any and all things and rights included within said
+42 term and includes not only fee simple absolute, but also any and all
+43 lesser interests including, but not limited to, easements, rights-of-
+44 way, uses, leases, licenses and all other incorporeal hereditaments and
+45 every estate, interest or right, legal or equitable, including terms for
+46 years and liens thereon by way of judgments, mortgages or otherwise.
+47 14. "Revenues" means all rates, fees, charges, payments and other
+48 income and receipts derived from the operation of the system and the
+49 facilities and properties of the water board including, without limiting
+50 the generality of the foregoing, investment proceeds and proceeds of
+51 insurance, condemnation, and sale or other disposition of assets,
+52 together with all federal, state or municipal aid.
+53 15. "Service area" means the area comprising the entirety of the
+54 upstate New York region on the date on which this title becomes effec-
+55 tive.
+56 16. "State" means the state of New York.
+
+S. 8703--A 4
+1 17. "State agency" means any state office, public benefit corporation,
+2 public authority, department, board, commission, bureau or division, or
+3 other agency or instrumentality of the state.
+4 18. "Storm water facility" means any plants, structures and other
+5 property, real, personal or mixed, acquired, rehabilitated, constructed
+6 or planned for the purpose of collecting, conveying, accumulating, stor-
+7 ing, transmitting, draining, discharging or treating storm water,
+8 including, but not limited to, odor control facilities, force mains,
+9 conduits, pipelines, interceptors, mains, pumping stations, flow meters,
+10 sampling stations, pumps, treatment plants and works, outfalls, contract
+11 rights, easements, franchises, approaches, connections, permits, meters,
+12 rights of flowage or diversion and other plants, structures, equipment,
+13 vehicles, conveyances, real or personal property or rights therein and
+14 appurtenances thereto necessary or useful and convenient for the
+15 collection, conveyance, accumulation, storage, drainage, discharge,
+16 transmission, or treatment of storm water.
+17 19. "System" means the entirety of all water, wastewater, and storm
+18 water facilities or properties as described herein.
+19 20. "Upstate New York region" means all that area of the state exclud-
+20 ing the city of New York, Long Island, and the counties of Westchester
+21 and Rockland.
+22 21. "User" means any person or effluent source that directly or indi-
+23 rectly contributes, causes or permits the contribution of waste into or
+24 through the wastewater or storm water facilities, or any person who
+25 receives or uses water from the water facilities described in this
+26 title.
+27 22. "Waste" means any liquid, solid or gaseous substance, or combina-
+28 tion thereof, that may be introduced into the wastewater or storm water
+29 facilities.
+30 23. "Wastewater facility" means any plants, structures and other prop-
+31 erty, real, personal or mixed, acquired, rehabilitated, constructed or
+32 planned for the purpose of collecting, conveying, accumulating, storing,
+33 transmitting, or treating wastewater, including, but not limited to,
+34 odor control facilities, force mains, conduits, pipelines, interceptors,
+35 mains, pumping stations, flow meters, sampling stations, pumps, piping
+36 systems, treatment plants and works, outfalls, contract rights, ease-
+37 ments, franchises, approaches, connections, permits, meters, rights of
+38 flowage or diversion and other plants, structures, equipment, vehicles,
+39 conveyances, real or personal property or rights therein and appurte-
+40 nances thereto necessary or useful and convenient for the collection,
+41 conveyance, accumulation, storage, transport, treatment, disposal or
+42 reuse of wastewater.
+43 24. "Water board" or "the board" means the corporation created by
+44 special act of the state legislature as provided in section twelve
+45 hundred forty-d of this title, and any subsidiaries thereof.
+46 25. "Water facility" or "water facilities" means any plants, struc-
+47 tures and other property, real, personal or mixed, acquired, rehabili-
+48 tated, constructed or planned for the purpose of accumulating, storing,
+49 supplying, transmitting, treating or distributing water, including, but
+50 not limited to, surface or groundwater reservoirs, basins, dams, canals,
+51 aqueducts, aqueduct taps, standpipes, conduits, pipelines, interceptors,
+52 mains, pumping stations, pumps, water distribution systems, compensating
+53 reservoirs, intake stations, waterworks or sources of water supply,
+54 wells, purification or filtration plants or other treatment plants and
+55 works, contract rights, franchises, approaches, connections, permits,
+56 water meters, rights of flowage or diversion and other plants, struc-
+
+S. 8703--A 5
+1 tures, equipment, vehicles, conveyances, real or personal property or
+2 rights therein and appurtenances thereto necessary or useful and conven-
+3 ient for the accumulation, supply, transmission, storage, treatment or
+4 distribution of water.
+5 § 1240-c. New York water authority. 1. A public corporation to be
+6 known as the "New York water authority" is hereby created for the public
+7 purposes and charged with the duties and having the powers provided in
+8 this title. The authority shall be a body corporate and politic consti-
+9 tuting a public benefit corporation.
+10 2. The governing body of the authority shall consist of a total of
+11 three members, one of which is to be appointed by the governor, one to
+12 be appointed by the temporary president of the senate at the recommenda-
+13 tion of the senators representing portions of the upstate New York
+14 region, and one to be appointed by the speaker of the assembly at the
+15 recommendation of the assembly members representing portions of the
+16 upstate New York region. At all times, all three members shall be resi-
+17 dents of the upstate New York region. The member to be appointed by the
+18 governor shall be appointed for a term of office ending on December
+19 thirty-first of the third year following the year in which this title
+20 shall have become a law, the member to be appointed by the temporary
+21 president of the senate shall be appointed for a term ending on the
+22 thirty-first day of December of the fourth year following the year in
+23 which this title shall have become a law, and the member to be appointed
+24 by the speaker of the assembly shall be appointed for a term ending on
+25 the thirty-first day of December of the fifth year following the year in
+26 which this title shall have become a law. Subsequent appointments of
+27 members shall be made for a term of three years ending in each case on
+28 December thirty-first of the last year of such term. All members shall
+29 continue to hold office until their successors are appointed and quali-
+30 fy. All members shall hold, at a minimum, a bachelor's degree from an
+31 accredited college or university, with concentration or degree in one of
+32 the following areas of study and at least five years of professional
+33 experience therein, or without such degree, such member shall have at
+34 least ten years of professional experience in one of the following
+35 fields: legal, environmental, financial, management, engineering, human
+36 resources, or science. Vacancies shall be filled in the manner provided
+37 for original appointment. Vacancies, occurring other than by expiration
+38 of term of office, shall be filled by appointment for the unexpired
+39 terms. Members may be removed from office only for the same reasons and
+40 in the same manner as provided by section twenty-eight hundred twenty-
+41 seven of this chapter. Each member shall attend, in each fiscal year, at
+42 least seventy-five percent of all meetings of the governing body. Any
+43 member who ceases to be a resident of the upstate New York region shall
+44 forfeit their membership on the governing body upon such member's termi-
+45 nation of residence in the upstate New York region, which forfeiture
+46 shall create a vacancy. The members of the authority shall receive no
+47 compensation for their services but shall be reimbursed for their actu-
+48 al, necessary expenses incurred in connection with the carrying out of
+49 the purposes of this title; provided, however, that no member shall be
+50 reimbursed for any expense of attending ordinary authority meetings or
+51 any other expense exceeding one thousand dollars incurred with respect
+52 to any individual purpose, unless the governing body at a meeting duly
+53 called and held when all three members are present shall have authorized
+54 such expenditure by such member. The powers of the authority shall be
+55 vested in and be exercised by the governing body at a meeting duly
+56 called and held where a quorum of at least two members are present. Any
+
+S. 8703--A 6
+1 one or more members of the authority may participate in a meeting of
+2 such authority by means of a conference telephone, video teleconferenc-
+3 ing, or similar communications equipment allowing all persons partic-
+4 ipating in the meeting to hear or see and hear each other at the same
+5 time. Participation by such means shall constitute presence in person at
+6 a meeting. The vote of a majority of the members present at the time of
+7 the vote, if a quorum is present at such time, shall be the act of the
+8 authority. No action shall be taken except pursuant to the favorable
+9 vote of at least two voting members. All votes shall be made in person
+10 at a meeting and no vote may be made by proxy. The governing body may
+11 delegate to one or more of its members, officers, or agents such powers
+12 and duties as it may deem proper.
+13 3. The officers of the authority shall consist of a chair, a vice-
+14 chair, a treasurer, and a secretary. Such secretary or treasurer need
+15 not be a member of the authority. Such officers shall be appointed by
+16 the governing body and shall serve in such capacities at the pleasure of
+17 the governing body. In addition to the treasurer or secretary, the
+18 governing body may appoint and at pleasure remove such additional offi-
+19 cers as it may determine necessary for the performance of the powers and
+20 duties of the authority. The governing body may also from time to time
+21 contract for expert professional services. The treasurer shall execute a
+22 bond, conditioned upon the faithful performance of the duties of their
+23 office. The amount and sufficiency of such bond shall be approved by the
+24 governing body and the premium therefor shall be paid by the authority.
+25 4. Notwithstanding any inconsistent provision of any general, special
+26 or local law, ordinance, resolution or charter, no officer, member or
+27 employee of the state, any county, city or other municipality, or any
+28 state agency, shall forfeit their office or employment or any benefits
+29 provided under the retirement and social security law by reason of their
+30 acceptance of appointment as a member, officer or agent of the authori-
+31 ty, nor shall service as such member, officer or agent be deemed incom-
+32 patible or in conflict with such office, membership or employment.
+33 5. (a) The governor or the governor's appointee shall file on or
+34 before December thirty-first of the year following the year in which
+35 this title shall have become a law, in the office of the secretary of
+36 state, a certificate signed by the governor setting forth: (i) the name
+37 of the authority; (ii) the names of the members appointed by the gover-
+38 nor; and (iii) the effective date of the special act of the state legis-
+39 lature creating the authority. If such certificate is not filed with the
+40 secretary of state on or before such date, then the corporate existence
+41 of the authority shall thereupon terminate and it shall thereupon be
+42 deemed to be and shall be dissolved.
+43 (b) The authority and its corporate existence shall continue until
+44 terminated by law, provided, however, that no such law shall take effect
+45 so long as the authority shall have bonds or other obligations outstand-
+46 ing, unless adequate provision has been made for the payment or satis-
+47 faction thereof, or so long as the water board shall have contractual
+48 duties or obligations outstanding unless adequate provision has been
+49 made for the satisfaction thereof. Upon termination of the existence of
+50 the authority, all of the rights, obligations and properties of the
+51 authority then remaining shall pass to and vest to the state, with the
+52 state's consent, and, if the authority acquired such property from a
+53 county, city or other municipality, with such county, city or munici-
+54 pality's consent, unless otherwise provided in an agreement between such
+55 county, city or municipality and the authority, and except as otherwise
+56 may be specified by law.
+
+S. 8703--A 7
+1 6. It is hereby determined and declared that the authority and the
+2 carrying out of its powers and duties are in all respects for the bene-
+3 fit of the people of the upstate New York region and the state for the
+4 improvement of their health, welfare and prosperity and that such
+5 purposes are public purposes and that the authority is and shall be
+6 performing an essential governmental function in the exercise of the
+7 powers conferred upon it by this title.
+8 7. Nothing in this title shall be construed to obligate the state in
+9 any way in connection with the operations or obligations of the authori-
+10 ty.
+11 § 1240-d. General powers of the authority. The authority shall have
+12 the power:
+13 1. To sue and be sued.
+14 2. To have a seal and alter the same at pleasure.
+15 3. To borrow money and issue bonds or other obligations for its corpo-
+16 rate purposes and to provide for the rights of the holders thereof.
+17 4. To enter into contracts and to execute all instruments necessary or
+18 convenient or desirable for the purposes of the authority to carry out
+19 any powers expressly given to it in this title.
+20 5. To enter into agreements with the water board, any county, city or
+21 other municipality in the state, the state, and any other person for the
+22 financing by the authority of projects as provided in this title.
+23 6. To acquire by purchase, gift, grant, transfer, contract or lease or
+24 by condemnation pursuant to the eminent domain procedure law, lease as
+25 lessee, hold, and use any property, real, personal or mixed or any
+26 interest therein, as the authority may deem necessary, convenient or
+27 desirable to carry out the purpose of this title, provided, however, the
+28 authority shall not have the power to condemn property of the water
+29 board, a county, city or other municipality, or the state.
+30 7. To apply to the appropriate agencies and officials of the federal,
+31 state and local governments, or any county, city or other municipality,
+32 for such licenses, permits or approvals of its plans or projects as it
+33 may deem necessary or advisable, and upon such terms and conditions as
+34 it may deem appropriate, and to accept, in its discretion, such
+35 licenses, permits or approvals as may be tendered to it by such agencies
+36 and officials.
+37 8. To appoint such officers and agents as may be required for the
+38 performance of its duties, to fix and determine their qualifications,
+39 duties and compensation, subject to the provisions of the civil service
+40 law, and to retain or employ counsel, auditors, engineers, private
+41 consultants and other independent contractors on a contractual or other-
+42 wise for rendering management, professional or technical services and
+43 advice.
+44 9. To make plans and studies necessary, convenient or desirable for
+45 the effectuation of the purposes and powers of the authority and to
+46 prepare recommendations in regard thereto.
+47 10. To make use of existing studies, surveys, plans, data and other
+48 material in the possession of any state agency, any county, city or
+49 other municipality, any person, or the water board in order to avoid
+50 duplication of effort.
+51 11. To enter upon such lands, waters or premises as in the judgment of
+52 the authority shall be necessary for the purpose of making surveys,
+53 soundings, borings and examinations to accomplish any purpose authorized
+54 by this title, the authority being liable only for actual damage done.
+55 12. To apply for and to accept any gifts, grants, loans of funds or
+56 property, or financial or other aid, in any form, from the federal
+
+S. 8703--A 8
+1 government or any agency or instrumentality thereof, or from the state
+2 or any agency or instrumentality thereof or from any other source, for
+3 any or all of the purposes specified in this title, and to comply,
+4 subject to the provisions of this title, with the terms and conditions
+5 thereof.
+6 13. To make and amend by-laws for its organization and management and
+7 regulation of its affairs and rules and regulations governing the exer-
+8 cise of its powers and the fulfillment of its purposes under this title.
+9 A copy of such rules, regulations and by-laws, and all amendments there-
+10 to, duly certified by the secretary of the authority shall be filed with
+11 the secretary of the water board.
+12 14. To enter into cooperative agreements with the state, any state
+13 agency, any county, city or other municipality, utility companies, indi-
+14 viduals, or corporations, within or without the service area, for any
+15 lawful purposes necessary or desirable to effect the purposes of this
+16 title upon such terms and conditions as shall be determined to be
+17 reasonable.
+18 15. With the consent of the chief executive officer of a county, city
+19 or other municipality within the service area, to use officers and
+20 employees of such county, city or municipality and to pay a proper
+21 portion of compensation or costs for the services rendered to the
+22 authority by such officers or employees.
+23 16. To do all things necessary, convenient or desirable to carry out
+24 its purposes and for the exercise of the powers granted in this title
+25 provided that the authority shall not have power, within a county, city
+26 or other municipality in the service area, to collect rentals, charges,
+27 rates or fees from the owners of real property, or the occupants of real
+28 property (other than the occupants of premises owned or controlled by
+29 the authority), for services or facilities furnished or supplied in
+30 connection with such real property, if such services or facilities are
+31 of a character or nature then or formerly furnished or supplied by such
+32 county, city or municipality.
+33 § 1240-e. New York water authority advisory board. 1. There is here-
+34 by created a New York water authority advisory board, consisting of a
+35 representative from the New York state association of counties, a repre-
+36 sentative from the New York conference of mayors, a representative from
+37 the New York state association of towns, at least one member who is a
+38 representative of a labor union, at least one member who is a civil
+39 engineer, at least one member who is a soil and water conservation
+40 professional, and at least one member who is an environmental or clean
+41 water advocate. One member shall be appointed for a term ending on
+42 December thirty-first of the first year following the year in which this
+43 title shall have become a law; three members shall be appointed for a
+44 term ending on December thirty-first of the second year following the
+45 year in which this title shall have become a law; and three members
+46 shall be appointed for a term ending on December thirty-first of the
+47 third year following the year in which this title shall have become a
+48 law. Subsequent appointments of members shall be made for a term of
+49 three years ending in each case on December thirty-first of the last
+50 year of such term. No member shall be a member of the governing body
+51 of the authority. The member whose initial term ends December thirty-
+52 first of the first year following the year in which this title shall
+53 have become a law shall be the initial chairperson of the board and the
+54 members shall designate a chairperson from amongst the members upon the
+55 expiration of such initial term.
+
+S. 8703--A 9
+1 2. The New York water authority advisory board shall meet at least
+2 twice every calendar year.
+3 3. No later than one year after the effective date of this title, and
+4 annually thereafter, the New York water authority advisory board shall
+5 submit a report on its recommendations to the water board established
+6 pursuant to section twelve hundred forty-f of this title.
+7 4. Members of the New York water authority advisory board shall serve
+8 without compensation, but shall be reimbursed for expenses reasonably
+9 incurred in the performance of their duties.
+10 § 1240-f. Water board. 1. A water board, to be known as the "New York
+11 water board", may be created by a special act of the state legislature
+12 as a body corporate and politic, constituting a corporate municipal
+13 instrumentality of the state and having the powers and duties as
+14 provided in this title.
+15 2. The governing body of the water board shall consist of a total of
+16 five members, to be appointed and to serve as follows: one member shall
+17 be appointed by the governor, two members shall be appointed by the
+18 temporary president of the senate at the recommendation of the senators
+19 representing portions of the upstate New York region, and two members
+20 shall be appointed by the speaker of the assembly at the recommendation
+21 of the assembly members representing portions of the upstate New York
+22 region. The members shall be residents of the upstate New York region.
+23 When a vacancy occurs, the appointment to fill such vacancy shall be an
+24 upstate New York region resident. Each member shall attend, in each
+25 fiscal year, at least seventy-five percent of all meetings of the
+26 governing body. Failure by any party to appoint any member shall not
+27 invalidate the creation or establishment of the water board and shall
+28 result in the creation of a vacancy on the governing body of the water
+29 board which may be filled at any time by such party. The member
+30 appointed by the governor shall be appointed for a term ending on Decem-
+31 ber thirty-first of the first year following the year in which this
+32 title shall have become a law; one of the members appointed by the
+33 temporary president of the senate shall be appointed for a term ending
+34 on December thirty-first of the second year following the year in which
+35 this title shall have become a law; one of the members appointed by the
+36 speaker of the assembly shall be appointed for a term ending on December
+37 thirty-first of the third year following the year in which this title
+38 shall have become a law; the remaining member appointed by the temporary
+39 president of the senate shall be appointed for a term ending on December
+40 thirty-first of the fourth year following the year in which this title
+41 shall have become a law; and the remaining member appointed by the
+42 speaker of the assembly shall be appointed for a term ending on December
+43 thirty-first of the fifth year following the year in which this title
+44 shall have become a law. Subsequent appointments of members shall be
+45 made for a term of three years ending in each case on December thirty-
+46 first of the last year of such term. No member shall be a member of the
+47 governing body of the authority. All members shall continue to hold
+48 office until their successors are appointed and qualify. All members
+49 shall hold, at a minimum, a bachelor's degree from an accredited college
+50 or university, with a concentration or degree in one of the following
+51 areas of study and at least five years of professional experience there-
+52 in, or without such degree, such member shall have at least ten years of
+53 professional experience in one of the following fields: legal, environ-
+54 mental, financial, management, engineering, human resources, or science.
+55 Vacancies shall be filled in the manner provided for original appoint-
+56 ment. Vacancies, occurring otherwise than by expiration of term of
+
+S. 8703--A 10
+1 office, shall be filled by appointment for the unexpired terms. Members
+2 may be removed from office only for the same reasons and in the same
+3 manner as provided by section twenty-eight hundred twenty-seven of this
+4 chapter. Any member shall forfeit their membership on the governing body
+5 upon such member's termination of residence in the upstate New York
+6 region, which forfeiture shall create a vacancy. The members of the
+7 water board shall receive no compensation for their services but shall
+8 be reimbursed for their actual and necessary expenses incurred in
+9 connection with the carrying out of the purposes of this title;
+10 provided, however, that no member shall be reimbursed for any expense of
+11 attending ordinary board meetings or any other expense exceeding one
+12 thousand dollars incurred with respect to any individual purpose, unless
+13 the governing body at a meeting duly called and held when three members
+14 are present shall have authorized such expenditure by such member. The
+15 powers of the water board shall be vested in and be exercised by the
+16 governing body at a meeting duly called and held where a quorum of three
+17 members are present. Any one or more members of the water board may
+18 participate in a meeting of such water board by means of a conference
+19 telephone, video teleconference, or similar communications equipment
+20 allowing all persons participating in the meeting to hear or see and
+21 hear each other at the same time. Participation by such means shall
+22 constitute presence in person at a meeting. No action shall be taken
+23 except pursuant to the favorable vote of at least three voting members.
+24 All votes must be made in person at a meeting and no vote may be made by
+25 proxy. The governing body may delegate to one or more of its members,
+26 officers, agents or employees such powers and duties as it may deem
+27 proper.
+28 3. The officers of the water board shall consist of a chairperson, a
+29 vice-chairperson and a treasurer, who shall be members of the water
+30 board, and a secretary, who need not be a member of the water board.
+31 Such officers shall be appointed by the governing body and shall serve
+32 in such capacities at the pleasure of the governing body. In addition to
+33 the secretary, the governing body may appoint and at pleasure remove
+34 such additional officers and employees as it may determine necessary or
+35 appropriate for the performance of the powers and duties of the water
+36 board, and fix and determine their qualifications, duties and compen-
+37 sation, subject to the provisions of the civil service law. The govern-
+38 ing body may also from time to time contract for expert professional
+39 services. The treasurer shall execute a bond, conditioned upon the
+40 faithful performance of the duties of their office. The amount and
+41 sufficiency of such bond shall be approved by the governing body and the
+42 premium therefor shall be paid by the water board.
+43 4. Notwithstanding any inconsistent provision of any general, special
+44 or local law, ordinance, resolution or charter, no officer, member or
+45 employee of the state, a county, city or other municipality in the
+46 state, or any state agency, shall be deemed to have forfeited or shall
+47 forfeit their office or employment or any benefits provided under the
+48 retirement and social security law by reason of their acceptance of
+49 appointment as a member, officer, agent or employee of the water board,
+50 nor shall service as such member, officer, agent or employee be deemed
+51 incompatible or in conflict with such office, membership or employment.
+52 5. (a) The governor or the governor's designee shall file on or before
+53 December thirty-first of the year following the year in which the
+54 special act of the state legislature creating the water board shall have
+55 become a law, in the office of the secretary of state, a certificate
+56 signed by the governor setting forth: (i) the name of the water board;
+
+S. 8703--A 11
+1 (ii) the names of the members appointed by the governor, the temporary
+2 president of the senate, and the speaker of the assembly; and (iii) the
+3 effective date of the special act of the state legislature creating the
+4 water board. If such certificate is not filed with the secretary of
+5 state on or before such date, then the corporate existence of the water
+6 board shall thereupon terminate and it shall thereupon be deemed to be
+7 and shall be dissolved.
+8 (b) The water board and its corporate existence shall continue until
+9 terminated by law, provided, however, that no such law shall take effect
+10 so long as the water board shall have contractual duties or obligations
+11 outstanding unless adequate provision has been made for the satisfaction
+12 thereof. Upon termination of the existence of the water board, all of
+13 the rights, obligations and properties of the water board then remaining
+14 shall pass to and vest to the state, with the consent of the state, and
+15 if the water board acquired such property from a county, city or other
+16 municipality, with the consent of such county, city or municipality,
+17 unless otherwise provided in an agreement with such county, city or
+18 municipality and the water board, and except as otherwise may be speci-
+19 fied by law.
+20 6. It is hereby determined and declared that the water board and the
+21 carrying out of its powers and duties are in all respects for the bene-
+22 fit of the people of the upstate New York region and the state for the
+23 improvement of their health, welfare and prosperity and that such
+24 purposes are public purposes and that the water board is and shall be
+25 performing an essential governmental function in the exercise of the
+26 powers conferred upon it by this title.
+27 7. The water board shall establish and maintain its principal office
+28 at which it conducts its business in the city of Albany. Notwithstanding
+29 any general, special or local law or any charter provision, the city of
+30 Albany may, and is hereby authorized to lease to the water board such
+31 office space as the water board determines to be necessary and appropri-
+32 ate for the needs of the water board, which lease shall be for such
+33 consideration and shall contain such terms and conditions as the water
+34 board and the city of Albany shall determine reasonable and appropriate.
+35 8. The purpose of the act of the legislature establishing the water
+36 board shall be, among other things, to provide for the jurisdiction,
+37 control, possession, supervision and use of the system; authorization to
+38 make rules and regulations in furtherance of this title; the enforcement
+39 of this title, the rules, regulations, permits and orders of the water
+40 board in connection with the direct or indirect use of the system facil-
+41 ities by persons within the upstate New York region and any other
+42 persons for whom the water board provides services including, but not
+43 limited to, accepting, treating and disposing of wastewater, industrial
+44 waste, and other waste, from whatever source derived; and to enable the
+45 water board to comply with all applicable laws of the United States and
+46 the state, and the rules, regulations, permits and orders of their regu-
+47 latory agencies.
+48 § 1240-g. Powers of the water board to operate, purchase, and maintain
+49 certain water companies. 1. Except as otherwise limited by this title,
+50 the water board shall have the power:
+51 (a) To sue and be sued;
+52 (b) To have a seal and alter the same at pleasure;
+53 (c) To borrow money and issue negotiable or non-negotiable notes,
+54 bonds, or other obligations and to provide for the rights of the holders
+55 thereof;
+
+S. 8703--A 12
+1 (d) To enter into contracts and to execute all instruments necessary
+2 or convenient or desirable for the purposes of the authority to carry
+3 out any powers expressly given it in this title;
+4 (e) To create or acquire one or more wholly owned subsidiaries in
+5 accordance with section twelve hundred forty-j of this title to carry
+6 out all or any part of the purposes of this title;
+7 (f) To acquire, by purchase, gift, grant, transfer, contract or lease
+8 or by condemnation pursuant to the eminent domain procedure law, lease
+9 as lessee, hold, and use any real or personal property or any interest
+10 therein, as the board may deem necessary, convenient or desirable to
+11 carry out the purpose of this title; provided, however, that the board
+12 shall not acquire, condemn or otherwise receive real property of a coun-
+13 ty, city or other municipality without the consent of the governing body
+14 of such county, city or municipality;
+15 (g) To construct, improve or rehabilitate water supply or sewerage
+16 facilities required for the maintenance, development or expansion of
+17 water supply sources or sewerage facilities in the service area;
+18 (h) To construct, improve or rehabilitate distribution, transmission,
+19 and sewerage facilities in the service area;
+20 (i) To operate and manage and to contract for the operation and
+21 management of facilities constructed by the board;
+22 (j) To enter into contracts, and carry out the terms thereof, for the
+23 wholesale provision of water produced by supply facilities constructed
+24 and operated by the board, to counties, cities, other municipalities,
+25 and private water companies in the service area and to carry out the
+26 terms thereof, for the transmission of water from new or existing supply
+27 facilities;
+28 (k) To enter into contracts, with counties, cities and other munici-
+29 palities for the collection, treatment and disposal of sewage in the
+30 service area;
+31 (l) To apply to the appropriate agencies and officials of the federal,
+32 state and local governments for such licenses, permits or approvals of
+33 its plans or projects as it may deem necessary or advisable, and upon
+34 such terms and conditions as it may deem appropriate, to accept, in its
+35 discretion, such licenses, permits or approvals as may be tendered to it
+36 by such agencies and officials;
+37 (m) To appoint such officers and employees as are required for the
+38 performance of its duties, and to fix and determine their qualifica-
+39 tions, duties and compensation, and to retain or employ counsel, audi-
+40 tors, engineers and private consultants on a contract basis or otherwise
+41 for rendering professional or technical services and advice;
+42 (n) To make plans and studies necessary, convenient or desirable for
+43 the effectuation of the purposes and powers of the board and to prepare
+44 recommendations in regard thereto;
+45 (o) To enter upon such lands, waters, or premises as in the judgment
+46 of the board shall be necessary for the purpose of making surveys,
+47 soundings, borings and examinations to accomplish any purpose authorized
+48 by this title, the board being liable only for actual damage done;
+49 (p) To apply for and to accept any gifts or grants or loans of funds
+50 or property or financial or other aid in any form from the federal
+51 government or any agency or instrumentality thereof, or from the state
+52 or any agency or instrumentality thereof or from any other source, for
+53 any or all of the purposes specified in this title, and to comply,
+54 subject to the provisions of this title, with the terms and conditions
+55 thereof;
+
+S. 8703--A 13
+1 (q) To supply and sell water for domestic, commercial and public
+2 purposes at retail to individual consumers within the service area and
+3 to collect, treat and discharge sewage produced for such purposes by
+4 such generators;
+5 (r) To purchase water in bulk from any person, private corporation,
+6 county, city or other municipality when necessary or convenient for the
+7 operation of such water system;
+8 (s) To produce, develop, distribute and sell water or water services
+9 within or without the territorial limits of the service area; and to
+10 purchase water from any county, city or other municipality, town water
+11 district, person, association or corporation; provided, however, that
+12 water may be sold at retail to individual consumers only within the
+13 service area and further provided that in exercising the powers granted
+14 by this title, the board shall not sell water in any area which is
+15 served by a water system owned or operated by a county, city or other
+16 municipality or special improvement district unless the governing body
+17 of such county, city or other municipality or district shall adopt a
+18 resolution requesting the board to sell water in such served areas;
+19 (t) To make bylaws for the management and regulation of its affairs
+20 and subject to agreements with bondholders, rules for the sale of water
+21 or collection of sewage and the collection of rents and charges there-
+22 for. A copy of such rules and bylaws, and all amendments thereto, duly
+23 certified by the secretary of the board shall be filed in the secretary
+24 of the state;
+25 (u) To fix rates and collect charges for the use of the facilities of,
+26 or services rendered by, or any commodities furnished by the board such
+27 as to provide revenues sufficient at all times to pay, as the same shall
+28 become due, the principal and interest on the bonds, notes or other
+29 obligations of the board together with the maintenance of proper
+30 reserves therefor, in addition to paying as the same shall become due,
+31 the expense of operating and maintaining the properties of the board
+32 together with proper reserves for maintenance, contingencies and all
+33 other obligations and indebtedness of the board;
+34 (v) To enter into cooperative agreements with other authorities, coun-
+35 ties, cities and other municipalities, water districts, utility compa-
+36 nies, individuals, firms or corporations, within or without the territo-
+37 rial limits of the service area for the interconnection of facilities,
+38 the exchange or interchange of services and commodities, and within the
+39 territorial limits of the service area to enter into a contract for the
+40 construction and operation and maintenance of a water supply and
+41 distribution or sewerage system by the board for any county, city or
+42 other municipality having power to construct and develop a water supply
+43 and distribution or sewerage system, upon such terms and conditions as
+44 shall be determined to be reasonable including, but not limited to the
+45 reimbursement of all costs of such construction, or for any other lawful
+46 purposes necessary or desirable to effect the purposes of this title;
+47 (w) To provide for the discontinuance or disconnection of the supply
+48 of water or the provision of sewerage service, or both, as the case may
+49 be, for non payment of fees, rates, rents or other charges therefor
+50 imposed by the board, provided such discontinuance or disconnection of
+51 any supply of water or the provision of sewerage service, or both, as
+52 the case may be, shall not be carried out except in the manner and upon
+53 the notice as is required of a waterworks corporation pursuant to subdi-
+54 visions three-a, three-b and three-c of section eighty-nine-b and
+55 section one hundred sixteen of the public service law; and
+
+S. 8703--A 14
+1 (x) To do all things necessary, convenient or desirable to carry out
+2 its purposes and for the exercise of the powers granted in this title.
+3 2. Where the board has entered into an agreement with a county, city
+4 or other municipality within the service area to produce, develop,
+5 distribute, sell or otherwise manage water and/or wastewater services
+6 pursuant to this title, the board shall consult with such county, city
+7 or other municipality's county executive, mayor, chief officer or other
+8 municipal head of government, or such individual's designee, in estab-
+9 lishing the terms of such water and/or wastewater services for such
+10 county, city or other municipality. The board shall not be authorized to
+11 approve any measure regarding such water and/or wastewater services for
+12 to such county, city or other municipality without the approval of such
+13 county executive, mayor, chief officer, or other municipal head of
+14 government.
+15 § 1240-h. Appropriations for purposes of the water board or authority;
+16 transfer or acquisition of property; contracts. 1. In addition to any
+17 powers granted to it by law, a county, city, or other municipality in
+18 the service area may, from time to time, appropriate by resolution sums
+19 of money for purposes of either the water board or the authority to
+20 defray project costs or any other costs and expenses of either the water
+21 board or the authority or to pay amounts payable or anticipated to be
+22 payable to either the water board or the authority pursuant to any
+23 agreement authorized by this title. Subject to the rights of bondhold-
+24 ers, a county, city, or other municipality may determine if the moneys
+25 so appropriated shall be subject to repayment by either the water board
+26 or the authority and, in such event, the manner and time or times for
+27 such repayment.
+28 2. A county, city, other municipality, or state agency may give,
+29 grant, sell, convey, loan or license the use of or lease to either the
+30 water board or the authority any properties which are useful to either
+31 the water board or the authority in order to carry out their powers
+32 under this title. Any such transfer of property shall be for such term
+33 and upon such terms and conditions, subject to the rights of the holders
+34 of any bonds, as the water board, the authority, such state agency and
+35 such county, city, or municipality may agree, including provision for
+36 the authority to assume the primary responsibility for the payment of
+37 any bonds or notes issued by such county, city, municipality, or such
+38 state agency for such properties.
+39 3. Notwithstanding the provisions of any other law, general, special
+40 or local to the contrary, real property acquired by either the water
+41 board, the authority or any county, city, or municipality from the state
+42 or a state agency may be used for any corporate purpose of either the
+43 water board or the authority.
+44 4. Any county, city, other municipality, state agency, the water board
+45 and/or the authority shall have the power to contract, from time to
+46 time, between or among themselves, or with any other person, in relation
+47 to the purchase, sale, production, accumulation, supply, transmission,
+48 or treatment of water, or the provision of wastewater or storm water
+49 services and/or the construction, use, sale and/or leasing, of any
+50 system facility of the water board, which contracts may include any or
+51 all of the following provisions: (a) requiring the purchase by any coun-
+52 ty, city, or other municipality of specified amounts of water, wastewa-
+53 ter, or storm water services; (b) requiring the use by any county, city,
+54 or other municipality of a system facility; (c) limiting the right,
+55 including a prohibition, of any county, city, or other municipality to
+56 construct a facility which will serve the same, or substantially the
+
+S. 8703--A 15
+1 same, function as a system facility constructed or to be constructed by
+2 the water board; (d) requiring the water board to reserve capacity in
+3 any system facility to assure the availability to any county, city, or
+4 other municipality of a specified amount of use of any system facility;
+5 (e) providing for specified minimum periodic payments whether or not
+6 water, wastewater or storm water services are actually taken and used,
+7 or such system facility is actually used, subject to such limitations,
+8 exceptions and provisions therein; and (f) requiring any county, city,
+9 or other municipality to pay to the water board such amounts as shall be
+10 necessary to assure the continued operation of the water board. All such
+11 payments shall be determined and paid in such manner and at such times
+12 as may be provided in such contracts.
+13 5. Any agreement for the supply of water services, wastewater services
+14 or storm water services between a county, city, other municipality or an
+15 agency thereof and any state agency, or any administrative determi-
+16 nation by a state agency, or any other arrangement in this regard, in
+17 effect at the time the water board shall be established, shall remain in
+18 full force and effect and be binding upon the water board as if it were
+19 a party to such agreement, determination or other arrangement.
+20 § 1240-i. Transfer of officers and employees. 1. In accordance with
+21 the provisions of section seventy of the civil service law, any officer
+22 or employee of a county, city, or other municipality that currently
+23 works in the system, may, at the request of the water board and with the
+24 consent of such county, city, or municipality and the water board, be
+25 transferred to the water board and shall be eligible for such transfer
+26 and appointment, without further examination, to applicable offices,
+27 positions and employment under the water board. Any such officers or
+28 employees so transferred to the water board pursuant to this section,
+29 who are members of or benefit under any existing pension or retirement
+30 fund or system, shall continue to have all rights, privileges, obli-
+31 gations and status with respect to such fund or system as are now
+32 prescribed by law, but during the period of their employment by the
+33 water board, all contributions to such funds or systems to be paid by
+34 the employer on account of such officers or employees shall be paid by
+35 the water board.
+36 2. A transferred employee shall remain in the same collective bargain-
+37 ing unit as was the case prior to such employee's transfer; successor
+38 employees to the positions held by such transferred employees shall,
+39 consistent with the provisions of article fourteen of the civil service
+40 law, be included in the same unit as their predecessors. Employees serv-
+41 ing in positions in newly created titles shall be assigned to the same
+42 collective bargaining unit as they would have been assigned to such unit
+43 were such titles created prior to the establishment of the water board.
+44 Nothing contained in this title shall be construed (a) to diminish the
+45 rights of employees pursuant to a collective bargaining agreement or (b)
+46 to affect existing law with respect to an application to the public
+47 employment relations board seeking a designation by the public employ-
+48 ment relations board that certain persons are managerial or confiden-
+49 tial.
+50 § 1240-j. Subsidiaries. 1. The water board shall have the right to
+51 exercise and perform all or part of its powers and functions through one
+52 or more wholly owned subsidiaries by acquiring the voting shares thereof
+53 or by resolution of the water board directing any of its trustees, offi-
+54 cers or employees to organize a subsidiary corporation pursuant to the
+55 business corporation law, the not-for-profit corporation law or the
+
+S. 8703--A 16
+1 transportation corporations law. Such resolution shall prescribe the
+2 purpose for which such subsidiary corporation is to be formed.
+3 2. The water board may transfer to any subsidiary corporation any
+4 moneys, property (real, personal or mixed) or facilities in order to
+5 carry out the purposes of this title. Each such subsidiary corporation
+6 shall have all the privileges, immunities, tax exemptions and other
+7 exemptions of the water board to the extent the same are not inconsist-
+8 ent with the statute or statutes pursuant to which such subsidiary was
+9 incorporated.
+10 § 1240-k. Bonds of the authority. 1. The authority shall have the
+11 power and is hereby authorized from time to time to issue bonds in
+12 conformance with applicable provisions of the uniform commercial code in
+13 such principal amounts as it may determine to be necessary to pay the
+14 cost of any project or projects, or for any other corporate purpose,
+15 including reasonable and incidental expenses in connection therewith.
+16 The authority shall have power from time to time to refund any bonds by
+17 the issuance of new bonds whether the bonds to be refunded have or have
+18 not matured, and may issue bonds partly to refund bonds then outstanding
+19 and partly for any other corporate purpose. Bonds issued by the authori-
+20 ty may be general obligation bonds secured by the faith and credit of
+21 the authority or may be special obligations payable solely out of
+22 particular revenues or other moneys as may be designated in the
+23 proceedings of the authority under which the bonds shall be authorized
+24 to be issued, subject to any agreements entered into between the author-
+25 ity and a county, city, or other municipality, and the authority, the
+26 water board and a county, city, or other municipality, and subject to
+27 any agreements with the holders of outstanding bonds pledging any
+28 particular property, revenues or moneys.
+29 2. The authority is authorized to obtain from any department or agency
+30 of the United States or the state or any non-governmental insurer or
+31 financial institution, any insurance, guaranty or other credit support
+32 device, to the extent now or hereafter available, as to, or for the
+33 payment or repayment of interest or principal, or both, or any part
+34 thereof, on any bonds issued by the authority and to enter into any
+35 agreement or contract with respect to any such insurance or guaranty,
+36 except to the extent that the same would in any way impair or interfere
+37 with the ability of the authority to perform and fulfill the terms of
+38 any agreement made with the holders of bonds or notes of the authority
+39 as may then exist.
+40 3. Bonds shall be authorized by resolution of the authority, be in
+41 such denominations, bear such date or dates and mature at such time or
+42 times as such resolution may provide, except that bonds and any renewals
+43 thereof shall mature within forty years of the date of their original
+44 issuance and notes and any renewal thereof shall mature within five
+45 years of the date of their original issuance. Such bonds shall be
+46 subject to such terms of redemption, bear interest at such rate or rates
+47 payable at such times, be in such form, carry such registration privi-
+48 leges, be executed in such manner, be payable in such medium of payment
+49 at such place or places, and be subject to such terms and conditions as
+50 such resolution may provide. Bonds may be sold at public or private sale
+51 for such price or prices as the authority shall determine provided that
+52 no issue of bonds may be sold by the authority at private sale unless
+53 such sale and the terms thereof have been approved in writing by (a) the
+54 comptroller, where such sale is not to such comptroller, or (b) by the
+55 state director of the budget, where such sale is to be to the comp-
+56 troller. The authority may pay all expenses, premiums and commissions
+
+S. 8703--A 17
+1 which it may deem necessary or advantageous in connection with the issu-
+2 ance and sale of bonds or authority obligations.
+3 4. The authority may also enter into loan agreements, lines of credit
+4 and other security agreements and obtain for or on its behalf letters of
+5 credit, insurance, guaranties or other credit enhancements to the extent
+6 now or hereafter available, in each case for securing its bonds or to
+7 provide direct payment of any costs which the authority is authorized to
+8 pay.
+9 5. Any resolution or resolutions authorizing bonds or any issue of
+10 bonds may contain provisions which may be a part of the contract with
+11 the holders of the bonds thereby authorized as to:
+12 (a) pledging all or part of the revenues, other monies or property of
+13 the authority to secure the payment of the bonds, or any costs of issu-
+14 ance thereof, including, but not limited to, any contracts, earnings or
+15 proceeds of any grant to the authority received from any private or
+16 public source subject to such agreements with bondholders as may then
+17 exist;
+18 (b) the setting aside of reserves and the creation of sinking funds
+19 and the regulation and disposition thereof;
+20 (c) limitations on the purpose to which the proceeds from the sale of
+21 bonds may be applied;
+22 (d) limitations on the right of the authority to restrict and regulate
+23 the use of the project or part thereof in connection with which bonds
+24 are issued;
+25 (e) limitations on the issuance of additional bonds, the terms upon
+26 which additional bonds may be issued and secured and the refunding of
+27 outstanding or other bonds;
+28 (f) the procedure, if any, by which the terms of any contract with
+29 bondholders may be amended or abrogated, the amount of bonds the holders
+30 of which must consent thereto, and the manner in which such consent may
+31 be given;
+32 (g) the creation of special funds into which any revenues or monies
+33 may be deposited;
+34 (h) the terms and provisions of any trust, mortgage, deed or indenture
+35 securing the bonds under which the bond may be issued;
+36 (i) vesting in a trustee or trustees such properties, rights, powers
+37 and duties in trust as the authority may determine which may include any
+38 or all of the rights, powers and duties of the trustees appointed by the
+39 bondholders to appoint a trustee pursuant to this title or limiting or
+40 abrogating the rights of the bondholders to appoint a trustee, or limit-
+41 ing the rights, duties and powers of such trustee;
+42 (j) defining the acts or omissions to act which may constitute a
+43 default in the obligations and duties of the authority to the bondhold-
+44 ers and providing for the rights and remedies of the bondholders in the
+45 event of such default, including as a matter of right the appointment of
+46 a receiver, provided, however, that such rights and remedies shall not
+47 be inconsistent with the general laws of the state and other provisions
+48 of this title;
+49 (k) limitations on the power of the authority to sell or otherwise
+50 dispose of any project or any part thereof;
+51 (l) limitations on the amount of revenues and other monies to be
+52 expended for operating, administrative or other expenses of the authori-
+53 ty;
+54 (m) the payment of the proceeds of bonds, revenues and other monies to
+55 a trustee or other depository, and for the method of disbursement there-
+
+S. 8703--A 18
+1 of with such safeguards and restrictions as the authority may determine;
+2 and
+3 (n) any other matters of like or different character which in any way
+4 affect the security or protection of the bonds or the rights and reme-
+5 dies of bondholders.
+6 6. In addition to the powers herein conferred upon the authority to
+7 secure its bonds, the authority shall have power in connection with the
+8 issuance of bonds to adopt resolutions and enter into such trust inden-
+9 tures, agreements or other instruments as the authority may deem neces-
+10 sary, convenient or desirable concerning the use or disposition of its
+11 revenues or other monies or property, including the mortgaging of any
+12 property and the entrusting, pledging or creation of any other security
+13 interest in any such revenues, monies or property and the doing of any
+14 act, including refraining from doing any act which the authority would
+15 have the right to do in the absence of such resolutions, trust inden-
+16 tures, agreements or other instruments. The authority shall have power
+17 to enter into amendments of any such resolutions, trust indentures,
+18 agreements or other instruments. The provisions of any such resolutions,
+19 trust indentures, agreements or other instruments may be made a part of
+20 the contract with the holders of bonds of the authority.
+21 7. Any provision of the uniform commercial code to the contrary
+22 notwithstanding, any pledge of or other security interest in revenues,
+23 monies, accounts, contract rights, general intangibles or other personal
+24 property made or created by the authority or the water board, pursuant
+25 to this title, shall be valid, binding and perfected against all
+26 persons, from the time when such pledge is made or other security inter-
+27 est attaches without any physical delivery of the collateral or further
+28 act, and the lien of any such pledge or other security interest shall be
+29 valid, binding and perfected against all parties having claims of any
+30 kind in tort, contract or otherwise against the authority or the water
+31 board, irrespective of whether such parties have notice thereof. No
+32 instrument by which such a pledge or security interest is created nor
+33 any financing statement need be recorded or filed.
+34 8. Whether or not the bonds are of such form and character as to be
+35 negotiable instruments under the terms of the uniform commercial code,
+36 the bonds are hereby made negotiable instruments within the meaning of
+37 and for all the purposes of the uniform commercial code, subject only to
+38 the provisions of the bonds for registration.
+39 9. Neither the members of the authority nor any person executing its
+40 bonds shall be liable personally on its bonds or be subject to any
+41 personal liability or accountability by reason of the issuance thereof.
+42 10. Subject to such agreements with bondholders as may then exist, the
+43 authority shall have power out of any funds available therefor to
+44 purchase bonds of the authority, which shall thereupon be cancelled, at
+45 a price not exceeding (a) if the bonds are then redeemable, the redemp-
+46 tion price then applicable plus accrued interest to the next interest
+47 payment date, or (b) if the bonds are not then redeemable, the redemp-
+48 tion price applicable on the first date after such purchase upon which
+49 the bonds become subject to redemption plus accrued interest to the next
+50 interest payment date. Bonds so purchased shall thereupon be cancelled.
+51 § 1240-l. Remedies of bondholders. Subject to any resolution or resol-
+52 utions adopted pursuant to this title:
+53 1. In the event that the authority shall default in the payment of
+54 principal of or interest on any issue of bonds after the same shall
+55 become due, whether at maturity or upon call for redemption, and such
+56 default shall continue for a period of thirty days, or in the event that
+
+S. 8703--A 19
+1 the authority shall fail or refuse to comply with the provisions of this
+2 title or shall default in any agreement made with the holders of any
+3 issue of bonds, the holders of twenty-five percent in aggregate princi-
+4 pal amount of the bonds of such issue then outstanding, by instrument or
+5 instruments filed in the offices of the clerk of a county, city, or
+6 other municipality, secretary of the water board and the authority and
+7 proved or acknowledged in the same manner as a deed to be recorded, may
+8 appoint a trustee to represent the holders of such bonds for the purpose
+9 herein provided.
+10 2. Such trustee may and upon written request of the holders of twen-
+11 ty-five percent in principal amount of such bonds outstanding shall in
+12 such trustee's own name:
+13 (a) by action or proceeding in accordance with the civil practice law
+14 and rules, enforce all rights of the bondholders, including the right to
+15 require the authority to require the water board to collect fees, rates
+16 and charges adequate to carry out any agreement as to, or pledge of,
+17 such fees, rates and charges and to require the authority to carry out
+18 any other agreements with the water board, the county, city or any muni-
+19 cipality and/or the holders of such bonds to perform its duties under
+20 this title;
+21 (b) bring an action or proceeding upon such bonds;
+22 (c) by action or proceeding, require the authority to account as if it
+23 were the trustee of an express trust for the holders of such bonds;
+24 (d) by action or proceeding, enjoin any acts or things which may be
+25 unlawful or in violation of the rights of the holders of such bonds; and
+26 (e) declare all such bonds due and payable, and if all defaults shall
+27 be made good, then with the consent of the holders of twenty-five
+28 percent of the principal amount of such bonds then outstanding, annul
+29 such declaration and its consequences.
+30 3. Such trustee shall in addition to the foregoing have and possess
+31 all of the powers necessary or appropriate for the exercise of any func-
+32 tions specifically set forth herein or incident to the general represen-
+33 tation of bondholders in the enforcement and protection of their rights.
+34 4. The supreme court shall have jurisdiction of any action or proceed-
+35 ing by the trustee on behalf of such bondholders.
+36 5. Before declaring the principal of bonds due and payable, the trus-
+37 tee shall first give thirty days notice in writing to the authority.
+38 6. Any such trustee, whether or not the issue of bonds represented by
+39 such trustee has been declared due and payable, shall be entitled as of
+40 right to the appointment of a receiver of any part or parts of the prop-
+41 erties the revenues of which are pledged for the security of the bonds
+42 of such issue, and, subject to any pledge or agreement with holders of
+43 such bonds, such receiver may enter and take possession of such part or
+44 parts of the properties and shall take possession of all moneys and
+45 other property derived from such part or parts of such properties and
+46 proceed with any construction thereon or the acquisition of any proper-
+47 ty, real or personal, in connection therewith which the authority is
+48 under obligation to do, and to operate, maintain and reconstruct such
+49 part or parts of the properties and collect and receive all revenues
+50 thereafter arising therefrom subject to any pledge thereof or agreement
+51 with bondholders relating thereto and perform the public duties and
+52 carry out the agreements and obligations of the authority under the
+53 direction of the court. In any suit, action or proceeding by the trus-
+54 tee, the fees, counsel fees and expenses of the trustee and of the
+55 receiver, if any, shall constitute taxable disbursements and all costs
+
+S. 8703--A 20
+1 and disbursements allowed by the court shall be a first charge on any
+2 revenue derived from the properties.
+3 § 1240-m. Local governments, state, and water board not liable on
+4 bonds or notes; authority liable. Neither a county, city, other munici-
+5 pality, the state, or the water board, other than the authority, shall
+6 be liable on the bonds of the authority and such bonds shall not be a
+7 debt of either the state, the water board, or a county, city, or other
+8 municipality, and each such bond shall contain, on the face thereof, a
+9 statement to such effect.
+10 § 1240-n. Legal investments. The bonds of the authority are hereby
+11 made securities in which all public officials and bodies of the state
+12 and all municipalities, all insurance companies and associations and
+13 other persons carrying on an insurance business, all banks, bankers,
+14 trust companies, savings banks and savings associations, including
+15 savings and loan associations, building and loan associations, invest-
+16 ment companies and other persons carrying on a banking business, and
+17 administrators, guardians, executors, trustees and other fiduciaries and
+18 all other persons whatsoever, who are not or may hereafter be authorized
+19 to invest in bonds or other obligations of the state, may properly and
+20 legally invest funds including capital in their control or belonging to
+21 them. Notwithstanding any inconsistent provision of law, the bonds are
+22 also hereby made securities which may be deposited with and may be
+23 received by all public officers and bodies of this state and all munici-
+24 palities for any purposes for which the deposit of bonds or other obli-
+25 gations of this state are now or hereafter may be authorized.
+26 § 1240-o. Moneys of the authority. All moneys of the authority from
+27 whatever source derived shall be paid to the treasurer of the authority
+28 and shall be deposited forthwith in a bank or trust company in the state
+29 designated by the governing body. The moneys in such accounts shall be
+30 paid out on check of the treasurer upon requisition by the governing
+31 body or of such other person or persons as the governing body may
+32 authorize to make such requisitions. All deposits of such moneys shall
+33 be secured by obligations of the United States or of the state of a
+34 market value equal at all times to the amount on deposit and all banks
+35 and trust companies are authorized to give such security for such depos-
+36 its. To the extent practicable, consistent with the cash requirements of
+37 the authority, all such moneys shall be deposited in interest bearing
+38 accounts. The authority shall have power, notwithstanding the provisions
+39 of this section, to contract with the holders of any bonds as to the
+40 custody, collection, security, investment and payment of any moneys of
+41 the authority or any moneys held in trust or otherwise for the payment
+42 of bonds or in any way to secure bonds, and to carry out any such
+43 contract notwithstanding that such contract may be inconsistent with the
+44 provisions of this section. Moneys held in trust or otherwise for the
+45 payment of bonds or in any way to secure bond and deposits of such
+46 moneys may be secured in the same manner as moneys of the authority and
+47 all banks and trust companies are authorized to give such security for
+48 such deposits. Any moneys of the authority not required for immediate
+49 use or disbursement may, at the discretion of the authority, be invested
+50 in those obligations specified pursuant to the provisions of section
+51 ninety-eight-a of the state finance law. Subject to the provisions of
+52 any contract with bondholders and with the approval of the comptroller,
+53 the authority shall prescribe a system of accounts.
+54 § 1240-p. Agreement of the state. The state does hereby pledge to and
+55 agree with the holders of any bonds issued by the authority pursuant to
+56 this title and with those persons or public corporations who may enter
+
+S. 8703--A 21
+1 into contracts with the authority or the water board, pursuant to the
+2 provisions of this title that the state will not alter, limit or impair
+3 the rights hereby vested in the authority or the water board to
+4 purchase, construct, own and operate, maintain, repair, improve, recon-
+5 struct, renovate, rehabilitate, enlarge, increase and extend, or dispose
+6 of any project, or any part or parts thereof for which bonds of the
+7 authority shall have been issued, to establish and collect rates, rents,
+8 fees and other charges referred to in this title, to fulfill the terms
+9 of any contracts or agreements made with or for the benefit of the hold-
+10 ers of bonds or with any person or public corporation with reference to
+11 such project or part thereof, or in any way to impair the rights and
+12 remedies of the holders of bonds, until the bonds, together with inter-
+13 est thereon, including interest on any unpaid installments of interest,
+14 and all costs and expenses in connection with any action or proceeding
+15 by or on behalf of the holders of bonds, are fully met and discharged
+16 and such contracts are fully performed on the part of the authority or
+17 the water board, as the case may be. The authority is authorized to
+18 include this pledge and agreement of the state in any agreement with the
+19 holders of bonds.
+20 § 1240-q. Exemption from taxes, assessments and certain fees. 1. It is
+21 hereby determined that the creation of the authority and the water board
+22 and the carrying out of their corporate purposes is in all respects for
+23 the benefit of the people of the upstate New York region and is a public
+24 purpose, and the authority and the water board shall be regarded as
+25 performing governmental functions in the exercise of the powers
+26 conferred upon each by this title, and the authority and the water board
+27 shall not be required to pay any fees, taxes, special ad valorem levies
+28 or assessments, whether state or local, including but not limited to
+29 fees, taxes, special ad valorem levies or assessments on real property,
+30 franchise taxes, sales taxes or other excise taxes, upon any property
+31 owned by them or under their jurisdiction, control or supervision, or
+32 upon the uses thereof, or upon their activities in the operation and
+33 maintenance of their facilities or any fares, tolls, rentals, rates,
+34 charges, fees, revenues or other income received by the authority or the
+35 water board. The authority and the water board shall at all times be
+36 exempt from any filing, mortgage recording or transfer fees or taxes in
+37 relation to instruments filed, recorded or transferred by them or on
+38 their behalf. The construction, use, occupation or possession of any
+39 property owned by the authority or the water board, including improve-
+40 ments thereon, by any person or public corporation under a lease, lease
+41 and sublease or any other agreement shall not operate to abrogate or
+42 limit the foregoing exemption, notwithstanding that the lessee, user,
+43 occupant or person in possession shall claim ownership for federal
+44 income tax purposes.
+45 2. Any bonds issued pursuant to this title together with the income
+46 therefrom as well as the property of the authority or the water board
+47 shall at all times be exempt from taxes, except for transfer and estate
+48 taxes. The state hereby covenants with the purchasers and with all
+49 subsequent holders and transferees of bonds issued by the authority
+50 pursuant to this title, in consideration of the acceptance of and
+51 payment for the bonds, that the bonds of the authority issued pursuant
+52 to this title and the income therefrom and all revenues, monies, and
+53 other property pledged to secure the payment of such bonds shall at all
+54 times be free from taxation, except for transfer and estate taxes.
+55 3. Notwithstanding any provision in this section to the contrary, the
+56 water board may pay, or may enter into agreements with a county, city,
+
+S. 8703--A 22
+1 or other municipality to pay, a sum or sums, annually or otherwise, or
+2 to provide other considerations to such county, city, or municipality,
+3 with respect to real property of the water board located within such
+4 municipality and provided that any such payment or agreement to pay
+5 shall be subject to approval by the authority.
+6 4. The water board shall not be required to pay any taxes or other
+7 governmental fees or charges, whether imposed by the state or any coun-
+8 ty, city, or other municipality, including, without limitation, fran-
+9 chise taxes, sales taxes or other excise taxes, or any other tax or
+10 charge upon its property or activities or upon any of its revenues or
+11 other income.
+12 5. Notwithstanding any other provision of this section, any payment by
+13 the water board in lieu of tax payments described in this section shall
+14 be subordinate to any other payments required to be made to the authori-
+15 ty pursuant to this title, including, without limitation, the payment of
+16 sums to the authority or to any trustee representing the holders of any
+17 bonds issued by the authority.
+18 § 1240-r. Payment in lieu of taxes. Each year after property thereto-
+19 fore owned by a county, city, or other municipality is acquired by the
+20 authority or water board by any means authorized by this title and, as a
+21 consequence, is removed from the tax rolls, the authority or water board
+22 shall make payments in lieu of taxes to such county, city, or munici-
+23 pality and any school districts therein equal to the taxes and assess-
+24 ments which would have been received from year to year by each such
+25 jurisdiction if such acquisition had not occurred.
+26 § 1240-s. Repayment of state appropriations. All appropriations made
+27 by the state to the authority shall be treated as advances by the state
+28 to the authority, and shall be repaid to it without interest either out
+29 of the proceeds of bonds issued by the authority pursuant to the
+30 provisions of this title, or by the delivery of non-interest bearing
+31 bonds of the authority to the state for all or any part of such
+32 advances, or out of excess revenues of the authority, at such times and
+33 on such conditions as the state and the authority mutually may agree
+34 upon.
+35 § 1240-t. Audit and annual reports. In conformity with the provisions
+36 of section five of article ten of the constitution, the accounts of the
+37 water board and of the authority shall be subject to the supervision of
+38 the comptroller and an annual audit shall be performed by an independent
+39 certified accountant. The water board and the authority shall annually
+40 submit to the governor and comptroller and to the state legislature a
+41 detailed report pursuant to the provisions of section twenty-eight
+42 hundred of this chapter, and a copy of such report shall be filed with
+43 the clerk of any county, city, or other municipality in the service area
+44 with which the water board has agreed to produce, develop, distribute,
+45 sell or otherwise manage water and/or wastewater services pursuant to
+46 this title.
+47 § 1240-u. Authority subject to open meetings law. The authority shall
+48 be subject to the provisions of article seven of the public officers law
+49 relating to the open meetings law.
+50 § 1240-v. Actions against the water board and authority. 1. Except in
+51 an action for wrongful death, no action or special proceeding shall be
+52 prosecuted or maintained against either the water board or the authority
+53 or their members, officers or employees for personal injury or damage to
+54 real or personal property alleged to have been sustained by reason of
+55 the negligence, tort or wrongful act of either the water board or the
+56 authority or of any member, officer, agent or employee thereof, unless
+
+S. 8703--A 23
+1 (a) a notice of claim shall have been made and served upon the water
+2 board or the authority, as the case may be, within the time limit
+3 prescribed by law, (b) it shall appear by and as an allegation in the
+4 complaint or moving papers that at least thirty days have elapsed since
+5 the service of such notice and that adjustment or payment thereof has
+6 been neglected or refused, and (c) the action or special proceeding
+7 shall be commenced within one year and ninety days after the happening
+8 of the event upon which the claim is based. An action against the board
+9 or authority for wrongful death shall be commenced in accordance with
+10 the notice of claim and time limitation provisions of title eleven of
+11 article nine of this chapter.
+12 2. Wherever a notice of claim is served upon the water board or the
+13 authority, the water board or the authority, as the case may be, shall
+14 have the right to demand an examination of the claimant relative to the
+15 occurrence and extent of the injuries or damages for which claim is
+16 made, in accordance with the provisions of section fifty-h of the gener-
+17 al municipal law.
+18 3. The water board or the authority, as the case may be, may require
+19 any person presenting for settlement an account or claim for any cause
+20 whatever against the water board or the authority, to be sworn before a
+21 member, counsel, officer or employee of the water board or the authority
+22 designated for such purpose concerning such account or claim and, when
+23 so sworn, to answer orally as to any facts relative to such account or
+24 claim. The water board or the authority, as the case may be, shall have
+25 power to settle or adjust all claims in favor of or against the water
+26 board or the authority, as the case may be.
+27 4. Any action or proceeding to which the authority, water board or the
+28 people of the state may be parties, in which any question arises as to
+29 the validity of this title, shall be preferred over all other civil
+30 causes of action or cases, except election causes of action or cases, in
+31 all courts of the state and shall be heard and determined in preference
+32 to all other civil business pending therein except election causes,
+33 irrespective of position on the calendar. The same preference shall be
+34 granted upon application of the authority or its counsel in any action
+35 or proceeding questioning the validity of this title in which the
+36 authority may be allowed to intervene. The venue of any such action or
+37 proceeding shall be laid in the supreme court of the county in which the
+38 cause of such action arose.
+39 5. The rate of interest to be paid by the water board or the authority
+40 upon any judgment for which it is liable, other than a judgment on bonds
+41 of the authority, shall be the rate prescribed by section five thousand
+42 four of the civil practice law and rules. Interest on payments of prin-
+43 cipal or interest on any bonds in default shall accrue at the rate or
+44 rates set forth in such bonds from the due date thereof until paid or
+45 otherwise satisfied.
+46 § 1240-w. Conflicts of interest. 1. If any member, officer or employee
+47 of the water board or the authority shall have an interest, either
+48 direct or indirect, in any contract to which the water board or the
+49 authority is, or is to be, a party, such interest shall be disclosed to
+50 the water board and the authority in writing. The member, officer or
+51 employee having such interest shall not participate in any action by the
+52 water board or the authority with respect to such contract.
+53 2. No member, officer or employee shall be deemed to have such an
+54 interest solely by reason of the ownership of two percent or less of the
+55 securities of a corporation which is, or is to be, a party to a contract
+56 with the water board or the authority, including without limitation the
+
+S. 8703--A 24
+1 holding company of any banking institution in which the funds of the
+2 water board or the authority are, or are to be, deposited or which is,
+3 or is to be, acting as trustee or paying agent under any bond or note
+4 resolution, trust indenture or similar instrument to which the authority
+5 is a party.
+6 3. Nothing in this section shall be deemed or construed to limit the
+7 right of any member, officer or employee of the authority to acquire an
+8 interest in bonds or notes of the authority.
+9 § 1240-x. Severability. If any clause, sentence, paragraph, section,
+10 or part of this title shall be adjudged by any court of competent juris-
+11 diction to be invalid, such judgment shall not affect, impair or invali-
+12 date the remainder thereof, but shall be confined in its operation to
+13 the clause, sentence, paragraph, section, or part thereof involved in
+14 the controversy in which such judgment shall have been rendered.
+15 § 1240-y. Inconsistent provisions of other laws superseded. Insofar as
+16 the provisions of this title are inconsistent with the provisions of any
+17 other act, general or special, or of any charter, local law, ordinance
+18 or resolution of any municipality, the provisions of this title shall be
+19 controlling. Nothing contained in this section shall be held to supple-
+20 ment or otherwise expand the powers or duties of the authority or water
+21 board otherwise set forth in this title. Except as specifically provided
+22 for in this title, in the performance of any of its functions, powers
+23 and duties, the authority and the water board shall be subject to all
+24 applicable general or special laws of the state, the county charter,
+25 city charter and any local law or ordinance.
+26 § 2. This act shall take effect on the one hundred eightieth day after
+27 it shall have become a law. Effective immediately, the addition, amend-
+28 ment and/or repeal of any rule or regulation necessary for the implemen-
+29 tation of this act on its effective date are authorized to be made and
+30 completed on or before such effective date.

@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - S6554A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6554--A
+2025-2026 Regular Sessions
+IN SENATE
+March 17, 2025
+___________
+Introduced by Sen. JACKSON -- read twice and ordered printed, and when
+printed to be committed to the Committee on Civil Service and Pensions
+-- recommitted to the Committee on Civil Service and Pensions in
+accordance with Senate Rule 6, sec. 8 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general municipal law, in relation to benefits for
+employees of governmental entities performing emergency medical
+services in the city of New York who suffer any condition or impair-
+ment of health caused by a stroke resulting in disability or death
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general municipal law is amended by adding a new
+2 section 207-qq to read as follows:
+3 § 207-qq. Disabilities of emergency medical technicians or advanced
+4 emergency medical technicians in certain cities resulting from stroke.
+5 Notwithstanding the provisions of any general, special or local law or
+6 administrative code to the contrary, but except for the purposes of the
+7 workers' compensation law and the labor law, any condition of impairment
+8 of health caused by a stroke resulting in total or partial disability or
+9 death to a paid employee of a fire department who performs the functions
+10 of an emergency medical technician or advanced emergency medical techni-
+11 cian in a city with a population of one million or more, where such
+12 employee is drawn from competitive civil service lists, who successfully
+13 passed a physical examination on entry into the service of such depart-
+14 ment, which examination failed to reveal any evidence of such condition,
+15 shall be presumptive evidence that it was incurred in the performance of
+16 duty, unless the contrary be proved by competent evidence.
+17 § 2. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00094-03-6
+
+S. 6554--A 2
+SUMMARY: This proposed legislation would provide Emergency Medical
+Technicians (EMT) members of the New York City Employees' Retirement
+System (NYCERS) a rebuttable statutory presumption that a qualifying
+partial or total disability or death related to the occurrence of a
+stroke was incurred in the performance of duty.
+ILLUSTRATION - INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Thousands)
+One Incident One Incident Per Year
+Year Disability Death Disability Death
+2027 54 158 54 158
+2028 54 158 109 321
+2029 54 158 166 488
+2030 54 158 225 661
+2031 54 158 285 839
+2032 54 158 348 1,022
+2033 54 158 412 1,210
+2034 54 158 478 1,405
+2035 54 158 546 1,605
+2036 54 158 616 1,811
+2037 54 158 689 2,023
+2038 54 158 763 2,242
+2039 54 158 840 2,467
+2040 54 158 919 2,699
+2041 0 0 946 2,780
+2042 0 0 975 2,864
+2043 0 0 1,004 2,949
+2044 0 0 1,034 3,038
+2045 0 0 1,065 3,129
+2046 0 0 1,097 3,223
+2047 0 0 1,130 3,320
+2048 0 0 1,164 3,419
+2049 0 0 1,199 3,522
+2050 0 0 1,235 3,628
+2051 0 0 1,272 3,736
+Employer contribution impact beyond Fiscal Year 2051 is not shown.
+The potential increases in employer contributions will be allocated to
+New York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2025 ($ in Thousands)
+Present Value (PV) Per Disability Per Death
+(1) PV of Employer Contributions: 455 1,336
+(2) PV of Employee Contributions: (41) 0
+Total PV of Benefits (1) + (2): 414 1,336
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+Changes in UAL per incident would be recognized as ongoing gain/loss.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+
+S. 6554--A 3
+Recognized as Ongoing Gain/Loss Per Disability Per Death
+Increase (Decrease) in UAL: 455 K 1,336 K
+Number of Payments: 14 14
+Amortization Payment: 54 K 158 K
+CENSUS DATA: The number of members who will benefit in the future from
+this proposed legislation is unknown. The estimates presented herein are
+based on preliminary census data collected as of June 30, 2025. The
+census data for the potentially impacted population used to develop the
+average costs is summarized below.
+NYCERS
+Active Members
+- Number Count: 4,038
+- Average Age: 37.1
+- Average Service: 9.8
+- Average Salary: 77,100
+IMPACT ON MEMBER BENEFITS: Currently, NYCERS EMT members who become
+disabled due to a stroke would generally be eligible for an applicable
+ordinary disability retirement benefit after attaining 10 years of
+service. The disability benefit is generally a lifetime payment equal to
+the greatest of 1/3 of Final Average Salary (FAS), 1/60th of FAS times
+service, or the service retirement benefit, if eligible.
+Under the proposed legislation, the performance of duty disability
+benefit for NYCERS EMT members who are disabled from a stroke would be
+equal to 75% of FAS.
+The ordinary death benefit for NYCERS EMT members is a lump sum
+payment generally equal to three times the member's salary plus a return
+of member contributions. Under the proposed legislation, the performance
+of duty death benefit would generally be equal to a lifetime benefit of
+50% of a member's wages earned during their last year of service, plus,
+if applicable, the Special Accidental Death Benefit (SADB) payable under
+General Municipal Law section 208-f.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems.
+The number of members who will benefit from the proposed legislation
+is unknown. The cost of this proposed legislation could vary greatly
+depending on the number of future members who benefit and on their
+length of service, age, and salary history. In particular, the increase
+would be greater for a member who is not yet eligible for an ordinary
+disability benefit when disabled.
+The estimated financial impact for disabled members has been calcu-
+lated assuming 50% would have retired under the current ordinary disa-
+bility benefit, and 50% would have continued working if the proposed
+legislation were not passed.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+
+S. 6554--A 4
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-40 dated March 13,
+2026 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2026
+Legislative Session.
