@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - A8178A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8178--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 5, 2025
+___________
+Introduced by M. of A. FALL -- read once and referred to the Committee
+on Governmental Employees -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+increasing the mandatory retirement age for New York police department
+members
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 15 of section 501 of the retirement and social
+2 security law, as added by chapter 890 of the laws of 1976, is amended to
+3 read as follows:
+4 15. "Mandatory retirement age" shall mean age seventy, for general
+5 members, and age sixty-two, for police/fire members, and age sixty-five,
+6 for police members who are subject to the provisions of this article on
+7 or after July first, two thousand twenty-five.
+8 § 2. Subdivision d of section 503 of the retirement and social securi-
+9 ty law, as amended by section 2 of part SS of chapter 55 of the laws of
+10 2025, is amended to read as follows:
+11 d. The normal service retirement benefit specified in section five
+12 hundred five of this article shall be paid to police/fire members, New
+13 York city uniformed correction/sanitation revised plan members and
+14 investigator revised plan members without regard to age upon retirement
+15 after twenty-two years of service, except that the normal service
+16 retirement benefit specified in section five hundred five of this arti-
+17 cle shall be paid to police/fire members of the New York city police
+18 pension fund, after twenty years of service. Early service retirement
+19 shall be permitted upon retirement after twenty years of credited
+20 service or attainment of age sixty-two or attainment of age sixty-five
+21 for police members who are subject to the provisions of this article
+22 on or after July first, two thousand twenty-five, provided, however,
+23 that New York city police/fire revised plan members, New York city
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD09749-09-5
+
+A. 8178--A 2
+1 uniformed correction/sanitation revised plan members and investigator
+2 revised plan members shall not be eligible to retire for service prior
+3 to the attainment of twenty years of credited service.
+4 § 3. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would raise the mandatory retire-
+ment age from 62 to 65 for certain Tier 3 members of the New York City
+Police Pension Fund (POLICE).
+EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Millions)
+Year POLICE
+2026 (4.7)
+2027 (5.1)
+2028 (5.5)
+2029 (5.9)
+2030 (6.3)
+2031 (6.7)
+2032 (7.0)
+2033 (7.4)
+2034 (7.7)
+2035 (7.9)
+2036 (8.2)
+2037 (8.5)
+2038 (8.7)
+2039 (8.9)
+2040 (9.1)
+2041 (9.4)
+2042 (7.7)
+2043 (8.0)
+2044 (8.3)
+2045 (8.7)
+2046 (9.1)
+2047 (9.4)
+2048 (9.7)
+2049 (10.0)
+2050 (10.4)
+Projected contributions include future new hires that may be impacted.
+For Fiscal Year 2051 and beyond, the expected decrease in normal cost as
+a level percent of pay for impacted new entrants is approximately 0.11%.
+This decrease in projected costs is due to potentially larger benefits
+paid later having a lower actuarial impact than marginally smaller bene-
+fits paid earlier.
+The entire decrease in employer contributions will be allocated to New
+York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2024 ($ in Millions)
+Present Value (PV) POLICE
+(1) PV of Employer Contributions: (30.3)
+(2) PV of Employee Contributions: 0.6
+
+A. 8178--A 3
+Total PV of Benefits (1) + (2): (29.7)
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+Changes in UAL were amortized over the expected remaining working life-
+time of those impacted using level dollar payments.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+POLICE
+Increase (Decrease) in UAL: (17.7) M
+Number of Payments: 16
+Amortization Payment: (1.9) M
+CENSUS DATA: The estimates presented herein are based on preliminary
+census data collected as of June 30, 2024. The census data for the
+impacted population is summarized below.
+POLICE
+Active Members
+- Number Count: 21,764
+- Average Age: 33.2
+- Average Service: 6.5
+- Average Salary: 116,200
+IMPACT ON MANDATORY RETIREMENT: Currently, active Tier 3 POLICE
+members who reach the age of 62 are generally required to retire,
+regardless of whether the member is eligible for Normal Service Retire-
+ment. Upon mandatory retirement, members can generally choose to collect
+a vested retirement benefit or, if eligible, an Early Service Retirement
+benefit. Members who retire without attaining 20 years of service are
+not eligible for Variable Supplements Fund (VSF) benefits.
+Under the proposed legislation, members of POLICE who are subject to
+Article 14 on and after July 1, 2025, would be allowed to continue work-
+ing past age 62 and would instead be generally required to retire upon
+attaining age 65.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems. In addition:
+* New entrants were assumed to replace exiting members so that total
+payroll increases by 3% each year for impacted groups. New entrant demo-
+graphics were developed based on data for recent new hires and actuarial
+judgement.
+* For purposes of this Fiscal Note, existing assumption tables for
+service retirement, ordinary disability, accidental disability, ordinary
+death, and accidental death rates have been extended to account for
+decrements at ages 63 through 65.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+
+A. 8178--A 4
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2025-59 dated May 9, 2025
+was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2025
+Legislative Session.

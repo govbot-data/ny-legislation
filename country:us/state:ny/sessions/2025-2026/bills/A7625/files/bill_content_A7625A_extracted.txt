@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - A7625A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7625--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+April 1, 2025
+___________
+Introduced by M. of A. RIVERA -- read once and referred to the Committee
+on Energy -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the public service law, in relation to requiring gas
+pipeline facilities to accelerate the repair, rehabilitation, and
+replacement of equipment or pipelines that are leaking or leak prone
+and increase safety reporting relating to gas pipeline leaks
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 66-x to read as follows:
+3 § 66-x. Gas pipeline modernization and consumer protection. 1. As used
+4 in this section:
+5 (a) "gas pipeline facility" means a gas distribution facility or a gas
+6 utility; and
+7 (b) "leak prone" means posing a high risk of leaking, or being no
+8 longer fit for service, because of inferior materials, poor construction
+9 practices, lack of maintenance, or age.
+10 2. Each operator of a gas pipeline facility shall:
+11 (a) provide the commission with an inventory of all gas piping or
+12 equipment within the operator's service area that is leaking or leak
+13 prone;
+14 (b) repair, rehabilitate, or replace any portion of leaking gas piping
+15 to cease such leak within the timeframes established by the commission
+16 pursuant to subdivision three of this section; and
+17 (c) replace leak prone pipe within the timeframes established by the
+18 commission pursuant to subdivision three of this section.
+19 3. The commission shall:
+20 (a) set standards for designating piping as leaking or leak prone;
+21 (b) develop prioritized timelines requiring an operator of gas pipe-
+22 line facilities to repair, rehabilitate, or replace all leaking gas
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06373-05-5
+
+A. 7625--A 2
+1 piping or equipment within an operator's service area, including non-ha-
+2 zardous leaks and leaks identified as part of an integrity management
+3 plan developed under this section if applicable;
+4 (c) develop prioritized timelines requiring an operator of a gas pipe-
+5 line facility to repair, rehabilitate, or replace identified leak prone
+6 piping or equipment;
+7 (d) adopt a cost-recovery program that includes (i) replacement plans
+8 with targets and benchmarks for leaking and leak prone infrastructure,
+9 (ii) consideration of the economic, safety, and environmental benefits
+10 of reduced gas leakage, including consideration of reduced operation and
+11 maintenance costs and reduced costs attributable to reductions in lost
+12 or unaccounted-for natural gas, and (iii) reporting on the reductions in
+13 lost or unaccounted-for gas as a result of pipeline replacements
+14 required by this section;
+15 (e) adopt a standard definition and methodology for calculating and
+16 reporting unaccounted-for gas to improve data quality;
+17 (f) adopt limits on cost recovery for the lost and unaccounted-for
+18 gas;
+19 (g) require use of best available technology to detect gas leaks; and
+20 (h) adopt a standard for identifying the environmental risks caused by
+21 gas leaks in the gas pipeline distribution system.
+22 4. No later than one year after the effective date of this section,
+23 the commission shall:
+24 (a) after notice and opportunity to comment, issue rules identifying
+25 best practices for identifying and classifying leaking and leak prone
+26 pipeline infrastructure for repair, rehabilitation, or replacement, as
+27 necessary to comply with this section; and
+28 (b) establish and publish forms that adopt a standard definition and
+29 methodology for calculating and reporting unaccounted-for gas, includ-
+30 ing, when possible, information on the causes of unaccounted-for gas and
+31 the quantities associated with each cause, for use by applicable state
+32 agencies to standardize data collected on unaccounted-for gas.
+33 5. Operators of gas pipeline facilities in cities with a population of
+34 one million or more shall establish a database of pipeline infrastruc-
+35 ture that includes its age and state of repair and shall share this
+36 information with the coordinated building inspection data analysis
+37 system.
+38 6. The commission shall prescribe such rules and regulations as it may
+39 deem necessary to carry into effect the provisions of this section.
+40 § 2. Section 66-u of the public service law is amended by adding a new
+41 subdivision 4 to read as follows:
+42 4. The commission shall, no later than July first of each year,
+43 provide a gas safety report to the governor, the temporary president of
+44 the senate, the speaker of the assembly, the chairperson of the senate
+45 committee on energy and telecommunications, and the chairperson of the
+46 assembly committee on energy. The commission's gas safety report shall
+47 summarize:
+48 (a) the amount of remaining pipeline replacement work for gas corpo-
+49 ration;
+50 (b) the amount of annual pipeline replacement work that the department
+51 has authorized for each gas corporation for the current year and subse-
+52 quent two years;
+53 (c) the extent to which the annual authorizations described in para-
+54 graph (b) of this subdivision have been revised as a result of any
+55 ruling by the commission since the time of the last report;
+
+A. 7625--A 3
+1 (d) the amount of pipeline replacement work performed by each gas
+2 corporation in the prior calendar year;
+3 (e) the adequacy of field personnel that each gas company has allo-
+4 cated toward pipeline replacement work, including the quality of any
+5 training or certifications associated with this work;
+6 (f) any penalties, fines, or violations imposed by the department on a
+7 gas corporation for failing to complete that corporation's pipeline
+8 replacement work during the prior calendar year; and
+9 (g) the extent to which any of the findings in the report required by
+10 this subdivision or in the report described in subdivision one of this
+11 section, or actions taken by the commission pursuant to subdivision
+12 three of this section, materially change the scope or schedule for
+13 replacing the remaining pipelines described in paragraph (a) of this
+14 subdivision.
+15 § 3. This act shall take effect immediately.
