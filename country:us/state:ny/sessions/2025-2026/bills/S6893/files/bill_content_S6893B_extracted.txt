@@ -1,0 +1,373 @@
+Title: 
+Official Title: 
+Source: versions - S6893B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6893--B
+2025-2026 Regular Sessions
+IN SENATE
+March 26, 2025
+___________
+Introduced by Sen. FAHY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Education -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the education law, in relation to transition feasibility
+analysis for zero-emission school buses; and to amend part A of chap-
+ter 56 of the laws of 2023 amending the education law relating to
+contracts for excellence, in relation to the effectiveness thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings. The legislature finds that feasibil-
+2 ity issues related to the pace of technological advances, the capacity
+3 of the state's power grid, and the impacts of weather and other route
+4 conditions on zero-emission school buses (ZEBs) operated throughout the
+5 state present significant challenges to school districts working to
+6 transition their fleets in accordance with the department of education's
+7 (SED) first transition deadline of July 1, 2027. For that reason, this
+8 legislation addresses two separate concerns with current law. First, it
+9 examines the feasibility of each district's transition process. Second,
+10 for those districts deemed to have the most feasible paths to transi-
+11 tion, the legislation directs SED, in conjunction with the New York
+12 state energy research and development authority (NYSERDA) and the
+13 department of health (DOH), to assess a defined group of district char-
+14 acteristics to determine which districts shall receive prioritized
+15 transportation and building aid for the purchase of additional trans-
+16 mission capacity and/or ZEBs and the design and construction of related
+17 infrastructure.
+18 With respect to an individual district's ability to comply with the
+19 existing mandate, the legislation directs SED to require all school
+20 districts to complete a baseline transition feasibility analysis and to
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD09808-09-5
+
+S. 6893--B 2
+1 repeat that process every five years. If a district's analysis deter-
+2 mines that more than 50% of the district's regular bus routes are not
+3 deemed feasible for service by zero-emission school buses, then the
+4 district may maintain its existing fleet status quo until its next tran-
+5 sition feasibility analysis. On the other hand, if a district's analy-
+6 sis determines that more than 50% of the district's regular bus routes
+7 are serviceable by zero-emission buses, then the district must comply
+8 with the existing transition timeline for the percentage of regular
+9 routes deemed feasible and may maintain the status quo for the
+10 district's remaining non-feasible regular routes until the district
+11 completes its next transition feasibility analysis. The outer deadline
+12 for districts with substantial feasibility challenges to transition
+13 their fleets will be 2040.
+14 Despite the multi-faceted transition challenges faced by some
+15 districts, e.g., average low temperatures, topography and route distance
+16 vary widely across the state and substantially impact manufacturer's
+17 specifications and ZEB reliability, voters tend to focus exclusively on
+18 the variable of cost. Unfortunately, while there have been steady price
+19 declines in consumer electric vehicles since the transition deadlines
+20 were set in 2022, ZEBs still cost two to four times more than tradi-
+21 tional internal combustion engine (ICE) buses, and the average cost of a
+22 ZEB has increased by 8.7%. In addition, three years ago experts forecast
+23 parity between the total cost of ownership for ZEBs and ICEs to occur by
+24 2027, but now the forecast has extended to 2030 or beyond. Because the
+25 high cost for adding transmission and charging infrastructure to accom-
+26 modate ZEBs falls predominantly on individual school districts, public
+27 support for the transition frequently wanes when voters must choose
+28 between spending limited budget dollars on educational expenses or for
+29 reducing local tailpipe emissions. There is no real debate for many
+30 voters in such a scenario, particularly for rural school districts that
+31 have low pupil populations and lots of fresh air, but few resources and
+32 high educational needs.
+33 To promote a more effective transition with a greater impact sooner,
+34 the legislature finds that the state must initially concentrate the
+35 funding allocated to the transition on school districts with more than
+36 two thousand pupils. Within such group of school districts, the state
+37 shall then assess which districts, based on their county's childhood
+38 asthma ER visit rate, their transition feasibility analysis, SED's
+39 need/resource capacity index rating and per pupil spending, shall be
+40 prioritized to receive transportation and building aid relief for the
+41 purchase of additional transmission capacity and/or ZEBs and the design
+42 and construction of related infrastructure. Data indicates that, to
+43 date, only thirty-one of New York state's seven hundred thirty-one
+44 school districts have sought voter approval to purchase ZEBs. Voters in
+45 eight of the thirty-one districts voted "no".
+46 Upon review of all thirty-one school districts which voted, certain
+47 patterns have emerged:
+48 1. Districts with fewer than 2000 pupils voted "no" to ZEBs more
+49 frequently. Of the eight school districts which voted "no" to ZEBs, six
+50 have fewer than 2000 pupils and five of those six districts are rural
+51 districts.
+52 2. Rural districts with a "high" need/resource capacity index voted
+53 "no" more frequently. Of the five rural school districts that voted
+54 "no", SED categorizes four of those districts as "high" on its
+55 need/resource capacity index, with the fifth district categorized as
+56 "average".
+
+S. 6893--B 3
+1 3. DOH does not quantify childhood asthma ER visit rates as "high"
+2 concern in the counties of most rural districts. Four of the five rural
+3 school districts which voted "no" to ZEBs (with the exception of
+4 Edwards-Knox Central School District in St. Lawrence County) are located
+5 in counties of "low" concern for childhood asthma ER visit rates. (Per
+6 DOH, St. Lawrence County is of "moderate" concern.) Of the six school
+7 districts with less than 2000 pupils that voted "no", Mexico Central
+8 School - located east of SUNY Oswego along Lake Ontario - was the only
+9 suburban school district, however, it is located in a county with "low"
+10 concern for childhood asthma ER visit rates.
+11 Further patterns emerge when one contrasts the "no" votes with the
+12 "yes" votes.
+13 4. Districts with 2000 or more pupils voted "yes" to ZEBs more
+14 frequently. Fourteen of the sixteen school districts with 2000 or more
+15 pupils voted "yes" to ZEBs. In contrast, only nine of the fifteen school
+16 districts with less than 2000 pupils voted "yes". When examining the two
+17 districts with 2000 or more pupils which voted "no" - Churchville-Chili
+18 Central School District, a suburban district southwest of the City of
+19 Rochester, and Baldwinsville Central School District, a suburban
+20 district northwest of the city of Syracuse - the votes initially appear
+21 to be outliers, as each district has large pupil populations (of 3,688
+22 and 5,444, respectively) and is located in a county with "moderate" to
+23 "high" concern for childhood asthma ER visit rates. However, as noted
+24 below, another characteristic of each of those two districts undoubtedly
+25 plays a pivotal role in their voting results.
+26 5. Districts with an "average" need/resource capacity index rating and
+27 per pupil spending below $19,500 voted "no" to ZEBs. Each of the four-
+28 teen districts with more than 2000 pupils which voted "yes" to ZEBs have
+29 "low" or "average" need/resource capacity index ratings and spend more
+30 than $19,500 per pupil. In contrast, the two large districts which voted
+31 "no" - Churchville-Chili and Baldwinsville - each with "average"
+32 need/resource capacity index ratings and high childhood asthma ER visit
+33 rates, both spend less than $19,500 per pupil. Moreover, unlike small
+34 districts which voted "yes" but which have "average" need/resource
+35 capacity index ratings with per pupil spending exceeding $19,500, Bemus
+36 Point central school district, a small district with an "average"
+37 need/resource capacity index rating and less than $19,500 per pupil
+38 spending, voted "no" to ZEBs.
+39 While most school district administrators support the transition to
+40 ZEBs, the practical mechanics of the transition are challenging and
+41 costly. Administrators and voters alike feel the limitations of their
+42 local school district budgets, and as demonstrated by ZEB votes across
+43 the state, when put "between a rock and a hard place", voters will
+44 consistently prioritize educational spending over transportation spend-
+45 ing, even when the community's asthma health risks are high. Large
+46 districts with low per pupil spending need financial assistance to help
+47 them accomplish the transition. The state can achieve the largest
+48 advances in public health in the shortest amount of time if it initially
+49 prioritizes allocated funds to districts with 2000 or more pupils, no
+50 more than an "average" need/resource capacity index rating, and per
+51 pupil spending of less than $19,500. As a result of such policy priori-
+52 ties, large districts with demonstrated feasibility challenges and small
+53 districts with less than 2000 pupils will be given additional time to
+54 complete their transitions in accordance with their current transition
+55 feasibility analysis.
+
+S. 6893--B 4
+1 § 2. Subdivision 1 of section 3638 of the education law, as added by
+2 section 1 of subpart A of part B of chapter 56 of the laws of 2022, is
+3 amended to read as follows:
+4 1. For the purposes of this section "zero-emission school bus" shall
+5 mean a school bus that: is propelled by an electric motor and associated
+6 power electronics which provide acceleration torque to the drive wheels
+7 during normal vehicle operations and draws electricity from a hydrogen
+8 fuel cell or battery; or otherwise operates without direct emission of
+9 atmospheric pollutants, provided however that, notwithstanding the fore-
+10 going, for the purposes of this section such term shall include a hybrid
+11 battery electric bus with a second source of energy for propulsion.
+12 § 3. Section 3638 of the education law is amended by adding two new
+13 subdivisions 1-a and 1-b to read as follows:
+14 1-a. The department shall require every school district to complete a
+15 transition feasibility analysis before the end of the next succeeding
+16 full school year, or within fifteen months, as of the effective date of
+17 this subdivision, whichever is sooner, and every five years thereafter,
+18 to determine which if any regular routes can feasibly be serviced by
+19 zero-emission school buses, provided that existing feasibility studies
+20 completed within the two years preceding the adoption of this subdivi-
+21 sion shall meet the requirements of this subdivision. The analysis shall
+22 assess each district's transportation needs, current bus routes and
+23 alternative routes based on distance, topography, bridge and road
+24 infrastructure, average low temperatures, and a minimum end-of-route
+25 charge requirement of no less than twenty percent, consider the suffi-
+26 ciency of the school district's electric transmission capacity and
+27 infrastructure and assess the availability of and accessibility to state
+28 and/or federal funding for the purchase of zero-emission school buses
+29 and construction of associated infrastructure. For purposes of categor-
+30 izing schools pursuant to this section, the pupil population of a school
+31 district shall be the number most recently reported to the department or
+32 the number used in the district's current transition feasibility analy-
+33 sis, whichever is lower, and such number shall be deemed to remain
+34 unchanged until updated in the school district's next succeeding transi-
+35 tion feasibility analysis.
+36 1-b. Within six months of the effective date of this subdivision and
+37 annually thereafter, the department, in consultation with the New York
+38 state energy research and development authority and department of
+39 health, shall develop a list of school districts with two thousand or
+40 more pupils and rank their need for transportation and building aid for
+41 the purchase of zero-emission buses and transmission capacity and the
+42 design and construction of related infrastructure based on an assessment
+43 of each such district's current transition feasibility analysis, average
+44 per pupil spending, the most recent department of health data regarding
+45 the rate of emergency room visits for asthma per ten thousand persons
+46 aged zero to seventeen in the county in which such school district is
+47 located, and the needs/resource capacity group to which the commissioner
+48 has assigned such school district. To maximize the effectiveness of the
+49 state's limited pool of aid funding for the transition to zero-emission
+50 school buses, the commissioner shall prioritize the award of such allo-
+51 cated transportation and building aid to the high need school districts
+52 whose transition will likely have the highest positive health impact on
+53 the highest number of students.
+54 § 4. Subdivision 2 of section 3638 of the education law, as added by
+55 section 1 of subpart A of part B of chapter 56 of the laws of 2022, is
+56 amended to read as follows:
+
+S. 6893--B 5
+1 2. (a) [No later than July first, two thousand twenty-seven, every]
+2 Every school district with two thousand or more pupils shall, by no
+3 later than July first, two thousand thirty, abide by the findings of the
+4 district's current transition feasibility analysis, completed in accord-
+5 ance with subdivision one-a of this section, as set forth in this subdi-
+6 vision. If the findings of a school district's transition feasibility
+7 analysis indicate that:
+8 (i) [only purchase or lease zero-emission school buses when purchasing
+9 or leasing new buses;
+10 (ii) include requirements in any procurement for school transportation
+11 services that any contractors providing transportation services for the
+12 school district must only purchase or lease zero-emission school buses
+13 when purchasing or leasing new school buses; and
+14 (iii)] fifty percent or more of all regular routes are not deemed
+15 feasible for service by zero-emission school buses, then the school
+16 district may continue to operate, maintain or contract for non-zero-em-
+17 ission school buses and receive transportation aid for non-zero-emission
+18 school buses purchased or leased to make required transportation runs;
+19 or
+20 (ii) less than fifty percent of all regular routes are not deemed
+21 feasible for service by zero-emission school buses, then the school
+22 district (A) shall operate, maintain or contract for zero-emission
+23 school buses and receive transportation aid for zero-emission school
+24 buses purchased or leased for such regular routes as are deemed feasibly
+25 serviceable by a zero-emission school bus or for an equivalent percent-
+26 age of regular routes deemed feasible for service by such buses and (B)
+27 may operate, maintain or contract for non-zero-emission school buses for
+28 the remaining regular routes and receive transportation aid for non-
+29 zero-emission school buses purchased or leased to make required trans-
+30 portation runs for such remaining regular routes.
+31 (a-1) With respect to any zero-emission school buses operated or main-
+32 tained by a school district in accordance with the findings of the
+33 district's current transition feasibility analysis as set forth in para-
+34 graph (a) of this subdivision, such school district shall include
+35 requirements in any procurement for the manufacturing or retrofitting of
+36 a zero-emission school bus and charging or fueling infrastructure that
+37 the components and parts used or supplied in the performance of the
+38 contract or any subcontract thereto shall be produced or made in whole
+39 or substantial part in the United States, its territories or possessions
+40 and that final assembly of the zero-emission school bus and charging or
+41 fueling infrastructure shall occur in the United States, its territories
+42 or possessions.
+43 (a-2) Every school district with less than two thousand pupils shall,
+44 by no later than July first, two thousand thirty-seven:
+45 (i) only purchase or lease zero-emission school buses when purchasing
+46 or leasing new buses;
+47 (ii) include requirements in any procurement for school transportation
+48 services that any contractors providing transportation services for the
+49 school district must only purchase or lease zero-emission school buses
+50 when purchasing or leasing new school buses; and
+51 (iii) include requirements in any procurement for the manufacturing or
+52 retrofitting of a zero-emission school bus and charging or fueling
+53 infrastructure that the components and parts used or supplied in the
+54 performance of the contract or any subcontract thereto shall be produced
+55 or made in whole or substantial part in the United States, its territo-
+56 ries or possessions and that final assembly of the zero-emission school
+
+S. 6893--B 6
+1 bus and charging or fueling infrastructure shall occur in the United
+2 States, its territories or possessions.
+3 (b) The commissioner, in consultation with the New York state energy
+4 research and development authority and office of general services, may
+5 waive the contracting requirements set forth in [subparagraph (iii) of]
+6 paragraph [(a)] (a-1) of this subdivision if the commissioner determines
+7 that the requirements would not be in the public interest, would result
+8 in unreasonable costs, or that obtaining such zero-emission school buses
+9 and charging or fueling infrastructure components and parts in the
+10 United States would increase the cost of a school district's contract
+11 for zero-emission school buses and charging or fueling infrastructure by
+12 an unreasonable amount, or such zero-emission school busses and charging
+13 or fueling infrastructure components and parts cannot be produced, made,
+14 or assembled in the United States in sufficient and reasonably available
+15 quantities or of satisfactory quality. Such determination must be made
+16 on an annual basis no later than December thirty-first, after providing
+17 notice and an opportunity for public comment, and be made publicly
+18 available, in writing, on the department's website with a detailed
+19 explanation of the findings leading to such determination. If the
+20 commissioner has issued determinations for three consecutive years that
+21 no such waiver is warranted pursuant to this paragraph, then the commis-
+22 sioner shall no longer be required to provide the annual determinations
+23 required by this paragraph.
+24 (c) Any school district which encumbers funds and places an order for
+25 a zero-emission school bus prior to July first, two thousand thirty, but
+26 which does not receive delivery of such bus before such date, shall be
+27 deemed in compliance with the provisions of this subdivision.
+28 (d) For the purpose of this subdivision, "regular routes" are defined
+29 as daily runs to and from a student's home, child care or bus stop to
+30 the district school. Routes to transport students off the primary
+31 school campus for boards of cooperative educational services (BOCES)
+32 programs, special education placements at a distance greater than thirty
+33 miles from the district school and to transport homeless students and
+34 students to and from extracurricular activities shall be deemed "non
+35 regular" routes and exempted from any zero-emission school bus require-
+36 ment pursuant to this chapter.
+37 § 5. Subdivision 3 of section 3638 of the education law, as added by
+38 section 1 of subpart A of part B of chapter 56 of the laws of 2022, is
+39 amended to read as follows:
+40 3. [No later than July first, two thousand thirty-five, every] (a)
+41 Every school district with two thousand or more pupils shall, by no
+42 later than July first, two thousand thirty-seven:
+43 [(a)] (i) only operate and maintain zero-emission school buses; and
+44 [(b)] (ii) include requirements in any procurement for school trans-
+45 portation services that any contractors providing transportation
+46 services for the school district must only operate zero-emission school
+47 buses when providing such transportation services to the school
+48 district.
+49 (b) Every school district with less than two thousand pupils shall, by
+50 no later than July first, two thousand forty:
+51 (i) only operate and maintain zero-emission school buses; and
+52 (ii) include requirements in any procurement for school transportation
+53 services that any contractors providing transportation services for the
+54 school district must only operate zero-emission school buses when
+55 providing such transportation services to the school district.
+
+S. 6893--B 7
+1 § 6. Subdivision 4 of section 3638 of the education law, as added by
+2 section 1 of subpart A of part B of chapter 56 of the laws of 2022, is
+3 amended to read as follows:
+4 4. A school district may apply to the commissioner, and the department
+5 may grant a one-time extension of up to twenty-four months to comply
+6 with the requirements of subdivision [two] three of this section. The
+7 commissioner shall consider a school district's effort to meet the
+8 requirements of subdivision [two] three of this section when granting an
+9 extension, including but not limited to, procurement efforts made by the
+10 school district, applications for state or federal funds, changes needed
+11 to school district operations to meet the requirements of this section,
+12 employee training, and receipt of technical assistance, if any. Upon a
+13 school district receiving an extension, the New York state energy
+14 research and development authority, in consultation with the department,
+15 shall provide any additional technical assistance necessary to the
+16 district to meet the requirements of subdivision [two] three of this
+17 section.
+18 § 7. Subdivision 1 of section 3623-a of the education law is amended
+19 by adding a new paragraph a-1 to read as follows:
+20 a-1. Zero-emission bus transition feasibility analysis, conducted
+21 pursuant to subdivision one-a of section thirty-six hundred thirty-eight
+22 of this article;
+23 § 8. Paragraph e of subdivision 1 of section 3623-a of the education
+24 law is amended by adding two new subparagraphs 1-a and 7-a to read as
+25 follows:
+26 (1-a) salary for a zero-emission transportation transition planner;
+27 (7-a) costs incurred to transport an out-of-service zero-emission bus
+28 for storage and repairs;
+29 § 9. Subdivision 3 of section 35 of part A of chapter 56 of the laws
+30 of 2023 amending the education law relating to contracts for excellence,
+31 is amended to read as follows:
+32 3. Section nineteen of this act shall expire and be deemed repealed
+33 June 30, [2036] 2041; and
+34 § 10. This act shall take effect immediately.

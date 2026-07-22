@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - A6545A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6545--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 6, 2025
+___________
+Introduced by M. of A. ZACCARO, TAPIA, RAGA, McDONOUGH, NOVAKHOV, STECK,
+DAVILA, JACOBSON, GLICK, O'PHARROW, WOERNER, MILLER, K. BROWN, GALLA-
+HAN, HYNDMAN, CUNNINGHAM, REYES, YEGER, KASSAY, SHIMSKY, PIROZZOLO --
+read once and referred to the Committee on Consumer Affairs and
+Protection -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to imposing
+liability for damages caused by a chatbot impersonating certain
+licensed professionals
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new section
+2 390-f to read as follows:
+3 § 390-f. Liability for chatbot responses. 1. As used in this section,
+4 the following terms shall have the following meanings:
+5 (a) "Artificial intelligence system" or "AI system" shall mean a
+6 machine-based system or combination of systems, that for explicit or
+7 implicit objectives, infers, from the input it receives, how to generate
+8 outputs such as predictions, content, recommendations, or decisions that
+9 can influence physical or virtual environments. Artificial intelligence
+10 shall not include any software used primarily for basic computerized
+11 processes, such as anti-malware, anti-virus, auto-correct functions,
+12 calculators, databases, data storage, electronic communications, fire-
+13 wall, internet domain registration, internet website loading, network-
+14 ing, spam and robocall-filtering, spellcheck tools, spreadsheets, web
+15 caching, web hosting, or any tool that relates only to internal manage-
+16 ment affairs such as ordering office supplies or processing payments,
+17 and that do not materially affect the rights, liberties, benefits, safe-
+18 ty or welfare of any individual within the state.
+19 (b) "Chatbot" shall mean an artificial intelligence system, software
+20 program, or technological application that simulates human-like conver-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10388-03-5
+
+A. 6545--A 2
+1 sation and interaction through text messages, voice commands, or a
+2 combination thereof to provide information and services to users.
+3 (c) "Proprietor" shall mean any person, business, company, organiza-
+4 tion, institution or government entity that owns, operates or deploys a
+5 chatbot system used to interact with users. Proprietors shall not
+6 include third-party developers that license their chatbot technology to
+7 a proprietor.
+8 2. (a) A proprietor of a chatbot shall not permit such chatbot to
+9 provide any substantive response, information, or advice, or take any
+10 action which, if taken by a natural person:
+11 (i) would constitute a crime under section sixty-five hundred twelve
+12 or sixty-five hundred thirteen of the education law in relation to the
+13 professions whose licensure is governed under articles one hundred thir-
+14 ty-one, one hundred thirty-three, one hundred thirty-five, one hundred
+15 thirty-six, one hundred thirty-seven, one hundred thirty-nine, one
+16 hundred forty-one, one hundred forty-three, one hundred forty-five, one
+17 hundred forty-seven, one hundred fifty-three, one hundred fifty-four,
+18 and one hundred sixty-three of the education law; or
+19 (ii) would violate the provisions of article fifteen of the judiciary
+20 law prohibiting the practice or appearance as an attorney-at-law without
+21 being admitted and registered under such article.
+22 (b) A proprietor may not waive or disclaim this liability merely by
+23 notifying consumers that they are interacting with a non-human chatbot
+24 system.
+25 3. A person may bring a civil action to recover actual damages and, if
+26 it is found that such proprietor has willfully violated this section,
+27 the violator shall be liable for actual damages together with costs and
+28 reasonable attorneys' fees and disbursements incurred by the person
+29 bringing such action.
+30 4. Proprietors utilizing chatbots shall provide clear, conspicuous and
+31 explicit notice to users that they are interacting with an artificial
+32 intelligence chatbot program. The text of the notice shall appear in the
+33 same language the chatbot is using and in a size easily readable by the
+34 average viewer and no smaller than the largest font size of other text
+35 appearing on the website on which the chatbot is utilized.
+36 § 2. This act shall take effect on the ninetieth day after it shall
+37 have become a law.

@@ -1,0 +1,245 @@
+Title: 
+Official Title: 
+Source: versions - S4394A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4394--A
+2025-2026 Regular Sessions
+IN SENATE
+February 4, 2025
+___________
+Introduced by Sen. COMRIE -- read twice and ordered printed, and when
+printed to be committed to the Committee on Labor -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the labor law, in relation to automated employment deci-
+sion tools
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The labor law is amended by adding a new article 20-D to
+2 read as follows:
+3 ARTICLE 20-D
+4 AUTOMATED EMPLOYMENT DECISION TOOLS
+5 Section 750. Definitions.
+6 751. Anti-discrimination.
+7 752. Requirements for a deployer of an automated employment
+8 decision tool.
+9 753. Requirements for a developer of an automated employment
+10 decision tool.
+11 754. AI governance.
+12 755. Transparency.
+13 756. Enforcement.
+14 757. Compliance.
+15 § 750. Definitions. For the purposes of this article, the following
+16 terms shall have the following meanings:
+17 1. "Artificial intelligence" shall mean a machine-based system that
+18 can, for a given set of human-defined objectives, make predictions,
+19 recommendations, or decisions influencing real or virtual environments.
+20 An artificial intelligence system uses machine and human-based inputs
+21 to:
+22 (a) perceive real and virtual environments;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05036-02-5
+
+S. 4394--A 2
+1 (b) abstract such perceptions into models through analysis in an auto-
+2 mated manner; and
+3 (c) use model inference to formulate options for information or
+4 action.
+5 2. "Automated employment decision tool" shall mean a system or service
+6 that uses artificial intelligence and has been specifically developed
+7 and marketed to, or specifically modified to be, the controlling factor
+8 in making a consequential employment decision.
+9 3. "Consequential employment decision" shall mean a determination made
+10 by a deployer to hire, promote, or terminate the employment of an indi-
+11 vidual.
+12 4. "Controlling factor" shall mean a factor that is weighted more than
+13 all other factors combined.
+14 5. "Deployer" shall mean any person, partnership, or corporation that
+15 uses an automated employment decision tool for a consequential employ-
+16 ment decision.
+17 6. "Developer" shall mean any person, partnership, or corporation that
+18 knowingly designs, codes, or produces an automated employment decision
+19 tool, or substantially modifies an artificial intelligence system or
+20 service for the intended purpose of being the controlling factor in a
+21 consequential employment decision, whether for its own use or for use by
+22 a third party.
+23 7. "Impact assessment" shall mean a documented risk-based evaluation
+24 of an automated employment decision tool, in accordance with the minimum
+25 requirements in subdivision two of section seven hundred fifty-two of
+26 this article and subdivision three of section seven hundred fifty-three
+27 of this article, respectively.
+28 § 751. Anti-discrimination. 1. A deployer shall not use an automated
+29 employment decision tool in a manner that violates article fifteen of
+30 the executive law.
+31 2. Nothing in this section shall limit a deployer from processing data
+32 for the purpose of preventing or addressing unlawful discrimination or
+33 complying with this article or otherwise evaluating the effectiveness of
+34 an automated employment decision tool.
+35 § 752. Requirements for a deployer of an automated employment decision
+36 tool. 1. Within one year of the effective date of this section, and
+37 annually thereafter, a deployer shall perform an impact assessment for
+38 any automated employment decision tool that such deployer uses.
+39 2. The impact assessment required pursuant to subdivision one of this
+40 section shall include, but not be limited to:
+41 (a) A statement of the purpose of the automated employment decision
+42 tool and its benefits, uses, and deployment contexts;
+43 (b) A description of the automated employment decision tool's output
+44 and how such output is the controlling factor in a consequential employ-
+45 ment decision;
+46 (c) A summary of the type of data collected from an individual and
+47 processed by the automated employment decision tool when such tool is
+48 the controlling factor in a consequential employment decision;
+49 (d) A statement of the extent to which the deployer's use of the auto-
+50 mated employment decision tool is consistent with or varies from the
+51 developer's statement of intended use provided to such deployer pursuant
+52 to subdivision one of section seven hundred fifty-three of this article;
+53 (e) An assessment of any reasonably foreseeable risk of unlawful
+54 discrimination arising from the deployer's use of the automated employ-
+55 ment decision tool and a description of the safeguard implemented or
+56 that will be implemented by such deployer to mitigate such risk;
+
+S. 4394--A 3
+1 (f) A description of how the automated employment decision tool is
+2 used and monitored by the deployer when it is the controlling factor in
+3 a consequential employment decision; and
+4 (g) A description of how the automated employment decision tool has
+5 been or will be evaluated for validity or relevance.
+6 § 753. Requirements for a developer of an automated employment deci-
+7 sion tool. 1. A developer shall provide a deployer with a statement
+8 regarding the intended use of the automated employment decision tool and
+9 documentation regarding:
+10 (a) The known limitations of the consequential automated decision
+11 tool, including any reasonably foreseeable risk of unlawful discrimi-
+12 nation arising from its intended use;
+13 (b) A description of the type of data used to program or train the
+14 automated employment decision tool; and
+15 (c) A description of how the automated employment decision tool was
+16 evaluated for validity and explainability before sale or licensing.
+17 2. Within one year of the effective date of this section, and annually
+18 thereafter, a developer shall perform an impact assessment for any auto-
+19 mated employment decision tool made available for sale or licensing.
+20 3. The impact assessment required pursuant to subdivision one of this
+21 section shall include, but not be limited to:
+22 (a) A statement of the intended purpose of the automated employment
+23 decision tool and its intended benefits, uses, and deployment contexts;
+24 (b) A description of the automated employment decision tool's output
+25 and how such output is intended to be the controlling factor in conse-
+26 quential employment decisions;
+27 (c) A summary of the type of data the automated employment decision
+28 tool is intended to collect from an individual when it is the control-
+29 ling factor in a consequential employment decision;
+30 (d) An assessment of any reasonably foreseeable risk of unlawful
+31 discrimination arising from the intended use of the automated employment
+32 decision tool and a description of the safeguard implemented or that
+33 will be implemented by the developer to mitigate such risk; and
+34 (e) A description of how the automated employment decision tool can be
+35 monitored by the deployer when it is the controlling factor in a conse-
+36 quential employment decision.
+37 4. This section does not require a developer to disclose any trade
+38 secret, as defined by section 1839 of title 18 of the United States
+39 code, or other privileged or confidential business information to a
+40 deployer.
+41 § 754. AI governance. 1. A deployer or developer shall establish,
+42 document, implement, and maintain a governance program that contains
+43 reasonable administrative and technical safeguards to map, measure,
+44 manage, and govern the reasonably foreseeable risk of unlawful discrimi-
+45 nation associated with the use or intended use of an automated employ-
+46 ment decision tool.
+47 2. The safeguards required pursuant to subdivision one of this section
+48 shall be appropriate to:
+49 (a) The use or intended use of the automated employment decision tool;
+50 (b) The entity's role as a deployer, developer, or both;
+51 (c) The deployer or developer's size, complexity, and resources;
+52 (d) The nature, context, and scope of the activities of the deployer
+53 or developer in connection with the automated employment decision tool;
+54 and
+55 (e) The technical feasibility and cost of available tools, assess-
+56 ments, and other means used by the deployer or developer to map, meas-
+
+S. 4394--A 4
+1 ure, manage, and govern the risks associated with an automated employ-
+2 ment decision tool.
+3 3. A governance program required pursuant to subdivision one of this
+4 section shall be designed to, at a minimum:
+5 (a) Designate one or more employees to be responsible for overseeing
+6 and maintaining the governance program and compliance with this article;
+7 (i) An employee designated pursuant to this paragraph may assert to
+8 their employer a good faith belief that the design, production, or use
+9 of an automated employment decision tool fails to comply with the
+10 requirements of this article.
+11 (ii) An employer of an employee designated pursuant to this paragraph
+12 shall conduct a prompt and complete assessment of any compliance issue
+13 raised by such employee.
+14 (b) Identify and implement safeguards to address reasonably foreseea-
+15 ble risks of unlawful discrimination resulting from the use or intended
+16 use of an automated employment decision tool;
+17 (c) When acting as a deployer, conduct impact assessments in accord-
+18 ance with section seven hundred fifty-two of this article;
+19 (d) When acting as a developer, meet all obligations required pursuant
+20 to section seven hundred fifty-three of this article;
+21 (e) Conduct an annual and comprehensive review of the policies, prac-
+22 tices, and procedures to ensure compliance with this article;
+23 (f) Maintain the results of the impact assessment required by this
+24 article for two years after the completion of such impact assessment;
+25 and
+26 (g) Evaluate and make reasonable adjustments to administrative and
+27 technical safeguards in light of material changes in technology, the
+28 risks associated with the automated employment decision tool, the state
+29 of technical standards, and changes in the business arrangements or
+30 operations of the deployer or developer.
+31 § 755. Transparency. 1. A deployer shall, at or before the time of a
+32 consequential employment decision, notify the individual that is the
+33 subject of the consequential employment decision that an automated
+34 employment decision tool is in use.
+35 2. A deployer shall provide the following information to an individual
+36 notified pursuant to subdivision one of this section:
+37 (a) A statement of the purpose of the automated employment decision
+38 tool;
+39 (b) A plain language description of how the automated employment deci-
+40 sion tool is the controlling factor in the consequential employment
+41 decision; and
+42 (c) Contact information of the deployer.
+43 3. A deployer or developer shall make publicly available, in a readily
+44 accessible manner, a plain language policy that provides a summary of
+45 the following:
+46 (a) The type of automated employment decision tool currently in use or
+47 made available to others for use; and
+48 (b) How the deployer or developer manages any reasonably foreseeable
+49 risk of unlawful discrimination that arises from the automated employ-
+50 ment decision tool currently in use or made available to others for use.
+51 § 756. Enforcement. 1. The attorney general may initiate an investi-
+52 gation of a deployer or developer if a preponderance of the evidence
+53 establishes a suspicion of a violation of this article.
+54 (a) Upon the request of the attorney general, a deployer or developer
+55 shall, within forty-five days, provide to the attorney general any
+56 impact assessment performed pursuant to this article.
+
+S. 4394--A 5
+1 (b) The disclosure of an impact assessment pursuant to paragraph (a)
+2 of this subdivision does not constitute a waiver of any attorney-client
+3 privilege or work-product protection that might otherwise exist with
+4 respect to such impact assessment and any information contained therein.
+5 (c) A trade secret, as defined by section 1839 of title 18 of the
+6 United States code, that is contained in an impact assessment disclosed
+7 to the attorney general pursuant to paragraph (a) of this subdivision is
+8 exempt from article six of the public officers law.
+9 2. (a) The attorney general shall provide written notice to a deployer
+10 or developer of an alleged violation of this article at least forty-five
+11 days prior to commencing an enforcement action.
+12 (b) The deployer or developer may cure the noticed violation within
+13 forty-five days of receiving the written notice required by paragraph
+14 (a) of this subdivision.
+15 § 757. Compliance. A deployer or developer that complies with this
+16 article shall be deemed compliant with any law, regulation, rule,
+17 requirement, or standard related to the performance of an impact assess-
+18 ment, audit, or governance program, or the equivalent thereof, of an
+19 automated employment decision tool that is adopted, maintained, or
+20 enforced by a political subdivision of New York state.
+21 § 2. This act shall take effect immediately.

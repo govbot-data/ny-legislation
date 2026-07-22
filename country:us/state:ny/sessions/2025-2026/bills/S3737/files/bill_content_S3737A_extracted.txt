@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - S3737A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3737--A
+2025-2026 Regular Sessions
+IN SENATE
+January 29, 2025
+___________
+Introduced by Sen. SANDERS -- read twice and ordered printed, and when
+printed to be committed to the Committee on Judiciary -- recommitted
+to the Committee on Judiciary in accordance with Senate Rule 6, sec. 8
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the real property law and the banking law, in relation
+to preventing fraudulent deed transfers
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 333 of the real property law is amended by adding a
+2 new subdivision 4 to read as follows:
+3 4. (a) A recording officer shall not record or accept for recording
+4 any conveyance of real property affecting land in New York state unless
+5 such conveyance contains, or is accompanied by an addendum containing,
+6 explicit and bold language that reads, "YOU ARE HEREBY MADE AWARE THAT
+7 BY SIGNING THIS DEED YOU ARE TRANSFERRING OWNERSHIP OF YOUR LAND OR
+8 HOME", with a signature line under such language which shall contain a
+9 notarized signature of the transferor. Failure of a person or corpo-
+10 ration to use a deed without such warning language or if the transferor
+11 does not sign the acknowledgement to complete such deed transfer pursu-
+12 ant to this section shall be subject to civil penalties as follows:
+13 (i) two hundred fifty dollars for a first violation;
+14 (ii) five hundred dollars for a second violation within five years of
+15 a prior violation; or
+16 (iii) one thousand dollars for a third or subsequent violation within
+17 five years of a prior violation.
+18 (b) Each deed or addendum that fails to comply with this section shall
+19 constitute a separate violation. Civil penalties may be imposed by the
+20 secretary of state following notice and an opportunity to be heard, or
+21 may be recovered in a civil action brought by the attorney general.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07911-03-6
+
+S. 3737--A 2
+1 Nothing in this section shall limit existing remedies to void or set
+2 aside fraudulent conveyances under any other law.
+3 § 2. Section 6-n of the banking law is amended by adding a new subdi-
+4 vision 3 to read as follows:
+5 3. No deed transfer from a borrower to a mortgage servicer that is
+6 transferred as part of a modification of mortgage terms shall be consid-
+7 ered a valid deed transfer. The department shall have the authority to
+8 investigate any deed transfer that is in violation of this subdivision.
+9 § 3. Subdivision 1 of section 14 of the banking law is amended by
+10 adding a new paragraph (t) to read as follows:
+11 (t) To prescribe the methods and standards under which the department
+12 shall receive and investigate claims of fraudulent deed transfers,
+13 including, but not limited to deed transfers that are in violation of
+14 subdivision three of section six-n of this chapter.
+15 § 4. This act shall take effect immediately.

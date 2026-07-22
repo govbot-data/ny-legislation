@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - A6545B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6545--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 6, 2025
+___________
+Introduced by M. of A. ZACCARO, TAPIA, RAGA, McDONOUGH, NOVAKHOV, STECK,
+DAVILA, JACOBSON, GLICK, WOERNER, MILLER, K. BROWN, GALLAHAN, HYNDMAN,
+CUNNINGHAM, REYES, YEGER, KASSAY, SHIMSKY, PIROZZOLO, McDONALD,
+TORRES, BUTTENSCHON, SEMPOLINSKI, RA, LEVENBERG, GRIFFIN, GRAY, MANK-
+TELOW, CHLUDZINSKI, COOK, BROOK-KRASNY, NORBER, WRIGHT, FORREST, McMA-
+HON, LUNSFORD -- read once and referred to the Committee on Consumer
+Affairs and Protection -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- recommitted
+to the Committee on Consumer Affairs and Protection in accordance with
+Assembly Rule 3, sec. 2 -- reference changed to the Committee on
+Science and Technology -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to imposing
+liability for damages caused by a chatbot impersonating certain
+licensed professionals
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new section
+2 390-f to read as follows:
+3 § 390-f. Liability for chatbot responses. 1. As used in this section,
+4 the following terms shall have the following meanings:
+5 (a) "Artificial intelligence" shall have the same meaning as defined
+6 by section seventeen hundred of this chapter.
+7 (b) "Generative artificial intelligence" shall have the same meaning
+8 as defined by section seventeen hundred of this chapter.
+9 (c) "Chatbot" shall mean an artificial intelligence system, generative
+10 artificial intelligence, software program, or technological application
+11 that simulates human-like conversation in response to user inputs and
+12 interaction through text messages, voice commands, or a combination
+13 thereof to provide information and services to users.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10388-05-6
+
+A. 6545--B 2
+1 (d) "Covered profession" shall mean a profession whose licensure is
+2 governed under articles one hundred thirty-one, one hundred thirty-
+3 three, one hundred thirty-five, one hundred thirty-six, one hundred
+4 thirty-seven, one hundred thirty-nine, one hundred forty-one, one
+5 hundred forty-three, one hundred forty-five, one hundred forty-seven,
+6 one hundred fifty-three, one hundred fifty-four, or one hundred sixty-
+7 three of the education law or article fifteen of the judiciary law.
+8 (e) "Operator" shall mean any person, partnership, association, firm,
+9 or business entity, or any member, affiliate, subsidiary or beneficial
+10 owner of any partnership, association, firm, or business entity who
+11 owns, operates or deploys a chatbot used to interact with users. The
+12 term "operator" shall not include third-party developers that license
+13 their chatbot technology to an operator.
+14 2. (a) An operator of a chatbot shall not permit such chatbot to
+15 impersonate an actual or fictitious practitioner of a covered profes-
+16 sional in a manner that, if done by a natural person:
+17 (i) would constitute a crime under section sixty-five hundred twelve
+18 or sixty-five hundred thirteen of the education law in relation to a
+19 covered profession; or
+20 (ii) would violate the provisions of article fifteen of the judiciary
+21 law prohibiting the practice or appearance as an attorney-at-law without
+22 being admitted and registered under such article.
+23 (b) For the purposes of establishing a violation of subparagraph (i)
+24 or (ii) of paragraph (a) of this subdivision, an operator shall be
+25 deemed to know that a chatbot cannot lawfully practice a covered profes-
+26 sion or appear as an attorney-at-law.
+27 (c) An operator shall not waive or disclaim liability under this
+28 section by notifying consumers that they are interacting with a non-hu-
+29 man chatbot system.
+30 3. Operators utilizing chatbots shall provide clear, conspicuous and
+31 explicit notice to users that they are interacting with an artificial
+32 intelligence chatbot program. The text of the notice shall appear in the
+33 same language the chatbot is using and in a size easily readable by the
+34 average viewer and no smaller than the largest font size of other text
+35 appearing on the website on which the chatbot is utilized.
+36 4. Whenever the attorney general shall believe from evidence satisfac-
+37 tory to them that an operator has engaged in or is about to engage in
+38 any of the acts or practices stated to be unlawful in this section, they
+39 may bring an action in the name and on behalf of the people of the state
+40 of New York to enjoin an operator from continuing such unlawful acts or
+41 practices, and may seek civil penalties of up to fifteen thousand
+42 dollars per day for a violation of this section, and may seek such other
+43 remedies as the court may deem appropriate.
+44 5. The attorney general shall maintain a website to receive
+45 complaints, information or referrals from members of the public concern-
+46 ing violations of the provisions of this section.
+47 § 2. This act shall take effect on the ninetieth day after it shall
+48 have become a law.

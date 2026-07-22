@@ -1,0 +1,328 @@
+Title: 
+Official Title: 
+Source: versions - A9086A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9086--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+September 12, 2025
+___________
+Introduced by M. of A. KELLES -- read once and referred to the Committee
+on Corporations, Authorities and Commissions -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public service law, the public authorities law and
+the energy law, in relation to regulation of energy consumption by
+data centers
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York state sustainable data centers act".
+3 § 2. Legislative intent and findings. The legislature finds that data
+4 centers are significant energy and water consumers and significant
+5 contributors to air and water pollution. The expansion and operation of
+6 data centers across the state impairs New York state's ability to
+7 achieve the renewable energy and emissions reduction benchmarks required
+8 by the climate leadership and community protection act due to their
+9 significant use of energy and water and significant emissions of green-
+10 house gases generated through the power needs of their operation. Given
+11 the growing demand for the construction of data centers, there is a
+12 critical need to improve the energy efficiency of data centers and
+13 reduce their energy consumption, water consumption, reliance on fossil
+14 fuels, and emissions. Likewise, the large quantities of water used by
+15 data centers contribute an additional threat to the health of the
+16 state's waters, the ecosystems of which they are an integral part, and
+17 the residents of the state who rely on them. This act will ensure that
+18 economic development involving data centers is consistent with the
+19 state's environmental standards and principles, and that where renewable
+20 energy is used to power data centers, that such energy is being used
+21 responsibly, with the interests and health of the public in mind.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD09616-07-5
+
+A. 9086--A 2
+1 § 3. The public service law is amended by adding a new article 12 to
+2 read as follows:
+3 ARTICLE 12
+4 REGULATION OF DATA CENTER ENERGY CONSUMPTION
+5 Section 240. Definitions.
+6 241. Data center disclosure reports.
+7 242. Public engagement.
+8 243. Annual data center disclosure report updates.
+9 § 240. Definitions. For the purposes of this article:
+10 1. "Carbon dioxide equivalents" shall have the meaning given to such
+11 term in section 75-0101 of this chapter.
+12 2. "Data center" shall mean: (a) a structure, group of structures, or
+13 infrastructure within an existing structure for the central housing of
+14 server racks that are used for the interconnection and operation of
+15 information technology and network telecommunications equipment for the
+16 provision of data storage, data processing, or data transport services;
+17 and (b) all related facilities and infrastructure for power distrib-
+18 ution, environmental control, cooling and security required to deliver
+19 the desired service with respect to the specific data center.
+20 3. "Data center operator" shall mean the owner or operator of the data
+21 center, or other person who has comparable rights of use over a data
+22 center, including any person or entity responsible for allocating space
+23 for external use of information technology and network telecommuni-
+24 cations equipment within a data center.
+25 4. "Data center disclosure report" shall mean that report which data
+26 center operators must submit to the commission prior to construction of
+27 a data center, as required by section two hundred forty-one of this
+28 article.
+29 5. "Employee" shall have the meaning given to such term in section
+30 seven hundred forty of the labor law.
+31 6. "Host community" shall mean any municipality within which a data
+32 center, or any portion thereof, has been developed or proposed for
+33 development, or which suffers any negative impact from a data center.
+34 7. "Negative impact" shall mean any increase in emissions of regulated
+35 air contaminants as defined in subdivision twenty-two of section 19-0107
+36 of the environmental conservation law, discharges into waters of the
+37 state as described in subdivision two of section 17-0301 of the environ-
+38 mental conservation law, noise pollution, or any other form of pollution
+39 that affects a host community.
+40 8. "Renewable energy" shall have the same meaning as "renewable energy
+41 systems" as defined in section sixty-six-p of this chapter.
+42 9. "Regulated data center" shall mean a data center projected to have
+43 an energy usage capacity of five or more megawatts.
+44 10. "Bill credit" means a monthly monetary credit which is funded by a
+45 data center operator as further determined by the commission and appears
+46 on the utility bill of a low income or moderate income customer located
+47 in this state.
+48 11. "Hyperscale data center" shall mean a data center that takes up
+49 ten thousand square feet or more and uses at least five thousand serv-
+50 ers.
+51 12. "Micro data center" shall mean a data center that is enclosed
+52 within one standard server rack and does not support critical loads of
+53 more than one hundred fifty kilowatts.
+54 § 241. Data center disclosure reports. For any proposed regulated data
+55 center, the proposed data center operator shall submit a data center
+56 disclosure report to the department and the commission at least one
+
+A. 9086--A 3
+1 hundred eighty days prior to commencing any construction activities
+2 related to a regulated data center. The report shall contain relevant
+3 information regarding the proposed regulated data center, including:
+4 1. (a) the host community or communities in which the regulated data
+5 center will be located; and
+6 (b) the organization of the planned regulated data center as a single
+7 operator enterprise or managed data center, colocated facility, hypers-
+8 cale data center, micro data center, or a container or modular data
+9 center.
+10 2. the number of full-time and part-time employees the data center
+11 operator intends to employ at the planned regulated data center and
+12 relevant demographic information including but not limited to:
+13 (a) the education levels of the employees intended to be employed at
+14 the planned data center, with percentages included for highest education
+15 achieved including high school diploma, associate's degree, bachelor's
+16 degree, and higher level of education; and
+17 (b) the projected percentage of employees residing in the host commu-
+18 nity or communities.
+19 3. (a) the projected average energy usage of the planned data center
+20 per day and related information including but not limited to:
+21 (i) the projected type of energy being used that is neither fossil
+22 fuel nor renewable energy, where applicable;
+23 (ii) the forms of renewable energy expected to be utilized; and
+24 (iii) the projected percentage of energy usage that is fossil fuel,
+25 renewable energy, and neither renewable energy nor fossil fuel where the
+26 data center is operating at peak;
+27 (b) the projected average amount of energy usage per hour of the
+28 planned data center during peak load measured in kilowatt-hours and
+29 anticipated frequency of peak load per week;
+30 (c) the projected annual emissions of carbon dioxide equivalents
+31 produced to power the facility which are produced off-site;
+32 (d) the projected annual amount of waste heat produced on-site, meas-
+33 ured in British thermal units;
+34 (e) the projected percentage of the annual amount of recovered waste
+35 heat, that was transformed into energy to power the data center; and
+36 (f) the intended use for recovered waste heat to include but not be
+37 limited to general building heating, cooling systems, coolant system
+38 specifically for the capture of waste heat from processors.
+39 4. If a planned regulated data center is required to obtain and hold a
+40 permit pursuant to title fifteen of article fifteen of the environmental
+41 conservation law, the data center operator shall report:
+42 (a) the amount of water projected to be used annually and how that
+43 water will be used in the planned regulated data center; and
+44 (b) the average amount of water expected to be used daily measured in
+45 gallons.
+46 5. For any regulated data center making any discharge within the mean-
+47 ing of article seventeen of the environmental conservation law, the data
+48 center operator shall report:
+49 (a) the annual projected discharges by type and amount; and
+50 (b) how discharges will be treated, if at all, to remove pollutants
+51 and/or to what extent discharge temperature will be adjusted, if at all,
+52 before being discharged.
+53 6. The commission may promulgate rules requiring additional disclo-
+54 sures, as appropriate.
+55 § 242. Public engagement. The commission shall publicize the data
+56 disclosure report on its website within ten days of receiving such
+
+A. 9086--A 4
+1 report. The data center operator shall hold at least two public hearings
+2 within sixty days after submitting its data center disclosure report to
+3 the commission. At least one of the two public hearings must be held
+4 within the host community where the data center operator plans to locate
+5 its data center. The data center operator shall provide at least thirty
+6 days advance notice to residents of host communities of any planned
+7 public hearings. Notice of public hearings shall include the time,
+8 place, and location of each public hearing, a summary of the proposed
+9 data center project, and the specific location of the planned data
+10 center. Methods of providing notice to a host community shall include,
+11 but shall not be limited to, coverage in any print or digital publica-
+12 tion produced by local, community, and ethnic media. During a public
+13 hearing conducted pursuant to this section, the data center operator
+14 must explicitly disclose and present its finding under section two
+15 hundred forty-three of this article in clear and concise language
+16 comprehensible for members of the public in general. It shall also
+17 address the efforts it will make to reduce any negative impacts to the
+18 host community and its environment that the planned data center may
+19 cause. A draft of the data center disclosure report shall be made
+20 publicly available no later than thirty days prior to the first hearing.
+21 § 243. Annual data center disclosure report updates. 1. A regulated
+22 data center operator shall submit an annual data disclosure report to
+23 the commission, which the commission shall post on its website within
+24 fifteen days of receipt. Data center operators shall include all changes
+25 to the disclosures required pursuant to section two hundred forty-one of
+26 this article from year-to-year. Additionally, annual reports shall
+27 include but not be limited to information regarding the data center
+28 operator's efforts toward greater energy efficiency and overall sustain-
+29 ability that year. Such findings shall be presented in clear and
+30 concise language readily comprehensible for members of the general
+31 public.
+32 2. Specifically, data center operators shall report:
+33 (a) Efforts made to reduce energy consumption within the past year;
+34 (b) A comparison of the year's energy consumption to the initial
+35 projected amounts outlined in subdivision three of section two hundred
+36 forty-one of this article, and, following the first year, a comparison
+37 to the year before;
+38 (c) A projection for energy usage for the next year, that includes the
+39 same information as required by subdivision three of section two hundred
+40 forty-one of this article;
+41 (d) Efforts made to reduce fossil fuel consumption and increase the
+42 percentage of energy use of, or support for renewable energy within the
+43 past year, with a comparison of the year's fossil fuel consumption to
+44 the projected amount, and, following the first year, a comparison to the
+45 year before;
+46 (e) Efforts made to reduce water consumption within the past year;
+47 (f) (i) For data centers that are required to obtain and hold a permit
+48 pursuant to title fifteen of article fifteen of the environmental
+49 conservation law, a comparison of the year's water usage to the project-
+50 ed amount, and, following the first year, a comparison to the year
+51 before, expressed in gallons; and
+52 (ii) For data centers that are required to have a permit pursuant to
+53 title fifteen of article fifteen of the environmental conservation law,
+54 a projection for water usage for the next year, disclosing the same
+55 information as required by subdivision four of section two hundred
+56 forty-one of this article;
+
+A. 9086--A 5
+1 (g) Efforts made to protect the environment and public from polluted
+2 water in the past year accompanied by measurements of actual water
+3 pollution in a manner to be determined by the department pursuant to
+4 regulations;
+5 (h) Efforts made to reduce waste heat and utilize waste heat to power
+6 the data center accompanied by measurements of actual heat waste emis-
+7 sion and reuse; and
+8 (i) Percentage of data center employees that live within the host
+9 community.
+10 3. In the event of any noncompliance with section two hundred forty-
+11 one or two hundred forty-three of this article, the department shall
+12 notify the data center operator. The data center operator shall have
+13 sixty days to cure such violation. If such violation has not been cured
+14 after sixty days, such data center shall be subject to fines of up to
+15 ten thousand dollars based on the severity and extent of the violation
+16 and shall be assessed another ten thousand dollar fine for every day
+17 they are late in complying with such sections. All funds collected under
+18 this article shall be deposited into the environmental protection fund
+19 established by section ninety-two-s of the state finance law.
+20 4. The department and the attorney general are authorized to enforce
+21 the provisions of this article.
+22 § 4. The public authorities law is amended by adding a new section
+23 1854-e to read as follows:
+24 § 1854-e. Energy consumption efficiency goals. 1. No later than one
+25 year after the effective date of this section, the authority, in
+26 conjunction with the federally designed bulk system operator, the public
+27 service commission, and the New York state climate action council shall
+28 determine reasonable energy consumption efficiency goals for the design
+29 and operation of data centers as defined in article twelve of the public
+30 service law, including, but not limited to, recycling of waste heat
+31 emitted from data centers into an energy source. Such goals shall align
+32 with the benchmarks set forth in the climate leadership and community
+33 protection act enacted by chapter one hundred six of the laws of two
+34 thousand nineteen and shall be reviewed and updated accordingly, annual-
+35 ly.
+36 2. A data center operator that has commenced operation prior to the
+37 effective date of this section shall have two years to comply with the
+38 energy consumption efficiency goals developed pursuant to this section.
+39 A data center operator that has commenced operation within one year of
+40 the effective date of this section shall have one year to comply with
+41 such energy consumption efficiency goals.
+42 § 5. The energy law is amended by adding a new article 19 to read as
+43 follows:
+44 ARTICLE 19
+45 DATA CENTERS
+46 Section 19-101. Fossil fuel power purchase agreements.
+47 § 19-101. Fossil fuel power purchase agreements. 1. Power purchase
+48 agreements for any energy generated through the consumption of fossil
+49 fuels shall not provide economic incentives or discounts to regulated
+50 data centers, as set forth in article twelve of the public service law.
+51 2. In furtherance of the goals set forth in the climate leadership and
+52 community protection act: (a) by two thousand thirty, at least one-third
+53 of all energy used by regulated data centers must be provided through
+54 power purchase agreements exclusively for renewable energy; and (b) by
+55 two thousand thirty-five, at least two-thirds of all energy used by
+56 regulated data centers shall be provided through power purchase agree-
+
+A. 9086--A 6
+1 ments exclusively for renewable energy; and (c) by two thousand forty,
+2 all energy used by regulated data centers shall be provided through
+3 power purchase agreements exclusively for renewable energy.
+4 3. For the purposes of this section, the following terms shall have
+5 the following meanings:
+6 (a) "Power purchase agreement" shall mean an agreement between a data
+7 center operator, a utility, an authority, or an independent power
+8 producer wherein the utility agrees to provide the data center electric-
+9 ity, or an independent power producer, over a defined period of time.
+10 (b) "Utility" shall have the same meaning as "utility company" as
+11 defined in section two of the public service law.
+12 § 6. The public service law is amended by adding a new section 76-a to
+13 read as follows:
+14 § 76-a. Data center surcharge and discount plan. 1. The public service
+15 commission is hereby authorized and directed, to initiate a proceeding
+16 within three months of this bill becoming law to establish a regulated
+17 data center surcharge that will be charged to all regulated data
+18 centers. The commission when determining the surcharge, shall ensure the
+19 surcharge will be sufficient to cover any rate increases resulting from
+20 transmission and distribution system upgrades that are required for
+21 regulated data centers to interconnect to the grid and operate, along
+22 with any increases in energy supply costs directly resulting from the
+23 operations of data centers.
+24 2. All monies collected from the regulated data center surcharge,
+25 excluding any reasonable and prudently incurred utility administrative
+26 costs associated from collecting the surcharge, shall be directed to the
+27 energy affordability program created within the department case docket
+28 14-M-0565, in the Order Adopting Low Income Program Modifications and
+29 Directing Utility Filings, Proceeding on Motion of the Commission to
+30 Examine Programs to Address Energy Affordability for Low Income Utility
+31 Customers May 20, 2016, or any successor programs.
+32 3. The commission shall authorize each electric utility corporation to
+33 establish an account that is solely used for storing the proceeds of the
+34 regulated utility data center surcharge, and once every year, upon
+35 review and approval from the commission, shall transfer those proceeds
+36 to their energy affordability program customers in the form of monthly
+37 bill credits.
+38 4. This proceeding shall include a public comment period of at least
+39 sixty days and four public hearings in different regions of the state.
+40 5. Within one year of the effective date of this section the commis-
+41 sion shall issue an order requiring all electric corporations to imple-
+42 ment a surcharge on regulated data centers within their service territo-
+43 ries. The commission shall review and update this surcharge for
+44 regulated data centers once every three years.
+45 § 7. This act shall take effect one year after it shall have become a
+46 law.

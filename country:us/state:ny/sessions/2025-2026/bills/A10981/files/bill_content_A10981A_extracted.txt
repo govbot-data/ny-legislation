@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - A10981A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10981--A
+IN ASSEMBLY
+April 14, 2026
+___________
+Introduced by M. of A. BURDICK -- read once and referred to the Commit-
+tee on Labor -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the labor law, in relation to prohibiting non-compete
+agreements for certain medical professionals
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The labor law is amended by adding a new section 191-d to
+2 read as follows:
+3 § 191-d. Non-compete agreements; medical professionals. 1. As used in
+4 this section, the following terms shall have the following meanings:
+5 (a) "Covered health related professional" means a physician licensed
+6 pursuant to article one hundred thirty-one of the education law, a
+7 physician assistant licensed pursuant to article one hundred
+8 thirty-one-B of the education law, a chiropractor licensed pursuant to
+9 article one hundred thirty-two of the education law, a dentist licensed
+10 pursuant to article one hundred thirty-three of the education law, a
+11 perfusionist licensed pursuant to article one hundred thirty-four of the
+12 education law, a veterinarian licensed pursuant to article one hundred
+13 thirty-five of the education law, a physical therapist licensed pursuant
+14 to article one hundred thirty-six of the education law, a pharmacist
+15 licensed pursuant to article one hundred thirty-seven of the education
+16 law, a nurse licensed pursuant to article one hundred thirty-nine of the
+17 education law, a podiatrist licensed pursuant to article one hundred
+18 forty-one of the education law, an optometrist licensed pursuant to
+19 article one hundred forty-three of the education law, a psychologist
+20 licensed pursuant to article one hundred fifty-three of the education
+21 law, an occupational therapist licensed pursuant to article one hundred
+22 fifty-six of the education law, a speech pathologist or audiologist
+23 licensed pursuant to article one hundred fifty-nine of the education
+24 law, or a mental health practitioner licensed pursuant to article one
+25 hundred sixty-three of the education law.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14831-03-6
+
+A. 10981--A 2
+1 (b)(i) "Non-compete agreement" means any agreement, or clause
+2 contained in any agreement, between an employer and a covered health
+3 related professional that:
+4 (1) Prohibits the covered health related professional from engaging in
+5 the practice of medicine with a new employer;
+6 (2) Imposes financial penalties or repayment obligations, or requires
+7 reimbursement of bonuses, training expenses, or similar payments that:
+8 (A) apply to a covered health related professional that has been
+9 employed by:
+10 (I) a hospital;
+11 (II) a parent company of a hospital;
+12 (III) an affiliated manager of a hospital; or
+13 (IV) a hospital system; and
+14 (B) are based solely or primarily on the covered health related
+15 professional's decision to continue engaging in the practice of medicine
+16 with a new employer;
+17 (3) Requires the covered health related professional as a condition of
+18 engaging in the practice of medicine with a new employer, regardless of
+19 geographic area or specialty, to:
+20 (A) obtain employer consent; or
+21 (B) submit to equitable relief; or
+22 (4) Imposes indirect restrictions that have the effect of limiting or
+23 deterring the covered health related professional's practice of medicine
+24 with a new employer.
+25 (ii) The term "non-compete agreement" does not include nondisclosure
+26 agreements that protect confidential business information or trade
+27 secrets.
+28 2. No employer or its agent, or the officer or agent of any corpo-
+29 ration, partnership, limited liability company, not-for-profit corpo-
+30 ration or association or other entity, shall seek, require, demand or
+31 accept a non-compete agreement from any covered health related profes-
+32 sional. Any non-compete agreement sought, required, demanded or accepted
+33 after the effective date of this section shall be null, void, and unen-
+34 forceable.
+35 3. (a) A covered health related professional, may bring a civil action
+36 in a court of competent jurisdiction against any employer or persons
+37 alleged to have violated this section. A covered health related profes-
+38 sional shall bring such action within two years of the later of: (i)
+39 when the prohibited non-compete agreement was signed; (ii) when the
+40 covered health related professional learns of the prohibited non-compete
+41 agreement; (iii) when the employment or contractual relationship is
+42 terminated; or (iv) when the employer takes any step to enforce the
+43 non-compete agreement. The court shall have jurisdiction to void any
+44 such non-compete agreement and to order all appropriate relief, includ-
+45 ing enjoining the conduct of any person or employer; ordering payment of
+46 liquidated damages; and awarding lost compensation, compensatory
+47 damages, reasonable attorneys' fees and costs to the covered health
+48 related professional.
+49 (b) For the purposes of this subdivision, liquidated damages shall be
+50 calculated as an amount not more than ten thousand dollars per covered
+51 health related professional. The court shall award liquidated damages to
+52 every covered health related professional affected under this section,
+53 in addition to any other remedies permitted by this section.
+54 4. Nothing in this section shall be construed or interpreted as limit-
+55 ing the protections of individuals under any other provision of federal,
+56 state, or local law, rule, or regulation relating to the ability of an
+
+A. 10981--A 3
+1 employer to enter into an agreement with a prospective or current
+2 covered health related professional that: (a) establishes a fixed term
+3 of service and/or exclusivity during employment; (b) prohibits disclo-
+4 sure of trade secrets; or (c) prohibits disclosure of confidential and
+5 proprietary client information.
+6 5. Nothing in this section shall be construed to amend, modify,
+7 impair, or otherwise affect the application of enforcement of section
+8 two hundred two-k of this chapter, nor shall it be interpreted to create
+9 any conflict or inconsistency with such provision.
+10 6. Notwithstanding any other provision of this section to the contra-
+11 ry, nothing in this section shall prohibit the inclusion and enforcement
+12 of non-compete agreements or other similar covenants in the sale of the
+13 goodwill of a business or the sale or disposition of a majority of an
+14 ownership interest in a business by a partner of a partnership, a member
+15 of a limited liability company, or an entity for:
+16 (a) any such partner of a partnership or member of a limited liability
+17 company owning at least a fifteen percent interest in such partnership
+18 or limited liability company; or
+19 (b) any such person or entity owning fifteen percent or more ownership
+20 interest in a business.
+21 7. Any non-compete agreement that is permissible or enforceable under
+22 this section shall:
+23 (a) meet all requirements for determining enforceability under the
+24 common law of New York, including but not limited to: (i) it is reason-
+25 able in time, geography, and scope; (ii) it does not impose an undue
+26 hardship on the employee; (iii) it does not harm the public; (iv) it is
+27 necessary to protect the employer's legitimate business interests; and
+28 (v) its restrictions are no greater than necessary to protect the legit-
+29 imate business interests of the employer. A non-compete agreement that
+30 is reasonable in time pursuant to subparagraph (i) of this paragraph
+31 shall not contain a term of restriction greater than one year; and
+32 (b) provide for the payment of salary during the period of enforcement
+33 of the non-compete agreement.
+34 8. No choice of law provision or choice of venue provision that would
+35 have the effect of avoiding or limiting the requirements of this section
+36 shall be enforceable if the covered health related professional is and
+37 has been, for at least thirty days immediately preceding the covered
+38 individual's cessation of employment, a resident of New York or employed
+39 in New York, including individuals who work remotely in another state
+40 but who report to a New York worksite or office or who report to a New
+41 York-based supervisor.
+42 9. Every employer shall inform their employees of their protections
+43 and rights under this section by posting a notice thereof pursuant to
+44 section forty-five of this chapter. Such notice shall be posted conspic-
+45 uously in easily accessible and well-lighted places customarily
+46 frequented by employees and applicants for employment.
+47 § 2. The labor law is amended by adding a new section 45 to read as
+48 follows:
+49 § 45. Notice to employees related to non-compete agreements. The
+50 department shall be tasked with developing a notice to inform employees
+51 of their protections and rights pursuant to section one hundred ninety-
+52 one-d of this chapter. Such notice shall be provided to employers for
+53 distribution to employees and posted on the department's website.
+54 § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+55 sion, section or part of this act shall be adjudged by any court of
+56 competent jurisdiction to be invalid, such judgment shall not affect,
+
+A. 10981--A 4
+1 impair, or invalidate the remainder thereof, but shall be confined in
+2 its operation to the clause, sentence, paragraph, subdivision, section
+3 or part thereof directly involved in the controversy in which such judg-
+4 ment shall have been rendered. It is hereby declared to be the intent of
+5 the legislature that this act would have been enacted even if such
+6 invalid provisions had not been included herein.
+7 § 4. This act shall take effect on the thirtieth day after it shall
+8 have become a law and shall be applicable to contracts entered into or
+9 modified on or after such effective date and shall have no retroactive
+10 effect; provided, however, that section two of this act shall take
+11 effect on the one hundred eightieth day after it shall have become a
+12 law. Effective immediately, the addition, amendment, and/or repeal of
+13 any rule or regulation necessary for the implementation of this act on
+14 its effective date are authorized to be made and completed on or before
+15 such effective date.
