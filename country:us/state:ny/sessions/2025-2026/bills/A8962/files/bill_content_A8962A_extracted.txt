@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - A8962A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8962--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+August 13, 2025
+___________
+Introduced by M. of A. ROZIC -- read once and referred to the Committee
+on Consumer Affairs and Protection -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general business law and the civil rights law, in
+relation to enacting the "New York fundamental artificial intelligence
+requirements in (FAIR) news act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York fundamental artificial intelligence requirements in (FAIR)
+3 news act".
+4 § 2. The general business law is amended by adding a new article 42-a
+5 to read as follows:
+6 ARTICLE 42-A
+7 ARTIFICIAL INTELLIGENCE IN NEWS MEDIA
+8 Section 1150. Legislative intent.
+9 1151. Definitions.
+10 1152. Disclosure to news media workers.
+11 1153. Disclosure to consumers.
+12 1154. Oversight of artificial intelligence systems.
+13 1155. Workplace protections.
+14 § 1150. Legislative intent. The legislature hereby finds that:
+15 1. New York is the center of the American news industry and journal-
+16 ists are a key part of the state's workforce.
+17 2. Artificial intelligence can quickly generate articles, summaries,
+18 news scripts, audio/visual and other media content that may seem profes-
+19 sionally done to a lay observer. However, there is ample evidence that
+20 content created by generative artificial intelligence: (a) contains
+21 false or misleading content; and (b) plagiarizes by deriving its content
+22 from original source material without permission or proper citation.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13382-03-5
+
+A. 8962--A 2
+1 These failures are a disservice to the public who relies on the news for
+2 accurate information about the world.
+3 3. As such, the government has a strong interest in the preservation
+4 of human news work. There is an urgent need to prevent news companies
+5 from using artificial intelligence at the expense of both the broader
+6 public and of news workers, including human reporters, editors, news
+7 writers, directors, producers, voice actors, graphic designers and other
+8 newsroom professionals.
+9 4. It is therefore the intent of the legislature to establish clear,
+10 meaningful protections for both journalists and the broader public to
+11 ensure that the integrity of the news and its workforce are safeguarded.
+12 § 1151. Definitions. For the purposes of this article, the following
+13 terms shall have the following meanings:
+14 1. "Artificial intelligence", "artificial intelligence technology", or
+15 "AI" means a machine-based system that can, for a given set of human-de-
+16 fined objectives, make predictions, recommendations, or decisions influ-
+17 encing real or virtual environments, and that uses machine- and human-
+18 based inputs to perceive real and virtual environments, abstract such
+19 perceptions into models through analysis in an automated manner, and use
+20 model inference to formulate options for information or action.
+21 2. "Automated employment decision-making tool" shall mean any software
+22 that uses algorithms, computational models, or artificial intelligence
+23 techniques, or a combination thereof, to materially automate or replace
+24 human decision-making regarding employment, including but not limited to
+25 wages and other compensation, hiring, selection for recruitment, disci-
+26 pline, promotion, and termination. "Automated employment decision-making
+27 tool" shall not include any software used primarily for basic computer-
+28 ized processes, such as calculators, spellcheck tools, autocorrect func-
+29 tions, spreadsheets, electronic communications, or any tool that relates
+30 only to internal management affairs such as ordering office supplies or
+31 processing payments, and that do not materially affect the rights,
+32 liberties, benefits, safety or welfare of any individual within the
+33 state.
+34 3. "Generative artificial intelligence" means a class of artificial
+35 intelligence models that are self-supervised and emulate the structure
+36 and characteristics of input data to generate derived synthetic content,
+37 including, but not limited to, images, videos, audio, text, and other
+38 digital content.
+39 4. "News media" shall mean any publication or programming, regardless
+40 of the medium or method of distribution, that provides news, weather,
+41 traffic, sports, or entertainment reports or programming. This includes
+42 but is not limited to newspapers, magazines, journals, periodicals,
+43 websites, newsletters, television or cable programming, radio or podcast
+44 programming, and internet or satellite-based content.
+45 § 1152. Disclosure to news media workers. News media employers shall
+46 fully disclose to workers when and how any generative artificial intel-
+47 ligence tool is used in the workplace as it relates to the creation of
+48 content, including, but not limited to, writing, recordings and tran-
+49 scripts. Such disclosure shall include a description of the artificial
+50 intelligence system and a summary of the purpose and use of such system.
+51 § 1153. Disclosure to consumers. Any news media content published,
+52 broadcast, or otherwise disseminated or accessible within the state of
+53 New York, which was substantially composed, authored, or otherwise
+54 created through the use of generative artificial intelligence shall
+55 conspicuously imprint on the top of the page, webpage, image, graphic,
+56 video or other visual or audio/visual content, or verbally orate at the
+
+A. 8962--A 3
+1 onset of audio content, that such content was substantially created by
+2 generative artificial intelligence. If the content is eligible for copy-
+3 right registration such disclosure requirement shall not apply.
+4 § 1154. Oversight of artificial intelligence systems. Any news media
+5 content, including stories, articles, audio, visuals or images, which
+6 are created in whole or in material part by generative artificial intel-
+7 ligence shall be reviewed by a human worker who has the authority to
+8 approve, deny, or modify any decision recommended or made by the auto-
+9 mated system before such content may be published with the disclosure
+10 under section eleven hundred fifty-three of this article.
+11 § 1155. Workplace protections. 1. News media employers shall not
+12 directly or through a third party authorize the training of a generative
+13 artificial intelligence system on the work product of a news media work-
+14 er without notice, consent and an opportunity to bargain over appropri-
+15 ate remuneration. A news media employer shall not penalize a news media
+16 worker for declining to consent to allow their work product to be used
+17 to train a generative artificial intelligence system.
+18 2. (a) The use of generative artificial intelligence or automated
+19 employment decision-making tools shall not diminish (i) the existing
+20 rights of employees pursuant to an existing collective bargaining agree-
+21 ment; or (ii) the existing representational relationships among employee
+22 organizations or the bargaining relationships between the employer and
+23 an employee organization.
+24 (b) The use of generative artificial intelligence systems shall not
+25 result in: (i) discharge, displacement or loss of position, including
+26 partial displacement such as a reduction in the hours of non-overtime
+27 work, wages, or employment benefits, or result in the impairment of
+28 existing collective bargaining agreements; or (ii) transfer of existing
+29 duties and functions previously performed by employees or workers.
+30 § 3. Section 79-h of the civil rights law is amended by adding a new
+31 subdivision (h) to read as follows:
+32 (h) Employers of professional journalists and newscasters shall estab-
+33 lish safeguards to protect journalistic sources and confidential materi-
+34 als gathered through location tracking, surveillance or any other means,
+35 which can be accessed by any artificial intelligence technology, as
+36 defined by section eleven hundred fifty-one of the general business law.
+37 § 4. Severability clause. If any clause, sentence, paragraph, subdivi-
+38 sion or section of this act shall be adjudged by any court of competent
+39 jurisdiction to be invalid, such judgment shall not affect, impair, or
+40 invalidate the remainder thereof, but shall be confined in its operation
+41 to the clause, sentence, paragraph, subdivision or section thereof
+42 directly involved in the controversy in which such judgment shall have
+43 been rendered. It is hereby declared to be the intent of the legislature
+44 that this act would have been enacted even if such invalid provisions
+45 had not been included herein.
+46 § 5. This act shall take effect on the sixtieth day after it shall
+47 have become a law.

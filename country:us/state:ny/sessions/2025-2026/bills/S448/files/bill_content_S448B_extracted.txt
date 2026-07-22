@@ -1,0 +1,522 @@
+Title: 
+Official Title: 
+Source: versions - S448B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+448--B
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. HOYLMAN-SIGAL, BASKIN, BRISPORT, BROUK, CLEARE,
+COMRIE, COONEY, FAHY, FERNANDEZ, GIANARIS, GONZALEZ, GOUNARDES, HARCK-
+HAM, HINCHEY, JACKSON, KAVANAGH, KRUEGER, LIU, MAY, MAYER, MYRIE,
+PARKER, RAMOS, RIVERA, C. RYAN, S. RYAN, SALAZAR, SANDERS, SCARCELLA-
+SPANTON, SEPULVEDA, SERRANO, SKOUFIS, WEBB -- read twice and ordered
+printed, and when printed to be committed to the Committee on Labor --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the labor law, in relation to enacting the "Empowering
+People in Rights Enforcement (EMPIRE) Worker Protection Act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Empowering People in Rights Enforcement (EMPIRE) Worker Protection
+3 Act".
+4 § 2. Legislative findings. 1. The legislature finds and declares that
+5 violations of the labor law are often systemic, affecting many workers.
+6 2. The legislature further finds and declares that despite the labor
+7 law's strong protections for workers, limits on the availability of
+8 public enforcement resources have deleterious effects on the marketplace
+9 by allowing abuses targeting workers to persist unprosecuted. To ensure
+10 the robust enforcement of the labor law, while minimizing the outlay of
+11 scarce state funds, this act allows private individuals, labor organiza-
+12 tions, and labor organizations deputized by the state to bring public
+13 enforcement actions in certain contexts in which the state does not have
+14 the means to fully enforce labor law protections.
+15 3. The legislature further finds and declares that the purpose of the
+16 EMPIRE Worker Protection Act is to create a means of empowering citizens
+17 as private attorneys general to enforce the New York labor law.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01897-04-5
+
+S. 448--B 2
+1 4. The legislature further finds and declares that the purpose of the
+2 EMPIRE Worker Protection Act is to incentivize private parties to
+3 recover civil penalties for the government that otherwise may not have
+4 been assessed and collected by overburdened state enforcement agencies.
+5 When the New York labor law is effectively enforced, it protects the
+6 interests of all New Yorkers and the state of New York. Such public
+7 enforcement actions are an efficient mechanism to limit systemic
+8 violations, will enforce the rights of more workers, and can benefit the
+9 department of labor with enhanced resources.
+10 5. The legislature further finds and declares that the purpose of the
+11 EMPIRE Worker Protection Act is to benefit those employers who are oper-
+12 ating within the labor law, and who, as a result, face unfair competi-
+13 tion from individuals and entities shirking the labor law.
+14 6. The legislature further finds and declares that the purpose of the
+15 EMPIRE Worker Protection Act is to deter employers from stealing wages
+16 or committing other violations of the New York labor law and raise the
+17 cost of noncompliance with the New York labor law.
+18 7. The legislature further finds and declares that the purpose of the
+19 EMPIRE Worker Protection Act is to incentivize labor organizations to
+20 aid working people to report violations of the New York labor law.
+21 8. The legislature further finds and declares that the purpose of the
+22 EMPIRE Worker Protection Act is to facilitate whistleblowers suffering
+23 from violations of the New York labor law to report abuses without fear
+24 of retaliation and intimidation.
+25 9. The legislature further finds and declares that the EMPIRE Worker
+26 Protection Act is part of a history both in New York state and in the
+27 United States of laws enabling private citizens to aid in public
+28 enforcement. In similar qui tam legislation enabling private citizens to
+29 aid in public enforcement, the resulting action is a public enforcement
+30 action.
+31 § 3. The labor law is amended by adding a new article 37 to read as
+32 follows:
+33 ARTICLE 37
+34 EMPOWERING PEOPLE IN RIGHTS ENFORCEMENT (EMPIRE) WORKER PROTECTION ACT
+35 Section 1150. Definitions.
+36 1151. Public enforcement action.
+37 1152. Procedure.
+38 1153. Non-application.
+39 § 1150. Definitions. Whenever used in this article:
+40 1. "affected employee" means any employee as defined by section two of
+41 this chapter who was employed by the alleged violator employer and
+42 against whom one of the alleged violations was committed, or was alleged
+43 to have been committed, as well as any person who is not classified by a
+44 business as an employee but who claims to be an employee and whose
+45 claims against the purported employer relate to this alleged misclassi-
+46 fication, whether or not that person has received full or partial relief
+47 from harm.
+48 2. "relator" means an affected employee, a whistleblower, a represen-
+49 tative organization, or an organizational deputy that acts as a plain-
+50 tiff in a public enforcement action under this chapter.
+51 3. "whistleblower" means any current or former employee, contractor,
+52 subcontractor, or employee of a contractor or subcontractor of the
+53 defendant with knowledge of the alleged violations that is independent
+54 of and materially adds to any publicly disclosed information about the
+55 alleged violations. Whistleblowers are not also "affected employees" if
+
+S. 448--B 3
+1 they do not seek civil penalties for violations that personally affected
+2 them in a public enforcement action under this chapter.
+3 4. "employer" means any employer as defined by section two of this
+4 chapter. The term "employer" shall not include a governmental agency.
+5 5. "representative organization" means a labor organization which
+6 exists and is constituted for the purpose, in whole or in part, of
+7 collective bargaining or of dealing with employers concerning griev-
+8 ances, terms or conditions of employment, is not a "company union" as
+9 defined by subdivision six of section seven hundred one of this chapter,
+10 and which has been selected by an affected employee or whistleblower to
+11 initiate a public enforcement action on the affected employee's or
+12 whistleblower's behalf, in written notice in such a manner as the
+13 commissioner may prescribe by regulation. Where a representative organ-
+14 ization is designated as the relator, the affected employee or whistle-
+15 blower may elect to have their name and personal identifying information
+16 be kept confidential until the relator, in its sole discretion, deems
+17 sharing such information is necessary to establish, litigate, mediate,
+18 settle, or otherwise pursue the claim.
+19 6. "public enforcement action" means an action brought under this
+20 article intended to enforce this chapter's protections enforceable by
+21 the commissioner. Nothing in this article shall be interpreted to
+22 permit a public enforcement action against a governmental agency.
+23 7. "commissioner" shall, for the purposes of this article, include the
+24 commissioner, and any division, board, commission, or part of the
+25 department authorized to impose or seek penalties or other remedies for
+26 violations of this chapter.
+27 8. "violation" means an employer's noncompliance with any of the
+28 requirements of the following articles of this chapter and with regu-
+29 lations and wage orders promulgated by the commissioner in implementing
+30 such articles:
+31 a. article six except sections one hundred ninety, one hundred nine-
+32 ty-one-a, one hundred ninety-six, one hundred ninety-six-a, one hundred
+33 ninety-eight-a, one hundred ninety-nine, and one hundred ninety-nine-a;
+34 b. article nineteen except sections six hundred fifty, six hundred
+35 fifty-one, six hundred fifty-three through six hundred sixty, six
+36 hundred sixty-two, and six hundred sixty-five;
+37 c. sections one hundred sixty, one hundred sixty-one, one hundred
+38 sixty-two, one hundred sixty-three-a, one hundred sixty-seven, and one
+39 hundred seventy of article five;
+40 d. article nineteen-A except sections six hundred seventy through six
+41 hundred seventy-two, six hundred seventy-four through six hundred seven-
+42 ty-eight, six hundred eighty, and six hundred eighty-three;
+43 e. article nineteen-B except sections six hundred ninety, six hundred
+44 ninety-three, and six hundred ninety-four;
+45 f. article nine except sections two hundred thirty, two hundred thir-
+46 ty-four through two hundred thirty-six, and two hundred thirty-eight;
+47 g. article twenty-five-A except sections eight hundred sixty, eight
+48 hundred sixty-a, eight hundred sixty-c through eight hundred sixty-f,
+49 and eight hundred sixty-i;
+50 h. article twenty-five-B except sections eight hundred sixty-one
+51 through eight hundred sixty-one-b;
+52 i. article twenty-five-C except sections eight hundred sixty-two and
+53 eight hundred sixty-two-a;
+54 j. article eight except sections two hundred twenty-e through two
+55 hundred twenty-four, two hundred twenty-four-b, and two hundred twenty-
+56 four-c;
+
+S. 448--B 4
+1 k. article twenty-C;
+2 l. sections two hundred, two hundred one-d, two hundred one-g, two
+3 hundred six-c, two hundred fifteen, and two hundred eighteen-b of arti-
+4 cle seven;
+5 m. section twenty-seven-d and section twenty-seven-e of article two;
+6 n. article thirty-six;
+7 o. article twenty-one-a; and
+8 p. any other worker protections that are added to this chapter after
+9 the effective date of this article, unless the enacting statute specif-
+10 ically excludes them from this definition.
+11 9. "organizational deputy" means a labor organization which exists and
+12 is constituted for the purpose, in whole or in part, of collective
+13 bargaining or of dealing with employers concerning grievances, terms or
+14 conditions of employment, and is not a "company union" as defined by
+15 subdivision six of section seven hundred one of this chapter, that has
+16 been appointed by the commissioner or the attorney general to represent
+17 the state as the relator in the public enforcement action. The commis-
+18 sioner or the attorney general shall have complete discretion to deter-
+19 mine what labor organizations may serve as their organizational deputy
+20 in a public enforcement action.
+21 § 1151. Public enforcement action. 1. A relator may initiate a public
+22 enforcement action to collect civil penalties on behalf of the commis-
+23 sioner for a violation impacting affected employees pursuant to the
+24 procedures specified in section one thousand fifty-two of this article.
+25 A relator may allege multiple violations that have affected different
+26 employees and may seek injunctive and declaratory relief that the state
+27 would be entitled to seek.
+28 2. a. For purposes of this section, whenever the commissioner has
+29 discretion to assess a civil penalty, a court is authorized to exercise
+30 the same discretion to assess a civil penalty. To the extent that the
+31 commissioner is authorized to determine that an employer has violated a
+32 provision of this chapter or regulation promulgated thereunder, in a
+33 public enforcement action, a court shall be authorized to determine that
+34 an employer has committed such a violation.
+35 b. For any violation defined in this article, except those for which a
+36 civil penalty is specifically provided, there is established a civil
+37 penalty of five hundred dollars for each affected employee per pay peri-
+38 od per violation. That civil penalty will increase beginning on January
+39 first, two thousand twenty-seven at the same rate that the minimum wages
+40 increase each year as specified in paragraph (b) of section six hundred
+41 fifty-two of this chapter or any successor method by which minimum wage
+42 rates are to be adjusted. The civil penalty rate shall be published
+43 annually by the commissioner. A court may not award a lesser amount,
+44 unless, based on the facts and circumstances of the particular case, the
+45 employer demonstrates that to do otherwise would result in an award that
+46 is unjust, arbitrary and oppressive, or confiscatory.
+47 c. In any civil action commenced pursuant to this article, the court
+48 shall allow a prevailing relator to recover all reasonable attorneys'
+49 fees, expert fees and other costs. The court may also allow a prevail-
+50 ing relator to recover all reasonable ancillary costs associated with
+51 serving as a relator. For the purposes of this article, the term
+52 "prevailing" includes a relator whose commencement of litigation has
+53 acted as a catalyst to effect policy change on the part of the defend-
+54 ant, regardless of whether that change has been implemented voluntarily,
+55 as a result of a settlement or as a result of a judgment in such
+56 relator's favor.
+
+S. 448--B 5
+1 d. Nothing in this section shall operate to limit an affected employ-
+2 ee's right to pursue or recover other remedies available under state or
+3 federal law, either separately or concurrently with an action taken
+4 under this section.
+5 e. Nothing in this section shall operate to limit the commissioner's
+6 or the attorney general's right to seek restitution and damages, where
+7 available, for affected employees in conjunction with a public enforce-
+8 ment action in which it has intervened.
+9 3. a. Civil penalties recovered in public enforcement actions shall
+10 be distributed as follows: where the commissioner or the attorney
+11 general has not intervened, or where the commissioner or the attorney
+12 general has appointed an organizational deputy to proceed as the rela-
+13 tor, forty percent to the relator; and sixty percent to the commissioner
+14 for enforcement of this chapter and education of employers and employees
+15 about their rights and responsibilities under this chapter, to be
+16 continuously appropriated to supplement and not supplant the funding to
+17 the agency for those purposes; where the commissioner or the attorney
+18 general has intervened, thirty percent to the relator; and seventy
+19 percent to the commissioner for enforcement of this chapter and educa-
+20 tion of employers and employees about their rights and responsibilities
+21 under this chapter, to be continuously appropriated to supplement and
+22 not supplant the funding to the agency for those purposes.
+23 b. The relator shall equitably distribute the share of penalties due
+24 the relator among affected employees. If the relator is an affected
+25 employee or whistleblower, they shall also be entitled to recover a
+26 service award from the penalties recovered, if they prevail in achieving
+27 relief, in whole or in part, for violations that affected other employ-
+28 ees. The service award shall be not less than five thousand dollars and
+29 not more than twenty thousand dollars, unless the amount recovered as
+30 civil penalties is less than twenty thousand dollars. The court shall
+31 determine the service award by taking due consideration of the burdens
+32 and risks assumed by the relator in prosecuting the action. If the rela-
+33 tor is a representative organization or an organizational deputy
+34 appointed by the commissioner or the attorney general, it shall distrib-
+35 ute all recovered penalties to affected employees but may recover
+36 reasonable attorneys' fees and costs incurred in prosecuting the action
+37 and ancillary costs associated with serving as a relator. The relator
+38 shall submit a distribution summary to the commissioner and the attorney
+39 general.
+40 4. The right to bring a public enforcement action under this article
+41 shall not be subject to private agreements between an affected employee
+42 and an employer or alleged employer, unless such agreements are collec-
+43 tively bargained and the bargaining agreement provides a forum for the
+44 enforcement of rights and remedies otherwise enforceable under this
+45 article. The right to represent the state with respect to violations
+46 affecting other workers shall not be waivable by private agreement,
+47 unless such agreements are collectively bargained and the bargaining
+48 agreement provides a forum for the enforcement of rights and remedies
+49 otherwise enforceable under this article, including an award of penal-
+50 ties authorized by this article.
+51 5. Notwithstanding any other provision of law, a public enforcement
+52 action to recover upon a penalty imposed by this article must be
+53 commenced within six years. The statute of limitations for bringing a
+54 public enforcement action under this article shall be tolled from the
+55 date a relator files a notice pursuant to section one thousand fifty-two
+56 of this article with the commissioner and the attorney general, or the
+
+S. 448--B 6
+1 commissioner or the attorney general commences an investigation, which-
+2 ever is earlier.
+3 6. The commissioner shall establish a database of public enforcement
+4 notices submitted pursuant to this article, including the parties, the
+5 disposition and any other information which the commissioner shall by
+6 regulation prescribe and shall make such database available to the
+7 public online. The commissioner shall also publish an annual report of
+8 total penalties recovered under this chapter.
+9 7. a. No employer or the employer's agent, employee, contractor,
+10 subcontractor or the officer or agent of any corporation, partnership,
+11 or limited liability company, or any other person shall discharge,
+12 demote, suspend, threaten, harass, or in any other manner discriminate
+13 against any person because of any lawful act done because:
+14 (i) the relator or potential relator brought or is perceived to have
+15 brought a public enforcement action;
+16 (ii) the relator or potential relator has provided information, caused
+17 information to be provided, or otherwise assisted in a public enforce-
+18 ment action or provided information, or caused information to be
+19 provided to a person with supervisory authority over the relator or
+20 potential relator regarding conduct that the relator or potential rela-
+21 tor reasonably believes constitutes a violation of this section; or
+22 (iii) the person believes that the relator or potential relator may
+23 bring a public enforcement action or cooperate with one.
+24 b. Any person affected by a violation of this subdivision, or any
+25 affected employee, whistleblower, representative organization, organiza-
+26 tional deputy, or the commissioner, or the attorney general may bring a
+27 public enforcement action for all appropriate relief, including enjoin-
+28 ing the conduct of any person or employer; ordering payment of civil
+29 penalties as provided by section two hundred fifteen of this chapter,
+30 costs and reasonable attorneys' fees to the employee by the person or
+31 entity in violation; and, where the person or entity in violation is an
+32 employer, ordering rehiring or reinstatement of the employee to the
+33 employee's former position with restoration of seniority. Any person
+34 affected by a violation of this subdivision may also bring a civil
+35 action in a court of competent jurisdiction against any employer or
+36 persons alleged to have violated the provisions of this subdivision
+37 pursuant to subdivision two of section two hundred fifteen of this chap-
+38 ter.
+39 c. There shall be a rebuttable presumption that any adverse actions
+40 taken against a relator within one hundred eighty days after the relator
+41 has filed an action under this chapter is retaliatory. Nothing in this
+42 subdivision shall be interpreted to prohibit an inference of retaliatory
+43 motive after one hundred eighty days after the relator has filed an
+44 action under this chapter.
+45 § 1152. Procedure. 1. No public enforcement action by a relator pursu-
+46 ant to section one thousand fifty-one of this article may be commenced:
+47 a. prior to sixty days after written notice has been given by the
+48 relator to the commissioner and to the attorney general. The relator
+49 shall submit a filing fee of seventy-five dollars to the commissioner,
+50 and the time periods in this section shall begin when notice and filing
+51 fee have been submitted. The fees required by this paragraph are subject
+52 to waiver in accordance with rules promulgated by the commissioner. The
+53 written notice shall be given in such a manner as the commissioner may
+54 prescribe by regulation, shall be construed in a light favorable to the
+55 relator, and shall include:
+56 (i) the name, address and contact information of the employer.
+
+S. 448--B 7
+1 (ii) the name, address, and contact information of the affected
+2 employee or whistleblower.
+3 (iii) if the action is brought by a representative organization, the
+4 name, address and contact information of the representative organiza-
+5 tion, its qualification as a representative organization as defined in
+6 this chapter, and the form on which the whistleblower or affected
+7 employee has designated the representative organization.
+8 (iv) if the action is brought by an affected employee or whistleblow-
+9 er, the name, address, and contact information of any labor organization
+10 that has assisted with the filing of the written notice, and who would
+11 be available to serve as an organizational deputy should they be so
+12 appointed by the commissioner or the attorney general.
+13 (v) the name, address and contact information of the relator's legal
+14 counsel, should one exist.
+15 (vi) a statement of the underlying claim.
+16 (vii) if the relator is a "whistleblower", the relator's knowledge of
+17 the alleged violations that is independent of and materially adds to
+18 publicly disclosed information.
+19 (viii) after searching the database established pursuant to subdivi-
+20 sion six of section one thousand fifty-one of this article for notices
+21 alleging the same facts and legal theories, a summary of such notices or
+22 statement that no such notices exist, provided that a notice filed by a
+23 pro se litigant may not be rejected for failure to conduct such a
+24 search.
+25 b. if the commissioner or the attorney general, at any time prior to
+26 the end of the sixty-day notice period prescribed in paragraph a of this
+27 subdivision or prior to commencement of such action, whichever is later,
+28 and upon written notice to the relator who provided the notice
+29 prescribed in paragraph a of this subdivision, has commenced and is
+30 actively prosecuting an administrative enforcement proceeding pursuant
+31 to this chapter relative to the alleged violation.
+32 c. if the commissioner or the attorney general, on the same facts and
+33 theories, cites a person within the timeframes set forth in this section
+34 for a violation of the same section or sections of this chapter under
+35 which the relator is attempting to recover a civil penalty or remedy on
+36 behalf of the relator or others.
+37 d. if the violation is of a posting or agency reporting requirement or
+38 agency filing requirement, except where the filing or reporting require-
+39 ment involves mandatory payroll or injury reporting.
+40 e. if the violation is for minor variations in the legal name or
+41 address of the employer in a wage statement or wage notice required
+42 under article six of this chapter, provided that the variations do not
+43 impair a worker's ability to promptly and easily identify the employer.
+44 2. The commissioner or the attorney general may, after receiving the
+45 notice, appoint an organizational deputy for the commissioner or the
+46 attorney general (based on who makes the appointment) to serve as the
+47 relator, instead of the person who filed the notice. That organizational
+48 deputy may then proceed with the public enforcement action on behalf of
+49 the state. If the commissioner or the attorney general has appointed an
+50 organizational deputy as the relator, that organizational deputy shall
+51 serve as the relator in accordance with all the other procedures
+52 outlined in this article. The decision to appoint an organizational
+53 deputy shall not be construed as the commissioner's or the attorney
+54 general's direct intervening in the public enforcement action.
+
+S. 448--B 8
+1 3. The commissioner or the attorney general may intervene in the
+2 public enforcement action and proceed with any and all claims in the
+3 action:
+4 a. as of right within the sixty-day notice period prescribed in para-
+5 graph a of subdivision one of this section;
+6 b. for good cause, as determined by the court, after the expiration of
+7 the sixty-day notice period prescribed in paragraph a of subdivision one
+8 of this section; or
+9 c. if a previous relator becomes unavailable to continue the public
+10 enforcement action, by appointing an organizational deputy for the
+11 commissioner or the attorney general (based on who makes the appoint-
+12 ment) to proceed with the public enforcement action on behalf of the
+13 state. If the commissioner or the attorney general has so appointed an
+14 organizational deputy, the organizational deputy shall serve as the
+15 relator in accordance with all the other procedures outlined in this
+16 article. The decision to appoint an organizational deputy shall not be
+17 construed as the commissioner or the attorney general directly interven-
+18 ing in the public enforcement action.
+19 4. If the commissioner or the attorney general intervenes in an
+20 action, the commissioner may take primary responsibility for litigating
+21 the action and shall not be bound by an act of the relator bringing the
+22 action. In such cases, the relator shall remain a party to the action.
+23 The commissioner or the attorney general may also intervene in the
+24 action for the limited purpose of filing a statement of interest or
+25 otherwise advancing the state's view about legal issues at stake in the
+26 action. If the commissioner or the attorney general has intervened for
+27 the purpose of taking primary responsibility for litigating the action,
+28 the commissioner or attorney general may dismiss or settle the action
+29 after the relator has been notified of the filing of the motion and has
+30 been provided with an opportunity to be heard, and the court determines
+31 that such dismissal or settlement is fair, adequate, reasonable, and in
+32 the public interest.
+33 5. Either the commissioner, the attorney general, or a federal or
+34 state court of competent jurisdiction shall review and approve any
+35 settlement of any civil action filed pursuant to this article or of any
+36 claim for which a relator has provided notice pursuant to this section.
+37 The commissioner, the attorney general, or the court shall approve the
+38 settlement if it is fair, reasonable and adequate, in light of the stat-
+39 utory purpose of the provision of this chapter alleged to have been
+40 violated and the purpose of this article.
+41 6. a. The relator shall, within ten days following commencement of a
+42 civil action pursuant to this article, provide the commissioner and the
+43 attorney general with a file-stamped copy of the complaint that includes
+44 the case number assigned by the court.
+45 b. If the commissioner or the attorney general so requests, the
+46 commissioner or the attorney general shall be served with copies of
+47 pleadings filed in the action and shall be supplied with copies of all
+48 deposition transcripts. The commissioner or the attorney general shall
+49 bear any costs associated with service of such pleadings and depositions
+50 if there are such costs.
+51 c. A copy of the court's judgment in any civil action filed pursuant
+52 to this article and any other order in that action that either provides
+53 for or denies an award of civil penalties under this article shall be
+54 submitted to the commissioner and the attorney general within ten days
+55 after entry of the judgment or order.
+
+S. 448--B 9
+1 d. Items required to be submitted to the commissioner under this
+2 subdivision shall be transmitted in such a manner as the commissioner
+3 shall prescribe for the filing of notices under paragraph a of subdivi-
+4 sion one of this section.
+5 7. Such regulations prescribed pursuant to paragraph a of subdivision
+6 one of this section shall provide for the right of the relator to
+7 furnish an amended notice, after the notice by the commissioner to the
+8 relator that the original notice was not in compliance with this section
+9 or the regulations issued thereunder and specifying with particularity
+10 what the deficiencies were in the original notice. Such notice and
+11 opportunity to amend shall be provided by the commissioner within sixty
+12 days of the original notice or the original notice shall be deemed in
+13 compliance with this section. The relator shall have thirty days from
+14 receiving notice from the commissioner that their original notice was
+15 not in compliance with this section to amend the notice.
+16 8. A public enforcement action shall be tried promptly, without regard
+17 to concurrent adjudication of private claims, including without regard
+18 to concurrent adjudication of claims for violations personally affecting
+19 the relator.
+20 9. No public enforcement action brought pursuant to this article shall
+21 be required to meet the requirements of Rule 23(a) of the Federal Rules
+22 of Civil Procedure or article nine of the civil practice law and rules.
+23 10. The rules governing pretrial discovery in a public enforcement
+24 action brought pursuant to this article shall be the same as those
+25 applicable to other civil actions. No special showing of merit or other
+26 additional requirement shall be imposed on a relator's discovery rights
+27 in such an action.
+28 11. A relator bringing an action pursuant to this article shall be
+29 entitled to discovery regarding the alleged violations as to all
+30 affected employees as defined in this article.
+31 12. When related public enforcement actions are pending, the parties
+32 shall immediately notify the courts overseeing such actions of the over-
+33 lap and submit a joint statement describing the overlap, which may
+34 propose a process to ensure the just, speedy, and efficient determi-
+35 nation of the actions. The court may appoint lead enforcement counsel
+36 with sole responsibility for asserting the related claims, with consid-
+37 eration of the following factors:
+38 a. the work that counsel has done in investigating the claims;
+39 b. counsel's experience litigating labor law and past performance in
+40 similar cases;
+41 c. counsel's diligence in advancing the case;
+42 d. the resources that counsel has committed and will commit to prose-
+43 cuting the case, and the relative resources at counsel's disposal; and
+44 e. the length of time each action has been pending.
+45 § 1153. Non-application. 1. This article shall not apply to the recov-
+46 ery of administrative and civil penalties in connection with the unem-
+47 ployment insurance law as contained in article eighteen of this chapter.
+48 2. This article shall not apply to the recovery of administrative and
+49 civil penalties in connection with the New York state labor relations
+50 act as contained in article twenty of this chapter.
+51 3. Severability. If any word, phrase, clause, sentence, paragraph,
+52 subdivision, section or part of this article or the application thereof
+53 to any person or circumstances shall be adjudged invalid by a court of
+54 competent jurisdiction, such order or judgment shall be confined in its
+55 operation to the controversy in which it was rendered, and shall not
+56 affect or invalidate the remainder of this article, but shall be
+
+S. 448--B 10
+1 confined in its operation to the word, phrase, clause, sentence, para-
+2 graph, subdivision, section or part thereof directly involved in the
+3 controversy in which such judgment shall have been rendered.
+4 4. This article shall be construed in light of its remedial purposes
+5 to expand the enforcement of this chapter.
+6 § 4. This act shall take effect immediately, and shall permit relators
+7 to bring actions concerning New York Labor Law violations that occurred
+8 within the six years prior to this act's effective date, unless the
+9 Labor Law provides a shorter statute of limitations with respect to the
+10 specific violation in question, in which case that shorter statute of
+11 limitations shall apply.
