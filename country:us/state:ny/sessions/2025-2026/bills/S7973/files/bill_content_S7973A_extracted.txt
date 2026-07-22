@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - S7973A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7973--A
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sen. MAYER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Civil Service and Pensions
+-- reported favorably from said committee and committed to the Commit-
+tee on Finance -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+calculating the earnings limitations for retired police officers
+employed part-time by certain municipalities
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 212 of the retirement and social security law is
+2 amended by adding a new subdivision 4 to read as follows:
+3 4. Notwithstanding the provisions of subdivisions one and two of this
+4 section, such earnings limitations shall not apply to a retired police
+5 officer, who has retired after having twenty years of vested service in
+6 a police pension system that fully vests at twenty years, who is
+7 employed part-time as a police officer in a village or town with a popu-
+8 lation of less than seven thousand five hundred as determined by the
+9 most recent federal decennial census, where at least seventy percent of
+10 such village or town's active-duty police force, not including civilian
+11 staff, consists of part-time officers. Such part-time police officer
+12 shall be permitted to work up to five hundred twenty hours in any
+13 consecutive six-month period in a calendar year based on hours worked as
+14 reported by the village or town on a monthly basis, with no suspension
+15 or diminution of retirement allowance. Any village or town that hires a
+16 retired police officer pursuant to this subdivision shall report such
+17 officer's days worked and salary earned to the New York state and local
+18 police and fire retirement system on a monthly basis. For any such
+19 officer whose earnings exceed the earnings limitations in subdivisions
+20 one and two of this section, the village or town employing such officer
+21 shall contribute to the New York state and local police and fire retire-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13074-03-5
+
+S. 7973--A 2
+1 ment system a percentage of such officer's excess earnings equivalent to
+2 the normal contribution rate as described in paragraph one of subdivi-
+3 sion b of section three hundred twenty-three of this chapter.
+4 § 2. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+This bill would allow retired police officers to continue to receive
+their full retirement benefit when reemployed as a police officer on a
+part-time basis for up to 520 hours in any consecutive six-month period,
+when such employment is by a village or town where (1) the municipal
+population is less than 7,500, and (2) at least 70% of the police force
+is employed on a part-time basis. Such retired police officers must have
+retired from a twenty-year retirement plan to be eligible for this bene-
+fit. The village or town would be required to pay employer contributions
+on any salary paid to such retirees exceeding the post-retirement earn-
+ings limit, currently $35,000.
+Insofar as this bill affects the New York State and Local Police and
+Fire Retirement System (NYSLPFRS), if this bill were enacted during the
+2025 Legislative Session, the direct cost incurred would be the
+retiree's pension benefit paid while post-retirement earnings exceed
+$35,000. The pension benefit expected to be paid by the NYSLPFRS during
+that 7-month period is estimated to be $48,000 per person.
+Further, we anticipate significant administrative costs to implement
+the provisions of this legislation.
+All costs will be shared by the State of New York and all participat-
+ing employers in NYSLPFRS and spread over future billing cycles.
+The number of members and retirees who could be affected by this
+legislation cannot be readily determined. If large numbers of retirees
+are rehired into such positions, significant annual costs would result.
+In addition to the costs quoted above, insofar as this proposal
+disrupts the usual pattern and timing of employee turnover (that is, if
+members retire earlier than assumed and participating employers hire a
+retiree instead of a new billable member), shifts in member behavior
+could generate losses that increase the average billing rate from 33.7%
+to 34.5%. The actual increase in billing rates will depend upon member
+and employer utilization, with the rates above representing an upper
+maximum.
+Based on the 2020 census, approximately 180 towns and villages partic-
+ipating in NYSLPFRS would satisfy the population requirement associated
+with this proposal. These towns and villages employ approximately 1,600
+police officers with annual salary of approximately $85 million as of
+March 31, 2024.
+Summary of relevant resources:
+Membership data as of March 31, 2024 was used in measuring the impact
+of the proposed change, the same data used in the April 1, 2024 actuari-
+al valuation. Distributions and other statistics can be found in the
+2024 Report of the Actuary and the 2024 Annual Comprehensive Financial
+Report. The actuarial assumptions and methods used are described in the
+2024 Annual Report to the Comptroller on Actuarial Assumptions, and the
+Codes, Rules and Regulations of the State of New York: Audit and
+Control. The Market Assets and GASB Disclosures are found in the March
+31, 2024 New York State and Local Retirement System Financial Statements
+and Supplementary Information.
+This fiscal note does not constitute a legal opinion on the viability
+of the proposed change nor is it intended to serve as a substitute for
+the professional judgment of an attorney.
+
+S. 7973--A 3
+This estimate, dated June 3, 2025, and intended for use only during
+the 2025 Legislative Session, is Fiscal Note No. 2025-183. As Chief
+Actuary of the New York State and Local Retirement System, I, Aaron
+Schottin Young, hereby certify that this analysis complies with applica-
+ble Actuarial Standards of Practice as well as the Code of Professional
+Conduct and Qualification Standards for Actuaries Issuing Statements of
+Actuarial Opinion of the American Academy of Actuaries, of which I am a
+member.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would remove the $35,000 Retirement
+and Social Security Law (RSSL) Section 212 post-retirement public
+employment earnings limit for certain police officers who retired with
+at least 20 years of service and are reemployed on a part-time basis as
+a police officer with certain villages or towns.
+ILLUSTRATION - ADDITIONAL RETIREMENT ALLOWANCE TO BE PAID
+Annual Annual Post-Retirement Earnings in Calendar Year
+Retirement
+Allowance $50,000 $60,000 $70,000 $80,000
+$50,000 $15,000 $20,833 $25,000 $28,125
+$60,000 $18,000 $25,000 $30,000 $33,750
+$70,000 $21,000 $29,167 $35,000 $39,375
+$80,000 $24,000 $33,333 $40,000 $45,000
+$90,000 $27,000 $37,500 $45,000 $50,625
+$100,000 $30,000 $41,667 $50,000 $56,250
+The resulting increase in employer contributions will be allocated to
+New York City.
+CENSUS DATA: The number of retirees who will return to public service
+in the future is unknown and the portion of the pension allowance
+currently suspended is highly dependent on their salary earned. The
+results above illustrate the additional pension amount that would be
+paid under this legislation given a retiree's post-retirement earnings
+and pension allowance.
+The preliminary census data collected as of June 30, 2024 for the
+potentially impacted service retiree population is summarized below.
+POLICE
+Receiving Members
+- Number Count: 23,281
+- Average Age: 56.5
+- Average Benefit: 74,500
+IMPACT ON PENSION PAYMENTS: Retirees below age 65 who return to public
+service and elect to be covered under the provisions of RSSL Section 212
+are permitted to earn an amount not exceeding a specific dollar limit
+(currently $35,000) in each calendar year. Once this dollar limit is
+reached, the retiree's retirement allowance is suspended for the remain-
+der of that calendar year. The amount of the retirement allowance
+suspended is contingent upon both individual post-retirement earnings
+and annual retirement allowances.
+The proposed legislation would remove the post-retirement earnings
+limit for police retirees who work part-time for (1) a town or village
+
+S. 7973--A 4
+with a population less than 7,500; (2) where at least 70% of such
+village or town's uniformed police force is part-time; and (3) the part-
+time work does not exceed 520 hours in a consecutive six-month period in
+a calendar year.
+ASSUMPTIONS AND METHODS: For illustrative purposes only, the table
+above presents the estimated additional retirement allowances paid
+(i.e., those benefits that would not be subject to suspension) for vari-
+ous sample combinations of post-retirement annual earnings and annual
+retirement allowance amounts.
+For purposes of this fiscal note, potential normal contributions to be
+paid by affected villages and towns to the New York State and Local
+Police and Fire Retirement System where post-retirement earning thresh-
+olds have been exceeded have not been included as an offset of cost to
+New York City.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2025-75 dated June 5,
+2025 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2025
+Legislative Session.

@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - A8797A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8797--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 5, 2025
+___________
+Introduced by M. of A. PHEFFER AMATO -- read once and referred to the
+Committee on Governmental Employees -- recommitted to the Committee on
+Governmental Employees in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+providing a heart disease presumption for certain members employed by
+the Triborough bridge and tunnel authority
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The retirement and social security law is amended by adding
+2 a new section 607-m to read as follows:
+3 § 607-m. Disabilities of Triborough bridge and tunnel members in
+4 certain cases. 1. Notwithstanding the provisions of any general, special
+5 or local law or administrative code to the contrary, but except for the
+6 purposes of the workers' compensation law and the labor law, any condi-
+7 tion of impairment of health caused by diseases of the heart, resulting
+8 in total or partial disability or death to a member employed by the
+9 Triborough bridge and tunnel authority as a bridge and tunnel officer,
+10 sergeant or lieutenant in a non-managerial position or any retired
+11 member of such authority who has been retired directly from service as a
+12 bridge and tunnel officer, sergeant or lieutenant in a non-managerial
+13 position for five or less years, who successfully passed a physical
+14 examination on entry into such service or subsequent thereto, which
+15 examination failed to reveal any evidence of such condition, shall be
+16 presumptive evidence that it was incurred in the performance and
+17 discharge of duty, unless the contrary be proved by competent evidence.
+18 2. Notwithstanding any other provision of law, a member employed by
+19 the Triborough bridge and tunnel authority as a bridge and tunnel offi-
+20 cer, sergeant or lieutenant in a non-managerial position retiring pursu-
+21 ant to the provisions of subdivision one of this section shall receive a
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07104-05-6
+
+A. 8797--A 2
+1 pension equal to three-fourths of their final average salary, and a
+2 retired member of such authority who has been retired directly from
+3 service as a bridge and tunnel officer, sergeant or lieutenant in a
+4 non-managerial position for five or less years and would have been able
+5 to retire pursuant to the provisions of subdivision one of this section
+6 if such subdivision had been in force at the time of such retired
+7 member's retirement, shall be entitled to receive a pension equal to
+8 three-fourths of their final average salary and have their pension
+9 recalculated commencing with the later of the effective date of this
+10 section or the first day that diseases of the heart resulted in the full
+11 or partial disability of such retired member.
+12 § 2. All past service costs associated with implementing the
+13 provisions of this act shall be borne by the city of New York.
+14 § 3. Notwithstanding any provision of law to the contrary, none of the
+15 provisions of this act shall be subject to the appropriation requirement
+16 of section 25 of the retirement and social security law.
+17 § 4. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would provide to certain active and
+retired NYCERS Tier 4 and 6 Triborough Bridge and Tunnel Authority
+(TBTA) officers a rebuttable statutory presumption that a qualifying
+disability or death related to heart disease was incurred in the
+performance of duty and provide a performance of duty disability benefit
+equal to 75% of the member's Final Average Salary.
+ILLUSTRATION - INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Thousands)
+One Incident One Incident Per Year
+Year Disability Death Disability Death
+2027 63 235 63 235
+2028 63 235 129 478
+2029 63 235 196 728
+2030 63 235 266 985
+2031 63 235 337 1,250
+2032 63 235 411 1,523
+2033 63 235 486 1,804
+2034 63 235 565 2,093
+2035 63 235 645 2,391
+2036 63 235 728 2,698
+2037 63 235 813 3,015
+2038 63 235 901 3,341
+2039 63 235 992 3,676
+2040 63 235 1,085 4,022
+2041 0 0 1,117 4,143
+2042 0 0 1,151 4,267
+2043 0 0 1,185 4,395
+2044 0 0 1,221 4,527
+2045 0 0 1,258 4,663
+2046 0 0 1,295 4,802
+2047 0 0 1,334 4,946
+2048 0 0 1,374 5,095
+2049 0 0 1,415 5,248
+2050 0 0 1,458 5,405
+2051 0 0 1,502 5,567
+Employer contribution impact beyond Fiscal Year 2051 is not shown.
+
+A. 8797--A 3
+While the past service costs would normally be borne by the TBTA, the
+proposed legislation assigns such costs to the City of New York.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2025 ($ in Thousands)
+Present Value (PV) Per Disability Per Death
+(1) PV of Employer Contributions: 537 1,990
+(2) PV of Employee Contributions: (3) 0
+Total PV of Benefits (1) + (2): 534 1,990
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+Changes in UAL per incident would be recognized as ongoing gain/loss.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+Recognized as Ongoing Gain/Loss Per Disability Per Death
+Increase (Decrease) in UAL: 537 K 1,990 K
+Number of Payments: 14 14
+Amortization Payment: 63 K 235 K
+CENSUS DATA: The number of members who will benefit in the future from
+this proposed legislation is unknown. The estimates presented herein are
+based on preliminary census data collected as of June 30, 2025. The
+census data for the potentially impacted population used to develop the
+average costs is summarized below.
+NYCERS
+Active Members
+- Number Count: 259
+- Average Age: 50.1
+- Average Service: 19.3
+- Average Salary: 127,300
+Receiving Members
+(within five years
+of retirement)
+- Number Count: 215
+- Average Age: 56.2
+IMPACT ON MEMBER BENEFITS: Currently, active Tier 4 or Tier 6 members
+of NYCERS, who are employed as TBTA officers and become disabled due to
+heart disease would generally be eligible for an applicable ordinary
+disability retirement benefit after attaining 10 years of service. The
+disability benefit is a lifetime payment equal to the greatest of 1/3 of
+Final Average Salary (FAS), 1/60th of FAS times service, or the service
+retirement benefit, if eligible.
+Under the proposed legislation, the performance of duty disability
+benefit for Tier 4 or Tier 6 NYCERS TBTA officers who are disabled from
+heart disease would be equal to 75% of FAS without an offset for Work-
+ers' Compensation.
+The ordinary death benefit for NYCERS TBTA officers is a lump sum
+payment generally equal to three times the member's salary plus a return
+of member contributions.
+
+A. 8797--A 4
+The performance of duty death benefit would generally be equal to a
+lifetime benefit of 50% of a member's wages earned during the last year
+of service, plus, if applicable, the Special Accidental Death Benefit
+payable under General Municipal Law section 208-f.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems.
+The number of members and eligible retirees who will benefit in the
+future from this proposed legislation is unknown. The cost of this
+proposed legislation could vary greatly depending on the number of
+future members who benefit and on their length of service, age, and
+salary history. In particular, the increase would be greater for a
+member who is not yet eligible for an ordinary disability benefit when
+disabled.
+The estimated financial impact for disabled members has been calcu-
+lated assuming 50% would have retired under the current ordinary disa-
+bility benefit, and 50% would have continued working if the proposed
+legislation were not passed.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-07 dated January 30,
+2026 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2026
+Legislative Session.

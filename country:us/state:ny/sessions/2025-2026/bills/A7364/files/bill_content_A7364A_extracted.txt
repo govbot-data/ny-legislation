@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - A7364A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7364--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 25, 2025
+___________
+Introduced by M. of A. PAULIN -- read once and referred to the Committee
+on Health -- recommitted to the Committee on Health in accordance with
+Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the social services law, in relation to automated iden-
+tification of eligible participants for the Medicare savings program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The social services law is amended by adding a new section
+2 131-sss to read as follows:
+3 § 131-sss. Automated identification of program participants. 1. For
+4 the purposes of this section, the following terms shall have the follow-
+5 ing meanings:
+6 (a) "Office" shall mean the state office of temporary and disability
+7 assistance.
+8 (b) "Department" shall mean the state department of health.
+9 (c) "SNAP" shall mean the supplemental nutrition assistance program
+10 administered by the state office of temporary and disability assistance.
+11 (d) "MSP" shall mean the Medicare savings program administered by the
+12 state department of health.
+13 2. The office shall update the SNAP application to allow program
+14 participants to consent, in a manner that is separate and apart from
+15 other requests for consent contained in the application, to the exchange
+16 of such participant's information to verify such enrollee's eligibility
+17 for MSP enrollment.
+18 3. The office shall coordinate with the department to facilitate the
+19 secure transmission of data through an interface with the office's
+20 information technology infrastructure.
+21 4. No less than once per quarter, the office, upon receipt of the
+22 required data elements from the department shall conduct automated file
+23 matching to identify SNAP program participants who seem to be eligible
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10678-02-6
+
+A. 7364--A 2
+1 for MSP. Within forty-five days of receipt that the SNAP program
+2 participant's eligibility for MSP is confirmed, the department shall
+3 enroll such SNAP participant in MSP.
+4 5. If the office and department determine that a federal agency must
+5 authorize a qualifying program to participate in the file-matching proc-
+6 ess, the office and department shall request such federal agency to
+7 authorize the program to participate. The office and department shall
+8 inform the assembly, the senate, and the governor of its determination
+9 regarding the need for federal agency authorization and provide a copy
+10 of the authorization request. The office and department shall provide
+11 updates to the assembly speaker, senate majority leader and the governor
+12 every ninety days until such federal agency has provided a final deter-
+13 mination regarding authorization.
+14 § 2. This act shall take effect on the one hundredth day after it
+15 shall have become a law.

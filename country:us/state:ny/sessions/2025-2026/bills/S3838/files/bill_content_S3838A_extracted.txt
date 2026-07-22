@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - S3838A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3838--A
+Cal. No. 657
+2025-2026 Regular Sessions
+IN SENATE
+January 30, 2025
+___________
+Introduced by Sen. HINCHEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Health -- reported favora-
+bly from said committee, ordered to first and second report, ordered
+to a third reading, amended and ordered reprinted, retaining its place
+in the order of third reading
+AN ACT to amend the public health law, in relation to the release of
+medical records in an electronic format
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 2 of section 18 of the public health law is
+2 amended by adding two new paragraphs (j) and (k) to read as follows:
+3 (j) Subject to the provisions of subdivision three of this section,
+4 upon the request of a qualified person, all electronic medical records
+5 required to be released pursuant to this section shall be made available
+6 to qualified persons in an electronic format through a web portal and
+7 such records shall be provided in a format that allows qualified persons
+8 to save the records to their own device.
+9 (k) Within one hundred eighty days of the effective date of this para-
+10 graph, the department shall establish rules and regulations, consistent
+11 with state and federal law and regulations, requiring any electronic
+12 medical records system to:
+13 (i) be developed with the capability to enable qualified persons
+14 access to such records in a single, secure electronic format for saving
+15 to their own device and which may be updated automatically by the
+16 provider; and
+17 (ii) establish appropriate policies and procedures to ensure that all
+18 applicable state and federal laws to protect the confidentiality of
+19 individual medical records, including electronic medical records, are
+20 followed.
+21 § 2. This act shall take effect on the one hundred eightieth day after
+22 it shall have become a law.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08155-02-5
