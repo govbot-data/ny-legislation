@@ -1,0 +1,253 @@
+Title: 
+Official Title: 
+Source: versions - S9960A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9960--A
+Cal. No. 884
+IN SENATE
+April 17, 2026
+___________
+Introduced by Sens. MYRIE, ADDABBO, CLEARE, GALLIVAN, GOUNARDES, HARCK-
+HAM, PERSAUD, RHOADS, SCARCELLA-SPANTON, SKOUFIS -- read twice and
+ordered printed, and when printed to be committed to the Committee on
+Codes -- reported favorably from said committee, ordered to first and
+second report, ordered to a third reading, amended and ordered
+reprinted, retaining its place in the order of third reading
+AN ACT to amend the penal law, in relation to establishing the crimes of
+benefiting from a labor trafficking venture, benefiting from a sex
+trafficking venture and aggravated benefiting from a sex trafficking
+venture; to amend the social services law, in relation to establishing
+a right of action for victims of benefiting from a trafficking
+venture; and to amend the civil practice law and rules and the judici-
+ary law, in relation to reviving such actions otherwise barred by the
+existing statute of limitations, granting trial preference to such
+actions, and directing the chief administrator of the courts to
+promulgate rules for the timely adjudication of certain revived
+actions
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "trafficking survivor recovery and accountability act".
+3 § 2. Legislative intent. The legislature finds that survivors of sexu-
+4 al exploitation and trafficking, as well as labor trafficking, including
+5 those induced through fraud, material misrepresentation, or knowing
+6 concealment, and where the exploitation or trafficking was sustained by
+7 third parties who derived financial, professional, or reputational bene-
+8 fit from its continuation, have been systematically denied meaningful
+9 civil redress under existing law, not because the underlying conduct was
+10 lawful, but because the redress available to such survivors was frag-
+11 mented across overlapping common-law theories of fraud, intentional
+12 infliction of emotional distress, civil conspiracy, and aiding and abet-
+13 ting tortious conduct, each subject to limitations periods that ran
+14 before survivors were positioned, psychologically or practically, to
+15 identify the conduct as actionable or to overcome the financial,
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15580-11-6
+
+S. 9960--A 2
+1 social, and evidentiary obstacles and age and power disparities to seek-
+2 ing redress against the perpetrators and the networks that enabled or
+3 benefitted from their exploitation. Delayed disclosure in cases involv-
+4 ing fraudulent inducement and third-party enabler networks often follow
+5 dependency relationships engineered through misrepresentation, financial
+6 and reputational coercion that persists long after the conduct itself,
+7 and the systematic insulation of beneficiary parties through corporate,
+8 fiduciary, and trust structures designed to defeat accountability. This
+9 act consolidates and clarifies remedies that existed at best only in
+10 principle by providing a defined statutory framework, a uniform burden
+11 of proof, and a bounded revival or retroactivity period in which survi-
+12 vors may seek redress against perpetrators, their enablers, and the
+13 estates and successor entities through which the proceeds of such
+14 conduct have been preserved. Civil provisions of this act are retroac-
+15 tive not only to recognize the harm done, and to deter future such harm
+16 to, sex trafficking victims, labor trafficking victims, and victims of
+17 sexual exploitation, but also to make possible the redress for injus-
+18 tices inflicted upon victims of sex trafficking, labor trafficking, and
+19 sexual exploitation who have suffered physical, psychological and other
+20 injuries and conditions, and who have for far too long been denied the
+21 compensation to which they were entitled because of prejudicial atti-
+22 tudes toward victims of sex trafficking, labor trafficking, and sexual
+23 exploitation. Criminal provisions of this act recognize that our current
+24 laws do not account for the networks and systems that allow for, benefit
+25 from, and perpetrate harm to victims of sex trafficking, labor traffick-
+26 ing, and sexual exploitation, and it is the legislature's intent that
+27 this act help deter and remediate the extreme harm done by sex traffick-
+28 ing, labor trafficking, and sexual exploitation.
+29 § 3. The penal law is amended by adding three new sections 135.35-a,
+30 230.34-b, and 230.34-c to read as follows:
+31 § 135.35-a Benefiting from a labor trafficking venture.
+32 1. A person is guilty of benefiting from a labor trafficking venture
+33 by obtaining anything of value due to such person participating in what
+34 such person knew or reasonably should have known was a labor trafficking
+35 venture.
+36 2. For the purposes of this section:
+37 (a) "labor trafficking venture" means any one person, individually, or
+38 two or more persons associated in fact, whether or not a legal entity,
+39 engaged in conduct which is a violation of paragraph (a) or (c) of
+40 subdivision three of section 135.35 of this article.
+41 (b) "participating in" means to knowingly assist, support or facili-
+42 tate a labor trafficking venture.
+43 Benefiting from a labor trafficking venture is a class D felony.
+44 § 230.34-b Benefiting from a sex trafficking venture.
+45 1. A person is guilty of benefiting from a sex trafficking venture by
+46 obtaining anything of value due to such person participating in what
+47 such person knew or reasonably should have known was a sex trafficking
+48 venture.
+49 2. For the purposes of this section:
+50 (a) "sex trafficking venture" means any one person, individually, or
+51 two or more persons associated in fact, whether or not a legal entity,
+52 engaged in conduct which is a violation of section 230.34 of this arti-
+53 cle other than paragraphs (a) and (c) of subdivision five of such
+54 section.
+55 (b) "participating in" means to knowingly assist, support or facili-
+56 tate a sex trafficking venture.
+
+S. 9960--A 3
+1 Benefiting from a sex trafficking venture is a class C felony.
+2 § 230.34-c Aggravated benefiting from a sex trafficking venture.
+3 1. A person is guilty of aggravated benefiting from a sex trafficking
+4 venture by obtaining anything of value due to such person participating
+5 in what such person knew or reasonably should have known was a sex traf-
+6 ficking venture.
+7 2. For the purposes of this section:
+8 (a) "sex trafficking venture" means any one person, individually, or
+9 two or more persons associated in fact, whether or not a legal entity,
+10 engaged in conduct which is a violation of paragraph (a) or (c) of
+11 subdivision five of section 230.34 or 230.34-a of this article.
+12 (b) "participating in" means to knowingly assist, support or facili-
+13 tate a sex trafficking venture.
+14 Aggravated benefiting from a sex trafficking venture is a class B
+15 felony.
+16 § 4. Subdivision (a) of section 483-aa of the social services law, as
+17 added by chapter 74 of the laws of 2007, is amended to read as follows:
+18 (a) "Human trafficking victim" means a person who is a victim of sex
+19 trafficking as defined in section 230.34 of the penal law [or], a victim
+20 of benefiting from a sex trafficking venture as defined in section
+21 230.34-b of the penal law, a victim of aggravated benefiting from a sex
+22 trafficking venture as defined in section 230.34-c of the penal law, a
+23 victim of labor trafficking as defined in section 135.35 of the penal
+24 law, or a victim of benefiting from a labor trafficking venture as
+25 defined in section 135.35-a of the penal law.
+26 § 5. Paragraph (i) of subdivision (c) of section 483-bb of the social
+27 services law, as amended by chapter 311 of the laws of 2021, is amended
+28 and two new paragraphs (viii) and (ix) are added to read as follows:
+29 (i) (A) An individual who is a victim of the conduct prohibited by
+30 section 230.33, 230.34, 230.34-a, 230.34-b, 230.34-c, 135.35, 135.35-a
+31 or 135.37 of the penal law may bring a civil action against the perpe-
+32 trator or [whoever] any person or entity, including but not limited to
+33 individuals, corporations, partnerships, trusts, or estates, who or that
+34 knowingly [advances or profits from, or whoever should have known he or
+35 she was advancing or profiting from, an act in violation of section]
+36 benefit, or attempt or conspire to benefit, financially or by receiving
+37 anything of value from participation in a venture which that person knew
+38 or should have known was engaged in an act in violation of section
+39 230.33, 230.34, 230.34-a, 135.35, 135.35-a or 135.37 of the penal law or
+40 from sexual exploitation by fraud to recover actual, compensatory and
+41 punitive damages, injunctive relief, any combination of those or any
+42 other appropriate relief, as well as reasonable attorney's fees. Such
+43 damages shall not be subject to discharge in bankruptcy proceedings.
+44 Such civil action may proceed regardless of whether the defendant was
+45 charged or convicted of a criminal offense and shall be determined under
+46 a preponderance of the evidence standard based on conduct prohibited by
+47 the enumerated sections or described in this subdivision.
+48 (B) For purposes of this paragraph, the term "sexual exploitation by
+49 fraud" shall mean inducing an individual through material false state-
+50 ments, misstatements or omissions to engage in or continue to engage in
+51 sexual acts by a person or entity that receives anything of value from,
+52 in connection with, or arising out of those acts.
+53 (C) For purposes of this paragraph, the term "anything of value"
+54 includes but is not limited to money, financial benefit, property,
+55 services, debt forgiveness, promises of compensation, business opportu-
+56 nities, or any other tangible or intangible benefit.
+
+S. 9960--A 4
+1 (viii) In any action brought pursuant to this subdivision, the trier
+2 of fact may award additional punitive damages upon a showing that the
+3 defendant's conduct was willful, wanton, reckless, malicious, or in
+4 conscious disregard of the rights and safety of the plaintiff.
+5 (ix) Notwithstanding any other provision of law to the contrary:
+6 (A) in no action brought pursuant to this subdivision shall the death
+7 of the human trafficking victim or the sexual exploitation by fraud
+8 victim bringing the action or the death of a person or dissolution of an
+9 entity, including but not limited to corporations, partnerships, trusts,
+10 or estates, against whom the action was brought be a defense against
+11 such action.
+12 (B) an action may be brought pursuant to this subdivision by the
+13 personal representative, estate, successors, assignees, or distributees
+14 of a human trafficking victim or a sexual exploitation by fraud victim.
+15 (C) in any action brought pursuant to this subdivision against the
+16 personal representative, estate, successors, assignees, or distributees
+17 of a deceased person liable therefor, the trier of fact may award any
+18 damages, including but not limited to punitive damages, permitted under
+19 this subdivision.
+20 § 6. The civil practice law and rules is amended by adding a new
+21 section 214-k to read as follows:
+22 § 214-k. Action by certain victims of trafficking. Notwithstanding
+23 any provision of law which imposes a period of limitation to the contra-
+24 ry and the provisions of any other law pertaining to the filing of a
+25 notice of claim or a notice of intention to file a claim as a condition
+26 precedent to commencement of an action or special proceeding, every
+27 civil claim or cause of action brought against any party alleging inten-
+28 tional or negligent acts or omissions by a person for physical, psycho-
+29 logical, or other injury or condition suffered as a result of conduct
+30 which would constitute benefiting from a sex trafficking venture or
+31 aggravated benefiting from a sex trafficking venture as defined in arti-
+32 cle two hundred thirty of the penal law, or benefiting from a labor
+33 trafficking venture as defined in article one hundred thirty-five of the
+34 penal law, which is barred as of the effective date of this section
+35 because the applicable period of limitation has expired, and/or the
+36 plaintiff previously failed to file a notice of claim or a notice of
+37 intention to file a claim, is hereby revived, and action thereon may be
+38 commenced not earlier than one month after, and not later than one year
+39 after the effective date of this section. In any such claim or action,
+40 dismissal of a previous action, ordered before the effective date of
+41 this section, on grounds that such previous action was time barred,
+42 and/or for failure of a party to file a notice of claim or a notice of
+43 intention to file a claim, shall not be grounds for dismissal of a
+44 revival action pursuant to this section. No civil claim or action
+45 brought against any party alleging intentional or negligent acts or
+46 omission by a person for physical, psychological or other injury or
+47 condition suffered as a result of conduct which would constitute bene-
+48 fiting from a sex trafficking venture or aggravated benefiting from a
+49 sex trafficking venture as defined in article two hundred thirty of the
+50 penal law or from sexual exploitation by fraud defined in section four
+51 hundred eighty-three-bb of the social services law shall be dismissed on
+52 the ground that the conduct did not form the basis for a civil claim or
+53 action at the time it was committed; provided, however, it is commenced
+54 not earlier than one month after, and not later than one year after the
+55 effective date of this section. The provisions of paragraph (i) of
+56 subdivision (c) of section four hundred eighty-three-bb of the social
+
+S. 9960--A 5
+1 services law shall apply to all such claims and causes of action
+2 asserted retroactively.
+3 § 7. Paragraph 7 of subdivision (a) of rule 3403 of the civil practice
+4 law and rules, as amended by chapter 203 of the laws of 2022, is amended
+5 to read as follows:
+6 7. any action which has been revived pursuant to section two hundred
+7 fourteen-g [or], two hundred fourteen-j or two hundred fourteen-k of
+8 this chapter.
+9 § 8. The judiciary law is amended by adding a new section 219-f to
+10 read as follows:
+11 § 219-f. Rules reviving certain actions; benefiting from a trafficking
+12 venture and for other purposes. The chief administrator of the courts
+13 shall promulgate rules for the timely adjudication of revived and
+14 retroactively commenced actions brought pursuant to section two hundred
+15 fourteen-k of the civil practice law and rules.
+16 § 9. Severability clause. If any clause, sentence, paragraph, subdivi-
+17 sion, section or part of this act shall be adjudged by any court of
+18 competent jurisdiction to be invalid, such judgment shall not affect,
+19 impair, or invalidate the remainder thereof, but shall be confined in
+20 its operation to the clause, sentence, paragraph, subdivision, section
+21 or part thereof directly involved in the controversy in which such judg-
+22 ment shall have been rendered. It is hereby declared to be the intent of
+23 the legislature that this act would have been enacted even if such
+24 invalid provisions had not been included herein.
+25 § 10. This act shall take effect immediately.

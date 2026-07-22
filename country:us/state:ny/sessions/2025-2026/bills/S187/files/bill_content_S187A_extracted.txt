@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - S187A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+187--A
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. HOYLMAN-SIGAL, CLEARE, FERNANDEZ, HARCKHAM, JACKSON,
+KRUEGER, MAY, RIVERA, ROLISON, SERRANO, SKOUFIS, WEBB -- read twice
+and ordered printed, and when printed to be committed to the Committee
+on Environmental Conservation -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to
+prohibiting the sale of certain products that contain regulated
+perfluoroalkyl and polyfluoroalkyl substances
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The environmental conservation law is amended by adding a
+2 new section 37-0123 to read as follows:
+3 § 37-0123. Prohibition against the sale of perfluoroalkyl and polyfluo-
+4 roalkyl substances in consumer and household products.
+5 1. For purposes of this section, the following terms have the follow-
+6 ing definitions:
+7 (a) "Covered product" means textile articles, rugs, fabric treatments,
+8 cookware, ski waxes, architectural paints, cleaning products, dental
+9 floss, or a component thereof.
+10 (b) "Regulated perfluoroalkyl and polyfluoroalkyl substances" or
+11 "regulated PFAS" means PFAS that are any of the following:
+12 (i) an intentionally added chemical as defined in subdivision four of
+13 section 37-0121 of this title; or
+14 (ii) present in a product or product component at or above a level
+15 that the department shall establish by regulation, as measured in total
+16 organic fluorine, that is the lowest level that can feasibly be
+17 achieved; provided, however, that the department shall review such level
+18 at least every five years to determine whether it should be lowered.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00719-02-5
+
+S. 187--A 2
+1 (c) "Architectural paint" means interior and exterior architectural
+2 coatings; provided, however, that "architectural paint" shall not
+3 include industrial, original equipment or specialty coatings.
+4 (d) "Cleaning product" means a finished product that is an air care
+5 product, automotive product, general cleaning product, or a polish or
+6 floor maintenance product used primarily for janitorial, domestic, or
+7 institutional cleaning purposes. "Cleaning product" shall not mean any
+8 of the following:
+9 (i) foods, drugs, cosmetics and personal care products as defined in
+10 section 37-0117 of this title; or
+11 (ii) industrial products specifically manufactured for, and exclusive-
+12 ly used in the following: oil and gas production; steel production;
+13 heavy industry manufacturing; industrial water treatment; industrial
+14 textile maintenance and processing other than industrial laundering;
+15 food and beverage processing and packaging; or other industrial manufac-
+16 turing processes.
+17 (e) "Air care product" means a chemically formulated consumer product
+18 labeled to indicate that the purpose of the product is to enhance or
+19 condition the indoor environment by eliminating unpleasant odors or
+20 freshening the air.
+21 (f) "Automotive product" means a chemically formulated consumer prod-
+22 uct labeled to indicate that the purpose of the product is to maintain
+23 the appearance of a motor vehicle, as defined in section one hundred
+24 twenty-five of the vehicle and traffic law, including products for wash-
+25 ing, waxing, polishing, cleaning, or treating the exterior or interior
+26 surfaces of motor vehicles. "Automotive product" does not include auto-
+27 motive paint or paint repair products.
+28 (g) "General cleaning product" means a soap, detergent, or other chem-
+29 ically formulated consumer product labeled to indicate that the purpose
+30 of the product is to clean, disinfect, or otherwise care for fabric,
+31 dishes, or other wares; surfaces including, but not limited to, floors,
+32 furniture, countertops, showers, and baths; or other hard surfaces, such
+33 as stovetops, microwaves, and other appliances.
+34 (h) "Polish or floor maintenance product" means a chemically formu-
+35 lated consumer product, such as polish, wax, a stripper, or a restorer,
+36 labeled to indicate that the purpose of the product is to polish,
+37 protect, buff, condition, temporarily seal, strip, or maintain furni-
+38 ture, floors, metal, leather, or other surfaces.
+39 (i) "Cookware" refers to durable items used in homes, restaurants,
+40 institutional settings, and commercial kitchens for preparing, dispens-
+41 ing, or storing food, foodstuffs, or beverages. These items are designed
+42 for indoor or outdoor use and include pots, pans, skillets, grills,
+43 baking sheets, molds, trays, bowls, camping gear, and cooking utensils.
+44 (j) "Fabric treatment" means a substance applied to a fabric for
+45 stain, grease, or water resistance.
+46 (k) "Manufacturer" means a person, firm, association, partnership or
+47 corporation:
+48 (i) that produces or manufactures a covered product or whose brand
+49 name is affixed to the covered product; or
+50 (ii) in the case of a covered product imported into the United States,
+51 "manufacturer" means the importer or first domestic distributor of the
+52 product if the person that manufactured or assembled the covered product
+53 or whose brand name is affixed to the product does not have a presence
+54 in the United States.
+
+S. 187--A 3
+1 (l) "Rugs" means any consumer products made from natural or synthetic
+2 fabric intended to be used as a floor covering, other than carpets, and
+3 includes handmade rugs, area rugs, or mats.
+4 (m) "Ski wax" means a lubricant applied to the bottom of snow runners,
+5 including skis and snowboards, to improve their grip and glide proper-
+6 ties.
+7 (n) "Textile" means any item made in whole or in part from a natural,
+8 human-made, or synthetic fiber, yarn, or fabric. Textile includes, but
+9 is not limited to, the following: leather, cotton, silk, jute, hemp,
+10 wool, viscose, nylon, or polyester. "Textile" does not include single-
+11 use paper hygiene products, including, but not limited to, toilet paper,
+12 paper towels or tissues, or single-use absorbent hygiene products. For
+13 the purposes of this subdivision, "single-use" means conventionally
+14 disposed of after a single use or not sufficiently durable or washable
+15 to be, or not intended to be, reusable or refillable.
+16 (o) "Textile articles" means textile goods customarily used in house-
+17 holds and businesses including, but not limited to, handbags, luggage,
+18 backpacks, footwear, costumes and accessories, draperies, shower
+19 curtains, furnishings, upholstery, beddings, towels, napkins, and table-
+20 cloths. For the purposes of this section, "textile articles" does not
+21 include (i) rugs; (ii) personal protective equipment, including for
+22 medical purposes; or (iii) items covered by section 37-0121 of this
+23 article.
+24 (p) "Dental floss" means a thread, cord, string or similar material
+25 that is used for cleaning between teeth. Dental floss includes floss
+26 picks and other flossing tools.
+27 2. (a) No person shall sell or offer for sale in the state any covered
+28 product that contains regulated perfluoroalkyl and polyfluoroalkyl
+29 substances pursuant to subparagraph (i) of paragraph (b) of subdivision
+30 one of this section.
+31 (b) Commencing on January first, two thousand twenty-seven, no person
+32 shall sell or offer for sale in the state any covered product that
+33 contains regulated perfluoroalkyl and polyfluoroalkyl substances pursu-
+34 ant to subparagraph (ii) of paragraph (b) of subdivision one of this
+35 section.
+36 (c) The prohibition, sale or offer of sale under this section does not
+37 apply to the sale or resale of used products.
+38 3. (a) A manufacturer of a covered product sold into the state shall
+39 provide persons that offer the product for sale in the state with a
+40 certificate of compliance. The certificate of compliance shall provide
+41 assurance, at a minimum, that the product does not contain any regulated
+42 PFAS. Any certificate of compliance provided under this paragraph shall
+43 be signed by an authorized official of the manufacturer.
+44 (b) In addition to any other applicable penalties, it shall be a
+45 violation of this section to provide a certificate of compliance under
+46 paragraph (a) of this subdivision when a product is knowingly in
+47 violation of the requirements of this section.
+48 4. If the department has reason to believe that a covered product
+49 contains regulated perfluoroalkyl and polyfluoroalkyl substances and is
+50 being sold or offered for sale in violation of this section, the
+51 manufacturer of the covered product within thirty days shall:
+52 (a) provide the department with independent, third-party laboratory
+53 test results demonstrating that the covered product does not contain
+54 regulated PFAS; or
+
+S. 187--A 4
+1 (b) notify persons who sell that covered product in this state that
+2 the sale of that covered product is prohibited in this state and provide
+3 the department with a list of the names and addresses of those notified.
+4 5. A retailer of a product, who is not also the manufacturer of the
+5 product, shall not be held in violation of this section if it can show
+6 that such retailer relied in good faith on the certificate of compliance
+7 provided for in paragraph (a) of subdivision three of this section.
+8 § 2. Section 71-3703 of the environmental conservation law is amended
+9 by adding a new subdivision 8 to read as follows:
+10 8. Any person who violates any of the provisions of, or who fails to
+11 perform any duty imposed by section 37-0123 of this chapter or any rule
+12 or regulation promulgated pursuant thereto, shall be liable for a civil
+13 penalty not to exceed one thousand dollars for each day, and in addition
+14 thereto, such person may be enjoined from continuing such violation.
+15 Such person shall for a second violation be liable to the people of the
+16 state for a civil penalty not to exceed two thousand five hundred
+17 dollars.
+18 § 3. Subparagraphs (lx), (lxi), (lxii), (lxiii), (lxiv), (lxv),
+19 (lxvi), (lxvii), (lxviii), (lxix), (lxx), (lxxi), (lxxii), (lxxiii),
+20 (lxxiv), (lxxv), (lxxvi) and (lxxvii) of paragraph (b) of subdivision 1
+21 of section 37-0905 of the environmental conservation law, as added by
+22 section 1 of subpart AA of part XX of chapter 55 of the laws of 2020,
+23 are amended to read as follows:
+24 (lx) [Perfluorooctanoic acid (PFOA & related substances) (CAS
+25 335-67-1)] Perfluoroalkyl and polyfluoroalkyl substances as defined in
+26 section 37-0101 of this article
+27 (lxi) [Perfluorooctanyl sulphonic acid and its salts (PFOS) (CAS
+28 1763-23-1)
+29 (lxii)] Phenol (CAS 108-95-2)
+30 [(lxiii)] (lxii) Phenol, 4-octyl- (CAS 1806-26-4)
+31 [(lxiv)] (lxiii) P-hydroxybenzoic acid (CAS 99-96-7)
+32 [(lxv)] (lxiv) Propyl paraben (CAS 94-13-3)
+33 [(lxvi)] (lxv) Styrene (CAS 100-42-5)
+34 [(lxvii)] (lxvi) Tetrabromobisphenol A (CAS 79-94-7)
+35 [(lxviii)] (lxvii) Tetrachloroethene (CAS 127-18-4)
+36 [(lxix)] (lxviii) Toluene (CAS 108-88-3)
+37 [(lxx)] (lxix) Tricresyl phosphate (TCP) (CAS 1330-78-5)
+38 [(lxxi)] (lxx) Tri-n-butyl phosphate (TNBP) (CAS 126-73-8)
+39 [(lxxii)] (lxxi) Triphenyl phosphate (TPP) (CAS 115-86-6)
+40 [(lxxiii)] (lxxii) Tris(1-chloro-2-propyl) phosphate (TCPP) (CAS
+41 13674-84-5)
+42 [(lxxiv)] (lxxiii) Tris(2-chloroethyl) phosphate (CAS 115-96-8)
+43 [(lxxv)] (lxxiv) Tris(2,3-dibromopropylphosphate) (CAS 126-72-7)
+44 [(lxxvi)] (lxxv) Vinyl chloride (CAS 75-01-4)
+45 [(lxxvii)] (lxxvi) Organohalogen flame retardants
+46 § 4. Paragraph (a) of subdivision 2 of section 37-0905 of the environ-
+47 mental conservation law is amended by adding a new subparagraph (viii)
+48 to read as follows:
+49 (viii) Perfluoroalkyl and polyfluoroalkyl substances
+50 § 5. This act shall take effect January 1, 2027. Effective immediate-
+51 ly, the addition, amendment and/or repeal of any rule or regulation
+52 necessary for the implementation of this act on its effective date are
+53 authorized to be made and completed on or before such effective date.
