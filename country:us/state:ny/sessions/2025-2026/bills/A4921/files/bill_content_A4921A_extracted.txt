@@ -1,0 +1,329 @@
+Title: 
+Official Title: 
+Source: versions - A4921A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4921--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 10, 2025
+___________
+Introduced by M. of A. BICHOTTE HERMELYN, BURDICK, SHIMSKY, McMAHON,
+MAMDANI, SEAWRIGHT, HEVESI, EACHUS, GLICK, REYES, SIMON, STIRPE,
+GIBBS, FORREST, SAYEGH, GIGLIO, SHRESTHA, CLARK, EPSTEIN, PAULIN,
+ZACCARO, GALLAGHER, SMITH, R. CARROLL, SIMONE, TAPIA, LUNSFORD, DAVI-
+LA, KELLES, NOVAKHOV -- read once and referred to the Committee on
+Higher Education -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the education law, in relation to enacting the college
+student suicide prevention act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "college student suicide prevention act".
+3 § 2. The education law is amended by adding a new section 6438-d to
+4 read as follows:
+5 § 6438-d. College student suicide prevention act. 1. Legislative
+6 intent. The legislature finds and declares the following:
+7 (a) According to data from the federal Centers for Disease Control and
+8 Prevention as reported in the year two thousand twenty-one, suicide is
+9 the second leading cause of death for youth and young adults ten to
+10 twenty-four years of age, inclusive, across both the state of New York
+11 and the United States. Suicide rates nearly doubled among New York state
+12 youth in this age range from the year two thousand seven to the year two
+13 thousand eighteen. One in four surveyed young adults eighteen to twen-
+14 ty-four years of age, the largest age demographic on college campuses,
+15 reported having seriously considered suicide in the prior thirty days
+16 nationally.
+17 (b) In the year two thousand twenty-three, separate reports from the
+18 Healthy Minds Network's national Healthy Minds Survey, the Gallup and
+19 Lumina Foundation's national State of Higher Education Survey, and the
+20 American College Health Association's National College Health Assessment
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07650-02-5
+
+A. 4921--A 2
+1 declared that United States college students were experiencing historic
+2 levels of depression, anxiety, suicidal ideation, frequent emotional
+3 stress, overall moderate to severe psychological distress, and loneli-
+4 ness.
+5 (c) According to the American Foundation for Suicide Prevention, New
+6 York state is not among the twenty-one states that uniformly require
+7 institutions of higher education to adopt specific, evidence-based
+8 suicide prevention policies by law. Such policies include the regular
+9 dissemination of information on available mental health resources and
+10 services to students, as well as the internal development of guidelines
+11 and protocols to inform staff on how to respond to a student in suicidal
+12 crisis, in order to most effectively support those at risk and empower
+13 students to proactively seek help.
+14 (d) According to data from Healthy CUNY, as reported in the year two
+15 thousand twenty-one, more than half of all city university of New York
+16 students report experiencing depression or anxiety. While nearly every
+17 city university of New York institution houses its own counseling
+18 center, data reported by the city university of New York board of trus-
+19 tees in the board's four-year financial plan released in the year two
+20 thousand nineteen stated that the average student-to-counselor ratio
+21 across the city university of New York system is at least two thousand
+22 four hundred-to-one. Until adequate staffing levels of mental health
+23 professionals can be sustainably funded, uniformly requiring higher
+24 education institutions to develop partnerships with community providers
+25 is imperative to meet the needs of students at such institutions with
+26 large student-to-counselor ratios or whose student populations primarily
+27 live off-campus.
+28 (e) Establishing gatekeeper suicide prevention or mental health aid
+29 training requirements and opportunities for college residential staff
+30 and other student-facing positions has been recommended by the state
+31 university of New York Student Mental Health and Wellness Task Force and
+32 adopted by dozens of state university of New York institutions. However,
+33 these requirements have not been modeled by many colleges and universi-
+34 ties outside of the state university of New York system, weakening
+35 preparedness frameworks for students attending other public and private
+36 institutions of higher education alike. As students most often seek
+37 emotional support from peers and those in close proximity, institutions
+38 must compel residential assistants and staff to utilize the free Ques-
+39 tion, Persuade, and Refer suicide prevention training already fully
+40 funded by state university of New York for all New York state college
+41 students in order to bolster their preparedness for such emergency
+42 scenarios.
+43 (f) New York state colleges and universities are facing a deepening
+44 mental health crisis among students, marked by increases in the preva-
+45 lence of thoughts of suicide and attempts. All levels of collegiate
+46 staff must be equipped by their respective institutions' policies,
+47 guidelines and training opportunities to effectively and appropriately
+48 prevent student suicide, intervene in crisis situations, and support
+49 their college communities in postvention.
+50 2. Definitions. For the purposes of this section, the following terms
+51 shall have the following meanings:
+52 (a) "Crisis situation" means a situation where a teacher or other
+53 employee of an educational institution believes a student or other indi-
+54 vidual is in imminent danger of a suicide attempt.
+
+A. 4921--A 3
+1 (b) "LGBTQ" means individuals who identify, with regards to gender
+2 identification and sexual orientation, as being lesbian, gay, bisexual,
+3 transgender, queer or questioning.
+4 (c) "Higher education institution" means a college university, or
+5 professional or technical school, whether public or private, that has
+6 been incorporated by a special act of the legislature or chartered by
+7 the regents of the university of the state of New York to confer academ-
+8 ic degrees in this state.
+9 (d) "QPR" means suicide prevention training based on the Question,
+10 Persuade, and Refer emergency response model.
+11 (e) "Suicide intervention" means specific actions higher education
+12 institutions can take in response to suicidal behavior by a student,
+13 including, but not limited to:
+14 (i) student supervision;
+15 (ii) notification of designated emergency contacts;
+16 (iii) crisis situation response protocols;
+17 (iv) when and how to request an immediate mental health assessment or
+18 emergency services; and
+19 (v) higher education institution re-entry procedures following a
+20 student mental health crisis.
+21 (f) "Suicide postvention" means planned support and interventions
+22 higher education institutions can implement after a suicide attempt or
+23 suicide death of a member of the higher education institution community
+24 that are designed to:
+25 (i) reduce the risk of suicide contagion, or the spread of suicidal
+26 thoughts or intentions;
+27 (ii) provide support for affected students and higher education insti-
+28 tution-based personnel;
+29 (iii) address the social stigma associated with suicide; and
+30 (iv) disseminate factual information about suicide and its prevention.
+31 (g) "Suicide prevention" means specific actions higher education
+32 institutions can take to recognize and reduce suicidal behavior, includ-
+33 ing, but not limited to:
+34 (i) identifying risk and protective factors for suicide and suicide
+35 warning signs;
+36 (ii) establishing a process by which students are referred to a mental
+37 and behavioral health provider for help;
+38 (iii) making available higher education institution-based and communi-
+39 ty-based mental health supports;
+40 (iv) providing the location of available online and community suicide
+41 prevention resources, including the 988 suicide and crisis lifeline and
+42 other local crisis centers and hotlines;
+43 (v) adopting policies and protocols regarding suicide prevention,
+44 intervention, and postvention, campus safety, and response to crisis
+45 situations;
+46 (vi) training for higher education institution personnel who interact
+47 directly with students in recognizing suicide risk factors and warning
+48 signs and how to refer students for further assessment and evaluation;
+49 and
+50 (vii) instruction to students in problem-solving and coping skills to
+51 promote students' mental, emotional, and social health and well-being,
+52 and instruction in recognizing and appropriately responding to signs of
+53 suicidal intent in others.
+54 3. Policies, procedures, and guidelines for higher education insti-
+55 tutions. (a) The governing board or body of every higher education
+56 institution shall, before the first day of August, two thousand twenty-
+
+A. 4921--A 4
+1 six, adopt policies, procedures, and guidelines on student suicide
+2 prevention, intervention, and postvention for said students. Such poli-
+3 cies, procedures, and guidelines shall be developed in consultation with
+4 collegiate and community stakeholders, campus-employed mental health
+5 professionals, and suicide prevention experts, and shall include, but
+6 not be limited to:
+7 (i) methods to increase awareness of the relationship between suicide
+8 and suicide warning signs, risk factors and protective factors, includ-
+9 ing but not limited to:
+10 (1) mental health and substance use conditions;
+11 (2) childhood abuse, neglect, or trauma;
+12 (3) prolonged stress, including individual experiences such as bully-
+13 ing, harassment, family or relationship stress, or other stressful life
+14 events as well as collective stressors such as systemic bias and
+15 discrimination;
+16 (4) exposure to another person's suicide, or sensationalized or graph-
+17 ic accounts of suicide; and
+18 (5) previous suicide attempts or history of suicide within a student's
+19 family;
+20 (ii) adoption of a requirement for residential assistants and staff of
+21 student housing facilities, students' academic and professional advi-
+22 sors, and campus security personnel to participate in a gatekeeper
+23 suicide prevention training course such as QPR, C.A.R.E.S. training or
+24 a similar program prior to the commencement of their duties or before
+25 the beginning of the next full academic year. Such training shall
+26 include, but not be limited to:
+27 (1) methods for early identification of suicide risk factors and
+28 inclusion of expertise from higher education institution employees who
+29 have previously been trained in recognizing suicide risks;
+30 (2) information on how higher education institution employees should
+31 respond to suspicion, concerns, or warning signs of suicide in students,
+32 and the appropriate referral and reporting procedures available to high-
+33 er education institution employees;
+34 (3) information on how higher education institution employees should
+35 respond within their means to a crisis situation where a student is in
+36 imminent danger to such student;
+37 (4) policies and protocols to respond to a student or staff suicide or
+38 suicide attempt and provide support to survivors and affected peers and
+39 families;
+40 (iii) counseling services available within the higher education insti-
+41 tution for students and their families that are related to suicide
+42 prevention;
+43 (iv) availability of information about depression and other mental
+44 health conditions associated with an increased risk of suicide, includ-
+45 ing development of an annual live orientation session for newly matricu-
+46 lated students aimed at raising awareness of said conditions;
+47 (v) implementation of specialized mental health awareness curricula
+48 into existing courses and seminars if opportunities for integration
+49 exist;
+50 (vi) availability of information concerning crisis situation inter-
+51 vention, suicide prevention, and mental health services in the community
+52 for students and their families and higher education institution employ-
+53 ees, and inclusion of said information on dedicated pages of the student
+54 handbook and higher education institution website or primary mobile
+55 application;
+
+A. 4921--A 5
+1 (vii) revision of emergency contact notification protocols to include
+2 a student's expression of thoughts of suicide as among the circumstances
+3 in which notification of said student's designated emergency contact may
+4 take place by a campus-employed mental health professional, after noti-
+5 fying said student of the protocol's activation and following case-by-
+6 case consideration and documentation of any objections raised by the
+7 student, any concerns that disclosure of such information may threaten
+8 the student's safety or unreasonably compromise their right to privacy,
+9 and the process by which the final determination that such disclosure is
+10 in the student's best interest is made;
+11 (viii) revision of emergency contact notification protocols to include
+12 language specifically outlining the higher education institution's role
+13 following notification, the institution's expectation of an emergency
+14 contact following notification, and the contact employee at the institu-
+15 tion who may answer questions regarding the protocol, with all said
+16 information being routinely communicated to students and emergency
+17 contacts and published on dedicated pages of the student handbook and
+18 higher education institution website or primary mobile application;
+19 (ix) periodic assessments of elements of the campus environment that
+20 may be used in a suicide attempt, including but not limited to access to
+21 building rooftops, balconies, windows, and bridges, or access to drugs,
+22 alcohol, and toxic or controlled dangerous substances, and ways to
+23 secure these locations and substances to minimize threats posed to
+24 students' health and safety;
+25 (x) assessments of new and proposed campus buildings and infrastruc-
+26 ture, as well as revisions and updates to existing campus buildings and
+27 infrastructure, during the design process, for the implementation of
+28 suicide deterrent barriers and other measures to minimize access to
+29 areas of significant height, reducing suicide risk;
+30 (xi) revision of medical leave and withdrawal policies to no longer
+31 compel a student to involuntarily withdraw from enrollment solely on the
+32 grounds of having considered or attempted suicide, without first allow-
+33 ing said student to take a temporary leave of absence to seek support
+34 for their mental health and providing a guarantee of readmission or
+35 reinstatement following completion of such a leave of absence;
+36 (xii) identification and development of off-campus peer support
+37 programs and partnerships with community providers, organizations, and
+38 agencies for referral of commuter students and other students who may
+39 not substantially benefit from on-campus services to mental health,
+40 substance use, and social support services, including the development of
+41 at least one memorandum of understanding between the higher education
+42 institution and a supporting provider, organization or agency in the
+43 community or region;
+44 (xiii) development of a culturally competent plan to promote sensitiv-
+45 ity in outreach to diverse and traditionally underserved populations, to
+46 assist survivors of attempted suicide, and to assist students and higher
+47 education institution employees in coping with an attempted suicide or
+48 suicide death within the higher education institution community; and
+49 (xiv) development of any other related program or activity for
+50 students or higher education institution employees.
+51 (b) The policies, procedures, and guidelines adopted pursuant to para-
+52 graph (a) of this subdivision shall specifically outline sensitive and
+53 competent responses to address the needs of high-risk groups, including
+54 but not limited to the following:
+55 (i) youth who have lost a friend or family member to suicide;
+
+A. 4921--A 6
+1 (ii) youth with disabilities or with chronic health conditions,
+2 including mental health and substance use conditions;
+3 (iii) youth experiencing homelessness or in out-of-home settings, such
+4 as foster care;
+5 (iv) youth belonging to racial and ethnic minority groups and interna-
+6 tional students;
+7 (v) LGBTQ youth;
+8 (vi) first-year, transfer, or otherwise newly matriculated students;
+9 (vii) youth participating in demanding or high-performance programs,
+10 including student athletes and academic honors or accelerated students;
+11 and
+12 (viii) youth reporting significant financial or academic challenges as
+13 barriers to their ability to fully participate in higher education
+14 institution activities.
+15 (c) The policies, procedures, and guidelines adopted pursuant to para-
+16 graph (a) of this subdivision shall be written to ensure that a higher
+17 education institution employee acts only within the authorization and
+18 scope of such employee's credential or license. Nothing in this section
+19 shall be construed as authorizing or encouraging a higher education
+20 institution employee to diagnose or treat mental health conditions
+21 unless such employee is specifically licensed and employed to do so.
+22 (d) Notwithstanding any other provision of law to the contrary, no
+23 cause of action may be brought for any loss or damage caused by any act
+24 or omission resulting from the implementation of the provisions of this
+25 section, or resulting from any training, or lack of training, required
+26 by this section. Nothing in this section shall be construed to impose
+27 any specific duty of care.
+28 (e) To assist higher education institutions in developing policies for
+29 student suicide prevention, intervention, and postvention, the board of
+30 regents of the university of the state of New York shall develop and
+31 maintain model policies, procedures, and guidelines in accordance with
+32 this section to serve as a guide for higher education institutions. Such
+33 model policies, procedures, and guidelines shall be posted within thirty
+34 days of their completion on the university's internet website, along
+35 with relevant resources and information to support higher education
+36 institutions in developing and implementing the policies, procedures,
+37 and guidelines required under paragraph (a) of this subdivision.
+38 (f) The trustees or other governing board or body of a higher educa-
+39 tion institution shall review, at minimum every fifth year following the
+40 effective date of this section, its policies, procedures, and guidelines
+41 on student suicide prevention and, if necessary, update such policies,
+42 procedures, and guidelines.
+43 4. Severability and construction. The provisions of this section shall
+44 be severable, and if any court of competent jurisdiction declares any
+45 phrase, clause, sentence or provision of this section to be invalid, or
+46 its applicability to any government agency, person or circumstance is
+47 declared invalid, the remainder of this section and its relevant appli-
+48 cability shall not be affected. The provisions of this section shall be
+49 liberally construed to give effect to the purposes thereof.
+50 § 3. This act shall take effect immediately.

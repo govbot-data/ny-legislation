@@ -1,0 +1,898 @@
+Title: 
+Official Title: 
+Source: versions - A5480B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5480--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 14, 2025
+___________
+Introduced by M. of A. BRONSON, SIMON, SIMONE, REYES, HEVESI, SHIMSKY,
+CLARK, GONZALEZ-ROJAS, LUNSFORD, LEVENBERG, EPSTEIN, BURROUGHS, LASH-
+ER, R. CARROLL, ROMERO, MEEKS, SHRESTHA, GALLAGHER, O'PHARROW,
+FORREST, GLICK, DINOWITZ, ROSENTHAL, TORRES, McDONALD -- read once and
+referred to the Committee on Judiciary -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- again reported from said committee with amendments, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the civil practice law and rules, the education law, the
+public health law, the judiciary law, the insurance law, the general
+business law, the criminal procedure law, the executive law, the civil
+rights law, and the family court act, in relation to protecting indi-
+viduals who provide or receive legally protected health activity from
+criminal or civil liability or professional sanctions imposed by
+jurisdictions outside the state; and to repeal certain provisions of
+the criminal procedure law and the executive law relating thereto
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings and intent. The legislature declares
+2 that it is the public policy of New York state that every individual
+3 possesses a fundamental right of privacy and equality with respect to
+4 their personal medical decisions, and should be able to safely effectu-
+5 ate those decisions, including by seeking and obtaining reproductive
+6 health care or gender-affirming care, free from the threat that they may
+7 be penalized for such legally protected care.
+8 The legislature finds and reaffirms that the state has a paramount
+9 interest in protecting access to health care, including reproductive
+10 health care and gender-affirming health care, as such health care is
+11 fundamental to each person's exercise of bodily autonomy, dignity, and
+12 equal citizenship. The state has enshrined the fundamental right to
+13 bodily autonomy and reproductive decision-making in its constitution. It
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00432-06-5
+
+A. 5480--B 2
+1 has furthered codified in numerous statutes the principle that every
+2 individual has the right to privacy and equality with respect to their
+3 personal medical decisions, including reproductive and gender-affirming
+4 health care.
+5 The legislature further finds that, despite the vital importance of
+6 reproductive and gender-affirming health care, those who seek, provide,
+7 or facilitate such health care are facing an unprecedented risk that
+8 they will be targeted or penalized for doing so. The state has a strong
+9 public policy of promoting access to these vital forms of health care
+10 for residents and non-residents alike, and of maintaining New York's
+11 status as a beacon of reproductive freedom, health care access, and
+12 equality for all. Efforts to penalize or restrict reproductive or
+13 gender-affirming care have a chilling effect on access to this important
+14 health care for all individuals, and accordingly threaten each person's
+15 health and bodily autonomy.
+16 To secure the fundamental right to bodily autonomy and ensure access
+17 to health care, the legislature finds it is critical to enact
+18 protections to shield those who seek, provide, or facilitate reproduc-
+19 tive or gender-affirming health care from efforts to restrict or penal-
+20 ize them for doing so.
+21 In order to fully effectuate this purpose, the legislature finds and
+22 affirms that this act's protections must apply not just to those who
+23 seek or provide health care, but also to those who facilitate it, such
+24 as organizations that offer financial assistance to people in need,
+25 internet service providers that host websites offering accurate health
+26 information, or a friend who drives their loved one to the clinic.
+27 Facilitators play an important role in ensuring access to health care,
+28 and efforts to restrict or penalize them because of their assistance in
+29 the exercise of these important rights have a chilling effect on access
+30 to care and thereby impinge upon the fundamental rights to privacy,
+31 equality, and bodily autonomy.
+32 § 2. Section 3119 of the civil practice law and rules, as added by
+33 chapter 29 of the laws of 2010, subdivision (g) as amended by chapter
+34 138 of the laws of 2023, paragraph 1 of subdivision (g) as amended by
+35 chapter 89 of the laws of 2024, and subdivision (h) as amended by chap-
+36 ter 101 of the laws of 2024, is amended to read as follows:
+37 § 3119. Uniform interstate depositions and discovery. (a) Definitions.
+38 For purposes of this section:
+39 (1) "Out-of-state subpoena" means a subpoena issued under authority of
+40 a court of record of a state other than this state.
+41 (2) "Person" means an individual, corporation, business trust, estate,
+42 trust, partnership, limited liability company, association, joint
+43 venture, public corporation, government, or governmental subdivision,
+44 agency or instrumentality, or any other legal or commercial entity.
+45 (3) "State" means a state of the United States, the District of Colum-
+46 bia, Puerto Rico, the United States Virgin Islands, or any territory or
+47 insular possession subject to the jurisdiction of the United States.
+48 (4) "Subpoena" means a document, however denominated, issued under
+49 authority of a court of record requiring a person to:
+50 (i) attend and give testimony at a deposition;
+51 (ii) produce and permit inspection and copying of designated books,
+52 documents, records, electronically stored information, or tangible
+53 things in the possession, custody or control of the person; or
+54 (iii) permit inspection of premises under the control of the person.
+55 (5) "Legally protected health activity" shall have the same meaning as
+56 defined by section 570.17 of the criminal procedure law.
+
+A. 5480--B 3
+1 (6) "Gender-affirming care" shall have the same meaning as defined by
+2 section 570.17 of the criminal procedure law.
+3 (7) "Reproductive health care" shall have the same meaning as defined
+4 by section 570.17 of the criminal procedure law.
+5 (b) Issuance of subpoena. (1) To request issuance of a subpoena under
+6 this section, a party must submit an out-of-state subpoena to the county
+7 clerk in the county in which discovery is sought to be conducted in this
+8 state. A request for the issuance of a subpoena under this section does
+9 not constitute an appearance in the courts of this state except as
+10 provided in subparagraph (ii) of paragraph two of this subdivision.
+11 (2) [When] (i) Any request for the issuance of a subpoena under para-
+12 graph one of this subdivision and any subpoena issued under paragraph
+13 five of this subdivision shall include an affirmation under penalty of
+14 perjury that such subpoena either:
+15 (A) is not related to any investigation or proceeding that seeks to
+16 impose civil or criminal liability, professional sanctions, or any other
+17 legal consequences upon a person for any legally protected health activ-
+18 ity; or
+19 (B) is related to such an investigation or proceeding, but falls with-
+20 in an exception provided in subparagraph (i) of paragraph one of subdi-
+21 vision (g) of this section. Such affirmation shall identify which excep-
+22 tion applies to the request.
+23 (ii) A party that submits a false affirmation pursuant to this section
+24 shall be subject to the jurisdiction of the courts of this state for any
+25 suit, penalties, or damages arising out of such false affirmation. A
+26 court shall assess a statutory penalty of fifteen thousand dollars per
+27 violation if the court finds such false affirmation was made inten-
+28 tionally, knowingly, willingly or recklessly. This shall be in addition
+29 to any other legal or equitable remedy lawfully available. The attorney
+30 general may commence an action or special proceeding for damages and/or
+31 penalties against any party that submits a false affirmation pursuant to
+32 this subparagraph.
+33 (iii) Any action or special proceeding brought by the attorney general
+34 pursuant to this paragraph shall be commenced within six years of either
+35 (A) the date on which the inquiry, investigation, subpoena, or summons
+36 that such false affirmation accompanied was filed with the county clerk,
+37 for subpoenas requested pursuant to paragraph one of this subdivision;
+38 or (B) the date on which the subpoena was issued, for subpoenas issued
+39 pursuant to paragraph five of this subdivision.
+40 (3) Except as provided by subdivision (g) of this section, when a
+41 party submits an out-of-state subpoena to the county clerk, the clerk,
+42 in accordance with that court's procedure and subject to the provisions
+43 of article twenty-three of this chapter, shall promptly issue a subpoena
+44 for service upon the person to which the out-of-state subpoena is
+45 directed.
+46 [(3)] (4) A subpoena under paragraph [two] three of this subdivision
+47 must:
+48 (i) incorporate the terms used in the out-of-state subpoena; [and]
+49 (ii) contain or be accompanied by the names, addresses and telephone
+50 numbers of all counsel of record in the proceeding to which the subpoena
+51 relates and of any party not represented by counsel; and
+52 (iii) include the affirmation required by paragraph two of this subdi-
+53 vision.
+54 [(4)] (5) Notwithstanding paragraph one of this subdivision, and
+55 except as provided by subdivision (g) of this section, if a party to an
+56 out-of-state proceeding retains an attorney licensed to practice in this
+
+A. 5480--B 4
+1 state, and that attorney receives the original or a true copy of an
+2 out-of-state subpoena, the attorney may issue a subpoena under this
+3 section.
+4 (c) Service of subpoena. A subpoena issued under this section must be
+5 served in compliance with sections two thousand three hundred two and
+6 two thousand three hundred three of this chapter.
+7 (d) Deposition, production and inspection. Sections two thousand three
+8 hundred three, two thousand three hundred five, two thousand three
+9 hundred six, two thousand three hundred seven, two thousand three
+10 hundred eight and this article apply to subpoenas issued under subdivi-
+11 sion (b) of this section.
+12 (e) Application to court. An application to the court for a protective
+13 order or to enforce, quash, or modify a subpoena issued under this
+14 section must comply with the rules or statutes of this state and be
+15 submitted to the court in the county in which discovery is to be
+16 conducted.
+17 (f) Uniformity of application and construction. [In] Except as
+18 provided in subdivision (g) of this section, in applying and construct-
+19 ing this uniform act, consideration shall be given to the need to
+20 promote uniformity of the law with respect to its subject matter among
+21 states that enact it.
+22 (g) [(1)] Out-of-state proceedings regarding legally protected health
+23 activities. Notwithstanding any other provisions of this section or any
+24 other law, no court [or], county clerk, or attorney licensed to practice
+25 in this state shall issue a subpoena under this section in connection
+26 with an out-of-state proceeding relating to any legally protected health
+27 activity [which occurred in this state], unless:
+28 (1) such out-of-state proceeding (i) sounds in tort or contract, (ii)
+29 is actionable, in an equivalent or similar manner, under the laws of
+30 this state, and (iii) was brought by the [patient] person who received
+31 reproductive health [services as defined in paragraph (a) of subdivision
+32 one of section 570.17 of the criminal procedure law] care or gender-af-
+33 firming care, or the [patient's] person's legal representative, so long
+34 as the [patient] person gives express consent unless express consent is
+35 not feasible due to [patient] their injury or death; and
+36 (2) the subpoena is accompanied by an affirmation compliant with para-
+37 graph two of subdivision (b) of this section.
+38 [(2) For purposes of this subdivision, the terms "legally protected
+39 health activity" and "reproductive health services" shall have the same
+40 meanings as defined in subdivision one of section 570.17 of the criminal
+41 procedure law.
+42 (h) Subpoenas related to gender-affirming care. Notwithstanding any
+43 other provisions of law, no court or county clerk shall issue a subpoena
+44 under this section in connection with an out-of-state proceeding relat-
+45 ing to any gender-affirming care, as defined in paragraph (c) of subdi-
+46 vision one of section sixty-five hundred thirty-one-b of the education
+47 law, which was legally performed, sought, received, or supported in this
+48 state, unless such out-of-state proceeding (1) sounds in tort or
+49 contract, or is based on statute, (2) is actionable, in an equivalent or
+50 similar manner, under the laws of this state, and (3) was brought by the
+51 patient who received the gender-affirming care, or the patient's legal
+52 representative.]
+53 § 3. Subdivision (e) of section 3102 of the civil practice law and
+54 rules, as separately amended by chapter 138 of the laws of 2023 and
+55 chapter 101 of the laws of 2024, is amended and subdivision (f) is
+
+A. 5480--B 5
+1 relettered subdivision (g) and a new subdivision (f) is added to read as
+2 follows:
+3 (e) Action pending in another jurisdiction. Except as provided in
+4 section three thousand one hundred nineteen of this article, when under
+5 any mandate, writ or commission issued out of any court of record in any
+6 other state, territory, district or foreign jurisdiction, or whenever
+7 upon notice or agreement, it is required to take the testimony of a
+8 witness in the state, [he or she] such witness may be compelled to
+9 appear and testify in the same manner and by the same process as may be
+10 employed for the purpose of taking testimony in actions pending in the
+11 state. The supreme court or a county court shall make any appropriate
+12 order in aid of taking such a deposition; provided that no order [may]
+13 shall be issued under this section in connection with an out-of-state
+14 proceeding relating to any legally protected health activity, as defined
+15 in [paragraph (b) of subdivision one of] section 570.17 of the criminal
+16 procedure law [or gender-affirming care, as defined in paragraph (c) of
+17 subdivision one of section sixty-five hundred thirty-one-b of the
+18 education law, which occurred in this state], unless:
+19 (1) such out-of-state proceeding [(1)] (i) sounds in tort or contract,
+20 [(2)] (ii) is actionable, in an equivalent or similar manner, under the
+21 laws of this state, and [(3)] (iii) was brought by the [patient] person
+22 who received reproductive health [services] care or gender-affirming
+23 care, as such terms are defined in section 570.17 of the criminal proce-
+24 dure law, or the [patient's] person's legal representative in a manner
+25 consistent with subdivision (g) of section three thousand one hundred
+26 nineteen of this article; and
+27 (2) the petition for such an order is accompanied by an affirmation
+28 compliant with subdivision (f) of this section.
+29 (f) (1) Any petition for such an order brought under subdivision (e)
+30 of this section shall include an affirmation under penalty of perjury
+31 that the discovery either:
+32 (i) is not related to, and that any information obtained shall not be
+33 used in, any investigation or proceeding that seeks to impose civil or
+34 criminal liability, professional sanctions, or any other legal conse-
+35 quences upon a person for any legally protected health activity; or
+36 (ii) is related to such an investigation or proceeding, but falls
+37 within an exception provided in paragraph one of subdivision (g) of
+38 section three thousand one hundred nineteen of this article. Such affir-
+39 mation shall identify which exception applies to the request.
+40 (2) A party that submits a false affirmation pursuant to this section
+41 shall be subject to the jurisdiction of the courts of this state for any
+42 suit, penalties, or damages arising out of the false affirmation. A
+43 court shall assess a statutory penalty of fifteen thousand dollars per
+44 violation if the court finds the false affirmation was made inten-
+45 tionally, knowingly, willingly or recklessly. This shall be in addition
+46 to any other legal or equitable remedy lawfully available. The attorney
+47 general may commence an action or special proceeding for damages and/or
+48 penalties against any party that submits a false affirmation pursuant to
+49 this section. Any action or special proceeding brought by the attorney
+50 general pursuant to this section shall be commenced within six years of
+51 the date on which the inquiry, investigation, subpoena, or summons that
+52 such false affirmation accompanied was filed with the supreme court or
+53 county court.
+54 § 4. Section 6505-d of the education law, as amended by chapter 101 of
+55 the laws of 2024, is amended to read as follows:
+
+A. 5480--B 6
+1 § 6505-d. Evaluation of prior disciplinary history for authorization
+2 to practice. An applicant seeking licensure, certification, or authori-
+3 zation pursuant to this title who has been subject to disciplinary
+4 action by a duly authorized professional disciplinary agency of another
+5 jurisdiction solely on the basis of having [performed, recommended, or
+6 provided an abortion pursuant to section twenty-five hundred ninety-
+7 nine-bb of the public health law, or gender-affirming care, as defined
+8 in paragraph (c) of subdivision one of section sixty-five hundred thir-
+9 ty-one-b of the education law] engaged in legally protected health
+10 activity, as defined by section 570.17 of the criminal procedure law,
+11 shall not be denied such licensure, certification, or authorization,
+12 unless the department determines that such action would have constituted
+13 professional misconduct in this state. Provided however, that nothing in
+14 this section shall be construed as prohibiting the department from eval-
+15 uating the conduct of such applicant and making a determination to be
+16 licensed, certified, or authorized to practice a profession under this
+17 title.
+18 § 5. Subdivision 1 of section 6510 of the education law is amended by
+19 adding a new paragraph b-1 to read as follows:
+20 b-1. Legally protected health activities. The department shall not
+21 charge a licensee, acting within their scope of practice, with profes-
+22 sional misconduct as defined in section sixty-five hundred nine of this
+23 subarticle, or cause a complaint made by any person to the department to
+24 be investigated beyond a preliminary review, solely on the basis that
+25 such licensee engaged in legally protected health activity, as defined
+26 by section 570.17 of the criminal procedure law. Such preliminary review
+27 shall determine if such report reasonably appears to reflect conduct
+28 warranting further investigation pursuant to this paragraph.
+29 § 6. Subdivisions 1 and 2 of section 6531-b of the education law,
+30 subdivision 1 as added by chapter 220 of the laws of 2022, paragraph (c)
+31 of subdivision 1 as added by chapter 143 of the laws of 2023, and subdi-
+32 vision 2 as separately amended by chapters 138 and 143 of the laws of
+33 2023, are amended to read as follows:
+34 1. As used in this section, the following terms shall have the follow-
+35 ing meanings:
+36 (a) "Reproductive health [services] care" shall mean and include[:
+37 (i) abortion pursuant to section twenty-five hundred ninety-nine-bb of
+38 the public health law;
+39 (ii) emergency contraception as defined in section twenty-eight
+40 hundred five-p of the public health law; and
+41 (iii) medical, surgical, counseling or referral services relating to
+42 the human reproductive system, including services relating to pregnancy
+43 or the termination of a pregnancy] all services, care, or products of a
+44 medical, surgical, psychiatric, therapeutic, diagnostic, mental health,
+45 behavioral health, preventative, rehabilitative, supportive, consulta-
+46 tive, referral, prescribing, or dispensing nature relating to the human
+47 reproductive system provided in accordance with the constitution and the
+48 laws of this state, whether provided in person or by means of telehealth
+49 or telehealth services, which includes, but is not limited to, all
+50 services, care, and products relating to pregnancy, assisted reprod-
+51 uction, contraception, miscarriage management or abortion, including but
+52 not limited to care an individual provides to themself.
+53 (b) "Health care practitioner" means a person who is licensed, certi-
+54 fied, or authorized under this title and acting within their lawful
+55 scope of practice.
+
+A. 5480--B 7
+1 (c) "Gender-affirming care" means any type of care provided to an
+2 individual to affirm their gender identity or gender expression, includ-
+3 ing but not limited to care an individual provides to themself; provided
+4 that surgical interventions on minors with variations in their sex char-
+5 acteristics that are not sought and initiated by the individual patient
+6 are not gender-affirming care.
+7 2. [The performance, recommendation, or provision of any reproductive
+8 health services or gender-affirming care, as defined in subdivision one
+9 of this section, or any] Any legally protected health activity, as
+10 defined [in paragraph (b) of subdivision one of] by section 570.17 of
+11 the criminal procedure law, by a health care practitioner acting within
+12 their scope of practice, [for a patient who resides in a state wherein
+13 the performance, recommendation, or provision of such reproductive
+14 health services or gender-affirming care is illegal,] shall not, by
+15 itself, constitute professional misconduct under this title, or title
+16 two-A of article two of the public health law, or any other law, rule or
+17 regulation governing the licensure, certification, or authorization of
+18 such practitioner, nor shall any license, certification or authorization
+19 of a health care practitioner be revoked, suspended, or annulled or
+20 otherwise subject to any other penalty or discipline provided in the
+21 public health law or this title solely on the basis that such health
+22 care practitioner [performed, recommended, or provided any such repro-
+23 ductive health services or gender-affirming care for a patient who
+24 resides in a state wherein the performance, recommendation, or provision
+25 of such reproductive health services or gender-affirming care is ille-
+26 gal] engaged in legally protected health activity, as defined by section
+27 570.17 of the criminal procedure law.
+28 § 7. The education law is amended by adding a new section 6509-f to
+29 read as follows:
+30 § 6509-f. Limited exemption from professional misconduct; legally
+31 protected health activity. 1. As used in this section, the term "health
+32 care practitioner" means a person who is licensed, certified, or author-
+33 ized under this title and acting within their lawful scope of practice
+34 and includes, but is not limited to persons subject to articles one
+35 hundred thirty-one, one hundred thirty-one-B, one hundred thirty-six,
+36 one hundred thirty-seven, one hundred thirty-seven-A, one hundred thir-
+37 ty-nine, one hundred forty, one hundred fifty-three, one hundred fifty-
+38 four, one hundred fifty-six, one hundred fifty-nine, or one hundred
+39 sixty-three of this title or any other person designated as a health
+40 care practitioner by law, rule, or regulation.
+41 2. Any legally protected health activity, as defined by section 570.17
+42 of the criminal procedure law, by a health care practitioner acting
+43 within their scope of practice, shall not, by itself, constitute profes-
+44 sional misconduct under this title, or any other law, rule or regulation
+45 governing the licensure, certification, or authorization of such practi-
+46 tioner, nor shall any license, certification, or authorization of a
+47 health care practitioner be revoked, suspended, or annulled, or other-
+48 wise subject to any other penalty or discipline provided in the public
+49 health law or this title solely on the basis that such health care prac-
+50 titioner engaged in legally protected health activity.
+51 3. Nothing in this section shall be construed to expand the scope of
+52 practice of any individual licensed, certified, or authorized under this
+53 title, nor does this section give any such individual the authority to
+54 act outside their scope of practice, as defined in this title.
+55 § 8. Subdivisions 9-a and 9-c of section 230 of the public health law,
+56 subdivision 9-a as amended by chapter 477 of the laws of 2008, subdivi-
+
+A. 5480--B 8
+1 sion 9-c as amended by chapter 143 of the laws of 2023, paragraph (a) of
+2 subdivision 9-c as amended by chapter 101 of the laws of 2024, are
+3 amended to read as follows:
+4 9-a. At any time, if the board for professional medical conduct or the
+5 office of professional medical conduct determines that there is a
+6 reasonable belief that an act or omission that constitutes a crime under
+7 the law of the state of New York, any other state, or the United States
+8 has been committed by the licensee, the board for professional medical
+9 conduct or office of professional medical conduct shall notify the
+10 appropriate law enforcement official or authority except when the act or
+11 omission constitutes legally protected health activity, as defined by
+12 section 570.17 of the criminal procedure law.
+13 9-c. (a) Neither the board for professional medical conduct nor the
+14 office of professional medical conduct shall charge a licensee, acting
+15 within their scope of practice, with misconduct as defined in sections
+16 sixty-five hundred thirty and sixty-five hundred thirty-one of the
+17 education law, or cause a report made to the director of such office to
+18 be investigated beyond a preliminary review as set forth in clause (A)
+19 of subparagraph (i) of paragraph (a) of subdivision ten of this section,
+20 where such report is determined to be based solely upon [the perform-
+21 ance, recommendation, or provision of any reproductive health services
+22 as defined in section sixty-five hundred thirty-one-b of the education
+23 law, or gender-affirming care, as defined in paragraph (c) of subdivi-
+24 sion one of section sixty-five hundred thirty-one-b of the education
+25 law, for a particular patient by such licensee where such patient
+26 resides in a state wherein the performance, recommendation or provision
+27 of such reproductive health services or gender-affirming care is ille-
+28 gal] any legally protected health activity, as defined by section 570.17
+29 of the criminal procedure law.
+30 (b) When a licensee, acting within their scope of practice, and in
+31 accordance with paragraph e of subdivision four of section sixty-five
+32 hundred twenty-seven of the education law, [performs, recommends or
+33 provides any reproductive health services or gender-affirming care for a
+34 patient who resides in a state wherein the performance, recommendation,
+35 or provision of any such reproductive health services or gender-affirm-
+36 ing care is illegal, such performance, recommendation, or provision of
+37 such reproductive health services or gender-affirming care for such
+38 patient,] engages in legally protected health activity, as defined by
+39 section 570.17 of the criminal procedure law, such legally protected
+40 activity shall not, by itself, constitute professional misconduct. The
+41 licensee shall otherwise abide by all other applicable professional
+42 requirements.
+43 § 9. Section 90 of the judiciary law is amended by adding a new subdi-
+44 vision 2-b to read as follows:
+45 2-b. Notwithstanding any general or special law or rule or regulation
+46 to the contrary, no attorney licensed in this state may be removed or
+47 otherwise subject to discipline, including reprimand, censure, monetary
+48 fine, or the revocation, suspension, or cancellation of the attorney's
+49 license, for advising or representing a client or prospective client
+50 related to reproductive health care or gender-affirming care, as defined
+51 by section 570.17 of the criminal procedure law, if the sole reason for
+52 such removal or discipline is that (i) the client offered, provided,
+53 facilitated, or received reproductive health care or gender-affirming
+54 care that is unlawful in another state; (ii) another state's laws create
+55 actual or potential liability for the reproductive health care or
+56 gender-affirming care offered, provided, facilitated, or received by the
+
+A. 5480--B 9
+1 client; or (iii) the attorney is subject to actual or potential liabil-
+2 ity, removal, or discipline in another jurisdiction based on the repro-
+3 ductive health care or gender-affirming care offered, provided, facili-
+4 tated, or received by their client, so long as the attorney's conduct
+5 complies with the laws of this state and meets the standards set forth
+6 in the Rules of Professional Conduct promulgated by the judicial depart-
+7 ments of the appellate division of the New York state supreme court.
+8 § 10. Subsection (a) of section 3436-a of the insurance law, as sepa-
+9 rately amended by chapter 138 of the laws of 2023 and chapter 101 of the
+10 laws of 2024, is amended and two new subsections (e) and (f) are amended
+11 to read as follows:
+12 (a) Every insurer that issues or renews medical malpractice insurance
+13 or professional liability insurance covering a health care provider
+14 licensed to practice in this state shall be prohibited from taking any
+15 adverse action against a health care provider solely on the basis that
+16 the health care provider engages in legally protected health activity,
+17 as defined [in paragraph (b) of subdivision one of] by section 570.17 of
+18 the criminal procedure law[, or gender-affirming care, as defined in
+19 paragraph (c) of subdivision one of section sixty-five hundred thirty-
+20 one-b of the education law, that is legal in this state with someone who
+21 is from out of the state]. The superintendent is expressly authorized to
+22 interpret "legally protected health activity" as if such definition was
+23 stated within this section. Such policy shall include health care
+24 providers who prescribe abortion medication to out-of-state patients by
+25 means of telehealth.
+26 (e) As used in this section, "professional liability insurance" shall
+27 mean insurance against legal liability of the insured, and against loss,
+28 damage, or expense incident to a claim of such liability arising out of
+29 the death or injury of any person due to medical, psychiatric, mental
+30 health, or other malpractice by any licensed physician assistant, phys-
+31 ical therapist, physical therapist assistant, pharmacist, registered
+32 pharmacy technician, nurse, psychologist, psychiatrist, social worker,
+33 occupational therapist, speech-language pathologist, or mental health
+34 practitioner.
+35 (f) As used in this section, "health care provider" shall mean a
+36 person who is licensed, certified, or authorized under title eight of
+37 the education law and acting within their lawful scope of practice and
+38 includes, but is not limited to persons subject to articles one hundred
+39 thirty-one, one hundred thirty-one-B, one hundred thirty-six, one
+40 hundred thirty-seven, one hundred thirty-seven-A, one hundred thirty-
+41 nine, one hundred forty, one hundred fifty-three, one hundred fifty-
+42 four, one hundred fifty-six, one hundred fifty-nine, or one hundred
+43 sixty-three of the education law or any other person designated as a
+44 health care provider by law, rule, or regulation.
+45 § 11. The general business law is amended by adding a new section
+46 394-i to read as follows:
+47 § 394-i. Legally protected health activities. 1. For the purposes of
+48 this section, the term "legally protected health activity" shall have
+49 the same meaning as defined by section 570.17 of the criminal procedure
+50 law.
+51 2. No person or entity that is located, headquartered, or incorporated
+52 in New York state and receives, is served with, or is subject to a
+53 civil, criminal, or regulatory inquiry, investigation, subpoena, or
+54 summons for information regarding legally protected health activity
+55 shall comply with or provide information in response to such inquiry,
+56 investigation, subpoena, or summons unless:
+
+A. 5480--B 10
+1 (a) such inquiry, investigation, subpoena, or summons contains or is
+2 accompanied by an affirmation under penalty of perjury attesting that
+3 either:
+4 (i) it is not related to, and that any information obtained shall not
+5 be used in, any investigation or proceeding that seeks to impose civil
+6 or criminal liability, professional sanctions, or any other legal conse-
+7 quences upon a person or entity for any legally protected health activ-
+8 ity; or
+9 (ii) it is related to such an investigation or proceeding, but falls
+10 within an exception provided in paragraph one of subdivision (g) of
+11 section three thousand one hundred nineteen of the civil practice law
+12 and rules, and identifies which exception applies to the information
+13 request;
+14 (b) the person or entity receiving or subject to such inquiry, inves-
+15 tigation, subpoena, or summons regarding legally protected health activ-
+16 ity has:
+17 (i) notified the attorney general within seventy-two hours of receiv-
+18 ing such inquiry, investigation, subpoena, or summons; indicated in such
+19 notice whether such person or entity intends to comply with such
+20 inquiry, investigation, subpoena, or summons; provided a copy of such
+21 inquiry, investigation, subpoena, or summons and any related materials
+22 to the attorney general; and
+23 (ii) made reasonable attempts to notify the individual or individuals
+24 who provided, sought, received, facilitated, or otherwise engaged in
+25 such legally protected health activity to which such inquiry, investi-
+26 gation, subpoena, or summons pertains at least thirty days prior to
+27 providing any responsive information, unless otherwise ordered by a
+28 court of competent jurisdiction; and
+29 (c) a minimum of thirty days has passed since such person or entity
+30 notified the attorney general of such inquiry, investigation, subpoena,
+31 or summons pursuant to paragraph (b) of this subdivision.
+32 3. A person or entity who submits a false affirmation in violation of
+33 subdivision two of this section shall be subject to the jurisdiction of
+34 the courts of this state for any suit, penalties, or damages arising out
+35 of such false affirmation.
+36 (a) The attorney general may commence an action or special proceeding
+37 for damages and/or penalties against any person or entity that submits a
+38 false affirmation in violation of subdivision two of this section.
+39 (i) The courts of this state shall assess a statutory penalty of
+40 fifteen thousand dollars per violation against any person or entity
+41 found to have intentionally, knowingly, willingly, or recklessly submit-
+42 ted a false affirmation. This shall be in addition to any other legal or
+43 equitable remedy lawfully available.
+44 (ii) Any action or special proceeding brought by the attorney general
+45 pursuant to this section shall be commenced within six years of the date
+46 on which the attorney general received notice of the inquiry, investi-
+47 gation, subpoena, or summons that such false affirmation accompanied.
+48 4. The attorney general of this state may commence an action or
+49 special proceeding to enforce the provisions of this section, including
+50 but not limited to an application or motion for an order enjoining ongo-
+51 ing or future violations of this section. The attorney general shall not
+52 commence such an action unless the attorney general has reason to
+53 believe the defendant or respondent intends to comply or has complied
+54 with an inquiry, investigation, subpoena, or summons regarding legally
+55 protected health activity.
+
+A. 5480--B 11
+1 (a) Any action or special proceeding brought by the attorney general
+2 pursuant to this section shall be commenced within six years of the date
+3 on which the attorney general received notice of the inquiry, investi-
+4 gation, subpoena, or summons at issue.
+5 (b) Notwithstanding any contrary provision of law, the attorney gener-
+6 al may seek all available legal and equitable remedies.
+7 (c) The courts of this state shall assess a statutory penalty of
+8 fifteen thousand dollars per violation against any person or entity
+9 found to have intentionally, knowingly, willingly, or recklessly
+10 complied with an inquiry, investigation, subpoena, or summons regarding
+11 legally protected health activity in violation of this section. This
+12 shall be in addition to any other legal or equitable remedy lawfully
+13 available.
+14 5. Any person or entity that is located, headquartered, or incorpo-
+15 rated in New York state and receives, is served with, or is subject to a
+16 civil, criminal, or regulatory inquiry, investigation, subpoena, or
+17 summons for information regarding legally protected health activity may
+18 institute a civil action to obtain declaratory relief, or such other
+19 relief deemed necessary and proper by the court, stating that this
+20 section prohibits their compliance with the inquiry, investigation,
+21 subpoena, or summons.
+22 (a) At or before the commencement of any action under this section,
+23 notice thereof and a copy of the commencing document and all supporting
+24 documents shall be served upon the attorney general.
+25 (b) The attorney general is authorized to intervene in any such action
+26 brought pursuant to this section.
+27 (c) If the person or entity initiating an action brought under this
+28 section prevails in such action, the court shall award reasonable costs
+29 and attorney's fees.
+30 (d) Any action brought pursuant to this section shall be commenced
+31 within one year of the date on which the inquiry, investigation, subpoe-
+32 na, or summons at issue was received or served, whichever is later.
+33 6. Any person or entity that issues or causes to be issued a civil,
+34 criminal, or regulatory inquiry, investigation, subpoena, or summons to
+35 a person or entity located, headquartered, or incorporated in New York
+36 state shall be subject to the jurisdiction of the courts of this state
+37 for any action, suit, penalties, or damages arising out of this section.
+38 7. Where compliance with this section delays or prohibits a person's
+39 or entity's response to a subpoena, such person or entity shall not be
+40 held in contempt or otherwise subject to legal consequences under
+41 section two thousand three hundred eight of the civil practice law and
+42 rules or any other law of this state for their delay in responding or
+43 failure to respond.
+44 8. Nothing in this section shall be constructed to prohibit compliance
+45 with the investigation of any activity which would violate the laws of
+46 this state. Nothing in this section shall be constructed to prohibit
+47 sharing information regarding legally protected health activity in
+48 response to the written request of a person who received the reproduc-
+49 tive health care or gender-affirming care or their legal representative
+50 as provided in paragraph one of subdivision (g) of section three thou-
+51 sand one hundred nineteen of the civil practice law and rules, or in
+52 response to the written request of a person or entity who is the subject
+53 of an investigation or proceeding that seeks to impose civil or criminal
+54 liability, professional sanctions, or any other legal consequences upon
+55 them for legally protected health activity. In each case, information
+56 shall only be shared to the extent necessary to fulfill such request.
+
+A. 5480--B 12
+1 9. Nothing in this section shall prohibit disclosure of deidentified
+2 information in compliance with federal grant reporting requirements;
+3 obligatory federal investigative demands, including but not limited to
+4 subpoenas, summonses, and audits; or other reporting requirements under
+5 federal law, or identified information when strictly necessary to comply
+6 with a federal audit of specific services for which payment has been
+7 made by the federal government. Nothing in this section shall prohibit
+8 compliance with a valid federal court order.
+9 10. This section shall not be construed to allow for the provision of
+10 any information to any individual or any agency or department outside
+11 New York state which would not otherwise be available under state law.
+12 § 12. Section 570.19 of the criminal procedure law is REPEALED.
+13 § 13. Subdivision 3-b of section 140.10 of the criminal procedure law
+14 is REPEALED.
+15 § 14. Subdivision 3-a of section 140.10 of the criminal procedure law,
+16 as amended by chapter 138 of the laws of 2023, is amended to read as
+17 follows:
+18 3-a. A police officer [may] shall not arrest any person for any legal-
+19 ly protected health activity [within this state] as defined in section
+20 570.17 of this chapter.
+21 § 15. Section 837-x of the executive law, as amended by chapter 138 of
+22 the laws of 2023 and subdivision 2 as amended by chapter 89 of the laws
+23 of 2024, is amended to read as follows:
+24 § 837-x. Cooperation with certain out-of-state investigations. 1. For
+25 purposes of this section, the following terms shall have the following
+26 meanings:
+27 (a) "Reproductive health [services] care" shall have the same meaning
+28 as [paragraph (a) of subdivision one of] defined by section 570.17 of
+29 the criminal procedure law; [and]
+30 (b) "Legally protected health activity" shall have the same meaning as
+31 [paragraph (b) of subdivision one of] defined by section 570.17 of the
+32 criminal procedure law; and
+33 (c) "Gender-affirming care" shall have the same meaning as defined by
+34 section 570.17 of the criminal procedure law.
+35 2. (a) No state or local government employee or entity or other person
+36 acting on behalf of state or local government shall cooperate with or
+37 provide information to any out-of-state individual or out-of-state agen-
+38 cy or department regarding any legally protected health activity [in
+39 this state], or otherwise expend or use time, moneys, facilities, prop-
+40 erty, equipment, personnel or other resources in furtherance of any
+41 investigation or proceeding that seeks to impose civil or criminal
+42 liability [or], professional sanctions, or any other legal consequences
+43 upon a person or entity for any legally protected health activity
+44 [occurring in this state]; except that the commissioner of health may
+45 share deidentified information as strictly necessary to respond to a
+46 public health emergency or an imminent threat to public health, or to
+47 consult and cooperate with the appropriate agencies of the federal
+48 government or of other states in accordance with the functions, powers,
+49 and duties of the department as outlined under section two hundred one
+50 of the public health law, and may share identified information in such
+51 circumstances only when strictly necessary and with the consent of the
+52 [patient] person. For purposes of this section, "deidentified" means
+53 that the information cannot identify or be made to identify or be asso-
+54 ciated with a particular individual, directly or indirectly, and is
+55 subject to technical safeguards and policies and procedures that prevent
+
+A. 5480--B 13
+1 reidentification, whether intentionally or unintentionally, of any indi-
+2 vidual.
+3 (b) Nothing in this section shall prohibit the investigation of any
+4 reproductive health [services] care or gender-affirming care rendered in
+5 violation of the laws of this state, provided that no information relat-
+6 ing to any medical procedure performed on a specific individual [may]
+7 shall be shared with an out-of-state agency or any other individual.
+8 Nothing in this section shall prohibit compliance with a valid, court-
+9 issued subpoena or warrant which does not relate to [a law seeking] any
+10 effort to impose civil or criminal liability [or], professional sanc-
+11 tions, or any other legal consequences for a legally protected health
+12 activity, or in response to the written request of a person who is the
+13 subject of such an investigation [or], proceeding, or other effort, to
+14 the extent necessary, in each case, to fulfill such request.
+15 (c) Nothing in this section shall prohibit disclosure of deidentified
+16 information in compliance with federal grant reporting requirements or
+17 other reporting requirements under federal law.
+18 (d) This section shall not be construed to allow for the provision of
+19 any information to any individual or out-of-state agency or department
+20 which would not otherwise be available under state law.
+21 § 16. Section 837-x of the executive law, as amended by chapter 101 of
+22 the laws of 2024, is REPEALED.
+23 § 17. Section 4550 of the civil practice law and rules, as added by
+24 chapter 138 of the laws of 2023, is amended to read as follows:
+25 § 4550. Admissibility of evidence related to legally protected health
+26 activity. Evidence relating to the involvement of a party engaging in
+27 [one or more] legally protected health activity, as defined [in para-
+28 graph (b) of subdivision one of] by section 570.17 of the criminal
+29 procedure law[, relating to providing reproductive health services to
+30 persons not physically present in this state] shall not be offered
+31 against such party as evidence that such party has engaged in any wrong-
+32 doing, whether civil, criminal, professional, or otherwise by virtue of
+33 [such recipients of such services not being physically present in this
+34 state] engaging in such legally protected health activity. Nothing in
+35 this section shall prevent a party from offering such evidence in a
+36 proceeding that (i) sounds in tort or contract, (ii) is actionable, in
+37 an equivalent or similar manner, under the laws of this state, and (iii)
+38 was brought by the [patient] person who received reproductive health
+39 [services] care or gender-affirming care, or the [patient's] person's
+40 legal representative in a manner consistent with subparagraph (iii) of
+41 paragraph one of subdivision (g) of section three thousand one hundred
+42 nineteen of this chapter.
+43 § 18. Section 70-b of the civil rights law, as added by chapter 218 of
+44 the laws of 2022 and paragraph (b) of subdivision 3 as amended by chap-
+45 ter 26 of the laws of 2023, is amended to read as follows:
+46 § 70-b. Unlawful interference with protected rights. 1. For the
+47 purposes of this section, the term "legally protected health activity"
+48 shall have the same meaning as defined by section 570.17 of the criminal
+49 procedure law.
+50 2. A claim of unlawful interference with protected rights is estab-
+51 lished under this section. Such claim shall arise when a person demon-
+52 strates that they [exercised or attempted to exercise, or facilitated or
+53 attempted to facilitate the exercise of a right protected under the
+54 constitution of the state of New York and/or protected or permitted by
+55 the laws of the state of New York, to obtain or provide the medical care
+56 described in subdivision six of this section, and such exercise,
+
+A. 5480--B 14
+1 provision, facilitation, or attempt thereof] engaged in legally
+2 protected health activity that results in litigation or criminal charges
+3 brought against that person in any court in the United States or its
+4 territories.
+5 [2.] 3. Such claim shall arise when any person or entity commences an
+6 action in any court, in the United States or any of its territories, in
+7 which the allegations against the person, whether civil or criminal,
+8 involve [accessing, providing, facilitating, or attempting to access,
+9 provide, or facilitate the medical care described in subdivision six of
+10 this section] legally protected health activity.
+11 [3.] 4. In a claim for unlawful interference with protected rights
+12 under this section:
+13 (a) compensatory damages, as well as costs and attorneys' fees,
+14 including expert witness fees, shall be recoverable upon a demonstration
+15 of unlawful interference; and
+16 (b) additional damages of up to three times the amount of compensatory
+17 damages shall be recoverable upon an additional demonstration that the
+18 action against the plaintiff was commenced or continued for the purpose
+19 of harassing, intimidating, punishing or otherwise maliciously inhibit-
+20 ing the exercise of rights protected in New York, including but not
+21 limited to [the rights in subdivision six of this section] legally
+22 protected health activity.
+23 [4.] 5. Any action or proceeding brought pursuant to this section
+24 shall be commenced no later than six years after the date on which the
+25 [violation of this section is committed] claim under this section
+26 arises.
+27 [5.] 6. Nothing in this section shall affect or preclude the right of
+28 any party to any recovery otherwise authorized by common law, or by
+29 statute, law or rule.
+30 [6. Rights specifically protected under this section shall include
+31 lawfully provided medical care including but not limited to reproductive
+32 and/or endocrine health care, and all medical, surgical, counseling or
+33 referral services relating to the human reproductive system, including
+34 but not limited to services relating to pregnancy, contraception, or the
+35 termination of a pregnancy.]
+36 7. An action under this section shall be brought in the Supreme Court
+37 of the state of New York.
+38 § 19. Section 570.17 of the criminal procedure law, as amended by
+39 chapter 138 of the laws of 2023, is amended to read as follows:
+40 § 570.17 Extradition for legally protected health activity.
+41 1. For purposes of this section, the following terms shall have the
+42 following meanings:
+43 (a) "Reproductive health [services] care" shall mean and include all
+44 services, care, or products of a medical, surgical, psychiatric, thera-
+45 peutic, diagnostic, mental health, behavioral health, preventative,
+46 rehabilitative, supportive, consultative, referral, prescribing, or
+47 dispensing nature relating to the human reproductive system provided in
+48 accordance with the constitution and the laws of this state, whether
+49 provided in person or by means of telehealth or telehealth services,
+50 which includes, but is not limited to, all services, care and products
+51 relating to pregnancy, assisted reproduction, contraception, miscarriage
+52 management or [the termination of a pregnancy, and self-managed termi-
+53 nations] abortion, including but not limited to care an individual
+54 provides to themself.
+55 (b) "Gender-affirming care" shall mean and include any type of care
+56 provided to an individual to affirm their gender identity or gender
+
+A. 5480--B 15
+1 expression, including but not limited to care an individual provides to
+2 themself; provided that surgical interventions on minors with variations
+3 in their sex characteristics that are not sought and initiated by the
+4 individual patient are not gender-affirming care.
+5 (c) "Legally protected health activity" shall mean and include the
+6 following acts and omissions by providers [and], facilitators, seekers,
+7 and recipients of reproductive health [services] care and gender-affirm-
+8 ing care, to the extent they are not in violation of the constitution or
+9 the laws of this state[, provided that such provider is physically pres-
+10 ent in the state]:
+11 (i) the [exercise] receipt or [attempted exercise by any person of
+12 rights] attempt to receive reproductive health [services as secured by
+13 the constitution or laws of this state or the provision of insurance
+14 coverage for such services or] care or gender-affirming care, regardless
+15 of such person's location; [and]
+16 (ii) any act or omission undertaken while physically present in this
+17 state to aid or encourage, or attempt to aid or encourage, any person in
+18 the [exercise] receipt of or [attempted exercise of rights] attempt to
+19 receive reproductive health [services as secured by the constitution or
+20 laws of this state, or] care or gender-affirming care, regardless of the
+21 location of the recipient or provider of such care;
+22 (iii) the provision of or attempt to provide insurance coverage for
+23 [such services or care; provided, however, that] reproductive health
+24 care or gender-affirming care, by any entity located, headquartered, or
+25 incorporated in the state, regardless of the location of the recipient
+26 or provider of such care; or
+27 (iv) the provision of [such] or attempt to provide reproductive health
+28 [services] care or gender-affirming care by a person duly licensed under
+29 the laws of this state and physically present in this state [and the
+30 provision of insurance coverage for such services or care shall be a
+31 legally protected health activity if the service or care is permitted
+32 under the laws of this state], regardless of the [patient's] recipient's
+33 location.
+34 2. Except as required by federal law, no demand for the extradition of
+35 a person subject to criminal liability that is in whole or in part based
+36 on the alleged provision or receipt of, assistance in provision or
+37 receipt of, material support for, or any theory of vicarious, joint,
+38 several or conspiracy liability for any legally protected health activ-
+39 ity [performed in New York] shall be recognized by the governor unless
+40 the executive authority of the demanding state shall allege in writing
+41 that the accused was physically present in the demanding state at the
+42 time of the commission of the alleged crime, and that thereafter [he,
+43 she or they] such accused fled from that state.
+44 § 20. Section 659 of the family court act, as amended by chapter 101
+45 of the laws of 2024, is amended to read as follows:
+46 § 659. Consideration of law allowing gender-affirming care. 1. It is
+47 the intent of the legislature that children or their parents should be
+48 able to obtain necessary medical care, including legally protected
+49 health activity, as defined by section 570.17 of the criminal procedure
+50 law.
+51 2. A law that authorizes a child to be removed from their parent or
+52 guardian based on the parent or guardian allowing their child to
+53 [receive gender-affirming care] engage in legally protected health
+54 activity, as defined by section 570.17 of the criminal procedure law, or
+55 based on such parent or guardian themself engaging in legally protected
+
+A. 5480--B 16
+1 health activity, is against the public policy of this state and shall
+2 not be enforced or applied in a case pending in a court in this state.
+3 [2.] 3. No court in this state shall admit or consider a finding of
+4 abuse, neglect or maltreatment based on the parent or guardian allowing
+5 their child to [receive or seek gender-affirming care] engage in legally
+6 protected health activity, as defined by section 570.17 of the criminal
+7 procedure law, or based on such parent or guardian themself engaging in
+8 legally protected health activity, as evidence in any proceeding with
+9 respect to that parent or guardian and any of their children, unless
+10 such conduct would constitute abuse, neglect or maltreatment under the
+11 laws of this state.
+12 [3. For purposes of this section, "gender-affirming care" shall have
+13 the same meaning as defined in paragraph (c) of subdivision one of
+14 section sixty-five hundred thirty-one-b of the education law.]
+15 § 21. The civil practice law and rules is amended by adding a new
+16 article 3-A to read as follows:
+17 ARTICLE 3-A
+18 CONFLICT OF LAW IN ACTIONS RELATED
+19 TO LEGALLY PROTECTED HEALTH ACTIVITY
+20 Section 350. Legally protected health activities.
+21 § 350. Legally protected health activities. Notwithstanding any gener-
+22 al or special law, common law, or conflict of law rule to the contrary,
+23 the laws of this state shall govern in any case or controversy heard in
+24 this state related to legally protected health activity, as defined by
+25 section 570.17 of the criminal procedure law.
+26 § 22. Severability. If any clause, sentence, paragraph, subdivision,
+27 section or part of this act shall be adjudged by any court of competent
+28 jurisdiction to be invalid, such judgment shall not affect, impair, or
+29 invalidate the remainder thereof, but shall be confined in its operation
+30 to the clause, sentence, paragraph, subdivision, section or part thereof
+31 directly involved in the controversy in which such judgment shall have
+32 been rendered. It is hereby declared to be the intent of the legislature
+33 that this act would have been enacted even if such invalid provisions
+34 had not been included herein.
+35 § 23. Construction. The provisions of this act shall be construed
+36 liberally in order to give full effect to the fundamental rights and the
+37 other protections contained herein and the accomplishment of its
+38 purposes. This shall be true regardless of whether federal civil rights
+39 laws, including those laws with provisions worded comparably to the
+40 provisions of this section, have been so construed.
+41 § 24. This act shall take effect immediately.

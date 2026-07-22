@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - A390A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+390--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. STIRPE, SAYEGH, SANTABARBARA, TAYLOR, WEPRIN,
+BURDICK, STECK -- read once and referred to the Committee on Banks --
+recommitted to the Committee on Banks in accordance with Assembly Rule
+3, sec. 2 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to requiring transmitters
+of money to provide a certain warning to consumers
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new section 652-c to
+2 read as follows:
+3 § 652-c. Required warning. 1. A person engaged in the business of
+4 receiving money for transmission or transmitting money by wire or elec-
+5 tronic transfer which, at the request of an individual who in-person, by
+6 telephone or electronic means transmits funds to another person, busi-
+7 ness or entity, shall clearly and prominently warn the person requesting
+8 the transmission prior to completing such transmission of funds. Such
+9 warning shall include, but not be limited to, the following information:
+10 (a) a title in bold, capital letters saying "Warning: do not fall
+11 victim to consumer fraud.";
+12 (b) questions or information that alert a consumer about the dangers
+13 of sending funds for lottery winnings, credit card guarantees or loans,
+14 internet or phone offers, to persons unknown to the consumer or persons
+15 whose identity the consumer cannot verify and any other fraud alert;
+16 (c) information about how to ask questions of the sales clerk or
+17 representative; and
+18 (d) information about how to stop a transfer.
+19 2. For the purposes of this section, "clearly and prominently" means:
+20 (a) in written communications, including print and those made through an
+21 electronic medium (such as video and interactive media including, but
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01505-03-6
+
+A. 390--A 2
+1 not limited to, the internet, online services, and electronic mail) the
+2 warning shall appear on the same form as the form used to authorize the
+3 transmission of funds, or if no written form is used, via a sign in a
+4 location reasonably designed to provide such notice, shall be in a type
+5 size sufficiently noticeable for an ordinary consumer to read and
+6 comprehend the written warning and shall be in a type that contrasts
+7 with the background against which the written warning appears; and (b)
+8 in oral communications, the warning shall be delivered in a volume and
+9 cadence sufficient for an ordinary consumer to hear and comprehend. If
+10 any communication is presented solely through oral, written or visual
+11 means, the warning shall be made through the same means.
+12 3. The warning required by this section shall not apply to an elec-
+13 tronic funds transfer in which funds are not transferred directly to
+14 another person and are not available for immediate use, nor shall any
+15 warning be required in an electronic funds transfer made with a gift
+16 certificate as defined in section three hundred ninety-six-i of the
+17 general business law.
+18 4. A violation of the provisions of this section shall be punishable
+19 by a civil penalty of not more than two hundred fifty dollars for the
+20 first violation and five hundred dollars for each subsequent violation.
+21 § 2. This act shall take effect on the one hundred eightieth day after
+22 it shall have become a law.

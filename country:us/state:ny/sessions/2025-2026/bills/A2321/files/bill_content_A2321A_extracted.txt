@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - A2321A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2321--A
+Cal. No. 84
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 16, 2025
+___________
+Introduced by M. of A. McDONALD, SIMON, KELLES, McMAHON, SIMONE,
+BURROUGHS, CRUZ, REYES, SAYEGH, COLTON, OTIS, STECK, LEE -- read once
+and referred to the Committee on Governmental Operations -- ordered to
+a third reading -- passed by Assembly and delivered to the Senate,
+recalled from the Senate, vote reconsidered, bill amended, ordered
+reprinted, retaining its place on the special order of third reading
+AN ACT to amend the public officers law, in relation to requiring agen-
+cies to report information about FOIL inquiries to the committee on
+open government
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 90 of the public officers law is renumbered section
+2 90-a and a new section 90 is added to read as follows:
+3 § 90. FOIL request reporting. 1. All agencies that perform govern-
+4 mental or proprietary functions for the state subject to this article
+5 shall, for each year in which they received or have pending a request
+6 for records under this article, submit to the committee on open govern-
+7 ment their log of all such freedom of information law requests. For the
+8 purposes of this section, pending shall mean requests that were open at
+9 any point during the twelve-month period, including those first submit-
+10 ted in prior years. The freedom of information law request logs shall:
+11 (a) cover a twelve-month range of dates as prescribed by the committee
+12 on open government and shall include data regarding all requests
+13 received or pending during that range of dates;
+14 (b) be submitted on a schedule prescribed by the committee on open
+15 government;
+16 (c) be in a machine-readable, tabular spreadsheet format prescribed by
+17 the committee on open government, including but not limited to the order
+18 of the data fields included;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01981-03-6
+
+A. 2321--A 2
+1 (d) be submitted in a method as prescribed by the committee on open
+2 government, such as by electronic mail, web form, web portal, or other
+3 method as prescribed by the committee;
+4 (e) include data prescribed and defined by the committee on open
+5 government, but at the minimum including:
+6 (i) the name of the requestor, or an indication that the requestor is
+7 a "private individual" if the request did not include an affiliation
+8 and/or employer on whose behalf the request was made;
+9 (ii) the affiliation and/or the employer of the requestor, if applica-
+10 ble;
+11 (iii) the subject or subjects of the request;
+12 (iv) the date of receipt of the request;
+13 (v) the date of acknowledgment by the agency of the request;
+14 (vi) the date of the expected response time as provided in the
+15 acknowledgment;
+16 (vii) the number of extensions of time to respond to date;
+17 (viii) the date of the final response or of the closure of the
+18 request, if applicable;
+19 (ix) whether the request was granted in whole; granted in part and
+20 denied in part; or denied;
+21 (x) if the request was denied in whole or in part, a list of
+22 exemptions cited in the final response, if applicable;
+23 (xi) if the request was denied in whole or in part, whether the agency
+24 determined there were no responsive records;
+25 (xii) the date an appeal of the final response was filed, or whether
+26 no appeal was filed;
+27 (xiii) the status of any appeals, including whether the appeal was:
+28 (A) not filed;
+29 (B) filed and pending;
+30 (C) filed and granted in whole;
+31 (D) filed and granted in part and denied in part; or
+32 (E) filed and denied;
+33 (xiv) a list of exemptions cited in an appeal denial, if applicable;
+34 (xv) the amount, in dollars, of total fees collected from requestor;
+35 (xvi) how many documents were produced;
+36 (xvii) how many pages were produced;
+37 (xviii) whether any of the produced documents were redacted;
+38 (xix) whether the request was subject to a proceeding filed under
+39 article seventy-eight of the civil practice law and rules, and if so:
+40 (A) the result, including judgment for petitioner; judgment for
+41 respondent; or settlement;
+42 (B) the date of the final judgment, whether it be a final judgment or
+43 stipulation of dismissal pursuant to a settlement;
+44 (C) the amount of attorney fees assessed by the court to be paid by
+45 the agency, if any;
+46 (D) the date of any appeal of the article seventy-eight judgment; and
+47 (E) the result of any appeal of an article seventy-eight judgment; and
+48 (f) be published on the agency's website.
+49 2. By January first of each year, the committee on open government
+50 shall publish, on one webpage, all freedom of information law request
+51 logs it receives, in a machine-readable format such as a spreadsheet or
+52 comma separated value file, in addition to any other format it shall
+53 determine, and such logs and submissions shall be preserved on such
+54 webpage. The committee and the office of information technology services
+55 shall additionally publish and preserve row-level data of such logs and
+56 submissions on data.ny.gov or such other successor website maintained
+
+A. 2321--A 3
+1 by, or on behalf of, the state, as deemed appropriate by the office of
+2 information technology services under executive order 95 of 2013, or any
+3 successor agency or order.
+4 3. The committee on open government shall at a minimum provide, in its
+5 annual report required by section eighty-nine of this article, the total
+6 number of FOIL logs submitted by agencies pursuant to this section, and
+7 the committee shall further be authorized to analyze the data in the
+8 freedom of information law request logs and use such data and analyses
+9 thereof in such annual report or other reports or analyses.
+10 § 2. This act shall take effect on the ninetieth day after it shall
+11 have become a law.

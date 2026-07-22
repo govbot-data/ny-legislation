@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - A1012A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1012--A
+Cal. No. 5
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. BARRETT, CUNNINGHAM, SANTABARBARA, ROSENTHAL,
+SHIMSKY, JACOBSON, LEE, CLARK, LUCAS -- read once and referred to the
+Committee on Energy -- reported from committee, advanced to a third
+reading, amended and ordered reprinted, retaining its place on the
+order of third reading
+AN ACT to amend the public authorities law, in relation to requiring the
+New York state energy and research development authority to develop a
+comprehensive electric vehicle fast charging station implementation
+plan
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public authorities law is amended by adding a new
+2 section 1874 to read as follows:
+3 § 1874. Comprehensive electric vehicle fast charging station implemen-
+4 tation plan. 1. The authority, in consultation with the New York power
+5 authority, the department of transportation, the department of environ-
+6 mental conservation, the department of public service and the Fast
+7 Charge NY working group established pursuant to subdivision five of this
+8 section shall, no later than twenty-four months after the effective date
+9 of this section, develop a comprehensive electric vehicle fast charging
+10 station implementation plan to facilitate the deployment of fast elec-
+11 tric vehicle charging stations statewide. Such comprehensive electric
+12 vehicle fast charging plan shall incorporate the findings of the needs
+13 evaluation set forth in part QQ of chapter fifty-eight of the laws of
+14 two thousand twenty-four. As used in this section, the term "the plan"
+15 shall mean the comprehensive electric vehicle fast charging station
+16 implementation plan developed pursuant to this subdivision.
+17 2. Such plan shall at a minimum include:
+18 (a) methods to increase public availability;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01631-03-5
+
+A. 1012--A 2
+1 (b) geographic information pertaining to current fast charger deploy-
+2 ment including specific information relating to the fast chargers being
+3 deployed. Such information shall include, but not be limited to the
+4 number of ports and charging capacity;
+5 (c) the number and location of fast chargers currently in development
+6 and estimated future needs for the next five years;
+7 (d) each state and utility-administered program currently, or within
+8 the prior two years, providing funding or oversight of electrical vehi-
+9 cle charging stations, including but not limited to Charge NY and Charge
+10 Ready NY;
+11 (e) methods to prevent overlap of state programs and maximize fast
+12 charger coverage;
+13 (f) guidance to municipalities for technical and planning assistance
+14 to facilitate the adoption of curbside charging;
+15 (g) support and guidance to facilitate the deployment of charging
+16 stations for existing commercial fleets to help offset air pollution in
+17 disadvantaged communities, as defined in section 75-0101 of the environ-
+18 mental conservation law;
+19 (h) areas currently underserved by fast charger coverage; and
+20 (i) requirements for compliance with labor standards for the manufac-
+21 ture, construction, installation and maintenance of fast charging
+22 stations, including but not limited to Buy American provisions for
+23 component parts and manufacture of infrastructure related to the charg-
+24 ing stations, and prevailing wage pursuant to section two hundred twenty
+25 of the labor law for construction, installation and maintenance of fast
+26 charging stations.
+27 3. Once completed, the authority shall publish the plan on its website
+28 and provide for a thirty-day public comment period prior to adoption of
+29 such plan.
+30 4. The authority shall publish a final report following adoption of
+31 the plan that shall include guidance for the deployment of electric
+32 vehicle fast charging stations statewide.
+33 5. (a) The authority shall establish a "Fast Charge NY working group"
+34 consisting of thirteen members, including one member representing each
+35 statewide municipal organization; two members representing environmental
+36 justice groups; two members representing statewide environmental groups;
+37 two members representing public utilities; and two members representing
+38 charging station developers, which shall include a New York based devel-
+39 oper. Such working group members shall be appointed as follows: five
+40 members shall be appointed by the governor; four members shall be
+41 appointed by the temporary president of the senate and four members
+42 shall be appointed by the speaker of the assembly.
+43 (b) Members of the working group shall be reimbursed for their neces-
+44 sary and actual expenses incurred in the performance of their duties as
+45 members of the working group.
+46 6. The authority shall update the plan annually.
+47 § 2. This act shall take effect immediately.

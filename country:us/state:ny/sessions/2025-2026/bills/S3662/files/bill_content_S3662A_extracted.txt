@@ -1,0 +1,317 @@
+Title: 
+Official Title: 
+Source: versions - S3662A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3662--A
+2025-2026 Regular Sessions
+IN SENATE
+January 29, 2025
+___________
+Introduced by Sens. HOYLMAN-SIGAL, SALAZAR -- read twice and ordered
+printed, and when printed to be committed to the Committee on Trans-
+portation -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the vehicle and traffic law, in relation to limiting the
+frequency of traffic stops for minor violations in furtherance of
+racial equity and public safety; to amend the criminal procedure law,
+in relation to the basis for a motion to suppress or exclude evidence;
+and to amend the executive law, in relation to the duties of the divi-
+sion of criminal justice services
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The vehicle and traffic law is amended by adding a new
+2 article 23-A to read as follows:
+3 ARTICLE 23-A
+4 CERTAIN TRAFFIC STOPS RESTRICTED
+5 Section 1106. Definitions.
+6 1107. Restrictions on traffic stops and searches.
+7 1108. Data collection.
+8 1109. Effect.
+9 § 1106. Definitions. For the purposes of this article, the following
+10 terms shall have the following meanings:
+11 (a) "Primary violation" means a violation of this chapter that does
+12 not constitute a secondary violation.
+13 (b) "Secondary violation" means any of the following:
+14 (1) the failure to have a valid certificate of inspection in violation
+15 of section three hundred six of this chapter;
+16 (2) the failure to have adequate windshield wipers in violation of
+17 paragraph (b) of subdivision one of section three hundred seventy-five
+18 of this chapter;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05359-02-5
+
+S. 3662--A 2
+1 (3) the failure to have two lighted headlamps, in violation of subpar-
+2 agraph one of paragraph (a) of subdivision two of section three hundred
+3 seventy-five of this chapter if the vehicle has one lighted headlamp;
+4 (4) the failure to have two lighted lamps on the rear, in violation of
+5 subparagraph three of paragraph (a) of subdivision two of section three
+6 hundred seventy-five of this chapter if the vehicle has one lighted rear
+7 lamp;
+8 (5) the failure to have a light that illuminates the license plate, in
+9 violation of subparagraph four of paragraph (a) of subdivision two of
+10 section three hundred seventy-five of this chapter;
+11 (6) improper alignment or height of headlights, in violation of para-
+12 graph (b) of subdivision two of section three hundred seventy-five of
+13 this chapter;
+14 (7) excessively bright headlights, in violation of paragraph (c) of
+15 subdivision two of section three hundred seventy-five of this chapter;
+16 (8) obstructed view from a rearview mirror due to an item dangling
+17 from the mirror in violation of paragraph (a) of subdivision ten of
+18 section three hundred seventy-five of this chapter, unless the driver's
+19 view is so obstructed or compromised as to create a condition that
+20 increases the likelihood of injury or death;
+21 (9) obstructed view from an item on the front windshield in violation
+22 of paragraph (a) of subdivision twelve-a of section three hundred seven-
+23 ty-five of this chapter unless the driver's view is so obstructed or
+24 compromised as to create a condition that increases the likelihood of
+25 injury or death;
+26 (10) excessive tint in violation of subparagraph one, two, three or
+27 four of paragraph (b) of subdivision twelve-a of section three hundred
+28 seventy-five of this chapter;
+29 (11) obstructed view from an item on the front windshield in violation
+30 of subdivision thirty of section three hundred seventy-five of this
+31 chapter unless the driver's view is so obstructed or compromised as to
+32 create a condition that increases the likelihood of injury or death;
+33 (12) the failure to have two stop lamps, in violation of paragraph (b)
+34 of subdivision forty of section three hundred seventy-five of this chap-
+35 ter if the vehicle has one working stop lamp;
+36 (13) excessive noise in violation of paragraph (a) of subdivision
+37 three of section three hundred eighty-six of this chapter;
+38 (14) expired motor vehicle registration or failure to properly display
+39 registration tags, in violation of section four hundred one of this
+40 chapter;
+41 (15) the failure of a pedestrian to obey a traffic control device, in
+42 violation of paragraph three of subdivision (b) of section eleven
+43 hundred eleven of this title;
+44 (16) the failure of a pedestrian to obey a traffic control device, in
+45 violation of paragraph four of subdivision (d) of section eleven hundred
+46 eleven of this title;
+47 (17) the failure of a pedestrian to obey a traffic control device, in
+48 violation of subdivision (b) or (c) of section eleven hundred twelve of
+49 this title;
+50 (18) crossing the street in a diagonal, in violation of subdivision
+51 (c) of section eleven hundred fifty-five of this title;
+52 (19) the failure to use the right side of the crosswalk, in violation
+53 of section eleven hundred fifty-two of this title;
+54 (20) the failure of a pedestrian to use the sidewalk or walk on the
+55 left side of the road, in violation of section eleven hundred fifty-six
+56 of this title;
+
+S. 3662--A 3
+1 (21) the failure to signal a turn one hundred feet prior to turning,
+2 if such driver has signaled a turn at any time prior to turning, in
+3 violation of subdivision (b) of section eleven hundred sixty-three of
+4 this title;
+5 (22) any parking infraction in violation of section twelve hundred two
+6 of this title. Nothing in this provision shall prevent an officer from
+7 asking a driver unlawfully parked, or unlawfully obstructing traffic or
+8 a fire hydrant, to move their car;
+9 (23) littering, unless an object is thrown from a vehicle in a manner
+10 that creates a condition that increases the likelihood of injury or
+11 death, in violation of section twelve hundred twenty of this title; or
+12 (24) riding a bicycle without the proper lamp, bell, reflective tires
+13 or reflective devices, in violation of subdivisions (a), (b), (c), (d)
+14 and (e) of section twelve hundred thirty-six of this title, unless the
+15 ability to view the bicycle or cyclist is so compromised as to create a
+16 condition that substantially increases the likelihood of injury or
+17 death.
+18 (c) "Officer" means either a police officer as defined in subdivision
+19 thirty-four of section 1.20 of the criminal procedure law or a peace
+20 officer as defined in section 2.10 of the criminal procedure law.
+21 § 1107. Restrictions on traffic stops and searches. (a) (1) Except as
+22 provided in paragraph two of this subdivision, an officer shall not
+23 stop, arrest, or detain the operator of a motor vehicle or bicycle, or a
+24 pedestrian:
+25 (i) for a secondary violation or suspicion of a secondary violation as
+26 defined in section eleven hundred six of this article; or
+27 (ii) based on suspicion or probable cause to believe that the driver
+28 or any passenger in the vehicle has an outstanding warrant for a failure
+29 to pay an outstanding fine or fee or for a failure to appear in court
+30 for any violation level offense.
+31 (2) An officer may stop, arrest, or detain the operator of a motor
+32 vehicle or bicycle or a pedestrian for a secondary violation if:
+33 (i) the officer lawfully stopped or detained the operator or pedestri-
+34 an for a primary violation or other offense not enumerated in this chap-
+35 ter; or
+36 (ii) the operator is driving a commercial vehicle.
+37 (3) Notwithstanding paragraph two of this subdivision, an officer
+38 shall not stop, detain, or arrest the operator or passenger of a motor
+39 vehicle or bicycle, or a pedestrian when the primary reason for the
+40 stop, detention, or arrest is the person's race, creed, color, national
+41 origin, or other protected status under the human rights law.
+42 (4) Evidence derived from a stop based solely on a secondary violation
+43 shall be inadmissible in court.
+44 (b) (1) Prior to asking for consent to search a vehicle, an officer
+45 shall advise an individual of their right to refuse the search. The
+46 officer shall provide the driver or passenger with a form setting forth
+47 the right to refuse the search, and the driver or passenger must sign a
+48 form stating that the driver or passenger has been informed of the right
+49 to refuse the search, and waives that right. The information and form
+50 must be provided to the driver or passenger in that person's native
+51 language.
+52 (2) Following a stop for a violation of this chapter, any officer
+53 equipped with a body-worn camera must activate the camera. Prior to any
+54 search of an individual or their property following such a stop, the
+55 officer must state the reason for any search of an individual's person,
+56 property or vehicle on the body-worn camera.
+
+S. 3662--A 4
+1 (3) In any stop other than those based on an alleged violation of
+2 subdivision four or four-a of section eleven hundred ninety-two of this
+3 title, or paragraph (e) of subdivision two of section forty-nine-a of
+4 the navigation law, or paragraph (d) of subdivision one of section 25.24
+5 of the parks, recreation and historic preservation law, an officer's
+6 perception of the odor of cannabis shall not serve as a basis to search
+7 a motor vehicle, or to search the driver, occupants, or any of the
+8 contents of a motor vehicle.
+9 (4) An officer may not use a drug-detection canine on a stopped motor
+10 vehicle unless the officer has probable cause to believe either that the
+11 motor vehicle contains illegal narcotics (other than cannabis), or that
+12 a driver or an occupant of the motor vehicle possesses illegal narcotics
+13 (other than cannabis).
+14 § 1108. Data collection. (a) No later than January first, two thousand
+15 twenty-six, each law enforcement agency subject to the provisions of
+16 this article shall begin collecting incident-level data on all traffic
+17 stops conducted by officers employed by the law enforcement agency,
+18 including all information described in subdivision (c) of this section.
+19 (b) No later than January first, two thousand twenty-seven, each law
+20 enforcement agency collecting information as provided in this section
+21 shall furnish annually to the division of criminal justice services, in
+22 a manner defined and prescribed by the division, a report of all stops
+23 conducted in the prior year by officers employed by the agency.
+24 (c) Each report required under subdivision (b) of this section shall
+25 include, at a minimum, the following information for each stop or
+26 arrest:
+27 (1) the time, date, duration, and location of the stop;
+28 (2) the reason for the stop including the penal statute or provision
+29 of this chapter alleged to have been violated, if any;
+30 (3) the year, make, model, registration number and state of registra-
+31 tion of the vehicle;
+32 (4) the result of the stop, such as no action, warning, citation,
+33 search, use of physical force, entry of information into a data
+34 collection database, or arrest;
+35 (5) the perceived race or ethnicity, gender, and age of each person
+36 stopped;
+37 (6) whether the person stopped appeared to be experiencing a mental or
+38 other behavioral crisis;
+39 (7) actions taken by the officer during the stop, including, but not
+40 limited to, the following:
+41 (i) whether the officer searched any person, vehicle, or any property,
+42 and, if so, the type of search (e.g., pat-down), the basis for the
+43 search, and the type of contraband or evidence discovered, if any;
+44 (ii) whether the officer asked for consent to search the person or any
+45 property, and, if so, whether consent was provided;
+46 (iii) whether the officer seized any property and, if so, a
+47 description of all property seized and the basis for the seizure;
+48 (iv) if weapons, marijuana or controlled substances were seized,
+49 detailed descriptions of such items including weight of any substances,
+50 and make and model of any weapons;
+51 (v) whether the officer used physical force against any person and, if
+52 so, the type of force used, including whether any weapon was used;
+53 (vi) if anyone, whether officer or civilian, was injured, a
+54 description of all injuries to each person, whether treatment was
+55 provided, and the facility, if any, at which treatment was provided;
+
+S. 3662--A 5
+1 (vii) whether the officer pointed a firearm or a conducted energy
+2 device at any person;
+3 (viii) whether a police dog performed a sniff, and if so, whether the
+4 dog alerted to the presence of contraband;
+5 (ix) whether the officer ordered any person to exit the vehicle and if
+6 so, where such person was detained;
+7 (x) whether the officer handcuffed or otherwise physically restrained
+8 any person during the stop, such as by placing a person in a police
+9 vehicle; and
+10 (xi) whether the officer checked, or asked dispatch to check, for any
+11 outstanding warrants for the person;
+12 (8) if a traffic summons or ticket was issued, the violation or
+13 violations alleged;
+14 (9) if an arrest was made, the offense or offenses charged;
+15 (10) the following information about the officer conducting the stop:
+16 (i) the officer's unique identification number; and
+17 (ii) the nature of the officer's assignment;
+18 (11) whether anyone died as a result of the encounter;
+19 (12) whether there was a motor vehicle accident; and
+20 (13) whether the stop resulted in the seizure and/or impoundment of
+21 the vehicle, and the basis for such seizure.
+22 (d) Law enforcement agencies subject to this section shall not report
+23 or make publicly available the address, social security number, or other
+24 unique personal identifying information of the persons stopped,
+25 searched, or subjected to a property seizure. Law enforcement agencies
+26 are solely responsible for ensuring that restricted information of the
+27 individual stopped is not transmitted to the department of criminal
+28 justice or otherwise released to the public.
+29 (e) Each law enforcement agency covered by this section shall develop
+30 and make publicly available a policy governing review and auditing of
+31 stop data collected to ensure officer compliance with the requirements
+32 of this article.
+33 § 1109. Effect. (a) Nothing in this section shall be construed to
+34 preempt or limit existing remedies or causes of action that may be trig-
+35 gered by violations of this article.
+36 (b) (1) This article shall supercede any local law or ordinance that
+37 would expand the bases for an officer to engage in a stop, search, cita-
+38 tion, detention, arrest, or questioning beyond those specifically
+39 enumerated in this article, or otherwise conflict with or frustrate the
+40 purpose of any provision of this article.
+41 (2) This article shall not preempt local laws that would restrict
+42 further the role of law enforcement officers in traffic enforcement,
+43 including by:
+44 (i) assigning certain traffic enforcement functions to local officials
+45 or personnel who are authorized to conduct such functions instead of
+46 sworn law enforcement officers; or
+47 (ii) placing additional limits on officer conduct or questioning
+48 during traffic stops.
+49 § 2. The criminal procedure law is amended by adding a new section
+50 60.77 to read as follows:
+51 § 60.77 Rules of evidence; admissibility of evidence derived from the
+52 unlawful stop of a motor vehicle, bicyclist or pedestrian.
+53 1. Evidence derived from the unlawful stop of a motor vehicle, bicy-
+54 clist or pedestrian by a law enforcement officer that was primarily
+55 based on a person's race, creed, color, national origin, or other status
+56 protected under the human rights law, shall be inadmissible in a crimi-
+
+S. 3662--A 6
+1 nal action against such person or any other person whose freedom of
+2 movement was affected by the stop.
+3 2. For purposes of this section a stop is unlawful when, notwithstand-
+4 ing the existence of probable cause or reasonable suspicion to believe a
+5 person has committed a traffic infraction or a petty offense defined in
+6 any city, town or village code, the law enforcement officer would not
+7 have initiated the stop but for a person's race, creed, color, national
+8 origin or other status protected under the human rights law.
+9 3. A motion to exclude evidence pursuant to this section shall be made
+10 and determined in the same manner as a pre-trial motion to suppress
+11 evidence pursuant to article seven hundred ten of this chapter, and the
+12 defendant shall bear the burden of proving by a preponderance of the
+13 evidence that the stop was unlawful within the meaning of this section.
+14 In evaluating the motion to exclude, the court shall consider the nature
+15 of the traffic infraction or offense giving rise to the stop, the law
+16 enforcement officer's usual duties with respect to enforcement of the
+17 vehicle and traffic law or city, town or village code provision, any
+18 evidence of a pattern of discriminatory enforcement of such law within
+19 the jurisdiction, and any other evidence that may prove or disprove that
+20 such law was a pretext for an unlawful stop within the meaning of this
+21 section.
+22 4. An order granting a motion to exclude evidence pursuant to this
+23 section shall be appealable by the people in the same manner as an order
+24 suppressing evidence pursuant to subdivision eight of section 450.20 of
+25 this chapter, and an order denying a motion shall be appealable by the
+26 defendant pursuant to section 450.10 of this chapter.
+27 § 3. Section 837 of the executive law is amended by adding a new
+28 subdivision 24 to read as follows:
+29 24. Accept information from law enforcement agencies pursuant to
+30 subdivision (c) of section eleven hundred eight of the vehicle and traf-
+31 fic law and make the information, including the unique identification
+32 number of the officer making the stop, publicly available online in a
+33 manner that is clear, understandable, analyzable, and accessible to the
+34 public.
+35 § 4. This act shall take effect on the first of January next succeed-
+36 ing the date upon which it shall have become a law.

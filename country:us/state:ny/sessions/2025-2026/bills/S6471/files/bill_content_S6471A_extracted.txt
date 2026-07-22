@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - S6471A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6471--A
+2025-2026 Regular Sessions
+IN SENATE
+March 14, 2025
+___________
+Introduced by Sen. CLEARE -- read twice and ordered printed, and when
+printed to be committed to the Committee on Investigations and Govern-
+ment Operations -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the real property law, in relation to the use of auto-
+mated housing decision making tools to make housing decisions
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The real property law is amended by adding a new section
+2 227-g to read as follows:
+3 § 227-g. Use of automated housing decision making tools. 1. For the
+4 purposes of this section, the following terms shall have the following
+5 meanings:
+6 (a) "Automated housing decision making tool" means any software that
+7 uses algorithms, computational models, or artificial intelligence tech-
+8 niques, or a combination thereof, to materially automate, substantially
+9 assist, or replace human decision-making regarding housing decisions
+10 that impact natural persons. "Automated housing decision making tool"
+11 does not include a tool that does not automate, support, substantially
+12 assist, or replace discretionary decision-making processes and that does
+13 not materially impact natural persons, including, but not limited to, a
+14 junk email filter, firewall, antivirus software, calculator, spread-
+15 sheet, database, data set, or other compilation of data.
+16 (b) "Disparate impact analysis" means an impartial evaluation
+17 conducted by an independent auditor. Such disparate impact analysis
+18 shall include, but not be limited to, testing of the extent to which use
+19 of an automated housing decision making tool is likely to result in an
+20 adverse impact to the detriment of any group on the basis of sex, race,
+21 ethnicity, or other protected class under this article. A disparate
+22 impact analysis shall differentiate between applicants who were selected
+23 and applicants who were not selected by the tool.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05259-03-5
+
+S. 6471--A 2
+1 (c) "Housing decision" means to screen applicants for housing.
+2 2. It shall be unlawful for a landlord to implement or use an auto-
+3 mated housing decision making tool, including the use of an automated
+4 housing decision making tool that issues a score, classification, or
+5 recommendation, that fails to comply with the following provisions:
+6 (a) No less than annually, a disparate impact analysis shall be
+7 conducted to assess the actual impact of any automated housing decision
+8 making tool used by any landlord to select applicants for housing within
+9 the state. Such disparate impact analysis shall be provided to the land-
+10 lord.
+11 (b) A summary of the most recent disparate impact analysis of such
+12 tool as well as the distribution date of the tool to which the analysis
+13 applies shall be made publicly available on the website of the landlord
+14 prior to the implementation or use of such tool. Such summary shall
+15 also be made accessible through any listing for housing on a digital
+16 platform for which the landlord intends to use an automated housing
+17 decision making tool to screen applicants for housing.
+18 3. (a) Any landlord that uses an automated housing decision making
+19 tool to screen applicants for housing shall notify each such applicant
+20 of the following:
+21 (i) That an automated housing decision making tool will be used in
+22 connection with the assessment or evaluation of such applicant;
+23 (ii) The characteristics that such automated housing decision making
+24 tool will use in the assessment of such applicant;
+25 (iii) Information about the type of data collected for such automated
+26 housing decision making tool, the source of such data, and the land-
+27 lord's data retention policy; and
+28 (iv) If an application for housing is denied through use of the auto-
+29 mated housing decision making tool, the reason for such denial.
+30 (b) The notice required by paragraph (a) of this subdivision shall be
+31 made no less than twenty-four hours before the use of such automated
+32 housing decision making tool and shall allow such applicant to request
+33 an alternative selection process or accommodation.
+34 4. The attorney general may initiate an investigation if a preponder-
+35 ance of the evidence, including the summary of the most recent disparate
+36 impact analysis establishes a suspicion of a violation. The attorney
+37 general may also initiate in any court of competent jurisdiction any
+38 action or proceeding that may be appropriate or necessary for correction
+39 of any violation issued pursuant to this section, including mandating
+40 compliance with the provisions of this section or such other relief as
+41 may be appropriate.
+42 § 2. This act shall take effect immediately.

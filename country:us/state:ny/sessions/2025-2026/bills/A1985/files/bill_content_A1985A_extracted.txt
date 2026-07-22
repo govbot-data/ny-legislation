@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - A1985A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1985--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 14, 2025
+___________
+Introduced by M. of A. PAULIN, DE LOS SANTOS, BEEPHAN, BORES, EPSTEIN --
+read once and referred to the Committee on Health -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public health law, in relation to establishing a
+state frontotemporal degeneration registry
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 2 of the public health law is amended by adding a
+2 new title 9 to read as follows:
+3 TITLE IX
+4 STATE FRONTOTEMPORAL DEGENERATION
+5 REGISTRY
+6 Section 269-a. Definitions.
+7 269-b. Registry established.
+8 269-c. Reports.
+9 269-d. New York state frontotemporal degeneration registry
+10 website.
+11 § 269-a. Definitions. For the purposes of this title:
+12 1. "Frontotemporal degeneration disorders" or "FTD disorders" means a
+13 group of clinical disorders caused by progressive nerve cell loss in the
+14 brain's frontal lobes and/or temporal lobes which can lead to loss of
+15 function in these brain regions, which variably cause deterioration in
+16 behavior, personality and/or difficulty with producing or comprehending
+17 language, as well as loss of motor control and movement. For the
+18 purposes of this title frontotemporal degeneration disorders is the same
+19 as "FTD" and includes, but is not limited to behavioral variant FTD,
+20 primary progressive aphasia, corticobasal syndrome, and progressive
+21 supranuclear palsy. Some individuals with FTD may also be diagnosed with
+22 ALS.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02004-03-5
+
+A. 1985--A 2
+1 2. "Dementia" means a usually progressive condition marked by the
+2 development of multiple cognitive deficits, which may include but is not
+3 exclusive to memory impairment, aphasia, and the inability to plan and
+4 initiate complex behavior. Dementia has numerous different causes
+5 including but not limited to FTD, Alzheimer's disease, Lewy Body Demen-
+6 tia and Vascular Dementia.
+7 § 269-b. Registry established. 1. The department, in conjunction with
+8 the state office for the aging, shall collect data on the incidence of
+9 FTD disorders in this state and other epidemiological data. The registry
+10 and system of collection and dissemination of information shall be under
+11 the direction of the commissioner, who may enter into contracts, grants
+12 or other agreements as are necessary for the conduct of the registry.
+13 2. (a) The department shall, within ninety days of the effective date
+14 of this section, establish a frontotemporal degeneration registry advi-
+15 sory committee to assist in the development and implementation of the
+16 registry; determine what data shall be collected, in addition to the
+17 data required by section two hundred sixty-nine-c of this title for
+18 annual reports; and generally, advise the department. Following the
+19 completion of the registry, the advisory committee shall assist the
+20 department with the creation and publication of the reports required by
+21 section two hundred sixty-nine-c of this title.
+22 (b) Members of the committee shall be selected by the governor, the
+23 legislature and the commissioner. The governor, the temporary president
+24 of the senate, the speaker of the assembly and the commissioner shall
+25 each select two committee members and the minority leaders of the senate
+26 and the assembly shall each select one committee member. Membership of
+27 the committee shall include:
+28 (i) a neurologist;
+29 (ii) a speech pathologist;
+30 (iii) a primary care provider;
+31 (iv) a physician informaticist;
+32 (v) a patient living with frontotemporal degeneration;
+33 (vi) a caregiver of a patient living with frontotemporal degeneration;
+34 (vii) a public health professional;
+35 (viii) a population health researcher familiar with registries;
+36 (ix) a frontotemporal degeneration researcher;
+37 (x) a member of an organization that raises awareness about and
+38 promotes research for the treatment of frontotemporal degeneration; and
+39 (xi) anyone else the commissioner deems necessary.
+40 3. (a) The department shall designate FTD disorders as advised by the
+41 advisory committee as a clinical diagnoses required to be reported in
+42 the state or any part of the state.
+43 (b) The department shall establish a system for the collection and
+44 dissemination of information determining the rate of clinical diagnoses
+45 of FTD disorders, as advised by the advisory committee.
+46 (c) All cases of frontotemporal degeneration diagnosed or treated in
+47 this state shall be reported to the department, provided the mere inci-
+48 dence of a patient with frontotemporal degeneration shall be the sole
+49 required information for this registry for any patient who chooses not
+50 to participate. For the subset of patients who choose not to partic-
+51 ipate, no further data shall be reported to the registry. The department
+52 may create, review and revise a list of data points required as part of
+53 mandated frontotemporal degeneration reporting under this section. Such
+54 list shall include, but not be limited to necessary triggering diagnos-
+55 tic conditions, consistent with the latest International Statistical
+56 Classification of Diseases and Related Health Problems, and resulting
+
+A. 1985--A 3
+1 case data including, but not limited to, diagnosis, treatment and
+2 survival. The department may implement and administer this paragraph
+3 through a bulletin, or similar instruction, to providers without taking
+4 regulatory action.
+5 (d) The department shall provide notification of the mandatory report-
+6 ing of FTD disorders on its website and may also provide that informa-
+7 tion to professional associations representing physicians, nurse practi-
+8 tioners, and hospitals at least ninety days prior to requiring
+9 information be reported.
+10 (e) A hospital, facility, physician, surgeon, physician assistant and
+11 nurse practitioners who diagnose or are treating a patient diagnosed
+12 with an FTD disorder and have primary responsibility for the treatment
+13 and care of the patient for an FTD disorder shall report each case of an
+14 FTD disorder to the department in a format prescribed by the department.
+15 The department is authorized to enter into data sharing contracts with
+16 data reporting entities and their associated electronic medical record
+17 systems vendors to securely and confidentially receive information
+18 related to frontotemporal degeneration testing, diagnosis and treatment.
+19 4. All patients diagnosed with an FTD disorder, as advised by the
+20 advisory committee, shall be provided a notice in writing and orally
+21 regarding the collection of information and patient data on frontotempo-
+22 ral degeneration. Patients who do not wish to participate in the
+23 collection of data for purposes of research in this registry shall
+24 affirmatively opt-out in writing after an opportunity to review the
+25 documents and ask questions. The patient's caregiver may opt-out on the
+26 patient's behalf, if the patient is unable to do so of their own accord.
+27 No patient shall be required to participate in this registry.
+28 5. The department may enter into agreements to furnish data collected
+29 in this registry to other states' frontotemporal degeneration regis-
+30 tries, federal frontotemporal degeneration control agencies, local
+31 health officers, or health researchers for the study of frontotemporal
+32 degeneration. Before confidential information is disclosed to those
+33 agencies, officers, researchers, or out-of-state registries, the
+34 requesting entity shall agree in writing to maintain the confidentiality
+35 of the information, and in the case of researchers, shall also do both
+36 of the following:
+37 (a) obtain approval of their committee for the protection of human
+38 subjects established in accordance with Part 46 (commencing with Section
+39 46.101) of Title 45 of the Code of Federal Regulations; and
+40 (b) provide documentation to the department that demonstrates to the
+41 department's satisfaction that the entity has established the procedures
+42 and ability to maintain the confidentiality of the information.
+43 6. Except as otherwise provided in this section, all information
+44 collected pursuant to this section shall be confidential. For purposes
+45 of this section, this information shall be referred to as confidential
+46 information. To ensure privacy, the department shall promulgate a coding
+47 system that removes any identifying information about the patient.
+48 7. (a) Notwithstanding any other law, a disclosure authorized by this
+49 section shall include only the information necessary for the stated
+50 purpose of the requested disclosure, used for the approved purpose, and
+51 not be further disclosed.
+52 (b) Provided the security of confidentiality has been documented, the
+53 furnishing of confidential information to the department or its author-
+54 ized representative in accordance with this section shall not expose any
+55 person, agency or entity furnishing information to liability, and shall
+
+A. 1985--A 4
+1 not be considered a waiver of any privilege or a violation of a confi-
+2 dential relationship.
+3 (c) The department shall maintain an accurate record of all persons
+4 who are given access to confidential information. The record shall
+5 include: the name of the person authorizing access; name, title,
+6 address, and organizational affiliation of persons given access; dates
+7 of access; and the specific purpose for which information is to be used.
+8 The record of access shall be open to public inspection during normal
+9 operating hours of the department.
+10 (d) Notwithstanding any other law, confidential information shall not
+11 be available for subpoena, shall not be disclosed, discoverable or
+12 compelled to be produced in any civil, criminal, administrative or other
+13 proceeding. Confidential information shall not be deemed admissible as
+14 evidence in any civil, criminal, administrative or other tribunal or
+15 court for any reason.
+16 (e) This subdivision does not prohibit the publication by the depart-
+17 ment of reports and statistical compilations that do not in any way
+18 identify individual cases or individual sources of information.
+19 (f) Notwithstanding the restrictions in this subdivision, the individ-
+20 ual to whom the information pertains shall have access to such individ-
+21 ual's own information.
+22 8. This section does not preempt the authority of facilities or indi-
+23 viduals providing diagnostic or treatment services to patients with
+24 frontotemporal degeneration to maintain their own facility-based fronto-
+25 temporal degeneration registries.
+26 § 269-c. Reports. 1. On or before January first, two thousand twen-
+27 ty-seven, and every year thereafter, the department, in conjunction with
+28 the advisory committee, shall report to the legislature and governor a
+29 yearly program summary update on the rate of clinical diagnoses of FTD
+30 disorders in the state. Such report shall include:
+31 (a) the incidence and prevalence of frontotemporal degeneration by
+32 county;
+33 (b) how many records have been included and reported into the regis-
+34 try;
+35 (c) demographic information such as patients by age, gender and race;
+36 (d) the number of new diagnoses in the preceding year;
+37 (e) a summary of advancements in the treatment and newly developed
+38 treatments of frontotemporal degeneration;
+39 (f) a list of resources for the families of patients diagnosed with an
+40 FTD disorder, which shall include but not be limited to support from the
+41 state or federal government, support groups and helplines;
+42 (g) the resources available for the care of patients with frontotempo-
+43 ral degeneration by region;
+44 (h) information related to the cost of care for patients who have been
+45 diagnosed with an FTD disorder; and
+46 (i) the number of patients diagnosed with an FTD disorder who had
+47 previously received an incorrect diagnosis for their frontotemporal
+48 degeneration related symptoms and the amount of time it took to receive
+49 the FTD disorder diagnosis.
+50 2. The yearly report shall be published in a downloadable format on
+51 the department's website and the designated New York state frontotempo-
+52 ral degeneration registry website.
+53 § 269-d. New York state frontotemporal degeneration registry website.
+54 On or before January first, two thousand twenty-seven, the department
+55 shall create and maintain a webpage called the "New York State Fronto-
+56 temporal Degeneration Registry" where the public may view information
+
+A. 1985--A 5
+1 related to the registry, a yearly program summary, the information
+2 required to be included in the yearly reports pursuant to section two
+3 hundred sixty-nine-c of this title, and any other relevant or helpful
+4 information related to the registry as deemed necessary by the advisory
+5 council.
+6 § 2. This act shall take effect on the thirtieth day after it shall
+7 have become a law.

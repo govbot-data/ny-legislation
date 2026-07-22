@@ -1,0 +1,663 @@
+Title: 
+Official Title: 
+Source: versions - S1169B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1169--B
+2025-2026 Regular Sessions
+IN SENATE
+January 8, 2025
+___________
+Introduced by Sens. GONZALEZ, BAILEY, BRISPORT, BYNOE, CLEARE, FAHY,
+FERNANDEZ, GOUNARDES, HINCHEY, JACKSON, KRUEGER, LIU, MAY, PARKER,
+PERSAUD, RIVERA, SALAZAR, SANDERS, WEBB -- read twice and ordered
+printed, and when printed to be committed to the Committee on Internet
+and Technology -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- recommitted
+to the Committee on Internet and Technology in accordance with Senate
+Rule 6, sec. 8 -- reported favorably from said committee and committed
+to the Committee on Finance -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the civil rights law and the executive law, in relation
+to the use of artificial intelligence systems
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "New York
+2 artificial intelligence act (New York AI act)".
+3 § 2. Legislative findings and intent. The legislature finds and
+4 declares the following:
+5 (a) A revolution in artificial intelligence (AI) has advanced to the
+6 point that comprehensive regulations must be enacted to protect New
+7 Yorkers.
+8 (b) Artificial intelligence is already an integral part of New York-
+9 ers' daily lives. In the private sector, AI is currently in use in areas
+10 such as education, health care, employment, insurance, credit scoring,
+11 public safety, retail, banking and financial services, media, and more
+12 with little transparency or oversight. A growing body of research shows
+13 that AI systems that are deployed without adequate testing, sufficient
+14 oversight and robust guardrails can harm consumers and deny historically
+15 disadvantaged groups the full measure of their civil rights and liber-
+16 ties, thereby further entrenching inequalities. The legislature must act
+17 to ensure that all uses of AI, especially those that affect important
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04409-06-6
+
+S. 1169--B 2
+1 life chances, are free from harmful biases, protect our privacy, and
+2 work for the public good.
+3 (c) Safe innovation must remain a priority for the state. New York
+4 state is home to thousands of technology start-ups, many of which exper-
+5 iment with new applications of AI and which have the potential to find
+6 new ways to employ technology at the service of New Yorkers. The goal of
+7 the legislature is to encourage safe innovation in the AI sector by
+8 providing clear guidance for AI development, testing, and validation
+9 both before a product is launched and throughout the product's life
+10 cycle.
+11 (d) New York must establish that the burden of responsibility of prov-
+12 ing that AI products do not cause harm to New Yorkers will be shouldered
+13 by the developers and deployers of AI. While government and civil socie-
+14 ty must act to audit and enforce human rights laws around the use of AI,
+15 the companies employing and profiting from the use of AI must lead in
+16 ensuring that their products are free from algorithmic discrimination.
+17 (e) Close collaboration and communication between New York state and
+18 industry partners is key to ensuring that innovation can occur with
+19 safeguards to protect all New Yorkers. This legislation will ensure that
+20 lines of communication exist and that there is clear statutory authority
+21 to investigate and prosecute entities that break the law.
+22 (f) As new forms of AI are developed beyond what is currently techno-
+23 logically feasible, the goal of the legislature is to use this section
+24 as a guiding light for future regulations.
+25 (g) Lastly, it is in the interest of all New Yorkers that certain uses
+26 of AI that infringe on fundamental rights, deepen structural inequality,
+27 or that result in unequal access to services shall be banned.
+28 § 3. The civil rights law is amended by adding a new article 10-A to
+29 read as follows:
+30 ARTICLE 10-A
+31 PROTECTIONS REGARDING USE OF ARTIFICIAL INTELLIGENCE
+32 Section 105. Definitions.
+33 106. Unlawful discriminatory practice.
+34 107. Jurisdictional scope.
+35 108. Deployer and developer obligations.
+36 109. Whistleblower protections.
+37 110. Audits.
+38 111. High-risk AI system reporting requirements.
+39 112. Risk management policy and program.
+40 113. Social scoring AI systems prohibited.
+41 114. Enforcement.
+42 115. Severability.
+43 § 105. Definitions. The following terms shall have the following mean-
+44 ings:
+45 1. "Algorithmic discrimination" means any condition in which the use
+46 of an AI system contributes to unjustified differential treatment or
+47 impacts, disfavoring people based on their actual or perceived age,
+48 race, ethnicity, creed, religion, color, national origin, citizenship or
+49 immigration status, sexual orientation, gender identity, gender
+50 expression, military status, sex, disability, predisposing genetic char-
+51 acteristics, familial status, marital status, status as a victim of
+52 domestic violence or other classification protected under state or
+53 federal laws. Algorithmic discrimination shall not include:
+54 (a) a developer's or deployer's testing of their own AI system to
+55 identify, mitigate, and prevent discriminatory bias;
+
+S. 1169--B 3
+1 (b) expanding an applicant, customer, or participant pool to increase
+2 diversity or redress historical discrimination; or
+3 (c) an act or omission by or on behalf of a private club or other
+4 establishment that is not in fact open to the public, as set forth in
+5 Title II of the federal Civil Rights Act of 1964, 42 U.S.C. section
+6 2000a(e), as amended.
+7 2. "Artificial intelligence system" or "AI system" means a machine-
+8 based system or combination of systems, that for a given set of human-
+9 defined objectives, makes predictions, recommendations, or decisions
+10 influencing real or virtual environments, and that uses machine- and
+11 human-based inputs to perceive real and virtual environments, abstracts
+12 such perceptions into models through analysis in an automated manner,
+13 and uses model inference to formulate options for information or action.
+14 Artificial intelligence system shall not include:
+15 (a) any system that (i) is used by a business entity solely for inter-
+16 nal purposes and (ii) is not used as a substantial factor in a conse-
+17 quential decision; or
+18 (b) any software used primarily for narrow procedural tasks or basic
+19 computerized processes, such as anti-malware, anti-virus, auto-correct
+20 functions, calculators, databases, data storage, electronic communi-
+21 cations, firewall, internet domain registration, internet website load-
+22 ing, networking, spam and robocall-filtering, spellcheck tools, spread-
+23 sheets, web caching, web hosting, or any tool that relates only to
+24 internal management affairs such as ordering office supplies or process-
+25 ing payments, and that do not materially affect the rights, liberties,
+26 benefits, safety or welfare of any individual within the state.
+27 3. "Auditor" shall refer to an independent entity including but not
+28 limited to an individual, non-profit, firm, corporation, partnership,
+29 cooperative, association, academic institution, or group affiliated with
+30 an academic institution, commissioned to perform an audit.
+31 4. "Consequential decision" means a decision or judgment that has a
+32 material, legal or similarly significant effect on an individual's
+33 access to, or the cost, terms, or availability of, any of the following:
+34 (a) Employment, workers' management, or self-employment, including,
+35 but not limited to, all of the following:
+36 (i) Pay or promotion; and
+37 (ii) Hiring or termination.
+38 (b) Education and vocational training, including, but not limited to,
+39 all of the following:
+40 (i) Accreditation;
+41 (ii) Certification;
+42 (iii) Admissions; and
+43 (iv) Financial aid or scholarships.
+44 (c) Housing or lodging, including rental or short-term housing or
+45 lodging.
+46 (d) Family planning, including adoption services or reproductive
+47 services, as well as assessments related to child protective services.
+48 (e) Health care or health insurance, including mental health care,
+49 dental, or vision, except for radiology.
+50 (f) Financial services, including a financial service provided by a
+51 mortgage company, mortgage broker, or creditor.
+52 (g) Legal services.
+53 5. "Covered deployer" means a deployer that uses a high-risk AI system
+54 to make one or more consequential decisions with respect to covered
+55 subjects.
+
+S. 1169--B 4
+1 6. "Deployer" means any person, partnership, association or corpo-
+2 ration that uses or makes an AI system available to one or more third
+3 parties including the general public for use, modification, copying, or
+4 a combination thereof with their software. A deployer shall not include
+5 any natural person using an AI system for personal use. A developer may
+6 also be considered a deployer if its actions satisfy this definition.
+7 7. "Covered developer" means a developer that trained or initiated the
+8 training of an AI system that is used to make one or more consequential
+9 decisions with respect to covered subjects.
+10 8. "Developer" means a person, partnership, or corporation that
+11 trained or initiated the training of an AI system, or creates a substan-
+12 tial change with respect to an AI system, whether for its own use in the
+13 state of New York or for use by a third party. A deployer may also be
+14 considered a developer if its actions satisfy this definition.
+15 9. "Employee" means an individual who performs services for and under
+16 the control and direction of an employer for wages or other remunera-
+17 tion, including former employees, or natural persons employed as inde-
+18 pendent contractors to carry out work in furtherance of an employer's
+19 business enterprise who are not themselves employers.
+20 10. "Employer" means any person, firm, partnership, institution,
+21 corporation, or association that employs one or more employees.
+22 11. "Covered agent" means any individual that interacts, directly or
+23 indirectly, with a relevant AI system, developer, or deployer on behalf
+24 of a covered subject with the express consent of such covered subject.
+25 12. "Covered subject" means any individual or group of individuals
+26 that is the subject of a consequential decision made entirely by or with
+27 the assistance of an AI system.
+28 13. "Fair market value" shall have the same meaning as such term is
+29 defined in 20 NYCRR 3-2.3.
+30 14. "High-risk AI system" means any AI system that, when deployed:
+31 (a) is a substantial factor in making a consequential decision; or (b)
+32 will have a material impact on the statutory or constitutional rights,
+33 civil liberties, safety, or welfare of an individual in the state.
+34 15. "ISO 42001" means international standard ISO/IEC 42001:2023
+35 (Information technology -- Artificial intelligence -- Management
+36 system), published by the International Organization for Standardization
+37 on December eighteenth, two thousand twenty-three.
+38 16. "Risk management policy and program" means the risk management
+39 policy and program created pursuant to section one hundred twelve of
+40 this article.
+41 17. "Substantial change" means any new version, new release, or any
+42 other intentional update to an AI system that results in significant and
+43 material changes to such AI system's appropriate use cases, key func-
+44 tionality, or expected outcomes, including but not limited to:
+45 (a) significant and material changes to the AI system's training data;
+46 (b) significant and material changes to the AI system's decision
+47 criteria in an appropriate use case; and
+48 (c) significant and material expansions or contractions of the AI
+49 system's appropriate use cases.
+50 18. "Substantial factor" means a factor that is (a) material in making
+51 a consequential decision, or (b) is capable of altering the outcome of a
+52 consequential decision.
+53 19. "Meaningful human review" shall mean review, oversight and control
+54 of the AI system by one or more individuals who understand the risks,
+55 limitations, and functionality of, and are trained to use, the AI system
+56 and who have the authority to intervene or alter the decision under
+
+S. 1169--B 5
+1 review, including but not limited to the ability to approve, deny, or
+2 modify any decision recommended or made by the AI system.
+3 § 106. Unlawful discriminatory practice. It shall be an unlawful
+4 discriminatory practice for a developer or deployer to fail to take
+5 reasonable care to prevent foreseeable risk of algorithmic discrimi-
+6 nation that is a consequence of the use, sale, or sharing of a high-risk
+7 AI system or a product featuring a high-risk AI system.
+8 § 107. Jurisdictional scope. 1. This article applies to developers and
+9 deployers that conduct business in New York or produce products or
+10 services that are targeted to residents of New York.
+11 2. This article does not apply to any developer or deployer that is:
+12 (a) the New York state government, including any department, public
+13 authority, board, bureau, commission, division, office, council, commit-
+14 tee or officer of the state;
+15 (b) a local government, including any county, city, town, village,
+16 school district, board of cooperative educational services, county voca-
+17 tional education and extension board, district corporation or municipal
+18 corporation; or
+19 (c) the state university of New York, the city university of New York
+20 or a community college.
+21 § 108. Deployer and developer obligations. 1. Any covered deployer
+22 shall inform the covered subject and covered agent, if applicable, at
+23 the immediate onset of an engagement between the covered subject and the
+24 covered deployer as to the use of a high-risk AI system for the making
+25 of a consequential decision in clear, conspicuous, and consumer-friendly
+26 terms, made available in each of the languages in which the company
+27 offers its end services, that AI systems will be used to make a decision
+28 or to assist in making a decision; provided, however, that where there
+29 is an urgent necessity for a decision to be made to confer a benefit to
+30 the covered subject, including, but not limited to, social benefits,
+31 housing access, or dispending of emergency funds, and compliance with
+32 this section would cause imminent detriment to the welfare of the
+33 covered subject, such obligation shall be considered waived; provided
+34 further, that nothing in this section shall be construed to waive a
+35 natural person's option to request human review of the decision.
+36 2. (a) Any covered deployer shall inform the covered subject and
+37 covered agent, if applicable, within ten days in a clear, conspicuous
+38 and consumer-friendly manner that a high-risk AI system has been used to
+39 make a consequential decision. The deployer shall then provide and
+40 explain a process for the covered subject or covered agent to appeal the
+41 decision, which shall at minimum allow the covered subject or covered
+42 agent to (i) formally contest the decision, (ii) provide information to
+43 support their position, and (iii) obtain meaningful human review of the
+44 decision. A deployer shall respond to a covered subject's or covered
+45 agent's appeal within forty-five days of receipt of the appeal. That
+46 period may be extended once by forty-five additional days where reason-
+47 ably necessary, taking into account the complexity and number of
+48 appeals. The deployer shall inform the covered subject or covered agent,
+49 if applicable, of any such extension within forty-five days of receipt
+50 of the appeal, together with the reasons for the delay.
+51 (b) A covered subject shall be entitled to no more than one appeal
+52 with respect to the same consequential decision in a six-month period.
+53 3. The covered deployer or covered developer is legally responsible
+54 for quality and accuracy of all consequential decisions made, including
+55 any bias or algorithmic discrimination resulting from the operation of
+56 the AI system on their behalf.
+
+S. 1169--B 6
+1 4. Each covered deployer shall conduct meaningful human review of each
+2 consequential decision made with a high-risk AI system.
+3 5. The rights and obligations under this section may not be waived by
+4 any person, partnership, association or corporation.
+5 6. (a) If a developer intends that an AI system shall not be used as a
+6 high-risk AI system, such developer shall:
+7 (i) enter into a written and fully executed contractual agreement with
+8 each deployer authorized to use the artificial intelligence system
+9 developed by such developer, including the developer if they are also a
+10 deployer, that such artificial intelligence system will not be used as a
+11 high-risk AI system;
+12 (ii) implement reasonable technical safeguards designed to prevent or
+13 detect high-risk AI system use cases or otherwise demonstrate reasonable
+14 steps taken to ensure that any unauthorized deployments of its AI
+15 systems are not being used as a high-risk AI system;
+16 (iii) prominently display on its website, in marketing materials, and
+17 in all licensing agreements offered to prospective deployers of its AI
+18 system that the AI system cannot be used as a high-risk AI system; and
+19 (iv) maintain records of deployer agreements for a period of not less
+20 than five years.
+21 (b) Developers that have fully executed contractual agreements in
+22 force and effect with deployers as of the effective date of this section
+23 governing deployment of an AI system shall: (i) be deemed to be in
+24 compliance with paragraph (a) of this subdivision for a period of eigh-
+25 teen months following the effective date of this section and (ii) begin-
+26 ning eighteen months following the effective date of this section,
+27 comply with this subdivision by amendment of the existing contractual
+28 agreement or by creation of a new fully executed contractual agreement
+29 that satisfies the requirements of paragraph (a) of this subdivision.
+30 § 109. Whistleblower protections. 1. Covered developers and covered
+31 deployers shall not:
+32 (a) prevent any of their employees from disclosing information to the
+33 attorney general, including through terms and conditions of employment
+34 or seeking to enforce terms and conditions of employment, if the employ-
+35 ee has reasonable cause to believe the information indicates a violation
+36 of this article; or
+37 (b) retaliate against an employee for disclosing information to the
+38 attorney general pursuant to this section.
+39 2. An employee harmed by a violation of this article may petition a
+40 court for appropriate relief as provided in subdivision five of section
+41 seven hundred forty of the labor law.
+42 3. Covered developers and covered deployers shall provide a clear
+43 notice to all of their employees working on such AI systems of their
+44 rights and responsibilities under this article, including the right of
+45 employees of contractors and subcontractors to use, as relevant, the
+46 developer's or deployer's internal process for making protected disclo-
+47 sures pursuant to subdivision four of this section. A developer or
+48 deployer is presumed to be in compliance with the requirements of this
+49 subdivision if the developer or deployer does either of the following:
+50 (a) at all times post and display within all workplaces maintained by
+51 the developer or deployer a notice to all employees of their rights and
+52 responsibilities under this article, ensure that all new employees
+53 receive equivalent notice, and ensure that employees who work remotely
+54 periodically receive an equivalent notice; or
+55 (b) no less frequently than once every year, provide written notice to
+56 all employees of their rights and responsibilities under this article
+
+S. 1169--B 7
+1 and ensure that the notice is received and acknowledged by all of those
+2 employees.
+3 4. Each covered developer and covered deployer shall provide a reason-
+4 able internal process through which an employee may anonymously disclose
+5 information to the developer or deployer if the employee believes in
+6 good faith that the information indicates that the developer or deployer
+7 has violated any provision of this article or any other law, or has made
+8 false or materially misleading statements related to its risk management
+9 policy and program, or failed to disclose known risks to employees,
+10 including, at a minimum, a monthly update to the person who made the
+11 disclosure regarding the status of the developer's or deployer's inves-
+12 tigation of the disclosure and the actions taken by the developer or
+13 deployer in response to the disclosure.
+14 5. This section does not limit protections provided to employees under
+15 section seven hundred forty of the labor law.
+16 § 110. Audits. 1. Covered developers shall cause to be conducted
+17 audits in accordance with this section.
+18 (a) A covered developer shall complete at least:
+19 (i) a first audit within six months after completion of development of
+20 the high-risk AI system and the initial offering of the high-risk AI
+21 system to a deployer for deployment or, if the developer is first
+22 deployer to deploy the high-risk AI system, after initial deployment;
+23 and
+24 (ii) one audit every one year following the submission of the first
+25 audit.
+26 (b) A developer audit under this section shall include:
+27 (i) an evaluation and determination of whether the developer has taken
+28 reasonable care to prevent foreseeable risk of algorithmic discrimi-
+29 nation with respect to such high-risk AI system; and
+30 (ii) an evaluation of the developer's documented risk management poli-
+31 cy and program required under section one hundred twelve of this article
+32 for conformity with subdivision one of such section one hundred twelve.
+33 (c) Notwithstanding paragraph (b) of this subdivision, satisfactory
+34 audits under ISO 42001 completed in accordance with paragraph (a) of
+35 this subdivision shall be deemed to satisfy a developer's duty under
+36 this subdivision.
+37 2. Covered deployers shall cause to be conducted audits in accordance
+38 with this section.
+39 (a) A covered deployer shall complete at least:
+40 (i) a first audit within six months after initial deployment;
+41 (ii) a second audit within one year following the submission of the
+42 first audit; and
+43 (iii) one audit every two years following the submission of the second
+44 audit.
+45 (b) A deployer audit under this section shall include:
+46 (i) an evaluation and determination of whether the deployer has taken
+47 reasonable care to prevent foreseeable risk of algorithmic discrimi-
+48 nation with respect to such high-risk AI system;
+49 (ii) an evaluation of system accuracy and reliability with respect to
+50 such high-risk AI system's deployer-intended and actual use cases; and
+51 (iii) an evaluation of the deployer's documented risk management poli-
+52 cy and program required under section one hundred twelve of this article
+53 for conformity with subdivision one of such section one hundred twelve.
+54 (c) Notwithstanding paragraph (b) of this subdivision, satisfactory
+55 audits under ISO 42001 completed in accordance with paragraph (a) of
+
+S. 1169--B 8
+1 this subdivision shall be deemed to satisfy a covered deployer's duty
+2 under this subdivision.
+3 3. (a) Audits under this section shall be conducted by one or more
+4 thirty-party auditors. A deployer or developer may hire more than one
+5 auditor to fulfill the requirements of this section.
+6 (b) An auditor shall be an independent entity including, but not
+7 limited to, an individual, non-profit, firm, corporation, partnership,
+8 cooperative, or association.
+9 (c) For the purposes of this article, no auditor may be commissioned
+10 by a covered developer or covered deployer if such entity:
+11 (i) has already been commissioned to provide any auditing or non-au-
+12 diting service including, but not limited, to financial auditing,
+13 cybersecurity auditing, or consulting services of any type, to the
+14 commissioning company in the past twelve months; or
+15 (ii) is, will be, or plans to be engaged in the business of developing
+16 or deploying an AI system that can compete commercially with such devel-
+17 oper's or deployer's AI system in the five years following an audit.
+18 (d) Fees paid to auditors may not be contingent on the result of the
+19 audit and the commissioning company shall not provide any incentives or
+20 bonuses for a positive audit result.
+21 4. Notwithstanding subdivision three of this section, a covered devel-
+22 oper or covered deployer may conduct audits under this section using an
+23 auditor that is an employee of such developer or deployer, if the cost
+24 of an audit that complies with subdivision three exceeds one percent of
+25 the fair market value of such developer or deployer.
+26 5. At the attorney general's discretion, the attorney general may:
+27 (a) promulgate further rules as necessary to ensure that audits under
+28 this section assess whether or not AI systems produce algorithmic
+29 discrimination and otherwise comply with the provisions of this article;
+30 and
+31 (b) recommend an updated AI system auditing framework to the legisla-
+32 ture, where such recommendations are based on a standard or framework
+33 (i) designed to evaluate the risks of AI systems, and (ii) that is
+34 nationally or internationally recognized and consensus-driven, including
+35 but not limited to a relevant framework or standard created by the
+36 International Organization for Standardization.
+37 6. The independent auditor shall have complete and unredacted copies
+38 of all reports previously filed by the deployer or developer under
+39 section one hundred eleven of this article.
+40 7. An audit conducted under this section may be completed in part, but
+41 shall not be completed entirely, with the assistance of an AI system.
+42 (a) Acceptable auditor uses of an AI system include, but are not
+43 limited to:
+44 (i) use of an audited high-risk AI system in a controlled environment
+45 without impacts on covered subjects for system testing purposes; or
+46 (ii) detecting patterns in the behavior of an audited AI system.
+47 (b) An auditor shall not:
+48 (i) use a different high-risk AI system that is not the subject of an
+49 audit to complete an audit; or
+50 (ii) use an AI system to draft an audit under this section without
+51 meaningful human review and oversight.
+52 8. The attorney general may promulgate further rules to ensure (a) the
+53 independence of auditors under this section, and (b) that teams conduct-
+54 ing audits incorporate feedback from communities that may foreseeably be
+55 the subject of algorithmic discrimination with respect to the AI system
+56 being audited.
+
+S. 1169--B 9
+1 9. If a developer or deployer has an audit completed for the purpose
+2 of complying with another applicable federal, state, or local law or
+3 regulation, and the audit otherwise satisfies all other requirements of
+4 this section, such audit shall be deemed to satisfy the requirements of
+5 this section.
+6 § 111. High-risk AI system reporting requirements. 1. Every covered
+7 developer and covered deployer shall comply with the reporting require-
+8 ments of this section.
+9 2. Together with each report required to be filed under this section,
+10 every covered developer and covered deployer shall file with the depart-
+11 ment of financial services a copy of the last completed audit required
+12 by this article.
+13 3. Covered developers of high-risk AI systems shall complete and file
+14 with the department of financial services reports in accordance with
+15 this subdivision.
+16 (a) A covered developer shall complete and file with the department of
+17 financial services at least:
+18 (i) a first report within six months after completion of development
+19 of the high-risk AI system and the initial offering of the high-risk AI
+20 system to a deployer for deployment or, if the developer is first
+21 deployer to deploy the high-risk AI system, after initial deployment;
+22 (ii) one report annually following the submission of the first report;
+23 and
+24 (iii) one report within six months of any substantial change to the
+25 high-risk AI system.
+26 (b) A developer report under this section shall include:
+27 (i) a description of the system including:
+28 (A) the uses of the high-risk AI system that the developer intends;
+29 and
+30 (B) any explicitly unintended or disallowed uses of the high-risk AI
+31 system;
+32 (ii) an overview of how the high-risk AI system was developed;
+33 (iii) an overview of the high-risk AI system's training data; and
+34 (iv) if the developer conducted an audit in accordance with subdivi-
+35 sion four of section one hundred ten of this article, an overview of the
+36 audit, including how the audit was structured, how the audit was
+37 conducted, and information on the auditor; and
+38 (v) any other information necessary to allow a covered deployer to:
+39 (A) understand the outputs and monitor the system for compliance with
+40 this article; and
+41 (B) fulfill its duties under this article.
+42 4. Covered deployers shall complete and file with the department of
+43 financial services reports in accordance with this subdivision.
+44 (a) A covered deployer shall complete and file with the department of
+45 financial services at least:
+46 (i) a first report within six months after initial deployment;
+47 (ii) a second report within one year following the completion and
+48 filing of the first report;
+49 (iii) one report every two years following the completion and filing
+50 of the second report; and
+51 (iv) one report within six months of any substantial change to the
+52 high-risk AI system.
+53 (b) A deployer report under this section shall include:
+54 (i) a description of the system including:
+55 (A) the deployer's actual, intended, or planned uses of the high-risk
+56 AI system with respect to consequential decisions; and
+
+S. 1169--B 10
+1 (B) whether the deployer is using the high-risk AI system for any
+2 developer unintended or disallowed uses; and
+3 (ii) an impact assessment including:
+4 (A) whether the high-risk AI system poses a risk of algorithmic
+5 discrimination and the steps taken to address the risk of algorithmic
+6 discrimination;
+7 (B) if the high-risk AI system is or will be monetized, how it is or
+8 is planned to be monetized; and
+9 (C) an evaluation of the costs and benefits to consumers and other
+10 covered subjects; and
+11 (iii) if the deployer conducted an audit in accordance with subdivi-
+12 sion four of section one hundred ten of this article, an overview of the
+13 audit, including how the audit was structured, how the audit was
+14 conducted, and information on the auditor.
+15 (c) A covered deployer that is also a covered developer and is
+16 required to submit reports under subdivision three of this section may
+17 submit a single joint report provided it contains the information
+18 required in this subdivision.
+19 5. The attorney general shall promulgate rules for a process whereby
+20 covered developers and covered deployers may request redaction of
+21 portions of reports required under this section to ensure that they are
+22 not required to disclose sensitive and protected information.
+23 6. For high-risk AI systems which are already in deployment at the
+24 time of the effective date of this article, covered developers and
+25 covered deployers shall have eighteen months from such effective date to
+26 complete and file the first report and associated independent audit
+27 required by this article.
+28 (a) Each covered developer shall thereafter file at least one report
+29 annually following the submission of the first report under this subdi-
+30 vision.
+31 (b) Each covered deployer shall thereafter file at least one report
+32 every two years following the submission of the first report under this
+33 subdivision.
+34 § 112. Risk management policy and program. 1. Each covered developer
+35 or covered deployer shall plan, document, and implement a risk manage-
+36 ment policy and program to govern development or deployment, as applica-
+37 ble, of such high-risk AI system. The risk management policy and
+38 program shall specify and incorporate the principles, processes, and
+39 personnel that the developer or deployer uses to identify, document, and
+40 mitigate known or reasonably foreseeable risks of algorithmic discrimi-
+41 nation covered under subdivision one of section one hundred six of this
+42 article. The risk management policy and program shall be an iterative
+43 process planned, implemented, and regularly and systematically reviewed
+44 and updated over the life cycle of a high-risk AI system, requiring
+45 regular, systematic review and updates, including updates to documenta-
+46 tion. A risk management policy and program implemented and maintained
+47 pursuant to this section shall be reasonable considering:
+48 (a) The guidance and standards set forth in:
+49 (i) version 1.0 of the "Artificial Intelligence Risk Management Frame-
+50 work" published by the National Institute of Standards and Technology in
+51 the United States department of commerce,
+52 (ii) ISO 42001, or
+53 (iii) another substantially equivalent framework selected at the
+54 discretion of the attorney general, if such framework was designed to
+55 manage risks associated with AI systems, is nationally or interna-
+56 tionally recognized and consensus-driven, and is at least as stringent
+
+S. 1169--B 11
+1 as version 1.0 of the "Artificial Intelligence Risk Management Frame-
+2 work" published by the National Institute of Standards and Technology or
+3 ISO 42001;
+4 (b) The size and complexity of the developer or deployer;
+5 (c) The nature, scope, and intended uses of the high-risk AI system
+6 developed or deployed; and
+7 (d) The sensitivity and volume of data processed in connection with
+8 the high-risk AI system.
+9 2. A risk management policy and program implemented pursuant to subdi-
+10 vision one of this section may cover multiple high-risk AI systems
+11 developed by the same developer or deployed by the same deployer if
+12 sufficient.
+13 3. The attorney general may require a covered developer or a covered
+14 deployer to disclose the risk management policy and program implemented
+15 pursuant to subdivision one of this section in a form and manner
+16 prescribed by the attorney general. The attorney general may evaluate
+17 the risk management policy and program to ensure compliance with this
+18 section.
+19 4. Notwithstanding subdivision one of this section, a developer that
+20 is in compliance with the duties under section fourteen hundred twenty-
+21 two of the general business law shall be deemed in compliance with this
+22 section.
+23 § 113. Social scoring AI systems prohibited. No person, partnership,
+24 association or corporation shall develop, deploy, use, or sell an AI
+25 system which evaluates or classifies the trustworthiness of natural
+26 persons over a certain period of time based on their social behavior or
+27 known or predicted personal or personality characteristics, with the
+28 social score leading to any of the following:
+29 1. differential treatment of certain natural persons or whole groups
+30 thereof in social contexts which are unrelated to the contexts in which
+31 the data was originally generated or collected;
+32 2. differential treatment of certain natural persons or whole groups
+33 thereof that is unjustified or disproportionate to their social behavior
+34 or its gravity; or
+35 3. the infringement of any right guaranteed under the United States
+36 constitution, the New York constitution, or state or federal law.
+37 § 114. Enforcement. 1. Whenever there shall be a violation of section
+38 one hundred seven, one hundred eight, one hundred ten, one hundred elev-
+39 en, one hundred twelve, or one hundred thirteen of this article, an
+40 application may be made by the attorney general in the name of the
+41 people of the state of New York, to the supreme court having jurisdic-
+42 tion to issue an injunction, and upon notice to the respondent of not
+43 less than ten days, to enjoin and restrain the continuance of such
+44 violation; and if it shall appear to the satisfaction of the court that
+45 the respondent has, in fact, violated this article, an injunction may be
+46 issued by the court, enjoining and restraining any further violations,
+47 without requiring proof that any person has, in fact, been injured or
+48 damaged thereby. In any such proceeding, the court may make allowances
+49 to the attorney general as provided in paragraph six of subdivision (a)
+50 of section eighty-three hundred three of the civil practice law and
+51 rules, and direct restitution. Whenever the court shall determine that a
+52 violation of this article has occurred:
+53 (a) by a developer, the court may impose a civil penalty of not more
+54 than twenty-five thousand dollars for each violation; or
+55 (b) by a deployer, the court may impose a civil penalty of not more
+56 than ten thousand dollars for each violation.
+
+S. 1169--B 12
+1 2. In evaluating any motion to dismiss a proceeding commenced pursuant
+2 to this section, the court shall presume the specified AI system was
+3 created and/or operated in violation of a specified law or laws and that
+4 such violation caused the harm or harms alleged.
+5 (a) A defendant can rebut presumptions made pursuant to this subdivi-
+6 sion through clear and convincing evidence that the specified AI system
+7 did not cause the harm or harms alleged and/or did not violate the
+8 alleged law or laws. An algorithmic audit can be considered as evidence
+9 in rebutting such presumptions, but the mere existence of such an audit,
+10 without additional evidence, shall not be considered clear and convinc-
+11 ing evidence.
+12 (b) Where such presumptions are not rebutted pursuant to this subdivi-
+13 sion, the action shall not be dismissed.
+14 (c) Where such presumptions are rebutted pursuant to this subdivision,
+15 a motion to dismiss an action shall be adjudicated without any consider-
+16 ation of this section.
+17 3. The supreme court in the state shall have jurisdiction over any
+18 action, claim, or lawsuit to enforce the provisions of this article.
+19 § 115. Severability. If any clause, sentence, paragraph, subdivision,
+20 section or part of this article shall be adjudged by any court of compe-
+21 tent jurisdiction to be invalid, such judgment shall not affect, impair,
+22 or invalidate the remainder thereof, but shall be confined in its opera-
+23 tion to the clause, sentence, paragraph, subdivision, section, or part
+24 thereof directly involved in the controversy in which such judgment
+25 shall have been made.
+26 § 4. Section 296 of the executive law is amended by adding a new
+27 subdivision 23 to read as follows:
+28 23. It shall be an unlawful discriminatory practice under this section
+29 for a deployer or a developer, as such terms are defined in section one
+30 hundred five of the civil rights law, to engage in an unlawful discrimi-
+31 natory practice under section one hundred six of the civil rights law.
+32 § 5. This act shall take effect one year after it shall have become a
+33 law; provided, however, that section 110 of article 10-A of the civil
+34 rights law as added by section three of this act shall take effect two
+35 years after it shall have become a law.
