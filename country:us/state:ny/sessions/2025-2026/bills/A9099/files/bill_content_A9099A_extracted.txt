@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - A9099A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9099--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+September 12, 2025
+___________
+Introduced by M. of A. JACOBSON, McDONALD, REYES, SANTABARBARA, EACHUS,
+HEVESI -- read once and referred to the Committee on Insurance --
+recommitted to the Committee on Insurance in accordance with Assembly
+Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the insurance law, in relation to health care payment
+amounts
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 3224-a of the insurance law is amended by adding a
+2 new subsection (m) to read as follows:
+3 (m)(1) Any insurance company which owns a health care provider must
+4 pay any health care provider which it does not own an amount that is no
+5 less than the amount that it pays a health care provider which it does
+6 own for a comparable service.
+7 (2) Any insurance company, which is owned by a health care provider,
+8 may not pay any health care provider which does not own such insurance
+9 company an amount that is less than the amount that it pays a health
+10 care provider which does own such company for a comparable service.
+11 § 2. This act shall take effect on the sixtieth day after it shall
+12 have become a law.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13704-08-6

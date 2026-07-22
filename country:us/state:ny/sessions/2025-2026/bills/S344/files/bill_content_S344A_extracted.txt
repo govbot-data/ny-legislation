@@ -1,0 +1,229 @@
+Title: 
+Official Title: 
+Source: versions - S344A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+344--A
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. COONEY, SKOUFIS -- read twice and ordered printed,
+and when printed to be committed to the Committee on Transportation --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the vehicle and traffic law, in relation to autonomous
+vehicle driving
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The vehicle and traffic law is amended by adding a new
+2 article 34-E to read as follows:
+3 ARTICLE 34-E
+4 AUTONOMOUS VEHICLE DRIVING
+5 Section 1290. Definitions.
+6 1291. Operation of fully autonomous vehicles without a human
+7 driver.
+8 1292. Licensing.
+9 1293. Insurance.
+10 1294. Duties following crashes involving fully autonomous vehi-
+11 cles.
+12 1295. On-demand autonomous vehicle network.
+13 1296. Registration and title.
+14 1297. Controlling authority.
+15 1298. Operation of a motor vehicle with an automated driving
+16 system by a human driver.
+17 § 1290. Definitions. For purposes of this article the following terms
+18 shall have the following meanings:
+19 1. "Automated driving system" shall mean the hardware and software
+20 that are collectively capable of performing the entire dynamic driving
+21 task on a sustained basis, regardless of whether it is limited to a
+22 specific operational design domain;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00929-02-5
+
+S. 344--A 2
+1 2. "Dynamic driving task or DDT" shall mean all of the real-time oper-
+2 ational and tactical functions required to operate a vehicle in on-road
+3 traffic, excluding the strategic functions such as trip scheduling and
+4 selection of destinations and waypoints, and including without limita-
+5 tion: lateral vehicle motion control via steering, longitudinal motion
+6 control via acceleration and deceleration, monitoring the driving envi-
+7 ronment via object and event detection, recognition, classification, and
+8 response preparation, object and event response execution, maneuver
+9 planning; and enhancing conspicuity via lighting, signaling, and gestur-
+10 ing;
+11 3. "DDT Fallback" shall mean the response by the person or human driv-
+12 er to either perform the DDT or achieve a minimal risk condition after
+13 occurrence of a DDT performance-relevant system failure or failures or
+14 upon operational design domain exit, or the response by an automated
+15 driving system to achieve minimal risk condition, given the same circum-
+16 stances;
+17 4. "Fully autonomous vehicle" shall mean a motor vehicle equipped with
+18 an automated driving system designed to function without a human driver
+19 as a level 4 or 5 system under SAE J3016;
+20 5. "Human driver" shall mean a natural person in the vehicle with a
+21 valid license to operate a motor vehicle who controls all or part of the
+22 dynamic driving task;
+23 6. "Minimal risk condition" shall mean a condition to which a person,
+24 human driver, or an ADS may bring a vehicle after performing the DDT
+25 Fallback in order to reduce the risk of a crash when a given trip cannot
+26 or should not be completed;
+27 7. "On-demand autonomous vehicle network" shall mean a transportation
+28 service network that uses a software application or other digital means
+29 to dispatch or otherwise enable the pre-arrangement of transportation
+30 with fully autonomous vehicles for purposes of transporting passengers
+31 or goods, including for-hire transportation and transportation of
+32 passengers or goods for compensation;
+33 8. "Operational design domain or ODD" shall mean operating conditions
+34 under which a given automated driving system is specifically designed to
+35 function, including, but not limited to, environmental, geographical,
+36 and time-of-day restrictions, and/or the requisite presence or absence
+37 of certain traffic or roadway characteristics;
+38 9. "Person" shall mean a natural person, corporation, business trust,
+39 estate, trust, partnership, limited liability company, association,
+40 joint venture, governmental agency, public corporation, or any other
+41 legal or commercial entity;
+42 10. "Request to intervene" shall mean notification by an automated
+43 driving system to a human driver, that the human driver should promptly
+44 begin or resume performance of part or all of the dynamic driving task;
+45 and
+46 11. "SAE J3016" shall mean the Taxonomy and Definitions for Terms
+47 Related to Driving Automation Systems for On-Road Motor Vehicles
+48 published by SAE International in April 2021.
+49 § 1291. Operation of fully autonomous vehicles without a human driver.
+50 1. A person may operate a fully autonomous vehicle on the public roads
+51 of this state without a human driver provided that the automated driving
+52 system is engaged and the vehicle meets the following conditions:
+53 (a) If a failure of the automated driving system occurs that renders
+54 that system unable to perform the entire dynamic driving task relevant
+55 to its intended operational design domain, the fully autonomous vehicle
+56 shall achieve a minimal risk condition;
+
+S. 344--A 3
+1 (b) The fully autonomous vehicle is capable of operating in compliance
+2 with the applicable traffic and motor vehicle safety laws and regu-
+3 lations of this state when reasonable to do so, unless an exemption has
+4 been granted by the department; and
+5 (c) When required by federal law, the vehicle bears the required
+6 manufacturer's certification label indicating that at the time of its
+7 manufacture it has been certified to be in compliance with all applica-
+8 ble Federal Motor Vehicle Safety Standards, including reference to any
+9 exemption granted by the National Highway Traffic Safety Administration.
+10 2. Prior to operating a fully autonomous vehicle on the public roads
+11 of this state without a human driver, a person shall submit a law
+12 enforcement interaction plan to the department which shall describe:
+13 (a) The means of communicating with a fleet support specialist who is
+14 available during the times the vehicle is in operation;
+15 (b) The means of safely removing the fully autonomous vehicle from the
+16 roadway and steps to safely tow the vehicle;
+17 (c) The means to recognize whether or not the fully autonomous vehicle
+18 is in autonomous mode; and
+19 (d) Any additional information the manufacturer or owner deems neces-
+20 sary regarding the hazardous conditions or public safety risks associ-
+21 ated with the operation of the fully autonomous vehicle.
+22 § 1292. Licensing. Notwithstanding the provisions of article nineteen
+23 of this chapter, when an automated driving system installed on a motor
+24 vehicle is engaged:
+25 1. The automated driving system is considered the driver or operator,
+26 for the purpose of assessing compliance with applicable traffic or motor
+27 vehicle laws and shall be deemed to satisfy electronically all physical
+28 acts required by a driver or operator of the vehicle; and
+29 2. The automated driving system is considered to be licensed to oper-
+30 ate the vehicle.
+31 § 1293. Insurance. Before operating a fully autonomous vehicle on
+32 public roads in this state, a person shall submit proof of financial
+33 responsibility satisfactory to the department that the fully autonomous
+34 vehicle is covered by insurance or proof of self-insurance that satis-
+35 fies the requirements of article six of this chapter.
+36 § 1294. Duties following crashes involving fully autonomous vehicles.
+37 In the event of a crash:
+38 1. The fully autonomous vehicle shall remain on the scene of the crash
+39 when required by article twenty-two of this chapter; and
+40 2. The owner of the fully autonomous vehicle, or a person on behalf of
+41 the vehicle owner, shall promptly report any crashes or collisions
+42 consistent with article twenty-two of this chapter.
+43 § 1295. On-demand autonomous vehicle network. An on-demand autonomous
+44 vehicle network shall be permitted to operate pursuant to state laws
+45 governing the operation of transportation network companies, taxis, or
+46 any other ground transportation for-hire of passengers, with the excep-
+47 tion that any provision of article forty-four-B of this chapter that
+48 reasonably applies only to a human driver does not apply to the opera-
+49 tion of fully autonomous vehicles with the automated driving system
+50 engaged on an on-demand autonomous vehicle network.
+51 § 1296. Registration and title. 1. A fully autonomous vehicle shall be
+52 properly registered in accordance with title four of this chapter and
+53 the vehicle shall be identified on the registration as a fully auton-
+54 omous vehicle.
+
+S. 344--A 4
+1 2. A fully autonomous vehicle shall be properly titled in accordance
+2 with article forty-six of this chapter and the vehicle shall be identi-
+3 fied on the title as a fully autonomous vehicle.
+4 § 1297. Controlling authority. Notwithstanding any law, rule or regu-
+5 lation to the contrary:
+6 1. Unless otherwise provided in this chapter and notwithstanding any
+7 other provision of law, fully autonomous vehicles and automated driving
+8 systems are governed exclusively by this article. The department is the
+9 sole and exclusive state agency that may implement the provisions of
+10 this article;
+11 2. Fully autonomous vehicles and automated driving systems operating
+12 pursuant to this article shall not be subject to section twelve hundred
+13 twenty-six of this chapter; and
+14 3. No state agency, political subdivision, municipality, or local
+15 entity may prohibit the operation of fully autonomous vehicles, auto-
+16 mated driving systems, or on-demand autonomous vehicle networks, or
+17 otherwise enact or keep in force rules or ordinances that would impose
+18 taxes, fees, or other requirements including performance standards,
+19 specific to the operation of fully autonomous vehicles, automated driv-
+20 ing systems, or on-demand autonomous vehicle networks in addition to the
+21 requirements of this article.
+22 4. Notwithstanding subdivision one, two, or three of this section, any
+23 city with a population of five million or more may establish local rules
+24 and regulations governing the operation of fully autonomous vehicles and
+25 automated driving systems within such city.
+26 § 1298. Operation of a motor vehicle with an automated driving system
+27 by a human driver. 1. A person may operate a motor vehicle equipped
+28 with an automated driving system capable of performing the entire dynam-
+29 ic driving task if:
+30 (a) such automated driving system will issue a request to intervene
+31 whenever the automated driving system is not capable of performing the
+32 entire dynamic driving task with the expectation that the person will
+33 respond appropriately to such a request; and
+34 (b) the automated driving system is capable of being operated in
+35 compliance with title seven of this chapter when reasonable to do so
+36 unless an exemption has been granted by the department.
+37 2. Nothing in this article prohibits or restricts a human driver from
+38 operating a fully autonomous vehicle equipped with controls that allow
+39 for the human driver to control all or part of the dynamic driving task.
+40 § 2. The vehicle and traffic law is amended by adding a new section
+41 383-a to read as follows:
+42 § 383-a. Equipment required for certain automated motor vehicles. 1.
+43 For purposes of this section, the terms "fully autonomous vehicle,"
+44 "automated driving system," and "human driver" shall have the same mean-
+45 ings as defined in section twelve hundred ninety of this chapter.
+46 2. A fully autonomous vehicle that is designed to be operated exclu-
+47 sively by the automated driving system for all trips is not subject to
+48 motor vehicle equipment laws or regulations of this state which (a)
+49 relate to or support motor vehicle operation by a human driver; and (b)
+50 are not relevant for an automated driving system.
+51 § 3. The vehicle and traffic law is amended by adding a new section
+52 301-c to read as follows:
+53 § 301-c. Inspection criteria for fully autonomous vehicles. Section
+54 three hundred one of this article and any regulations promulgated by the
+55 commissioner therewith shall only apply to a fully autonomous vehicle in
+
+S. 344--A 5
+1 a manner consistent with the provisions of section three hundred eight-
+2 y-three-a of this title.
+3 § 4. This act shall take effect on the ninetieth day after it shall
+4 have become a law. Effective immediately, the addition, amendment and/or
+5 repeal of any rule or regulation necessary for the implementation of
+6 this act on its effective date are authorized to be made and completed
+7 on or before such effective date.

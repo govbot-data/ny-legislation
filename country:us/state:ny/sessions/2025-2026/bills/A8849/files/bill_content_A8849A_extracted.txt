@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - A8849A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8849--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 9, 2025
+___________
+Introduced by M. of A. McDONALD, LUNSFORD, KAY, LUPARDO, PAULIN, STECK,
+BUTTENSCHON, SEAWRIGHT, ANGELINO, K. BROWN, MAHER, JENSEN, P. CARROLL
+-- read once and referred to the Committee on Health -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public health law, in relation to requiring the
+department of health to facilitate the exchange of data between the
+state prescription drug program and electronic health records
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraph (c) of subdivision 1 of section 3343-a of the
+2 public health law, as added by section 2 of part A of chapter 447 of the
+3 laws of 2012, is amended to read as follows:
+4 (c) The registry shall be secure, easily accessible by practitioners
+5 and pharmacists, and compatible with the electronic transmission of
+6 prescriptions for controlled substances, as required by section two
+7 hundred eighty-one of this chapter, and section sixty-eight hundred ten
+8 of the education law, and any regulations promulgated pursuant thereto.
+9 To the extent practicable, implementation of the electronic transmission
+10 of prescriptions for controlled substances shall serve to streamline
+11 consultation of the registry by practitioners and reporting of
+12 prescription information by pharmacists. The registry shall be interop-
+13 erable with other similar registries operated by federal or state
+14 governments, to the extent deemed appropriate by the commissioner, and
+15 subject to the provisions of section thirty-three hundred seventy-one-a
+16 of this article. The commissioner shall promulgate regulations allowing
+17 for any electronic health records integration vendor to obtain state
+18 approval to facilitate interoperability between the prescription moni-
+19 toring program registry and certified electronic health records systems
+20 that can connect with any national data sharing hub. Such approvals
+21 should optimize the ability of prescribers and pharmacists to choose
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13297-02-5
+
+A. 8849--A 2
+1 their desired integration technology at no additional cost to the state.
+2 Such interoperability shall:
+3 (i) enable prescribers and pharmacists to access the prescription
+4 monitoring program registry data directly through their certified elec-
+5 tronic health records system or pharmacy dispensing software, including
+6 via integration technology in place between the prescription monitoring
+7 program registry or national data sharing hub and their certified elec-
+8 tronic health records system or pharmacy dispensing software;
+9 (ii) enable prescribers and pharmacists to visualize the prescription
+10 monitoring program registry data in an integrated manner;
+11 (iii) maintain an information security program that complies with
+12 industry-standard security and privacy frameworks; specifically, main-
+13 tain a current SOC 2 Type II attestation performed by a third-party
+14 auditor; and maintain HITRUST CSF certification or demonstrate equiv-
+15 alent controls consistent with the HITRUST framework;
+16 (iv) ensure secure transmission and access to data consistent with
+17 applicable state and federal privacy laws, including, but not limited
+18 to, the Health Insurance Portability and Accountability Act (HIPAA) and
+19 paragraph (d) of this subdivision; and
+20 (v) in order to maximize efficiency and limit costs, be enabled to the
+21 greatest extent possible through the existing prescription monitoring
+22 program technology infrastructure.
+23 § 2. This act shall take effect immediately.

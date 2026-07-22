@@ -1,0 +1,292 @@
+Title: 
+Official Title: 
+Source: versions - A4404A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4404--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 4, 2025
+___________
+Introduced by M. of A. WEPRIN, HUNTER, SIMON, BERGER, WOERNER, STERN,
+McDONALD, CUNNINGHAM, DE LOS SANTOS, RIVERA, SANTABARBARA, DILAN,
+COOK, O'PHARROW, STECK, BENEDETTO, JONES, ALVAREZ, BUTTENSCHON, KAY,
+WIEDER, McMAHON, KIM, DINOWITZ, STIRPE, TAPIA, LUPARDO, LAVINE,
+EACHUS, CRUZ, MANKTELOW -- read once and referred to the Committee on
+Transportation -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the vehicle and traffic law, in relation to establishing
+an online insurance verification system for motor vehicle insurance
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 1 of section 312-a of the vehicle and traffic
+2 law, as amended by chapter 781 of the laws of 1983, is amended to read
+3 as follows:
+4 1. Upon issuance of an owner's policy of liability insurance or other
+5 financial security required by this chapter, an insurer shall issue
+6 proof of insurance in accordance with the regulations promulgated by the
+7 commissioner pursuant to [paragraph (b) of] subdivision two of section
+8 three hundred thirteen of this article.
+9 § 2. Subdivisions 2, 3 and 4 of section 313 of the vehicle and traffic
+10 law, subdivision 2 as amended by chapter 678 of the laws of 1997, para-
+11 graphs (a), (b) and (d) of subdivision 2 and subdivision 4 as amended by
+12 chapter 509 of the laws of 1998, paragraph (b) of subdivision 4 as
+13 amended by chapter 161 of the laws of 2004, paragraph (d) of subdivision
+14 4 as further amended by section 104 of part A of chapter 62 of the laws
+15 of 2011, and subdivision 3 as amended by chapter 781 of the laws of
+16 1983, are amended to read as follows:
+17 2. [(a) Upon the termination of an owner's policy of liability insur-
+18 ance, other than an owner's policy of liability insurance for a motorcy-
+19 cle, at the request of the insured or by cancellation by the insurer,
+20 the insurer shall file a notice of termination with reference to such
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08820-05-5
+
+A. 4404--A 2
+1 policy, as opposed to any insured vehicle or vehicles under such policy,
+2 with the commissioner not later than thirty days following the effective
+3 date of such cancellation or other termination, in accordance with the
+4 regulations required by paragraph (c) of this subdivision. An insurer
+5 shall not file a notice of termination with the commissioner except as
+6 required by this subdivision.
+7 (b) Upon the issuance of an owner's policy of liability insurance the
+8 insurer shall file a notice or confirmation of issuance with reference
+9 to such policy not later than fourteen days following the effective date
+10 of such issuance, and not later than seven days following the effective
+11 date for policies issued after January first, two thousand one, in
+12 accordance with the regulations required by paragraph (c) of this subdi-
+13 vision.
+14 (c)] The commissioner shall promulgate regulations establishing proce-
+15 dures for issuance of proof of insurance [and for reporting by insurers
+16 of notices of termination and policy issuance, either electronically or
+17 by paper copy, at the option of the department. Such reporting shall be
+18 required for every cancellation or termination which is effective on or
+19 after July first, nineteen hundred eighty-four and for every policy
+20 issuance which is effective on or after January first, two thousand;
+21 provided, however, that should the commissioner find, after testing of
+22 reporting procedures, that it would be feasible to require reporting for
+23 policy cancellations, terminations or issuances effective on an earlier
+24 date, he may by regulation so require reporting on such earlier date,
+25 but in no event shall reporting be required for cancellations or termi-
+26 nations effective prior to February first, nineteen hundred eighty-four
+27 nor for policy issuances effective prior to September first, nineteen
+28 hundred ninety-nine. Insurers shall cooperate fully with the commission-
+29 er in any such testing of reporting procedures.
+30 (d) Upon application by an insurer, the commissioner may extend the
+31 period for filing of notices of termination by such insurer for up to
+32 fifteen days, and for seven days for policies issued by an insurer.
+33 Extensions shall not be granted unless the insurer demonstrates to the
+34 satisfaction of the commissioner that compliance with the notice period
+35 would result in substantial hardship to the insurer. The commissioner
+36 shall maintain a list of extensions granted pursuant to this paragraph].
+37 3. A cancellation or termination for which notice is required to be
+38 filed with the commissioner [pursuant to subdivision two of this
+39 section] shall not be effective with respect to persons other than the
+40 named insured and members of the insured's household until the insurer
+41 has filed a notice thereof with the commissioner or until another insur-
+42 ance policy covering the same risk has been procured, except that a
+43 notice filed with the commissioner, in the format prescribed by the
+44 commissioner, [within the period prescribed in subdivision two of this
+45 section] shall be effective as of the date certified therein, regardless
+46 of whether a suspension order is issued pursuant to section three
+47 hundred eighteen of this article. A receipt from the department stating
+48 that a notice of termination has been filed shall be deemed conclusive
+49 evidence of such filing. An insurer shall cooperate with the commission-
+50 er in attempting to identify persons not in compliance with this article
+51 in cases where the information reported by the insurer does not corre-
+52 spond with records maintained by the department.
+53 4. Notwithstanding any other provision of this article to the contra-
+54 ry, the commissioner shall establish a [pilot program] system for the
+55 online verification of motor vehicle liability insurance to [maintain
+56 an] enable the commissioner to access up-to-date insured vehicle iden-
+
+A. 4404--A 3
+1 tification [database] information to assist in identifying uninsured
+2 motor vehicles, and shall verify motor vehicle owners' policies of
+3 liability insurance through the utilization of such online verification
+4 system. Such [databases] online verification system shall be imple-
+5 mented by the department pursuant to standards prescribed by the commis-
+6 sioner [or an agent designated by the commissioner which] who shall seek
+7 technical assistance from affected insurers and the New York Automobile
+8 Insurance Plan. This [program] online verification system shall utilize
+9 all information collected pursuant to this section and shall also
+10 include the following elements:
+11 (a) [In addition to and in conjunction with the provisions of subdivi-
+12 sion two of this section, insurers] Insurers that write private passen-
+13 ger or commercial motor vehicle insurance in this state shall [also
+14 submit to the department, either electronically or by paper copy, at the
+15 option of the department], with respect to every motor vehicle insured
+16 by such insurer in the state and in compliance with any rules and regu-
+17 lations promulgated by the commissioner for the online verification
+18 system established pursuant to this subdivision, provide the commission-
+19 er access to information that identifies those motor vehicle liability
+20 insurance policies that have been cancelled, terminated or non-renewed
+21 and all such policies that have been issued, the date when such insur-
+22 ance lapses, and any other information that the commissioner deems
+23 necessary to efficiently identify and track uninsured vehicles in this
+24 state such as a policyholder's address, policy number, vehicle registra-
+25 tion number, and vehicle identification number. The department may
+26 exempt from such [pilot program] online verification system the transfer
+27 of information on certain classifications of vehicles that are in the
+28 opinion of the department generally insured and which it is difficult to
+29 identify uninsured vehicles within such classification, such as large
+30 commercial vehicle fleets;
+31 (b) [The department shall forward to each motor vehicle insurer, at
+32 such times as deemed necessary and appropriate by the commissioner, a
+33 listing of all the registrants the department has on file as insured
+34 with that insurer. Such insurer shall then review the listing within
+35 thirty days of receipt of the listing and report to the department which
+36 of the registrants the insurer does not insure;
+37 (c)] The commissioner shall, in conjunction with the superintendent of
+38 state police and local law enforcement officials formulate a means to
+39 allow information from such [database] online verification system to be
+40 easily accessible to on-duty law enforcement personnel in the perform-
+41 ance of their official duties for the purpose of verifying whether an
+42 operator maintains proper insurance coverage and to increase compliance
+43 with the motor vehicle financial security laws under this article and
+44 article eight of this title;
+45 [(d)] (c) In developing the mechanism for such online verification
+46 system to electronically transfer information to the department, the
+47 commissioner shall consult with the superintendent of financial services
+48 and insurers to adopt a standardized system of organizing, recording and
+49 transferring such information so as to minimize insurer administrative
+50 expenses. The commissioner shall to the maximum extent possible utilize
+51 nationally recognized electronic data information systems such as those
+52 developed by the American National Standards Institute or the American
+53 Association of Motor Vehicle Administrators;
+54 [(e)] (d)(1) Either simultaneously or after the [up-dated database]
+55 online verification system has been established, the commissioner shall
+56 develop a computer indicator that can be imprinted on a vehicle regis-
+
+A. 4404--A 4
+1 tration sticker or on a sticker to be affixed to the insured's license
+2 plate. Such indicator system shall enable law enforcement personnel and
+3 other authorized persons when acting in the course of their official
+4 duties to access information in the department's [database] online
+5 verification system so that such persons can ascertain whether a vehicle
+6 is properly insured or not insured;
+7 (2) Such computer indicator system shall enable authorized persons in
+8 the performance of their official duties to access information such as
+9 the registrant's name, vehicle identification number, name of insurer,
+10 current status of insurance, vehicle registration number and other
+11 information that the commissioner deems necessary to implement the
+12 provisions of this section. The commissioner in developing such computer
+13 indicator system shall enable authorized persons in the performance of
+14 their official duties to access only such information that is necessary
+15 to detect uninsured motor vehicles or accomplish other goals clearly
+16 established and authorized by law. Such computer indicator system shall
+17 be designed to protect the personal privacy interests of motorists;
+18 [(f)] (e) (i) The commissioner shall maintain [an insured vehicle
+19 database] such online verification system [that is] which shall be accu-
+20 rate to within a period of [fourteen days and a computer indicator
+21 system described in paragraph (e) of this subdivision within twenty-four
+22 months of the effective date of this subdivision and to within] seven
+23 days [by January first, two thousand one. The commissioner shall submit
+24 to the legislature a report within eighteen months from the date this
+25 subdivision takes effect which outlines the progress being made to
+26 implement such database and computer indicator system. After such data-
+27 base and computer indicator system is established and put into opera-
+28 tion, the commissioner shall make recommendations to the legislature to
+29 alter, minimize or eliminate the need for the issuance of insurance
+30 identification cards, simplify the requirements to demonstrate proof of
+31 financial security and certificate of insurance currently required by
+32 this article, eliminate the requirement for production of proof of
+33 financial security to accompany applications for registrations or
+34 renewals thereof provided that such database indicates that the regis-
+35 trant is insured, and the repeal or modification of section three
+36 hundred twelve-a of this article. The commissioner shall also make
+37 recommendations to the legislature to streamline and shorten the notice
+38 termination requirements of subdivisions one, two and three of this
+39 section and section three hundred eighteen of this article. Such report
+40 shall be submitted to the legislature within twelve months from the date
+41 such database and indicator system has been implemented];
+42 (ii) The commissioner shall provide that such online verification
+43 system shall, at a minimum:
+44 (1) have the capability for the department to send requests to motor
+45 vehicle insurers for verification of evidence of a motor vehicle owner's
+46 policy of liability insurance as prescribed by this chapter via web
+47 services, through the internet, or a similar proprietary or common
+48 carrier electronic system, as well as to receive from motor vehicle
+49 insurers verification of evidence of a motor vehicle owner's policy of
+50 liability insurance in a form and manner as prescribed by the commis-
+51 sioner;
+52 (2) incorporate information security protections for such system. For
+53 the purposes of this section, "information security" shall mean protect-
+54 ing information and information systems from unauthorized access, use,
+55 disclosure, disruption, modification, or destruction in order to provide
+56 (A) integrity, which shall mean guarding against improper information
+
+A. 4404--A 5
+1 modification or destruction, and includes ensuring information nonrepu-
+2 diation and authenticity, (B) confidentiality, which shall mean preserv-
+3 ing authorized restrictions on access and disclosure, including means
+4 for protecting personal privacy and proprietary information, and (C)
+5 availability, which shall mean ensuring timely and reliable access to
+6 and use of information as authorized by this subdivision;
+7 (3) have the capability of being utilized for verification of mandato-
+8 ry motor vehicle liability insurance coverage as prescribed by this
+9 chapter and the ability to be interfaced, wherever authorized by law,
+10 with existing or future state systems, in a form and manner as
+11 prescribed by the commissioner;
+12 (4) have the capability of enabling the department to make inquiries
+13 to motor vehicle insurers for evidence of a motor vehicle owner's policy
+14 of liability insurance as set forth in paragraph (a) of this subdivi-
+15 sion;
+16 (5) have the capability of responding to each request of the depart-
+17 ment for motor vehicle liability insurance information within an amount
+18 of time determined by the commissioner; and
+19 (6) have the capability of responding within the time established;
+20 [(g) To minimize the cost of this program, the commissioner, if he
+21 deems it necessary and prudent, can initially limit the scope of this
+22 project to a select number of vehicle classifications or insurers;
+23 (h)] (f) Notwithstanding any other provision of law, information
+24 obtained by the department pursuant to this section shall not be
+25 disclosed, used, sold, accessed, utilized in any manner or released by
+26 the department to any person, corporation, or state and local agency,
+27 except in response to a specific, individual request for such informa-
+28 tion authorized pursuant to the federal driver's privacy protection act
+29 (18 U.S.C. 2721 et.seq.). The department shall institute measures to
+30 ensure that only authorized persons are permitted to access such infor-
+31 mation for the purposes specified by this section. Persons who knowingly
+32 release or disclose information from such [database] online verification
+33 system for a purpose other than those described as authorized by this
+34 section or to a person not entitled to receive it shall be guilty of a
+35 misdemeanor for each such release or disclosure; and
+36 [(i) The commissioner may postpone implementation of such pilot data-
+37 base and computer indicator system for a period of time not to exceed
+38 eighteen months if he or she determines that the program is not ready
+39 for implementation. Should the commissioner determine that such system
+40 cannot be implemented during the eighteen months extension, then the
+41 commissioner shall report to the legislature the reasons why such
+42 program cannot be implemented and request that the law be amended to
+43 delay its implementation date]
+44 (g) Undergo an appropriate testing and pilot period of not less than
+45 one year, after which the commissioner shall certify in writing to the
+46 governor, the temporary president of the senate, and the speaker of the
+47 assembly that such system is fully operational.
+48 § 3. Paragraph (d) of subdivision 3 of section 317 of the vehicle and
+49 traffic law, as added by chapter 678 of the laws of 1997, is amended to
+50 read as follows:
+51 (d) To fully fund such [pilot database] system for the online verifi-
+52 cation of motor vehicle liability insurance and bar code program estab-
+53 lished pursuant to subdivision four of section three hundred thirteen of
+54 this article, the commissioner shall utilize the following three sources
+55 of revenue: (1) twenty-five percent of all civil penalties imposed upon
+56 persons fined pursuant to paragraph (b) of subdivision one-a of section
+
+A. 4404--A 6
+1 three hundred eighteen of this article, (2) monies obtained from grants
+2 that may be awarded to the commissioner from the motor vehicle theft and
+3 insurance fraud prevention fund, and (3) pro rata assessments upon all
+4 insurance carriers subject to the provisions of this section in propor-
+5 tion to the premium estimates filed by such carriers.
+6 § 4. This act shall take effect December 31, 2028. Effective imme-
+7 diately, the addition, amendment and/or repeal of any rule or regulation
+8 necessary for the implementation of this act are authorized to be made
+9 and completed on or before such effective date.

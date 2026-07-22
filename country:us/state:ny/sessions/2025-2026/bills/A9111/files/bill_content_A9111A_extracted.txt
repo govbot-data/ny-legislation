@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - A9111A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9111--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+September 26, 2025
+___________
+Introduced by M. of A. GALLAGHER, KELLES, TAPIA, VALDEZ, SHRESTHA,
+SCHIAVONI, LEVENBERG, R. CARROLL, SIMON, FORREST, ROSENTHAL, LASHER,
+RAGA -- read once and referred to the Committee on Energy -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public service law and the energy law, in relation
+to portable solar generation devices
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Solar Up Now NY Act".
+3 § 2. Paragraph (d) of subdivision 1 of section 66-j of the public
+4 service law, as amended by chapter 253 of the laws of 2013, is amended
+5 and a new paragraph (j) is added to subdivision 1 to read as follows:
+6 (d) "Solar electric generating equipment" means a photovoltaic system
+7 (i) (A) in the case of a residential customer (other than a farm utiliz-
+8 ing a residential meter), with a rated capacity of not more than twen-
+9 ty-five kilowatts; (B) in the case of a customer who owns or operates a
+10 farm operation as such term is defined in subdivision eleven of section
+11 three hundred one of the agriculture and markets law utilizing a resi-
+12 dential meter with a rated capacity of not more than one hundred kilo-
+13 watts; and (C) in the case of a non-residential customer, with a rated
+14 capacity of not more than two thousand kilowatts; and (ii) that is manu-
+15 factured, installed, and operated in accordance with applicable govern-
+16 ment and industry standards, that is connected to the electric system
+17 and operated in conjunction with an electric corporation's transmission
+18 and distribution facilities, and that is operated in compliance with any
+19 standards and requirements established under this section. Solar elec-
+20 tric generating equipment shall not include a portable solar generation
+21 device.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13786-06-5
+
+A. 9111--A 2
+1 (j) "Portable solar generation device" means a photovoltaic system and
+2 associated equipment that:
+3 (i) is designed to be connected to a building's electrical system
+4 through a standard electrical outlet;
+5 (ii) is limited to supplying a maximum power output of not more than
+6 one thousand two hundred watts to the utility electric grid; and
+7 (iii) is certified by underwriters laboratories or an equivalent
+8 nationally recognized testing laboratory.
+9 § 3. Subdivision 7 of section 66-j of the public service law is renum-
+10 bered subdivision 8 and a new subdivision 7 is added to read as follows:
+11 7. Portable solar generation device. Notwithstanding any other
+12 provision of law, unless the owner of a portable solar generation device
+13 shall choose to voluntarily enter into an interconnection or net meter-
+14 ing agreement:
+15 (a) A portable solar generation device shall not be subject to inter-
+16 connection or net metering requirements.
+17 (b) An electric corporation may not require a customer using a port-
+18 able solar generation device to:
+19 (i) obtain the electric corporation's approval before installing or
+20 using the device;
+21 (ii) pay any fee or charge related to the device or for feeding energy
+22 back into the utility electric grid; or
+23 (iii) install any additional controls or equipment beyond what is
+24 integrated into the device.
+25 (c) An electric corporation shall not be liable for any damage or
+26 injury caused by a portable solar generation device.
+27 § 4. Section 11-104 of the energy law is amended by adding a new
+28 subdivision 10 to read as follows:
+29 10. Within one year of the effective date of this subdivision, irre-
+30 spective of any system standard established by any testing laboratory,
+31 the code shall be optimized to allow for portable solar generation
+32 devices, as defined in section sixty-six-j of the public service law, to
+33 be connected to a building's wiring through an electrical outlet. For
+34 devices smaller than a threshold of no less than three hundred ninety-
+35 one watts, the code shall not require any changes to the building's
+36 premises wiring.
+37 § 5. This act shall take effect immediately.

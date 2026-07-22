@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - A1755A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1755--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 14, 2025
+___________
+Introduced by M. of A. REYES, HEVESI, SIMON, MEEKS, GONZALEZ-ROJAS,
+SIMONE, OTIS, CUNNINGHAM, RAGA, CLARK, DINOWITZ, SHIMSKY, SHRESTHA,
+SEAWRIGHT, STIRPE, JACKSON, LUNSFORD, RIVERA, GALLAGHER, ZACCARO,
+TAYLOR, DE LOS SANTOS, GIBBS, FORREST, TAPIA, BICHOTTE HERMELYN,
+LEVENBERG, DAVILA, KIM, MITAYNES, GLICK, ROMERO, COLTON, ANDERSON,
+BRONSON, HOOKS, WRIGHT, VALDEZ, COOK, MORENO, LEE -- read once and
+referred to the Committee on Social Services -- recommitted to the
+Committee on Social Services in accordance with Assembly Rule 3, sec.
+2 -- reported and referred to the Committee on Ways and Means --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the social services law, in relation to providing inter-
+net access to all individuals residing in temporary housing; and to
+amend the New York state urban development corporation act, in
+relation to the ConnectAll digital equity grant program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 17 of the social services law is amended by adding
+2 a new subdivision (m) is added to read as follows:
+3 (m) require that all temporary housing facilities shall provide access
+4 to high-speed broadband internet service and WiFi service to all indi-
+5 viduals residing in such temporary housing. The WiFi service shall be
+6 made available in private and common areas accessible to residents.
+7 Such shelter shall have at least one router and at least one modem, or
+8 any technological equivalent that performs the function of providing an
+9 area with high-speed broadband internet service. This subdivision shall
+10 not apply to any temporary housing facility located within an area of
+11 the state which is unserved by, or does not have access to, broadband
+12 internet service. For the purposes of this subdivision, the term "high-
+13 speed broadband internet service" means internet service with download
+14 speeds of at least one gigabit per second and upload speeds of at least
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03220-03-6
+
+A. 1755--A 2
+1 one gigabit per second, or if such speeds are not available the maximum
+2 download and upload speeds commercially available within the local
+3 social services district. The term "WiFi service" means access to high-
+4 speed broadband internet through wireless router which connects to the
+5 internet by wire or cable. For purposes of this subdivision, temporary
+6 housing shall include but not be limited to, shelters for adults, shel-
+7 ters for adult families, small-capacity shelters, shelters for families
+8 with children, domestic violence shelters, runaway and homeless youth
+9 shelters, shelters in hotels or shelters for refugees. Each temporary
+10 housing facility shall submit their plan to provide internet access
+11 pursuant to this subdivision to the department for oversight and
+12 approval within one year of the effective date of this subdivision.
+13 Temporary housing facilities shall implement and comply with such plans
+14 within one year of such approval.
+15 (1) (i) A temporary housing facility shall not use, disclose, sell,
+16 retain, or permit access to the personal information pertaining to a
+17 person residing in temporary housing obtained in the course of providing
+18 internet access except as required to provide such access without regard
+19 to content, application, service, or use of a non-harmful device, or to
+20 respond to a warrant or subpoena issued by a court of competent juris-
+21 diction.
+22 (ii) For the purposes of this subdivision, personal information shall
+23 mean information that directly or indirectly identifies, relates to,
+24 describes, is capable of being associated with, or could reasonably be
+25 linked to a particular individual, family, or personal device. Informa-
+26 tion is reasonably linkable to an individual, family, or personal device
+27 if it can be used on its own or in combination with other reasonably
+28 available information, regardless of whether such other information is
+29 held by the social services district or temporary housing facility, to
+30 identify an individual, family, or a personal device.
+31 (2) Any contract or agreement for internet access provided by an
+32 internet service provider to a temporary housing facility shall have the
+33 same terms and conditions, other than the requirements of this section,
+34 as the regularly priced comparable internet plan offered by such inter-
+35 net service provider.
+36 (3) Local social services districts, temporary housing facilities, and
+37 their employees and subcontractors shall not be required to actively
+38 monitor or control the information accessed through the WiFi service and
+39 shall not be held responsible for any illegal and/or criminal activities
+40 committed, orchestrated, or organized through the provided WiFi access
+41 by residents.
+42 (4) Where credentials, such as a password and username, are necessary
+43 to access WiFi, temporary housing facilities shall conspicuously display
+44 such credentials in all public areas of the facility. Temporary housing
+45 facilities need not disclose the credentials to access WiFi that is
+46 reserved for staff or emergency service use.
+47 (5) Where a temporary housing facility is a hotel or motel as defined
+48 in section one hundred thirty-one-v of this chapter, and such temporary
+49 housing facility provides WiFi access to patrons at no additional cost,
+50 such facility shall provide WiFi to all residents, without discrimi-
+51 nation at no additional cost.
+52 § 2. Subdivision 10 of section 16-gg of section 1 of chapter 174 of
+53 the laws of 1968, as added by section 2 of part MMM of chapter 58 of the
+54 laws of 2022, is amended to read as follows:
+55 10. ConnectAll digital equity grant program. The ConnectAll digital
+56 equity grant program is hereby established to support individuals to
+
+A. 1755--A 3
+1 have the information technology capacity needed for full participation
+2 in society and the economy, including the effective implementation of a
+3 State Digital Equity Plan or any successor plan and to facilitate, fund,
+4 or reimburse, the provision of internet access as provided in subdivi-
+5 sion (m) of section 17 and section 153 of the social services law.
+6 Grants issued pursuant to this program shall be awarded in a manner and
+7 form as determined by the division consistent with all relevant federal
+8 laws, codes, rules, and regulations associated with the federal Digital
+9 Equity Act as established under the Infrastructure Investment and Jobs
+10 Act. The division shall establish such State Digital Equity Plan and the
+11 procedures to solicit, receive and evaluate proposals for the program
+12 consistent with rules, regulations, or guidelines established by the
+13 commissioner.
+14 § 3. This act shall take effect immediately. Effective immediately,
+15 the addition, amendment and/or repeal of any rule or regulation neces-
+16 sary for the implementation of this act on its effective date are
+17 authorized to be made and completed on or before such effective date.

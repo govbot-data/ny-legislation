@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - A9111B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9111--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+September 26, 2025
+___________
+Introduced by M. of A. GALLAGHER, KELLES, TAPIA, VALDEZ, SHRESTHA,
+SCHIAVONI, LEVENBERG, R. CARROLL, SIMON, FORREST, ROSENTHAL, LASHER,
+RAGA, MITAYNES, SHIMSKY, CUNNINGHAM, SEAWRIGHT, BORES, STECK, COLTON,
+GLICK, MORENO, REYES, TAYLOR, RAMOS -- read once and referred to the
+Committee on Energy -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- recommitted
+to the Committee on Energy in accordance with Assembly Rule 3, sec. 2
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the public service law and the executive law, in
+relation to portable solar generation devices
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Solar Up Now NY Act".
+3 § 2. Paragraph (d) of subdivision 1 of section 66-j of the public
+4 service law, as amended by chapter 253 of the laws of 2013, is amended
+5 and a new paragraph (j) is added to subdivision 1 to read as follows:
+6 (d) "Solar electric generating equipment" means a photovoltaic system
+7 (i) (A) in the case of a residential customer (other than a farm utiliz-
+8 ing a residential meter), with a rated capacity of not more than twen-
+9 ty-five kilowatts; (B) in the case of a customer who owns or operates a
+10 farm operation as such term is defined in subdivision eleven of section
+11 three hundred one of the agriculture and markets law utilizing a resi-
+12 dential meter with a rated capacity of not more than one hundred kilo-
+13 watts; and (C) in the case of a non-residential customer, with a rated
+14 capacity of not more than two thousand kilowatts; and (ii) that is manu-
+15 factured, installed, and operated in accordance with applicable govern-
+16 ment and industry standards, that is connected to the electric system
+17 and operated in conjunction with an electric corporation's transmission
+18 and distribution facilities, and that is operated in compliance with any
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13786-08-6
+
+A. 9111--B 2
+1 standards and requirements established under this section. Solar elec-
+2 tric generating equipment shall not include a portable solar generation
+3 device.
+4 (j) "Portable solar generation device" means a photovoltaic system and
+5 associated equipment that:
+6 (i) is designed to be connected to a building's electrical system
+7 through a standard electrical outlet;
+8 (ii) is limited to supplying a maximum aggregate continuous AC invert-
+9 er nameplate output of not more than one thousand two hundred watts per
+10 utility account to the utility electric grid;
+11 (iii) is listed or certified by underwriters laboratories or another
+12 nationally recognized testing laboratory either: (A) as a complete plug-
+13 in photovoltaic system to a standard such as UL 3700 or any successor or
+14 equivalent standard; or (B) to a combination of standards that together
+15 evaluate plug-in photovoltaic system safety and utility-interactive
+16 inverter performance for grid-parallel operation and anti-islanding
+17 protections; and
+18 (iv) is installed and operated in accordance with the New York state
+19 fire prevention and building code and manufacturer instructions.
+20 § 3. Subdivision 7 of section 66-j of the public service law is renum-
+21 bered subdivision 8 and a new subdivision 7 is added to read as follows:
+22 7. Portable solar generation device. Notwithstanding any other
+23 provision of law, unless the owner of a portable solar generation device
+24 shall choose to voluntarily enter into an interconnection or net meter-
+25 ing agreement:
+26 (a) A portable solar generation device shall not be subject to inter-
+27 connection or net metering requirements. Any energy exported to the
+28 utility electric grid shall be uncompensated unless the customer volun-
+29 tarily enters a net metering or other compensation agreement.
+30 (b) An electric corporation may not require a customer using a port-
+31 able solar generation device to:
+32 (i) obtain the electric corporation's approval before installing or
+33 using the device;
+34 (ii) pay any fee or charge related to the device or for feeding energy
+35 back into the utility electric grid; or
+36 (iii) install any additional controls or equipment beyond what is
+37 integrated into the device.
+38 (c) An electric corporation shall not be liable for any damage or
+39 injury caused by a portable solar generation device.
+40 (d) Within thirty days of installing a portable solar generation
+41 device, the owner of such device shall notify the electric corporation
+42 serving the building in which such device will be installed. Within
+43 thirty days of the effective date of this subdivision, every electric
+44 corporation shall develop and make available on the electric corpo-
+45 ration's website a simple notification form, which shall require only
+46 the following information:
+47 (i) the customer's name and contact information;
+48 (ii) the service address and utility account number associated with
+49 the address at which the device will be installed;
+50 (iii) the device make and model; and
+51 (iv) the device rated size.
+52 § 4. Section 378 of the executive law is amended by adding a new
+53 subdivision 21 to read as follows:
+54 21. Within one year of the effective date of this subdivision, irre-
+55 spective of any system standard established by any testing laboratory,
+56 the state uniform fire prevention and building code shall be optimized
+
+A. 9111--B 3
+1 to allow for portable solar generation devices, as defined in section
+2 sixty-six-j of the public service law, to be connected to a building's
+3 wiring through an electrical outlet. For devices smaller than a thresh-
+4 old of no less than three hundred ninety-one watts, the code shall not
+5 require any changes to the building's premises wiring.
+6 § 5. This act shall take effect immediately.

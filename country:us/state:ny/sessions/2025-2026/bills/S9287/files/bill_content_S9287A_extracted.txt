@@ -1,0 +1,270 @@
+Title: 
+Official Title: 
+Source: versions - S9287A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9287--A
+IN SENATE
+February 25, 2026
+___________
+Introduced by Sen. HINCHEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Housing, Construction and
+Community Development -- reported favorably from said committee and
+committed to the Committee on Finance -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the real property tax law, in relation to establishing a
+real property tax exemption for certain full-time residents of certain
+counties
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The real property tax law is amended by adding a new
+2 section 421-r to read as follows:
+3 § 421-r. Exemption for full-time residents of certain counties. 1.
+4 Legislative findings and intent. The legislature hereby finds that
+5 certain counties in this state contain a high proportion of housing
+6 units that are not occupied on a year-round basis and are instead used
+7 for seasonal, recreational, or occasional purposes. In such areas, local
+8 governments and school districts continue to maintain public services,
+9 infrastructure, and civic institutions year-round, even as the number of
+10 full-time residents contributing to and supporting those systems is
+11 limited by the high proportion of part-time occupancy.
+12 The legislature further finds that existing real property tax struc-
+13 tures do not distinguish between residential properties occupied on a
+14 full-time, year-round basis and properties that are not so occupied, and
+15 that limited data exists regarding the effects of targeted property tax
+16 relief for year-round resident-occupied housing.
+17 The purpose of this section is to authorize a pilot real property tax
+18 exemption for certain year-round resident-occupied residential property,
+19 in localities that choose to participate, within eligible counties. The
+20 pilot is intended to allow the state and participating local governments
+21 to evaluate the fiscal, administrative, and housing-related impacts of
+22 such an exemption.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14651-06-6
+
+S. 9287--A 2
+1 2. Definitions. For the purposes of this section, the following terms
+2 shall have the following meanings:
+3 (a) "Qualifying residential property" means a parcel of real property
+4 improved by a dwelling used exclusively for residential purposes and
+5 containing not more than three dwelling units. Real property that is
+6 partly used for non-residential purposes, or that contains four or more
+7 dwelling units, shall not be a qualifying residential property for
+8 purposes of this section.
+9 (b) "Eligible year-round residential property" or "eligible property"
+10 means any qualifying residential property that is either:
+11 (i) owned by one or more individuals, at least one of whom occupies
+12 the property as their primary residence and is enrolled in or eligible
+13 for the school tax relief (STAR) exemption pursuant to section four
+14 hundred twenty-five of this article or the school tax relief (STAR)
+15 credit pursuant to subsection (eee) of section six hundred six of the
+16 tax law and meets the applicable income eligibility requirement of such
+17 program; or
+18 (ii) owned by one or more individuals and occupied by one or more
+19 tenants as their primary residence under a written lease agreement with
+20 a term of not less than twelve months.
+21 (c) "Eligible county" means any county in this state having a popu-
+22 lation of not less than one hundred fifty thousand and not more than one
+23 million, and in which at least six percent of the total housing units
+24 are categorized as for seasonal, recreational or occasional use accord-
+25 ing to the latest available data from the American Community Survey of
+26 the United States Census Bureau as of January first, two thousand twen-
+27 ty-six.
+28 3. General provisions; local option. (a) Real property located in an
+29 eligible county that is an eligible year-round residential property
+30 shall be exempt from taxation to the extent of ten percent of the
+31 assessed value thereof for city, town, part town, special district,
+32 village, school district or county purposes, exclusive of special
+33 assessments, provided that the governing body of such city, town or
+34 village, after a public hearing, adopts a local law or resolution
+35 providing for such exemption.
+36 (b) Following the adoption of a local law by a city, town or village
+37 pursuant to paragraph (a) of this subdivision, the governing body of the
+38 county in which such city, town or village is located may adopt a local
+39 law, and the governing body of any school district that levies taxes in
+40 such city, town or village may adopt a resolution, to likewise grant the
+41 exemption authorized by this section for the county or school district
+42 portion of the tax levy, as applicable. A county local law or school
+43 district resolution adopted under this paragraph may provide that the
+44 exemption shall apply in any city, town or village within its jurisdic-
+45 tion that has adopted a local law or resolution pursuant to paragraph
+46 (a) of this subdivision.
+47 (c) Any exemption granted pursuant to this section shall be in addi-
+48 tion to any other exemption or abatement of real property taxes author-
+49 ized by law, provided the property is separately eligible for such other
+50 exemption, and shall not reduce eligibility for or applicability of such
+51 other exemption or abatement.
+52 (d) A copy of any local law, ordinance or resolution adopted pursuant
+53 to this subdivision shall be filed with the commissioner and with the
+54 assessor of each city, town or village who prepares the assessment roll
+55 on which the taxes of such county, city, town, village or school
+56 district are levied.
+
+S. 9287--A 3
+1 4. Eligibility requirements. An exemption authorized pursuant to this
+2 section shall not be granted unless the following conditions are met:
+3 (a) The property for which the exemption is sought is a qualifying
+4 residential property located within an eligible county as defined in
+5 subdivision two of this section;
+6 (b) The property for which the exemption is sought is the primary
+7 residence of a full-time year-round resident, as evidenced by at least
+8 one of the following circumstances:
+9 (i) At least one owner of the property occupies such property as a
+10 primary residence and is enrolled in or eligible for the STAR exemption
+11 or credit as required pursuant to subparagraph (i) of paragraph (b) of
+12 subdivision two of this section; or
+13 (ii) at least one tenant occupies the property as a primary residence
+14 under a lease of twelve months or more. In the case of a property occu-
+15 pied by a tenant, the assessor may require documentation that the
+16 tenant's occupancy is their primary residence, including but not limited
+17 to a copy of the lease agreement and a government-issued identification
+18 or other proof of residence showing the property address as the tenant's
+19 address;
+20 (c) The property for which the exemption is sought is used exclusively
+21 for residential purposes. If any portion of the property is not used
+22 exclusively for the residence of the qualifying owner or qualifying
+23 tenant, such portion shall be subject to taxation and only the remaining
+24 residential portion shall be entitled to the exemption provided by this
+25 section. In no event shall an exemption be granted for a parcel of real
+26 property containing four or more dwelling units, or for any portion of a
+27 parcel of real property that is not used for residential purposes;
+28 (d) If a qualifying residential property contains two or three dwell-
+29 ing units, the exemption authorized by this section shall apply only to
+30 the dwelling unit or units occupied on a year-round basis by a qualify-
+31 ing owner or qualifying tenant. Any dwelling unit or units not occupied
+32 as a primary residence by a qualifying owner or qualifying tenant shall
+33 be considered a portion of the property that is not used for the resi-
+34 dence of a qualifying occupant and no exemption shall be granted for the
+35 assessed value attributable to such unit or units;
+36 (e) Notwithstanding any other provision of law to the contrary, the
+37 provisions of this section shall apply to real property in which a
+38 person holds a legal life estate, or which is held in trust solely for
+39 the benefit of a person or persons who would otherwise be eligible for
+40 the exemption under this section were such person or persons the owner
+41 or owners of such property. For purposes of this section, any such life
+42 tenant or trust beneficiary who occupies qualifying real property as
+43 their primary residence shall be deemed to be the owner of such property
+44 during the period of their life estate or beneficial interest; and
+45 (f) In the case of an owner-occupied property, the owner or at least
+46 one of the owners has met the income eligibility requirements for the
+47 basic STAR exemption or credit for the applicable income tax year and
+48 the property is receiving a STAR exemption or credit. An owner who is
+49 not enrolled in the STAR program or who has an income above the STAR
+50 exemption or credit eligibility limit shall not qualify for the
+51 exemption under this section. There shall be no income test for proper-
+52 ties qualifying under subparagraph (ii) of paragraph (b) of subdivision
+53 two of this section.
+54 5. Administration by commissioner and assessors. (a) The commissioner,
+55 acting through the office of real property tax services, shall provide
+56 to each eligible county the parcel-level data identifying properties
+
+S. 9287--A 4
+1 whose owners are enrolled in the STAR program, to be used solely for the
+2 administration of the exemption authorized by this section. Such data
+3 shall be provided annually, or more frequently as deemed necessary by
+4 the commissioner, and shall include information sufficient to identify
+5 the parcels and confirm the property owners' primary residence and
+6 income eligibility status under the STAR program. Such data shall be
+7 subject to all applicable confidentiality and data protection require-
+8 ments under state and federal law and shall not be disclosed or used for
+9 any purpose other than the administration of this section. The eligible
+10 county shall be responsible for disseminating such data to the assessors
+11 of any city, town or village within the county that has adopted a local
+12 law pursuant to this section, and for ensuring that such data is used
+13 only for purposes authorized by this section.
+14 (b) In any city, town or village that has opted into the exemption
+15 established pursuant to this section, the assessor shall automatically
+16 grant such exemption to each property that meets the eligibility crite-
+17 ria of this section by virtue of the owner's enrollment in and quali-
+18 fication for the STAR program. The assessor shall apply the exemption to
+19 such qualifying owner-occupied properties without requiring a separate
+20 application from the property owner. The assessor may require, at the
+21 assessor's discretion, an owner to confirm primary residency status as
+22 needed; provided, however, that proof of a current STAR exemption or
+23 credit having been granted to the owner for such property shall be
+24 generally sufficient evidence of eligibility under subparagraph (i) of
+25 paragraph (b) of subdivision two of this section.
+26 (c) The owner of any property that may be eligible for the exemption
+27 under this section, but which is not automatically granted an exemption
+28 pursuant to paragraph (b) of this subdivision, may apply for such
+29 exemption by filing an application with the assessor on or before the
+30 taxable status date. Such applications shall be available for, but not
+31 limited to, owners of properties that are occupied year-round by tenants
+32 and properties where the owner is eligible for the STAR exemption or
+33 credit but were not identified as such in the commissioner's data.
+34 Applications shall be made on a form prescribed by the commissioner and
+35 shall include any documentation that the assessor deems necessary to
+36 verify that the property and the owner or tenant meet the requirements
+37 of this section. In the case of a property occupied by a year-round
+38 tenant, the application shall include: (i) a copy of the written lease
+39 or other rental agreement showing that such lease or agreement has a
+40 duration of at least twelve months; and (ii) a government-issued iden-
+41 tification or other proof of residence showing the property address as
+42 the tenant's address. The assessor shall review each such application
+43 and determine whether the property is eligible for the exemption. If the
+44 assessor is satisfied that the requirements of this section are met, the
+45 exemption shall be granted on the assessment roll for the applicable tax
+46 year.
+47 (d) An exemption granted under this section to a property occupied by
+48 a year-round tenant shall remain in effect only so long as the property
+49 continues to be occupied on a year-round basis by a tenant or tenants
+50 under a lease of twelve months or more. The owner of such property shall
+51 be required to certify annually, on a form and by a date prescribed by
+52 the commissioner, that the property continues to meet the requirements
+53 of paragraph (b) of subdivision two of this section. The assessor may
+54 request updated documentation (such as a renewed lease or updated proof
+55 of the tenant's residency) to verify continuing eligibility. If a prop-
+56 erty receiving an exemption pursuant to this section ceases to be occu-
+
+S. 9287--A 5
+1 pied by a year-round tenant, or if the tenancy no longer meets the
+2 requirements of this section, the owner shall promptly notify the asses-
+3 sor, and the exemption shall be discontinued as of the next taxable
+4 status date. In the case of an owner-occupied property, continued
+5 enrollment by the owner or owners in the STAR program shall serve as
+6 annual certification of eligibility, and no separate renewal application
+7 shall be required from such owner or owners.
+8 (e) If a property receiving an exemption pursuant to this section
+9 ceases to satisfy the eligibility requirements for such exemption at any
+10 time, the assessor shall discontinue such exemption on the next taxable
+11 status date. The property owner or owners must promptly notify the
+12 assessor if the property ceases to be the primary residence of the qual-
+13 ifying owner or owners, is no longer occupied by a qualifying year-round
+14 tenant, or if any other condition of eligibility is no longer met. If a
+15 property owner fails to promptly notify the assessor of such ineligibil-
+16 ity, such owner may be restricted from applying for or receiving the
+17 exemption for a period of up to five years. A willful false statement on
+18 an application for this exemption shall be grounds for revocation of the
+19 exemption. Upon revocation, the property's taxable assessed value shall
+20 be fully restored for the appropriate tax year or years, and the owner
+21 may be held liable for any taxes wrongfully exempted.
+22 6. Report on effectiveness of exemption. (a) Within five years of the
+23 effective date of this section, the department shall conduct a study on
+24 the impacts of the exemption authorized by this section for the purpose
+25 of assisting the legislature in determining whether to extend the
+26 authority to offer such exemption to additional counties that do not
+27 otherwise meet the eligibility thresholds set forth in this section and
+28 whether the amount of assessed value should be extended or changed in
+29 its application.
+30 (b) The department shall prepare a report detailing its findings and
+31 any recommendations, which shall be delivered to the governor, the
+32 temporary president of the senate, and the speaker of the assembly. The
+33 report shall include, at a minimum, an analysis of: (i) the number of
+34 counties, cities, towns, villages, and school districts that have opted
+35 into the exemption; (ii) the number of properties receiving the
+36 exemption and the aggregate assessed value exempted; (iii) the impact of
+37 the exemption on the redistribution of tax liability to non-exempt prop-
+38 erties; and (iv) any observable changes in year-round residency rates,
+39 housing availability for full-time residents, or other demographic and
+40 economic indicators in the jurisdictions that implemented the exemption.
+41 § 2. This act shall take effect immediately and shall apply to assess-
+42 ment rolls prepared on the basis of taxable status dates occurring on or
+43 after the next succeeding January 1 that is at least ninety days after
+44 the date on which this act shall have become a law.

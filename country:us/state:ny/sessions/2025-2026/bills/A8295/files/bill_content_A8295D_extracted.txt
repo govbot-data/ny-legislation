@@ -1,0 +1,385 @@
+Title: 
+Official Title: 
+Source: versions - A8295D
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8295--D
+R. R. 406
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 12, 2025
+___________
+Introduced by M. of A. OTIS, McDONALD, SIMON, COLTON, GONZALEZ-ROJAS,
+SHRESTHA, SMITH -- read once and referred to the Committee on Science
+and Technology -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- reported and referred to the Committee on Rules
+-- ordered to a third reading -- amended on the special order of third
+reading, ordered reprinted as amended, retaining its place on the
+special order of third reading -- again amended on special order of
+third reading, ordered reprinted, retaining its place on the special
+order of third reading
+AN ACT to amend the state technology law, the education law and the
+civil service law, in relation to automated decision-making by govern-
+ment agencies
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The state technology law is amended by adding a new article
+2 5 to read as follows:
+3 ARTICLE V
+4 AUTOMATED DECISION-MAKING IN GOVERNMENT AGENCIES
+5 Section 501. Definitions.
+6 502. Disclosure of automated decision-making tools by government
+7 agencies.
+8 503. Impact assessments.
+9 504. Submission to the governor and legislature.
+10 § 501. Definitions. For the purpose of this article:
+11 1. "Automated decision-making tool" shall mean any software that uses
+12 algorithms, computational models, or artificial intelligence techniques,
+13 or a combination thereof, to automate, support, or replace human deci-
+14 sion-making. "Automated decision-making tool" shall not include any
+15 software used primarily for basic computerized processes, such as calcu-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11535-19-5
+
+A. 8295--D 2
+1 lators, spellcheck tools, autocorrect functions, spreadsheets, electron-
+2 ic communications, or any tool that relates only to internal management
+3 affairs such as ordering office supplies or processing payments, and
+4 that do not materially affect the rights, liberties, benefits, safety or
+5 welfare of any individual within the state. "Automated decision-making
+6 tools" shall not include "automated employment decision-making tools" as
+7 defined in section four hundred one of this chapter.
+8 2. "Meaningful human review" means review, oversight and control of
+9 the automated decision-making process by one or more individuals who
+10 understand the risks, limitations, and functionality of, and are trained
+11 to use, the automated decision-making tool and who have the authority to
+12 intervene or alter the decision under review, including but not limited
+13 to the ability to approve, deny, or modify any decision recommended or
+14 made by the automated tool.
+15 3. "Government agency" shall mean: (a) the state or civil division
+16 thereof; (b) a county, city, town or village; (c) a school district,
+17 board of cooperative educational services, vocational education and
+18 extension board or a school district as enumerated in section one of
+19 chapter five hundred sixty-six of the laws of nineteen hundred sixty-
+20 seven, as amended; (d) the state university of New York; (e) the city
+21 university of New York; (f) a public improvement or special district
+22 including police or fire districts; (g) a public authority, commission
+23 or public benefit corporation; or (h) any other public corporation,
+24 agency, instrumentality or unit of government which exercises govern-
+25 mental power under the laws of this state.
+26 § 502. Disclosure of automated decision-making tools by government
+27 agencies. Any government agency that utilizes an automated decision-mak-
+28 ing tool, as defined in section five hundred one of this article, shall
+29 publish a list of such automated decision-making tools on such govern-
+30 ment agency's website no later than the thirtieth of December next
+31 succeeding the date on which this section takes effect, and annually
+32 thereafter. Such disclosure shall include:
+33 1. a description of the automated decision-making tool utilized
+34 by such government agency;
+35 2. the date that the government agency use of such automated deci-
+36 sion-making tool began;
+37 3. a summary of the purpose and use of such automated decision-
+38 making tool; and
+39 4. any other information deemed relevant by the agency.
+40 § 503. Impact assessments. 1. Government agencies seeking to utilize
+41 or apply an automated decision-making tool permitted under section five
+42 hundred two of this article with continued and operational meaningful
+43 human review shall conduct or have conducted an impact assessment
+44 substantially completed and bearing the signature of one or more indi-
+45 viduals responsible for meaningful human review for the lawful applica-
+46 tion and use of such automated decision-making tool. Following the first
+47 impact assessment, an impact assessment shall be conducted in accordance
+48 with this section at least once every two years. An impact assessment
+49 shall be conducted prior to any material change to the automated deci-
+50 sion-making tool that may change the outcome or effect of such tool.
+51 Such impact assessments shall include:
+52 (a) a description of the objectives of the automated decision-making
+53 tool;
+54 (b) an evaluation of the ability of the automated decision-making tool
+55 to achieve its stated objectives;
+
+A. 8295--D 3
+1 (c) a description and evaluation of the objectives and development of
+2 the automated decision-making including:
+3 (i) a summary of the underlying algorithms, computational modes, and
+4 artificial intelligence tools that are used within the automated deci-
+5 sion-making tool; and
+6 (ii) the design and training data used to develop the automated deci-
+7 sion-making tool process;
+8 (d) testing for:
+9 (i) accuracy, fairness, bias and discrimination, and an assessment of
+10 whether the use of the automated decision-making tool produces discrimi-
+11 natory results on the basis of a consumer's or a class of consumers'
+12 actual or perceived race, color, ethnicity, religion, national origin,
+13 sex, gender, gender identity, sexual orientation, familial status, biom-
+14 etric information, lawful source of income, or disability and outlines
+15 mitigations for any identified performance differences in outcomes
+16 across relevant groups impacted by such use;
+17 (ii) any cybersecurity vulnerabilities and privacy risks resulting
+18 from the deployment and use of the automated decision-making tool, and
+19 the development or existence of safeguards to mitigate the risks;
+20 (iii) any public health or safety risks resulting from the deployment
+21 and use of the automated decision-making tool;
+22 (iv) any reasonably foreseeable misuse of the automated decision-mak-
+23 ing tool and the development or existence of safeguards against such
+24 misuse;
+25 (e) the extent to which the deployment and use of the automated deci-
+26 sion-making tool requires input of sensitive and personal data, how that
+27 data is used and stored, and any control users may have over their data;
+28 and
+29 (f) the notification mechanism or procedure, if any, by which individ-
+30 uals impacted by the utilization of the automated decision-making tool
+31 may be notified of the use of such automated decision-making tool and of
+32 the individual's personal data, and informed of their rights and options
+33 relating to such use.
+34 2. Notwithstanding the provisions of this article or any other law, if
+35 an impact assessment finds that the automated decision-making tool
+36 produces discriminatory or biased outcomes, the government agency shall
+37 cease any utilization, application, or function of such automated deci-
+38 sion-making tool, and of any information produced using such tool.
+39 § 504. Submission to the governor and legislature. 1. Each impact
+40 assessment conducted pursuant to this article shall be submitted to the
+41 governor, the temporary president of the senate, and the speaker of the
+42 assembly at least thirty days prior to the implementation of the auto-
+43 mated decision-making tool that is the subject of such assessment.
+44 2. (a) The impact assessment of an automated decision-making tool
+45 shall be published on the website of the relevant government agency.
+46 (b) If the government agency makes a determination that the disclosure
+47 of any information required in the impact assessment would result in a
+48 substantial negative impact on health or safety of the public, infringe
+49 upon the privacy rights of individuals, or significantly impair the
+50 government agency's ability to protect its information technology or
+51 operational assets, such government agency may redact such information,
+52 provided that an explanatory statement on the process by which the
+53 government agency made such determination is published along with the
+54 redacted impact assessment.
+55 (c) If the impact assessment covers any automated decision-making tool
+56 that includes technology that is used to prevent, detect, protect
+
+A. 8295--D 4
+1 against or respond to security incidents, identity theft, fraud, harass-
+2 ment, malicious or deceptive activities or other illegal activity,
+3 preserve the integrity or security of tools, or to investigate, report
+4 or prosecute those responsible for any such malicious or deceptive
+5 action, such government agency may redact such information for the
+6 purposes of this subdivision, provided that an explanatory statement on
+7 the process by which the government agency made such determination is
+8 published along with the redacted impact assessment.
+9 § 2. The state technology law is amended by adding a new section 103-f
+10 to read as follows:
+11 § 103-f. Automated decision-making tool inventory. 1. The office shall
+12 maintain an inventory of state automated decision-making tools. The
+13 office shall issue guidance to state agencies identifying the data
+14 elements to be collected and submitted to the office for such inventory,
+15 including but not limited to the purpose and uses of such automated
+16 decision-making tools. The inventory shall be posted on the New York
+17 state open data website on the thirtieth of December next succeeding the
+18 date on which this section takes effect, and annually thereafter. State
+19 agencies shall submit information required by the office at least sixty
+20 days in advance of the annual publication date. The office may withhold
+21 certain information if it determines disclosure of this information
+22 would jeopardize the security of information technology assets, or as
+23 prescribed by article six of the public officers law.
+24 2. For purposes of this section, "automated decision-making tool"
+25 shall have the same meaning as the term is defined in section five
+26 hundred one of this chapter.
+27 3. The office may ask and shall receive from any state agency any
+28 information or assistance necessary to carry out its powers and duties
+29 under this section.
+30 4. The office shall submit a copy of the artificial intelligence
+31 inventory to the governor, the temporary president of the senate, and
+32 the speaker of the assembly.
+33 § 3. Disclosure of existing automated decision-making tools. Any
+34 government agency, that directly or indirectly, utilizes an automated
+35 decision-making tool, as defined in section 501 of the state technology
+36 law, shall submit to the legislature a disclosure on the use of such
+37 tool, no later than one year after the effective date of this section.
+38 Such disclosure shall include:
+39 (a) a description of the automated decision-making tool utilized by
+40 such agency;
+41 (b) a list of any software vendors related to such automated deci-
+42 sion-making tool;
+43 (c) the date that the use of such tool began;
+44 (d) a summary of the purpose and use of such tool, including a
+45 description of human decision-making and discretion supported or
+46 replaced by the automated decision-making tool;
+47 (e) whether any impact assessments for the automated decision-making
+48 tool were conducted and the dates and summaries of the results of such
+49 assessments where applicable; and
+50 (f) any other information deemed relevant by the agency.
+51 § 4. Section 2510 of the education law is amended by adding a new
+52 subdivision 4 to read as follows:
+53 4.(a) The use of artificial intelligence systems as defined by section
+54 one hundred three-e of the state technology law and automated decision-
+55 making tools as defined by section five hundred one of the state tech-
+56 nology law shall not affect (i) the existing rights of employees pursu-
+
+A. 8295--D 5
+1 ant to an existing collective bargaining agreement, or (ii) the existing
+2 representational relationships among employee organizations or the
+3 bargaining relationships between the employer and an employee organiza-
+4 tion.
+5 (b) The use of such artificial intelligence systems and automated
+6 decision-making tools shall not result in the: (i) discharge, displace-
+7 ment or loss of position, including partial displacement such as a
+8 reduction in the hours of non-overtime work, wages, or employment bene-
+9 fits, or result in the impairment of existing collective bargaining
+10 agreements; or (ii) transfer of existing duties and functions currently
+11 performed by employees of the state or any agency or public authority
+12 thereof to an artificial intelligence system or automated decision-mak-
+13 ing tool.
+14 (c) The use of such artificial intelligence system or automated deci-
+15 sion-making tool shall not alter the rights or benefits, and privileges,
+16 including but not limited to terms and conditions of employment and
+17 civil service status. The collective bargaining unit membership status
+18 of all existing employees of the board of education shall be preserved
+19 and protected.
+20 § 5. Section 2585 of the education law is amended by adding a new
+21 subdivision 5 to read as follows:
+22 5.(a) The use of artificial intelligence systems as defined by section
+23 one hundred three-e of the state technology law and automated decision-
+24 making tools as defined by section five hundred one of the state tech-
+25 nology law shall not affect (i) the existing rights of employees pursu-
+26 ant to an existing collective bargaining agreement, or (ii) the existing
+27 representational relationships among employee organizations or the
+28 bargaining relationships between the employer and an employee organiza-
+29 tion.
+30 (b) The use of such artificial intelligence systems and automated
+31 decision-making tools shall not result in the: (i) discharge, displace-
+32 ment or loss of position, including partial displacement such as a
+33 reduction in the hours of non-overtime work, wages, or employment bene-
+34 fits, or result in the impairment of existing collective bargaining
+35 agreements; or (ii) transfer of existing duties and functions currently
+36 performed by employees of the state or any agency or public authority
+37 thereof to an artificial intelligence system or automated decision
+38 making tool.
+39 (c) The use of such artificial intelligence system and automated deci-
+40 sion-making tool shall not alter the rights or benefits, and privileges,
+41 including but not limited to terms and conditions of employment and
+42 civil service status. The collective bargaining unit membership status
+43 of all existing employees of the board of education shall be preserved
+44 and protected.
+45 § 6. Section 2588 of the education law is amended by adding a new
+46 subdivision 9 to read as follows:
+47 9.(a) The use of artificial intelligence systems as defined by section
+48 one hundred three-e of the state technology law and automated decision-
+49 making tools as defined by section five hundred one of the state tech-
+50 nology law shall not affect (i) the existing rights of employees pursu-
+51 ant to an existing collective bargaining agreement, or (ii) the existing
+52 representational relationships among employee organizations or the
+53 bargaining relationships between the employer and an employee organiza-
+54 tion.
+55 (b) The use of such artificial intelligence systems shall not result
+56 in the: (i) discharge, displacement or loss of position, including
+
+A. 8295--D 6
+1 partial displacement such as a reduction in the hours of non-overtime
+2 work, wages, or employment benefits, or result in the impairment of
+3 existing collective bargaining agreements; or (ii) transfer of existing
+4 duties and functions currently performed by employees of the state or
+5 any agency or public authority thereof to and artificial intelligence
+6 system or automated decision-making tool.
+7 (c) The use of such artificial intelligence system and automated deci-
+8 sion-making tool shall not alter the rights or benefits, and privileges,
+9 including but not limited to terms and conditions of employment and
+10 civil service status. The collective bargaining unit membership status
+11 of all existing employees of the board of education shall be preserved
+12 and protected.
+13 § 7. Section 3013 of the education law is amended by adding a new
+14 subdivision 4 to read as follows:
+15 4.(a) The use of artificial intelligence systems as defined by section
+16 one hundred three-e of the state technology law and automated decision-
+17 making tools as defined by section five hundred one of the state tech-
+18 nology law shall not affect (i) the existing rights of employees pursu-
+19 ant to an existing collective bargaining agreement, or (ii) the existing
+20 representational relationships among employee organizations or the
+21 bargaining relationships between the employer and an employee organiza-
+22 tion.
+23 (b) The use of such artificial intelligence systems and automated
+24 decision-making tools shall not result in the: (i) discharge, displace-
+25 ment or loss of position, including partial displacement such as a
+26 reduction in the hours of non-overtime work, wages, or employment bene-
+27 fits, or result in the impairment of existing collective bargaining
+28 agreements; or (ii) transfer of existing duties and functions currently
+29 performed by employees of the state or any agency or public authority
+30 thereof to an artificial intelligence system or automated decision-mak-
+31 ing tool.
+32 (c) The use of such artificial intelligence system and automated deci-
+33 sion-making tool shall not alter the rights or benefits, and privileges,
+34 including but not limited to terms and conditions of employment and
+35 civil service status. The collective bargaining unit membership status
+36 of all existing employees of the board of education, board of cooper-
+37 ative educational services, or board of trustees thereof shall be
+38 preserved and protected.
+39 § 8. The education law is amended by adding a new section 115 to read
+40 as follows:
+41 § 115. Use of artificial intelligence systems and automated decision-
+42 making tools by the state university of New York, the city university of
+43 New York, or community colleges. 1. The use of artificial intelligence
+44 systems as defined by section one hundred three-e of the state technolo-
+45 gy law and automated decision-making tools as defined by section five
+46 hundred one of the state technology law shall not affect (a) the exist-
+47 ing rights of employees pursuant to an existing collective bargaining
+48 agreement, or (b) the existing representational relationships among
+49 employee organizations or the bargaining relationships between the
+50 employer and an employee organization.
+51 2. The use of such artificial intelligence systems and automated deci-
+52 sion-making tools shall not result in the: (a) discharge, displacement
+53 or loss of position, including partial displacement such as a reduction
+54 in the hours of non-overtime work, wages, or employment benefits, or
+55 result in the impairment of existing collective bargaining agreements;
+56 or (b) transfer of existing duties and functions currently performed by
+
+A. 8295--D 7
+1 employees of the state or any agency or public authority thereof to an
+2 artificial intelligence system or automated decision-making tool.
+3 3. The use of such artificial intelligence system or automated deci-
+4 sion-making tool shall not alter the rights or benefits, and privileges,
+5 including but not limited to terms and conditions of employment, civil
+6 service status, and collective bargaining unit membership status of all
+7 existing employees of the state university of New York, the city univer-
+8 sity of New York, or community colleges shall be preserved and
+9 protected.
+10 § 9. Subdivision 10 of section 80 of the civil service law, as added
+11 by chapter 96 of the laws of 2025, is amended to read as follows:
+12 10. (a) The use of artificial intelligence systems as defined by
+13 section one hundred three-e of the state technology law and automated
+14 decision-making tools as defined by section five hundred one of the
+15 state technology law shall not affect (i) the existing rights of employ-
+16 ees pursuant to an existing collective bargaining agreement, or (ii) the
+17 existing representational relationships among employee organizations or
+18 the bargaining relationships between the employer and an employee organ-
+19 ization.
+20 (b) The use of such artificial intelligence systems and automated
+21 decision-making tools shall not result in the: (i) discharge, displace-
+22 ment or loss of position, including partial displacement such as a
+23 reduction in the hours of non-overtime work, wages, or employment bene-
+24 fits, or result in the impairment of existing collective bargaining
+25 agreements; or
+26 (ii) transfer of existing duties and functions currently performed by
+27 employees of the state or any agency or public authority thereof to an
+28 artificial intelligence system or automated decision-making tool.
+29 (c) The use of [an] such artificial intelligence system and automated
+30 decision-making tool shall not alter the rights or benefits, and privi-
+31 leges, including but not limited to terms and conditions of employment,
+32 civil service status, and collective bargaining unit membership status
+33 of all existing employees of the state or any agency or public authority
+34 thereof shall be preserved and protected.
+35 § 10. This act shall take effect immediately; provided, however, that
+36 if chapter 96 of the laws of 2025 shall not have taken effect on or
+37 before such date then section nine of this act shall take effect on the
+38 same date and in the same manner as such chapter of the laws of 2025,
+39 takes effect; provided further, however, that section one of this act
+40 shall take effect one year after it shall have become a law; provided
+41 further, however, that the amendments to subdivision 10 of section 80 of
+42 the civil service law made by section nine of this act shall not affect
+43 the expiration and repeal of such subdivision and shall be deemed
+44 repealed therewith.

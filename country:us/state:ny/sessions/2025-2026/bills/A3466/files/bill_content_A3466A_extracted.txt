@@ -1,0 +1,372 @@
+Title: 
+Official Title: 
+Source: versions - A3466A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3466--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 27, 2025
+___________
+Introduced by M. of A. ROMERO, STECK, KELLES, ROSENTHAL, COLTON, ZINER-
+MAN, GONZALEZ-ROJAS, LEVENBERG, DE LOS SANTOS, STERN, LUNSFORD,
+SIMONE, LUCAS, HEVESI, TAPIA, EPSTEIN, GALLAGHER, DINOWITZ,
+BICHOTTE HERMELYN, SHRESTHA, BURDICK, WEPRIN, CHANDLER-WATERMAN, SHIM-
+SKY, SIMON, McDONALD, REYES -- read once and referred to the Committee
+on Governmental Operations -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the executive law, the public authorities law and the
+public buildings law, in relation to the utilization of renewable
+energy at state-owned facilities in Albany
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Renewable Capitol Act".
+3 § 2. The executive law is amended by adding a new section 204 to read
+4 as follows:
+5 § 204. Renewable capitol project. 1. For the purpose of this section,
+6 the following terms shall have the following meanings:
+7 (a) The "advisory committee" shall mean the committee established
+8 pursuant to paragraph (a) of subdivision three of this section.
+9 (b) The "CLCPA" shall mean the New York state climate leadership and
+10 community protection act enacted as chapter one hundred six of the laws
+11 of two thousand nineteen, as it shall from time to time be amended.
+12 (c) "Co-pollutants" shall have the same meaning as set forth in subdi-
+13 vision three of section 75-0101 of the environmental conservation law.
+14 (d) "Emergency generator" shall mean the set of diesel generators
+15 located on Sheridan Avenue in Albany, New York as of the effective date
+16 of this section, that are intended to power the empire state plaza
+17 complex during an emergency fault condition causing an interruption to
+18 normal electricity service from the grid.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06241-03-5
+
+A. 3466--A 2
+1 (e) "Empire state plaza complex" or the "complex" shall mean the
+2 complex of state-owned buildings and the land thereon in Albany, New
+3 York that utilize the steam distribution network of the Sheridan Avenue
+4 steam plant.
+5 (f) "Greenhouse gas" shall have the same meaning as set forth in
+6 subdivision seven of section 75-0101 of the environmental conservation
+7 law.
+8 (g) The "local community" shall mean the portion of Albany, New York
+9 designated as the local community under the plan, which shall include,
+10 at a minimum, the Albany Sheridan Hollow, Arbor Hill, Center Square,
+11 Mansion, Washington Park, West Hill and South End neighborhoods.
+12 (h) "NYSERDA" shall mean the New York state energy research and devel-
+13 opment authority created under section eighteen hundred fifty-two of the
+14 public authorities law.
+15 (i) The "office of general services" or the "office" shall mean the
+16 agency created under section two hundred of this article.
+17 (j) The "empire state plaza decarbonization plan" or "plan" shall mean
+18 the plan set forth in subdivision three of this section, and mandated by
+19 this section and section ninety-one of the public buildings law.
+20 (k) The "project" shall mean the work on the empire state plaza
+21 complex mandated by this section and section ninety-one of the public
+22 buildings law.
+23 (l) A "power purchase agreement" shall mean an agreement between two
+24 parties for the purchase of electricity.
+25 (m) "Renewable energy systems" means systems that entirely generate
+26 electricity or thermal energy through use of the following technologies:
+27 solar thermal, photovoltaics, on land and offshore wind, hydroelectric,
+28 geothermal electric, geothermal ground source heat, tidal energy, wave
+29 energy, ocean thermal, and fuel cells which do not utilize a fossil fuel
+30 resource in the process of generating electricity or thermal energy.
+31 (n) "Sheridan Avenue steam plant" or "steam plant" shall mean the
+32 steam plant facility owned by New York state located as of the time of
+33 the effective date of this section at 79 Sheridan Avenue in Albany, New
+34 York.
+35 2. (a) (i) Within three years after the effective date of this
+36 section, the office of general services, in consultation with the power
+37 authority of the state of New York, shall ensure that all operations
+38 that power, heat or cool the empire state plaza complex shall entirely
+39 use renewable energy systems, and that the Sheridan Avenue steam plant
+40 shall be retired or converted to another purpose that does not require
+41 the use of fossil fuels. In satisfying such requirements, the office
+42 may demonstrate that the amount of electrical energy credited to the
+43 complex annually from renewable sources through a power purchase agree-
+44 ment or similar instrument is not less than the amount of electrical
+45 energy consumed annually by the complex.
+46 (ii) Notwithstanding mandates under subparagraph (i) of this para-
+47 graph, the emergency generator shall be permitted to utilize non-renewa-
+48 ble energy, but the office shall be empowered to retire or convert the
+49 emergency generator to wholly or entirely utilize renewables if possi-
+50 ble.
+51 (b) The project and the empire state plaza complex shall comply with
+52 the CLCPA, and any rules and regulations issued thereunder, and, in
+53 particular, section seven of such law; the statewide greenhouse gas
+54 emissions limits set forth in section 75-0107 of the environmental
+55 conservation law; and the targets established in subdivision two of
+56 section sixty-six-p of the public service law. Nothing in this paragraph
+
+A. 3466--A 3
+1 shall preclude the office from mandating lower greenhouse gas emissions
+2 limits or compliance with greenhouse gas emissions limits in a shorter
+3 timeframe than set forth in section 75-0107 of the environmental conser-
+4 vation law, or in mandating a higher percentage of renewables or in a
+5 shorter timeframe than in subdivision two of section sixty-six-p of the
+6 public service law. Except in regard to the provision regarding to the
+7 emergency generator as set forth in paragraph (a) of this subdivision,
+8 any action taken in furtherance of the project that leads to any
+9 increase in the emissions of greenhouse gases shall be deemed inconsist-
+10 ent with and in interference with the attainment of the statewide green-
+11 house gas emissions limits established in article seventy-five of the
+12 environmental conservation law and therefore shall trigger the process
+13 set forth in subdivision two of section seven of the CLCPA.
+14 3. (a) Within sixty days of the effective date of this section, the
+15 office shall establish an advisory committee to advise it on the prepa-
+16 ration, design and content of the plan. Such plan shall be completed no
+17 later than January thirty-first, two thousand twenty-six. The advisory
+18 committee shall consist of the commissioner of the department of envi-
+19 ronmental conservation and the chief executive officer of NYSERDA, or
+20 their designees, and additional members which shall be appointed by such
+21 commissioner in consultation with such chief executive officer, as
+22 follows: three representatives of Albany community organizations, at
+23 least two of which are from organizations whose mission, in whole or in
+24 part, is to represent the interests of the Arbor Hill and/or Sheridan
+25 Hollow neighborhoods in Albany; two additional representatives of local
+26 environmental justice organizations; one individual not employed by New
+27 York state with recognized expertise in renewable energy; a represen-
+28 tative of labor organizations; a scientist with expertise in energy and
+29 climate policy; an engineer with expertise in energy (including geother-
+30 mal) and climate policy; and the mayor of Albany or their designee. The
+31 advisory committee shall meet quarterly, or additional times as the
+32 committee shall by majority vote determine. At such meetings, which
+33 shall be open to the public, the office and the power authority of the
+34 state of New York shall orally and in writing report on the progress
+35 made in completing the project and otherwise implementing this section,
+36 including but not limited to: the progress of any studies performed in
+37 whole or in part to implement this section, and the progress made in
+38 reducing greenhouse gas emissions at the empire state plaza complex in
+39 compliance with section 75-0109 of the environmental conservation law.
+40 The advisory committee shall be entitled to the work product or other
+41 data which informed any recommendations in the plan, subject to any
+42 reasonable confidentiality requirements established by the office. The
+43 advisory committee members shall receive no compensation for their
+44 services but shall be reimbursed for their actual and necessary expenses
+45 incurred in the performance of their duties. All agencies of the state
+46 or subdivisions thereof may, at the request of the advisory panel or the
+47 office, provide the advisory panel with such facilities, assistance and
+48 data as will enable the advisory panel to carry out its powers and
+49 duties. The failure of the office to establish the advisory committee
+50 or to do so in a timely fashion, or of the advisory committee to engage
+51 in any conduct mandated by this subdivision shall not be a basis for
+52 extending the deadline set forth in subparagraph (i) of paragraph (a) of
+53 subdivision two of this section.
+54 (b) Each member of the advisory committee shall be entitled to one
+55 vote. No action may be taken by the advisory committee unless there is
+
+A. 3466--A 4
+1 a quorum, which shall at all times be a majority of the members of the
+2 committee.
+3 (c) The office shall be transparent in its work to develop the plan
+4 and shall maintain a website where a draft plan and other documents
+5 relevant to its development shall be posted for public review at least
+6 fourteen days prior to the first of the public hearings mandated by this
+7 paragraph. The advisory committee shall hold at least two public hear-
+8 ings at least sixty days prior to the release of the final plan, of
+9 which one shall be held in the Arbor Hill or Sheridan Hollow neighbor-
+10 hoods and one shall be held during the evening or weekend hours. The
+11 advisory committee shall make provisions for online and telephonic
+12 attendance and participation. At such public hearings, the draft plan
+13 shall be made available in written form for those physically attending.
+14 Provisions shall also be made for written comments on the draft plan.
+15 (d) The plan shall contain recommendations on regulatory measures and
+16 other state actions to ensure that the mandates in subdivisions two and
+17 three of this section and section ninety-one of the public buildings law
+18 are met. The measures and actions set forth in the plan shall include:
+19 (i) a timeline for planned steps toward the completion of the project,
+20 including, but not limited to construction of the project and obtaining
+21 the necessary permits to begin operation. The timeline should maximize
+22 the potential for achieving, and if feasible making greater emissions
+23 reductions than the statewide greenhouse gas emissions limits set forth
+24 in section 75-0107 of the environmental conservation law and meeting the
+25 other mandates of the CLCPA;
+26 (ii) measures to maximize the benefits to the local community, includ-
+27 ing prioritizing the reduction of greenhouse gases and co-pollutants and
+28 improving public health in the local community;
+29 (iii) measures to optimize thermal load sharing, energy efficiency,
+30 demand response, and energy conservation;
+31 (iv) comprehensive consideration of renewable heat exchange systems or
+32 a combination of such systems to meet the heating and cooling needs of
+33 the empire state plaza complex, including but not limited to: geothermal
+34 heat exchange with the earth, geothermal heat exchange with the Hudson
+35 River, open-loop and closed-loop geothermal heat exchange with the aqui-
+36 fer, heat exchange with potable water supplies, heat recovery from
+37 wastewater sources, air-source heat pump technology, and thermal stor-
+38 age, provided that such systems do not use combustion-based or fossil
+39 fuel energy;
+40 (v) prioritization of electricity procurement from renewable sources
+41 within New York Independent System Operator (NYISO) Zone F, especially
+42 sources most capable of providing electricity serving real-time load
+43 conditions of the empire state plaza complex. This shall include, but
+44 not be limited to, consideration of projects that expand electricity
+45 generation from ecologically-responsible, run-of-the-river hydroelectric
+46 facilities within the region;
+47 (vi) electricity service upgrades for the empire state plaza complex
+48 necessary to support measures identified in this section; and
+49 (vii) to the extent feasible, measures to ensure that the work
+50 performed on the state capitol building and other buildings or struc-
+51 tures that are part of the complex proceed contemporaneously or during
+52 overlapping timeframes with the work done on other buildings, or struc-
+53 tures that are part of the complex, in such a manner as to maximize the
+54 likelihood of compliance with the mandate set forth in subparagraph (ii)
+55 of paragraph (a) of subdivision two of this section.
+
+A. 3466--A 5
+1 (e) In designing the plan, the office shall be guided by any comments
+2 or recommendations made by the advisory committee.
+3 (f) The plan shall designate the geographic boundaries of the local
+4 community. In designating such boundaries, which shall include the Alba-
+5 ny Sheridan Hollow, Arbor Hill, Center Square, Mansion, Washington Park,
+6 West Hill, and South End neighborhoods, the office shall consider
+7 including in its designation any other communities that experience
+8 impacts on their water, air quality, noise and traffic from the empire
+9 state plaza complex.
+10 (g)(i) Any project that may be funded as a result of the renewable
+11 capitol project completed pursuant to this section shall: (A) be deemed
+12 a public work project subject to article eight of the labor law; (B)
+13 require that the component parts of any renewable capitol project are
+14 produced or made in whole or substantial part in the United States, its
+15 territories or possessions, subject to a waiver provision similar to the
+16 one contained in subdivision two of section sixty-six-s of the public
+17 service law; (C) contain a requirement that any public owner or third
+18 party acting on behalf of a public owner enter into a project labor
+19 agreement as defined by section two hundred twenty-two of the labor law
+20 for all construction work; and (D) require the payment of prevailing
+21 wage standards consistent with article nine of the labor law for build-
+22 ing services work.
+23 (ii) Notwithstanding any provision of law to the contrary, all rights
+24 or benefits, including terms and conditions of employment, and
+25 protection of civil service and collective bargaining status of all
+26 existing public employees and the work jurisdiction, covered job
+27 titles, and work assignments, set forth in the civil service law and
+28 collective bargaining agreements with labor organizations represent-
+29 ing public employees shall be preserved and protected. Any such project
+30 shall not result in the: (A) displacement of any currently employed
+31 worker or loss of position (including partial displacement as such a
+32 reduction in the hours of non-overtime work, wages, or employment bene-
+33 fits) or result in the impairment of existing collective bargaining
+34 agreements; (B) transfer of existing duties and functions related to
+35 maintenance and operations currently performed by existing employees of
+36 authorized entities to a contracting entity; or (C) transfer of future
+37 duties and functions ordinarily performed by employees of authorized
+38 entities to a contracting entity.
+39 (h) In the case of any conflict as to the requirements of this section
+40 and section ninety-one of the public buildings law in regard to the
+41 project, this section shall prevail.
+42 § 3. The tenth undesignated paragraph of section 1005 of the public
+43 authorities law, as added by chapter 55 of the laws of 1992, is amended
+44 to read as follows:
+45 The authority is further authorized, as deemed feasible and advisable
+46 by the trustees, to acquire, maintain, manage, operate, improve and
+47 reconstruct as a project or projects of the authority one or both of the
+48 steam generation facilities owned by the state known as the Sheridan
+49 [avenue] Avenue steam [generating] plant [on Sheridan avenue in the city
+50 of Albany and used to supply steam to state facilities], together with
+51 any properties, buildings and equipment at the sites thereof or ancil-
+52 lary thereto, for the generation and sale of thermal energy and the
+53 cogeneration and sale of electricity for use by facilities of the state
+54 within the county of Albany. All the authority's costs, including its
+55 acquisition, capital, operating and maintenance costs, shall be recov-
+56 ered fully from the customers receiving service from such project or
+
+A. 3466--A 6
+1 projects. Thermal energy and electricity not required by the state may
+2 be sold by the authority to others. The authority is not authorized to
+3 use refuse or refuse-derived fuel in operating the project or projects.
+4 As of the time period specified in paragraph (a) of subdivision two of
+5 section two hundred four of the executive law, all of the energy,
+6 including but not limited to heat, cooling and electricity, produced at
+7 the Sheridan Avenue steam plant shall utilize renewable energy systems.
+8 Any agreement for such acquisition shall [insure] ensure that the
+9 authority is not liable or otherwise responsible for circumstances aris-
+10 ing from the prior operation of such facilities. The acquisition and
+11 purchase of such land, buildings and equipment by the authority, and any
+12 actions taken to effect such acquisition and purchase, are hereby exempt
+13 from the provisions of article eight of the environmental conservation
+14 law. The application of such exemption shall be strictly limited to the
+15 acquisition and purchase of such land, buildings and equipment by the
+16 authority and such agreements with the state. Nothing herein shall
+17 exempt the authority from otherwise applicable laws respecting the
+18 expansion, conversion, operation and maintenance of such land, buildings
+19 and equipment. For the purposes of this subdivision, the terms "renewa-
+20 ble energy systems" and "Sheridan Avenue steam plant" shall have the
+21 same meanings as in subdivision one of section two hundred four of the
+22 executive law.
+23 § 4. Subdivisions 2 and 3 of section 90 of the public buildings law,
+24 as added by section 5 of part RR of chapter 56 of the laws of 2023, are
+25 amended to read as follows:
+26 2. "Decarbonization" and "decarbonize" means eliminating all on-site
+27 combustion of fossil-fuels and associated co-pollutants with the excep-
+28 tion of back-up emergency generators and redundant systems needed to
+29 address public health, safety and security, providing heating and cool-
+30 ing through thermal energy, and thermal energy networks, from non-com-
+31 bustion sources, and to the greatest extent feasible producing on-site
+32 electricity that is one hundred percent renewable. Notwithstanding the
+33 provisions of this subdivision, for purposes of the empire state plaza
+34 complex, such terms shall mean meeting the requirements of subdivisions
+35 two and three of section two hundred four of the executive law, and
+36 section ninety-one of this article, as such requirements are applicable
+37 to the empire state plaza complex.
+38 3. "Highest-emitting facilities" means state-owned facilities that are
+39 among the highest producers of greenhouse gas emissions and collectively
+40 account for at least thirty percent of the greenhouse gas emissions as
+41 recorded by the authority's Build Smart NY program established pursuant
+42 to Executive Order 88 of 2012. Notwithstanding the provisions of this
+43 subdivision, one of such facilities shall be the empire state plaza
+44 complex. For purposes of this article, the "empire state plaza complex"
+45 shall have the same meaning as defined in paragraph (e) of subdivision
+46 one of section two hundred four of the executive law.
+47 § 5. The opening paragraph and paragraph (g) of subdivision 1 and
+48 subdivision 2 of section 91 of the public buildings law, as added by
+49 section 5 of part RR of chapter 56 of the laws of 2023, are amended and
+50 a new paragraph (l) is added to subdivision 1 to read as follows:
+51 The authority is hereby authorized and directed to establish decarbon-
+52 ization action plans for fifteen of the highest-emitting facilities that
+53 will serve as a basis for decarbonizing the facilities to the maximum
+54 extent practicable, and subject to any needed redundant systems and
+55 back-up systems needed for public safety and security. [Decarboniza-
+56 tion] Except as provided in paragraph (g) of subdivision three of
+
+A. 3466--A 7
+1 section two hundred four of the executive law, decarbonization action
+2 plans shall address the following matters at a minimum:
+3 (g) [Identification] Except for the empire state plaza decarbonization
+4 plan, identification of any parts of the facilities that cannot be
+5 decarbonized, with explanations.
+6 (l) In the case of the empire state plaza complex decarbonization
+7 action plan, any items designated by the advisory committee under para-
+8 graph (e) of subdivision three of section two hundred four of the execu-
+9 tive law.
+10 2. [The] Except for the decarbonization plan for the empire state
+11 plaza complex, the authority shall complete the decarbonization action
+12 plans no later than January thirty-first, two thousand twenty-six,
+13 provided that such date shall be extended for justifiable delay outside
+14 the control of the authority, including, but not limited to, previously
+15 planned or current major renovations or replacements to the facilities,
+16 delayed permitting or approval by building owners, local authorities, or
+17 other essential parties, external resource bottlenecks, pending or unre-
+18 solved investigations into utility grid capacity or similar circum-
+19 stances where crucial information is not yet available or determined.
+20 Such extension shall be limited to the time necessary to address the
+21 factors causing such delay. The empire state decarbonization plan shall
+22 be completed by January thirty-first, two thousand twenty-six, and no
+23 exclusions for justifiable delays shall be permitted.
+24 § 6. Subdivisions 5, 6 and 7 of section 91 of the public buildings law
+25 are renumbered subdivisions 6, 7 and 8, and a new subdivision 5 is added
+26 to read as follows:
+27 5. The authority shall be authorized to use the funding provided in
+28 subdivision four of this section to prepare the decarbonization action
+29 plan for the empire state plaza complex, to update or modify any study
+30 or plan undertaken, with the goal, in whole or in part of reducing
+31 greenhouse gas emissions applicable to such complex, provided that such
+32 plan or study in the view of the authority would provide information
+33 useful for achieving the purposes of such section.
+34 § 7. This act shall take effect immediately.
