@@ -1,0 +1,522 @@
+Title: 
+Official Title: 
+Source: versions - A8642A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8642--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 22, 2025
+___________
+Introduced by M. of A. HEVESI, SEAWRIGHT, ROSENTHAL, ROZIC, McMAHON,
+REYES, KELLES, SIMON, GONZALEZ-ROJAS, HYNDMAN -- read once and
+referred to the Committee on Health -- recommitted to the Committee on
+Health in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public health law, the tax law and the state finance
+law, in relation to enacting the "NYS health care tax reform act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "NYS health care tax reform act".
+3 § 2. Legislative findings. The legislature hereby finds that:
+4 The affordability of health care and health insurance is extremely
+5 important in ensuring that the maximum number of New York state resi-
+6 dents can obtain high quality affordable health care.
+7 Health care and health insurance are currently subject to several
+8 taxes that directly and indirectly increase the cost of health insurance
+9 coverage, including an annual flat tax on all privately insured people
+10 in New York state called the covered lives assessment and a 9.63% sales
+11 tax surcharge on certain hospital based health services (HCRA taxes).
+12 Collectively, the taxes on health care, health insurance, and other
+13 taxes were budgeted at $6.5 billion in the FY 2025 state budget. These
+14 taxes are now the fourth largest revenue source for the state behind
+15 only the personal income, sales, and broad-based business taxes. These
+16 taxes have been increased fourteen times since the program began in
+17 1997. The program is now far larger and is used for purposes never
+18 originally contemplated when first enacted.
+19 The taxes on health care and health insurance are fundamentally
+20 regressive taxes because the taxes are unrelated to a consumer's wealth
+21 or ability to pay, directly impact hospitalization costs at a time when
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13012-04-6
+
+A. 8642--A 2
+1 consumers are facing some of their greatest health care challenges,
+2 directly increase the cost of health insurance, and are counterproduc-
+3 tive to the public policy objective of making health insurance as
+4 affordable as possible. Even worse, these taxes are levied in a horribly
+5 unfair manner. They are levied on employees and their employers who are
+6 doing the right thing by providing employer-based health benefits.
+7 Employers who provide no health benefits to hourly workers, including
+8 some of the largest employers in the state, pay nothing.
+9 It is therefore the intent of the legislature that these HCRA taxes be
+10 repealed and replaced so as to maintain the revenue needed to continue
+11 all of the public goods services currently provided under HCRA (includ-
+12 ing but not limited to indigent care grants, subsidies to medical malp-
+13 ractice insurers, and the creation of a diverse pool of physicians in
+14 training), as well as subsidies toward the state share of Medicaid
+15 payments currently provided through HCRA. Repeal of the current HCRA
+16 taxes may only occur in connection with the preservation of all the
+17 public goods and maintenance of the currently budgeted subsidy to the
+18 state share of Medicaid.
+19 § 3. Subparagraph (i) of paragraph (b) and paragraphs (c), (d) and (e)
+20 of subdivision 2 of section 2807-j of the public health law, as amended
+21 by section 50 of part B of chapter 58 of the laws of 2009, are amended
+22 to read as follows:
+23 (i) the sum of (A) eight and eighteen-hundredths percent, provided,
+24 however, that for services provided on and after July first, two thou-
+25 sand three, the percentage shall be eight and eighty-five hundredths
+26 percent, and further provided that for services provided on and after
+27 January first, two thousand six, the percentage shall be eight and nine-
+28 ty-five hundredths percent, and further provided that for services
+29 provided on and after April first, two thousand nine, the percentage
+30 shall be nine and sixty-three hundredths percent, and provided that for
+31 services provided on and after April first, two thousand twenty-six, the
+32 percentage shall be zero percent, plus (B) twenty-four percent,
+33 provided, however, that for services provided on and after July first,
+34 two thousand three, the percentage shall be twenty-five and ninety-seven
+35 hundredths percent, and further provided that for services provided on
+36 and after January first, two thousand six, the percentage shall be twen-
+37 ty-six and twenty-six hundredths percent, and further provided that for
+38 services provided on and after April first, two thousand nine, the
+39 percentage shall be twenty-eight and twenty-seven hundredths percent,
+40 and provided that for services provided on and after April first, two
+41 thousand twenty-six, the percentage shall be zero percent, and plus (C)
+42 for a specified third-party payor as defined in subdivision one-a of
+43 section twenty-eight hundred seven-s of this article the percentage
+44 allowance applicable for a general hospital for inpatient hospital
+45 services pursuant to subdivision two of section twenty-eight hundred
+46 seven-s of this article;
+47 (c) If an election in accordance with subdivision five of this section
+48 is in effect for a third-party payor and in addition in accordance with
+49 section twenty-eight hundred seven-t of this article for a specified
+50 third-party payor, the total percentage allowance factor shall be
+51 reduced to eight and eighteen-hundredths percent, provided, however,
+52 that for services provided on and after July first, two thousand three
+53 the total percentage allowance factor shall be reduced to eight and
+54 eighty-five hundredths percent, and further provided that for services
+55 provided on and after January first, two thousand six, the total
+56 percentage allowance factor shall be reduced to eight and ninety-five
+
+A. 8642--A 3
+1 hundredths percent, and further provided that for services provided on
+2 and after April first, two thousand nine, the total percentage allowance
+3 factor shall be reduced to nine and sixty-three hundredths percent, and
+4 further provided that for services provided on and after April first,
+5 two thousand twenty-six, the total percentage allowance factor shall be
+6 zero percent.
+7 (d) The total percentage allowance for payments by governmental agen-
+8 cies, as determined in accordance with paragraphs (a) and (a-1) of
+9 subdivision one of section twenty-eight hundred seven-c of this article
+10 as in effect on December thirty-first, nineteen hundred ninety-six, or
+11 health maintenance organizations for services provided to subscribers
+12 eligible for medical assistance pursuant to title eleven of article five
+13 of the social services law, or approved organizations for services
+14 provided to subscribers eligible for the family health plus program
+15 pursuant to title eleven-D of article five of the social services law,
+16 shall be five and ninety-eight-hundredths percent, provided, however,
+17 that for services provided on and after July first, two thousand three
+18 the total percentage allowance shall be six and forty-seven hundredths
+19 percent, and further provided that for services provided on and after
+20 January first, two thousand six, the total percentage allowance shall be
+21 six and fifty-four hundredths percent, and further provided that for
+22 services provided on and after April first, two thousand nine, the total
+23 percentage allowance shall be seven and four hundredths percent, and
+24 further provided that for services provided on and after April first,
+25 two thousand twenty-six, the total percentage allowance shall be zero
+26 percent, except that an entity covered by paragraph a of subdivision one
+27 of section twenty-eight hundred seven-c of this article may choose
+28 whether to apply surcharges and assessments pursuant to this section to
+29 its own health benefits and services provided for its own employees and
+30 their covered lives or to health maintenance organizations for services
+31 provided to subscribers eligible for medical assistance pursuant to
+32 title eleven of article five of the social services law, or approved
+33 organizations for services provided to subscribers eligible for the
+34 family health plus program pursuant to title eleven-D of article five of
+35 the social services law.
+36 (e) The total percentage allowance for payments for services provided
+37 by designated providers of services for which there is no third-party
+38 coverage in whole or in part shall be eight and eighteen-hundredths
+39 percent, provided, however, that for services provided on and after July
+40 first, two thousand three the total percentage allowance shall be eight
+41 and eighty-five hundredths percent, and further provided that for
+42 services provided on and after January first, two thousand six, the
+43 total percentage allowance shall be eight and ninety-five hundredths
+44 percent, and further provided that for services provided on and after
+45 April first, two thousand nine, the total percentage allowance shall be
+46 nine and sixty-three hundredths percent, and further provided that for
+47 services provided on and after April first, two thousand twenty-six, the
+48 total percentage allowance shall be zero percent. This paragraph shall
+49 not apply to patient deductibles and coinsurance amounts.
+50 § 4. Subparagraph (iv) of paragraph (c) of subdivision 2 of section
+51 2807-s of the public health law, as added by section 21 of part A of
+52 chapter 58 of the laws of 2007, is amended to read as follows:
+53 (iv) The regional percentage allowance for [periods on and after] July
+54 first, two thousand seven through March thirtieth, two thousand twenty-
+55 six, for all general hospitals in the region applicable to specified
+56 third-party payors, and applicable to related patient coinsurance and
+
+A. 8642--A 4
+1 deductible amounts, shall be the same regional percentage allowance
+2 calculated pursuant to subparagraph (iii) of this paragraph for the
+3 period January first, two thousand six through June thirtieth, two thou-
+4 sand seven.
+5 § 5. The tax law is amended by adding a new section 1510-a to read as
+6 follows:
+7 § 1510-a. Public goods and Medicaid subsidy surcharge on insurance
+8 corporations. (a) Beginning on April first, two thousand twenty-six and
+9 expiring on March thirty-first, two thousand twenty-nine, in addition to
+10 any taxes imposed on insurance corporations pursuant to section fifteen
+11 hundred ten of this article, and except as hereinafter provided, for
+12 taxable years beginning January first, two thousand twenty-six, every
+13 domestic insurance corporation, every foreign insurance corporation, and
+14 every alien insurance corporation, other than such corporations trans-
+15 acting the business of life insurance, which are (1) authorized to tran-
+16 sact business in this state under a certificate of authority from the
+17 superintendent of financial services or (2) a risk retention group as
+18 defined in subsection (n) of section five thousand nine hundred two of
+19 the insurance law, shall, to support the provision of public goods
+20 provided for in sections twenty-eight hundred seven-l, twenty-eight
+21 hundred seven-m, and twenty-eight hundred seven-v of the public health
+22 law, to support the state share of Medicaid and for the privilege of
+23 exercising corporate franchises or for carrying on business in a corpo-
+24 rate or organized capacity within this state, and in addition to any
+25 other taxes imposed for such privilege, pay a surcharge on the tax
+26 liability owed for all gross direct premiums, less return premiums ther-
+27 eon, written on risks located or resident in this state.
+28 (b) (1) The rate of the surcharge imposed by this section shall be
+29 thirty-six and two-tenths percent on the tax liability owed for all
+30 gross direct premiums, less return premiums thereon, written on risks
+31 located or resident in this state, provided, however, that on and after
+32 January first, two thousand twenty-seven, the surcharge percentage shall
+33 be forty-three percent, and further provided that on and after January
+34 first, two thousand twenty-eight, the surcharge percentage shall be
+35 fifty-five percent.
+36 (2) Notwithstanding the provisions of paragraph one of this subdivi-
+37 sion, for any employer subject to the surcharge pursuant to this section
+38 that contributes for employee health benefits, and where the employee
+39 cost of the health benefit plan does not exceed an affordable employee
+40 contribution for health benefits as defined in the affordable care act
+41 and implementing regulations and as modified annually by the federal
+42 internal revenue service, the rate of surcharge shall instead be eigh-
+43 teen and four-tenths percent, provided, however, that on and after Janu-
+44 ary first, two thousand twenty-seven, the surcharge percentage shall be
+45 seventeen percent, and further provided that on and after January first,
+46 two thousand twenty-eight, the surcharge percentage shall be fourteen
+47 and five-tenths percent.
+48 § 6. The tax law is amended by adding a new section 220 to read as
+49 follows:
+50 § 220. Public goods and Medicaid subsidy surcharge on business corpo-
+51 rations. 1. Except for (a) employers of fewer than fifty employees or
+52 full time equivalents in a calendar year where such employers are not
+53 "contractors" engaged in "construction" as such terms are defined in
+54 article twenty-five-B of the labor law, and (b) "contractors" engaged in
+55 "construction", as such terms are defined in article twenty-five-B of
+56 the labor law, whose gross revenue is less than five million dollars
+
+A. 8642--A 5
+1 annually, beginning on April first, two thousand twenty-six and expiring
+2 on March thirty-first, two thousand twenty-nine, and as hereinafter
+3 provided, for taxable years beginning January first, two thousand twen-
+4 ty-six, and except for corporations taxed pursuant to section fifteen
+5 hundred ten-a of this chapter, every domestic corporation, every foreign
+6 corporation and every alien corporation authorized to transact business
+7 in this state under a certificate of authority from the secretary of
+8 state shall, to support the provision of public goods provided for in
+9 sections twenty-eight hundred seven-l, twenty-eight hundred seven-m, and
+10 twenty-eight hundred seven-v of the public health law, to support the
+11 state share of Medicaid and for the privilege of exercising corporate
+12 franchises or for carrying on business in a corporate or organized
+13 capacity within this state, and in addition to any other taxes imposed
+14 for such privilege, pay a franchise tax surcharge, upon the basis of its
+15 business income base, or upon such other basis as may be applicable as
+16 provided by this article.
+17 2. (a) In addition to any tax imposed, there shall be a surcharge of
+18 thirty-six and two-tenths percent, upon the tax liability provided by
+19 this article, provided, however, that on and after January first, two
+20 thousand twenty-seven, the surcharge percentage shall be forty-three
+21 percent, and further provided that on and after January first, two thou-
+22 sand twenty-eight, the surcharge percentage shall be fifty-five percent.
+23 (b) Notwithstanding the provisions of paragraph (a) of this subdivi-
+24 sion, for any employer subject to the surcharge pursuant to this section
+25 that contributes for employee health benefits, and where the employee
+26 cost of the health benefit plan does not exceed an affordable employee
+27 contribution for health benefits as defined in the affordable care act
+28 and implementing regulations and as modified annually by the federal
+29 internal revenue service, the rate of surcharge shall instead be eigh-
+30 teen and four-tenths percent, provided, however, that on and after Janu-
+31 ary first, two thousand twenty-seven, the surcharge percentage shall be
+32 seventeen percent, and further provided that on and after January first,
+33 two thousand twenty-eight, the surcharge percentage shall be fourteen
+34 and five-tenths percent.
+35 § 7. The tax law is amended by adding a new section 866-a to read as
+36 follows:
+37 § 866-a. Public goods and Medicaid subsidy surcharge on pass-through
+38 entities. (a) Any entity electing to be taxed pursuant to this article
+39 shall, to support the provision of public goods provided for in sections
+40 twenty-eight hundred seven-l, twenty-eight hundred seven-m, and twenty-
+41 eight hundred seven-v of the public health law, to support the state
+42 share of Medicaid and for the privilege of exercising corporate fran-
+43 chises or for carrying on business in a corporate or organized capacity
+44 within this state, and in addition to any other taxes imposed for such
+45 privilege, pay a surcharge upon the basis of its business income base,
+46 excluding income credited pursuant to section eight hundred sixty-three
+47 of this article, or upon such other basis as may be applicable as
+48 provided by this article.
+49 (b) (1) In addition to any tax imposed, there shall be a surcharge of
+50 thirty-six and two-tenths percent upon the tax liability provided by
+51 this article, provided, however, that on and after January first, two
+52 thousand twenty-seven, the surcharge percentage shall be forty-three
+53 percent, and further provided that on and after January first, two thou-
+54 sand twenty-eight, the surcharge percentage shall be fifty-five percent.
+55 (2) Notwithstanding the provisions of paragraph one of this
+56 subsection, for any employer subject to the surcharge pursuant to this
+
+A. 8642--A 6
+1 section that contributes for employee health benefits, and where the
+2 employee cost of the health benefit plan does not exceed an affordable
+3 employee contribution for health benefits as defined in the affordable
+4 care act and implementing regulations and as modified annually by the
+5 federal internal revenue service, the rate of surcharge shall instead be
+6 eighteen and four-tenths percent, provided, however, that on and after
+7 January first, two thousand twenty-seven, the surcharge percentage shall
+8 be seventeen percent, and further provided that on and after January
+9 first, two thousand twenty-eight, the surcharge percentage shall be
+10 fourteen and five-tenths percent.
+11 § 8. Paragraph 3 of subsection (c) of section 658 of the tax law, as
+12 amended by section 1 of part H-1 of chapter 57 of the laws of 2009,
+13 subparagraph (A) as amended by section 13 of part Q of chapter 60 of the
+14 laws of 2016, and subparagraph (E) as added by section 13 of part S of
+15 chapter 59 of the laws of 2015, is amended to read as follows:
+16 (3) Filing fees. (A) Every subchapter K limited liability company,
+17 every limited liability company that is a disregarded entity for federal
+18 income tax purposes, and every partnership which has any income derived
+19 from New York sources, determined in accordance with the applicable
+20 rules of section six hundred thirty-one of this article as in the case
+21 of a nonresident individual, shall on or before the fifteenth day of the
+22 third month following the close of each taxable year make a payment of a
+23 filing fee and filing fee surcharge. The amount of the filing fee [is]
+24 and filing fee surcharge are the [amount] amounts set forth in subpara-
+25 graph (B) of this paragraph. The minimum filing fee is twenty-five
+26 dollars for taxable years beginning in two thousand eight and thereaft-
+27 er. Limited liability companies that are disregarded entities for feder-
+28 al income tax purposes must pay a filing fee of twenty-five dollars for
+29 taxable years beginning on or after January first, two thousand eight.
+30 (B) (i) The filing fee and filing fee surcharge will be based on the
+31 New York source gross income of the limited liability company or part-
+32 nership for the taxable year immediately preceding the taxable year for
+33 which the fee is due. If the limited liability company or partnership
+34 does not have any New York source gross income for the taxable year
+35 immediately preceding the taxable year for which the fee is due, the
+36 limited liability company or partnership shall pay the minimum filing
+37 fee. Partnerships, other than limited liability partnerships under arti-
+38 cle eight-B of the partnership law and foreign limited liability part-
+39 nerships, with less than one million dollars in New York source gross
+40 income are exempt from the filing fee. New York source gross income is
+41 the sum of the partners' or members' shares of federal gross income from
+42 the partnership or limited liability company derived from or connected
+43 with New York sources, determined in accordance with the provisions of
+44 section six hundred thirty-one of this article as if those provisions
+45 and any related provisions expressly referred to a computation of feder-
+46 al gross income from New York sources. For this purpose, federal gross
+47 income is computed without any allowance or deduction for cost of goods
+48 sold.
+49 (ii) The amount of the filing fee for taxable years beginning on or
+50 after January first, two thousand eight will be determined in accordance
+51 with the following table:
+52 If the New York source gross income is: The fee is:
+53 not more than $100,000 $25
+54 more than $100,000 but not over $250,000 $50
+55 more than $250,000 but not over $500,000 $175
+
+A. 8642--A 7
+1 more than $500,000 but not over $1,000,000 $500
+2 more than $1,000,000 but not over $5,000,000 $1,500
+3 more than $5,000,000 but not over $25,000,000 $3,000
+4 Over $25,000,000 $4,500
+5 (iii) The amount of the filing fee surcharge for taxable years begin-
+6 ning on or after January first, two thousand twenty-six will be deter-
+7 mined in accordance with the following table:
+8 If the New York source gross income is: The surcharge is:
+9 not more than $1,000,000 $0
+10 more than $1,000,000 but not over $5,000,000 $1,000
+11 more than $5,000,000 but not over $10,000,000 $4,000
+12 more than $10,000,000 but not over $25,000,000 $10,000
+13 more than $25,000,000 but not over $100,000,000 $35,000
+14 more than $100,000,000 but not over $500,000,000 $175,000
+15 more than $500,000,000 but not over $1,000,000,000 $450,000
+16 Over $1,000,000,000 $1,200,000
+17 (C) No credits provided by this article may be taken against the fee
+18 or surcharge imposed by this paragraph.
+19 (D) Where the filing fee or surcharge is not timely paid, it shall be
+20 paid upon notice and demand and shall be assessed, collected and paid in
+21 the same manner as taxes, and for those purposes any reference in this
+22 article to tax imposed by this article shall be deemed also to refer to
+23 this filing fee and surcharge.
+24 (E) Notwithstanding the provisions of subsection (e) of section six
+25 hundred ninety-seven of this article, the commissioner shall provide the
+26 statements and other required information included on the filing fee and
+27 surcharge payment form under section three hundred one of the limited
+28 liability company law, subdivision (g) of section 121-1500 of the part-
+29 nership law, and subdivision (f) of section 121-1502 of the partnership
+30 law, to the secretary of state for filing. Such provision may also
+31 include a copy or image of that portion of the report solely pertinent
+32 to such information to the extent feasible. The commissioner may also
+33 provide information on noncompliance.
+34 (F) The filing fee surcharge set forth in clause (iii) of subparagraph
+35 (B) of this paragraph shall be collected for the purpose of supporting
+36 the provision of public goods provided for in sections twenty-eight
+37 hundred seven-l, twenty-eight hundred seven-m and twenty-eight hundred
+38 seven-v of the public health law.
+39 § 9. The tax law is amended by adding a new section 221 to read as
+40 follows:
+41 § 221. Public goods and Medicaid subsidy surcharge on misclassified
+42 workers. 1. A tax shall be imposed on any business corporation or other
+43 entity described pursuant to subdivision two of this section. Such tax
+44 shall be applied for each worker performing services, who is classified
+45 as an independent contractor, and who is not provided health benefits by
+46 the corporation or entity's health benefit plan which does not exceed an
+47 affordable employee contribution for health benefits as defined in the
+48 affordable care act and implementing regulations and as modified annual-
+49 ly by the federal internal revenue service.
+50 2. Business entities taxed pursuant to this section include:
+51 (a)(i) Any business corporation or other entity that (1) uses an
+52 online platform or digital network to connect consumers to workers to
+53 provide personal services, including but not limited to passenger trans-
+
+A. 8642--A 8
+1 portation, shopping and delivery services, domestic services, or similar
+2 staffing and labor services, and (2) establishes the gross amounts
+3 earned by the worker, establishes the amounts charged to the consumer,
+4 collects payment from the consumer, pays the worker, or any combination
+5 of the foregoing.
+6 (ii) Where a business corporation or other entity uses an online plat-
+7 form or digital network for the purposes of providing prearranged
+8 passenger transportation, this paragraph shall not apply unless such
+9 corporation or entity is a transportation network company, pursuant to
+10 article forty-four-B of the vehicle and traffic law, or a high-volume
+11 for-hire service, as defined in section 19-502 of the administrative
+12 code of the city of New York.
+13 (b) Any business corporation or other entity which is a "contractor"
+14 engaged in "construction" as such terms are defined in article twenty-
+15 five-B of the labor law, and where the worker is not deemed a separate
+16 business entity pursuant to section eight hundred sixty-one-c of the
+17 labor law.
+18 (c) Any business corporation or other entity which contracts with
+19 delivery drivers who are not employees of the business and are not
+20 covered by paragraph (a) or (b) of this subdivision.
+21 3. The amount of the tax per worker for taxable years beginning on or
+22 after January first, two thousand twenty-six shall be determined in
+23 accordance with the following table:
+24 If the number of workers is: The tax per worker is:
+25 not more than ten $0
+26 between eleven and twenty-five $500
+27 between twenty-six and fifty $750
+28 between fifty-one and one hundred $1,500
+29 more than one hundred $2,000
+30 § 10. Subdivision (a) of section 92-dd of the state finance law, as
+31 amended by section 2 of part UU of chapter 59 of the laws of 2019, is
+32 amended to read as follows:
+33 (a) On and after April first, two thousand five, such fund shall
+34 consist of the revenues heretofore and hereafter collected or required
+35 to be deposited pursuant to paragraph (a) of subdivision eighteen of
+36 section twenty-eight hundred seven-c, and sections twenty-eight hundred
+37 seven-j, twenty-eight hundred seven-s and twenty-eight hundred seven-t
+38 of the public health law, subdivision (b) of section four hundred eight-
+39 y-two, clause (iii) of subparagraph (B) of paragraph three of subsection
+40 (c) of section six hundred fifty-eight and [section] sections fifteen
+41 hundred ten-a, two hundred twenty, eight hundred sixty-six-a and eleven
+42 hundred eighty-six of the tax law and required to be credited to the
+43 tobacco control and insurance initiatives pool, subparagraph (O) of
+44 paragraph four of subsection (j) of section four thousand three hundred
+45 one of the insurance law, section twenty-seven of part A of chapter one
+46 of the laws of two thousand two and all other moneys credited or trans-
+47 ferred thereto from any other fund or source pursuant to law.
+48 § 11. 1. Beginning April 1, 2027, the department of health, in cooper-
+49 ation with the NY State of Health, the Official Health Plan Marketplace
+50 established pursuant to title 7 of article 2 of the public health law,
+51 shall by April 1 of each subsequent year report to the legislature the
+52 following:
+53 (a) The number of medical assistance recipients who: (i) upon enroll-
+54 ment or recertification had reported being employed, and beginning with
+
+A. 8642--A 9
+1 the 2027 report, the month and year they reported being hired; or (ii)
+2 upon enrollment or recertification had reported being the dependent of
+3 someone who was employed, and beginning with the 2027 report, the month
+4 and year they reported the employed person was hired. For recipients
+5 identified under subparagraphs (i) and (ii) of this paragraph, the
+6 department shall report the basis for their medical assistance eligibil-
+7 ity, including but not limited to: family medical coverage, transitional
+8 medical assistance, children's medical coverage, aged coverage, or
+9 coverage for individuals with disabilities; member months; and the total
+10 cost to the state for these recipients, expressed as general fund-state
+11 and general fund-federal dollars. Such information shall be reported by
+12 employer size for employers having more than fifty employees or for
+13 contractors engaged in construction, as defined in article 25-B of the
+14 labor law, with gross revenues of more than five million dollars annual-
+15 ly as recipients or with dependents as recipients. This information
+16 shall be provided for the preceding January and June of that year.
+17 (b) The following aggregated information: (i) the number of employees
+18 who are recipients or with dependents as recipients by private and
+19 governmental employers; (ii) the number of employees who are recipients
+20 or with dependents as recipients aggregated by employer size for employ-
+21 ers with fifty or fewer employees, fifty-one to one hundred employees,
+22 one hundred one to one thousand employees, one thousand one to five
+23 thousand employees and more than five thousand employees; and (iii) the
+24 number of employees who are recipients or with dependents as recipients
+25 by industry type.
+26 (c) For each aggregated classification, the report shall include the
+27 number of hours worked, the number of covered recipients, and the total
+28 cost to the state for such recipients. Such information shall be
+29 provided for each quarter of the preceding year.
+30 2. Beginning April 1, 2027, the department of health, in coordination
+31 with the NY State of Health, the Official Health Plan Marketplace estab-
+32 lished pursuant to title 7 of article 2 of the public health law, shall
+33 by April 1 of each subsequent year report to the legislature:
+34 (a) The number of essential and/or basic health plan enrollees who:
+35 (i) upon enrollment or recertification had reported being employed, and
+36 beginning with the 2027 report, the month and year they reported being
+37 hired; or (ii) upon enrollment or recertification had reported being the
+38 dependent of someone who was employed, and beginning with the 2027
+39 report, the month and year they reported the employed person was hired;
+40 and (iii) the total cost to the state for these enrollees. The informa-
+41 tion shall be reported by employer size for employers having more than
+42 fifty employees or for contractors engaged in construction, as defined
+43 in article 25-B of the labor law, with gross revenues of more than five
+44 million dollars annually as enrollees or with dependents as enrollees.
+45 Such information shall be provided for the preceding January and June of
+46 that year.
+47 (b) The following aggregated information: (i) the number of employees
+48 who are enrollees or with dependents as enrollees by private and govern-
+49 mental employers; (ii) the number of employees who are enrollees or with
+50 dependents as enrollees aggregated by employer size for employers with
+51 fifty or fewer employees, fifty-one to one hundred employees, one
+52 hundred one to one thousand employees, one thousand one to five thousand
+53 employees and more than five thousand employees; and (iii) the number of
+54 employees who are enrollees or with dependents as enrollees by industry
+55 type.
+
+A. 8642--A 10
+1 (c) For each aggregated classification, the report shall include the
+2 number of hours worked, the number of covered lives, and total cost to
+3 the state for such enrollees. Such information shall be provided for
+4 each quarter of the preceding year.
+5 § 12. This act shall take effect April 1, 2026; provided, however,
+6 that if such act shall become a law after such date it shall take effect
+7 immediately and shall be deemed to have been in full force and effect on
+8 and after April 1, 2026; provided, however, that the amendments to
+9 section 2807-j of the public health law made by section three of this
+10 act shall not affect the expiration of such section and shall expire and
+11 be deemed repealed therewith; and provided further, however, that the
+12 amendments to section 2807-s of the public health law made by section
+13 four of this act shall not affect the expiration of such section and
+14 shall expire and be deemed repealed therewith.

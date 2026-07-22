@@ -1,0 +1,388 @@
+Title: 
+Official Title: 
+Source: versions - A11322A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+11322--A
+IN ASSEMBLY
+May 11, 2026
+___________
+Introduced by COMMITTEE ON RULES -- (at request of M. of A. Levenberg)
+-- read once and referred to the Committee on Transportation --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the vehicle and traffic law and the public officers law,
+in relation to establishing a school speed zone camera demonstration
+program in the village of Croton-on-Hudson; and providing for the
+repeal of such provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The vehicle and traffic law is amended by adding a new
+2 section 1180-i to read as follows:
+3 § 1180-i. Owner liability for failure of operator to comply with
+4 certain posted maximum speed limits. (a) 1. Notwithstanding any other
+5 provision of law, the village of Croton-on-Hudson is hereby authorized
+6 to establish a demonstration program imposing monetary liability on the
+7 owner of a vehicle for failure of an operator thereof to comply with
+8 posted maximum speed limits in a school speed zone within such village
+9 (i) when a school speed limit is in effect as provided in paragraphs one
+10 and two of subdivision (c) of section eleven hundred eighty of this
+11 article or (ii) when other speed limits are in effect as provided in
+12 subdivision (b), (d), (f) or (g) of section eleven hundred eighty of
+13 this article during the following times: (A) on school days during
+14 school hours and one hour before and one hour after the school day, and
+15 (B) a period during student activities at the school and up to thirty
+16 minutes immediately before and up to thirty minutes immediately after
+17 such student activities. Such demonstration program shall empower the
+18 village of Croton-on-Hudson to install photo speed violation monitoring
+19 systems within no more than three school speed zones within such village
+20 at any one time and to operate such systems within such zones (iii) when
+21 a school speed limit is in effect as provided in paragraphs one and two
+22 of subdivision (c) of section eleven hundred eighty of this article or
+23 (iv) when other speed limits are in effect as provided in subdivision
+24 (b), (d), (f) or (g) of section eleven hundred eighty of this article
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15650-06-6
+
+A. 11322--A 2
+1 during the following times: (A) on school days during school hours and
+2 one hour before and one hour after the school day, and (B) a period
+3 during student activities at the school and up to thirty minutes imme-
+4 diately before and up to thirty minutes immediately after such student
+5 activities. In selecting a school speed zone in which to install and
+6 operate a photo speed violation monitoring system, the village shall
+7 consider criteria including, but not limited to, the speed data, crash
+8 history, and the roadway geometry applicable to such school speed zone.
+9 2. No photo speed violation monitoring system shall be used in a
+10 school speed zone unless (i) on the day it is to be used it has success-
+11 fully passed a self-test of its functions; and (ii) it has undergone an
+12 annual calibration check performed pursuant to paragraph four of this
+13 subdivision. The village shall install signs giving notice that a photo
+14 speed violation monitoring system is in use to be mounted on advance
+15 warning signs notifying motor vehicle operators of such upcoming school
+16 speed zone and/or on speed limit signs applicable within such school
+17 speed zone, in conformance with standards established in the MUTCD.
+18 3. Operators of photo speed violation monitoring systems shall have
+19 completed training in the procedures for setting up, testing, and oper-
+20 ating such systems. Each such operator shall complete and sign a daily
+21 set-up log for each such system that such operator operates that (i)
+22 states the date and time when, and the location where, the system was
+23 set up that day, and (ii) states that such operator successfully
+24 performed, and the system passed, the self-tests of such system before
+25 producing a recorded image that day. The village shall retain each such
+26 daily log until the later of the date on which the photo speed violation
+27 monitoring system to which it applies has been permanently removed from
+28 use or the final resolution of all cases involving notices of liability
+29 issued based on photographs, microphotographs, videotape or other
+30 recorded images produced by such system.
+31 4. Each photo speed violation monitoring system shall undergo an annu-
+32 al calibration check performed by an independent calibration laboratory
+33 which shall issue a signed certificate of calibration. The village shall
+34 keep each such annual certificate of calibration on file until the final
+35 resolution of all cases involving a notice of liability issued during
+36 such year which were based on photographs, microphotographs, videotape
+37 or other recorded images produced by such photo speed violation monitor-
+38 ing system.
+39 5. (i) Such demonstration program shall utilize necessary technologies
+40 to ensure, to the extent practicable, that photographs, microphoto-
+41 graphs, videotape or other recorded images produced by such photo speed
+42 violation monitoring systems shall not include images that identify the
+43 driver, the passengers, or the contents of the vehicle. Provided,
+44 however, that no notice of liability issued pursuant to this section
+45 shall be dismissed solely because such a photograph, microphotograph,
+46 videotape or other recorded image allows for the identification of the
+47 driver, the passengers, or the contents of vehicles where the village
+48 shows that it made reasonable efforts to comply with the provisions of
+49 this paragraph in such case.
+50 (ii) Photographs, microphotographs, videotape or any other recorded
+51 image from a photo speed violation monitoring system shall be for the
+52 exclusive use of the village for the purpose of the adjudication of
+53 liability imposed pursuant to this section and of the owner receiving a
+54 notice of liability pursuant to this section, and shall be destroyed by
+55 the village upon the final resolution of the notice of liability to
+56 which such photographs, microphotographs, videotape or other recorded
+
+A. 11322--A 3
+1 images relate, or one year following the date of issuance of such notice
+2 of liability, whichever is later. Notwithstanding the provisions of any
+3 other law, rule or regulation to the contrary, photographs, microphoto-
+4 graphs, videotape or any other recorded image from a photo speed
+5 violation monitoring system shall not be open to the public, nor subject
+6 to civil or criminal process or discovery, nor used by any court or
+7 administrative or adjudicatory body in any action or proceeding therein
+8 except that which is necessary for the adjudication of a notice of
+9 liability issued pursuant to this section, and no public entity or
+10 employee, officer or agent thereof shall disclose such information,
+11 except that such photographs, microphotographs, videotape or any other
+12 recorded images from such systems:
+13 (A) shall be available for inspection and copying and use by the motor
+14 vehicle owner and operator for so long as such photographs, microphoto-
+15 graphs, videotape or other recorded images are required to be maintained
+16 or are maintained by such public entity, employee, officer or agent; and
+17 (B) (1) shall be furnished when described in a search warrant issued
+18 by a court authorized to issue such a search warrant pursuant to article
+19 six hundred ninety of the criminal procedure law or a federal court
+20 authorized to issue such a search warrant under federal law, where such
+21 search warrant states that there is reasonable cause to believe such
+22 information constitutes evidence of, or tends to demonstrate that, a
+23 misdemeanor or felony offense was committed in this state or another
+24 state, or that a particular person participated in the commission of a
+25 misdemeanor or felony offense in this state or another state, provided,
+26 however, that if such offense was against the laws of another state, the
+27 court shall only issue a warrant if the conduct comprising such offense
+28 would, if occurring in this state, constitute a misdemeanor or felony
+29 against the laws of this state; and
+30 (2) shall be furnished in response to a subpoena duces tecum signed by
+31 a judge of competent jurisdiction and issued pursuant to article six
+32 hundred ten of the criminal procedure law or a judge or magistrate of a
+33 federal court authorized to issue such a subpoena duces tecum under
+34 federal law, where the judge finds and the subpoena states that there is
+35 reasonable cause to believe such information is relevant and material to
+36 the prosecution, or the defense, or the investigation by an authorized
+37 law enforcement official, of the alleged commission of a misdemeanor or
+38 felony in this state or another state, provided, however, that if such
+39 offense was against the laws of another state, such judge or magistrate
+40 shall only issue such subpoena if the conduct comprising such offense
+41 would, if occurring in this state, constitute a misdemeanor or felony in
+42 this state; and
+43 (3) may, if lawfully obtained pursuant to this clause and clause (A)
+44 of this subparagraph and otherwise admissible, be used in such criminal
+45 action or proceeding.
+46 (b) If the village of Croton-on-Hudson establishes a demonstration
+47 program pursuant to subdivision (a) of this section, the owner of a
+48 vehicle shall be liable for a penalty imposed pursuant to this section
+49 if such vehicle was used or operated with the permission of the owner,
+50 express or implied, within a school speed zone in violation of subdivi-
+51 sion (c) or during the times authorized pursuant to subdivision (a) of
+52 this section in violation of subdivision (b), (d), (f) or (g) of section
+53 eleven hundred eighty of this article, such vehicle was traveling at a
+54 speed of more than ten miles per hour above the posted speed limit in
+55 effect within such school speed zone, and such violation is evidenced by
+56 information obtained from a photo speed violation monitoring system;
+
+A. 11322--A 4
+1 provided however that no owner of a vehicle shall be liable for a penal-
+2 ty imposed pursuant to this section where the operator of such vehicle
+3 has been convicted of the underlying violation of subdivision (b), (c),
+4 (d), (f) or (g) of section eleven hundred eighty of this article.
+5 (c) For purposes of this section, the following terms shall have the
+6 following meanings:
+7 1. "manual on uniform traffic control devices" or "MUTCD" shall mean
+8 the manual and specifications for a uniform system of traffic control
+9 devices maintained by the commissioner of transportation pursuant to
+10 section sixteen hundred eighty of this chapter;
+11 2. "owner" shall have the meaning provided in article two-B of this
+12 chapter;
+13 3. "photo speed violation monitoring system" shall mean a vehicle
+14 sensor installed to work in conjunction with a speed measuring device
+15 which automatically produces two or more photographs, two or more micro-
+16 photographs, a videotape or other recorded images of each vehicle at the
+17 time it is used or operated in a school speed zone in violation of
+18 subdivision (b), (c), (d), (f) or (g) of section eleven hundred eighty
+19 of this article in accordance with the provisions of this section; and
+20 4. "school speed zone" shall mean a distance not to exceed one thou-
+21 sand three hundred twenty feet on a highway passing a school building,
+22 entrance or exit of a school abutting on the highway.
+23 (d) A certificate, sworn to or affirmed by a technician employed by
+24 the village of Croton-on-Hudson, or a facsimile thereof, based upon
+25 inspection of photographs, microphotographs, videotape or other recorded
+26 images produced by a photo speed violation monitoring system, shall be
+27 prima facie evidence of the facts contained therein. Any photographs,
+28 microphotographs, videotape or other recorded images evidencing such a
+29 violation shall include at least two date and time stamped images of the
+30 rear of the motor vehicle that include the same stationary object near
+31 the motor vehicle and shall be available for inspection reasonably in
+32 advance of and at any proceeding to adjudicate the liability for such
+33 violation pursuant to this section.
+34 (e) An owner liable for a violation of subdivision (b), (c), (d), (f)
+35 or (g) of section eleven hundred eighty of this article pursuant to a
+36 demonstration program established pursuant to this section shall be
+37 liable for monetary penalties in accordance with a schedule of fines and
+38 penalties to be promulgated by the traffic violations bureau of the
+39 village of Croton-on-Hudson. The liability of the owner pursuant to this
+40 section shall not exceed fifty dollars for each violation; provided,
+41 however, that such traffic violations bureau may provide for an addi-
+42 tional penalty not in excess of twenty-five dollars for each violation
+43 for the failure to respond to a notice of liability within the
+44 prescribed time period.
+45 (f) An imposition of liability under the demonstration program estab-
+46 lished pursuant to this section shall not be deemed a conviction as an
+47 operator and shall not be made part of the operating record of the
+48 person upon whom such liability is imposed nor shall it be used for
+49 insurance purposes in the provision of motor vehicle insurance coverage.
+50 (g) 1. A notice of liability shall be sent by first class mail to each
+51 person alleged to be liable as an owner for a violation of subdivision
+52 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this arti-
+53 cle pursuant to this section, within fourteen business days if such
+54 owner is a resident of this state and within forty-five business days if
+55 such owner is a non-resident. Personal delivery on the owner shall not
+56 be required. A manual or automatic record of mailing prepared in the
+
+A. 11322--A 5
+1 ordinary course of business shall be prima facie evidence of the facts
+2 contained therein.
+3 2. A notice of liability shall contain the name and address of the
+4 person alleged to be liable as an owner for a violation of subdivision
+5 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this arti-
+6 cle pursuant to this section, the registration number of the vehicle
+7 involved in such violation, the location where such violation took
+8 place, the date and time of such violation, the identification number of
+9 the camera which recorded the violation or other document locator
+10 number, at least two date and time stamped images of the rear of the
+11 motor vehicle that include the same stationary object near the motor
+12 vehicle, and the certificate charging the liability.
+13 3. The notice of liability shall contain information advising the
+14 person charged of the manner and the time in which such person may
+15 contest the liability alleged in the notice. Such notice of liability
+16 shall also contain a prominent warning to advise the person charged that
+17 failure to contest in the manner and time provided shall be deemed an
+18 admission of liability and that a default judgment may be entered there-
+19 on.
+20 4. The notice of liability shall be prepared and mailed by the village
+21 of Croton-on-Hudson, or by any other entity authorized by the village to
+22 prepare and mail such notice of liability.
+23 (h) Adjudication of the liability imposed upon owners of this section
+24 shall be by the village of Croton-on-Hudson traffic violations bureau.
+25 (i) If an owner receives a notice of liability pursuant to this
+26 section for any time period during which the vehicle or the number plate
+27 or plates of such vehicle was reported to the police department as
+28 having been stolen, it shall be a valid defense to an allegation of
+29 liability for a violation of subdivision (b), (c), (d), (f) or (g) of
+30 section eleven hundred eighty of this article pursuant to this section
+31 that the vehicle or the number plate or plates of such vehicle had been
+32 reported to the police as stolen prior to the time the violation
+33 occurred and had not been recovered by such time. For purposes of
+34 asserting the defense provided by this subdivision, it shall be suffi-
+35 cient that a certified copy of the police report on the stolen vehicle
+36 or number plate or plates of such vehicle be sent by first class mail to
+37 the village of Croton-on-Hudson traffic violations bureau or by any
+38 other entity authorized by the village to prepare and mail such notice
+39 of liability.
+40 (j) 1. An owner who is a lessor of a vehicle to which a notice of
+41 liability was issued pursuant to subdivision (g) of this section shall
+42 not be liable for the violation of subdivision (b), (c), (d), (f) or (g)
+43 of section eleven hundred eighty of this article pursuant to this
+44 section, provided that:
+45 (i) prior to the violation, the lessor has filed with such traffic
+46 violations bureau in accordance with the provisions of section two
+47 hundred thirty-nine of this chapter; and
+48 (ii) within thirty-seven days after receiving notice from such bureau
+49 of the date and time of a liability, together with the other information
+50 contained in the original notice of liability, the lessor submits to
+51 such bureau the correct name and address of the lessee of the vehicle
+52 identified in the notice of liability at the time of such violation,
+53 together with such other additional information contained in the rental,
+54 lease or other contract document, as may be reasonably required by such
+55 bureau pursuant to regulations that may be promulgated for such purpose.
+
+A. 11322--A 6
+1 2. Failure to comply with subparagraph (ii) of paragraph one of this
+2 subdivision shall render the owner liable for the penalty prescribed in
+3 this section.
+4 3. Where the lessor complies with the provisions of paragraph one of
+5 this subdivision, the lessee of such vehicle on the date of such
+6 violation shall be deemed to be the owner of such vehicle for purposes
+7 of this section, shall be subject to liability for such violation pursu-
+8 ant to this section and shall be sent a notice of liability pursuant to
+9 subdivision (g) of this section.
+10 (k) 1. If the owner liable for a violation of subdivision (c) or (d)
+11 of section eleven hundred eighty of this article pursuant to this
+12 section was not the operator of the vehicle at the time of the
+13 violation, the owner may maintain an action for indemnification against
+14 the operator.
+15 2. Notwithstanding any other provision of this section, no owner of a
+16 vehicle shall be subject to a monetary fine imposed pursuant to this
+17 section if the operator of such vehicle was operating such vehicle with-
+18 out the consent of the owner at the time such operator operated such
+19 vehicle in violation of subdivision (b), (c), (d), (f) or (g) of section
+20 eleven hundred eighty of this article. For purposes of this subdivision
+21 there shall be a presumption that the operator of such vehicle was oper-
+22 ating such vehicle with the consent of the owner at the time such opera-
+23 tor operated such vehicle in violation of subdivision (b), (c), (d), (f)
+24 or (g) of section eleven hundred eighty of this article.
+25 (l) Nothing in this section shall be construed to limit the liability
+26 of an operator of a vehicle for any violation of subdivision (c) or (d)
+27 of section eleven hundred eighty of this article.
+28 (m) If the village adopts a demonstration program pursuant to subdivi-
+29 sion (a) of this section it shall conduct a study and submit an annual
+30 report on the results of the use of photo devices to the governor, the
+31 temporary president of the senate and the speaker of the assembly on or
+32 before the first day of June next succeeding the effective date of this
+33 section and on the same date in each succeeding year in which the demon-
+34 stration program is operable. Such report shall include:
+35 1. the locations where and dates when photo speed violation monitoring
+36 systems were used;
+37 2. the aggregate number, type and severity of crashes, fatalities,
+38 injuries and property damage reported within all school speed zones
+39 within the village, to the extent the information is maintained by the
+40 department of motor vehicles of this state;
+41 3. the aggregate number, type and severity of crashes, fatalities,
+42 injuries and property damage reported within school speed zones where
+43 photo speed violation monitoring systems were used, to the extent the
+44 information is maintained by the department of motor vehicles of this
+45 state;
+46 4. the number of violations recorded within all school speed zones
+47 within the village, in the aggregate on a daily, weekly and monthly
+48 basis;
+49 5. the number of violations recorded within each school speed zone
+50 where a photo speed violation monitoring system is used, in the aggre-
+51 gate on a daily, weekly and monthly basis;
+52 6. the number of violations recorded within all school speed zones
+53 within the village that were:
+54 (i) more than ten but not more than twenty miles per hour over the
+55 posted speed limit;
+
+A. 11322--A 7
+1 (ii) more than twenty but not more than thirty miles per hour over the
+2 posted speed limit;
+3 (iii) more than thirty but not more than forty miles per hour over the
+4 posted speed limit; and
+5 (iv) more than forty miles per hour over the posted speed limit;
+6 7. the number of violations recorded within each school speed zone
+7 where a photo speed violation monitoring system is used that were:
+8 (i) more than ten but not more than twenty miles per hour over the
+9 posted speed limit;
+10 (ii) more than twenty but not more than thirty miles per hour over the
+11 posted speed limit;
+12 (iii) more than thirty but not more than forty miles per hour over the
+13 posted speed limit; and
+14 (iv) more than forty miles per hour over the posted speed limit;
+15 8. the total number of notices of liability issued for violations
+16 recorded by such systems;
+17 9. the number of fines and total amount of fines paid after the first
+18 notice of liability issued for violations recorded by such systems;
+19 10. the number of violations adjudicated and the results of such adju-
+20 dications including breakdowns of dispositions made for violations
+21 recorded by such systems;
+22 11. the total amount of revenue realized by the village in connection
+23 with the program;
+24 12. the expenses incurred by the village in connection with the
+25 program; and
+26 13. the quality of the adjudication process and its results.
+27 (n) It shall be a defense to any prosecution for a violation of subdi-
+28 vision (b), (c), (d), (f) or (g) of section eleven hundred eighty of
+29 this article pursuant to this section that such photo speed violation
+30 monitoring system was malfunctioning at the time of the alleged
+31 violation.
+32 § 2. Subdivision 2 of section 87 of the public officers law is amended
+33 by adding a new paragraph (x) to read as follows:
+34 (x) are photographs, microphotographs, videotape or other recorded
+35 images prepared under the authority of section eleven hundred eighty-i
+36 of the vehicle and traffic law.
+37 § 3. The purchase or lease of equipment for a demonstration program
+38 established pursuant to section 1180-i of the vehicle and traffic law,
+39 as added by section one of this act, shall be subject to the provisions
+40 of section 103 of the general municipal law.
+41 § 4. This act shall take effect on the thirtieth day after it shall
+42 have become a law and shall expire December 31, 2031, when upon such
+43 date the provisions of this act shall be deemed repealed.
+44 Effective immediately, the addition, amendment and/or repeal of any
+45 rule or regulation necessary for the implementation of this act on its
+46 effective date are authorized to be made and completed on or before such
+47 effective date.

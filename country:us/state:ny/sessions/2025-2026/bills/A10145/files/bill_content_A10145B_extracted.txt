@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - A10145B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10145--B
+IN ASSEMBLY
+February 12, 2026
+___________
+Introduced by M. of A. LAVINE -- read once and referred to the Committee
+on Judiciary -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee -- again reported from
+said committee with amendments, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the judiciary law, in relation to directing the chief
+administrator of the courts to develop and implement a random audit
+compliance program to conduct periodic audits of law firm financial
+accounts; and to amend the state finance law, in relation to the fund-
+ing of the random audit compliance program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The judiciary law is amended by adding a new section 212-a
+2 to read as follows:
+3 § 212-a. Random audit compliance program. 1. The chief administrator
+4 of the courts shall develop and implement a state-wide random audit
+5 compliance program ("the program") to conduct periodic audits of law
+6 firms that engage in the private practice and create and manage escrow
+7 trust accounts within the state of New York. The purpose of the program
+8 is to ensure that law firms appropriately handle client funds, maintain
+9 required records of clients' funds and attorneys' fees as described in
+10 the rules of court and the rules of professional conduct, and utilize
+11 generally accepted accounting practice in managing their trust accounts.
+12 These goals will be accomplished through:
+13 (a) educating New York attorneys on the proper method of compliance
+14 with the record keeping and ethical responsibilities under the New York
+15 rules of professional conduct, 22 NYCRR 1200, Rule 1.15;
+16 (b) providing a deterrent effect due to the presence of an active
+17 auditing program and an incentive to keep good records and to avoid
+18 temptation to misuse trust funds; and
+19 (c) the detection of misappropriation of client funds.
+20 2. The chief administrator shall consult with the director of the
+21 office of information technology services, or such director's designee,
+22 to develop and implement a software program that will randomly select
+23 law firms within the state for audit. Alternatively, the chief adminis-
+24 trator may enter into an agreement to license for use an existing
+25 program providing such capability. The program must ensure that the
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14666-06-6
+
+A. 10145--B 2
+1 selection process provides that every law firm, regardless of size, has
+2 an equal chance of being selected for an audit. The program must also
+3 ensure that a law firm may only be selected for random audit once in a
+4 five-year period. This provision shall not limit the ability to audit a
+5 law firm for cause during the same five-year period.
+6 3. An audit of a law firm that maintains more than one location within
+7 the state shall entail an audit of all offices located within the state.
+8 An audit of a law firm that maintains a location within the state and
+9 one or more locations outside of the state shall entail an audit of only
+10 the office or offices located within the state.
+11 4. (a) A law firm audited under this section and any rules or regu-
+12 lations promulgated pursuant to this section shall be required to
+13 provide records for all trust accounts, business accounts, and fiduciary
+14 accounts. Every audit will entail a two-year review of bank statements,
+15 cancelled checks, wire advices, deposit slips, three-way trust reconcil-
+16 iations, client trust ledgers, checkbook stubs or registers, and, if
+17 necessary, case files, as well as any other documents or records the
+18 chief administrator may specify or the auditor deems necessary to
+19 advance or complete the audit.
+20 (b) An audit may be performed by one or more auditors.
+21 (c) A senior attorney with knowledge of the law firm's financial prac-
+22 tices should be present for the audit. If such attorney is not avail-
+23 able, a responsible person knowledgeable about the books and records
+24 must be present for the audit.
+25 (d) The auditor will conduct an initial interview to obtain detailed
+26 information about the law firm's recordkeeping procedures. The auditor
+27 shall review the firm's trust and business account books and records to
+28 determine compliance with the rule requirements and will verify that all
+29 funds entrusted to the attorney have been safeguarded in the attorney's
+30 trust account.
+31 (e) The auditor will document any recordkeeping deficiencies on a
+32 deficiency checklist and will provide a copy of the completed checklist
+33 to the law firm. The auditor also will discuss with the attorney or with
+34 the responsible person in charge of the attorney's books the actions
+35 required to correct any deficiencies.
+36 5. (a) If no issues are discovered during the audit, a closing letter
+37 shall be sent to the law firm confirming compliance with rule require-
+38 ments.
+39 (b) If minor deficiencies are discovered during the audit, a deficien-
+40 cy letter describing shortcomings that require corrective action shall
+41 be sent to the law firm. The firm shall have forty-five days to respond
+42 with information about the corrective action that has been taken. If the
+43 response is acceptable, the matter will be closed. If the firm does not
+44 respond, the matter may be referred to for disciplinary action.
+45 (c) If major deficiencies, such as misappropriation of clients' funds,
+46 are discovered during the audit process, the matter shall immediately be
+47 referred to the attorney grievance committee of the appellate division
+48 in the department where the attorney or attorneys of the firm are admit-
+49 ted to practice. A copy of the referral shall be provided to the law
+50 firm.
+51 6. (a) The random audit compliance program shall be established within
+52 the offices of the lawyers' fund for client protection. The board of
+53 trustees of the fund shall coordinate with the chief administrator of
+54 the courts to implement the program and shall be responsible for hiring
+55 program auditors. Funding for the program shall by provided by the fund.
+
+A. 10145--B 3
+1 (b) Each auditor hired must have an advanced degree in accounting or
+2 certifications in fraud examination.
+3 7. The chief administrator shall promulgate rules and regulations to
+4 implement the provisions of this section. In the discretion of the chief
+5 administrator, such rules and regulations may allow for differences in
+6 audit procedures based on the size or location of a law firm, the volume
+7 of matters handled by the law firm and any review measures already
+8 implemented by a judicial department.
+9 8. For the purposes of this section, the terms "law firm" and "firm"
+10 include law practices comprised of multiple attorneys, sole practition-
+11 ers, and individuals or firms that provide legal services on a full-time
+12 or part-time basis, regardless of corporate entity form.
+13 § 2. Subdivision 2 of section 212 of the judiciary law is amended by
+14 adding a new paragraph (gg) to read as follows:
+15 (gg) Establish, implement and oversee the random audit compliance
+16 program described in section two hundred twelve-a of this article.
+17 § 3. Section 97-t of the state finance law, as amended by chapter 103
+18 of the laws of 1990 and subdivision 2 as separately amended by chapters
+19 103 and 190 of the laws of 1990, is amended to read as follows:
+20 § 97-t. Lawyers' fund for client protection of the state of New York.
+21 1. There is hereby established in the custody of the state comptroller a
+22 special fund to be known as the "lawyers' fund for [clients] client
+23 protection of the state of New York".
+24 2. The full amount of the allocable portion of the biennial registra-
+25 tion fee collected pursuant to the provisions of section four hundred
+26 sixty-eight-a of the judiciary law and such other monies as may be cred-
+27 ited or otherwise transferred from any other fund or source, pursuant to
+28 law, including voluntary contributions, together with any interest
+29 accrued thereon, shall be deposited to the credit of the lawyers' fund
+30 for client protection of the state of New York. All deposits of such
+31 revenues not otherwise required for the payment of claims as hereinafter
+32 prescribed shall be secured by obligations of the United States or of
+33 the state having a market value equal at all times to the amount of such
+34 deposits and all banks and trust companies are authorized to give secu-
+35 rity for such deposits. Any such revenues in such fund, may be invested
+36 in obligations of the United States or of the state, or in obligations
+37 the principal and interest on which are guaranteed by the United States
+38 or by the state.
+39 3. Moneys in the fund shall also be available to the trustees of the
+40 lawyer's fund for client protection for the purposes of funding the
+41 random audit compliance program described in section two hundred
+42 twelve-a of the judiciary law.
+43 § 4. Severability. If any clause, sentence, paragraph, subdivision,
+44 section or part of this act shall be adjudged by any court of competent
+45 jurisdiction to be invalid, such judgment shall not affect, impair, or
+46 invalidate the remainder thereof, but shall be confined in its operation
+47 to the clause, sentence, paragraph, subdivision, section or part thereof
+48 directly involved in the controversy in which such judgment shall have
+49 been rendered. It is hereby declared to be the intent of the legislature
+50 that this act would have been enacted even if such invalid provisions
+51 had not been included herein.
+52 § 5. This act shall take effect on the one hundred eightieth day after
+53 it shall have become a law. Effective immediately, the addition, amend-
+54 ment and/or repeal of any rule or regulation necessary for the implemen-
+55 tation of this act on its effective date are authorized to be made and
+56 completed on or before such effective date.

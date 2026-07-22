@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - S8284A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8284--A
+2025-2026 Regular Sessions
+IN SENATE
+May 30, 2025
+___________
+Introduced by Sen. BASKIN -- read twice and ordered printed, and when
+printed to be committed to the Committee on Procurement and Contracts
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the executive law, in relation to the utilization of
+minority and women-owned business enterprises, service-disabled veter-
+an-owned businesses, small businesses and microbusinesses by private
+businesses operating in buildings and other structures that were
+constructed using state funding
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The executive law is amended by adding a new article 16-B
+2 to read as follows:
+3 ARTICLE 16-B
+4 MWBE, SDVOB, SMALL BUSINESS AND MICROBUSINESS UTILIZATION
+5 FOR PRIVATE BUSINESSES OPERATING IN BUILDINGS CONSTRUCTED
+6 WITH STATE FUNDING
+7 Section 340. Definitions.
+8 341. State division of post-construction commitments and compli-
+9 ance.
+10 342. Post-construction compliance review board.
+11 343. Penalties for non-compliance.
+12 § 340. Definitions. As used in this article, the following terms shall
+13 have the following meanings:
+14 1. "Minority-owned business enterprise" shall mean a business enter-
+15 prise, including a sole proprietorship, partnership, limited liability
+16 company or corporation that is:
+17 (a) at least fifty-one percent owned by one or more minority group
+18 members;
+19 (b) an enterprise in which such minority ownership is real, substan-
+20 tial and continuing;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13270-03-5
+
+S. 8284--A 2
+1 (c) an enterprise in which such minority ownership has and exercises
+2 the authority to control independently the day-to-day business decisions
+3 of the enterprise;
+4 (d) an enterprise authorized to do business in this state and inde-
+5 pendently owned and operated;
+6 (e) an enterprise owned by an individual or individuals, whose owner-
+7 ship, control and operation are relied upon for certification, with a
+8 personal net worth that does not exceed fifteen million dollars, and
+9 such other amount as the director shall set forth in regulations, as
+10 adjusted annually on the first of January for inflation according to the
+11 consumer price index of the previous year; and
+12 (f) an enterprise that is a small business pursuant to subdivision
+13 four of this section.
+14 2. "Women-owned business enterprise" shall mean a business enterprise,
+15 including a sole proprietorship, partnership, limited liability company
+16 or corporation that is:
+17 (a) at least fifty-one percent owned by one or more United States
+18 citizens or permanent resident noncitizens who are women;
+19 (b) an enterprise in which the ownership interest of such women is
+20 real, substantial and continuing;
+21 (c) an enterprise in which such women ownership has and exercises the
+22 authority to control independently the day-to-day business decisions of
+23 the enterprise;
+24 (d) an enterprise authorized to do business in this state and inde-
+25 pendently owned and operated;
+26 (e) an enterprise owned by an individual or individuals, whose owner-
+27 ship, control and operation are relied upon for certification, with a
+28 personal net worth that does not exceed fifteen million dollars, and
+29 such other amount as the director shall set forth in regulations, as
+30 adjusted annually on the first of January for inflation according to the
+31 consumer price index of the previous year; and
+32 (f) an enterprise that is a small business pursuant to subdivision
+33 four of this section.
+34 3. "Certified service-disabled veteran-owned business enterprise"
+35 shall mean a business enterprise, including a sole proprietorship, part-
+36 nership, limited liability company or corporation that is:
+37 (a) at least fifty-one percent owned by one or more service-disabled
+38 veterans;
+39 (b) an enterprise in which such service-disabled veteran ownership is
+40 real, substantial, and continuing;
+41 (c) an enterprise in which such service-disabled veteran ownership has
+42 and exercises the authority to control independently the day-to-day
+43 business decisions of the enterprise;
+44 (d) an enterprise authorized to do business in this state and is inde-
+45 pendently owned and operated;
+46 (e) an enterprise that is a small business which has a significant
+47 business presence in the state, not dominant in its field and employs,
+48 based on its industry, a certain number of persons as determined by the
+49 director of the division of service-disabled veterans' business develop-
+50 ment, but not to exceed three hundred, taking into consideration factors
+51 which include, but are not limited to, federal small business adminis-
+52 tration standards pursuant to 13 CFR part 121 and any amendments there-
+53 to; and
+54 (f) certified by the office of general services.
+55 4. "Small business" shall mean a business that is not dominant in its
+56 field and has one hundred employees or less.
+
+S. 8284--A 3
+1 5. "Microbusiness" shall mean a business that is not dominant in its
+2 field and has five or fewer employees.
+3 6. "Operating business" shall mean a private business operating in a
+4 building, facility or other structure that was constructed with state
+5 agency funding or operating on land leased from the state of New York.
+6 7. "The division" shall mean the state division of post-construction
+7 commitments and compliance established pursuant to section three hundred
+8 forty-one of this article.
+9 8. "The board" shall mean the post-construction compliance review
+10 board established pursuant to section three hundred forty-two of this
+11 article.
+12 9. "Minority group member" shall mean a United States citizen or
+13 permanent resident noncitizen who is and can demonstrate membership in
+14 one of the following groups:
+15 (a) Black persons having origins in any of the Black African racial
+16 groups;
+17 (b) Hispanic/Latino persons of Mexican, Puerto Rican, Dominican,
+18 Cuban, Central or South American of either Indian or Hispanic origin,
+19 regardless of race;
+20 (c) Native American or Alaskan native persons having origins in any of
+21 the original peoples of North America; or
+22 (d) Asian and Pacific Islander persons having origins in any of the
+23 Far East countries, South East Asia, the Indian subcontinent or the
+24 Pacific Islands.
+25 10. "State investment" shall mean the amount of state funding in the
+26 construction of a structure that is to be operated or is currently oper-
+27 ated by a private business. State investment includes, but is not limit-
+28 ed to, tax subsidies, land valuation, cash, or other state-financed
+29 funding.
+30 § 341. State division of post-construction commitments and compliance.
+31 1. The empire state development corporation, in consultation with other
+32 state agencies including, but not limited to, the office of general
+33 services, the port authority of New York and New Jersey, and the depart-
+34 ment of state, shall develop a state division of post-construction
+35 commitments and compliance to create rules and regulations for private
+36 businesses operating in structures whose construction was state-funded
+37 or operating on land leased from the state of New York to have employ-
+38 ment goals and living wage requirements, annual minority and women-owned
+39 business enterprise, certified service-disabled veteran-owned business,
+40 small business and microbusiness utilization goals for maintenance and
+41 operations spending, and a community grant program.
+42 2. Such rules and regulations shall apply to operating businesses that
+43 are either:
+44 (a) operated by private companies in structures with a state invest-
+45 ment of one million dollars or more, including tax subsidies, land valu-
+46 ation, or construction investment; or
+47 (b) operated by private companies that are leasing state-owned land or
+48 property.
+49 3. Unless the operating business has a unionized workforce, at least
+50 twenty-five percent of employees working on such construction project
+51 shall be residents of disadvantaged zip codes, and the operating busi-
+52 ness shall provide a living wage for employees. Where a New York state
+53 collective bargaining union agreement has been agreed upon, the divi-
+54 sion's guidelines for post-construction job creation shall be waived and
+55 the division shall serve as an oversight to ensure job creation commit-
+56 ments under such agreement are met.
+
+S. 8284--A 4
+1 4. (a) An operating business shall utilize minority and women-owned
+2 business enterprises, certified service-disabled veteran-owned busi-
+3 nesses, small businesses and microbusinesses for such operating busi-
+4 ness's annual spending on operations and maintenance, including but not
+5 limited to vendors, supplies, catering and security, in accordance with
+6 the following goals:
+7 (i) fifteen percent of such spending shall be with minority-owned
+8 business enterprises;
+9 (ii) fifteen percent of such spending shall be with women-owned busi-
+10 ness enterprises;
+11 (iii) six percent of such spending shall be with certified service-
+12 disabled veteran-owned businesses;
+13 (iv) ten percent of such spending shall be with small businesses; and
+14 (v) five percent of such spending shall be with microbusinesses.
+15 (b) If an operating business utilizes minority and women-owned busi-
+16 ness enterprises and certified service-disabled veteran-owned businesses
+17 that are also small businesses, such operating business's spending with
+18 such certified companies may count for up to half of the small business
+19 spending goal for such year.
+20 5. (a) There is hereby established within the division a community
+21 grant program for the purpose of awarding grants to entities and
+22 construction projects that address socio-economic disparities in the
+23 municipality in which the operating business is located.
+24 (b) Grants awarded under such program shall be equal to at least five
+25 percent of the state investment in the construction of the structure in
+26 which the operating business is located.
+27 (c) Such grant program shall have a public application process made
+28 available to nonprofit groups and agencies residing within the project
+29 municipality. Such application shall be made available both physically
+30 and electronically.
+31 6. Where there is public land owned by a municipal or government enti-
+32 ty or corporation within a two-mile radius of the operating business,
+33 the division shall submit a data-driven assessment and suggested plan of
+34 post-construction community commitments following two public hearings
+35 held by the division within the municipality. Such plan shall be submit-
+36 ted to the municipality for the purposes of community benefits to be
+37 considered before land sale by the municipality.
+38 7. The division is hereby authorized to promulgate any rules and/or
+39 regulations necessary to effectuate the provisions of this article.
+40 § 342. Post-construction compliance review board. 1. The division
+41 shall establish a post-construction compliance review board.
+42 2. The board shall consist of five members to be appointed by the
+43 governor and approved by the senate. The board shall have representation
+44 from each of the following economic development regions as established
+45 under article eleven of the economic development law: Capital Region,
+46 Western New York, New York City, Central New York, and Long Island.
+47 3. The board shall meet quarterly to grade the post-construction
+48 compliance efforts of each operating business and determine if such
+49 operating business meets either the goals of the division or any commu-
+50 nity benefit agreement post-construction mandates.
+51 4. The division shall create an annual report outlining a quarterly
+52 grade and a summary of the project's compliance efforts. Such report
+53 shall be made available to the public by electronic, digital or physical
+54 publication.
+55 5. If the operating business is subject to a community benefit agree-
+56 ment that legally mandates post-construction commitments, the rules and
+
+S. 8284--A 5
+1 regulations of the division established pursuant to section three
+2 hundred forty-one of this article may be waived by a majority vote of
+3 the board.
+4 6. The board shall serve as a compliance officer for the enforcement
+5 of such community benefit agreement.
+6 § 343. Penalties for non-compliance. If an operating business is found
+7 not to be in compliance with any provisions of this article, the divi-
+8 sion shall have the authority to:
+9 (a) withhold any pending state funds until the operating business is
+10 found by the board to be in compliance with the provisions of this arti-
+11 cle;
+12 (b) prohibit the operating business and any of such operating busi-
+13 ness's subsidiaries from receiving any state funding or tax incentives
+14 for a period of five years; and/or
+15 (c) seek liquidated damages for the pro-rata amount of state invest-
+16 ment.
+17 § 2. This act shall take effect on the one hundred eightieth day after
+18 it shall have become a law. Effective immediately, the addition, amend-
+19 ment and/or repeal of any rule or regulation necessary for the implemen-
+20 tation of this act on its effective date are authorized to be made and
+21 completed on or before such date.

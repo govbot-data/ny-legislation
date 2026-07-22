@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - S2694A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2694--A
+2025-2026 Regular Sessions
+IN SENATE
+January 22, 2025
+___________
+Introduced by Sens. HOYLMAN-SIGAL, ASHBY, BROUK, MAY, MAYER -- read
+twice and ordered printed, and when printed to be committed to the
+Committee on Procurement and Contracts -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the executive law, in relation to requiring certain
+state owned and operated parking facilities to install and maintain
+charging stations for plug-in electric vehicles
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The executive law is amended by adding a new section 201-b
+2 to read as follows:
+3 § 201-b. Electric vehicle charging stations. 1. For the purposes of
+4 this section, the term "parking facility" shall mean a parking garage,
+5 parking structure, or open parking lot that is paved and striped to
+6 designate individual parking spaces for vehicles and which has fifty
+7 parking spaces or more.
+8 2. Any parking facility owned and operated by the state of New York,
+9 that offers between fifty and two hundred parking spaces for the
+10 purposes of public use, state employee use and pay-per-usage, is hereby
+11 required to install electric charging stations in at least ten percent
+12 of the total number of parking spaces offered by such facility or have
+13 electric vehicle charging infrastructure that provides a minimum number
+14 of kilovolt-amps (kVA) equal to ten percent of the number of actual
+15 parking spaces multiplied by 6.6 which may be satisfied via the instal-
+16 lation of level two, direct current fast chargers, or a combination of
+17 both.
+18 3. Any parking facility owned and operated by the state of New York,
+19 that offers more than two hundred parking spaces for the purposes of
+20 public use, state employee use and pay-per-usage, is hereby required to
+21 install electric charging stations in at least twenty percent of the
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06145-03-5
+
+S. 2694--A 2
+1 total number of parking spaces offered by such facility or have electric
+2 vehicle charging infrastructure that provides a minimum number of kilo-
+3 volt-amps (kVA) equal to twenty percent of the number of actual parking
+4 spaces multiplied by 6.6 which may be satisfied via the installation of
+5 level two, direct current fast chargers, or a combination of both.
+6 4. Each electric vehicle charging station required pursuant to this
+7 section shall support electric vehicle charging with a minimum of forty
+8 amperes and two hundred eight volts of electrical capacity. Such elec-
+9 tric vehicle charging stations and all other components and work appur-
+10 tenant thereto shall be in accordance with all applicable state, county,
+11 city, town, or village electrical codes.
+12 5. The office of general services shall be responsible for the instal-
+13 lation of any electric vehicle supply equipment and charging stations.
+14 If such installation shall require the state to make upgrades to any
+15 electrical supply equipment to safely and sufficiently power and operate
+16 such charging stations, the office of general services shall increase
+17 the electrical capacity of the existing system by installing new compo-
+18 nents as necessary. If the office of general services is unable to make
+19 such technical upgrades to a facility, the office may contract with a
+20 licensed electrician or similar service provider to upgrade the elec-
+21 trical capacity of said facility. Such contracted work shall comply with
+22 the provisions of article eight of the labor law, including the payment
+23 of a wage of not less than the prevailing wage in the locality where
+24 such parking facility is located.
+25 6. The office of general services may be responsible for the mainte-
+26 nance, general upkeep and repair of any electric vehicle supply equip-
+27 ment and charging stations. If the office of general services is unable
+28 to complete such maintenance or repairs, the office may contract with a
+29 licensed electrician or similar repair service to complete the necessary
+30 work on said equipment.
+31 § 2. This act shall take effect on the first of April next succeeding
+32 the date upon which it shall have become a law.
