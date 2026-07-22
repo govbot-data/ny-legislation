@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - A9625A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9625--A
+IN ASSEMBLY
+January 21, 2026
+___________
+Introduced by M. of A. R. CARROLL -- read once and referred to the
+Committee on Libraries and Education Technology -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the education law, in relation to the facilitating
+access to e-books for libraries act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "facilitat-
+2 ing access to e-books for libraries act".
+3 § 2. The education law is amended by adding a new section 286 to read
+4 as follows:
+5 § 286. Access to electronic books and digital audiobooks. 1. For the
+6 purposes of this section, the following terms shall have the following
+7 meanings:
+8 a. "Digital audiobook" means a published work that is in the form of a
+9 voice recording (narrated) and is released as a digital audio file.
+10 b. "Electronic book" means a published work that is in written form
+11 and is released as a digital text file.
+12 c. "Electronic literary materials" means digital audiobooks and/or
+13 electronic books.
+14 d. "Libraries" includes:
+15 (1) public libraries;
+16 (2) public elementary school or secondary school libraries;
+17 (3) tribal libraries;
+18 (4) academic libraries;
+19 (5) research libraries; and
+20 (6) archives.
+21 e. "Public library system" means a library established by one or more
+22 counties, a group of libraries serving an area including one or more
+23 counties in whole or in part, a library of a city containing one or more
+24 counties, or a cooperative library system established pursuant to the
+25 provisions of section two hundred fifty-five of this part.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11590-04-6
+
+A. 9625--A 2
+1 f. "School library system" means a library or group of libraries serv-
+2 ing a school district established pursuant to the provisions of section
+3 two hundred eighty-two of this part.
+4 g. "Publisher" means one whose business is the manufacture, promulga-
+5 tion, license, and/or sale of books, audiobooks, journals, magazines,
+6 newspapers, or other literary productions including those in the form of
+7 electronic literary materials.
+8 h. "Aggregator" means one whose business is the licensing of access to
+9 electronic literary material collections that include electronic liter-
+10 ary material from multiple publishers and provides a core platform
+11 service used by libraries for the lending or distribution of electronic
+12 literary materials.
+13 i. "A cooperative purchasing agreement" means an agreement authorized
+14 by the governing bodies of a library, public library system, or school
+15 library system jointly establishing terms for negotiations and contracts
+16 with publishers and aggregators regarding the purchase or license of
+17 electronic literary materials.
+18 2. Libraries, public library systems, and school library systems may
+19 enter into cooperative purchasing agreements for the purpose of negoti-
+20 ating and entering into contracts with publishers or aggregators to
+21 purchase or license electronic literary materials.
+22 3. Any contract offered by a publisher or aggregator to a library,
+23 public library system, or school library system to purchase or license
+24 electronic literary materials may not restrict the library, public
+25 library system, or school library system from disclosing any terms of
+26 its purchase or license agreements to other libraries or library
+27 systems.
+28 4. An aggregator providing a core platform service shall, to the
+29 extent technically feasible, permit interoperability with competing
+30 aggregators and enable libraries to transfer or access licensed elec-
+31 tronic literary materials across platforms without unreasonable techni-
+32 cal or contractual restrictions.
+33 5. No aggregator shall impose exclusivity provisions or other contrac-
+34 tual terms that unreasonably restrict a library's ability to access
+35 electronic literary materials from multiple aggregators.
+36 § 3. This act shall take effect immediately.

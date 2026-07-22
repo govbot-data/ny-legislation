@@ -1,0 +1,1165 @@
+Title: 
+Official Title: 
+Source: versions - S8846B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8846--B
+IN SENATE
+January 9, 2026
+___________
+Introduced by Sen. WEBER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Corporations, Authorities
+and Commissions -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public authorities law, in relation to creating the
+CR clean water and sewer authority
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "CR clean water and sewer authority act".
+3 § 2. Article 5 of the public authorities law is amended by adding a
+4 new title 11-E to read as follows:
+5 TITLE 11-E
+6 CR CLEAN WATER AND SEWER AUTHORITY
+7 Section 1349-a. Definitions.
+8 1349-b. Prior sewer district.
+9 1349-c. Abolishing the prior sewer district.
+10 1349-d. CR clean water and sewer authority.
+11 1349-e. Powers of the authority.
+12 1349-f. Advances on behalf of the authority; transfer of prop-
+13 erty to authority.
+14 1349-g. Charges by the authority; method of collection.
+15 1349-h. Officers and employees.
+16 1349-i. Obligation of public utilities.
+17 1349-j. Environmental applications, proceedings, approvals and
+18 permits.
+19 1349-k. Governmental capacity of the authority and munici-
+20 palities.
+21 1349-l. Limited liability.
+22 1349-m. Bonds of the authority.
+23 1349-n. Remedies of bondholders.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14339-09-6
+
+S. 8846--B 2
+1 1349-o. State, county and municipalities not liable on bonds
+2 of the authority.
+3 1349-p. Moneys of the authority.
+4 1349-q. Bonds and notes as legal investment.
+5 1349-r. Agreement with the state.
+6 1349-s. Exemption from taxes, assessments and certain fees.
+7 1349-t. Obligations of contracts not impaired.
+8 1349-u. Construction contracts.
+9 1349-v. Actions against the authority.
+10 1349-w. Audit and annual report.
+11 1349-x. Separability clause.
+12 1349-y. Effect of inconsistent provisions.
+13 § 1349-a. Definitions. As used in this title, unless a different mean-
+14 ing clearly appears from the context:
+15 1. "Alternative project delivery contract" shall mean any project
+16 delivery method authorized by this title, including design-build,
+17 construction manager at risk and construction manager build, pursuant to
+18 which one or more contracts for the provision of design and construction
+19 services, or construction management and construction services, are
+20 awarded through an open and competitive method of procurement.
+21 2. "Authority" shall mean the public benefit corporation created by
+22 section thirteen hundred forty-nine-d of this title.
+23 3. "Authority sewer system" shall mean the prior sewer district
+24 system, including any plants, pump stations, collection or project
+25 interceptors which was owned by the county, and operated and maintained
+26 by the prior sewer district on the date of termination, and any projects
+27 made after the date of transfer to the authority, and as expanded pursu-
+28 ant to any agreements with new members.
+29 4. "Bonds" shall mean the bonds, notes or other evidences of indebt-
+30 edness issued by the authority.
+31 5. "Calendar year and official year" shall mean the twelve-month peri-
+32 od from January first through December thirty-first.
+33 6. "Comptroller" shall mean the comptroller of the state of New York.
+34 7. "Construction" shall mean the negotiation, acquisition, erection,
+35 building, alteration, improvement, testing, increase, enlargement,
+36 extension, reconstruction, interconnection, renovation or rehabilitation
+37 of a sewerage facility, sewer system or a project as defined herein; the
+38 inspection and supervision thereof; and the engineering, architectural,
+39 legal, appraisal, fiscal, economic and environmental investigations,
+40 services and studies, surveys, designs, plans, working drawings, spec-
+41 ifications, procedures and other actions incidental thereto.
+42 8. "Costs", as applied to any project, shall include the cost of
+43 construction, the cost of the acquisition of all property, including
+44 both real, personal and mixed, the cost of demolishing, removing or
+45 relocating any building or structures on lands so acquired including the
+46 cost of acquiring any land to which such buildings or structures may be
+47 moved or relocated, the cost of all systems, sewerage facilities,
+48 machinery, apparatus and equipment, financing charges and bond discount,
+49 interest to the extent not paid or provided for from revenues or other
+50 sources, the cost of engineering and architectural surveys, plans and
+51 specifications, bond insurance, bond credit enhancement arrangements,
+52 other expenses necessary or incidental to the construction of such
+53 project and the financing of the construction thereof, including the
+54 cost of legal and financial advice and credit arrangements with banks or
+55 other financial institutions, the amount authorized in the resolution of
+56 the authority providing for the issuance of bonds to be paid into any
+
+S. 8846--B 3
+1 reserve or special fund from the proceeds of such bonds and the financ-
+2 ing of the placing of any project in operation.
+3 9. "County" shall mean, unless otherwise specifically stated, the
+4 county of Rockland.
+5 10. "County legislature" shall mean the county legislature of the
+6 county.
+7 11. "Governing body" shall mean the members of the authority consti-
+8 tuting and acting as the governing board of the authority.
+9 11-a. "Legacy employees" shall have the meaning as defined in section
+10 1349-h of this article.
+11 12. "Members" shall mean the members of the board of directors.
+12 13. "Municipality" shall mean any county, city, town, village,
+13 district or any combination thereof.
+14 14. "Person" shall mean any natural person, partnership, association,
+15 joint venture, limited liability company or corporation, exclusive of a
+16 public corporation as defined pursuant to article two-A of the general
+17 construction law.
+18 15. "Prior sewer district" shall mean the Rockland county sewer
+19 district no. 1 heretofore established by the county legislature and
+20 existing on the day immediately prior to the effective date of this
+21 title with the boundaries set forth as defined in the rules and regu-
+22 lations of the Rockland county code, part I - administrative legis-
+23 lation, chapter 165-3.
+24 16. "Prior sewer district system" shall mean all sewers, including,
+25 without limitation, trunk, intercepting, connecting and other sewers,
+26 storm water drains, pumping stations, disposal or treatment plants or
+27 works, structures, appliances, equipment and other adjuncts thereto,
+28 comprising the entire system of sewerage owned by the county and oper-
+29 ated and maintained by the prior sewer district at the time of the
+30 creation of the authority.
+31 17. "Project" shall mean any and all phases of, acquisition, planning,
+32 development, financing, construction, operation or maintenance which are
+33 undertaken in whole or in part by the authority for the authority sewer
+34 system.
+35 18. "Project labor agreement" shall mean a pre-hire collective
+36 bargaining agreement between a contractor and a bona fide building and
+37 construction trade labor organization establishing the labor organiza-
+38 tion as the collective bargaining representative for all persons who
+39 will perform work on a project, and which provides that only contractors
+40 and subcontractors who sign a pre-negotiated agreement with the labor
+41 organization can perform project work.
+42 19. "Real property" shall mean lands, structures, franchises and
+43 interests in lands, waters, lands under water, groundwater riparian
+44 rights and air rights and any and all things and rights customarily
+45 included within the term "real property" and includes not only fee
+46 simple absolute, but also any and all lesser interests including, but
+47 not limited to easements, rights-of-way, uses, leases, licenses and all
+48 other incorporeal hereditaments and every estate, interest or right,
+49 legal or equitable, including terms for years and liens thereon by way
+50 of judgment, mortgages or otherwise.
+51 20. "Service area" shall mean the territorial limits of the prior
+52 sewer district, including any areas outside such territorial limits of
+53 the prior sewer district that were served by the prior sewer district
+54 and any areas of the county whereby the territorial limits of the prior
+55 sewer district have been expanded.
+
+S. 8846--B 4
+1 21. "Sewage" shall mean the water-carried human or animal waste from
+2 residences, buildings, industrial establishments or other places,
+3 together with such groundwater infiltration, surface water, or indus-
+4 trial waste as may be present. Such term includes both domestic sewage
+5 and wastewaters that may adversely affect public health, water quality,
+6 or the proper functioning of a sewage treatment system.
+7 22. "Sewerage facilities" shall mean any plants, structures and other
+8 real and personal property acquired, rehabilitated or constructed or
+9 planned for the purpose of collecting, conveying, pumping, treating,
+10 neutralizing, storing and disposing of sewage, including but not limited
+11 to main, trunk, intercepting, connecting, lateral, outlet or other
+12 sewers, outfalls, pumping stations, treatment and disposal plants,
+13 groundwater recharge basins, back-flow prevention devices, sludge dewa-
+14 tering or disposal equipment and facilities, clarifiers, tilters, phos-
+15 phorus removal equipment and other plants, works, structures, equipment,
+16 vehicles, conveyances, contract rights, franchises, approaches,
+17 connections, permits, real or personal property or rights therein and
+18 appurtenances thereto necessary or useful and convenient for the
+19 collection, conveyance, pumping, treatment, neutralizing, storing and
+20 disposing of sewage and to the extent not covered by the foregoing, any
+21 facilities operated and maintained by the prior sewer district.
+22 23. "State" shall mean the state of New York.
+23 24. "State agency" shall mean any state office, public benefit corpo-
+24 ration, department, board, commission, bureau or division, or other
+25 agency or instrumentality of the state.
+26 25. "System revenues" shall mean rates, rents, fees, charges,
+27 payments, assessments and other income and receipts derived from users
+28 of the sewerage facilities of the authority without limiting the gener-
+29 ality of the foregoing, investment proceeds and proceeds of insurance,
+30 condemnation sales or other dispositions of assets together with all
+31 federal, state or municipal aid as well as any other income derived from
+32 the operation of the sewerage facilities of the authority.
+33 26. "Treasurer" shall mean the treasurer of the authority.
+34 § 1349-b. Prior sewer district. The prior sewer district primarily
+35 served the towns of Ramapo and Clarkstown as well as the villages of
+36 Hillburn and Sloatsburg. The prior sewer district operated and main-
+37 tained the wastewater treatment plants in Orangeburg and Hillburn as
+38 well as the major interceptors and pumping stations in the sewer system
+39 and, pursuant to a contractual arrangement, all sewers within the
+40 villages of Spring Valley, New Square, and sewers serving several
+41 parcels in the town of Orangetown.
+42 § 1349-c. Abolishing the prior sewer district. Notwithstanding any
+43 inconsistent provisions of the county law, the county charter, or any
+44 other general, special or local law, the prior sewer district, upon an
+45 affirmative vote of the county legislature, is hereby abolished,
+46 dissolved and merged into the authority and all of the rights, privi-
+47 leges, duties, responsibilities and obligations of the prior sewer
+48 district shall become the rights, privileges, duties, responsibilities
+49 and obligations of the authority. The prior sewer district system,
+50 together with all contracts, books, maps, plans, papers and records of
+51 whatever description pertaining to subjects or matters relating to the
+52 design, construction, operation and affairs of the prior sewer district
+53 system shall be assigned, transferred and dedicated to the use of and be
+54 in the possession of and under the jurisdiction, control and supervision
+55 of the authority and the authority is empowered to take possession ther-
+56 eof for its uses and purposes. The authority shall thereafter have
+
+S. 8846--B 5
+1 complete jurisdiction, control, possession and supervision of the prior
+2 sewer district system and of all related sewerage facilities. Notwith-
+3 standing the provisions of any state or local law to the contrary, the
+4 county shall transfer to the authority any funds which were in the prior
+5 sewer district's accounts upon dissolution thereof, as well as any prior
+6 sewer district fund balance held by the county on behalf of the prior
+7 sewer district, or grant recoveries received in connection with assets
+8 acquired by the authority from the county, which funds shall be used by
+9 the authority for the limited purposes of supporting necessary capital
+10 investments, debt service, debt service-related expenses and reserve
+11 requirements. The county budget adopted for each fiscal year shall
+12 contain a separate section for the authority showing amounts which are
+13 anticipated to be necessary for the authority to pay the principal of
+14 and interest on any outstanding bonds or notes of the county issued for
+15 the prior sewer district. The authority budget adopted each year shall
+16 include such principal and interest amounts and the authority shall pay
+17 such amounts to the county on an annual basis.
+18 § 1349-d. CR clean water and sewer authority. 1. A corporation known
+19 as the CR clean water and sewer authority is hereby created for the
+20 purposes and charged with the duties and having the powers provided in
+21 this title. The authority shall be a corporate governmental agency
+22 constituting a public benefit corporation and shall be considered a
+23 public employer. Upon its formation, the authority shall be governed by
+24 a governing body consisting of nine members, all of whom shall be resi-
+25 dents of the service area of the authority, except that any member serv-
+26 ing ex officio pursuant to this section shall not be subject to such
+27 residency requirement, appointed as follows:
+28 (a) one by the county executive;
+29 (b) two by the chairperson of the county legislature;
+30 (c) one by the minority leader of the county legislature;
+31 (d) the supervisor of the town of Ramapo as an ex officio member of
+32 the board;
+33 (e) two selected by the supervisor of the town of Ramapo subject to
+34 the confirmation of the Ramapo town board;
+35 (f) the supervisor of the town of Clarkstown as an ex officio member
+36 of the board;
+37 (g) one selected by the supervisor of the town of Clarkstown subject
+38 to the confirmation of the Clarkstown town board; and
+39 (h) all ex officio members are voting members of the board.
+40 2. The term of any elected official serving as a member of the author-
+41 ity shall have a term that coincides with such member's term of elective
+42 office. At the conclusion of an individual's term of office, an appoint-
+43 ing authority may select a new member of that class. For ex officio
+44 members, there is no requirement for re-appointment where a single indi-
+45 vidual serves successive terms in the same elected office. Nothing here-
+46 in shall be deemed to limit or control the designation or term of any
+47 member serving as chairperson or vice-chairperson pursuant to this
+48 title.
+49 (a) The members of the governing body shall be reimbursed for all of
+50 their actual and necessary expenses incurred in connection with the
+51 carrying out of the purposes of this title.
+52 (b) Any member of the authority may be removed from office by a vote
+53 of five members of the authority for gross neglect of duty, misconduct,
+54 maladministration or malfeasance in office, including the unexcused
+55 failure to attend three consecutive regular meetings of the authority.
+
+S. 8846--B 6
+1 (c) All members shall continue to hold office until their successors
+2 are appointed and qualified.
+3 (d) Vacancies occurring otherwise than by expiration of term shall be
+4 filled in the same manner as that of the departing member, respectively,
+5 for the unexpired term.
+6 (e) Members may be removed from office for the same reasons and in the
+7 same manner as provided by law for the removal of officers of the coun-
+8 ty, pursuant to section three of the public officers law.
+9 3. The powers of the authority shall be vested in and exercised by the
+10 governing body at a meeting duly called and held where a quorum of five
+11 members is present. No action shall be taken except by the favorable
+12 vote of at least five members. The governing body may delegate to one or
+13 more of its members or officers such powers and duties as it may deem
+14 proper.
+15 4. (a) The officers of the authority shall consist of a chairperson, a
+16 vice-chairperson and a treasurer who shall be members of the authority,
+17 and a secretary who need not be a member of the authority. Notwithstand-
+18 ing any other provision of this title, the supervisor of the town of
+19 Ramapo shall serve as the first chairperson of the authority, and the
+20 supervisor of the town of Clarkstown shall serve as the first vice-
+21 chairperson of the authority, each commencing upon the formation of the
+22 authority. The initial term of the chairperson and vice-chairperson
+23 designated pursuant to subdivision one of this section shall be three
+24 years. Following the expiration of the initial term, the offices of
+25 chairperson and vice-chairperson shall at all times be held by the
+26 supervisors of the town of Ramapo and the town of Clarkstown, respec-
+27 tively, or their successors in office, such that each town shall contin-
+28 uously hold one of such offices. After the expiration of the initial
+29 three-year term, the offices of chairperson and vice-chairperson shall
+30 rotate between the supervisors of the town of Ramapo and the town of
+31 Clarkstown every two years, with each supervisor alternately serving as
+32 chairperson and vice-chairperson. In the event that a supervisor serving
+33 as chairperson or vice-chairperson ceases to hold the office of supervi-
+34 sor, the successor supervisor shall assume the corresponding position on
+35 the authority and shall serve the remainder of the applicable term. The
+36 chairperson and vice-chairperson of the authority may receive compen-
+37 sation for their service in such amounts as may be determined from time
+38 to time by resolution of the governing body. The governing body may
+39 also, in its discretion, authorize compensation for other members of the
+40 authority, subject to such terms and conditions as the governing body
+41 shall determine. All members shall continue to be eligible for
+42 reimbursement of actual and necessary expenses incurred in the perform-
+43 ance of their duties.
+44 (b) At the first meeting of the governing body and at the first meet-
+45 ing thereof in each fiscal year thereafter the members of the governing
+46 body shall choose from their number the officers of the authority,
+47 except for the offices of chairperson and vice-chairperson, which shall
+48 be designated and governed in accordance with this section. Except for
+49 the offices of chairperson and vice-chairperson, which shall be designed
+50 and governed in accordance with this section, the officers of the
+51 authority shall serve at the pleasure of the authority. In addition to
+52 such officers, the authority may appoint and at its pleasure remove an
+53 executive director, authority counsel, chief financial officer, and such
+54 other executive level positions as the board may desire, which positions
+55 shall be in the exempt class of the civil service, and such additional
+56 officers and employees as it may deem necessary, and may determine and
+
+S. 8846--B 7
+1 fix their qualifications, and duties subject to the provisions of the
+2 civil service law. The authority may delegate to one or more of its
+3 members, officers, agents or employees any such powers as it may deem
+4 proper. The authority may also contract for expert professional services
+5 however, the authority shall not contract for professional services that
+6 were, prior to the effective date of this chapter, performed by a county
+7 or municipal employee unless specifically authorized by law. The treas-
+8 urer shall execute a bond conditioned on the faithful performance of the
+9 duties of such treasurer's office, the amount and sufficiency of which
+10 shall be approved by the governing body and the premium for which shall
+11 be paid by the authority. The authority may also use the agents, employ-
+12 ees, records and equipment of the county with the consent of the county.
+13 5. Notwithstanding any inconsistent provision of any general, special
+14 or local law, ordinance, resolution or charter, and subject to and
+15 consistent with section thirteen hundred forty-nine-h of this title, no
+16 officer, member or employee of the state, any municipality or any public
+17 benefit corporation shall forfeit their office or employment by reason
+18 of their acceptance of appointment as a member, officer, agent or
+19 employee of the authority, nor shall service as a member, officer, agent
+20 or employee of the authority be deemed incompatible or in conflict with
+21 such office, membership or employment. The members and employees of the
+22 authority shall be subject to all requirements of state and county law
+23 pertaining to ethics and financial disclosure to which members of the
+24 county legislature and employees of the county, respectively, are
+25 subject.
+26 6. It is hereby determined and declared that the authority and the
+27 carrying out of its powers, purposes and duties are in all respects for
+28 the benefit of the people of the municipalities within the bounds of the
+29 authority and state, for the improvement of their health, welfare and
+30 prosperity and that the said purposes are a public purpose and that the
+31 authority is and will be performing an essential governmental function
+32 in the exercise of the powers conferred upon it by this title.
+33 7. The purpose of this title, among other things, is to provide for
+34 the jurisdiction, control, possession, supervision and use of the sewer-
+35 age facilities; authorization to make rules and regulations in further-
+36 ance of this title; the enforcement of this title, the rules, regu-
+37 lations, permits and orders of the authority in connection with the
+38 direct or indirect use of the sewerage facilities by persons within the
+39 county of Rockland and any other persons from whom the authority
+40 accepts, treats and disposes of sewage, industrial waste, and other
+41 waste, from whatever source derived; and to enable the authority to
+42 comply with all applicable laws of the United States and the state of
+43 New York, and the rules, regulations, permits and orders of their regu-
+44 latory agencies.
+45 8. (a) The county executive shall file on or before the twelve-month
+46 anniversary of the date on which this title shall have become a law, in
+47 the office of the secretary of state, a certificate signed by the county
+48 executive setting forth: (i) the name of the authority; (ii) the names
+49 of the initial members; and (iii) the effective date of this title. The
+50 authority shall be perpetual in duration, except that if such resolution
+51 and certificate are not filed with the secretary of state on or before
+52 such date, then the power of the legislature of the county to approve
+53 the creation of the authority shall thereupon lapse, the authority shall
+54 not be deemed to have been created hereby and shall not exist or be
+55 deemed to have existed, and the provisions of this title shall no longer
+56 have any force or effect.
+
+S. 8846--B 8
+1 (b) Except as provided in paragraph (a) of this subdivision, the
+2 authority and its corporate existence shall continue until terminated by
+3 law, provided, however, that no such law shall take effect so long as
+4 the authority shall have bonds or other obligations outstanding unless
+5 adequate provision has been made for the payment or satisfaction there-
+6 of. Upon termination of the authority, all sewerage facilities, rights
+7 and property, then remaining shall pass to and then vest in the county.
+8 9. Until such time as the authority adopts its own sewer use regu-
+9 lations pursuant to section thirteen hundred forty-nine-e of this title,
+10 the authority hereby adopts the county sewer use law (laws of Rockland
+11 county, chapter three hundred forty-five), with the powers and duties of
+12 that law granted to the authority in the place of the prior sewer
+13 district.
+14 § 1349-e. Powers of the authority. The authority shall have power:
+15 1. To sue and be sued;
+16 2. To have a seal and alter the same;
+17 3. To accept, treat and dispose of the sewage and waste of municipal
+18 corporations in the county of Rockland and from any other persons from
+19 whatever source derived;
+20 4. To reduce the generation and discharge of sewage, waste and pollu-
+21 tants, promote the conservation and efficient use of fresh water
+22 resources, protect the environment, and safeguard public health within
+23 the county of Rockland;
+24 5. To acquire in the name of the authority, hold, sell, lease, mort-
+25 gage or otherwise dispose of property, real, personal or mixed, or any
+26 interest therein, without limitation, for its corporate purposes. In
+27 selecting the location for any real property to be acquired or leased,
+28 the authority shall give consideration to the present and any proposed
+29 land use character of the area in which such site is to be located and
+30 shall be subject to and exempt from the zoning laws or regulations, if
+31 any, otherwise generally applicable to such area to the same extent that
+32 the county is subject to and exempt from the zoning laws or regulations
+33 otherwise generally applicable to such area;
+34 6. To prepare or cause to be prepared plans, designs and estimates of
+35 costs for the construction of a project, and from time to time to modify
+36 such plans, designs or estimates;
+37 7. To construct a project and any additions, betterments and exten-
+38 sions to the sewerage facilities of the authority by contract or
+39 contracts, or under, through, or by means of its own officers, agents
+40 and employees;
+41 8. To have jurisdiction, control, possession and supervision of the
+42 authority sewer system and any project; to maintain, operate, recon-
+43 struct and improve the same as a comprehensive sewerage system and to
+44 make additions, betterments and extensions thereto, and to have all the
+45 rights, privileges and jurisdiction necessary or proper for carrying
+46 such power into execution. No enumeration of powers in this or any other
+47 general, special or local law shall operate to restrict the meaning of
+48 this general grant of power or to exclude other powers comprehended
+49 within this general grant;
+50 9. To condemn in the name of the authority pursuant to the eminent
+51 domain procedure law, any real property within the county and required
+52 by the authority to carry out the powers granted by this title;
+53 10. To plan, develop and construct projects and to pay the cost there-
+54 of and to contract in relation thereto with municipalities or persons
+55 within or without the county and to own and operate, maintain, repair,
+56 improve, reconstruct, enlarge and extend, subject to the provisions of
+
+S. 8846--B 9
+1 this title, any of its projects acquired or constructed under this
+2 title, and to sell, lease, mortgage, grant a security interest in,
+3 pledge, encumber, or otherwise dispose of any project or part thereof to
+4 any person, municipality or public corporation, subject to such condi-
+5 tions and limitations as the authority may determine to be in the public
+6 interest, and to apply for, hold and perform its obligations under any
+7 permit, license, approval, or other legal entitlement which may be
+8 required for its projects, services or exercise of powers;
+9 11. To make rules, regulations and by-laws pertaining to and governing
+10 the management and regulation of its affairs and, subject to agreements
+11 with bondholders, the use of any project or other property of the
+12 authority and the provision of any service by the authority, which
+13 rules, regulations and by-laws and all amendments thereto, duly certi-
+14 fied by the secretary of the authority, shall be filed in the office of
+15 the authority and in the office of the clerk of the county, and to
+16 provide for the enforcement of such rules, regulations and by-laws by
+17 legal or equitable proceedings which are or may be provided or author-
+18 ized by law. In addition, the county legislature shall have power to
+19 prescribe that violations of specific rules, regulations and by-laws of
+20 the authority shall constitute violations and provide for the enforce-
+21 ment of violations thereof by civil penalties, including any such rules,
+22 regulations and by-laws requiring the payment of fees or charges by any
+23 person in connection with the service or availability or service by any
+24 sewerage facility owned or under contract to the authority;
+25 12. With the consent of the county executive, to use officers or
+26 employees of the county and to pay a proper portion of the compensation
+27 or costs for the services for such officers or employees;
+28 13. To make contracts and to execute all necessary or convenient
+29 agreements, documents and instruments, including evidences of indebt-
+30 edness, negotiable or non-negotiable;
+31 14. To enter on any lands, waterways or premises as in the judgment of
+32 the authority shall be necessary for the purpose of making borings,
+33 samples, surveys, soundings and examinations, including the examination
+34 of any effluent source, and to accomplish any purpose authorized by this
+35 title, any liability for which shall not exceed actual damages;
+36 15. To enter upon streets, highways, bridges or public places for the
+37 purpose of constructing a project or any part thereof, or any addition,
+38 betterment or extension to the sewerage facilities of the authority.
+39 Whenever the authority has entered upon and damaged any street, highway,
+40 bridge or other public place the authority shall restore the same to its
+41 former condition;
+42 16. To accept, treat and dispose of the sewage and waste collected or
+43 delivered to the authority sewer system;
+44 17. To borrow money and to issue bonds and to fund or refund the same,
+45 and to provide for the rights of the holders thereof;
+46 18. To procure insurance, letters of credit, lines of credit, or other
+47 credit enhancement with respect to its bonds or notes issued pursuant to
+48 this title, or facilities for the payment of tenders of such bonds or
+49 notes or facilities for the payment upon maturity of short-term notes
+50 not renewed;
+51 19. To enter into interest rate exchange or similar arrangements with
+52 any person under such terms and conditions as the authority may deter-
+53 mine including, without limitation, provisions as to default or early
+54 termination and indemnification by the authority or any other party
+55 thereto for loss of benefits as a result thereof;
+
+S. 8846--B 10
+1 20. To fix and collect rates, rentals, fees and other charges for the
+2 use of the sewerage facilities of, or services provided by, or any
+3 commodities furnished by, the authority, and to contract with any muni-
+4 cipality in respect thereto, so as to provide revenues sufficient at all
+5 times to pay, as the same shall become due, the principal and interest
+6 on the bonds of the authority, together with the maintenance of proper
+7 reserves therefor, in addition to paying, as the same shall become due,
+8 the expenses of operating and maintaining the properties and business of
+9 the authority and meeting all of its contractual and other obligations,
+10 together with proper reserves for debt service, depreciation, mainte-
+11 nance and contingencies and all other obligations and indebtedness of
+12 the authority;
+13 21. To enter into agreements, in its direction, to pay annual sums in
+14 lieu of taxes to any municipality in respect to any real property which
+15 is owned by the authority and located in such municipality, political
+16 subdivision or taxing district;
+17 22. To accept gifts, grants, loans or contributions from the United
+18 States, the state or any agency or instrumentality of either of them, or
+19 any municipality or from any person or public corporation, by bequest or
+20 otherwise, and to expend the proceeds for any corporate purposes of the
+21 authority;
+22 23. To covenant and consent that the interest on any of its bonds or
+23 notes issued pursuant to this title shall be includible, under the
+24 United States Internal Revenue Code of 1986, as amended, or any subse-
+25 quent corresponding internal revenue law of the United States, in gross
+26 income of the holder of the bonds or notes to the same extent and in the
+27 same manner that the interest on bills, bonds, notes or other obli-
+28 gations of the United States is includible in the gross income of the
+29 holders thereof under said Internal Revenue Code or any such subsequent
+30 law;
+31 24. To enter into contracts, and carry out the terms thereof, for the
+32 wholesale provision of sewerage disposal with municipalities and
+33 private individuals or corporations. However, the authority shall not
+34 outsource, privatize, or in any other way diminish work that was, prior
+35 to the enactment of this law, performed by a legacy employee unless
+36 specifically authorized by law, except as otherwise provided for in
+37 subdivision twenty-five-a of this section;
+38 25. To enter into cooperative agreements with other authorities, muni-
+39 cipalities, sewer districts and other public corporations for the inter-
+40 connection of sewerage facilities, the exchange or interchange of
+41 services and commodities and, within the service area, enter into
+42 contracts for the construction and operation and maintenance of all or a
+43 portion of the authority sewer system, upon such terms and conditions as
+44 shall be determined to be reasonable including but not limited to the
+45 reimbursement of all costs of such construction, or for any other lawful
+46 purposes necessary or desirable to effect the purposes of this title;
+47 25-a. To temporarily contract out, in the event of an emergency, or
+48 otherwise procure from a private contractor, work that would otherwise
+49 be required to be performed by legacy employees, but only to the extent,
+50 and for the period, necessary to abate the emergency. For the purposes
+51 of this subdivision, "emergency" shall mean an unforeseen occurrence or
+52 condition that requires immediate action to address an actual or immi-
+53 nent threat to public health, safety, the environment, or the continued
+54 operation or integrity of the authority sewer system or any sewerage
+55 facility that cannot be adequately addressed by the available legacy
+56 employees within the time required to abate the threat; and
+
+S. 8846--B 11
+1 26. To do all things necessary or convenient to carry out the powers
+2 expressly given in this title.
+3 § 1349-f. Advances on behalf of the authority; transfer of property to
+4 authority. 1. The county or any other municipality may give, grant,
+5 sell, convey, loan, license the use of or lease to the authority any
+6 property or facility which is useful to the authority in order to carry
+7 out its powers under this title; provided, however, that any such trans-
+8 fer of property shall be upon such terms and conditions and subject to
+9 the rights of the holders of any bonds, as the authority and the county
+10 or other municipality may agree. The county or any other municipality
+11 shall have the power to contract with the authority to carry out the
+12 purposes and intent of this title.
+13 2. Notwithstanding the provisions of any other law, general, special
+14 or local to the contrary, real property acquired by the authority or the
+15 county from the state may be used for any corporate purpose of the
+16 authority.
+17 § 1349-g. Charges by the authority; method of collection. 1. The
+18 authority may fix, impose, and collect, on any equitable basis, rates,
+19 rentals, fees and other charges for the use of the authority sewer
+20 system or services provided by the authority, including the availability
+21 of any of the foregoing from the authority. Such rates, rentals, fees
+22 and other charges may be fixed, imposed, and collected from any person
+23 to whom such sewerage facilities or services are provided by or made
+24 available from the authority. In any instance where the county is or
+25 would be required by law, to conduct a public hearing in connection with
+26 a rate, rental, fee or other charge, the authority shall not establish,
+27 fix, or revise any classification of user or service recipient, rate,
+28 rental, fee or other charge unless and until the authority has held a
+29 public hearing at which interested persons have had an opportunity to be
+30 heard concerning the same; provided however, that if the county has
+31 conducted a public hearing in connection with such rate, rental, fee or
+32 other charge, the authority shall not be required to hold a public hear-
+33 ing. Notice of any such public hearing shall be published at least ten
+34 days before the date set therefor, in at least one newspaper of general
+35 circulation in the county. Such notice shall set forth the date, time
+36 and place of such hearing and shall include a brief description of the
+37 matters to be considered at such meeting. A copy of the notice shall be
+38 available for inspection by the public. At any such hearing, any inter-
+39 ested persons shall have an opportunity to be heard concerning the
+40 matters under consideration. Any decision by the authority at such
+41 public hearing shall be in writing and be made available in the office
+42 of the authority for public inspection during regular office hours.
+43 2. Notwithstanding any other law to the contrary, all rates, rentals,
+44 fees and other charges for the use of the authority sewer system or
+45 services provided or made available by the authority may be imposed upon
+46 all properties where services are made available, placed on the annual
+47 tax rolls of the respective municipalities as a separate item under the
+48 heading "sewer disposal charge," and collected and are paid to the
+49 authority in the same manner as the real property taxes of the various
+50 municipalities located within the county are collected and paid to such
+51 municipalities. Such amounts, when collected by the several municipal
+52 collectors or receivers of taxes, shall be paid over to the county. A
+53 list of those properties within each respective municipality upon which
+54 the sewer disposal charge shall be imposed for the upcoming year shall
+55 be established on or before the first day of December in each year. All
+56 rates, rentals, fees and other charges for the use or availability of
+
+S. 8846--B 12
+1 the authority sewer system or services provided by the authority shall
+2 be a lien upon the real property upon which, or in connection with
+3 which, services are provided or made available, as and from the first
+4 date fixed for payment of such rates, rentals, fees and other charges.
+5 Any such lien shall have the same priority and superiority as the lien
+6 of the general tax of the county. All of the provisions of the tax law
+7 of the state governing enforcement and collection of taxes or assess-
+8 ments for special improvements not inconsistent herewith shall apply to
+9 the collection of such rates, rentals, fees and other charges.
+10 § 1349-h. Officers and employees. 1. Any individual who is an officer
+11 or employee of the county employed by the county in a position funded by
+12 the 'G' fund of the county budget as of the date of the formation of the
+13 authority, shall remain an employee of the county and shall continue to
+14 work in the same or similar capacity. Such individuals shall be known
+15 as "legacy employees".
+16 2. Both the county and the authority shall be bound by all collective
+17 bargaining agreements in effect as of the effective date of this title
+18 and be bound by any and all successor agreements between the county and
+19 the employee organization representing legacy employees. All benefits
+20 provided to the legacy employees, pursuant to county resolution, law,
+21 policy, or past practices shall continue to be provided to the legacy
+22 employees.
+23 3. All salaries, compensation, other remuneration, cost of benefits,
+24 of any kind or type, provided to legacy employees by the county shall be
+25 paid by the county, as currently, and shall be reimbursed by the author-
+26 ity.
+27 4. The legacy employees, as defined in this title, shall continue to
+28 be governed by any applicable collective bargaining agreements, civil
+29 service laws and rules, practices, and applicable local, state, and
+30 federal laws governing county of Rockland employees. Although the
+31 authority may direct the day-to-day work assignments and duties of lega-
+32 cy employees, the county of Rockland shall remain the employer and
+33 appointing authority for such employees and shall continue to carry out
+34 such employer responsibilities in accordance with the applicable collec-
+35 tive bargaining agreements, civil service laws and rules, practices, and
+36 applicable local, state, and federal laws. Legacy employees shall retain
+37 their existing employee rights, compensation, and benefits as provided
+38 under the applicable collective bargaining agreements, policies, prac-
+39 tices, laws, and rules, including but not limited to discipline, griev-
+40 ance procedures, performance management, and compensation and benefits.
+41 5. Administrative and operational responsibilities, including but not
+42 limited to reporting structures, supervision, reimbursement, staffing
+43 coordination, operational assignments may be addressed in an inter-agen-
+44 cy agreement that is entered into between the county and the authority
+45 after the creation of the authority. There shall be no bar on the
+46 authority to create positions to fulfill functions when such a legacy
+47 employee vacates a position.
+48 § 1349-i. Obligation of public utilities. Wherever railroad tracks,
+49 street railroad tracks, gas pipes, telephone wires, telegraph wires,
+50 electric light or power wires, or conduits for carrying telephone, tele-
+51 graph or electric wires, or other structures of any public service
+52 corporation, extend in, along or across any part of the work authorized
+53 by this title, it shall be and become the duty of the corporation owning
+54 or using such tracks, pipes, wires or conduits, or other structures, to
+55 make such changes in the same, at its own expense, as may be required
+56 during the construction of the improvement provided for in this title,
+
+S. 8846--B 13
+1 and to construct or rebuild and maintain at its own expense its tracks,
+2 pipes, wires or conduits and structures over or along the work by this
+3 title authorized and constructed or in the process of construction in
+4 pursuance thereof.
+5 § 1349-j. Environmental applications, proceedings, approvals and
+6 permits. 1. Any application in relation to the purposes of or contem-
+7 plated by this title heretofore filed, or any proceeding heretofore
+8 commenced, by the county or any agency thereof with the state department
+9 of environmental conservation, the department of transportation or any
+10 other state agency or instrumentality or with the United States environ-
+11 mental protection agency or any other federal agency or instrumentality
+12 shall inure to and for the benefit of the authority to the same extent
+13 and in the same manner as if the authority had been a party to such
+14 application or proceeding from its inception, and the authority shall be
+15 deemed a party thereto, to the extent not prohibited by any federal law.
+16 Any license, approval, permit or decision heretofore or hereafter issued
+17 or granted pursuant to or as a result of any such application or
+18 proceeding shall inure to the benefit of and be binding upon the author-
+19 ity and shall be assigned and transferred by the municipalities served
+20 by the authority or any agency thereof to the authority, unless such
+21 assignment and transfer is prohibited by federal law.
+22 2. All such applications, proceedings, licenses, approvals, permits
+23 and decisions shall further inure to and be for the benefit of and be
+24 binding upon any person leasing, acquiring, constructing, maintaining,
+25 using or occupying any facility financed in whole or in part by the
+26 authority.
+27 § 1349-k. Governmental capacity of the authority and municipalities.
+28 The county, other municipalities within the county and the authority in
+29 carrying out the respective powers and duties under this title shall be
+30 deemed to be acting in a governmental capacity. The construction, oper-
+31 ation and maintenance of any project financed in whole or in part by the
+32 authority shall be deemed to be the performance of an essential govern-
+33 mental function by the authority acting in its governmental capacity,
+34 whether such project shall be owned or operated by the authority or by
+35 any person or other public corporation.
+36 § 1349-l. Limited liability. Neither the members of the authority, nor
+37 any municipality, officer or employee acting on behalf of the authority,
+38 while acting within the scope of their authority, shall be subject to
+39 any personal liability resulting from the construction, maintenance or
+40 operation of any of the properties of the authority or from carrying out
+41 any of the powers expressly given in this title; provided however, that
+42 this section shall not be held to apply to any independent contractor.
+43 § 1349-m. Bonds of the authority. 1. The authority shall have the
+44 power and is hereby authorized from time to time to issue bonds or notes
+45 in such principal amounts as it may determine to be necessary to pay the
+46 cost of any project or for any other corporate purpose, including inci-
+47 dental expenses in connection therewith. The authority shall have power
+48 and is hereby authorized to enter into such agreements and perform such
+49 acts as may be required under any applicable federal legislation to
+50 secure a federal guarantee of any bonds. The authority shall have power
+51 from time to time to refund any bonds by the issuance of new bonds
+52 whether the bonds to be refunded have or have not matured, and may issue
+53 bonds partly to refund bonds then outstanding and partly for any other
+54 corporate purpose. Bonds issued by the authority may be general obli-
+55 gations secured by the faith and credit of the authority or may be
+56 special obligations payable solely out of particular revenues or other
+
+S. 8846--B 14
+1 moneys as may be designated in the proceedings of the authority under
+2 which the bonds shall be authorized to be issued and subject to any
+3 agreements with the holders of outstanding bonds pledging any particular
+4 revenues or moneys. The authority may also enter into loan agreements,
+5 lines of credit and other security agreements and obtain for or on its
+6 behalf letters of credit in each case for securing its bonds or to
+7 provide direct payment of any costs which the authority is authorized to
+8 pay.
+9 2. Bonds shall be authorized by resolution of the authority, be in
+10 such denominations, bear such date or dates and mature at such time or
+11 times as such resolution shall provide, except that notes and any
+12 renewals thereof shall mature within five years from the date of the
+13 original issuance and bonds and any renewals thereof shall mature within
+14 thirty years from the date of the original issuance of any such bonds or
+15 notes. The bonds and notes shall be subject to such terms of redemption,
+16 bear interest at such rate or rates payable at such times, be in regis-
+17 tered form, be executed in such manner, be payable in such medium of
+18 payment at such place or places, and be subject to such terms and condi-
+19 tions as such resolution may provide. Bonds may be sold at public or
+20 private sale for such price or prices as the authority shall determine.
+21 Bonds of the authority shall not be sold by the authority at private
+22 sale unless such sale and the terms thereof have been approved in writ-
+23 ing by the state comptroller where such sale is not to be to such comp-
+24 troller, or by the state director of the budget where such sale is to
+25 said comptroller. The authority may pay all expenses, premiums and
+26 commissions which it may deem necessary or advantageous in connection
+27 with the issuance and sale of bonds.
+28 3. Any resolution or resolutions authorizing bonds or any issue of
+29 bonds may contain provisions which may be a part of the contract with
+30 the holders of the bonds thereby authorized as to:
+31 (a) pledging all or any part of the revenues, other moneys or property
+32 of the authority to secure the payment of the bonds, including but not
+33 limited to, any assets, contracts, investment securities, earnings or
+34 proceeds of any grant to the authority received from any private or
+35 public source, subject to such agreements with bondholders as may then
+36 exist;
+37 (b) the setting aside of reserves and the creation of sinking funds
+38 and the regulation and disposition thereof;
+39 (c) limitations on the purpose to which the proceeds from the sale of
+40 bonds may be applied;
+41 (d) the rates, rents, fees and other charges to be fixed and collected
+42 by the authority and the amount to be raised in each year thereby and
+43 the use and disposition of revenues;
+44 (e) limitations on the right of the authority to restrict and regulate
+45 the use of a project or part thereof in connection with which bonds are
+46 issued;
+47 (f) limitations on the issuance of additional bonds, the terms upon
+48 which additional bonds may be issued and secured and the refunding of
+49 outstanding or other bonds;
+50 (g) the procedure, if any, by which the terms of any contract with
+51 bondholders may be amended or abrogated, the amount of bonds the holders
+52 of which must consent thereto, and the manner in which such consent may
+53 be given;
+54 (h) the creation of special funds into which any revenues or moneys
+55 may be deposited;
+
+S. 8846--B 15
+1 (i) the terms and provisions of any trust, deed or indenture securing
+2 the bonds under which the bonds may be issued;
+3 (j) vesting in a trustee or trustees such properties, rights, powers
+4 and duties in trust as the authority may determine, which may include
+5 any or all of the rights, powers and duties of the trustees appointed by
+6 the bondholders and limiting or abrogating the rights of the bondholders
+7 to appoint a trustee under such section or limiting the rights, duties
+8 and powers of the trustee;
+9 (k) defining the acts or omissions to act which may constitute a
+10 default in the obligations and duties of the authority to the bondhold-
+11 ers and providing for the rights and remedies of the bondholders in the
+12 event of such default, including as a matter of right the appointment of
+13 a receiver, provided, however, that such rights and remedies shall not
+14 be inconsistent with the general laws of the state and other provisions
+15 of this title;
+16 (l) limitations on the power of the authority to sell or otherwise
+17 dispose of any project or any part thereof;
+18 (m) limitations on the amount of revenues and other moneys to be
+19 expended for operating, administrative or other expenses of the authori-
+20 ty;
+21 (n) the payment of the proceeds of bonds, revenues and other moneys to
+22 a trustee or other depository and for the method of disbursement thereof
+23 with such safeguards and restrictions as the authority may determine;
+24 and
+25 (o) any other matters of like or different character which in any way
+26 affect the security or protection of the bonds or the rights and reme-
+27 dies of bondholders.
+28 4. In addition to the powers herein conferred upon the authority to
+29 secure its bonds, the authority shall have power in connection with the
+30 issuance of bonds to enter into such agreements as the authority may
+31 deem necessary, consistent or desirable concerning the use of disposi-
+32 tion of its revenues or other moneys or property, including the mortgag-
+33 ing of any property and the entrusting, pledging or creation of any
+34 other security interest in any such revenues, moneys or property and the
+35 doing of any act (including refraining from doing any act) which the
+36 authority would have the right to do in the absence of such agreements.
+37 The authority shall have power to enter into amendments of any such
+38 agreements within the powers granted to the authority by this title and
+39 to perform such agreements. The provisions of any such agreements may be
+40 made a part of the contract with the holders of bonds of the authority.
+41 5. Any provision of the uniform commercial code to the contrary
+42 notwithstanding, any pledge of or other security interest in revenues,
+43 moneys, accounts, contract rights, general intangibles or other personal
+44 property made or created by the authority shall be valid, binding and
+45 perfected from the time when such pledge is made or other security
+46 interest attaches without any physical delivery of the collateral or
+47 further act, and the lien of any such pledge or other security interest
+48 shall be valid, binding and perfected against all parties having claims
+49 of any kind in tort, contract or otherwise against the authority irre-
+50 spective of whether or not such parties have notice thereof. No instru-
+51 ment by which such a pledge or security is created nor any financing
+52 statement need be recorded or filed.
+53 6. Whether or not the bonds are of such form and character as to be
+54 negotiable instruments under the terms of the uniform commercial code,
+55 the bonds are hereby made negotiable instruments within the meaning of
+
+S. 8846--B 16
+1 and for all the purposes of the uniform commercial code, subject only to
+2 the provisions of the bonds for registration.
+3 7. Neither the members of the authority nor any person executing bonds
+4 shall be liable personally thereon or be subject to any personal liabil-
+5 ity or accountability by reason of the issuance thereof.
+6 8. The authority, subject to such agreements with bondholders as then
+7 may exist, shall have power out of any moneys available therefor to
+8 purchase bonds of the authority, which shall thereupon be cancelled, at
+9 a price not exceeding: (a) if the bonds are then redeemable, the redemp-
+10 tion price then applicable, plus accrued interest to the next interest
+11 payment date; or (b) if the bonds are not then redeemable, the redemp-
+12 tion price applicable on the first date after such purchase upon which
+13 the bonds become subject to redemption plus accrued interest to the next
+14 interest payment date.
+15 § 1349-n. Remedies of bondholders. Subject to any resolution or resol-
+16 utions adopted pursuant to subdivision three of section thirteen hundred
+17 forty-nine-m of this title:
+18 1. In the event that the authority shall default in the payment of
+19 principal of or interest on any issue of bonds after the same shall
+20 become due, whether at maturity or upon call for redemption, and such
+21 default shall continue for a period of thirty days, or in the event that
+22 the authority shall fail or refuse to comply with the provisions of this
+23 title or shall default in any agreement made with the holders of any
+24 issue of bonds, the holders of twenty-five percent in aggregate princi-
+25 pal amount of the bonds of such issue then outstanding, by instrument or
+26 instruments tiled in the office of the clerk of the county and proved or
+27 acknowledged in the same manner as deed to be recorded, may appoint a
+28 trustee to represent the holders of such bonds for the purpose herein
+29 provided.
+30 2. Such trustee may and, upon written request of the holders of twen-
+31 ty-five per centum in principal amount of such bonds outstanding, shall
+32 in such trustee's own name:
+33 (a) by action or proceeding in accordance with the civil practice law
+34 and rules, enforce all rights of the bondholders, including the right to
+35 require the authority to collect rents, rates, fees and charges adequate
+36 to carry out any agreement as to, or pledge of, such rents, rates, fees
+37 and charges and to require the authority to carry out any other agree-
+38 ments with the holders of such bonds to perform its duties under this
+39 title;
+40 (b) bring an action or proceeding upon such bonds;
+41 (c) by action or proceeding, require the authority to account as if it
+42 were the trustee of an express trust for the holders of such bonds;
+43 (d) by action or proceeding, enjoin any acts or things which may be
+44 unlawful or in violation of the rights of the holders of such bonds; and
+45 (e) declare all such bonds due and payable, and if all defaults shall
+46 be made good, then with the consent of the holders of twenty-five per
+47 centum of the principal amount of such bonds then outstanding, to annul
+48 such declaration and its consequences.
+49 3. Such trustee shall in addition to the foregoing have and possess
+50 all of the powers necessary or appropriate for the exercise of any func-
+51 tions specifically set forth herein or incident to the general represen-
+52 tation of bondholders in the enforcement and protection of their rights.
+53 4. The supreme court shall have jurisdiction of any action or proceed-
+54 ing by the trustee on behalf of such bondholders. The venue of any such
+55 action or proceeding shall be laid in the county.
+
+S. 8846--B 17
+1 5. Before declaring the principal of bonds due and payable, the trus-
+2 tee shall first give thirty days' notice in writing to the authority.
+3 6. Any such trustee, whether or not the issue of bonds represented by
+4 such trustee has been declared due and payable, shall be entitled as of
+5 right to the appointment of a receiver of any part or parts of the
+6 project, the revenues of which are pledged for the security of the bonds
+7 of such issue, and such receiver may enter and take possession of such
+8 part or parts of the project and, subject to any pledge or agreement
+9 with holders of such bonds, shall take possession of all moneys and
+10 other property derived from such part or parts of the project and
+11 proceed with any construction thereon or the acquisition of any proper-
+12 ty, real or personal, in connection therewith that the authority is
+13 under obligation to do, and to operate, maintain and reconstruct such
+14 part or parts of the project and collect and receive all revenues there-
+15 after arising therefrom subject to any pledge thereof or agreement with
+16 bondholders relating thereto and perform the public duties and carry out
+17 the agreements and obligations of the authority under the direction of
+18 the court. In any suit, action or proceeding by the trustee the fees,
+19 counsel fees and expenses of the trustee and of the receiver, if any,
+20 shall constitute taxable disbursements and all costs and disbursements
+21 allowed by the court shall be a first charge on any revenues derived
+22 from the project.
+23 7. The county is authorized to pledge to and agree with the holders of
+24 the bonds that the county will not limit or impair the rights hereby
+25 vested in the authority to purchase, construct, maintain, operate,
+26 repair, improve, increase, enlarge, extend, reconstruct, renovate, reha-
+27 bilitate or dispose of any project, or any part or parts thereof, for
+28 which bonds or notes of the authority shall have been issued, to estab-
+29 lish and collect rates, rents, fees and other charges referred to in
+30 this title and to fulfill the terms of any agreements made with the
+31 holders of the bonds or notes or with any public corporation or person
+32 with reference to such project or part thereof, or in any way impair the
+33 rights and remedies of the bondholders, until the bonds, together with
+34 interest thereon, with interest on any unpaid installments of interest
+35 and all costs and expenses in connection with any action or proceeding
+36 by or on behalf of the bondholders are fully met and discharged.
+37 § 1349-o. State, county and municipalities not liable on bonds of the
+38 authority. Neither the state, county nor any other municipality or
+39 public corporation shall be liable on the bonds of the authority and
+40 such bonds shall not be a debt of the state, county or any other munici-
+41 pality or public corporation, and such bonds shall contain, on the face
+42 thereof, a statement to such effect.
+43 § 1349-p. Moneys of the authority. All moneys of the authority from
+44 whatever source derived shall be paid to the treasurer of the authority
+45 and shall be deposited forthwith in interest bearing accounts in a bank
+46 or banks in the state designated by the governing body. The moneys in
+47 such accounts shall be paid out by the treasurer, upon requisition by
+48 the governing body or of such other person or persons as the governing
+49 body may authorize to make such requisitions. All deposits of such
+50 moneys shall be secured by obligations of the United States and the
+51 state of New York of a market value equal at all times to the amount on
+52 deposit and all banks and trust companies are authorized to give such
+53 security for such deposits. The authority shall have power, notwith-
+54 standing the provisions of this section, to contract with the holders of
+55 any bonds, as to the custody, collection, security, investment and
+56 payment of any moneys of the authority or any moneys held in trust or
+
+S. 8846--B 18
+1 otherwise for the payment of bonds or in any way to secure bonds, and to
+2 carry out any such contract notwithstanding that such contract may be
+3 inconsistent with the provisions of this section. Moneys held in trust
+4 or otherwise for the payment of bonds, or in any way to secure bonds,
+5 and deposits of such moneys may be secured in the same manner as moneys
+6 of the authority and all banks and trust companies are authorized to
+7 give such security for such deposits. Any moneys of the authority not
+8 required for immediate use or disbursement may, at the discretion of the
+9 authority, be invested in those obligations specified pursuant to the
+10 provisions of section ninety-eight-a of the state finance law, as
+11 amended from time to time. Subject to the provisions of any contract
+12 with bondholders and with the approval of the comptroller, the authority
+13 shall prescribe a system of accounts.
+14 § 1349-q. Bonds and notes as legal investment. The bonds of the
+15 authority are hereby made securities in which all public officials and
+16 bodies of the state and all municipalities, all insurance companies and
+17 associations and other persons carrying on an insurance business, all
+18 banks, bankers, trust companies, savings banks and savings associations,
+19 including savings and loan associations, investment companies and other
+20 persons carrying on a banking business, and administrators, guardians,
+21 executors, trustees and other fiduciaries and all other persons whatso-
+22 ever, who are now or may hereafter be authorized to invest in bonds or
+23 notes, or other obligations of the state may properly and legally invest
+24 funds including capital in their control or belonging to them. The bonds
+25 and notes are also hereby made securities which may be deposited with
+26 and may be received by all public officers and bodies of this state and
+27 all municipalities for any purposes for which the deposit of bonds or
+28 notes or other obligations of this state is now or hereafter may be
+29 authorized.
+30 § 1349-r. Agreement with the state. The state does hereby pledge to
+31 and agree with the holders of any bonds or notes issued by the authority
+32 pursuant to this title that the state will not alter or limit the rights
+33 hereby vested in the authority to purchase, construct, maintain, oper-
+34 ate, repair, improve, increase, enlarge, extend, reconstruct, renovate,
+35 rehabilitate or dispose of any project, or any part or parts thereof,
+36 for which bonds of the authority shall have been issued, to establish
+37 and collect rates, rents, fees and other charges referred to in this
+38 title to fulfill the terms of any agreement made with or for the benefit
+39 of the holders of bonds or notes or with any public corporation or
+40 person with reference to such project or part thereof, or in any way to
+41 impair the rights and remedies of bondholders until the bonds or notes,
+42 together with the interest thereon, including interest on any unpaid
+43 installments of interest and all costs and expenses in connection with
+44 any action or proceeding by or on behalf of such holders, are fully met
+45 and discharged, provided, however, that this section shall not be
+46 construed to limit in any manner, the ability of the state to alter,
+47 amend or enforce laws or regulations to protect public health and the
+48 environment. The authority is authorized to include this pledge and
+49 agreement of the state in any agreement with bondholders.
+50 § 1349-s. Exemption from taxes, assessments and certain fees. 1. It
+51 is hereby determined that the creation of the authority and the carrying
+52 out of its corporate purposes is in all respects for the benefit of the
+53 people of the county within the boundaries of the service area and the
+54 state and is a public purpose and the authority shall be regarded as
+55 performing a governmental function in the exercise of the powers
+56 conferred upon it by this title and shall not be required to pay any
+
+S. 8846--B 19
+1 taxes, special ad valorem levies or special assessments upon any proper-
+2 ty owned by it or under its jurisdiction, control or supervision or upon
+3 its activities or any filing, recording, or transfer fees or taxes in
+4 relation to instruments filed, recorded or transferred by it or on its
+5 behalf. The construction, use, occupation or possession of any property
+6 owned by the authority including improvements thereon, by any person or
+7 public corporation under a lease, lease and sublease or any other agree-
+8 ment shall not operate to abrogate or limit the foregoing exemption,
+9 notwithstanding that the lessee, user, occupant or person in possession
+10 shall claim ownership for federal income tax purposes. Mortgages made or
+11 financed, directly or indirectly, by the authority shall be exempt from
+12 the mortgage recording taxes imposed by article eleven of the tax law.
+13 The authority shall be deemed a public authority for the purposes of
+14 section four hundred twelve of the real property tax law.
+15 2. Any bonds issued pursuant to this title together with the income
+16 therefrom as well as the property of the authority shall be exempt from
+17 taxes, except for transfer and estate taxes. The revenues, moneys and
+18 all other property and all transactions and activities of the authority
+19 shall be exempt from all taxes and governmental fees or charges, whether
+20 imposed by the state or any municipality, including without limitation
+21 real estate taxes, franchise taxes, sales taxes or other excise taxes.
+22 The state hereby covenants with the purchasers and with all subsequent
+23 holders and transferees of bonds issued by the authority pursuant to
+24 this title, in consideration of the acceptance of any payment of the
+25 bonds, that the bonds of the authority issued pursuant to this title and
+26 the income therefrom and all revenues, moneys, and other property
+27 pledged to secure the payment of such bonds shall at all times be free
+28 from taxation except for transfer and estate taxes.
+29 § 1349-t. Obligations of contracts not impaired. All contracts of the
+30 county in respect of the prior sewer district or any part thereof shall
+31 be binding upon the authority with the same force and effect as though
+32 such contracts had been expressly assumed by the authority and such
+33 contracts shall inure to the benefit of the authority with the same
+34 force and effect as though such contracts had been expressly assigned to
+35 the authority.
+36 § 1349-u. Construction contracts. 1. All contracts or orders for work,
+37 material or supplies performed or furnished in connection with
+38 construction shall be awarded by the authority pursuant to resolution of
+39 the governing body except as hereinafter provided. In any construction
+40 contract, the authority may provide a program for the payment of damages
+41 for delays and incentive awards in order to encourage timely project
+42 completion. An action, suit or proceeding contesting the validity of a
+43 contract awarded pursuant to this section, or the validity of the proce-
+44 dures relating to such award, shall be governed by the provisions of
+45 subdivision six of section one hundred twenty-w of the general municipal
+46 law and the term "municipality" as used in such subdivision six shall
+47 mean the authority.
+48 2. The person whose bid or proposal is accepted shall give security
+49 for the faithful performance of the contract, and such other security as
+50 the authority may require, and may be required to maintain any
+51 construction done under the contract for such period as shall be stipu-
+52 lated, all in the manner prescribed and required by the authority and
+53 the sufficiency of such security shall, in addition to the justification
+54 and acknowledgement, be approved by the authority. All bids or proposals
+55 shall be publicly opened by the governing body or its duly authorized
+56 agent. If the person whose bid or proposal has been accepted after
+
+S. 8846--B 20
+1 advertising shall neglect or refuse to accept the contract within five
+2 days after written notice that the contract has been awarded to such
+3 person on such person's bid or proposal or if such person accepts but
+4 does not execute the contract and give proper security, the authority
+5 shall have the right to declare such person's deposit forfeited. In case
+6 any work shall be abandoned by any contractor, the authority may, if it
+7 determines that the public interest is thereby served, adopt on behalf
+8 of the authority any or all subcontracts made by such contractor for
+9 such work and all such subcontractors shall be bound by such adoption if
+10 made. No bid or proposal shall be accepted from or any contract awarded
+11 to any person or corporation who is in arrears to the authority or the
+12 county upon any obligation of the authority or of the county. Every
+13 contract shall be executed in duplicate, one copy of which shall be held
+14 by the authority and one copy of which shall be delivered to the
+15 contractor. The authority may adopt, utilize, ratify and confirm any
+16 request for proposals, invitation for sealed bids, plans, specifications
+17 and notices heretofore or hereafter published by the county with respect
+18 to any proposed project. The provisions of this section shall supersede
+19 any inconsistent provisions of the general municipal law, or any other
+20 general, special or local law, or the charter of the county. The author-
+21 ity shall be deemed an authority for the purpose of section twenty-eight
+22 hundred seventy-eight of this chapter. For the purposes of article
+23 fifteen-A of the executive law only, the authority shall be deemed a
+24 state agency as that term is used in such article, and its contracts for
+25 design, construction, services and materials shall be deemed state
+26 contracts within the meaning of that term as set forth in such article.
+27 3. A project labor agreement shall be included in a project, provided
+28 that, based upon a study done by or for the authority, the authority
+29 determines that its interest in obtaining the best work at the lowest
+30 possible price, preventing favoritism, fraud and corruption, and other
+31 considerations such as the impact of delay, the possibility of cost
+32 savings advantages, and any local history of labor unrest, are best met
+33 by requiring a project labor agreement. The authority shall conduct such
+34 a study and a project labor agreement shall be performed consistent with
+35 the provisions of section two hundred twenty-two of the labor law.
+36 4. If a project labor agreement is not utilized for construction on a
+37 project (a) the authority shall not utilize an alternative project
+38 delivery contract for a project; and (b) the contract for a project
+39 shall be let to the lowest responsible bidder.
+40 § 1349-v. Actions against the authority. The authority shall be
+41 subject to section fifty-e of the general municipal law for a notice of
+42 claim and the service of such notice of claim.
+43 § 1349-w. Audit and annual report. In conformity with the provisions
+44 of section five of article ten of the constitution, the accounts of the
+45 authority shall be subject to the supervision of the comptroller and an
+46 annual audit shall be performed by an independent certified accountant.
+47 The authority shall annually submit to the governor and comptroller and
+48 to the chairs of the senate finance and assembly ways and means commit-
+49 tees a detailed report pursuant to the provisions of section twenty-
+50 eight hundred of this chapter, and a copy of such report shall be filed
+51 with the clerk of each town and village in the service area.
+52 § 1349-x. Separability clause. If any section, clause or provision in
+53 this title shall be held by a competent court to be unconstitutional or
+54 ineffective in whole or in part, to the extent that it is not unconsti-
+55 tutional or ineffective, it shall be valid and effective, and no other
+
+S. 8846--B 21
+1 section, clause or provision shall on account thereof be deemed invalid
+2 or ineffective.
+3 § 1349-y. Effect of inconsistent provisions. In so far as the
+4 provisions of this title are inconsistent with the provisions of any
+5 other act, general or special, or of any charter, local law, ordinance
+6 or resolution of any municipality, the provisions of this title shall be
+7 controlling. Nothing contained in this section shall be held to supple-
+8 ment or otherwise expand the powers or duties of the authority otherwise
+9 set forth in this title. Except as specifically provided for in this
+10 title, in the performance of any of its functions, powers and duties,
+11 the authority shall be subject to all applicable general or special laws
+12 of the state, the county charter, and any local law, ordinance or resol-
+13 ution of the county.
+14 § 3. This act shall take effect on the one hundred eightieth day after
+15 it shall have become a law. Effective immediately, the addition, amend-
+16 ment and/or repeal of any rule or regulation necessary for the implemen-
+17 tation of this act on its effective date are authorized to be made and
+18 completed on or before such effective date.

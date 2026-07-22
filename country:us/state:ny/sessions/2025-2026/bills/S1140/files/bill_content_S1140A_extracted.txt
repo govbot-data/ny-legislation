@@ -1,0 +1,309 @@
+Title: 
+Official Title: 
+Source: versions - S1140A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1140--A
+2025-2026 Regular Sessions
+IN SENATE
+January 8, 2025
+___________
+Introduced by Sens. GONZALEZ, CLEARE, HOYLMAN-SIGAL, JACKSON, KRUEGER --
+read twice and ordered printed, and when printed to be committed to
+the Committee on Budget and Revenue -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the tax law, in relation to establishing a tax on noise
+emissions from non-essential helicopter and seaplane flights in cities
+with a population of one million or more
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The tax law is amended by adding a new article 12-B to read
+2 as follows:
+3 ARTICLE 12-B
+4 NOISE TAX ON NON-ESSENTIAL
+5 HELICOPTER AND SEAPLANE FLIGHTS
+6 Section 289-g. Definitions.
+7 289-h. Imposition of the noise tax on non-essential helicopter
+8 and seaplane flights.
+9 289-i. Liability for the tax.
+10 289-j. Exemptions from the tax.
+11 289-k. Payment and returns.
+12 289-l. Records to be kept.
+13 289-m. Secrecy of returns and reports.
+14 289-n. Practice and procedure.
+15 289-o. Deposit and disposition of revenue.
+16 § 289-g. Definitions. For the purposes of this article, the following
+17 terms shall have the following meanings:
+18 1. "Helicopter" means an aircraft, the support of which in the air is
+19 normally derived from airfoils mechanically rotated about an approxi-
+20 mately vertical axis.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01055-03-5
+
+S. 1140--A 2
+1 2. "Helicopter or seaplane operator" means a person or entity which
+2 conducts non-essential helicopter or seaplane flights within a city with
+3 a population of one million or more within New York state.
+4 3. "Seaplane" means any aircraft defined or classified as such by
+5 federal law, rule or regulation.
+6 4. "Non-essential flight" means a flight made by a helicopter or seap-
+7 lane that originates and terminates within New York state, with the
+8 origination or termination being within a city with a population of one
+9 million or more within New York state, other than those conducted:
+10 (a) for purposes of heavy-lift operations in support of construction
+11 and infrastructure maintenance;
+12 (b) for purposes of public health and safety, including law enforce-
+13 ment, emergency response, disaster response, the provision of medical
+14 services, and providing other services; or
+15 (c) for the benefit of the general public, including flights carried
+16 out for research or for official purposes by a news organization.
+17 5. "Quiet aircraft" means a helicopter or seaplane of a model that has
+18 been certified as meeting the threshold to be classified as a quiet
+19 aircraft as per section two hundred eighty-nine-j of this article.
+20 § 289-h. Imposition of the noise tax on non-essential helicopter and
+21 seaplane flights. In addition to any other tax or assessment imposed by
+22 this chapter or any other law, there is hereby imposed beginning January
+23 first, two thousand twenty-five a noise tax on non-essential seaplane
+24 and helicopter flights at the rate of fifty dollars per seat ticket or
+25 two hundred dollars per flight, whichever is greater.
+26 § 289-i. Liability for the tax. Any non-essential helicopter or seap-
+27 lane flight is subject to the tax imposed by this article. The tax
+28 imposed by this section shall not be imposed on any helicopter or seap-
+29 lane flights if such imposition is superseded by federal law or regu-
+30 lation.
+31 § 289-j. Exemptions from the tax. 1. Any non-essential helicopter or
+32 seaplane flight conducted using a quiet aircraft is exempted from the
+33 tax imposed by section two hundred eighty-nine-h of this article.
+34 2. The department, in consultation with the department of transporta-
+35 tion shall create a registry of models of helicopters and seaplanes that
+36 will be defined as quiet aircraft for the purposes of this article. Such
+37 registry shall be established by January first, two thousand twenty-sev-
+38 en, and shall be updated no less than every two years.
+39 3. For a helicopter or seaplane model to be considered to be a quiet
+40 aircraft, the aircraft must be electric powered and, (a) for helicop-
+41 ters, create at least ten decibels less of noise, as measured under the
+42 procedures of Appendix H of 14 CFR Part 36, as a helicopter that would
+43 meet the GCNP Quiet Aircraft Technology Designation established by 14
+44 CFR Appendix A to Subpart U of Part 93, or any federal limits on noise
+45 from helicopters enacted that are more strict than the GCNP Quiet
+46 Aircraft Technology Designation and (b) for seaplanes, create at least
+47 ten decibels less of noise, as measured under the procedures of Appendix
+48 G of 14 CFR Part 36, than a seaplane would make to comply with the stage
+49 5 noise levels adopted under 14 CFR Parts 36 and 91, which are equal to
+50 the levels established under International Civil Aviation Organization
+51 (ICAO) Chapter 14 of Annex 16, Volume I, or any federal limits on noise
+52 from seaplanes enacted that are more strict than the stage 5 noise
+53 levels.
+54 § 289-k. Payment and returns. 1. Every helicopter and seaplane opera-
+55 tor shall file a return quarterly with the commissioner. Provided,
+56 however, that if the commissioner in the exercise of their discretion
+
+S. 1140--A 3
+1 deems it necessary to protect the revenues to be obtained under this
+2 article, such commissioner may give notice requiring such operator, in
+3 addition to filing a quarterly return, to file either short-form or
+4 long-form part-quarterly returns, as specified in such notice. For
+5 purposes of this article the term "long-form, part-quarterly return"
+6 shall mean a return in a form determined by the commissioner providing
+7 for the calculation of the actual taxes for the preceding month. For
+8 purposes of this article the term "short-form, part-quarterly return"
+9 shall mean a return which shall be available for use in filing as a
+10 return for the first two months of any quarter and only by a person
+11 required to file a return monthly who has had at least four successive
+12 quarterly tax periods immediately preceding the month for which the
+13 return is to be filed and who elects such use, and is in a form deter-
+14 mined by the commissioner and providing for the calculation of one-third
+15 of the total taxes paid by the person to the commissioner in the compa-
+16 rable quarter of the immediately preceding year under this article.
+17 2. The returns and information returns required by this section to be
+18 filed quarterly shall be filed for quarterly periods ending on the last
+19 day of February, May, August and November of each year, and each return
+20 and each information return shall be filed within twenty days after the
+21 end of the quarterly period covered thereby. The returns required by
+22 this section to be filed monthly shall be filed for monthly periods
+23 ending on the last day of each month and each return shall be filed
+24 within twenty days after the end of each prior month. The information
+25 returns required to be filed annually shall be filed for twelve-month
+26 periods ending on the last day of May of each year, and each such infor-
+27 mation return shall be filed within twenty days after the end of the
+28 twelve-month period covered thereby.
+29 3. The tax commission may permit or require returns to be made cover-
+30 ing other periods and upon such dates as it may specify. If the tax
+31 commission deems it necessary in order to ensure the payment of the
+32 taxes imposed by this article, it may require returns to be made for
+33 shorter periods than those prescribed pursuant to the foregoing subdivi-
+34 sions of this section, and upon such dates as it may specify.
+35 4. The form of returns shall be prescribed by the tax commission and
+36 shall contain such information as it may deem necessary for the proper
+37 administration of this article. The commission may require amended
+38 returns to be filed within twenty days after notice and to contain the
+39 information specified in the notice.
+40 5. In addition to any other penalty or interest provided for under
+41 this article or other law, and unless it is shown that such failure is
+42 due to reasonable cause and not due to willful neglect, any person
+43 liable for the tax imposed by this article that fails to pay such tax
+44 when due shall be liable for a penalty in an amount equal to four
+45 hundred percent of the total tax amount that is due.
+46 § 289-l. Records to be kept. Every operator liable for the surcharge
+47 imposed by this article shall keep, and shall make available for review
+48 upon demand by the commissioner:
+49 1. records of helicopter and seaplane flights undertaken by such oper-
+50 ator;
+51 2. total amount of taxes collected under this article;
+52 3. any information required by the department by rule or regulation;
+53 4. true and complete copies of any records required to be kept by any
+54 applicable regulatory department or agency; and
+55 5. such other records and information as the commissioner may require
+56 to perform their duties under this article.
+
+S. 1140--A 4
+1 § 289-m. Secrecy of returns and reports. 1. Except in accordance with
+2 proper judicial order or as otherwise provided by law, it shall be
+3 unlawful for the commissioner, any officer or employee of the depart-
+4 ment, any person engaged or retained by the department on an independent
+5 contract basis, or any person who in any manner may acquire knowledge of
+6 the contents of a return or report filed with the commissioner pursuant
+7 to this article, to divulge or make known in any manner any particulars
+8 set forth or disclosed in any such return or report. The officers
+9 charged with the custody of such returns and reports shall not be
+10 required to produce any of them or evidence of anything contained in
+11 them in any action or proceeding in any court, except on behalf of the
+12 commissioner in an action or proceeding under the provisions of this
+13 chapter, or in any other action or proceeding involving the collection
+14 of a surcharge due under this chapter to which the state, the commis-
+15 sioner or an agency that is authorized to permit or regulate the
+16 provision of any relevant transportation is a party or a claimant, or on
+17 behalf of any party to any action, proceeding or hearing under the
+18 provisions of this article, when the returns or the reports or the facts
+19 shown thereby are directly involved in such action, proceeding or hear-
+20 ing, in any of which events the court, or in the case of a hearing, the
+21 division of tax appeals, may require the production of, and may admit in
+22 evidence so much of said returns or reports or of the facts shown there-
+23 by as are pertinent to the action or proceeding and no more. Nothing
+24 herein shall be construed, however, to prohibit the commissioner, in
+25 their discretion, from allowing the inspection or delivery of a certi-
+26 fied copy of any return or report filed under this article, or from
+27 providing any information contained in any such return or report, by or
+28 to a duly authorized officer or employee of the comptroller; nor to
+29 prohibit the inspection or delivery of a certified copy of any return or
+30 report filed under this article, or the provision of any information
+31 contained therein, by or to the attorney general or other legal repre-
+32 sentatives of the state when an action shall have been recommended or
+33 commenced pursuant to this chapter in which such returns or reports or
+34 the facts shown thereby are directly involved; nor to prohibit the
+35 commissioner from providing or certifying to the division of budget or
+36 the comptroller the total number of returns or reports filed under this
+37 article in any reporting period and the total collections received ther-
+38 efrom; nor to prohibit the delivery to a person liable for the tax
+39 imposed by this article, or a duly authorized representative of such, a
+40 certified copy of any return or report filed by such person pursuant to
+41 this article, nor to prohibit the publication of statistics so classi-
+42 fied as to prevent the identification of particular returns or reports
+43 and the items thereof; nor to prohibit the disclosure, in such manner as
+44 the commissioner deems appropriate, of the names and other appropriate
+45 identifying information of those persons required to pay the tax imposed
+46 by this article.
+47 2. Notwithstanding the provisions of subdivision one of this section,
+48 the commissioner may permit the secretary of the treasury of the United
+49 States or such secretary's delegate, or the authorized representative of
+50 either such officer, to inspect any return filed under this article, or
+51 may furnish to such officer or such officer's authorized representative
+52 an abstract of any such return or supply such person with information
+53 concerning an item contained in any such return, or disclosed by any
+54 investigation of liability under this article, but such permission shall
+55 be granted or such information furnished only if the laws of the United
+56 States grant substantially similar privileges to the commissioner or
+
+S. 1140--A 5
+1 officer of this state charged with the administration of the tax imposed
+2 by this article, and only if such information is to be used for purposes
+3 of tax administration only; and provided further the commissioner may
+4 furnish to the commissioner of internal revenue or such commissioner's
+5 authorized representative such returns filed under this article and
+6 other tax information, as such commissioner may consider proper, for use
+7 in court actions or proceedings under the internal revenue code, whether
+8 civil or criminal, where a written request therefor has been made to the
+9 commissioner by the secretary of the treasury of the United States or
+10 such secretary's delegate, provided the laws of the United States grant
+11 substantially similar powers to the secretary of the treasury of the
+12 United States or their delegate. Where the commissioner has so author-
+13 ized use of returns and other information in such actions or
+14 proceedings, officers and employees of the department may testify in
+15 such actions or proceedings in respect to such returns or other informa-
+16 tion.
+17 3. (a) Any officer or employee of the state who willfully violates the
+18 provisions of subdivision one of this section shall be dismissed from
+19 office and be incapable of holding any public office for a period of
+20 five years thereafter.
+21 (b) Cross-reference: For criminal penalties, see article thirty-seven
+22 of this chapter.
+23 4. (a) Notwithstanding the provisions of subdivision one of this
+24 section, upon written request from the chairperson of the committee on
+25 ways and means of the United States House of Representatives, the chair-
+26 person of the committee on finance of the United States Senate, or the
+27 chairperson of the joint committee on taxation of the United States
+28 Congress, the commissioner shall furnish such committee with any current
+29 or prior year returns specified in such request that were filed under
+30 this article by the president of the United States, vice-president of
+31 the United States, member of the United States Congress representing New
+32 York state, or any person who served in or was employed by the executive
+33 branch of the government of the United States on the executive staff of
+34 the president, in the executive office of the president, or in an acting
+35 or confirmed capacity in a position subject to confirmation by the
+36 United States Senate; or, in New York state: a statewide elected offi-
+37 cial, as defined in paragraph (a) of subdivision one of section seven-
+38 ty-three-a of the public officers law; a state officer or employee, as
+39 defined in subparagraph (i) of paragraph (c) of subdivision one of such
+40 section seventy-three-a; a political party chairperson, as defined in
+41 paragraph (h) of subdivision one of such section seventy-three-a; a
+42 local elected official, as defined in subdivisions one and two of
+43 section eight hundred ten of the general municipal law; a person
+44 appointed, pursuant to law, to serve due to vacancy or otherwise in the
+45 position of a local elected official, as defined in subdivisions one and
+46 two of section eight hundred ten of the general municipal law; a member
+47 of the state legislature; or a judge or justice of the unified court
+48 system; or filed by a partnership, firm, association, corporation,
+49 joint-stock company, trust or similar entity directly or indirectly
+50 controlled by any individual listed in this paragraph, whether by
+51 contract, through ownership or control of a majority interest in such
+52 entity, or otherwise, or filed by a partnership, firm, association,
+53 corporation, joint-stock company, trust or similar entity of which any
+54 individual listed in this paragraph holds ten percent or more of the
+55 voting securities of such entity; provided however that, prior to
+56 furnishing any return, the commissioner shall redact any copy of a
+
+S. 1140--A 6
+1 federal return (or portion thereof) attached to, or any information on a
+2 federal return that is reflected on, such return, and any social securi-
+3 ty numbers, account numbers and residential address information.
+4 (b) No returns shall be furnished pursuant to this subdivision unless
+5 the chairperson of the requesting committee certifies in writing that
+6 such returns have been requested related to, and in furtherance of, a
+7 legitimate task of the Congress, that the requesting committee has made
+8 a written request to the United States secretary of the treasury for
+9 related federal returns or reports or return or report information,
+10 pursuant to 26 U.S.C. Section 6103(f), and that if such requested
+11 returns are inspected by and/or submitted to another committee, to the
+12 United States House of Representatives, or to the United States Senate,
+13 then such inspection and/or submission shall occur in a manner consist-
+14 ent with federal law as informed by the requirements and procedures
+15 established in 26 U.S.C. Section 6103(f).
+16 § 289-n. Practice and procedure. The provisions of article twenty-sev-
+17 en of this chapter shall apply with respect to the administration of and
+18 procedure with respect to the tax imposed by this article in the same
+19 manner and with the same force and effect as if the language of such
+20 article twenty-seven had been incorporated in full into this article and
+21 had expressly referred to the surcharge imposed by this article, except
+22 to the extent that any such provision is either inconsistent with a
+23 provision of this article or is not relevant to this article.
+24 § 289-o. Deposit and disposition of revenue. All funds collected under
+25 this article shall be deposited into the environmental protection fund
+26 established by section ninety-two-s of the state finance law.
+27 § 2. This act shall take effect immediately.

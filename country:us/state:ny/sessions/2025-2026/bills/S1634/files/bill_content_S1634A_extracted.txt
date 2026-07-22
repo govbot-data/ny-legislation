@@ -1,0 +1,205 @@
+Title: 
+Official Title: 
+Source: versions - S1634A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1634--A
+2025-2026 Regular Sessions
+IN SENATE
+January 13, 2025
+___________
+Introduced by Sens. RIVERA, ADDABBO, BROUK, CLEARE, COMRIE, COONEY,
+FERNANDEZ, GONZALEZ, GOUNARDES, HINCHEY, JACKSON, MAY, MYRIE, RAMOS,
+C. RYAN, SALAZAR, SEPULVEDA, SERRANO, SUTTON, WEBB -- read twice and
+ordered printed, and when printed to be committed to the Committee on
+Health -- recommitted to the Committee on Health in accordance with
+Senate Rule 6, sec. 8 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the insurance law and the social services law, in
+relation to primary care investment
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The insurance law is amended by adding a new section 3217-k
+2 to read as follows:
+3 § 3217-k. Primary care spending. (a) Definitions. As used in this
+4 section, the following terms shall have the following meanings:
+5 (1) "Overall healthcare spending" means the total cost of care for the
+6 patient population of a payor or provider entity for a given calendar
+7 year, where cost is calculated for such year as the sum of (A) all
+8 claims-based spending paid to providers by public and private payors and
+9 (B) all non-claim payments for such year, including, but not limited to,
+10 incentive payments and care coordination payments.
+11 (2) "Plan or payor" means every insurance entity providing managed
+12 care products, individual comprehensive accident and health insurance or
+13 group or blanket comprehensive accident and health insurance, as defined
+14 in this chapter, corporation organized under article forty-three of this
+15 chapter providing comprehensive health insurance, entity licensed under
+16 article forty-four of this chapter providing comprehensive health insur-
+17 ance, every other plan over which the department has jurisdiction, and
+18 every third-party payor providing health coverage.
+19 (3) "Primary care" means integrated, accessible healthcare, provided
+20 by clinicians accountable for addressing most of a patient's healthcare
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04789-15-6
+
+S. 1634--A 2
+1 needs including (A) developing a sustained partnership with patients;
+2 (B) practicing in the context of family and community; and (C) coordi-
+3 nating patients' care, which for the purposes of this section shall only
+4 include care coordination efforts undertaken by the clinicians rendering
+5 healthcare services to a patient and shall not include separate care
+6 coordination activities undertaken by a payor.
+7 (4) "Primary care services" means services provided in an outpatient,
+8 non-emergency setting by or under the supervision of a physician, nurse
+9 practitioner, physician assistant, or midwife, who is practicing general
+10 primary care in the following fields, including as evidenced by billing
+11 and reporting codes: family practice; general pediatrics; primary care
+12 internal medicine; primary care obstetrics; or primary care gynecology.
+13 Behavioral or mental health and substance use disorder services are
+14 included in primary care services when integrated into a primary care
+15 setting, including when provided by a behavioral healthcare psychia-
+16 trist, social worker or psychologist. Primary care services shall not
+17 include inpatient services, emergency department services, ambulatory
+18 surgical center services, or services provided in an urgent care setting
+19 that are billed with non-primary care billing and reporting codes.
+20 (5) "Primary care spending" means any expenditure of funds made by
+21 third party payors, public entities, or the state, for the purpose of
+22 paying for primary care services directly or paying to improve the
+23 delivery of primary care. Primary care spending includes all payment
+24 methods, such as fee-for-service, capitation, incentives, value-based
+25 payments or other methodologies, and all non-claim payments including
+26 but not limited to incentive payments and care coordination payments.
+27 For payees that own and/or operate facilities, entities, or other
+28 providers, such as health systems or hospital systems, that provide
+29 other medical services in addition to primary care, only those funds
+30 that are separately documented as funds designated for primary care
+31 services shall be considered primary care spending. Any spending shall
+32 be adjusted appropriately to exclude any portion of the expenditure that
+33 is reasonably attributed to inpatient services or other non-primary care
+34 services.
+35 (b) Reporting. (1) Beginning on April first, two thousand twenty-sev-
+36 en, each plan or payor as defined in this section shall annually report
+37 to the department the percentage of the plan or payor's overall annual
+38 healthcare spending that constituted primary care spending.
+39 (2) Nothing herein shall require any plan or payor to report or
+40 publicly disclose any specific rates of reimbursement for any specific
+41 primary care services.
+42 (3) No plan or payor shall require any healthcare provider to provide
+43 additional data or information in order to fulfill this reporting
+44 requirement.
+45 (c) Regulation and publication. (1) The commissioner of health and the
+46 superintendent shall each promulgate consistent regulations to carry out
+47 the provisions of this section, including but not limited to setting
+48 deadlines for the reporting required in this section, and adopting
+49 further specific definitions of the primary care services for which
+50 costs must be reported under this section, including specific billing
+51 and reporting codes.
+52 (2) The department of health and the department shall together provide
+53 an annual report to the legislature with a summary of the primary care
+54 spending data required in this section, and shall also make the report
+55 publicly available on both agencies' websites, no later than three
+56 months after the data has been collected. The first annual report shall
+
+S. 1634--A 3
+1 provide the spending information without identifying any individual
+2 payor or plan's primary care spending. Each year thereafter, the report
+3 spending data shall be published including information specific to each
+4 plan or payor.
+5 (d) Primary care spending. (1) Beginning on April first, two thousand
+6 twenty-eight, each plan or payor that reports less than twelve and one-
+7 half percent of its total expenditures on physical and mental health is
+8 primary care spending, as defined by this section, shall additionally
+9 submit to the superintendent a plan to increase primary care spending as
+10 a percentage of its total overall healthcare spending by at least one
+11 percent each year. Beginning on April first, two thousand twenty-nine
+12 and on April first of every subsequent year after such plan has been
+13 submitted, and until such time as the plan or payor's reported primary
+14 care spending is equal to or more than twelve and one-half percent of
+15 that plan or payor's overall healthcare spending, the plan or payor's
+16 annual reporting shall include information regarding steps that have
+17 been taken to increase its proportion of primary care spending.
+18 (2) The commissioner of health and the superintendent may jointly
+19 issue guidelines or promulgate regulations regarding the areas on which
+20 primary care spending could be increased, including but not limited to:
+21 (A) reimbursement;
+22 (B) capacity-building, technical assistance and training;
+23 (C) upgrading technology, including electronic health record systems
+24 and telehealth capabilities;
+25 (D) incentive payments, including but not limited to per-member-per-
+26 month, value-based-payment arrangements, shared savings, quality-based
+27 payments, risk-based payments; and
+28 (E) transitioning to value-based-payment arrangements.
+29 (e) Limits on premium increases. Plans or payors shall adopt strate-
+30 gies that improve value and quality of care and shift current spending
+31 without increasing total medical expenditures. Spending shifts resulting
+32 from compliance with this section shall not result in higher premiums or
+33 cost-sharing requirements for insured individuals.
+34 § 2. The social services law is amended by adding a new section 368-g
+35 to read as follows:
+36 § 368-g. Primary care spending. 1. Definitions. As used in this
+37 section the terms "overall healthcare spending", "plan or payor",
+38 "primary care", "primary care services" and "primary care spending"
+39 shall have the same meanings as such terms are defined in section thir-
+40 ty-two hundred seventeen-k of the insurance law.
+41 2. Reporting. (a) Beginning on April first, two thousand twenty-seven,
+42 each Medicaid managed care provider under section three hundred sixty-
+43 four-j of this title and any payor that provides coverage through Medi-
+44 caid fee-for-service, as such term is defined in paragraph (e) of subdi-
+45 vision thirty-eight of section two of this chapter, shall annually
+46 report to the department the percentage of the provider's overall annual
+47 healthcare spending that constituted primary care spending.
+48 (b) Nothing herein shall require any Medicaid managed care provider to
+49 report or publicly disclose any specific rates of reimbursement for any
+50 specific primary care services.
+51 (c) No Medicaid managed care provider shall require any healthcare
+52 provider to provide additional data or information in order to fulfill
+53 this reporting requirement.
+54 3. Primary care spending. (a) Beginning on April first, two thousand
+55 twenty-eight, and in each subsequent year, each Medicaid managed care
+56 provider under section three hundred sixty-four-j of this title and any
+
+S. 1634--A 4
+1 payor that provides coverage through Medicaid fee-for-service, as such
+2 term is defined in paragraph (e) of subdivision thirty-eight of section
+3 two of this chapter, that reports less than twelve and one-half percent
+4 of its total expenditures on physical and mental health are on primary
+5 care spending shall additionally submit to the commissioner a plan to
+6 increase primary care spending as a percentage of its total overall
+7 healthcare spending by at least one percent each year. Beginning on
+8 April first, two thousand twenty-nine, and in each subsequent year ther-
+9 eafter, until twelve and one-half percent of that provider or payor's
+10 expenditures are on primary care spending, the payor or provider's annu-
+11 al reporting under this section shall include information on steps that
+12 have been taken to increase their proportion of primary care spending.
+13 (b) The commissioner and the superintendent of financial services may
+14 jointly issue guidelines or promulgate regulations regarding the areas
+15 on which spending could be increased, including but not limited to:
+16 (i) reimbursement;
+17 (ii) capacity-building, technical assistance and training;
+18 (iii) upgrading technology, including electronic health record systems
+19 and telehealth capabilities;
+20 (iv) incentive payments, including but not limited to per-member-per-
+21 month, value-based-payment arrangements, shared savings, quality-based
+22 payments, risk-based payments; and
+23 (v) transitioning to value-based-payment arrangements.
+24 (c) The provisions of this section are subject to compliance with all
+25 applicable federal and state laws and regulations, including the Centers
+26 for Medicare and Medicaid Services approved Medicaid state plan. To the
+27 extent required by federal law, the commissioner shall seek any federal
+28 approvals necessary to implement this section, including, but not limit-
+29 ed to, any state-directed payments, permissions, state plan amendments
+30 or federal waivers by the federal Centers for Medicare and Medicaid
+31 Services. The commissioner may also apply for appropriate waivers or
+32 state directed payments under federal law and regulation or take other
+33 actions to secure federal financial participation to assist in promoting
+34 the objectives of this section.
+35 4. Limits on cost increases. Plans or payors shall adopt strategies
+36 that improve value and quality of care and shift current spending with-
+37 out increasing total medical expenditures.
+38 § 3. This act shall take effect immediately.
