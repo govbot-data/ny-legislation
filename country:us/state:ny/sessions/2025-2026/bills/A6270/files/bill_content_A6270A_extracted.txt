@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - A6270A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6270--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 3, 2025
+___________
+Introduced by M. of A. CUNNINGHAM, SIMON -- read once and referred to
+the Committee on Energy -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the executive law, in relation to residential solar and
+energy storage permitting
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraphs i and j of subdivision 1 of section 381 of the
+2 executive law, paragraph i as amended and paragraph j as added by
+3 section 3 of part T of chapter 57 of the laws of 2023, are amended and a
+4 new paragraph k is added to read as follows:
+5 i. standards and procedures for measuring the rate of compliance with
+6 the state energy conservation construction code, and provisions requir-
+7 ing that such rate of compliance be measured on an annual basis; [and]
+8 j. procedures requiring the documentation of compliance with regu-
+9 lations adopted pursuant to section thirteen hundred seventy-seven of
+10 the public health law as a condition to issuance of a certificate of
+11 occupancy or certificate of compliance following a periodic fire safety
+12 and property maintenance inspection for multiple dwellings[.]; and
+13 k. (i) standards and procedures requiring:
+14 (A) any authority having jurisdiction over a population exceeding five
+15 thousand residents to adopt a residential automated solar permitting
+16 platform by June thirtieth, two thousand twenty-six. The authority
+17 having jurisdiction shall anticipate that the residential automated
+18 solar permitting platform will have the capability to process at least
+19 seventy-five percent of residential solar applications for existing
+20 construction submitted to authorities having jurisdiction in the state.
+21 (B) (1) authorities having jurisdiction to submit compliance reports
+22 to the department within sixty days of achieving compliance with clause
+23 (A) of this subparagraph, which shall include, but not be limited to:
+24 (I) the date of compliance;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06584-03-5
+
+A. 6270--A 2
+1 (II) the software or a combination of software used for compliance;
+2 (III) confirmation that the authority having jurisdiction is using a
+3 residential automated solar permitting platform to instantly issue
+4 permits and permit revisions for residential solar photovoltaic systems;
+5 and
+6 (IV) an explanation for why the authority having jurisdiction antic-
+7 ipates the residential automated solar permitting platform has the capa-
+8 bility to process at least seventy-five percent of the residential solar
+9 photovoltaic permit applications on existing construction submitted to
+10 authorities having jurisdiction in the state. This explanation may be
+11 based on, but is not necessarily limited to, statements from the soft-
+12 ware provider of the residential automated solar permitting platform.
+13 (2) The department may establish guidelines for the reports pursuant
+14 to item one of this clause.
+15 (3) The department may determine the accuracy of the authority having
+16 jurisdiction's report of compliance pursuant to clause one of this
+17 subparagraph. The department may also make such findings publicly avail-
+18 able and may take necessary actions to enforce compliance with clause
+19 (A) of this subparagraph based on such findings.
+20 (C) (1) authorities having jurisdiction to submit annual reports to
+21 the department on the usage of the residential automated solar permit-
+22 ting platform. Between April first, two thousand twenty-seven and April
+23 first, two thousand thirty-six, each authority having jurisdiction shall
+24 submit such reports annually by April first covering the previous calen-
+25 dar year. The department may establish guidelines for these reports.
+26 Such reports shall include the following:
+27 (I) the number of permits issued through the residential automated
+28 solar permitting platform and relevant characteristics of those systems;
+29 (II) the number of residential photovoltaic solar permits issued by
+30 means other than the residential automated solar permitting platform and
+31 relevant characteristics of those systems;
+32 (III) the software or combination of software used for compliance;
+33 (IV) confirmation that the authority having jurisdiction is using a
+34 residential automated solar permitting platform to issue permits
+35 instantly and issue permit revisions instantly for residential solar
+36 photovoltaic systems; and
+37 (V) a plan to increase usage of the residential automated solar
+38 permitting platform if fewer than seventy-five percent of residential
+39 solar photovoltaic permits are issued through the automated permitting
+40 platform on existing construction.
+41 (2) The department may determine the accuracy of the authority having
+42 jurisdiction's annual report pursuant to item one of this clause. The
+43 department may also make such findings publicly available and may take
+44 necessary actions, including but not limited to assessment of penalties,
+45 to enforce compliance with clause (A) of this subparagraph based on such
+46 findings.
+47 (D) authorities having jurisdiction over a population exceeding five
+48 thousand residents to provide an option for remote inspections via
+49 recorded video or photo that can be submitted electronically for
+50 projects permitted by the residential automated solar permitting plat-
+51 form. Such inspections shall be offered at no greater cost and with no
+52 greater delay than in-person inspections.
+53 (ii) An authority having jurisdiction that does not require a permit
+54 for residential photovoltaic solar systems is exempt from the require-
+55 ments of this paragraph.
+
+A. 6270--A 3
+1 (iii) As used in this paragraph, the following terms shall have the
+2 following meanings:
+3 (A) "Department" means the New York state energy research and develop-
+4 ment authority.
+5 (B) "Residential automated solar permitting platform" means software
+6 or a combination of software designed to automate plan review, generate
+7 code-compliant approvals, accept online payments for permitting fees, if
+8 applicable, and instantly issue permits and permit revisions for resi-
+9 dential photovoltaic systems upon online submission of a code-compliant
+10 application and payment of any required fees. Such platform shall be
+11 available for residential photovoltaic systems up to the maximum capaci-
+12 ty allowed with a two hundred amp main service disconnect, installed in
+13 accordance with the residential code of New York state, as updated, that
+14 may also include an energy storage system up to the maximum capacity
+15 allowed under the residential code of New York state, a main panel
+16 upgrade, and/or a main breaker derate.
+17 (C) "Authority having jurisdiction" shall refer to any city, town,
+18 village, county, or other governmental unit or agency responsible for
+19 the administration and enforcement of the uniform fire prevention and
+20 building code and the state energy conservation construction code, as
+21 defined in 19 NYCRR, section 1203.1, as updated.
+22 § 2. This act shall take effect immediately, provided, however, that
+23 the amendments to paragraphs i and j of subdivision 1 of section 381 of
+24 the executive law made by section one of this act shall take effect on
+25 the same date and in the same manner as section 3 of part T of chapter
+26 57 of the laws of 2023, takes effect.

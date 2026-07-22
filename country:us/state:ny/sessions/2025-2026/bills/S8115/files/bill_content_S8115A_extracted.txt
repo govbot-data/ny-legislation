@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - S8115A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8115--A
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sen. SANDERS -- read twice and ordered printed, and when
+printed to be committed to the Committee on Banks -- reported favora-
+bly from said committee and committed to the Committee on Internet and
+Technology -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to the use of automated
+lending decision-making tools to make lending decisions
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new section 103-a to
+2 read as follows:
+3 § 103-a. Use of automated lending decision-making tools to make lend-
+4 ing decisions. 1. For the purposes of this section, the following terms
+5 shall have the following meanings:
+6 (a) "Automated lending decision-making tool" means any software that
+7 uses algorithms, computational models, or artificial intelligence tech-
+8 niques, or a combination thereof, to materially automate or replace
+9 human decision-making regarding lending decisions that impact natural
+10 persons. "Automated lending decision-making tool" shall not include any
+11 software used primarily for basic computerized processes, such as calcu-
+12 lators, spellcheck tools, autocorrect functions, spreadsheets, electron-
+13 ic communications, or any tool that relates only to internal management
+14 affairs such as ordering office supplies or processing payments, and
+15 that do not materially impact any lending decisions relating to natural
+16 persons.
+17 (b) "Lending decision" means any determination made by a covered enti-
+18 ty or its agent, whether automated, manual or a combination thereof,
+19 that affects the approval, denial, offer, counteroffer, or modification
+20 of the terms or conditions of a loan or credit application, including
+21 decisions regarding creditworthiness, loan amounts, interest rates,
+22 collateral requirements, repayment, or any other material term, and any
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02503-03-5
+
+S. 8115--A 2
+1 determination that considers any factor that results or may result in
+2 "adverse action" as such term is defined in the federal Fair Credit
+3 Reporting Act 15 U.S.C. 1681a(k).
+4 (c) "Covered entity" means any banking organization, foreign banking
+5 corporation licensed by the superintendent to transact business in this
+6 state pursuant to article five of this chapter, interstate branch
+7 authorized by the superintendent to transact business in this state
+8 pursuant to article five-C of this chapter, and licensed lender. Covered
+9 entity shall not include any national bank, federal savings bank, feder-
+10 al savings and loan association, federal credit union, federal trust
+11 company or foreign banking corporation organized under the laws of the
+12 United States.
+13 (d) "Material change" means any modification to an automated lending
+14 decision-making tool which directly impacts the tool's outputs.
+15 2. No less than annually, each covered entity that uses automated
+16 lending decision-making tools shall conduct an impact assessment
+17 substantially completed and bearing the signature of one or more indi-
+18 viduals responsible for meaningful human review for the lawful applica-
+19 tion and use of such automated lending decision-making tools. An impact
+20 assessment shall be conducted prior to any material change to any auto-
+21 mated lending decision-making tool that may change the outcome or effect
+22 of such tool. An impact assessment final report summarizing the conclu-
+23 sions of the initial impact assessment shall be posted on such covered
+24 entity's website prior to the implementation and use of such automated
+25 lending decision-making tool and updated on the entity's website follow-
+26 ing each subsequent assessment. Such impact assessment final report
+27 shall include:
+28 (a) a description of the objectives of the automated lending deci-
+29 sion-making tool;
+30 (b) an evaluation of the ability of the automated lending decision-
+31 making tool to achieve its stated objectives;
+32 (c) a description and evaluation of the objectives and development of
+33 the automated lending decision-making tool including:
+34 (i) a summary of the underlying algorithms, computational modes, and
+35 artificial intelligence tools that are used within the automated lend-
+36 ing decision-making tool; and
+37 (ii) the design and training data used to develop the automated lend-
+38 ing decision-making tool process;
+39 (d) testing for:
+40 (i) accuracy, fairness, bias and discrimination, and an assessment of
+41 whether the use of the automated lending decision-making tool produces
+42 discriminatory results on the basis of a consumer's or a class of
+43 consumers' actual or perceived race, color, ethnicity, religion,
+44 national origin, sex, gender, gender identity, sexual orientation, fami-
+45 lial status, biometric information, lawful source of income, age, or
+46 disability and, outlines mitigations for any identified performance
+47 differences in outcomes across relevant groups impacted by such use;
+48 (ii) any cybersecurity vulnerabilities and privacy risks resulting
+49 from the deployment and use of the automated lending decision-making
+50 tool, and the development or existence of safeguards to mitigate the
+51 risks;
+52 (iii) any public health or safety risks resulting from the deployment
+53 and use of the automated lending decision-making tool; and
+54 (iv) any reasonably foreseeable misuse of the automated lending deci-
+55 sion-making tool and the development or existence of safeguards
+56 against such misuse;
+
+S. 8115--A 3
+1 (e) the extent to which the deployment and use of the automated lend-
+2 ing decision-making tool requires input of sensitive and personal
+3 data, how that data is used and stored, and any control users may
+4 have over their data; and
+5 (f) the notification mechanism or procedure, if any, by which individ-
+6 uals impacted by the utilization of the automated lending decision-mak-
+7 ing tool may be notified of the use of such automated lending decision-
+8 making tool and of the individual's personal data, and informed of
+9 their rights and options relating to such use.
+10 3. In addition to the powers conferred to the superintendent in subdi-
+11 vision six of this section, a covered entity shall retain the full
+12 impact assessment and summary for a period of seven years and shall,
+13 upon notice by the superintendent, provide such full assessment and
+14 summary to the department within seven days.
+15 4. Notwithstanding the provisions of this article or any other law, if
+16 an impact assessment finds that the automated lending decision-making
+17 tool produces discriminatory or biased outcomes, such covered entity
+18 shall, within thirty days of such findings, report such findings to the
+19 department. Upon such report being received by the department, the
+20 department shall direct such covered entity to cease any utilization,
+21 application, or function of such automated lending decision-making tool,
+22 and of any information produced using such tool.
+23 5. (a) Any covered entity that uses an automated lending decision-mak-
+24 ing tool to screen applicants for a loan shall notify each such appli-
+25 cant of the following:
+26 (i) That an automated lending decision-making tool will be used in
+27 connection with the assessment or evaluation of such applicant;
+28 (ii) The criteria that such automated lending decision-making tool
+29 will use in the assessment of such applicant;
+30 (iii) Information about the type of data collected for such automated
+31 lending decision-making tool, the source of such data, and the covered
+32 entity's data retention policy; and
+33 (iv) If an application for a loan is denied through use of the auto-
+34 mated lending decision-making tool, to the extent practicable, the
+35 reason for such denial.
+36 (b) The notice required by paragraph (a), with the exception of the
+37 information required in subparagraph (iv) of such paragraph, of this
+38 subdivision shall be made no less than twenty-four hours before the use
+39 of such automated lending decision-making tool. The notice required by
+40 subparagraph (iv) of such paragraph (a) shall be made within twenty-four
+41 hours after such denial.
+42 (c) If an application for a loan is denied based on personal informa-
+43 tion that is incorrect, the applicant, upon receipt of the notice
+44 required by subparagraph (iv) of paragraph (a) of this subdivision,
+45 shall have thirty days to correct such information and appeal such
+46 denial.
+47 6. The superintendent shall have the power to make such investigations
+48 as the superintendent deems necessary to determine whether any covered
+49 entity has violated any of the provisions of this section. To the extent
+50 necessary therefor, the superintendent may require the attendance of and
+51 examine any person under oath, and shall have the power to compel the
+52 production of all relevant books, records, accounts, and documents. The
+53 superintendent shall have the power to make such examinations of the
+54 books, records, accounts and documents used in the business of any
+55 covered entity as the superintendent deems necessary to determine wheth-
+56 er any such covered entity has violated any of the provisions of this
+
+S. 8115--A 4
+1 section, or to secure information lawfully required by the superinten-
+2 dent.
+3 7. Notwithstanding the provisions of subdivision two of this section,
+4 the superintendent may, upon a finding that a covered entity has
+5 deployed an automated lending decision-making tool which produced
+6 discriminatory or biased outcomes, require, in accordance with the rules
+7 and regulations promulgated by the superintendent, (a) additional annual
+8 reports, (b) annual reports with additional information, (c) a combina-
+9 tion of paragraphs (a) and (b) of this subdivision, and/or (d) that such
+10 covered entity provide any and all additional reports to the department
+11 directly.
+12 8. The provisions of this section shall be severable, and if any
+13 phrase, clause, sentence, or provision is declared to be invalid, or is
+14 preempted by federal law or regulation, the validity of the remainder of
+15 this section shall not be affected thereby. If any provision of this
+16 section, or its application to any person or circumstance, is held to be
+17 invalid or preempted by federal law, the remainder of this section and
+18 its application to other persons or circumstances shall not be affected
+19 and shall continue in full force and effect to the maximum extent
+20 permitted by law.
+21 § 2. This act shall take effect on the ninetieth day after it shall
+22 have become a law.

@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - A8675B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8675--B
+Cal. No. 216
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 27, 2025
+___________
+Introduced by M. of A. BRAUNSTEIN -- read once and referred to the
+Committee on Corporations, Authorities and Commissions -- reference
+changed to the Committee on Ways and Means -- reported and referred to
+the Committee on Rules -- ordered to a third reading -- amended on the
+special order of third reading, ordered reprinted as amended, retain-
+ing its place on the special order of third reading -- ordered to a
+third reading, amended and ordered reprinted, retaining its place on
+the order of third reading
+AN ACT to amend the penal law and the general business law, in relation
+to enacting the "prevention of damage to critical infrastructure act
+of 2026"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "prevention
+2 of damage to critical infrastructure act of 2026".
+3 § 2. Section 145.15 of the penal law, as amended by chapter 585 of the
+4 laws of 2006, is amended to read as follows:
+5 § 145.15 Criminal tampering in the second degree.
+6 1. For purposes of this section, a "critical infrastructure provider"
+7 shall mean a utility company as defined in subdivision twenty-three of
+8 section two of the public service law, an electric plant as defined in
+9 subdivision twelve of section two of the public service law, a cable
+10 television company as defined in subdivision one of section two hundred
+11 twelve of the public service law, an internet service provider as
+12 defined in paragraph (g) of subdivision one of section two hundred twen-
+13 ty-four-c of the public service law, a cellular telephone company, any
+14 other person or entity providing voice or data communications services
+15 to the public, regardless of its regulatory status under state or feder-
+16 al law, or a public utility authority subject to the provisions of arti-
+17 cle five of the public authorities law.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13225-04-6
+
+A. 8675--B 2
+1 2. A person is guilty of criminal tampering in the second degree when,
+2 having no right to do so nor any reasonable ground to believe that [he]
+3 such person has such right, [he or she] such person tampers with,
+4 damages or makes connection with property of a [gas, electric, sewer,
+5 steam or water-works corporation, telephone or telegraph corporation,
+6 common carrier, nuclear powered electric generating facility, or public
+7 utility operated by a municipality or district; except that in any pros-
+8 ecution under this section, it is an affirmative defense that the
+9 defendant did not engage in such conduct for a larcenous or otherwise
+10 unlawful or wrongful purpose] critical infrastructure provider.
+11 Criminal tampering in the second degree is a class A misdemeanor.
+12 § 3. Section 145.20 of the penal law, as amended by chapter 585 of the
+13 laws of 2006, is amended to read as follows:
+14 § 145.20 Criminal tampering in the first degree.
+15 1. For purposes of this section, a "critical infrastructure provider"
+16 shall mean a utility company as defined in subdivision twenty-three of
+17 section two of the public service law, an electric plant as defined in
+18 subdivision twelve of section two of the public service law, a cable
+19 television company as defined in subdivision one of section two hundred
+20 twelve of the public service law, an internet service provider as
+21 defined in paragraph (g) of subdivision one of section two hundred twen-
+22 ty-four-c of the public service law, a cellular telephone company, any
+23 other person or entity providing voice or data communications services
+24 to the public, regardless of its regulatory status under state or feder-
+25 al law, or a public utility authority subject to the provisions of arti-
+26 cle five of the public authorities law.
+27 2. A person is guilty of criminal tampering in the first degree when,
+28 with intent to cause a substantial interruption or impairment of a
+29 service rendered to the public, and having no right to do so nor any
+30 reasonable ground to believe that [he or she] such person has such
+31 right, [he or she] such person damages or tampers with property of a
+32 [gas, electric, sewer, steam or water-works corporation, telephone or
+33 telegraph corporation, common carrier, nuclear powered electric generat-
+34 ing facility, or public utility operated by a municipality or district]
+35 critical infrastructure provider, and thereby causes such substantial
+36 interruption or impairment of service.
+37 Criminal tampering in the first degree is a class D felony.
+38 § 4. Section 62 of the general business law, as amended by chapter 302
+39 of the laws of 2007, is amended to read as follows:
+40 § 62. Statement required from persons selling certain property. 1. On
+41 purchasing any pig or pigs of metal, bronze or brass castings or parts
+42 thereof, sprues or gates or parts thereof, copper wire, tubing or cable,
+43 or brass car journals, or metal beer kegs, such junk dealer shall:
+44 (a) cause to be subscribed by the person from whom purchased a state-
+45 ment [as to] setting forth: (i) the date of the purchase, (ii) when,
+46 where and from whom [he or she] such person obtained such property or
+47 other proof of authorization to sell such items, [also his or her] (iii)
+48 such person's identity as verified by a government issued identification
+49 card, (iv) such person's age, residence address by city, village or
+50 town, and the street and number thereof, if any, (v) the driver's
+51 license number or similar information from another form of a government
+52 issued photographic identification card, if any, of such person, and
+53 [otherwise such description as will reasonably locate the same, his or
+54 her] (vi) such person's occupation and name of [his or her] such
+55 person's employer and place of employment or business[, which statement
+56 the junk dealer shall];
+
+A. 8675--B 3
+1 (b) forthwith file such statement in the office of the chief of police
+2 of the city or village in which the purchase was made, if made in a city
+3 or incorporated village, and otherwise in the office of the sheriff of
+4 the county in which made[. The junk metal dealer shall also]; and
+5 (c) make and retain a copy of the government issued photographic iden-
+6 tification card used to verify the identity of the person from whom the
+7 junk metal was purchased and shall retain this copy in a separate book
+8 or register for two years from the date of purchase of the junk metal
+9 and include an additional copy of this identification with the informa-
+10 tion required to be transmitted to the chief of police or sheriff pursu-
+11 ant to this section.
+12 2. For the purposes of this section, "government issued identifica-
+13 tion" means any current and valid official form of identification issued
+14 by the government of the United States of America, a state, territory,
+15 protectorate, or dependency of the United States of America, a county,
+16 municipality or subdivision thereof, any public agency or department
+17 thereof, or any public employer, which requires and bears the signature
+18 and photograph of the person to whom it is issued.
+19 § 5. The general business law is amended by adding a new section 63-b
+20 to read as follows:
+21 § 63-b. Prohibition on sale of certain items. 1. Notwithstanding any
+22 provision of law, rule or regulation to the contrary, it shall be unlaw-
+23 ful to sell, offer for sale, or purchase as junk, metal that: (a) is
+24 marked with the name, logo, or initials of a critical infrastructure
+25 provider, as such term is defined in subdivision three of this section;
+26 (b) has been altered for the purpose of removing, concealing, or oblit-
+27 erating such name, logo, or initials through burning or cutting of wire
+28 sheathing or other means; or (c) is a wire or cable of a type commonly
+29 used by communications and electrical utilities.
+30 2. This section shall not apply to the sale, offer for sale, or
+31 purchase as junk, of such items by a duly authorized employee or repre-
+32 sentative of a critical infrastructure provider acting in their official
+33 capacity.
+34 3. For purposes of this section, a "critical infrastructure provider"
+35 shall mean a utility company as defined in subdivision twenty-three of
+36 section two of the public service law, an electric plant as defined in
+37 subdivision twelve of section two of the public service law, a cable
+38 television company as defined in subdivision one of section two hundred
+39 twelve of the public service law, an internet service provider as
+40 defined in paragraph (g) of subdivision one of section two hundred twen-
+41 ty-four-c of the public service law, a cellular telephone company, any
+42 other person or entity providing voice or data communications services
+43 to the public, regardless of its regulatory status under state or feder-
+44 al law, or a public utility authority subject to the provisions of arti-
+45 cle five of the public authorities law.
+46 § 6. Section 64 of the general business law is amended to read as
+47 follows:
+48 § 64. Penalty. Each violation of this article, either by the junk
+49 dealer, the agent or servant thereof, and each false statement made in
+50 or on any statement or tag above mentioned shall be a misdemeanor [and].
+51 Whenever a junk dealer commits a misdemeanor under this article, the
+52 person convicted shall, in addition to other penalties imposed, forfeit
+53 [his] their license to do business. [But nothing herein contained shall
+54 apply to cities of the first class.]
+55 § 7. Section 69-e of the general business law, as added by chapter 431
+56 of the laws of 1976, is amended to read as follows:
+
+A. 8675--B 4
+1 § 69-e. Definitions. For the purposes of this article:
+2 1. "Scrap metal processing facility" shall mean an establishment
+3 engaged primarily in the purchase, processing and shipment of ferrous
+4 and/or non-ferrous scrap, the end product of which is the production of
+5 raw material for remelting purposes for steel mills, [foundaries] found-
+6 ries, smelters, refiners, and similar users.
+7 2. "Scrap processor" shall mean any person, association, partnership
+8 or corporation operating and maintaining a "scrap metal processing
+9 facility".
+10 3. "Government issued identification" means any current and valid
+11 official form of identification issued by the government of the United
+12 States of America, a state, territory, protectorate, or dependency of
+13 the United States of America, a county, municipality or subdivision
+14 thereof, any public agency or department thereof, or any public employ-
+15 er, which requires and bears the signature and photograph of the person
+16 to whom it is issued.
+17 § 8. Section 69-g of the general business law, as amended by chapter
+18 302 of the laws of 2007, is amended to read as follows:
+19 § 69-g. Records. 1. Such scrap processor shall record (i) each
+20 purchase of any pig or pigs of metal, bronze or brass castings or parts
+21 thereof, sprues or gates or parts thereof, [utility] copper wire, cable
+22 or tubing or brass car journals, or of metal beer kegs, and (ii) each
+23 purchase of iron, steel and/or nonferrous scrap for a price of fifty
+24 dollars or more, and preserve such record for a period of three years[;
+25 which record shall show the date of purchase, name of seller, his].
+26 2. The record required by subdivision one of this section shall
+27 include a statement subscribed by the seller setting forth (i) the date
+28 of the purchase and the type and quantity of material purchased, (ii)
+29 when, where, and from whom the seller obtained such property, or other
+30 proof of authorization to sell such items, (iii) the seller's identity
+31 as verified by a government issued identification card, (iv) the sell-
+32 er's residence address by street, number, city, village or town, and (v)
+33 the driver's license number or similar information from another form of
+34 a government issued [photographic] identification card, if any, of such
+35 person[, or by such description as will reasonably locate the seller,
+36 the type and quantity of such purchase; and the scrap processor shall
+37 cause such record to be signed by the seller or his agent. It shall be
+38 unlawful for any seller to refuse to furnish such information or to
+39 furnish incorrect or incomplete information].
+40 3. Such scrap processor shall also make and retain a copy of the
+41 government issued photographic identification card used to verify the
+42 identity of the person from whom the scrap metal was purchased and shall
+43 retain this copy in a separate book, register or electronic archive for
+44 two years from the date of purchase.
+45 [2.] 4. Such records shall be available for inspection by the police
+46 department of the state or the municipality in which the establishment
+47 is located.
+48 § 9. Section 69-h of the general business law, as added by chapter 431
+49 of the laws of 1976, is renumbered section 69-i and is amended to read
+50 as follows:
+51 § 69-i. Penalty. 1. Each violation of this article by a scrap process-
+52 or shall be a violation subject to a fine of not more than two hundred
+53 dollars, unless such violation shall be wilful, in which event it shall
+54 be a misdemeanor except, however, the scrap processor shall not be
+55 liable for any violation of this article by a seller, [his] their agent,
+56 or a purported seller or agent.
+
+A. 8675--B 5
+1 2. [Each violation of this article by a seller or his agent shall be
+2 a] Whenever a scrap processor commits a misdemeanor under this article,
+3 the person convicted shall, in addition to other penalties imposed,
+4 forfeit their license to do business.
+5 § 10. The general business law is amended by adding a new section 69-h
+6 to read as follows:
+7 § 69-h. Prohibition on sale of certain items. 1. Notwithstanding any
+8 provision of law, rule or regulation to the contrary, it shall be unlaw-
+9 ful to sell, offer for sale, or purchase as scrap, metal that: (i) is
+10 marked with the name, logo, or initials of a critical infrastructure
+11 provider, as such term is defined in subdivision one of section 145.15
+12 of the penal law; (ii) has been altered for the purpose of removing,
+13 concealing, or obliterating such name, logo, or initials through burning
+14 or cutting of wire sheathing or other means; or (iii) is a wire or cable
+15 of a type commonly used by critical infrastructure providers.
+16 2. This section shall not apply to the sale, offer for sale, or
+17 purchase as scrap, of such items by a duly authorized employee or repre-
+18 sentative of a critical infrastructure provider acting in their official
+19 capacity.
+20 § 11. This act shall take effect on the ninetieth day after it shall
+21 have become a law.

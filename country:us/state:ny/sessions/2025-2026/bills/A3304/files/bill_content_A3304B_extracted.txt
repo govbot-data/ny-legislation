@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - A3304B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3304--B
+Cal. No. 231
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 27, 2025
+___________
+Introduced by M. of A. TAPIA, SAYEGH -- read once and referred to the
+Committee on Banks -- recommitted to the Committee on Banks in accord-
+ance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- reported from committee, advanced to a third reading, amended
+and ordered reprinted, retaining its place on the order of third read-
+ing
+AN ACT to amend the banking law, in relation to prohibiting fees for
+electronic benefit transfer services
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new section 9-aa to
+2 read as follows:
+3 § 9-aa. Electronic benefit transfer services. 1. As used in this
+4 section:
+5 (a) "electronic benefit transfer services" means any service relating
+6 to the use of an electronic benefit transfer card including deposit,
+7 withdrawal, disbursement via electronic fund transfer, checks, or other
+8 mechanisms; reconciliation; reporting; or electronic cash management for
+9 benefit programs; and
+10 (b) "electronic benefit transfer card" means any card or device issued
+11 in connection with the electronic benefit transfer system established in
+12 section twenty-one-a of the social services law that allows individuals
+13 to access public assistance or benefit funds including:
+14 (i) any medical assistance card, food stamp assistance card, public
+15 assistance card, or any other identification, authorization card or
+16 electronic access device issued by the state or a social services
+17 district as defined in subdivision seven of section two of the social
+18 services law which entitles a person to obtain public assistance bene-
+19 fits under a local, state or federal program administered by the state,
+20 its political subdivisions or social services districts; or
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07254-04-6
+
+A. 3304--B 2
+1 (ii) any unemployment insurance program card, occupational training
+2 act program card, adoption subsidy electronic payments program card, or
+3 card issued by the New York child support program which entitles a
+4 person to receive funds under a local, state or federal program adminis-
+5 tered by the state, its political subdivisions or social services
+6 districts.
+7 2. No banking organization, out-of-state state bank that opens, occu-
+8 pies or maintains a branch in this state pursuant to article five-C of
+9 this chapter, or foreign banking corporation licensed by the superinten-
+10 dent to transact business in this state shall impose any fee or
+11 surcharge on a consumer, cardholder or benefit recipient for electronic
+12 benefit transfer services attributable to the use of an electronic bene-
+13 fit transfer card.
+14 3. No operator or owner of an automated teller machine as defined in
+15 section seventy-five-b of this chapter shall impose any fee or surcharge
+16 on a consumer, cardholder or benefit recipient for electronic benefit
+17 transfer services attributable to the use of an electronic benefit
+18 transfer card.
+19 4. Nothing in this section shall be construed to prohibit or restrict
+20 the assessment, payment, or receipt of interchange fees, processing
+21 fees, switch fees, settlement fees, and network connectivity fees or
+22 other fees assessed or paid between financial institutions, payment card
+23 networks, processors, or program administrators in connection with tran-
+24 sactions made using an electronic benefit transfer card.
+25 5. (a) Nothing in this section shall apply to any national bank,
+26 federal savings bank, federal savings and loan association, federal
+27 credit union, or any entity chartered or licensed by the United States,
+28 including any automated teller machine owned or operated by any such
+29 entity.
+30 (b) If any provision of this section or the application thereof to any
+31 person or circumstances is held to be invalid, such invalidity shall not
+32 affect other provisions or applications of this section which can be
+33 given effect without the invalid provision or application, and to this
+34 end the provisions of this section are severable.
+35 6. The superintendent, in consultation with the office of temporary
+36 and disability assistance, may promulgate such rules and regulations as
+37 are necessary to implement the provisions of this section.
+38 § 2. This act shall take effect on the one hundred eightieth day after
+39 it shall have become a law and shall apply to any contract for electron-
+40 ic benefit transfer services as defined in section 9-aa of the banking
+41 law, as added by section one of this act, entered into on or after such
+42 effective date between the state, or any agency, subdivision or depart-
+43 ment thereof, and any entity subject to the New York state banking law,
+44 general business law, or financial services law.

@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - A5442B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5442--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 14, 2025
+___________
+Introduced by M. of A. MAMDANI, FORREST, LEVENBERG, SHRESTHA, K. BROWN,
+VALDEZ, McDONOUGH -- read once and referred to the Committee on Energy
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee -- again reported from said commit-
+tee with amendments, ordered reprinted as amended and recommitted to
+said committee
+AN ACT to amend the public service law, in relation to enacting the
+"rate hike notice act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "rate hike notice act".
+3 § 2. Subdivision 12 of section 66 of the public service law is amended
+4 by adding a new paragraph (m) to read as follows:
+5 (m) Within one business day of the publication of the information
+6 required pursuant to subparagraph (i) of paragraph (l) of this subdivi-
+7 sion, the commission shall require each utility to send electronic
+8 notice of a proposed rate increase via text to all customers for whom
+9 such utility contacts through text provided that such customers have
+10 been provided an option to opt-out of such contact. The text shall
+11 inform such customer that such utility is proposing a rate increase in
+12 the customer's service area. Such text shall contain the following:
+13 (i) the name of the utility proposing a rate increase;
+14 (ii) the percentage increase to electricity and gas rates for the
+15 typical residential customer;
+16 (iii) the percentage increase to electricity and gas rates for the
+17 typical commercial customer;
+18 (iv) instructions for where ratepayers can find additional information
+19 pertaining to the rate case; and
+20 (v) clarification that this rate increase will not take effect until
+21 approved or modified by the commission. Further, within one business
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04975-06-5
+
+A. 5442--B 2
+1 day of the publication of the information required pursuant to subpara-
+2 graph (i) of paragraph (l) of this subdivision, the commission shall
+3 also require each utility to send electronic notice of a proposed rate
+4 increase via email to all customers for whom such utility contacts
+5 through email, provided that such customers have been provided an option
+6 to opt-out of such contact, and such email notice shall include informa-
+7 tion identical to the information provided on the commission's website
+8 pursuant to paragraph (l) of this subdivision. In addition, each utility
+9 shall include a notice of a proposed rate increase in each customer's
+10 next monthly bill statement and such notice in the monthly billing
+11 statement shall consist of a separate page which shall include informa-
+12 tion identical to the information provided on the commission's website
+13 pursuant to paragraph (l) of this subdivision.
+14 § 3. This act shall take effect on the sixtieth day after it shall
+15 have become a law; provided, however, it shall not apply to any proceed-
+16 ing before the Public Service Commission relating to a major change in
+17 rates that was commenced prior to the effective date. Effective imme-
+18 diately, the addition, amendment and/or repeal of any rule or regulation
+19 necessary for the implementation of this act on its effective date are
+20 authorized to be made and completed on or before such effective date.

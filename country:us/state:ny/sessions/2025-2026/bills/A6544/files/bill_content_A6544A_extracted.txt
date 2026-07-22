@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - A6544A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6544--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 6, 2025
+___________
+Introduced by M. of A. BORES -- read once and referred to the Committee
+on Consumer Affairs and Protection -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general business law, in relation to requiring
+delivery businesses to factor compliance with certain vehicle and
+traffic laws when assigning workers to deliver items
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "Consider
+2 Safety Act".
+3 § 2. The general business law is amended by adding a new section 391-x
+4 to read as follows:
+5 § 391-x. Delivery service companies; assignment of workers to deliver
+6 items. 1. For the purposes of this section, the following terms shall
+7 have the following meanings:
+8 (a) "Third-party food delivery service" shall have the same meaning as
+9 in section three hundred ninety-one-v of this article.
+10 (b) "Worker" shall mean a natural person who is hired or retained as
+11 an independent contractor by a delivery business to make deliveries in
+12 exchange for compensation, when such deliveries involve the operation by
+13 such worker of a limited use motorcycle or bicycle with or without elec-
+14 tric assist.
+15 (c) "Delivery routes" shall mean work involving the same-day delivery
+16 or same-day pickup of food and beverage from a food service establish-
+17 ment located in the state.
+18 (d) "Delivery route assignment algorithm" shall mean the method by
+19 which third-party food delivery services assign delivery routes.
+20 2. A third-party food delivery service shall ensure that, when assign-
+21 ing delivery routes to workers involving the operation by a worker of a
+22 bicycle with or without electric assist, such assignments of delivery
+23 routes shall consider the worker's history of compliance with the
+24 following provisions of law, if data that allows the third-party food
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00028-07-5
+
+A. 6544--A 2
+1 delivery service to determine compliance with such provisions are
+2 collected by the third-party food delivery service:
+3 (a) Section eleven hundred twenty of the vehicle and traffic law,
+4 related to driving on the right side of a roadway;
+5 (b) Section eleven hundred twenty-seven of the vehicle and traffic
+6 law, related to driving on a one-way roadway;
+7 (c) Section eleven hundred eighty of the vehicle and traffic law,
+8 related to compliance with applicable speed limits;
+9 (d) Section twelve hundred twenty-five-a of the vehicle and traffic
+10 law, related to driving on or across a sidewalk; and
+11 (e) Section eleven hundred eleven of the vehicle and traffic law,
+12 related to obeying red light traffic signals.
+13 3. In any delivery route assignment algorithm that assigns delivery
+14 routes to workers involving the operation by a worker of a bicycle with
+15 or without electric assist, the worker's compliance with the provisions
+16 of the vehicle and traffic laws cited in subdivision two of this section
+17 shall be weighted at least as much as the combined weight of all factors
+18 pertaining to speed and efficiency. In the event that there are more
+19 workers available to make deliveries than pending deliveries that need
+20 to be made, a third-party food delivery service shall make a good faith
+21 effort to assign deliveries to workers with a higher rate of compliance
+22 with the vehicle and traffic laws cited in subdivision two of this
+23 section.
+24 4. Third-party food delivery services that do not already collect data
+25 on a worker's compliance with the vehicle and traffic laws cited in
+26 subdivision two of this section in the ordinary course of business shall
+27 not be required to begin collecting such data to comply with this
+28 section; provided, however, that if data on a worker's compliance with
+29 the vehicle and traffic laws cited in subdivision two of this section is
+30 collected by the third-party food delivery service or was being
+31 collected by the third-party food delivery service as of the effective
+32 date of this section, then the delivery business shall be subject to the
+33 provisions of subdivisions two and three of this section even if such
+34 data was not being factored into any delivery route assignment algo-
+35 rithms prior to the effective date of this section.
+36 For the purposes of this section, third-party food delivery services
+37 shall, with respect to the state of New York and any counties, cities,
+38 towns and villages within the state where such services operate, be
+39 required to collect and utilize the following data for the purpose of
+40 effectuating this section: (a) publicly available data noting a maximum
+41 speed limit on a given roadway; and (b) whether a given roadway is
+42 designated or signposted for one-way traffic.
+43 5. The attorney general may bring a civil action against any delivery
+44 business that is in violation of this section to: (a) enjoin the
+45 violation; and (b) recover a civil penalty of up to one thousand dollars
+46 per route assigned per day of non-compliance.
+47 6. No data collected pursuant to this section shall be disclosed or
+48 otherwise made accessible except:
+49 (a) to the worker who is the subject of such data;
+50 (b) if necessary to comply with a lawful court order, warrant, or
+51 federal law; or
+52 (c) to the attorney general for the purpose of determining compliance
+53 with this section.
+54 § 3. This act shall take effect on the one hundred eightieth day after
+55 it shall have become a law.

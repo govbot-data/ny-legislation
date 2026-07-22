@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - A70A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+70--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. R. CARROLL, GONZALEZ-ROJAS, LEVENBERG, DAVILA --
+read once and referred to the Committee on Consumer Affairs and
+Protection -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to requiring
+third-party food delivery services maintain insurance through a group
+policy that covers bodily injury or death arising out of or resulting
+from qualifying accidents involving a delivery person
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraph (d) of subdivision 1 of section 391-v of the
+2 general business law, as added by chapter 693 of the laws of 2021, is
+3 amended and three new paragraphs (e), (f), and (g) are added to read as
+4 follows:
+5 (d) "Third-party food delivery platform" means the online or mobile
+6 platform of the third-party food delivery service on which a consumer
+7 can view products available for sale and place an order for a food
+8 service establishment's products or on which a delivery driver can
+9 accept and facilitate orders.
+10 (e) "Delivery driver" means any individual who conveys products from a
+11 food service establishment to a consumer on behalf of a third-party food
+12 delivery service. For the purposes of this paragraph, multiple delivery
+13 drivers who share one account with a third-party food delivery service
+14 shall each qualify as a delivery driver.
+15 (f) "Qualifying accident" means a vehicular accident involving a
+16 delivery driver that occurs while the delivery driver is logged into a
+17 third-party food delivery platform and conveying products from a food
+18 service establishment to a consumer on behalf of a third-party food
+19 delivery service.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00494-05-5
+
+A. 70--A 2
+1 (g) "Qualifying vehicle" means any two or three-wheeled vehicle, other
+2 than a motor vehicle or motorcycle that carries its own liability insur-
+3 ance per the requirements of article six of the vehicle and traffic law,
+4 at the time of the qualifying accident.
+5 § 2. Section 391-v of the general business law is amended by adding a
+6 new subdivision 3 to read as follows:
+7 3. Each third-party food delivery service shall maintain insurance
+8 through a group policy that covers bodily injury or death arising out of
+9 or resulting from qualifying accidents involving a delivery person
+10 subject to the following provisions:
+11 (a) Benefits shall be limited to only those qualifying accidents
+12 involving delivery persons who are operating a qualifying vehicle.
+13 (b) Benefits shall be limited to payments for basic economic losses up
+14 to fifty thousand dollars per person. For the purpose of determining
+15 basic economic loss, qualifying expenses shall be determined in accord-
+16 ance with the definitions and limitations of section five thousand one
+17 hundred two of the insurance law.
+18 (c) The policy of liability insurance maintained by the third-party
+19 food delivery service in accordance with this section shall provide for
+20 the payment of benefits for qualifying accidents to all persons, other
+21 than those explicitly excluded in this subdivision, for loss arising out
+22 of the use or operation of a qualifying vehicle by a delivery driver in
+23 New York. Persons eligible for benefits shall include, but are not
+24 limited to: (i) delivery drivers; (ii) pedestrians; and (iii) cyclists
+25 who are not delivery drivers who experience basic economic loss in
+26 accordance with the provisions of paragraph (b) of this subdivision.
+27 Persons shall be eligible for benefits irrespective of state residency
+28 or citizenship status so long as the qualifying accident occurs in New
+29 York. The payment of benefits shall be awarded irrespective of who was
+30 at fault, liable, or responsible for the qualifying accident. Occupants
+31 of a motor vehicle and occupants of a motorcycle that carries its own
+32 liability insurance per the requirements of article six of the vehicle
+33 and traffic law shall not be eligible for benefits.
+34 (d) An insurer may exclude from coverage required by this section the
+35 following individuals:
+36 (i) a delivery driver who intentionally causes their own injury or who
+37 is injured as a result of exhibiting dangerous conduct while in an
+38 intoxicated condition or while impaired by the use of a drug, or
+39 (ii) any other person who intentionally causes their own injury or who
+40 is injured as a result of exhibiting dangerous conduct while in an
+41 intoxicated condition or while impaired by the use of a drug.
+42 (e) Insurance maintained by any third-party food delivery service to
+43 satisfy the requirements of this section shall be offered without a
+44 deductible, and the expenses associated with maintaining such insurance
+45 may not be passed on to consumers using the third-party delivery plat-
+46 form in political subdivisions where delivery drivers are not conveying
+47 products using qualifying vehicles. A third-party food delivery service
+48 may maintain insurance to satisfy the requirements of this section
+49 through a third-party insurer, so long as the requirements of this
+50 section are met. The insurance policy must be written by an insurer
+51 licensed to write insurance in this state or procured by a duly licensed
+52 excess line broker pursuant to section two thousand one hundred eighteen
+53 of the insurance law, provided that the obligation to determine whether
+54 the insurance required by this section is unavailable from insurers
+55 authorized to write insurance in this state shall be made prior to the
+56 initial placement and at each renewal of a policy.
+
+A. 70--A 3
+1 (f) Insurance offered by any third-party food delivery service to
+2 satisfy the requirements of this section shall be primary over other
+3 applicable insurance policies that would otherwise cover the basic
+4 economic losses defined in this section.
+5 (g) A delivery driver shall receive benefits in accordance with this
+6 section irrespective of the delivery driver's immigration status or
+7 status as an independent contractor. A delivery driver interfacing with
+8 a third-party food delivery service at the time of a qualifying accident
+9 shall receive benefits in accordance with this section irrespective of
+10 whether the delivery driver's vehicle is in compliance with federal,
+11 state, or local requirements, including registration requirements.
+12 (h) (i) The third-party food delivery service and platform shall not
+13 take any adverse action against a delivery driver, including but not
+14 limited to deactivation, reduction of work hours or offers or orders, or
+15 any form of discipline, against any delivery driver for exercising their
+16 right to request that the company pay for an insurance policy and take
+17 responsibility for accidents that can be reasonably proven to have
+18 occurred while the worker was conveying products from a food service
+19 establishment to a consumer on behalf of the third-party food delivery
+20 service or platform.
+21 (ii) If a delivery driver is deactivated following the filing of a
+22 claim or receipt of benefits, the third-party food delivery service or
+23 platform must provide a written explanation detailing the reasons for
+24 deactivation, supported by clear and documented evidence.
+25 (iii) In any case where a delivery driver is deactivated as a result
+26 of filing for the company to pay for the personal insurance claim under
+27 the insurance policy, the worker shall be reinstated immediately upon
+28 confirmation that the deactivation was linked to the claim filing.
+29 § 3. This act shall take effect on the one hundred eightieth day after
+30 it shall have become a law.

@@ -1,0 +1,400 @@
+Title: 
+Official Title: 
+Source: versions - A2565A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2565--A
+Cal. No. 92
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 17, 2025
+___________
+Introduced by M. of A. DINOWITZ, ROSENTHAL, STECK, WALKER, WEPRIN,
+VANEL, KELLES, OTIS, LUNSFORD, ALVAREZ, COLTON, SEAWRIGHT, SHIMSKY,
+HEVESI -- Multi-Sponsored by -- M. of A. COOK, DAVILA, GLICK, RAMOS,
+ROZIC, SIMON -- read once and referred to the Committee on Codes --
+ordered to a third reading, amended and ordered reprinted, retaining
+its place on the order of third reading
+AN ACT to amend the criminal procedure law, in relation to establishing
+the New York electronic communications privacy act ("NYECPA")
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The criminal procedure law is amended by adding a new arti-
+2 cle 695 to read as follows:
+3 ARTICLE 695
+4 SEARCH AND SEIZURE OF ELECTRONIC DEVICES AND ELECTRONIC
+5 COMMUNICATIONS
+6 Section 695.05 Search and seizure of electronic devices and electronic
+7 communications; definitions.
+8 695.10 Search and seizure of electronic devices and electronic
+9 communications; in general.
+10 695.15 Search and seizure of electronic devices and electronic
+11 communications; in an emergency.
+12 695.20 Search and seizure of electronic devices and electronic
+13 communications; when evidence can be suppressed.
+14 695.25 Search and seizure of electronic devices and electronic
+15 communications; annual report.
+16 § 695.05 Search and seizure of electronic devices and electronic commu-
+17 nications; definitions.
+18 As used in this article, the following definitions shall apply:
+19 1. "Adverse result" means any of the following:
+20 (a) danger to the life or physical safety of an individual;
+21 (b) flight from prosecution;
+22 (c) destruction of or tampering with evidence;
+23 (d) intimidation of potential witnesses; or
+24 (e) serious jeopardy to an investigation.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04537-02-6
+
+A. 2565--A 2
+1 2. "Authorized possessor" means the person in possession of an elec-
+2 tronic device when that person is the owner of the device or has been
+3 authorized to possess the device by the owner of the device.
+4 3. "Electronic communication" means the transmission of signs,
+5 signals, writings, images, sounds, data, or intelligence of any nature
+6 in whole or in part by a wire, radio, electromagnetic, photoelectric, or
+7 photo-optical system.
+8 4. "Electronic communication information" means information related to
+9 an electronic communication or the use of an electronic communication
+10 service including, but not limited to the contents, sender, recipients,
+11 or format of an electronic communication; the precise or approximate
+12 location of the sender or recipients of an electronic communication at
+13 any time during such communication; the time or date such communication
+14 was created, sent, or received and information pertaining to an individ-
+15 ual or device involved in the communication including but not limited to
+16 an internet protocol address. Electronic communication information does
+17 not include subscriber information as defined in this article and does
+18 not include information in the public domain.
+19 5. "Electronic communication service" means a service that provides
+20 subscribers to or users of such service the ability to send or receive
+21 an electronic communication as defined in this article, including a
+22 service that acts as an intermediary in the transmission of electronic
+23 communications, or that stores electronic communication information.
+24 6. "Electronic device" means a device that stores, generates, or tran-
+25 smits information in electronic form.
+26 7. "Electronic device information" means information stored in or
+27 generated through the operation of an electronic device, including
+28 information related to the location of such device at any time.
+29 8. "Electronic information" means electronic communication information
+30 or electronic device information.
+31 9. "Law enforcement agency" means any agency which is empowered by law
+32 to conduct an investigation or to make an arrest for an offense under
+33 the penal law, and an agency which is authorized by law to prosecute or
+34 participate in the prosecution of an offense under the penal law.
+35 10. "Law enforcement officer" means any public servant who is
+36 empowered by law to conduct an investigation of or to make an arrest for
+37 an offense under the penal law, and any attorney authorized by law to
+38 prosecute or participate in the prosecution of an offense under the
+39 penal law.
+40 11. "Location information" means information regarding the general or
+41 specific location of an electronic device.
+42 12. "Service provider" means a person or entity that provides an elec-
+43 tronic communication service.
+44 13. "Specific consent" means consent provided directly to a law
+45 enforcement agency or law enforcement officer seeking information
+46 regarding an electronic communication, including but not limited to
+47 circumstances in which a law enforcement agency or law enforcement offi-
+48 cer is the addressee or intended recipient or a member of the intended
+49 audience for such communication.
+50 14. "Subscriber information" means the name, street address, telephone
+51 number, email address, or similar contact information provided by a
+52 subscriber to the service provider in order to establish or maintain a
+53 communication channel or an account for electronic communication
+54 services, as well as a subscriber identifier or account number, the
+55 period of time in which the subscriber receives service; and the types
+56 of services used by a user of or subscriber to a service provider.
+
+A. 2565--A 3
+1 § 695.10 Search and seizure of electronic devices and electronic commu-
+2 nications; in general.
+3 1. Except as provided in this section, a law enforcement agency or law
+4 enforcement officer shall not:
+5 (a) compel, induce or offer incentives for the production of or access
+6 to electronic communication information from a service provider;
+7 (b) compel the production of or access to electronic device informa-
+8 tion from any person or entity other than the authorized possessor of
+9 the device; or
+10 (c) access electronic device information by means of physical inter-
+11 action or electronic communication with the electronic device.
+12 2. A law enforcement agency or law enforcement officer may compel the
+13 production of or access to electronic communication information from a
+14 service provider, or compel the production of or access to electronic
+15 device information from any person or entity other than the authorized
+16 possessor of the device only under the following circumstances:
+17 (a) pursuant to a warrant issued in accordance with article six
+18 hundred ninety of this title and subject to subdivision four of this
+19 section, unless the law enforcement agency or law enforcement officer is
+20 required under section 250.00 of the penal law and article seven hundred
+21 of this title to obtain a warrant issued pursuant to article seven
+22 hundred of this title; or
+23 (b) pursuant to a warrant issued in accordance with article seven
+24 hundred of this title.
+25 3. A law enforcement agency or law enforcement officer may access,
+26 without consent, as provided in this section, electronic device informa-
+27 tion by means of physical interaction or electronic communication with
+28 the device only as follows:
+29 (a) pursuant to a warrant in accordance with article six hundred nine-
+30 ty of this title and subject to subdivision four of this section, unless
+31 the law enforcement agency or law enforcement officer is required under
+32 section 250.00 of the penal law and article seven hundred of this title
+33 to obtain a warrant issued pursuant to article seven hundred of this
+34 title;
+35 (b) pursuant to a warrant issued in accordance with article seven
+36 hundred of this title;
+37 (c) with the specific consent of the authorized possessor of the
+38 device;
+39 (d) with the specific consent of the owner of the device, only when
+40 the device has been reported as lost or stolen; or
+41 (e) if the law enforcement agency or law enforcement officer, in good
+42 faith, believes the device to be lost, stolen, or abandoned, provided
+43 that the law enforcement agency or law enforcement officer shall access
+44 electronic device information only for the purpose of attempting to
+45 identify, verify, or contact the owner or authorized possessor of the
+46 device.
+47 4. Any warrant for electronic information shall:
+48 (a) describe with particularity the information to be seized by speci-
+49 fying the time periods for which such information is sought and, as
+50 appropriate and reasonable, the target individuals or accounts, the
+51 applications or services covered, and the types of information sought;
+52 and
+53 (b) comply with all applicable provisions of state and federal law,
+54 including such provisions that prohibit or limit the use of search
+55 warrants, or that impose additional requirements, beyond the scope of
+56 this article, regarding search warrants.
+
+A. 2565--A 4
+1 (c) If an affidavit, declaration, deposition, allegation of fact or
+2 other material is submitted in support of the application for a warrant,
+3 the judge must file it with the court within twenty-four hours of the
+4 issuance of a warrant.
+5 5. A service provider may voluntarily disclose electronic communi-
+6 cation information or subscriber information when that disclosure is not
+7 otherwise prohibited by this article or by other provisions of state law
+8 or by federal law.
+9 6. A law enforcement agency or law enforcement officer that receives
+10 electronic communication information provided voluntarily shall seal
+11 that information within ninety days and access to the information shall
+12 be prohibited except in one or more of the following circumstances:
+13 (a) a law enforcement officer or agency obtains specific consent from
+14 the sender or recipient of the electronic communications about which
+15 information has been disclosed; or
+16 (b) a law enforcement officer or agency obtains a court order author-
+17 izing access to the electronic communication information. A court shall
+18 issue an access order upon the same finding required for issuing a
+19 warrant pursuant to article six hundred ninety of this title and subject
+20 to subdivision four of this section.
+21 (c) information retained by a law enforcement officer or agent that is
+22 subject to this provision shall not be shared with:
+23 (i) persons or entities that do not agree to limit the use of the
+24 provided information to those purposes identified in the court authori-
+25 zation; and
+26 (ii) persons or entities that:
+27 (A) are not legally obligated to destroy the provided information upon
+28 the expiration or rescindment of the court's retention order; or
+29 (B) do not voluntarily agree to destroy the provided information upon
+30 the expiration or rescindment of the court's retention order.
+31 7. A law enforcement agency or law enforcement officer that obtains
+32 electronic information pursuant to an emergency involving danger of
+33 death or serious physical injury to a person, which requires access to
+34 the electronic information without delay, shall within three days after
+35 obtaining the electronic information file with the appropriate court an
+36 application for a warrant or order that authorizes access to such elec-
+37 tronic information, or a motion seeking approval of the emergency
+38 disclosures that sets forth the facts giving rise to the emergency, and
+39 if applicable, a request supported by a sworn affidavit for an order
+40 delaying notification to the court as required under paragraph (a) of
+41 subdivision two of section 695.15 of this article. The court shall
+42 promptly rule on such application or motion, and shall order the immedi-
+43 ate destruction of all information obtained, and immediate notification
+44 to the targets of a warrant or emergency request, pursuant to subdivi-
+45 sion one of section 695.15 of this article, if such notice has not
+46 already been given, upon a finding that the facts did not give rise to
+47 an emergency, or upon a ruling that rejects the warrant or order appli-
+48 cation on any other ground.
+49 8. This section does not limit the authority of a law enforcement
+50 agency or law enforcement officer to use an administrative, grand jury,
+51 trial, or civil discovery subpoena to do any of the following:
+52 (a) require an originator, addressee, or intended recipient of an
+53 electronic communication to disclose any electronic communication infor-
+54 mation associated with that communication;
+55 (b) require an entity that provides electronic communications services
+56 to its officers, directors, employees, or agents for the purpose of
+
+A. 2565--A 5
+1 carrying out their duties, to disclose electronic communication informa-
+2 tion associated with an electronic communication to or from an officer,
+3 director, employee, or agent of the entity; or
+4 (c) require a service provider to provide subscriber information.
+5 9. This section does not prohibit the intended recipient of an elec-
+6 tronic communication from voluntarily disclosing electronic communi-
+7 cation information concerning that communication to a law enforcement
+8 agency or law enforcement officer.
+9 10. Nothing in this section shall be construed to expand any authority
+10 under state law to compel the production of or access to electronic
+11 information.
+12 § 695.15 Search and seizure of electronic devices and electronic commu-
+13 nications; in an emergency.
+14 1. Except as otherwise provided in this section, a law enforcement
+15 agency or law enforcement officer that executes a warrant, or obtains
+16 electronic information in an emergency pursuant to section 695.10 of
+17 this article, shall serve upon or deliver to the target of a warrant or
+18 emergency request by registered or first-class mail, electronic mail, or
+19 by other means reasonably calculated to be effective, a notice that
+20 informs the recipient that information about the recipient has been
+21 compelled or requested. Such notice shall state with reasonable specif-
+22 icity the nature of the government investigation pursuant to which the
+23 information is sought. The notice shall include a copy of the warrant or
+24 a written statement setting forth facts giving rise to the emergency.
+25 The notice shall be provided contemporaneously with the execution of a
+26 warrant, or, in the case of an emergency, within three days after
+27 obtaining the electronic information. The target of the warrant is
+28 entitled to request a copy of the electronic information obtained in the
+29 same form it was received upon request. Notice shall include
+30 instructions for requesting copies and a law enforcement agency and law
+31 enforcement officer must provide copies of information obtained in the
+32 same form within three days of receiving the request from the target of
+33 the warrant.
+34 2. (a) When a warrant is sought or electronic information is obtained
+35 in an emergency under section 695.10 of this article, the law enforce-
+36 ment agency or law enforcement officer may submit a request to a court
+37 supported by a sworn affidavit for an order delaying notification and
+38 prohibiting any party providing information from notifying any other
+39 party that information has been sought. The court shall issue the order
+40 if the court determines that there is reason to believe that notifica-
+41 tion may have an adverse result, but only for the period of time that
+42 the court finds there is reason to believe that the notification may
+43 have that adverse result, and not to exceed ninety days.
+44 (b) The court may grant extensions of the delay of up to ninety days
+45 each on the same grounds as provided in paragraph (a) of this subdivi-
+46 sion.
+47 (c) Upon expiration of the period in which notification is delayed, a
+48 law enforcement agency or law enforcement officer shall serve upon the
+49 identified targets of a warrant or deliver to those targets by regis-
+50 tered or first-class mail, electronic mail, or other means reasonably
+51 calculated to be effective as specified by the court issuing the order
+52 authorizing delayed notification, a document that includes the informa-
+53 tion described in subdivision one of this section, along with a copy of
+54 all electronic information obtained in the same form it was received,
+55 and a statement of the grounds for the court's determination to grant a
+56 delay in notifying the individual.
+
+A. 2565--A 6
+1 3. If there is no identified target of a warrant or emergency request
+2 at the time of its issuance, the law enforcement agency or law enforce-
+3 ment officer shall submit to the attorney general of this state within
+4 three days of the execution of the warrant or issuance of the request a
+5 report regarding the information required in subdivision one of this
+6 section. If an order delaying notice is obtained pursuant to subdivision
+7 two of this section, the law enforcement agency or law enforcement offi-
+8 cer shall submit to the attorney general upon the expiration of the
+9 period of delay of the notification a report regarding the information
+10 required in paragraph (c) of subdivision two of this section. The attor-
+11 ney general's office shall publish such reports on its internet website
+12 within ninety days of receipt. The attorney general shall redact names
+13 and other personal identifying information from the reports.
+14 4. Except as otherwise provided in this section, nothing in this arti-
+15 cle shall prohibit or limit a service provider or any other party from
+16 disclosing information about any request or demand for electronic infor-
+17 mation.
+18 § 695.20 Search and seizure of electronic devices and electronic commu-
+19 nications; when evidence can be suppressed.
+20 1. Persons who are party to or otherwise subject to a trial, hearing,
+21 or other legal or administrative proceeding may move to suppress elec-
+22 tronic information obtained or retained in violation of this article,
+23 the United States Constitution, the New York State Constitution or the
+24 provisions of the criminal procedure law. The motion shall be made and
+25 shall be subject to review by a court in accordance with the procedures
+26 set forth in article seven hundred ten of this title.
+27 2. The attorney general of this state may commence a civil action to
+28 compel a law enforcement agency or law enforcement officer to comply
+29 with the provisions of this article. This does not preclude action by
+30 an individual, service provider, or other recipient of a warrant, order,
+31 or other legal process that is inconsistent with this article.
+32 3. An individual, service provider or other recipient of a warrant,
+33 order, or other legal process may petition the issuing court to quash or
+34 modify the warrant, order, or process, or to order the destruction of
+35 information that is sought pursuant to such a warrant, order or other
+36 legal process, on the basis that the warrant, order or process violates
+37 the United States Constitution, the New York State Constitution, or is
+38 otherwise contrary to federal or state law. The warrant recipient may
+39 also move the quash on the basis that the information or records
+40 requested are unusually voluminous in nature or compliance with such
+41 order otherwise would cause an undue burden on such provider. The
+42 court's decision to grant or deny that petition, in whole or in part,
+43 filed under this paragraph is immediately appealable pursuant to section
+44 fifty-seven hundred one of the civil practice law and rules.
+45 4. A state, territory or commonwealth of the United States and foreign
+46 and domestic corporations as well as officers, employees, and agents of
+47 these entities shall not be subject to a cause of action for providing
+48 records, information, facilities, or other forms of assistance in
+49 accordance with the terms of a warrant, court order, statutory authori-
+50 zation, emergency certification, or wiretap order issued pursuant to
+51 this article. This does not preclude a cause of action for providing
+52 records, information, facilities, or other forms of assistance in a
+53 manner that is inconsistent with this article.
+54 § 695.25 Search and seizure of electronic devices and electronic commu-
+55 nications; annual report.
+
+A. 2565--A 7
+1 1. A law enforcement agency or law enforcement officer that obtains
+2 electronic communication information pursuant to this article shall make
+3 an annual report to the attorney general of this state regarding such
+4 information. The report shall be made on or before February first, two
+5 thousand twenty-seven, and on February first of each year thereafter. To
+6 the extent such information can be reasonably determined, the report
+7 shall include the following:
+8 (a) the total number of times electronic information was sought or
+9 obtained pursuant to this article;
+10 (b) the number of times such information was sought or obtained, and
+11 the number of records obtained for each of the following categories the
+12 types of electronic information:
+13 (i) electronic communication content;
+14 (ii) location information;
+15 (iii) electronic device information (not including location informa-
+16 tion); and
+17 (iv) other electronic communication information.
+18 (c) for each type of information identified in paragraph (b) of this
+19 subdivision:
+20 (i) the number of times the information was sought or obtained pursu-
+21 ant to:
+22 (1) wiretap orders obtained pursuant to this article;
+23 (2) search warrants obtained pursuant to this article; and
+24 (3) emergency requests subject to subdivision eight of section 695.10
+25 of this article.
+26 (ii) the total number of individuals whose information was sought or
+27 obtained;
+28 (iii) the total number of instances in which information was sought or
+29 obtained that did not specify a target individual from whom or about
+30 whom the information was requested;
+31 (iv) for demands or requests issued upon a service provider, the
+32 number of such demands or requests complied with in full, partially
+33 complied with, and not complied with;
+34 (v) the number of times notice to targeted individuals of a warrant,
+35 court order, statutory authorization, emergency certification, or wire-
+36 tap order issued pursuant to this article was delayed and the average
+37 length of the delay;
+38 (vi) the number of times records obtained pursuant to a warrant, court
+39 order, statutory authorization, emergency certification, or wiretap
+40 order issued pursuant to this article were shared with other government
+41 entities or any department or agency of the federal government, and the
+42 agencies with which such records were shared;
+43 (vii) the average period of time for which location information was
+44 obtained or received; and
+45 (viii) the number of instances in which electronic information sought
+46 or obtained pursuant to this article was relevant to a criminal proceed-
+47 ing that led to a conviction.
+48 2. On or before April first, two thousand twenty-eight, and each April
+49 first thereafter, the attorney general's office shall publish on its
+50 internet website a summary aggregating data related to each type of
+51 electronic communication identified in paragraphs (a), (b) and (c) of
+52 subdivision one of this section by county.
+53 3. Nothing in this article shall prohibit or restrict a service
+54 provider from producing an annual report summarizing the demands or
+55 requests it receives under this article.
+56 § 2. This act shall take effect immediately.

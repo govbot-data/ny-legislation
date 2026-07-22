@@ -1,0 +1,505 @@
+Title: 
+Official Title: 
+Source: versions - A6193A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6193--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 26, 2025
+___________
+Introduced by M. of A. KELLES -- read once and referred to the Committee
+on Environmental Conservation -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the environmental conservation law and the state finance
+law, in relation to establishing extended producer responsibility for
+textiles
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 27 of the environmental conservation law is amended
+2 by adding a new title 34 to read as follows:
+3 TITLE 34
+4 EXTENDED PRODUCER RESPONSIBILITY FOR TEXTILES
+5 Section 27-3401. Definitions.
+6 27-3403. Textile disposal ban.
+7 27-3405. Producer plan.
+8 27-3407. Producer responsibilities.
+9 27-3409. Retailer, distributor and wholesaler responsibilities.
+10 27-3411. Department responsibilities.
+11 27-3413. Labeling requirements.
+12 27-3415. Textile stewardship advisory board.
+13 27-3417. Post-consumer requirements.
+14 27-3419. Enforcement and penalties.
+15 27-3421. Rules and regulations.
+16 § 27-3401. Definitions.
+17 For the purposes of this title, the following terms shall have the
+18 following meanings:
+19 1. "Apparel" means clothing and accessory items intended for regular
+20 wear or formal occasions, including, but not limited to, undergarments,
+21 shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests,
+22 dancewear, suits, saris, scarves, tops, leggings, school uniforms, leis-
+23 urewear, athletic wear, sports uniforms, everyday swimwear, formal wear,
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06967-05-5
+
+A. 6193--A 2
+1 onesies, bibs, diapers, footwear, and everyday uniforms for workwear.
+2 Clothing items intended for regular wear or formal occasions does not
+3 include personal protective equipment or clothing items for exclusive
+4 use by the United States military.
+5 2. "Brand" means a trademark, including both a registered trademark
+6 and an unregistered trademark, a logo, a name, a symbol, a word, an
+7 identifier, or a traceable mark that identifies a covered textile and
+8 identifies the owner or licensee of the brand.
+9 3. "Collection program" or "program" means a program financed and
+10 implemented by producers, either individually, or through a represen-
+11 tative organization, that provides for, but is not limited to, the
+12 collection, transportation, reuse, recycling, proper end-of-life manage-
+13 ment, or an appropriate combination thereof, or discarded products.
+14 4. "Collection site" means a permanent location in the state at which
+15 discarded products may be returned by a consumer. Collection sites shall
+16 accept all types of discarded products as defined by this title regard-
+17 less of brand.
+18 5. "Closed loop recycling" means recycling in which materials that are
+19 reclaimed are returned to the original process or processes in which
+20 they were generated and they are reused in the production process.
+21 6. "Consumer" means a person located in the state who purchases, owns,
+22 leases, or uses covered products, including but not limited to an indi-
+23 vidual, a business, corporation, limited partnership, not-for-profit
+24 corporation, the state, a public corporation, public school, school
+25 district, private or parochial school or board of cooperative educa-
+26 tional services or governmental entity.
+27 7. "Covered product" means any product that is a textile or textile
+28 article, as defined in this section.
+29 8. "Discarded product" means a covered product that a consumer has
+30 used and disposed of in the state and is no longer used for its manufac-
+31 tured purpose.
+32 9. "Distributor" or "wholesaler" means a person who buys or otherwise
+33 acquires a covered product and sells or offers to sell such product to
+34 retailers in this state.
+35 10. "Energy recovery" means the process by which all or a portion of
+36 solid waste materials are processed or combusted in order to utilize the
+37 heat content or other forms of energy derived from such solid waste
+38 materials.
+39 11. "Producer" means any person who manufactures a covered product
+40 that is sold, offered for sale, or distributed in this state under the
+41 manufacturer's own name or brand. "Producer" includes:
+42 (a) the owner of a trademark or brand under which a covered product is
+43 sold, offered for sale, or distributed in this state, whether or not
+44 such trademark or brand is registered in the state; and
+45 (b) any person who imports a covered product into the United States
+46 that is sold or offered for sale in the state and that is manufactured
+47 by a person who does not have a presence in the United States.
+48 12. "Recycling" or "recycle" means to separate, dismantle or process
+49 the materials, components, or commodities contained in covered products
+50 for the purpose of preparing the materials, components or commodities
+51 for use or reuse in new products or components. "Recycling" or "recycle"
+52 does not include: (a) energy recovery or energy generation by any means,
+53 including but not limited to, combustion, incineration, pyrolysis, gasi-
+54 fication, solvolysis, or waste to fuel; (b) any chemical conversion
+55 process; or (c) landfill disposal.
+
+A. 6193--A 3
+1 13. "Recycling rate" means the percentage of discarded product that is
+2 managed through recycling or reuse, as defined by this title, and is
+3 computed by dividing the amount of recycled output derived from
+4 collected covered product, plus any pounds sent for reuse by the esti-
+5 mated total of discarded product generated during a program year.
+6 14. "Representative organization" means a not-for-profit organization
+7 established by a producer or a group of producers to implement a
+8 collection program.
+9 15. "Retailer" means any person who sells or offers for sale a covered
+10 product to a consumer in the state.
+11 16. "Reuse" means the return of a product into the economic stream for
+12 use in the same kind of application as the product was originally
+13 intended to be used, without a change in the product's identity.
+14 17. "Sale" or "sell" means any transfer for consideration of title or
+15 the right to use, from a manufacturer or retailer to a person, includ-
+16 ing, but not limited to, transactions conducted through retail sale
+17 outlets, catalogs, mail, the telephone, the internet, or any electronic
+18 means; "sale" or "sell" shall not include donations or reuse.
+19 18. "Textile" means any item made in whole or in part from natural,
+20 manmade, or synthetic fiber, yarn, or fabric, and includes, but is not
+21 limited to, leather, cotton, silk, jute, hemp, wool, viscose, nylon, or
+22 polyester. "Textile" does not include disposable hygiene products made
+23 from paper, including, but not limited to, toilet paper, paper towels or
+24 tissues, or disposable absorbent hygiene products.
+25 19. "Textile articles" means textile goods of a type customarily used
+26 in households and businesses, and includes, but is not limited to,
+27 apparel, accessories, handbags, backpacks, draperies, shower curtains,
+28 furnishings, upholstery, bedding towels, napkins, and tablecloths.
+29 "Textile articles" does not include: (a) carpets and rugs as defined in
+30 title thirty-three of this article; (b) treatments containing polyfluo-
+31 roalkyl for use on converted textiles or leathers; (c) component parts
+32 from a vehicle, as defined in section one hundred fifty-nine of the
+33 vehicle and traffic law, such as seats and carpets or synthetic floor-
+34 ing; (d) component parts from a vessel, as defined in section two of the
+35 navigation law, such as seats, synthetic flooring, and boat covers; (e)
+36 filtration media and filter products used in industrial applications,
+37 including, but not limited to, chemical or pharmaceutical manufacturing
+38 and environmental control technologies; (f) textile articles used in or
+39 for laboratory analysis and testing; (g) component parts from an
+40 aircraft, as defined in section two hundred forty of the general busi-
+41 ness law; or (h) stadium shades, architectural fabric structures, or any
+42 permanent fabric structure that is intrinsic to a building's design or
+43 construction.
+44 § 27-3403. Textile disposal ban.
+45 1. Beginning three years from the effective date of this title, no
+46 person shall knowingly dispose of any textile as solid waste in the
+47 state at any time.
+48 2. Beginning six months from the effective date of this title, no
+49 retailer, distributor, wholesaler, manufacturer, or owner or operator of
+50 a textile collection site, textile waste consolidation facility, or
+51 textile waste recycling facility in the state shall dispose of textile
+52 waste at a solid waste management facility or hazardous waste management
+53 facility, or place textile waste for collection which is intended for
+54 disposal at a solid waste management facility or hazardous waste manage-
+55 ment facility.
+
+A. 6193--A 4
+1 3. Beginning two years from the effective date of this title, no
+2 person, except for an individual or household, shall place or dispose of
+3 any textile waste in any solid waste management facility, or place
+4 textile waste for collection which is intended for disposal at a solid
+5 waste management facility or hazardous waste management facility in this
+6 state. Persons engaged in the collection of solid waste for delivery to
+7 a solid waste management facility shall provide written information to
+8 users of such facility on the proper methods for the recycling of
+9 textile waste.
+10 4. Beginning three years from the effective date of this title, no
+11 individual or household shall place or dispose of any textile waste,
+12 that exceeds an amount as determined by the department, in any solid
+13 waste management facility, or place textile waste for collection which
+14 is intended for disposal at a solid waste management facility or hazard-
+15 ous waste management facility in this state.
+16 5. Beginning two years from the effective date of this title, an owner
+17 or operator of a solid waste management facility or hazardous waste
+18 management facility shall educate users of such facility on the proper
+19 methods for the management of textile waste. Such education shall
+20 include:
+21 (a) providing written information to users of such facility on the
+22 proper methods for recycling of textile waste; and
+23 (b) posting, in conspicuous locations at such facility, signs stating
+24 that textile waste may not be disposed of at the facility.
+25 § 27-3405. Producer plan.
+26 1. No later than eighteen months after the effective date of this
+27 title, a producer, either individually or cooperatively in a group with
+28 one or more producers or with a representative organization, shall
+29 submit to the department for the department's approval a plan for the
+30 establishment of a collection program that meets the requirements of the
+31 program described in this section.
+32 2. A producer may satisfy the collection program requirement of this
+33 section by agreeing to participate collectively with a group of other
+34 producers or with a representative organization. Any such producer
+35 participating collectively in a collection program shall notify the
+36 department of such participation.
+37 3. A producer or representative organization shall update the plan, as
+38 needed, when there are changes proposed to the current program. A new
+39 plan or amendment shall be required to be submitted to the department
+40 for approval when:
+41 (a) there is a revision of the program's goals; or
+42 (b) every three years from the date of approval of a previous plan.
+43 4. The plan submitted by the producer or representative organization
+44 to the department under this section shall, at a minimum:
+45 (a) provide a list of each participating producer and brand covered by
+46 the program;
+47 (b) provide information on the products covered by the program;
+48 (c) describe how the producer or representative organization will
+49 collect, transport, recycle, and process covered products;
+50 (d) describe how the program will provide for the collection of
+51 covered products in the state, free of cost and in a manner convenient
+52 to consumers, including how the program will achieve, at a minimum, a
+53 convenience standard that ensures that all counties of the state and all
+54 municipalities that have a population of ten thousand or greater have at
+55 least one permanent collection site and one additional permanent
+56 collection site for every thirty thousand people located in those areas,
+
+A. 6193--A 5
+1 that accepts covered products from consumers during normal business
+2 hours; however, with respect to a city having a population of one
+3 million or more, after consultation with the department of sanitation of
+4 such city, the department may otherwise establish an alternative conven-
+5 ience standard. The producer or representative organization may coordi-
+6 nate the program with existing municipal waste collection infrastructure
+7 as is mutually agreeable. Convenience standards shall be evaluated by
+8 the department periodically and the department may require additional
+9 collection locations to ensure adequate consumer convenience;
+10 (e) describe how the discarded covered products will be safely and
+11 securely transported, tracked, and handled from collection sites through
+12 final recycling and processing;
+13 (f) describe the methods to be used to reuse or recycle discarded
+14 covered products to ensure that the components, to the extent feasible,
+15 are transformed or remanufactured into finished products for use;
+16 (g) describe the methods to be used to manage or dispose of discarded
+17 products that cannot be recycled or reused;
+18 (h) describe in detail education and outreach efforts to inform
+19 consumers and others engaged in the management of discarded covered
+20 products about the program, including, at a minimum, an internet website
+21 and a toll-free telephone number and written information included at the
+22 time of sale of covered products that provides sufficient information to
+23 allow a consumer to learn how to return such covered products for
+24 disposal, recycling or reuse;
+25 (i) describe how the program will meet annual performance goals, as
+26 determined by the department, provided that at a minimum, the program
+27 shall achieve the following recycling rates for textiles:
+28 (i) a thirty percent recycling rate for textiles, of which ten percent
+29 shall be closed loop recycling, by five years after the plan is approved
+30 by the department pursuant to section 27-3411 of this title;
+31 (ii) a fifty percent recycling rate for textiles, of which twenty
+32 percent shall be closed loop recycling by ten years after the plan is
+33 approved by the department pursuant to section 27-3411 of this title;
+34 (iii) a seventy-five percent recycling rate for textiles, of which
+35 forty percent shall be closed loop recycling, by fifteen years after the
+36 plan is approved by the department pursuant to section 27-3411 of this
+37 title.
+38 (j) describe what, if any, incentives will be used to encourage
+39 retailer participation;
+40 (k) describe the outreach and education methods that will be used to
+41 encourage municipal landfill and transfer station participation;
+42 (l) describe the methods to be used to reuse or recycle discarded
+43 covered products;
+44 (m) describe what, if any, incentives will be used to encourage
+45 retailer participation;
+46 (n) estimate the amounts of covered products that were previously
+47 sold, offered for sale, or distributed in the state under each produc-
+48 er's name or brand that are discarded in the state annually and describe
+49 the sources of data and methodology for estimating such amount; and
+50 (o) any other information as specified by the department.
+51 § 27-3407. Producer responsibilities.
+52 1. Beginning no later than twenty-four months after the effective date
+53 of this title, the producer or representative organization shall imple-
+54 ment a collection program utilizing collection sites established pursu-
+55 ant to paragraph (d) of subdivision four of section 27-3405 of this
+56 title.
+
+A. 6193--A 6
+1 2. A producer shall not sell, or offer for sale, covered products to
+2 any person in the state unless the producer is implementing or partic-
+3 ipating under an approved plan.
+4 3. The collection program shall be free to the consumer, convenient,
+5 and adequate to serve the needs of such consumers in all areas of the
+6 state on an ongoing basis.
+7 4. A producer or representative organization shall maintain records
+8 demonstrating compliance with the provisions of this title and make them
+9 available for audit and inspection by the department for a period of
+10 three years. The department shall make such records available to the
+11 public upon request in accordance with the provisions of the state free-
+12 dom of information law and the regulations promulgated thereunder.
+13 Record holders shall submit the records required to comply with such
+14 request within sixty working days of written notification by the depart-
+15 ment of receipt of the request.
+16 5. A producer or representative organization shall be responsible for
+17 all costs associated with the implementation of the collection program,
+18 including but not limited to the cost of collection. A producer or
+19 representative organization shall pay costs incurred by the department
+20 in the administration and enforcement of this title. Exclusive of fines
+21 and penalties, the department shall only be reimbursed its actual cost
+22 of administration and enforcement.
+23 6. Any person who becomes a producer on or after two years from the
+24 effective date of this title shall submit a plan to the department, or
+25 notify the department that it has joined an existing plan, prior to
+26 selling or offering for sale in the state any covered products and shall
+27 comply with the requirements of this title.
+28 7. Within eighteen months following approval of the producer plan, and
+29 annually thereafter, a producer or representative organization shall
+30 submit a report to the department that includes, for the previous
+31 program year, a description of the program including, but not limited to
+32 the following:
+33 (a) a detailed description of the methods used to collect, transport,
+34 and process covered products in the state, including collection methods
+35 made available to consumers and an evaluation of the program's
+36 collection convenience;
+37 (b) identification of all collection sites in the state;
+38 (c) the estimated weight of all discarded covered products collected
+39 and reused or recycled pursuant to the collection program;
+40 (d) an evaluation of whether the performance goals and recycling rates
+41 have been achieved and a description of any modifications necessary to
+42 achieve such goals;
+43 (e) the estimated weight of discarded covered products and any compo-
+44 nent materials that were collected pursuant to the collection program,
+45 but not recycled;
+46 (f) the total cost of implementing the program;
+47 (g) samples of all educational materials provided to consumers and a
+48 detailed list of efforts undertaken and an evaluation of methods used to
+49 disseminate such materials including recommendations, if any, for how
+50 the educational component of the program can be improved; and
+51 (h) any other information required by the department.
+52 8. (a) A producer or the representative organization that organizes
+53 the collection, transport and processing of covered products, in an
+54 action solely to increase the recycling of covered products by a produc-
+55 er, representative organization, or tailor that affects the types and
+56 quantities being recycled or the cost and structure of any return
+
+A. 6193--A 7
+1 program shall not be liable for any claim of a violation of antitrust,
+2 restraint of trade or unfair trade practice arising from conduct under-
+3 taken in accordance with the program pursuant to this section.
+4 (b) Notwithstanding any contrary provision of this section, paragraph
+5 (a) of this subdivision shall not apply to any agreement establishing or
+6 affecting the price of covered products sold to consumers in the state
+7 or the output or production of covered products or any agreement
+8 restricting the geographic area or customers to which covered products
+9 will be sold.
+10 § 27-3409. Retailer, distributor and wholesaler responsibilities.
+11 1. Beginning thirty months after the effective date of this title, no
+12 retailer, distributor, or wholesaler may sell or offer for sale covered
+13 products in the state unless the producer of such covered product is
+14 participating in a collection program. A retailer, distributor or whole-
+15 saler, shall be in compliance with this section if, on the date the
+16 covered products are offered for sale, the producer is listed on the
+17 department's website as implementing or participating in an approved
+18 collection program or if the covered products brand is listed on the
+19 department's website as being included in the program.
+20 2. Any retailer, distributor, or wholesaler may participate, on a
+21 voluntary basis, as a designated collections site pursuant to a
+22 collection program and in accordance with all applicable laws and regu-
+23 lations.
+24 § 27-3411. Department responsibilities.
+25 1. The department shall (a) maintain a list of producers who are
+26 implementing or participating pursuant to section 27-3405 of this title,
+27 (b) maintain a list of such producer's brands, and (c) post such lists
+28 on the department's website.
+29 2. Beginning thirty months after the effective date of this title, the
+30 department shall post on its website the location of all collection
+31 sites identified to the department by the producer in its plans and
+32 annual reports.
+33 3. The department shall post on its website each producer plan
+34 approved by the department.
+35 4. Within ninety days after receipt of a proposed plan or plan amend-
+36 ment, the department shall approve or reject the plan or plan amendment.
+37 If the plan or plan amendment is approved, the department shall notify
+38 the producer or representative organization in writing. If the depart-
+39 ment rejects the plan or plan amendment, the department shall notify the
+40 producer or representative organization in writing stating the reason
+41 for rejecting the plan or plan amendment. A producer or representative
+42 organization whose plan is rejected shall submit a revised plan to the
+43 department within thirty days of receiving a notice of rejection. If the
+44 department rejects the subsequent proposal, the producer or producers at
+45 issue shall be out of compliance and subject to enforcement provisions.
+46 5. The department shall submit a report regarding the implementation
+47 of this title to the governor and legislature by no later than three
+48 years after the effective date of this title and every year thereafter.
+49 The report shall include, at minimum, an evaluation of:
+50 (a) the stream of covered products in the state;
+51 (b) disposal, recycling, and reuse rates in the state covered
+52 products;
+53 (c) a discussion of compliance and enforcement related to the require-
+54 ments of this title; and
+55 (d) recommendations for any changes to this title.
+56 § 27-3413. Labeling requirements.
+
+A. 6193--A 8
+1 One year after the plan is approved by the department pursuant to
+2 section 27-3411 of this title, covered products sold or offered for sale
+3 in the state shall be accompanied by the name of the producer and the
+4 producer's contact information.
+5 § 27-3415. Textile stewardship advisory board.
+6 1. There is hereby established within the department a textile
+7 collection program advisory board to make recommendations to the commis-
+8 sioner regarding program operator plans required by this title.
+9 2. The board shall be composed of twelve voting members. Such members
+10 shall include:
+11 (a) one representative of textile producers;
+12 (b) two representatives of textile retailers;
+13 (c) one representative of textile recyclers;
+14 (d) two representatives of textile collectors;
+15 (e) one representative of a company that utilizes discarded covered
+16 products to manufacture a new product;
+17 (f) one representative from a statewide environmental organization;
+18 (g) one representative from a statewide waste disposal association;
+19 (h) one representative from the New York product stewardship council;
+20 (i) one representative from a consumer organization; and
+21 (j) one representative from a statewide recycling organization.
+22 3. The members shall be appointed as follows:
+23 (a) two members to be appointed by the temporary president of the
+24 senate;
+25 (b) two members to be appointed by the speaker of the assembly;
+26 (c) one member to be appointed by the minority leader of the senate;
+27 (d) one member to be appointed by the minority leader of the assembly;
+28 and
+29 (e) six members to be appointed by the governor.
+30 4. Such appointments shall be made no later than the first day of
+31 January following the date on which this title takes effect. The members
+32 shall designate a chair from among the members by majority vote. Board
+33 members shall receive no compensation but shall be entitled to their
+34 necessary and actual expenses incurred in the performance of their board
+35 duties.
+36 5. The board shall meet at least biannually by call of the chair.
+37 § 27-3417. Post-consumer requirements.
+38 All covered products sold in the state shall be manufactured with the
+39 following minimum amounts from post-consumer sources:
+40 1. Within one year after the plan is approved by the department pursu-
+41 ant to section 27-3411 of this title, a minimum of ten percent post-con-
+42 sumer contents;
+43 2. Within four years thereafter, a minimum of twenty percent post-con-
+44 sumer content; and
+45 3. Five years thereafter, a minimum of thirty percent post-consumer
+46 content.
+47 § 27-3419. Enforcement and penalties.
+48 1. Any producer, representative organization, or retailer who violates
+49 any provision of or fails to perform any duty imposed pursuant to this
+50 title shall be liable for a civil penalty not to exceed five hundred
+51 dollars for each violation and an additional penalty of not more than
+52 five hundred dollars for each day during which such violations continue.
+53 Civil penalties under this section shall be assessed by the department
+54 after a hearing or opportunity to be heard pursuant to the provisions of
+55 section 71-1709 of this chapter.
+
+A. 6193--A 9
+1 2. In a city with a population of one million or more, such city
+2 shall, in addition to any authority otherwise conferred in this chapter,
+3 have concurrent authority to enforce, by an agency or agencies desig-
+4 nated for such purpose by the mayor of such city, the provisions of
+5 sections 27-3403 and 27-3409 of this title. Any notice of violation
+6 issued by an agency designated by the mayor of such city charging a
+7 violation of section 27-3403 or 27-3409 of this title shall be return-
+8 able to the environmental control board of such city. Such environmental
+9 control board shall have the power to impose the civil penalties set
+10 forth in subdivision one of this section. All civil penalties collected
+11 for any violation of this title that have been imposed by the environ-
+12 mental control board of such city shall be paid into the general fund of
+13 such city.
+14 § 27-3421. Rules and regulations.
+15 The department is hereby authorized to promulgate any rules and regu-
+16 lations necessary to implement this title.
+17 § 2. The state finance law is amended by adding a new section 97-uuuu
+18 to read as follows:
+19 § 97-uuuu. Textile extended producer responsibility fund. 1. There is
+20 hereby established in the joint custody of the state comptroller and the
+21 commissioner of environmental conservation a special fund to be known as
+22 the "textile extended producer responsibility fund".
+23 2. Such fund shall consist of all revenues received by the comp-
+24 troller, pursuant to the provisions of section 27-3419 of the environ-
+25 mental conservation law and all other moneys appropriated thereto from
+26 any other fund or source pursuant to law. Nothing contained in this
+27 section shall prevent the state from receiving grants, gifts, or
+28 bequests for the purposes of the fund as defined in this section and
+29 depositing them into the fund according to law.
+30 3. The moneys of the textile extended producer responsibility fund,
+31 following appropriation by the legislature, shall be allocated for the
+32 direct costs associated with extended producer responsibility for
+33 textiles pursuant to title thirty-four of article twenty-seven of the
+34 environmental conservation law.
+35 4. The state comptroller may invest any moneys in the textile extended
+36 producer responsibility fund not expended for the purpose of this
+37 section as provided by law. The state comptroller shall credit any
+38 interest and income derived from the deposit and investment of moneys in
+39 the textile extended producer responsibility fund to the textile
+40 extended producer responsibility fund.
+41 5. Any unexpected and unencumbered moneys remaining in the textile
+42 extended producer responsibility fund at the end of a fiscal year shall
+43 remain in the textile extended producer responsibility fund and shall
+44 not be credited to any other fund.
+45 § 3. Section 71-1701 of the environmental conservation law, as amended
+46 by chapter 795 of the laws of 2022, is amended to read as follows:
+47 § 71-1701. Applicability of this title.
+48 This title shall be applicable to the enforcement of titles 1 through
+49 11 and titles 15 through 19 of article 17; article 19; and titles 1
+50 [and], 33 and 34 of article 27 of this chapter.
+51 § 4. This act shall take effect immediately.

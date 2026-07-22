@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - A8543A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8543--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 20, 2025
+___________
+Introduced by M. of A. STIRPE, KELLES -- read once and referred to the
+Committee on Energy -- recommitted to the Committee on Energy in
+accordance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the energy law, in relation to allowing new buildings
+where new parking is provided to have an optional, charger-agnostic,
+power-based allocation method alternative to certain electric vehicle
+charging infrastructure requirements
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subparagraphs (i) and (ii) of paragraph (a) of subdivision
+2 9 of section 11-104 of the energy law, as added by chapter 111 of the
+3 laws of 2025, are amended and two new subparagraphs (iii) and (iv) are
+4 added to read as follows:
+5 (i) "electric vehicle ready infrastructure" shall mean all electrical
+6 components, terminating in a receptacle or outlet, as necessary to
+7 enable electric vehicle charging and support electric vehicle charging
+8 stations; [and]
+9 (ii) "electric vehicle charging station" shall mean all the equipment
+10 necessary to deliver electricity from a source outside an electric vehi-
+11 cle into one or more electric vehicles, as defined by the code coun-
+12 cil[.];
+13 (iii) "power-based allocation method" shall mean a compliance approach
+14 that allows electric vehicle charging infrastructure requirements to be
+15 met based on the total kilowatt power capacity available for charging
+16 electric vehicles, without mandating a specific number or type of charg-
+17 ing stations; and
+18 (iv) "charger-agnostic" shall mean a standard or method that does not
+19 require the use of a specific type or brand of electric vehicle charger
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11280-03-6
+
+A. 8543--A 2
+1 and allows for the use of Level 1, Level 2, or DC fast chargers, depend-
+2 ing on power availability and site conditions.
+3 § 2. Subdivision 9 of section 11-104 of the energy law is amended by
+4 adding a new paragraph (e) to read as follows:
+5 (e) When adopting a new code after December thirty-first, two thousand
+6 twenty-six, the department of state division of building standards and
+7 codes shall promulgate rules and regulations establishing an optional,
+8 charger-agnostic, power-based allocation method alternative to meet the
+9 requirements of this subdivision. Such rules shall include, but not be
+10 limited to:
+11 (i) guidelines for calculating aggregate power capacity for electric
+12 vehicle charging stations in parking lots;
+13 (ii) standards ensuring equitable access to charging options for vari-
+14 ous types of electric vehicles;
+15 (iii) flexibility for property owners to select appropriate charging
+16 types based on power levels; and
+17 (iv) provisions to ensure compliance with all applicable safety and
+18 accessibility requirements.
+19 § 3. This act shall take effect immediately.
