@@ -1,0 +1,336 @@
+Title: 
+Official Title: 
+Source: versions - S4500A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4500--A
+Cal. No. 1129
+2025-2026 Regular Sessions
+IN SENATE
+February 6, 2025
+___________
+Introduced by Sens. FAHY, ASHBY, RHOADS, ROLISON, C. RYAN,
+SCARCELLA-SPANTON -- read twice and ordered printed, and when printed
+to be committed to the Committee on Consumer Protection -- reported
+favorably from said committee, ordered to first and second report,
+ordered to a third reading, amended and ordered reprinted, retaining
+its place in the order of third reading
+AN ACT to amend the general business law and the social services law, in
+relation to enacting the "consumer wheelchair repair bill of rights
+act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "consumer wheelchair repair bill of rights act".
+3 § 2. Article 32 and section 670 of the general business law, as
+4 amended by chapter 219 of the laws of 2006, are renumbered article 32-A
+5 and section 676 and a new section 677 is added to read as follows:
+6 § 677. Right to repair wheelchairs. 1. For the purposes of this
+7 section, the following terms shall have the following meanings:
+8 (a) (i) "Authorized repair provider" means a person that is unaffil-
+9 iated with a manufacturer other than through an arrangement with such
+10 manufacturer, whether for a definite or an indefinite period, in which
+11 such manufacturer, for the purpose of offering to provide services to an
+12 equipment owner regarding the owner's equipment or a part, grants such
+13 person:
+14 (1) a license to use a trade name, service mark, or other proprietary
+15 identifier; or
+16 (2) authorization under any other arrangement to act on behalf of such
+17 manufacturer.
+18 (ii) "Authorized repair provider" includes, but is not limited to, a
+19 manufacturer that offers to provide services to an owner of such
+20 manufacturer's equipment regarding such owner's equipment or a part if
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08308-02-5
+
+S. 4500--A 2
+1 such manufacturer does not have an arrangement with an unaffiliated
+2 person, as described in subparagraph (i) of this subdivision.
+3 (b) "Documentation" means a manual; diagram, including a schematic
+4 diagram; reporting output; service code description; or similar type of
+5 information, whether in an electronic or tangible format, that a
+6 manufacturer provides to an authorized repair provider for purposes of
+7 assisting such authorized repair provider with services performed on
+8 such manufacturer's equipment or a part.
+9 (c) "Embedded software" means programmable instructions provided on
+10 firmware delivered with an electronic component of equipment or with any
+11 part for the purpose of restoring or improving operation of such equip-
+12 ment or part; and shall include but not be limited to all relevant
+13 patches and fixes that the manufacturer makes to equipment or to any
+14 part for the purpose of restoring or improving such equipment or part.
+15 (d) "Equipment" means a powered wheelchair.
+16 (e) (i) "Fair and reasonable costs" with respect to obtaining documen-
+17 tation, parts, embedded software, firmware, or tools from a manufacturer
+18 to provide services, means terms that are equivalent to the most favora-
+19 ble terms that such manufacturer offers to an authorized repair provider
+20 and costs that are no greater than such manufacturer's suggested retail
+21 price. Costs considered under this subparagraph shall be calculated
+22 using net costs incurred, accounting for any discounts, rebates, or
+23 incentives offered.
+24 (ii) With respect to documentation, "fair and reasonable terms and
+25 costs" means that the manufacturer provides such documentation, includ-
+26 ing any relevant updates to such documentation, at no charge; except
+27 that such manufacturer may charge a fee for a printed copy of such
+28 documentation if the amount of such fee covers only such manufacturer's
+29 actual cost to prepare and send such printed copy of such documentation.
+30 (iii) With respect to tools that are software programs, "fair and
+31 reasonable terms and costs" means that the manufacturer provides such
+32 tools that are software programs:
+33 (1) at no charge and without requiring authorization or internet
+34 access or otherwise imposing impediments to access or use;
+35 (2) in the course of effectuating the diagnosis, maintenance, or
+36 repair and enabling the full functionality of the equipment or part; and
+37 (3) in a manner that does not impair the efficient and cost-effective
+38 performance of the equipment or part.
+39 (f) "Firmware" means a software program or set of instructions
+40 programmed on equipment or a part to allow such equipment or part to
+41 communicate with itself or with other computer hardware.
+42 (g) (i) "Independent repair provider", except as otherwise provided in
+43 subparagraph (ii) of this paragraph, means a person in the state that
+44 is:
+45 (1) neither a manufacturer's authorized repair provider nor affiliated
+46 with a manufacturer's authorized repair provider; and
+47 (2) engaged in offering or providing services.
+48 (ii) "Independent repair provider" means:
+49 (1) an authorized repair provider if such authorized repair provider
+50 is offering or providing services for a manufacturer other than a
+51 manufacturer with which such authorized repair provider has an arrange-
+52 ment described in paragraph (a) of this subdivision; or
+53 (2) a manufacturer with respect to offering or providing services for
+54 another manufacturer's equipment or part.
+55 (h) "Original equipment manufacturer" or "manufacturer" means a person
+56 doing business in the state and engaged in the business of selling,
+
+S. 4500--A 3
+1 leasing, or otherwise supplying new equipment or parts manufactured by
+2 or on behalf of itself to any individual, business, or other entity.
+3 (i) "Owner" means a person that owns equipment or an agent of such
+4 person.
+5 (j) "Part" means a new or used replacement part for equipment that a
+6 manufacturer offers for sale or otherwise makes available for the
+7 purpose of providing services.
+8 (k) "Powered wheelchair" means a motorized wheeled device designed for
+9 use by a person with a physical disability.
+10 (l) "Services" means diagnostic, maintenance, or repair services
+11 performed on equipment or a part.
+12 (m) "Tools" means any software program, hardware implement, or other
+13 apparatus used for diagnosis, maintenance, or repair of equipment or
+14 parts, including software or other mechanism that provides, programs, or
+15 pairs a new part; calibrates functionality; or performs any other func-
+16 tion required to return such equipment or part to fully functional
+17 condition.
+18 (n) "Trade secret" means the whole or any portion or phase of any
+19 scientific or technical information, design, process, procedure, formu-
+20 la, improvement, confidential business or financial information, listing
+21 of names, addresses, or telephone numbers, or other information relating
+22 to any business or profession which is secret and of value. To be a
+23 "trade secret" the owner thereof shall have taken measures to prevent
+24 the secret from becoming available to persons other than those selected
+25 by the owner to have access thereto for limited purposes.
+26 2. (a) Except as provided under paragraph (b) of this subdivision:
+27 (i) For the purpose of providing services for equipment in the state,
+28 an original equipment manufacturer shall, with fair and reasonable terms
+29 and costs, make available to an independent repair provider or owner of
+30 such manufacturer's equipment any documentation, parts, embedded soft-
+31 ware, firmware, or tools that are intended for use with the equipment or
+32 any part, including updates to documentation, parts, embedded software,
+33 firmware, or tools.
+34 (ii) With respect to equipment that contains an electronic security
+35 lock or other security-related function, a manufacturer shall, with fair
+36 and reasonable terms and costs, make available to independent repair
+37 providers and owners any documentation, parts, embedded software, firm-
+38 ware, or tools needed to reset the lock or function when disabled in the
+39 course of providing services. The manufacturer may make the documenta-
+40 tion, parts, embedded software, firmware, or tools available to inde-
+41 pendent repair providers and owners through appropriate secure release
+42 systems.
+43 (b) (i) Paragraph (a) of this subdivision shall not apply to:
+44 (1) a part that is no longer available to the original equipment
+45 manufacturer; or
+46 (2) conduct that would require the manufacturer to divulge a trade
+47 secret; except that a manufacturer shall not refuse to make available to
+48 an independent repair provider or owner any documentation, part, embed-
+49 ded software, firmware, or tool necessary to provide services on grounds
+50 that such documentation, part, embedded software, firmware, or tool
+51 itself is a trade secret.
+52 (ii) (1) A manufacturer may redact documentation to remove trade
+53 secrets from such documentation before providing access to such documen-
+54 tation if the usability of such redacted documentation for the purpose
+55 of providing services is not diminished.
+
+S. 4500--A 4
+1 (2) A manufacturer may withhold information regarding a component of,
+2 design of, functionality of, or process of developing a part, embedded
+3 software, firmware, or a tool if such information is a trade secret and
+4 the usability of such part, embedded software, firmware, or tool for the
+5 purpose of providing services is not diminished.
+6 (c) An original equipment manufacturer shall not be liable for faulty
+7 or otherwise improper repairs provided by independent repair providers
+8 or owners, including faulty or otherwise improper repairs that cause:
+9 (i) damage to powered wheelchairs that occur during such repairs;
+10 (ii) any indirect, incidental, special, or consequential damages; or
+11 (iii) an inability to use, or a reduced functionality of, a powered
+12 wheelchair resulting from the faulty or otherwise improper repair.
+13 3. (a) Except as provided under paragraph (b) of this subdivision,
+14 nothing in this section shall:
+15 (i) alter the terms of any contract or other arrangement in force on
+16 the effective date of this section between an original equipment
+17 manufacturer and an authorized repair provider, including the perform-
+18 ance or provision of warranty or recall repair work and any exclusivity
+19 or noncompete clause in a contract;
+20 (ii) require a manufacturer to provide an independent repair provider
+21 or owner access to information, other than documentation, that such
+22 manufacturer provides to an authorized repair provider pursuant to a
+23 contract or other arrangement with such authorized repair provider
+24 except as necessary to comply with paragraph (a) of subdivision two of
+25 this section; or
+26 (iii) exempt a manufacturer from a products liability claim that is
+27 otherwise authorized under law.
+28 (b) With respect to a contract or other arrangement, or renewal of a
+29 contract or existing arrangement, that an original equipment manufactur-
+30 er enters into after the effective date of this section, any contract
+31 term, provision, agreement, or language in such contract or arrangement
+32 that waives, avoids, restricts, or limits such manufacturer's obli-
+33 gations under this section shall be void and unenforceable.
+34 § 3. The general business law is amended by adding a new section 678
+35 to read as follows:
+36 § 678. Timely repair of wheelchairs. 1. No later than one year after
+37 the effective date of this section, and after consultation with the
+38 deputy secretary for human services and mental hygiene, the office of
+39 the chief disability officer shall establish a "timely repair for wheel-
+40 chair program" under which wheelchair manufacturers and authorized
+41 wheelchair dealers or wheelchair lessors shall be held accountable for
+42 wheelchair repairs requested by wheelchair owners as provided in this
+43 section.
+44 2. The chief disability officer shall require all wheelchair repairs
+45 in the state to be completed within ten days of a request for such
+46 repair. Such ten-day period shall start on the first business day
+47 following the date of the request, provided that such wheelchair owner
+48 permits a wheelchair manufacturer, authorized wheelchair dealer or
+49 wheelchair lessor to access the device by either delivery to the custody
+50 of such wheelchair manufacturer, authorized wheelchair dealer or wheel-
+51 chair lessor, or alternatively, to the identified agent or other repre-
+52 sentative. This election by the wheelchair owner can include at their
+53 personal home, the home of a specified friend, a school, a dayhab
+54 program, place of employment, or medical facility.
+55 3. During the repair process, if any condition or defect renders a
+56 wheelchair out of service for a total of thirty days or longer, the
+
+S. 4500--A 5
+1 owner of such wheelchair shall be entitled to receive a temporary wheel-
+2 chair from the manufacturer of such owner's wheelchair for use until
+3 such wheelchair owner's wheelchair is repaired and returned.
+4 4. A wheelchair manufacturer, authorized wheelchair dealer or wheel-
+5 chair lessor shall maintain an electronic mail address and a phone line
+6 that is dedicated solely to receiving wheelchair repair requests. Such
+7 electronic mail address and phone line shall be accessible each day and
+8 capable of receiving and recording messages. Authorized wheelchair deal-
+9 ers shall: (a) respond to a request for wheelchair repair no later than
+10 one business day after the date such request was made; and (b) order
+11 parts necessary for a wheelchair repair no later than three business
+12 days after assessing the need for such repair.
+13 5. The office of the chief disability officer shall maintain a phone
+14 number and electronic mail address to be posted conspicuously on its
+15 website, to receive and record complaints regarding timely wheelchair
+16 repairs. No later than January first, two thousand twenty-seven, and
+17 annually thereafter, the chief disability officer shall submit a report
+18 to the governor and the legislature regarding any complaints received
+19 and recorded pursuant to this subdivision. Such report shall be
+20 published on the website of the office of the chief disability officer
+21 and visible to the general public.
+22 6. (a) No later than December thirty-first, two thousand twenty-eight,
+23 and annually thereafter, an authorized wheelchair dealer that contracts
+24 with the state to sell or lease wheelchairs to Medicaid recipients shall
+25 submit a report to the office of the chief disability officer regarding
+26 repair of such wheelchairs. Such report shall include, but not be limit-
+27 ed to, minimum, maximum and average times from the date and time of a
+28 wheelchair repair request for such authorized wheelchair dealer to: (i)
+29 respond; (ii) conduct a repair assessment (1) in the home or other
+30 community location, (2) remotely, or (3) at a repair facility; (iii)
+31 request any necessary prior authorization from the department of social
+32 services and receive a decision from the department of social services
+33 on such request; (iv) order any wheelchair parts needed; (v) receive
+34 delivery of any needed repair parts; and (vi) complete repairs (1) in
+35 the home or other community location, (2) remotely, or (3) at a repair
+36 facility.
+37 (b) The office of the chief disability officer shall make the report
+38 submitted under paragraph (a) of this subdivision available to the
+39 public within sixty days of receiving it.
+40 7. The chief disability officer, in conjunction with the attorney
+41 general's office, shall promulgate rules, regulations, reporting
+42 requirements, and penalties necessary to establish the timely repair for
+43 wheelchair program and implement the provisions of this section.
+44 § 4. The social services law is amended by adding a new section 367-j
+45 to read as follows:
+46 § 367-j. Reimbursement and billing procedures for wheelchairs. 1. The
+47 commissioner shall maintain specific reimbursement and billing proce-
+48 dures under this title for the evaluation, diagnosis and repair of
+49 wheelchairs, to ensure that Medicaid payments for such service permit
+50 adequate access to such products and services for complex needs of
+51 patients and take into account the significant resources, infrastruc-
+52 ture, and staff needed to make such evaluation, diagnosis and repair of
+53 wheelchairs.
+54 2. The commissioner shall monitor the addition of new billing codes
+55 for the evaluation, diagnosis and repair of wheelchairs by the Medicare
+
+S. 4500--A 6
+1 program and shall expeditiously incorporate such codes under this
+2 section.
+3 3. Where reimbursement rates are determined by a managed care organ-
+4 ization, such rates shall be determined consistent with this subdivi-
+5 sion. The commissioner of social services may establish minimum bench-
+6 mark reimbursement rates to be paid by managed care organizations under
+7 this paragraph.
+8 4. For the purposes of this section, the term "wheelchair" means a
+9 manual or motorized wheeled device designed for use by a person with a
+10 physical disability, and shall apply to such devices whether owned or
+11 leased.
+12 § 5. Paragraph a and subparagraphs 1 and 2 of paragraph b of subdivi-
+13 sion 2 and paragraph a of subdivision 3 of section 676 of the general
+14 business law, as amended by chapter 219 of the laws of 2006 and such
+15 section as renumbered by section two of this act, are amended to read as
+16 follows:
+17 a. A manufacturer who sells a wheelchair to a consumer, either direct-
+18 ly or through a wheelchair dealer, shall furnish the consumer with an
+19 express warranty for the wheelchair. The duration of the express warran-
+20 ty shall be not less than [one year] two years after first delivery of
+21 the wheelchair to the consumer. In the absence of an express warranty
+22 from the manufacturer, the manufacturer shall be deemed to have express-
+23 ly warranted to the consumer of a wheelchair that, for a period of [one
+24 year] two years from the date of first delivery to the consumer, the
+25 wheelchair will be free from any condition or defect which substantially
+26 impairs the value of the wheelchair to the consumer.
+27 (1) By law, the manufacturer shall be deemed to have provided to you,
+28 the purchaser of a wheelchair, a [one] two year warranty which starts on
+29 the date of first delivery to you. This warranty provides that the
+30 wheelchair will be free from any condition or defect that substantially
+31 impairs its use, value or safety.
+32 (2) To ensure you receive the benefits of this warranty, you must
+33 report any problems and make the wheelchair available to the manufactur-
+34 er, authorized wheelchair dealer or wheelchair lessor for repair before
+35 [one year] two years after first delivery.
+36 a. If a new wheelchair does not conform to an applicable express
+37 warranty and the consumer reports the nonconformity to the manufacturer,
+38 the wheelchair lessor or any of the manufacturer's authorized wheelchair
+39 dealers and makes the wheelchair available for repair before [one year]
+40 two years after first delivery of the wheelchair to a consumer, the
+41 nonconformity shall be repaired at no charge to the consumer.
+42 § 6. The general business law is amended by adding a new section 679
+43 to read as follows:
+44 § 679. Medically necessary wheelchair repairs. 1. Notwithstanding any
+45 other provision of law, any wheelchair repair that is needed within five
+46 years of the initial prescription shall be deemed medically necessary
+47 and shall not require a new prescription or prior authorization from
+48 insurance before proceeding with repair.
+49 2. The chief disability officer shall seek any federal approval neces-
+50 sary, including amending the Medicaid state plan or applying for a Medi-
+51 caid waiver, to implement the provisions of this section.
+52 3. The department of financial services shall promulgate any rules
+53 and/or regulations to implement the provisions of this section.
+54 § 7. This act shall take effect January 1, 2026.

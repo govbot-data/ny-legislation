@@ -1,0 +1,1402 @@
+Title: 
+Official Title: 
+Source: versions - A2719A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2719--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 22, 2025
+___________
+Introduced by M. of A. RAJKUMAR -- read once and referred to the Commit-
+tee on Mental Health -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the mental hygiene law, the social services law, the
+correction law, the judiciary law, the criminal procedure law, the
+public health law and the administrative code of the city of New York,
+in relation to enacting the "empire state of mind act" to address the
+treatment of persons with mental illness; to amend chapter 554 of the
+laws of 1986, amending the correction law and the penal law relating
+to providing for community treatment facilities and establishing the
+crime of absconding from the community treatment facility, in
+relation to the effectiveness thereof; and to repeal certain
+provisions of the correction law relating to certain limitations of
+community treatment facilities
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "empire
+2 state of mind act".
+3 § 2. Subdivisions 3 and 20 of section 1.03 of the mental hygiene law,
+4 subdivision 3 as amended by chapter 281 of the laws of 2019, subdivision
+5 20 as added by chapter 978 of the laws of 1977, are amended to read as
+6 follows:
+7 3. "Mental disability" means mental illness, intellectual disability,
+8 or developmental disability[, or an addictive disorder as defined in
+9 this section].
+10 20. "Mental illness" means an affliction with a mental disease or
+11 mental condition which is manifested by a disorder or disturbance in
+12 behavior, feeling, thinking, or judgment to such an extent that the
+13 person afflicted requires care, treatment and rehabilitation; or an
+14 addictive disorder as defined in this section.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06324-05-5
+
+A. 2719--A 2
+1 § 3. Section 9.01 of the mental hygiene law, as amended by chapter 723
+2 of the laws of 1989, the seventh undesignated paragraph as amended by
+3 chapter 595 of the laws of 2000, is amended to read as follows:
+4 § 9.01 Definitions.
+5 As used in this article:
+6 (a) "in need of care and treatment" means that a person has a mental
+7 illness for which in-patient care and treatment in a hospital or other
+8 facility, or receipt of services pursuant to this chapter or the social
+9 services law, is appropriate. Such services shall include, but are not
+10 limited to, employment, health care, mental health care, educational or
+11 vocational training, housing, and access to supportive outpatient facil-
+12 ities such as clubhouses.
+13 (b) "in need of involuntary care and treatment" means that a person
+14 has a mental illness for which care and treatment as a patient in a
+15 hospital is essential to [such person's welfare] prevent such person
+16 from engaging in behavior likely to result in serious harm, and whose
+17 judgment is so impaired that [he] such person is unable to understand
+18 the need for such care and treatment.
+19 (c) "likelihood to result in serious harm" or "likely to result in
+20 serious harm" means [(a)] 1. a substantial risk of physical harm to the
+21 person as manifested by threats of or attempts at suicide or serious
+22 bodily harm or other conduct demonstrating that the person is dangerous
+23 to [himself or herself] themself, or [(b)] 2. a substantial risk of
+24 physical harm to other persons as manifested by [homicidal or other
+25 violent behavior by which others are placed in reasonable fear of seri-
+26 ous physical harm] threats of, attempts at, or perpetration of violence,
+27 or possessing a weapon or an object that can be utilized as a weapon and
+28 using such weapon or object in a manner consistent with a use that would
+29 produce imminent physical harm to themselves or others; for the purposes
+30 of this section, noncompliance with instructions from any police offi-
+31 cer, peace officer, or person engaged in homelessness intervention or
+32 behavioral health services in the absence of other threatening behavior
+33 shall not constitute reasonable fear of serious physical harm; nor shall
+34 the fashioning of any body part, or handling of any object that is not a
+35 firearm or component thereof in such a manner consistent with operating
+36 a firearm, constitute reasonable fear of serious physical harm.
+37 (d) "need for retention" means that a person who has been admitted to
+38 a hospital pursuant to this article is in need of involuntary care and
+39 treatment in a hospital for a further period.
+40 (e) "record" of a patient shall consist of admission, transfer or
+41 retention papers and orders, and accompanying data required by this
+42 article and by the regulations of the commissioner.
+43 (f) "director of community services" means the director of community
+44 services for the mentally disabled appointed pursuant to article forty-
+45 one of this chapter.
+46 (g) "qualified psychiatrist" means a physician licensed to practice
+47 medicine in New York state who: [(a)] 1. is a diplomate of the American
+48 board of psychiatry and neurology or is eligible to be certified by that
+49 board; or [(b)] 2. is certified by the American osteopathic board of
+50 neurology and psychiatry or is eligible to be certified by that board.
+51 (h) "patient advocate" means an individual or organization with exper-
+52 tise in behavioral health and homelessness intervention services that
+53 provides assistance and representation to a patient receiving health-
+54 care, in support of such person's welfare.
+55 (i) "empath unit" means a facility that provides emergency treatment
+56 to patients with mental illness without unnecessary long-term admission.
+
+A. 2719--A 3
+1 (j) "clubhouse" means a non-emergency medical facility and community-
+2 based psycho-social rehabilitation center that provides structured,
+3 evidence-based services for individuals living with mental illness,
+4 including:
+5 (i) employment assistance, workforce development, and job placement;
+6 (ii) housing assistance, supportive housing navigation, and homeless-
+7 ness prevention;
+8 (iii) educational and skills training programs;
+9 (iv) peer support groups and mental health counseling;
+10 (v) crisis intervention and suicide prevention services;
+11 (vi) re-entry support for justice-involved individuals; and
+12 (vii) veteran services, including post-traumatic stress disorder
+13 support and United States department of veterans' affairs benefit navi-
+14 gation.
+15 § 4. Section 7.17 of the mental hygiene law is amended by adding a new
+16 subdivision (h) to read as follows:
+17 (h) The commissioner shall establish at least one empath unit, as such
+18 term is defined in section 9.01 of this title, in each county in the
+19 state.
+20 § 5. Paragraph 2 of subdivision (a) of section 9.48 of the mental
+21 hygiene law, as added by chapter 408 of the laws of 1999, is amended to
+22 read as follows:
+23 (2) The directors of assisted outpatient treatment programs shall
+24 ensure the timely delivery of services described in paragraph one of
+25 subdivision (a) of section 9.60 of this article pursuant to any court
+26 order issued under such section. Directors of assisted outpatient treat-
+27 ment programs shall immediately commence corrective action upon receiv-
+28 ing notice from program coordinators, that services are not being
+29 provided in a timely manner. Such directors shall inform the program
+30 coordinator of such corrective action. Assertive community treatment
+31 team services which have been court ordered or otherwise directed under
+32 this article shall be provided within thirty days of such order or upon
+33 request of the application. For the purposes of such service provision,
+34 there shall be a presumption of eligibility to the maximum extent possi-
+35 ble and confirmation of eligibility shall occur subsequent to program
+36 admission.
+37 § 6. Paragraph 2 of subdivision (b) of section 9.27 of the mental
+38 hygiene law, as amended by chapter 343 of the laws of 1985, is amended
+39 and a new paragraph 12 is added to read as follows:
+40 2. the [father or mother, husband or wife, brother or sister,] parent
+41 or legal guardian, spouse, sibling or the child of any such person or
+42 the nearest available relative.
+43 12. a behavioral health services expert acting as an agent of the city
+44 or county in which any such person may be.
+45 § 7. Section 9.27 of the mental hygiene law is amended by adding a new
+46 subdivision (j) to read as follows:
+47 (j) A patient subject to an involuntary admission under this article
+48 shall be entitled to be placed in a room with a window and access to a
+49 restroom, and shall not be physically restrained unless such patient is
+50 determined to be dangerous.
+51 § 8. Subdivisions (a) and (d) of section 9.33 of the mental hygiene
+52 law, as amended by chapter 789 of the laws of 1985, are amended to read
+53 as follows:
+54 (a) If the director shall determine that a patient admitted upon an
+55 application supported by medical certification, for whom there is no
+56 court order authorizing retention for a specified period, is in need of
+
+A. 2719--A 4
+1 retention or transfer to the jurisdiction of the department for
+2 retention in a hospital operated by the state or to a private facility
+3 having an appropriate operating certificate, and if such patient does
+4 not agree to remain in such hospital as a voluntary patient or agree to
+5 such transfer, the director shall apply to the supreme court or the
+6 county court in the county where the hospital is located for an order
+7 authorizing continued retention. Such application shall be made no later
+8 than sixty days from the date of involuntary admission on application
+9 supported by medical certification or thirty days from the date of an
+10 order denying an application for patient's release pursuant to section
+11 9.31, whichever is later; and the hospital is authorized to retain the
+12 patient or transfer such patient to the jurisdiction of the department
+13 for retention in a hospital operated by the state or a private facility
+14 having an appropriate operating certificate for such further period
+15 during which the hospital is authorized to make such application or
+16 during which the application may be pending. The director shall cause
+17 written notice of such application to be given the patient and a copy
+18 thereof shall be given personally or by mail to the persons required by
+19 this article to be served with notice of such patient's initial admis-
+20 sion and to the mental hygiene legal service. Such notice shall state
+21 that a hearing may be requested and that failure to make such a request
+22 within five days, excluding Sunday and holidays, from the date that the
+23 notice was given to the patient will permit the entry without a hearing
+24 of an order authorizing retention or transfer.
+25 (d) If the director of a hospital, in which a patient is retained
+26 pursuant to the foregoing subdivisions of this section, shall determine
+27 that the condition of such patient requires [his] further retention in a
+28 hospital or transfer to a private facility having an appropriate operat-
+29 ing certificate, [he] the director shall, if such patient does not agree
+30 to remain in such hospital as a voluntary patient or does not agree to a
+31 transfer, apply during the period of retention authorized by the last
+32 order of the court to the supreme court or the county court in the coun-
+33 ty where the hospital is located for an order authorizing further
+34 continued retention or the transfer of such patient. The procedures for
+35 obtaining any order pursuant to this subdivision shall be in accordance
+36 with the provisions of the foregoing subdivisions of this section;
+37 provided that the patient or anyone on [his] their behalf or the mental
+38 hygiene legal service may request that the patient be brought personally
+39 before the court, in which case the court shall not grant an order for
+40 periods of one year or longer unless such patient shall have appeared
+41 personally before the court. The period for continued retention pursuant
+42 to the first order obtained under this subdivision shall authorize
+43 further continued retention of the patient for not more than one year
+44 from the date of the order. The period for the further continued
+45 retention of the patient authorized by any subsequent order under this
+46 subdivision shall be for periods not to exceed two years each from the
+47 date of the order.
+48 § 9. Section 9.03 of the mental hygiene law, as amended by chapter 351
+49 of the laws of 2021, is amended to read as follows:
+50 § 9.03 Admission to a hospital.
+51 (a) Unless otherwise specifically provided for by statute, a person
+52 with a mental illness shall be admitted to a hospital as an in-patient
+53 only pursuant to the provisions of this article, except that chemically
+54 dependent patients may be admitted to chemical dependence facilities
+55 operated by such hospitals under contract or agreement with the office
+56 of [alcoholism and substance abuse] addiction services and supports in
+
+A. 2719--A 5
+1 accordance with the provisions of article twenty-two of this chapter.
+2 The section of the mental hygiene law under which a patient is admitted
+3 or under which any change of legal status is subsequently effected shall
+4 be stated in the patient's record.
+5 (b) A patient admitted pursuant to this article shall be assigned a
+6 patient advocate within twenty-four hours of such admission. Such
+7 patient advocate may be an employee of the city or county in which the
+8 hospital or facility is located; an employee or volunteer of a homeless
+9 intervention services organization; a mental health expert; a person who
+10 has experienced homelessness; or a family member of the patient.
+11 § 10. Section 33.27 of the mental hygiene law is amended by adding a
+12 new subdivision (d) to read as follows:
+13 (d) Within twenty-four hours of admission to any facility operated or
+14 licensed by the office of mental health a patient shall be informed of
+15 their right to file a complaint with the ombudsman.
+16 § 11. Section 33.27 of the mental hygiene law is amended by adding a
+17 new subdivision (e) to read as follows:
+18 (e) The office of the independent substance use disorder and mental
+19 health ombudsman shall annually publish a report on involuntary admis-
+20 sions that shall include the demographics of people admitted, the number
+21 of complaints to the office, the due process for people admitted, the
+22 nature of services provided after discharges, and the mental health and
+23 housing stability outcomes of involuntary admissions.
+24 § 12. The mental hygiene law is amended by adding a new section 22.13
+25 to read as follows:
+26 § 22.13 Medically recommended treatment.
+27 Any addictive disorder services pursuant to this article shall include
+28 medically recommended treatment by a person licensed to practice medi-
+29 cine as set forth in article one hundred thirty-one of the education
+30 law.
+31 § 13. Section 29.07 of the mental hygiene law, subdivision (b) as
+32 amended by chapter 37 of the laws of 2011, is amended to read as
+33 follows:
+34 § 29.07 Commissioner's powers over admissions to department facilities.
+35 (a) [The commissioner may by order defer admissions to] If the commis-
+36 sioner shall determine that overcrowding exists in any facility in the
+37 department when the total number of patients therein exceeds its capaci-
+38 ty to an extent which will not permit adequate care and treatment to be
+39 provided patients, such commissioner shall authorize admission to anoth-
+40 er facility with an appropriate operating certificate. The commissioner
+41 may not defer admissions unless there is a state declaration of disaster
+42 emergency pursuant to article two-B of the executive law.
+43 (b) If the commissioner shall determine that overcrowding exists in
+44 the department schools, [he] the commissioner may, within the amounts
+45 appropriated therefor, authorize admission for care and treatment of any
+46 person with a developmental disability to a designated facility approved
+47 for such purposes by the commissioner. The patient and any liable rela-
+48 tives shall be liable for payment of fees in accordance with article
+49 forty-three of this chapter.
+50 § 14. Subdivision (a) of section 9.47 of the mental hygiene law, as
+51 amended by section 15 of chapter 351 of the laws of 2021, is amended to
+52 read as follows:
+53 (a) All directors of community services, health officers, and social
+54 services officials, as defined by the social services law, are charged
+55 with the duty of seeing that all persons with a mental illness within
+56 their respective communities who are in need of or request medically
+
+A. 2719--A 6
+1 recommended care and treatment [at a hospital] are admitted to a hospi-
+2 tal or other facility, or receive other services pursuant to the
+3 provisions of this article or the social services law. Such services
+4 shall include, but are not limited to, employment, health care, mental
+5 health care, educational or vocational training, housing, and access to
+6 supportive outpatient facilities such as clubhouses. Social services
+7 officials and health officers shall notify the director of community
+8 services of any such person coming to their attention. Pending the
+9 determination of the condition of an alleged person with a mental
+10 illness, it shall be the duty of the director of community services and,
+11 if there be no such director, of the local health officer to provide for
+12 the proper care of such person [in a suitable facility].
+13 § 15. The opening paragraph of section 9.47 of the mental hygiene law,
+14 as amended by section 16 of chapter 351 of the laws of 2021, is amended
+15 to read as follows:
+16 All directors of community services, health officers, and social
+17 services officials, as defined by the social services law, are charged
+18 with the duty of seeing that all persons with a mental illness within
+19 their respective communities who are in need of or request medically
+20 recommended care and treatment [at a hospital] are admitted to a hospi-
+21 tal or other facility, or receive other services pursuant to the
+22 provisions of this article or the social services law. Such services
+23 shall include, but are not limited to, employment, health care, mental
+24 health care, educational or vocational training, housing, and access to
+25 supportive outpatient facilities such as clubhouses. Social services
+26 officials and health officers shall notify the director of community
+27 services of any such person coming to their attention. Pending the
+28 determination of the condition of an alleged person with a mental
+29 illness, it shall be the duty of the director of community services and,
+30 if there be no such director, of the local health officer to provide for
+31 the proper care of such person [in a suitable facility].
+32 § 16. Subdivision (d) of section 9.37 of the mental hygiene law, as
+33 amended by chapter 357 of the laws of 1991 and as relettered by chapter
+34 343 of the laws of 1996, is amended to read as follows:
+35 (d) After signing the application, the director of community services
+36 or the director's designee shall be authorized and empowered to take
+37 into custody, detain, transport, and provide temporary care for any such
+38 person. Upon the written request of such director or the director's
+39 designee it shall be the duty of a person or persons with expertise in
+40 behavioral health and homeless intervention services to take into custo-
+41 dy and transport any such person as requested and directed by such
+42 director or designee. Such person or persons may request and shall
+43 receive the accompaniment of peace officers, when acting pursuant to
+44 their special duties, or police officers who are members of the state
+45 police or of an authorized police department or force or of a sheriff's
+46 department [to take into custody and transport any such person as
+47 requested and directed by such director or designee]. No officer shall
+48 use coercive force to take a person into custody or pursue any such
+49 person who flees unless directed by a person with expertise in behav-
+50 ioral health, or homeless intervention services and, if so directed,
+51 must refrain from any further coercion or pursuit at such direction;
+52 provided, however, that this shall not apply to detaining a person
+53 engaging in behavior likely to result in serious harm. Upon the written
+54 request of such director or designee, an ambulance service, as defined
+55 in subdivision two of section three thousand one of the public health
+56 law, is authorized to transport any such person.
+
+A. 2719--A 7
+1 § 17. Intentionally omitted.
+2 § 18. The mental hygiene law is amended by adding a new section 7.10
+3 to read as follows:
+4 § 7.10 Regulation and quality control of services for individuals with
+5 severe mental illness.
+6 This article sets forth provisions enabling the commissioner to regu-
+7 late and assure the consistent high quality of treatment and services
+8 provided within the state to its citizens with severe mental illness.
+9 The commissioner shall evaluate mental health and behavioral health
+10 outcomes, as well as issuance of treatment plans pursuant to section
+11 29.13 of this chapter. The commissioner may adopt and promulgate any
+12 regulation reasonably necessary to implement and effectively exercise
+13 the powers and perform the duties conferred by this article. This arti-
+14 cle shall govern the operation of programs, provision of services and
+15 the facilities hereinafter described and the commissioner's powers and
+16 authority with respect thereto.
+17 § 19. Subdivision (n) of section 19.07 of the mental hygiene law, as
+18 added by chapter 762 of the laws of 2022, is relettered subdivision (o)
+19 and a new subdivision (p) is added to read as follows:
+20 (p) The office shall not adopt any regulations on the dispensing of
+21 opioid agonists, including but not limited to methadone, which would
+22 result in additional limitations to access, continuing treatment,
+23 dosing, and dispensing for home use, beyond those enumerated in federal
+24 law and any waivers issued by the federal government.
+25 § 20. Section 29.13 of the mental hygiene law, as added by chapter 332
+26 of the laws of 1976, subdivision (b) as amended by chapter 135 of the
+27 laws of 1993, is amended to read as follows:
+28 § 29.13 Treatment plans.
+29 (a) Subject to the regulations of the commissioner, the director of
+30 each departmental facility shall require the development of a written
+31 treatment plan to assure adequate [care and] treatment for the health,
+32 economic security, housing security, and welfare of each patient.
+33 (b) The written treatment plan shall include, but not be limited to, a
+34 statement of treatment goals; appropriate programs, treatment or thera-
+35 pies to be undertaken to meet such goals; services pursuant to this
+36 article and the social services law including, but not limited to,
+37 employment, educational or vocational training, housing, and access to
+38 supportive outpatient facilities such as clubhouses; and a specific
+39 timetable for assessment of patient programs as well as for periodic
+40 mental and physical reexaminations. In causing such a plan to be
+41 prepared or when such a plan is to be revised, the following persons
+42 shall be interviewed and provided an opportunity to actively participate
+43 in such preparation or revision: the patient; [an] the patient advocate
+44 or other authorized representative of the patient, to include the parent
+45 or parents if the patient is a minor, unless such minor sixteen years of
+46 age or older objects to the participation of the parent or parents and
+47 there has been a clinical determination by a physician indicating that
+48 the involvement of the parent or parents is not clinically appropriate
+49 and such determination is documented in the record; upon the request of
+50 the patient sixteen years of age or older, a significant individual to
+51 the patient including any relative, close friend or individual otherwise
+52 concerned with the welfare of the patient, other than an employee of the
+53 facility.
+54 (c) The director of each facility, in conjunction with a patient advo-
+55 cate and any service provider for such discharged patient, shall monitor
+56 the patient for at least thirty days to ensure compliance with the
+
+A. 2719--A 8
+1 patient treatment plan. If such patient is not in compliance, the local
+2 social services commissioner shall make a good faith effort to locate
+3 the patient and return them to treatment, and monitor such patient for
+4 at least an additional thirty days to ensure compliance.
+5 (d) The commissioner may suspend, revoke, or limit the operating
+6 certificate of any facility found not to be providing medically recom-
+7 mended treatment plans pursuant to this section.
+8 § 21. Subdivision (k) of section 29.15 of the mental hygiene law, as
+9 amended by chapter 433 of the laws of 1976, is amended to read as
+10 follows:
+11 (k) 1. No patient shall be discharged or conditionally released until
+12 such patient and the patient advocate approve the written treatment plan
+13 developed under section 29.13 of this article. No patient shall be
+14 required, as a condition precedent to [his] discharge, to agree to the
+15 terms of a written [service] treatment plan. If after the advisability
+16 of following the program proposed in the written [service] treatment
+17 plan has been explained to the patient who has been discharged or who is
+18 to be discharged, such patient expresses [his] their objection to such
+19 program or any part thereof, a notation of such objection shall be made
+20 in the patient's records.
+21 2. A patient with a mental illness diagnosis may request and shall be
+22 entitled to receive inpatient or outpatient treatment recommended for
+23 such condition, irrespective of the ability of such person to pay. For
+24 the purposes of such treatment, a patient may be relocated to another
+25 facility having an appropriate operating certificate. In the absence of
+26 documentation of a mental illness diagnosis, attestation by the patient
+27 shall serve as presumptive evidence of such condition.
+28 3. Upon discharge or conditional release, a patient shall be entitled
+29 to costs of transportation either to their place of usual residence, or
+30 another requested destination, if a social services official, in consul-
+31 tation with a patient advocate, determines that such person will have
+32 adequate support for their welfare.
+33 § 22. The mental hygiene law is amended by adding two new sections
+34 9.34 and 9.36 to read as follows:
+35 § 9.34 Court authorization to continued inpatient treatment and care.
+36 (a) If the director shall determine that a patient admitted upon an
+37 application supported by medical certification, for whom there is no
+38 court order authorizing retention for a specified period, is in need of
+39 discharge and if such patient or patient advocate does not agree with
+40 such discharge, the patient or anyone on their behalf shall apply to the
+41 supreme court or the county court in the county where the hospital is
+42 located for an order for continued inpatient treatment and care at the
+43 discretion of the patient. The hospital shall retain the patient for
+44 such further period. The court shall cause written notice of such appli-
+45 cation to be given to the director and a copy thereof shall be given
+46 personally or by mail to the persons required by this article to be
+47 served with notice of such patient's initial admission and to the mental
+48 hygiene legal service. Such notice shall state that a hearing may be
+49 requested and that failure to make such a request within five days,
+50 excluding Sunday and holidays, from the date that the notice was given
+51 to the director will permit the entry without a hearing of an order
+52 authorizing continued inpatient treatment and care.
+53 (b) If no request is made for a hearing on behalf of the director
+54 within five days, excluding Sunday and holidays, from the date such
+55 notice of such application was given to such director, and if the mental
+56 hygiene legal service has not requested a hearing, the court receiving
+
+A. 2719--A 9
+1 the application may, if satisfied that the patient requires continued
+2 inpatient care and treatment or transfer and continued retention, imme-
+3 diately issue an order authorizing continued inpatient treatment and
+4 care for such patient in such hospital.
+5 (c) Upon the demand of the patient or of anyone on their behalf or
+6 upon request of the mental hygiene legal service, the court shall, or
+7 may on its own motion, fix a date for the hearing of the application, in
+8 like manner as is provided for hearings in section 9.31 of this article.
+9 The provisions of such section shall apply to the procedure for obtain-
+10 ing and holding a hearing and to the granting or refusal to grant an
+11 order of continued inpatient treatment and care by the court, except
+12 that if the patient has already had a hearing, they shall not have the
+13 right to designate initially the county in which the hearing shall be
+14 held.
+15 (d) If the director of a hospital, in which a patient is retained
+16 pursuant to the foregoing subdivisions of this section, shall determine
+17 that the condition of such patient requires discharge, such director
+18 shall, if such patient does not agree to such discharge, apply during
+19 the period of retention authorized by the last order of the court to the
+20 supreme court or the county court in the county where the hospital is
+21 located for an order authorizing discharge of such patient. The proce-
+22 dures for obtaining any order pursuant to this subdivision shall be in
+23 accordance with the provisions of the foregoing subdivisions of this
+24 section; provided that the patient or anyone on such patient's behalf or
+25 the mental hygiene legal service may request that the patient be brought
+26 personally before the court.
+27 (e) Nothing in this section shall prohibit the patient from voluntar-
+28 ily agreeing to such discharge at any time; provided, however, that such
+29 patient may not receive remuneration to agree to such discharge.
+30 § 9.36 Review of court authorization to continued inpatient care and
+31 treatment.
+32 (a) If a hospital that has been ordered to continue provision of inpa-
+33 tient treatment and care be dissatisfied with any such order, the direc-
+34 tor may, during the period of authorized continued treatment and care,
+35 obtain a rehearing and a review of the proceedings already had and of
+36 such order upon a petition to a justice of the supreme court other than
+37 the judge or justice presiding over the court making such order. Such
+38 justice shall cause a jury to be summoned and shall try the question of
+39 the mental illness and the need for retention of the patient so author-
+40 ized to receive continued inpatient treatment and care. Any such direc-
+41 tor applying for such review may waive the trial of the fact by a jury
+42 and consent in writing to trial of such fact by the court. If the
+43 verdict of the jury, or the decision of the court when jury trial has
+44 been waived, be that such person does not have a mental illness or is
+45 not in need of retention the justice shall forthwith discharge such
+46 patient, but if the verdict of the jury, or the decision of the court
+47 where a jury trial has been waived, be that such person is in need of
+48 retention the justice shall certify that fact and make an order author-
+49 izing continued inpatient treatment and care. Such order shall be
+50 presented, at the time of authorization, to, and filed with, the direc-
+51 tor, and a copy thereof shall be forwarded to the department by such
+52 director and filed in the office thereof. Proceedings under the order
+53 shall not be stayed pending an appeal therefrom, except upon an order of
+54 a justice of the supreme court, made upon a notice and after a hearing,
+55 with provisions made therein for such temporary care or confinement of
+56 the alleged person with a mental illness as may be deemed necessary.
+
+A. 2719--A 10
+1 (b) Nothing in this section shall prohibit the patient from voluntar-
+2 ily agreeing to such discharge at any time; provided, however, that such
+3 patient may not receive remuneration to agree to such discharge.
+4 § 23. Section 29.19 of the mental hygiene law, as amended by chapter
+5 408 of the laws of 1999, is amended to read as follows:
+6 § 29.19 Powers and duties [of peace officers acting pursuant to their
+7 special duties and police officers] to apprehend, restrain,
+8 and transport persons to facilities.
+9 A person who has been committed or admitted to a department facility
+10 or a hospital licensed or operated by the office of mental health and
+11 who has been reported as escaped therefrom or from lawful custody, or
+12 who resists or evades lawful custody; and any patient for whom the
+13 director of a hospital operated by the office of mental health, or the
+14 director's designee, has terminated a conditional release and ordered
+15 such patient to return to such facility; and any patient for whom a
+16 director of an assisted outpatient treatment program, as defined in
+17 subdivision (a) of section 9.60 of this chapter, or the director's
+18 designee, or anyone designated pursuant to section 9.37 of this chapter,
+19 has directed the removal to a hospital pursuant to subdivision (n) of
+20 section 9.60 of this chapter, may be apprehended, restrained, trans-
+21 ported to, and returned to such school or hospital by any person or
+22 persons with expertise in behavioral health and homeless intervention
+23 services, who may request the assistance of a peace officer, acting
+24 pursuant to [his] their special duties, or any police officer who is a
+25 member of an authorized police department or force or of a sheriff's
+26 department, and it shall be the duty of any such officer to assist any
+27 representative of a department or licensed facility, or an assisted
+28 outpatient treatment program, to take into custody any such person or
+29 patient upon the request of such representative, director or designee.
+30 No officer shall use coercive force to take a person into custody or
+31 pursue any such person who flees unless directed by a person with exper-
+32 tise in behavioral health, or homeless intervention services, and if so
+33 directed must refrain from any further coercion or pursuit at such
+34 direction; provided, however, that this shall not apply to detaining a
+35 person engaging in behavior likely to result in serious harm.
+36 § 24. Section 29.19 of the mental hygiene law, as amended by chapter
+37 843 of the laws of 1980, is amended to read as follows:
+38 § 29.19 Powers and duties of peace officers acting pursuant to their
+39 special duties and police officers to apprehend, restrain, and
+40 transport persons to facilities.
+41 A person who has been committed or admitted to a department facility
+42 and who has been reported as escaped therefrom or from lawful custody,
+43 or who resists or evades lawful custody, may be apprehended, restrained,
+44 transported to, and returned to such school or hospital by any person or
+45 persons with expertise in behavioral health and homeless intervention
+46 services, who may request the assistance of a peace officer, acting
+47 pursuant to [his] their special duties, or any police officer, and it
+48 shall be the duty of any such officer to assist any representative of a
+49 department facility to take into custody any such person upon the
+50 request of such representative. No officer shall use coercive force to
+51 take a person into custody or pursue any such person who flees unless
+52 directed by a person with expertise in behavioral health, or homeless
+53 intervention services, and if so directed must refrain from any further
+54 coercion or pursuit at such direction; provided, however, that this
+55 shall not apply to detaining a person engaging in behavior likely to
+56 result in serious harm.
+
+A. 2719--A 11
+1 § 25. Subdivisions (c) and (e) of section 29.27 of the mental hygiene
+2 law, as amended by chapter 322 of the laws of 2021, are amended to read
+3 as follows:
+4 (c) An incarcerated individual-patient may be retained for care and
+5 treatment in the facility designated by the commissioner for the period
+6 stated in the order committing the incarcerated individual-patient to
+7 the custody of the department unless sooner transferred or discharged in
+8 accordance with law. If the incarcerated individual-patient requires
+9 inpatient care and treatment for mental illness beyond such authorized
+10 period such person may request and shall receive medically recommended
+11 services, irrespective of ability to pay. If such person does not volun-
+12 tarily accept treatment, the director of the facility where [he or she
+13 is] they are kept in custody shall apply for an order of retention or
+14 subsequent orders of retention in accordance with the procedures set
+15 forth in article nine of this chapter for the retention of patients. The
+16 provisions of this chapter applying to the rights of patients with
+17 respect to notices, hearings, judicial review, writ of habeas corpus,
+18 and the services of the mental hygiene legal service shall apply to
+19 incarcerated individual-patients except that in no case shall an incar-
+20 cerated individual-patient be discharged or released from custody prior
+21 to the time that such incarcerated individual-patient has completed [his
+22 or her] their term of imprisonment or that [his or her] their release
+23 from custodial confinement in the correctional facility or jail from
+24 which [he or she] such individual was delivered to the department has
+25 been duly authorized.
+26 (e) When the director of the facility in which the incarcerated indi-
+27 vidual-patient is in custody finds that the incarcerated individual-pa-
+28 tient is no longer mentally ill or no longer requires hospitalization
+29 for care and treatment, [he or she] they shall so notify the incarcerat-
+30 ed individual-patient and commissioner of corrections and community
+31 supervision or, in the case of an incarcerated individual-patient coming
+32 from a jail or correctional institution operated by local government,
+33 the officer in charge of the jail or correctional institution from which
+34 the incarcerated individual-patient was committed. The commissioner of
+35 corrections and community supervision or such officer, as the case may
+36 be, shall immediately arrange to take such incarcerated individual-pa-
+37 tient into custody and return [him or her] them to a correctional facil-
+38 ity or to the jail or correctional institution operated by local govern-
+39 ment. Upon return to the correctional institution, such incarcerated
+40 individual shall be eligible for review for merit termination of
+41 sentence and discharge from presumptive release, parole, conditional
+42 release and release to post-release supervision pursuant to section
+43 two hundred five of the correction law.
+44 § 26. Subdivision 1 of section 43 of the social services law, as
+45 amended by chapter 458 of the laws of 1986, is amended and a new subdi-
+46 vision 12 is added to read as follows:
+47 1. [Within the limits of funds available in the homeless housing and
+48 assistance fund, the] The commissioner is hereby authorized to enter
+49 into contracts with municipalities to provide state financial assistance
+50 for the project costs attributable to the establishment of homeless
+51 housing projects. The municipalities that enter into contracts with the
+52 commissioner shall undertake the establishment of the homeless housing
+53 project or shall contract with a not-for-profit corporation or charita-
+54 ble organization to undertake the project, pursuant to this article.
+55 12. No later than five years after the effective date of this subdivi-
+56 sion, no municipality, not-for-profit corporation or subsidiary thereof,
+
+A. 2719--A 12
+1 public corporation or charitable organization or subsidiary thereof
+2 shall operate, enter into or renew a contract for any homeless housing
+3 project intended for occupancy more than thirty days other than a shel-
+4 ter composed of single room occupancy units.
+5 § 27. Subdivision 5 of section 45 of the social services law, as
+6 amended by chapter 349 of the laws of 1994, is amended to read as
+7 follows:
+8 5. "Single room occupancy unit" shall mean a private room providing
+9 living and sleeping space for no more than two persons or one family
+10 with access to bathing and toilet facilities, within a building or
+11 portion thereof which is operated by an eligible applicant[; provided,
+12 however, that in no event shall such unit be located in:
+13 (a) hotels, motels or other dwellings occupied transiently;
+14 (b) shelters for families or adults, as defined by the commissioner;
+15 (c) residential facilities or institutions which are required to be
+16 licensed by any state agency;
+17 (d) college or school dormitories;
+18 (e) clubhouses;
+19 (f) housing intended for use primarily or exclusively by the employees
+20 of a single company or institution; or
+21 (g) convents or monasteries].
+22 The unit itself may contain a kitchen and/or a bathroom.
+23 § 28. Subdivision 4 of section 81 of the social services law, as
+24 amended by chapter 863 of the laws of 1977, is amended to read as
+25 follows:
+26 4. Such annual reports shall include an itemized statement of all
+27 money received by the social services official and all money expended
+28 [by him], and a detailed statement in regard to the recipients of public
+29 assistance and care, and outcomes of homeless persons served that shall
+30 include but is not limited to housing stability, behavioral health
+31 outcomes, and employment. Town and city social services officers shall
+32 furnish the county commissioner with all data, relating to their work
+33 and persons in receipt of public assistance and care, necessary to
+34 enable the county commissioner to make the reports required by the
+35 department.
+36 § 29. Section 71-a of the correction law, as amended by chapter 322 of
+37 the laws of 2021, is amended to read as follows:
+38 § 71-a. Transitional accountability plan. Upon admission of an incar-
+39 cerated individual committed to the custody of the department under an
+40 indeterminate or determinate sentence of imprisonment, the department
+41 shall develop a transitional accountability plan. Such plan shall be a
+42 comprehensive, dynamic and individualized case management plan based on
+43 the programming and treatment needs of the incarcerated individual. The
+44 purpose of such plan shall be to promote the rehabilitation of the
+45 incarcerated individual and their successful and productive reentry and
+46 reintegration into society upon release. To that end, such plan shall be
+47 used to prioritize programming and treatment services for the incarcer-
+48 ated individual during incarceration and any period of community super-
+49 vision. The commissioner [may] shall consult with the office of mental
+50 health, the office of [alcoholism and substance abuse] addiction
+51 services and supports, the board of parole, the department of health,
+52 and other appropriate agencies in the development of transitional case
+53 management plans.
+54 § 30. Paragraph (c) of subdivision 6 of section 72-a of the correction
+55 law is REPEALED.
+
+A. 2719--A 13
+1 § 31. Section 5 of chapter 554 of the laws of 1986, amending the
+2 correction law and the penal law relating to providing for community
+3 treatment facilities and establishing the crime of absconding from the
+4 community treatment facility, as amended by section 22 of part A of
+5 chapter 55 of the laws of 2023, is amended to read as follows:
+6 § 5. This act shall take effect immediately and shall remain in full
+7 force and effect until September 1, [2025] 2027, and provided further
+8 that the commissioner of correctional services shall report each January
+9 first and July first during such time as this legislation is in effect,
+10 to the [chairmen] chair of the senate crime victims, crime and
+11 correction committee, the senate codes committee, the assembly
+12 correction committee, and the assembly codes committee, the number of
+13 individuals who are released to community treatment facilities during
+14 the previous six-month period, including the total number for each date
+15 at each facility who are not residing within the facility, but who are
+16 required to report to the facility on a daily or less frequent basis.
+17 § 32. Subdivisions 5 and 15 of section 201 of the correction law,
+18 subdivision 5 as amended by chapter 484 of the laws of 2022, subdivision
+19 15 as added by section 32 of subpart A of part C of chapter 62 of the
+20 laws of 2011, are amended to read as follows:
+21 5. The department shall assist incarcerated individuals eligible for
+22 community supervision and individuals who are on community supervision
+23 to secure employment, educational or vocational training, [and] housing
+24 and treatment pursuant to the mental hygiene law. Any program the
+25 department requires a person on community supervision to take as a
+26 condition of such supervision shall not unreasonably interfere with such
+27 person's employment, educational or vocational training schedule unless
+28 such program is a residential treatment program.
+29 15. The commissioner shall provide an annual report to the temporary
+30 president of the senate, the speaker of the assembly, the minority lead-
+31 er of the senate and minority leader of the assembly, commencing January
+32 first, two thousand twelve. Such report shall include but not be limited
+33 to the number of persons: released to community supervision and the
+34 release type; supervised on community supervision during the preceding
+35 year; whose community supervision was revoked; returned to incarceration
+36 for conviction of a new felony committed while on community supervision;
+37 transferred out of state pursuant to the Interstate Compact for Adult
+38 Supervision. In addition, the commissioner shall provide information on
+39 behavioral health and housing outcomes, and other available information
+40 regarding community supervision to the temporary president of the
+41 senate, the speaker of the assembly, the minority leader of the senate
+42 and minority leader of the assembly upon request.
+43 § 33. Section 205 of the correction law is amended by adding a new
+44 subdivision 1-a to read as follows:
+45 1-a. A merit termination may be granted if it is determined by the
+46 department that such person cannot be reasonably expected to reoffend if
+47 provided services pursuant to the social services law or the mental
+48 hygiene law, and such person is not on presumptive release, parole,
+49 conditional release or release to post-release supervision from a term
+50 of imprisonment imposed for any of the following offenses:
+51 (a) murder in the first degree;
+52 (b) unlawful imprisonment in the first degree, kidnapping in the first
+53 degree, or kidnapping in the second degree, in which the victim is less
+54 than seventeen years old and the offender is not the parent of the
+55 victim;
+
+A. 2719--A 14
+1 (c) an offense defined in article two hundred thirty of the penal law
+2 involving the prostitution of a person less than nineteen years old; or
+3 (d) an offense defined in article two hundred sixty-three of the penal
+4 law.
+5 § 34. Paragraph (c) of subdivision 1 of section 273 of the correction
+6 law, as added by section 1 of part SS of chapter 56 of the laws of 2009,
+7 is amended to read as follows:
+8 (c) having verified community ties in one of the following areas:
+9 employment, permanent residence or receipt of homeless intervention
+10 services and family.
+11 § 35. Subdivision 6 of section 400 of the correction law, as added by
+12 chapter 766 of the laws of 1976, is amended to read as follows:
+13 (6) "Mental illness" means an affliction with a mental disease or
+14 mental condition which is manifested by a disorder or disturbance in
+15 behavior, feeling, thinking, or judgment to such an extent that the
+16 person afflicted requires care and treatment; or an addictive disorder
+17 as defined in the mental hygiene law.
+18 § 36. Section 401 of the correction law is amended by adding a new
+19 subdivision 1-a to read as follows:
+20 1-a. A mental health clinician, or the highest ranking facility secu-
+21 rity supervisor in consultation with a mental health clinician who has
+22 interviewed the incarcerated individual, may determine that such incar-
+23 cerated individual can receive therapeutic programming and/or mental
+24 health treatment in an outpatient facility with an appropriate operating
+25 certificate while living out-of-cell if such incarcerated person is
+26 reasonably safe to be at-large. Such determination shall be documented
+27 in writing.
+28 § 37. Subdivision 6 of section 401 of the correction law, as separate-
+29 ly amended by section 9 of part NNN of chapter 59 and chapter 322 of the
+30 laws of 2021, is amended to read as follows:
+31 6. The department shall ensure that the curriculum for new correction
+32 officers, and other new department staff who will regularly work in
+33 programs providing mental health treatment for incarcerated individuals,
+34 shall include at least eight hours of training about the types and symp-
+35 toms of mental illnesses, the goals of mental health treatment, the
+36 prevention of suicide and training in how to effectively and safely
+37 manage incarcerated individuals with mental illness. Such training may
+38 be provided by the office of mental health or the justice center for the
+39 protection of people with special needs. All department staff who are
+40 transferring into a residential mental health treatment unit shall
+41 receive a minimum of eight additional hours of such training, and eight
+42 hours of annual training as long as they work in such a unit. All secu-
+43 rity, program services, mental health and medical staff with direct
+44 incarcerated individual contact shall receive training each year regard-
+45 ing identification of, and care for, incarcerated individuals with
+46 mental illnesses. The department shall provide additional training on
+47 these topics on an ongoing basis as it deems appropriate. All staff
+48 working in a residential mental health treatment unit shall also receive
+49 the training mandated in paragraph (n) of subdivision six of section one
+50 hundred thirty-seven of this chapter. All department staff shall have
+51 the obligation to report signs of mental illness to a supervisor.
+52 § 38. Subdivisions 1, 2, 3, 9 and 10 of section 402 of the correction
+53 law, as amended by chapter 351, subdivisions 1, 2, 3 and 9 as separately
+54 amended by chapter 322 of the laws of 2021, are amended and a new subdi-
+55 vision 12-a is added to read as follows:
+
+A. 2719--A 15
+1 1. [Whenever the] The physician of any correctional facility, any
+2 county penitentiary, county jail or workhouse, any reformatory for
+3 women, or of any other correctional institution, shall [report in writ-
+4 ing to the superintendent that] conduct a personal examination and
+5 review medical records of any person undergoing a sentence of imprison-
+6 ment or adjudicated to be a youthful offender or juvenile delinquent
+7 confined therein within five days of such person's incarceration, and
+8 every twelve months thereafter. If the physician determines that the
+9 incarcerated person has, in [his or her] such physician's opinion, a
+10 mental illness, [such superintendent shall apply to a judge of the coun-
+11 ty court or justice of the supreme court in the county to cause an exam-
+12 ination to be made of such person by two examining physicians. Such
+13 physicians shall be designated by the judge to whom the application is
+14 made.] such physician shall cause an examination to be made of such
+15 person by a second examining physician within twenty-four hours. Each
+16 such physician, if satisfied, after a personal examination, that such
+17 incarcerated individual has a mental illness and in need of care and
+18 treatment, shall make a certificate to such effect. [Before making such
+19 certificate, however, he or she shall consider alternative forms of care
+20 and treatment available during confinement in such correctional facili-
+21 ty, penitentiary, jail, reformatory or correctional institution that
+22 might be adequate to provide for such incarcerated individual's needs
+23 without requiring hospitalization.] If the examining physician knows
+24 that the person [he or she is] they are examining has been under prior
+25 treatment, [he or she] such physician shall, insofar as possible,
+26 consult with the physician or psychologist furnishing such prior treat-
+27 ment prior to making [his or her] such certificate.
+28 2. In the city of New York, [if] within five days of an individual's
+29 incarceration and every twelve months thereafter, the physician of a
+30 workhouse, city prison, jail, penitentiary or reformatory [reports in
+31 writing to the superintendent of such institution that a prisoner
+32 confined therein, serving a sentence of imprisonment, in his or her
+33 opinion] shall conduct a personal examination and review medical records
+34 of such incarcerated individual. If, in the opinion of such physician,
+35 the incarcerated individual has a mental illness, or if medical records
+36 for such incarcerated individual document diagnosis of an ongoing seri-
+37 ous mental illness, the superintendent of said institution shall either
+38 transfer said [prisoner] incarcerated individual to Bellevue or Kings
+39 county hospital for observation as to [his or her] such individual's
+40 mental condition by two examining physicians or shall secure two examin-
+41 ing physicians to make such examination and review medical records in
+42 [his] the institution. Each such physician, if satisfied after a
+43 personal examination [and], observation, and review of medical records
+44 that the [prisoner] individual has a mental illness [and] in need of
+45 care and treatment, shall make a certificate to such effect. [Before
+46 making such certificate, however, he or she shall consider alternative
+47 forms of care and treatment available during confinement in such correc-
+48 tional facility, penitentiary, jail, reformatory or correctional insti-
+49 tution that might be adequate to provide for such incarcerated individ-
+50 ual's needs without requiring hospitalization.] If the examining
+51 physician knows that the person [he or she is] they are examining has
+52 been under prior treatment, [he or she] they shall, insofar as possible,
+53 consult with the physician or psychologist furnishing such prior treat-
+54 ment prior to making [his or her] such certificate.
+55 3. Upon such certificates of the examining physicians being so made,
+56 it shall be delivered to the superintendent who, if the incarcerated
+
+A. 2719--A 16
+1 individual does not agree to voluntary admission, shall thereupon apply
+2 by petition forthwith to a judge of the county court or justice of the
+3 supreme court in the county, annexing such certificate to [his or her]
+4 their petition, for an order committing such incarcerated individual to
+5 a hospital for persons with a mental illness or outpatient facility with
+6 an appropriate operating certificate. Upon every such application for
+7 such an order of commitment, notice thereof in writing, of at least five
+8 days, together with a copy of the petition, shall be served personally
+9 upon the alleged person with a mental illness, and in addition thereto
+10 such notice and a copy of the petition shall be served upon either the
+11 [wife, the husband, the father or mother] spouse, parent or other near-
+12 est relative of such alleged person with a mental illness, if there be
+13 any such known relative within the state; and if not, such notice shall
+14 be served upon any known friend of such alleged person with a mental
+15 illness within the state. If there be no such known relative or friend
+16 within the state, the giving of such notice shall be dispensed with, but
+17 in such case the petition for the commitment shall recite the reasons
+18 why service of such notice on a relative or friend of the alleged person
+19 with a mental illness was dispensed with and, in such case, the order
+20 for commitment shall recite why service of such a notice on a relative
+21 or friend of the alleged person with a mental illness was dispensed
+22 with. Copies of the notice, the petition and the certificates of the
+23 examining physicians shall also be given the mental hygiene legal
+24 service. The mental hygiene legal service shall inform the incarcerated
+25 individual and, in proper cases, others interested in the incarcerated
+26 individual's welfare, of the procedures for placement in a hospital or
+27 outpatient facility having an appropriate operating certificate and of
+28 the incarcerated individual's right to have a hearing, to have judicial
+29 review with a right to a jury trial, to be represented by counsel and to
+30 seek an independent medical opinion. The mental hygiene legal service
+31 shall have personal access to such incarcerated individual for such
+32 purposes.
+33 9. Except as provided in subdivision two of this section pertaining to
+34 [prisoners] incarcerated individuals confined in the city of New York,
+35 an incarcerated individual of a correctional facility or a county jail
+36 may be admitted on an emergency basis to the Central New York Psychiat-
+37 ric Center upon the certification by two examining physicians, including
+38 physicians employed by the office of mental health and associated with
+39 the correctional facility in which such incarcerated individual is
+40 confined, that the incarcerated individual suffers from a mental illness
+41 which is likely to result in serious harm to [himself, herself] themself
+42 or others as defined in subdivision (a) of section 9.39 of the mental
+43 hygiene law. Any person so committed shall be delivered by the super-
+44 intendent within a twenty-four hour period, to the director of the
+45 appropriate hospital as designated in the rules and regulations of the
+46 office of mental health. Upon delivery of such person to a hospital
+47 operated by the office of mental health, if such person does not agree
+48 to voluntary admission, a proceeding under this section shall immediate-
+49 ly be commenced.
+50 10. If the director of a hospital for persons with a mental illness
+51 shall deem that the condition of such person with a mental illness
+52 requires [his] further retention in a hospital [he] the director shall,
+53 during the period of retention authorized by the last order of the
+54 court, apply to the supreme court or county court in the county where
+55 such hospital is located, for an order authorizing continued retention
+56 of such person with a mental illness. The procedures for obtaining any
+
+A. 2719--A 17
+1 order pursuant to this subdivision shall be in accordance with the
+2 provisions of the mental hygiene law for the retention of involuntary
+3 patients. A person may be discharged before the end of any sentence or
+4 period of retention if the director determines it is medically appropri-
+5 ate and such person is not likely to reoffend.
+6 12-a. Prior to discharge, the facility director shall provide the
+7 department with a treatment plan deemed medically appropriate and that
+8 supports the housing stability and economic well-being of such person,
+9 and the department, in consultation with the department of health must
+10 approve such plan. If the director determines that no plan is needed,
+11 they shall provide a written attestation to that effect.
+12 § 39. Subdivision 4 of section 404 of the correction law, as amended
+13 by chapter 322 of the laws of 2021, is amended to read as follows:
+14 4. Every incarcerated individual who has received mental health treat-
+15 ment pursuant to this article within three years of [his or her] their
+16 anticipated release date from a state correctional facility shall be
+17 provided with mental health discharge planning and, when necessary, [an
+18 appointment with a mental health professional] a course of treatment in
+19 the community [who can prescribe] that can include prescription medica-
+20 tions following discharge and sufficient mental health medications and
+21 prescriptions to bridge the period between discharge and such time as
+22 such mental health professional may assume care of the patient. Incar-
+23 cerated individuals who have refused mental health treatment may also be
+24 provided mental health discharge planning and any necessary appointment
+25 with a mental health professional.
+26 § 40. Subdivision 5 of section 201 of the correction law, as amended
+27 by chapter 484 of the laws of 2022, is amended to read as follows:
+28 5. The department shall assist incarcerated individuals eligible for
+29 community supervision and individuals who are on community supervision
+30 to secure employment, educational or vocational training, mental health
+31 treatment, and housing. Any program the department requires a person on
+32 community supervision to take as a condition of such supervision shall
+33 not unreasonably interfere with such person's employment, educational or
+34 vocational training schedule unless such program is a residential treat-
+35 ment program.
+36 § 41. The judiciary law is amended by adding a new article 5-C to read
+37 as follows:
+38 ARTICLE 5-C
+39 MENTAL HEALTH COURTS
+40 Section 178. Establishment of mental health courts.
+41 178-a. Transfer of actions or proceedings to superior mental
+42 health courts.
+43 178-b. Transfer of actions or proceedings to local mental health
+44 courts.
+45 178-c. Procedure in a superior mental health court or local
+46 mental health court upon transfer of actions or
+47 proceedings thereto.
+48 178-d. Reports.
+49 § 178. Establishment of mental health courts. 1. Following consulta-
+50 tion with the presiding justice of the appropriate appellate division,
+51 the chief administrator of the courts shall establish mental health
+52 courts in supreme court or county court ("superior mental health
+53 courts") in any county and assign one or more justices or judges to
+54 preside therein. Each superior mental health court shall have as its
+55 purpose the hearing and determination of:
+
+A. 2719--A 18
+1 (a) criminal cases that are commenced in the superior court and that
+2 are identified by the court as appropriate for disposition by a superior
+3 mental health court; and
+4 (b) criminal cases that are commenced in other courts of the county,
+5 and that are identified as appropriate for disposition by a superior
+6 mental health court and transferred to that court as provided for in
+7 section one hundred seventy-eight-a of this article.
+8 2. Where necessary to best utilize available court and community
+9 resources for actions or proceedings involving defendants with mental
+10 health problems, the chief administrator of the courts shall establish
+11 mental health courts in one or more city or district courts or town or
+12 village justice courts in such county, and assign one or more justices
+13 or judges to preside therein. Each local mental health court shall have
+14 as its purpose the hearing and determination of criminal actions or
+15 proceedings that are commenced in a city or district court or town or
+16 village justice court that are identified as appropriate for disposition
+17 by a local mental health court and transferred to that court as provided
+18 for in section one hundred seventy-eight-b of this article.
+19 § 178-a. Transfer of actions or proceedings to superior mental health
+20 courts. 1. (a) A local criminal court in a county in which a superior
+21 mental health court has been established may, upon motion of the defend-
+22 ant and with the consent of the district attorney, cause copies of
+23 papers and other documents filed in such local criminal court in
+24 connection with a criminal action or proceeding pending therein to be
+25 sent to the superior mental health court:
+26 (i) upon or after arraignment of the defendant on a local criminal
+27 court accusatory instrument by which such action or proceeding was
+28 commenced; or
+29 (ii) upon or after commencement of a proceeding brought against the
+30 defendant for the violation of a condition of a sentence of probation or
+31 a sentence of conditional discharge.
+32 (b) Not later than five days following receipt of the papers and other
+33 documents, where there is a reasonable belief that a defendant has a
+34 severe mental illness, the justice or judge presiding in the superior
+35 mental health court shall review the medical records of such defendant
+36 and shall cause a psychiatric evaluation of such defendant. If the
+37 defendant is determined to have a severe mental illness, the justice or
+38 judge presiding in the court shall order transfer, of the action or
+39 proceeding to the superior mental health court, all originating papers
+40 shall be sent from the originating court to the superior mental health
+41 court, and all further proceedings shall be conducted therein. If the
+42 justice or judge determines that a transfer of the action or proceeding
+43 would not promote the administration of justice, they shall notify the
+44 local criminal court from which the reference was received of such
+45 determination, whereupon all further proceedings in such action or
+46 proceeding shall be conducted in accordance with law.
+47 2. (a) At any time while a criminal action or proceeding is pending in
+48 a superior court in a county in which a superior mental health court has
+49 been established, including a proceeding brought against defendant for
+50 the violation of a condition of a sentence of probation or a sentence of
+51 conditional discharge, a judge or justice of the court in which the
+52 action or proceeding is pending may, upon motion of the defendant and
+53 with the consent of the district attorney, cause copies of papers and
+54 other documents filed in such court in connection with the action or
+55 proceeding to be sent to the judge or justice presiding in the superior
+56 mental health court for review of the appropriateness of the transfer.
+
+A. 2719--A 19
+1 (b) Not later than five business days following receipt of the papers
+2 and other documents, the judge or justice presiding in the superior
+3 mental health court shall determine whether or not a transfer of the
+4 action or proceeding to the court would promote the administration of
+5 justice. If such judge or justice determines that it would:
+6 (i) such judge or justice, if sitting in supreme court, may order such
+7 transfer, in which event the action or proceeding shall be referred for
+8 disposition to the superior mental health court, all original papers
+9 shall be sent to the superior mental health court, and all further
+10 proceedings in such action or proceeding shall be conducted therein; or
+11 (ii) such judge or justice, if sitting in county court, shall so noti-
+12 fy the judge of the court who caused the papers and other documents to
+13 be sent to them, and such justice may thereupon order such transfer, in
+14 which event the action or proceeding shall be referred for disposition
+15 to the superior mental health court, all original papers shall be sent
+16 from the originating court to the superior mental health court, and all
+17 further proceedings in such action or proceeding shall be conducted
+18 therein. If the judge or justice presiding in the superior mental health
+19 court determines that a transfer of the action or proceeding would not
+20 promote the administration of justice, such judge or justice shall noti-
+21 fy the originating court of such determination, whereupon all further
+22 proceedings in such action or proceeding shall be conducted in accord-
+23 ance with law.
+24 3. Upon transfer of an action or proceeding to a mental health court,
+25 a judge or justice, with the advice and consent of a psychiatrist and a
+26 social services official, may order inpatient medical treatment, outpa-
+27 tient treatment, or other medically recommended treatment, and may order
+28 monitoring for compliance. Failure to comply with any such order may
+29 result in a new hearing. Failure to comply with any such order shall not
+30 be grounds for incarceration, probation, or fines.
+31 4. Upon transfer of an action or proceeding to a mental health court,
+32 the defendant shall be notified of social services available to them.
+33 § 178-b. Transfer of actions or proceedings to local mental health
+34 courts. 1. A local criminal court in a county in which a local mental
+35 health court has been established may, upon motion of the defendant and
+36 with the consent of the district attorney, cause copies of papers and
+37 other documents filed in such local criminal court in connection with a
+38 criminal action or proceeding therein to be sent to the local mental
+39 health court:
+40 (a) upon or after arraignment of a defendant on a local criminal court
+41 accusatory instrument by which such action or proceeding was commenced;
+42 or
+43 (b) upon or after commencement of a proceeding brought against a
+44 defendant for the violation of a condition of a sentence of probation or
+45 a sentence of conditional discharge.
+46 2. Not later than five days following receipt of the papers and other
+47 documents, the justice or judge presiding in the local mental health
+48 court, in consultation with the justice or judge in the court of origin,
+49 shall review the medical records of such defendant and shall cause a
+50 psychiatric evaluation of such defendant. If the defendant is determined
+51 to have a severe mental illness, the justice or judge presiding in the
+52 court shall order transfer, of the action or proceeding shall be trans-
+53 ferred to the local mental health court, all originating papers shall
+54 then be sent from the court of origin to the local mental health court,
+55 and all further proceedings shall be conducted therein. If the presiding
+56 justice or judge in the local mental health court or the justice or
+
+A. 2719--A 20
+1 judge presiding in the court of origin determines that a transfer of the
+2 action or proceeding would not promote the administration of justice,
+3 the action or proceeding will not be transferred and all further
+4 proceedings in such action or proceeding shall be conducted in accord-
+5 ance with law.
+6 3. Upon transfer of an action or proceeding to a mental health court,
+7 a judge or justice, with the advice and consent of a psychiatrist and a
+8 social services official, may order inpatient medical treatment, outpa-
+9 tient treatment, or other medically recommended treatment, and may order
+10 monitoring for compliance. Failure to comply with any such order may
+11 result in a new hearing. Failure to comply with any such order shall not
+12 be grounds for incarceration, probation, or fines.
+13 4. Upon transfer of an action or proceeding to a mental health court,
+14 the defendant shall be notified of social services available to them.
+15 Such services shall include, but are not limited to, employment, health
+16 care, mental health care, educational or vocational training, housing,
+17 and access to supportive outpatient facilities such as clubhouses.
+18 § 178-c. Procedure in a superior mental health court or local mental
+19 health court upon transfer of actions or proceedings thereto. Each
+20 action or proceeding transferred to a superior court and referred for
+21 disposition to a superior mental health court thereof and each action
+22 transferred to a local court and referred for disposition in a local
+23 mental health court thereof shall be subject to the same substantive and
+24 procedural law as would have applied had there been no transfer.
+25 § 178-d. Reports. Every five years the office of court administration
+26 shall produce a report on outcomes on defendants in mental health courts
+27 which shall include, but not be limited to, subsequent arrests, behav-
+28 ioral health outcomes, and housing stability of such defendants.
+29 § 42. Section 730.30 of the criminal procedure law, subdivision 3 as
+30 amended by chapter 629 of the laws of 1974, is amended to read as
+31 follows:
+32 § 730.30 Fitness to proceed; order of examination.
+33 1. At any time after a defendant is arraigned upon an accusatory
+34 instrument [other than a felony complaint and] before the imposition of
+35 sentence, or at any time after a defendant is arraigned upon a felony
+36 complaint [and before he is held for the action of the grand jury], if
+37 the defendant produces records or other evidence of a medical diagnosis
+38 of mental illness or mental disability, or it is otherwise the opinion
+39 of the court that the defendant may be an incapacitated person, the
+40 court [wherein the criminal action is pending must issue an order of
+41 examination when it is of the opinion that the defendant may be an inca-
+42 pacitated person] shall direct such defendant to the mental health court
+43 as provided for in article five-C of the judiciary law. For purposes of
+44 such determination, the court may issue an order of examination.
+45 2. When the examination [reports] report submitted to the court [show]
+46 shows that [each] the psychiatric examiner is of the opinion that the
+47 defendant is not an incapacitated person, the court may, on its own
+48 motion, conduct a hearing to determine the issue of capacity, and it
+49 must conduct a hearing upon motion therefor by the defendant or by the
+50 district attorney. If no motion for a hearing is made, the criminal
+51 action against the defendant must proceed. If, following a hearing, the
+52 court is satisfied that the defendant is not an incapacitated person,
+53 the criminal action against [him] such defendant must proceed; if the
+54 court is not so satisfied, it must issue a further order of examination
+55 directing that the defendant be examined by a different psychiatric
+56 [examiners] examiner designated by the director.
+
+A. 2719--A 21
+1 3. When the examination reports submitted to the court show that each
+2 psychiatric examiner is of the opinion that the defendant is an incapac-
+3 itated person, the court [may, on its own motion, conduct a hearing to
+4 determine the issue of capacity and it must conduct such hearing upon
+5 motion therefor by the defendant or by the district attorney] shall
+6 direct such defendant to the mental health court wherein the criminal
+7 action is pending.
+8 4. When the examination reports submitted to the court show that the
+9 psychiatric examiners are not unanimous in their opinion as to whether
+10 the defendant is or is not an incapacitated person, or when the examina-
+11 tion reports submitted to the superior court show that the psychiatric
+12 examiners are not unanimous in their opinion as to whether the defendant
+13 is or is not [a dangerous] an incapacitated person who, with a course of
+14 medically recommended treatment, nonetheless has a high probability of
+15 engaging in behavior likely to result in serious harm, the court must
+16 conduct a hearing to determine the issue of capacity or [dangerousness]
+17 such likelihood.
+18 § 43. Subdivision 9 of section 730.10 of the criminal procedure law,
+19 as added by section 1 of part Q of chapter 56 of the laws of 2012, is
+20 amended and three new subdivisions 10, 11 and 12 are added to read as
+21 follows:
+22 9. "Appropriate institution" means: (a) a hospital operated by the
+23 office of mental health or a developmental center operated by the office
+24 for people with developmental disabilities; [or] (b) a hospital licensed
+25 by the department of health which operates a psychiatric unit licensed
+26 by the office of mental health, as determined by the commissioner
+27 [provided, however, that any]; or (c) an outpatient facility having an
+28 appropriate operating certificate. Any such hospital or outpatient
+29 facility that is not operated by the state [shall] may qualify as an
+30 "appropriate institution" [only pursuant to the terms of an agreement
+31 between the commissioner and the hospital] upon the consent of the
+32 hospital or outpatient facility. Nothing in this article shall be
+33 construed as requiring a hospital or outpatient facility to consent to
+34 providing care and treatment to an incapacitated person [at such hospi-
+35 tal] if another appropriate institution offering comparable care and
+36 treatment is available.
+37 10. "Likely to result in serious harm" has the same meaning as defined
+38 in section 9.01 of the mental hygiene law.
+39 11. "Mental illness" has the same meaning as defined in section 1.03
+40 of the mental hygiene law.
+41 12. "Mental disability" has the same meaning as defined in section
+42 1.03 of the mental hygiene law.
+43 § 44. The public health law is amended by adding a new article 30-D to
+44 read as follows:
+45 ARTICLE 30-D
+46 EMERGENCY BEHAVIORAL HEALTH SERVICES
+47 Section 3080. Description.
+48 3081. Definitions.
+49 3082. State emergency behavioral health services advisory
+50 committee.
+51 § 3080. Description. 1. Emergency behavioral health services is a
+52 system for the immediate recognition and management of sudden illness or
+53 behavior of someone (a) with mental illness or mental disability, (b)
+54 who is homeless, or (c) who is engaging in behavior that is the result
+55 of substance use disorder, and addresses emergency medical dispatch,
+56 prehospital emergency care, in-hospital emergency care, admission,
+
+A. 2719--A 22
+1 behavioral health services, homeless intervention services, and housing.
+2 Such response shall consist of a team including, but not limited to,
+3 members trained in emergency medical services, behavioral health
+4 services, addictive disorder services, and homeless intervention
+5 services.
+6 2. For the purposes of satisfying this section, team members may
+7 include individuals who have experienced mental illness or homelessness.
+8 Such team shall not include a police officer or peace officer, provided,
+9 however, that such team may request one for accompaniment or inter-
+10 vention at any time.
+11 § 3081. Definitions. As used in this article:
+12 1. "State emergency behavioral health services advisory committee"
+13 means the state emergency behavioral health services advisory committee
+14 provided for by this article.
+15 2. "State emergency medical services council" means the state emergen-
+16 cy medical services council established under article thirty of this
+17 chapter.
+18 3. "State emergency medical advisory committee" means the state emer-
+19 gency medical advisory committee established under article thirty of
+20 this chapter.
+21 4. "State trauma advisory committee" means the state trauma advisory
+22 committee established under article thirty-B of this chapter.
+23 5. "Mental illness" has the same meaning as defined in section 1.03 of
+24 the mental hygiene law.
+25 6. "Mental disability" has the same meaning as defined in section 1.03
+26 of the mental hygiene law.
+27 7. "Behavioral health services" has the same meaning as defined in
+28 section 1.03 of the mental hygiene law.
+29 8. "Addictive disorder services" has the same meaning as defined in
+30 section 1.03 of the mental hygiene law.
+31 9. "Homeless intervention services" means services rendered pursuant
+32 to section fifty of the social services law.
+33 10. "Admission" refers to hospitalization of a person with mental
+34 illness pursuant to article nine of the mental hygiene law.
+35 § 3082. State emergency behavioral health services advisory committee.
+36 1. There is hereby established in the department the state emergency
+37 behavioral health services advisory committee. It shall consist of
+38 behavioral health and homeless intervention advocates representative of
+39 all geographic areas of the state; of those occupations regularly
+40 involved in behavioral health services and homeless intervention
+41 services; and of those with experience receiving such services,
+42 appointed by the commissioner upon recommendation of appropriate state-
+43 wide professionals or organizations, who shall serve for terms of four
+44 years, which may be renewed. It shall advise the department, the commis-
+45 sioner, the state emergency medical services council, the state emergen-
+46 cy medical advisory committee, and the state trauma advisory committee
+47 regarding all aspects of emergency behavioral health services, includ-
+48 ing, but not limited to, emergency medical dispatch, prehospital emer-
+49 gency care, in-hospital emergency care, admission, behavioral health
+50 services, homeless intervention services, and housing. The state emer-
+51 gency medical services director, the state emergency medical services
+52 medical director, the state trauma medical director, the state trauma
+53 program manager, and the governor's highway traffic safety administra-
+54 tor, shall also serve as nonvoting ex-officio members.
+55 2. The state emergency behavioral health services advisory committee
+56 shall meet as frequently as its business may require, but ordinarily no
+
+A. 2719--A 23
+1 less than quarterly. The members of the state emergency behavioral
+2 health services advisory committee shall receive no compensation for
+3 their services as members, but each shall be allowed the necessary and
+4 actual expenses incurred in the performance of their duties under this
+5 section.
+6 3. The commissioner shall designate an officer or employee of the
+7 department to assist the state emergency behavioral health services
+8 advisory committee in the performance of its duties under this section,
+9 to coordinate the activities of the state emergency behavioral health
+10 services advisory committee and to facilitate communication between the
+11 state emergency health services council, the state emergency medical
+12 advisory committee, and the state trauma advisory committee.
+13 4. In no event shall any member, officer, or employee of the state
+14 emergency behavioral health services committee be liable for damages in
+15 any civil action for any act done, failure to act, or statement or opin-
+16 ion made, while discharging duties as a member, officer, or employee of
+17 the state emergency behavioral health services advisory committee if
+18 they shall have acted in good faith, with reasonable care.
+19 § 45. Subdivision 1 of section 602 of the public health law is amended
+20 by adding a new paragraph (g) to read as follows:
+21 (g) Mental health services.
+22 § 46. The administrative code of the city of New York is amended by
+23 adding two new sections 21-335 and 21-336 to read as follows:
+24 § 21-335 Mobile devices and post office boxes. 1. Every homeless
+25 person, or one individual in a family which is identified as homeless
+26 shall be entitled to a mobile phone capable of at least Short Message
+27 Service (SMS) and electronic mail.
+28 2. Every homeless person, or one individual in a family which is iden-
+29 tified as homeless shall be entitled to a post office box or other mail-
+30 ing address.
+31 § 21-336 Shelter systems study. At least once every five years, the
+32 commissioner shall undertake a dynamic study on needed improvements to
+33 the shelter system. Such study shall be conducted by following the
+34 attempts of at least five contracted persons, posing as homeless indi-
+35 viduals, as they attempt to seek permanent housing and services. The
+36 commissioner shall produce a report on those processes and make recom-
+37 mendations for improvements.
+38 § 47. Section 17-199.26 of the administrative code of the city of New
+39 York, as added by local law number 108 of the city of New York for the
+40 year 2023, and as renumbered by local law number 100 for the city of New
+41 York for the year 2024, is amended to read as follows:
+42 § 17-199.26 Mental health and behavioral health services outreach and
+43 education. The department shall establish and implement an outreach and
+44 education campaign to raise public awareness about programs that provide
+45 low-cost and no-cost mental health services to New Yorkers who do not
+46 qualify for or cannot afford health insurance based on federal guide-
+47 lines. Such outreach and education shall include, as applicable, an
+48 explanation of how individuals may access such services, including, but
+49 not limited to, through referrals from primary care providers. The mate-
+50 rials for such outreach and education campaign shall be made available
+51 in English and the designated citywide languages, as defined in section
+52 23-1101. The department shall provide pamphlets and conspicuously
+53 display information on the program in all city agency buildings,
+54 schools, shelters, and at hospitals operated by the New York city health
+55 and hospitals corporation.
+
+A. 2719--A 24
+1 § 48. The administrative code of the city of New York is amended by
+2 adding a new section 21-304.1 to read as follows:
+3 § 21-304.1 Application; process. 1. To the maximum extent possible:
+4 a. The commissioner shall develop a single application for all
+5 programs under this chapter, or, in the alternative, a process whereby
+6 the information provided by an applicant in a single application can be
+7 populated into other applications.
+8 b. An application for services shall not be closed due to a missed
+9 appointment or other noncompliance.
+10 c. An applicant shall be presumed eligible for services under this
+11 chapter and shall receive such services pending verification. If the
+12 applicant is subsequently deemed ineligible, the commissioner may
+13 provide alternative services. If the applicant is found to be in
+14 violation of any provisions of article one hundred fifty-eight of the
+15 penal law relating to the receipt of services under this chapter, the
+16 commissioner may discontinue services and recover civil damages pursuant
+17 to section one hundred forty-five-b of the social services law.
+18 § 49. Section 21-314 of the administrative code of the city of New
+19 York, as added by local law number 57 for the city of New York for the
+20 year 1998, and as renumbered by local law number 19 for the city of New
+21 York for the year 1999, is amended to read as follows:
+22 § 21-314 Case management services. [The] Within fourteen days of
+23 admission, the commissioner shall provide case management services to
+24 all persons assigned to stay at the department's facilities or the
+25 facilities of organizations contracting with the department who are
+26 either waiting for the department to determine their eligibility for
+27 shelter or are receiving such shelter. Such case management services
+28 shall include, but not be limited to, assistance obtaining (a) medical
+29 treatment, (b) federal, state and local government documents including,
+30 but not limited to, birth certificates, marriage licenses, and housing
+31 records, [and] (c) food, medicine and other necessary supplies, (d)
+32 permanent housing, and (e) outpatient services including clubhouses; and
+33 shall address issues such as domestic violence, child abuse and mental
+34 illness[, when needed] that shall include transferring such persons to
+35 medically recommended treatment. To this end, an examining physician
+36 will perform a psychiatric evaluation and review medical records of each
+37 such person, and shall refer such person to medically recommended treat-
+38 ment.
+39 § 50. Paragraphs 1, 10 and 11 of subdivision b of section 21-332 of
+40 the administrative code of the city of New York, as added by local law
+41 number 62 of the city of New York for the year 2023, are amended and a
+42 new paragraph 12 is added to read as follows:
+43 1. The right to shelter, which shall not be contingent upon a person
+44 undergoing addictive disorder services;
+45 10. The requirement that a shelter comply with the environmental stan-
+46 dards set forth in section 491.18 of title 18 of the New York codes,
+47 rules and regulations and section 900.18 of such title, as applicable;
+48 [and]
+49 11. The right to mental health treatment;
+50 12. The right to a mobile phone and a post office box or other mailing
+51 address; and
+52 13. Any other information the department deems appropriate.
+53 § 51. Severability. If any clause, sentence, paragraph, subdivision,
+54 section or part of this act shall be adjudged by any court of competent
+55 jurisdiction to be invalid, such judgment shall not affect, impair, or
+56 invalidate the remainder thereof, but shall be confined in its operation
+
+A. 2719--A 25
+1 to the clause, sentence, paragraph, subdivision, section or part thereof
+2 directly involved in the controversy in which such judgment shall have
+3 been rendered. It is hereby declared to be the intent of the legislature
+4 that this act would have been enacted even if such invalid provisions
+5 had not been included herein.
+6 § 52. This act shall take effect on the first of January next succeed-
+7 ing the date on which it shall have become a law; provided that:
+8 (a) the amendments to section 9.48 of the mental hygiene law made by
+9 section five of this act shall not affect the expiration and repeal of
+10 such section and shall expire and be deemed repealed therewith;
+11 (b) the amendments to subdivision (a) of section 9.47 of the mental
+12 hygiene law made by section fourteen of this act shall be subject to the
+13 expiration and reversion of such subdivision when upon such date the
+14 provisions of section fifteen of this act shall take effect;
+15 (c) the amendments to section 29.19 of the mental hygiene law made by
+16 section twenty-three of this act shall be subject to the expiration and
+17 reversion of such section when upon such date the provisions of section
+18 twenty-four of this act shall take effect; and
+19 (d) provided, however, that if local law number 100 of the city of New
+20 York for the year 2024 shall not have taken effect on or before such
+21 date then section forty-seven of this act shall take effect on the same
+22 date and in the same manner as such local law of the laws of 2024 takes
+23 effect.

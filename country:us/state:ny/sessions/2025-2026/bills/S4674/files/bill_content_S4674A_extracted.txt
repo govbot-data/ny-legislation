@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - S4674A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4674--A
+2025-2026 Regular Sessions
+IN SENATE
+February 11, 2025
+___________
+Introduced by Sen. JACKSON -- read twice and ordered printed, and when
+printed to be committed to the Committee on Insurance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the insurance law, in relation to allowing domestic
+insurers to make certain records available by electronic means
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subsection (a) of section 325 of the insurance law, as
+2 amended by chapter 196 of the laws of 1987, is amended to read as
+3 follows:
+4 (a) Every domestic insurer and every licensed United States branch of
+5 an alien insurer entered through this state shall, except as hereinafter
+6 provided, keep and maintain at its principal office in this state its
+7 charter and by-laws (in the case of a United States branch a copy there-
+8 of) and its books of account, and if a domestic stock corporation a
+9 record containing the names and addresses of its shareholders, the
+10 number and class of shares held by each and the dates when they respec-
+11 tively became the owners of record thereof, and if a domestic corpo-
+12 ration the minutes of any meetings of its shareholders, policyholders,
+13 board of directors and committees thereof. If any such records are kept
+14 in a language other than English, they shall be accompanied by accurate
+15 translations thereof. An insurer may satisfy the requirements of this
+16 subsection by storing the aforementioned books and records on servers
+17 that are accessible through the internet, on an internal server hosted
+18 by the insurer or one of its affiliates, or externally with a third-par-
+19 ty service provider if they are easily accessible from the insurer's
+20 principal office in this state and the insurer complies with all appli-
+21 cable state and federal laws and regulations.
+22 § 2. This act shall take effect immediately.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03895-03-5
