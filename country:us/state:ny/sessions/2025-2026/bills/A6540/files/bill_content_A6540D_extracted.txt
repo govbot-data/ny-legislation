@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - A6540D
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6540--D
+Cal. No. 163
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 5, 2025
+___________
+Introduced by M. of A. BORES, CUNNINGHAM, KELLES, FORREST, CHANDLER-WA-
+TERMAN, TORRES, OTIS -- read once and referred to the Committee on
+Science and Technology -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- reported and
+referred to the Committee on Codes -- reported and referred to the
+Committee on Rules -- Rules Committee discharged, bill amended,
+ordered reprinted as amended and recommitted to the Committee on Rules
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee -- ordered to a third reading,
+amended and ordered reprinted, retaining its place on the order of
+third reading
+AN ACT to amend the general business law, in relation to requiring
+synthetic content creations system providers to include provenance
+data on synthetic content produced or modified by a synthetic content
+creations system that the synthetic content creations system provider
+makes available
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "stop deep-
+2 fakes act".
+3 § 2. The general business law is amended by adding a new article 45-B
+4 to read as follows:
+5 ARTICLE 45-B
+6 STOP DEEPFAKES ACT
+7 Section 1540. Definitions.
+8 1541. Synthetic content creations system.
+9 1542. Content provenance preservation.
+10 1543. Provenance data requirements.
+11 1544. Enforcement by attorney general.
+12 § 1540. Definitions. For the purposes of this article:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07930-14-6
+
+A. 6540--D 2
+1 1. "Provenance data" means data that records the origin or history of
+2 digital content and is communicated as a content credential pursuant to
+3 the Technical Specification for Content Credentials published by the
+4 Coalition for Content Provenance and Authenticity, or relevant stand-
+5 ards, guidelines or specifications published after the effective date of
+6 this article by an established standards setting body, which at a mini-
+7 mum includes: (a) information about the origin or creation of the
+8 content; (b) subsequent editing or modification to the content or its
+9 metadata; and (c) use of a synthetic content creations system in gener-
+10 ating or modifying the content. Such information shall be cryptographi-
+11 cally bound to the underlying file and use signing credentials. "Prove-
+12 nance data" shall not include personal information as defined in
+13 subdivision five of section two hundred two of the state technology law,
+14 or unique device, system, or service information that is reasonably
+15 capable of being associated with a particular user, including but not
+16 limited to an internet protocol address, unless a user chooses to
+17 include such personal information in such data described in paragraph
+18 (a), (b), or (c) of this subdivision.
+19 2. "Generative artificial intelligence system" means a class of arti-
+20 ficial intelligence models that are self-supervised and emulate the
+21 structure and characteristics of input data to generate derived synthet-
+22 ic content, including, but not limited to, images, videos, audio, text,
+23 and other digital content.
+24 3. "Synthetic content" means audio or visual content that has been
+25 generated or materially modified by a synthetic content creations
+26 system.
+27 4. "State agency" shall have the same meaning as defined in subdivi-
+28 sion six of section two hundred two of the state technology law.
+29 5. "Synthetic content creations system provider" means an organization
+30 or individual that creates, codes, substantially modifies, or otherwise
+31 produces a synthetic content creations system that is made publicly
+32 available for use by a New York resident, regardless of whether the
+33 terms of such use include compensation.
+34 6. "Synthetic content creations system hosting platform" means an
+35 online repository or other website that makes a synthetic content
+36 creations system available for use by a New York resident, regardless of
+37 whether the terms of such use include compensation. Synthetic content
+38 creations system hosting platform does not include cloud computing plat-
+39 forms or other services that make synthetic content creations systems
+40 available for use by a New York state resident solely at the direction
+41 of others.
+42 7. "Social media platform" shall have the same meaning as in section
+43 eleven hundred of this chapter.
+44 8. "Covered operator" shall mean any person, business, or other legal
+45 entity, that operates or provides a social media platform.
+46 9. "Covered user" shall mean a user of a social media platform in the
+47 state, not acting as an operator, or agent or affiliate of the operator
+48 of such social media platform or any portion thereof.
+49 10. "Artificial intelligence" or "artificial intelligence technology"
+50 means a machine-based system that can, for a given set of human-defined
+51 objectives, make predictions, recommendations, or decisions influencing
+52 real or virtual environments, and that uses machine- and human-based
+53 inputs to perceive real and virtual environments, abstract such percep-
+54 tions into models through analysis in an automated manner, and use model
+55 inference to formulate options for information or action.
+
+A. 6540--D 3
+1 11. "AI model" means an information system or a component of an infor-
+2 mation system that implements artificial intelligence technology and
+3 uses computational, statistical, or machine-learning techniques to
+4 produce outputs from a given set of inputs.
+5 12. "Synthetic content creations system" means a class of generative
+6 artificial intelligence system capable of generating wholly synthetic
+7 content. "Synthetic content creations system" shall not include technol-
+8 ogies such as red-eye filters or other technologies that are only capa-
+9 ble of making changes to existing audio or visual content.
+10 § 1541. Synthetic content creations system. 1. A synthetic content
+11 creations system provider shall apply provenance data, either directly
+12 or through the use of third-party technology, to synthetic content
+13 produced or modified by a synthetic content creations system that the
+14 synthetic content creations system provider makes available.
+15 2. The application of provenance data to synthetic content, as
+16 required by this section, shall, at a minimum, identify the digital
+17 content as synthetic and communicate the following provenance data:
+18 (a) that the content was created or edited using artificial intelli-
+19 gence;
+20 (b) the name of the synthetic content creations system provider;
+21 (c) the time and date the provenance data was applied;
+22 (d) the specific portions of the content that the synthetic content
+23 creations system generated; and
+24 (e) the type of device, system, or service that was used to generate
+25 the image, audio, or video.
+26 3. Synthetic content creations system hosting platforms shall not make
+27 available a synthetic content creations system where the hosting plat-
+28 form knows that the synthetic content creations system provider for such
+29 system does not apply provenance data to content created or substantial-
+30 ly modified by the artificial intelligence system in a manner consistent
+31 with specifications set forth in this section, nor shall a synthetic
+32 content creations system hosting platform deliberately prevent a
+33 synthetic content creations system provider from applying provenance
+34 data to content created or substantially modified by a synthetic content
+35 creations system in a manner consistent with the specifications set
+36 forth above.
+37 4. The provisions of this section shall only apply to synthetic
+38 content creations systems that were created or modified after the effec-
+39 tive date of this article.
+40 § 1542. Content provenance preservation. A social media platform shall
+41 not delete, disassociate, or degrade, in whole or in part, provenance
+42 data from or associated with content uploaded to the social media plat-
+43 form by a covered user, unless and until the content is permanently
+44 deleted or removed from the social media platform or the deletion,
+45 disassociation, or degradation of such content is required by law. Noth-
+46 ing in this article shall be construed as banning users from choosing to
+47 include personal information in provenance data from or associated with
+48 such uploaded content.
+49 § 1543. Provenance data requirements. 1. A state agency shall ensure,
+50 to the extent practicable either through direct application or through
+51 the use of third-party technology, that all audio, images and videos
+52 published or distributed electronically by the state agency carry prove-
+53 nance data.
+54 2. The application of provenance data to audio, images and videos, as
+55 required by this article, shall, at a minimum, communicate the following
+56 provenance data:
+
+A. 6540--D 4
+1 (a) The type of device, system, or service that was used to generate
+2 the audio, image or video, to the extent the device, system, or service
+3 has the technical capability to do so;
+4 (b) The specific portions of the content that the synthetic content
+5 creations system used by the state agency generated, if any;
+6 (c) Whether the content was created or edited using artificial intel-
+7 ligence;
+8 (d) The name of the synthetic content creations system provider used
+9 to generate the synthetic content, if any; and
+10 (e) The time and date any of the provenance data delineated in this
+11 section was applied.
+12 § 1544. Enforcement by attorney general. In addition to the other
+13 remedies provided, whenever there shall be a violation of this article,
+14 application may be made by the attorney general in the name of the
+15 people of the state of New York to a court or justice having jurisdic-
+16 tion by a special proceeding to issue an injunction, and upon notice to
+17 the defendant of not less than five days, to enjoin and restrain the
+18 continuance of such violations; and if it shall appear to the satisfac-
+19 tion of the court or justice that the defendant has, in fact, violated
+20 this article, an injunction may be issued by such court or justice,
+21 enjoining and restraining any further violation, without requiring proof
+22 that any person has, in fact, been injured or damaged thereby. In any
+23 such proceeding, the court may make allowances to the attorney general
+24 as provided in paragraph six of subdivision (a) of section eighty-three
+25 hundred three of the civil practice law and rules. Whenever the court
+26 shall determine that a violation of this article has occurred, the court
+27 may impose a civil penalty of not more than twenty-five thousand dollars
+28 for each violation.
+29 § 3. This act shall take effect on the one hundred eightieth day after
+30 it shall have become a law.

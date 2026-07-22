@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - S919A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+919--A
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. MAY, JACKSON, KAVANAGH, WEBB -- read twice and
+ordered printed, and when printed to be committed to the Committee on
+Housing, Construction and Community Development -- reported favorably
+from said committee and committed to the Committee on Finance --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the executive law, in relation to requiring certain
+housing production information to be reported to the department of
+state
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The executive law is amended by adding a new section 120 to
+2 read as follows:
+3 § 120. Housing production reporting. 1. For the purposes of this
+4 section, the following terms shall have the following meanings:
+5 (a) "Local board" means any city, town, or village board, commission,
+6 officer or other agency or office having supervision of the construction
+7 of buildings or the power of enforcing municipal building laws.
+8 (b) "Housing site" means the site of planned construction, conversion,
+9 alteration, demolition, or consolidation of one or more residential
+10 buildings.
+11 (c) "Dwelling unit" means a dwelling within a residential building
+12 which is either rented, leased, let or hired out, to be occupied, or is
+13 occupied as the residence or home of one or more individuals that is
+14 independent of other dwellings within such residential building.
+15 2. The department shall require each local board to submit to the
+16 department annually, in the manner and format to be directed by the
+17 department, the following information regarding new construction,
+18 conversion, alteration, demolition, or consolidation of a housing site
+19 within the jurisdiction of such local board that is required to be
+20 reported to such local board; provided, however, that this requirement
+21 shall not apply to any local board in a town with a population of less
+22 than five thousand people:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03201-03-5
+
+S. 919--A 2
+1 (a) the address of such housing site;
+2 (b) the block and/or lot number of such housing site;
+3 (c) the total number of dwelling units in such housing site;
+4 (d) the building type, any relevant dates of approval, permits, and
+5 completions associated with such housing site;
+6 (e) any associated governmental subsidies or program funds being allo-
+7 cated to such housing site that such local board is aware of; and
+8 (f) the specific details of such construction, conversion, alteration,
+9 demolition, or consolidation of such housing site.
+10 3. Beginning on the thirty-first of January next succeeding the effec-
+11 tive date of this section, and annually thereafter, the department shall
+12 require each local board to submit to the department, in a manner and
+13 format to be determined by the department, a digital file containing a
+14 zoning map of such local board's jurisdiction that contains the follow-
+15 ing information for the prior year; provided, however, that this
+16 requirement shall not apply to any local board in a town with a popu-
+17 lation of less than five thousand people:
+18 (a) The geographic extents of areas where residential housing, commer-
+19 cial, industrial, or other developments are permitted;
+20 (b) In areas zoned for residential housing areas, where residential
+21 buildings containing two, three, and four or more dwelling units are
+22 allowed per lot;
+23 (c) Any minimum lot size requirements for residential housing;
+24 (d) Any minimum size requirements for individual dwelling units;
+25 (e) Any parking requirements for residential buildings;
+26 (f) Any setback or lot coverage requirements;
+27 (g) Designation of whether each zoning approval granted by such local
+28 board was as-of-right or discretionary; and
+29 (h) The geographic bounds of any areas which have been amended since
+30 such local board's previous submission pursuant to this subdivision.
+31 4. When determining the manner and format for submissions in accord-
+32 ance with subdivisions two and three of this section, the department
+33 shall consult with the division of housing and community renewal and
+34 provide an option for localities to make submissions in substantially
+35 the same manner and format as the division requires for submission of
+36 similar information for other related programs.
+37 5. The division of housing and community renewal shall submit to the
+38 department annually, in a manner and format to be determined by the
+39 department, a report of all housing subsidies administered by such divi-
+40 sion in the prior year.
+41 6. The department shall make the information submitted pursuant to
+42 subdivisions two, three, four, and five of this section publicly avail-
+43 able on its website, updated annually to reflect the most recent
+44 submissions.
+45 7. Failure of any local board to comply with the reporting require-
+46 ments of this section shall result in a fifty percent reduction of any
+47 funds to be distributed to any municipality within such local board's
+48 jurisdiction pursuant to the community development block grant program
+49 authorized under title one of the federal Housing and Community Develop-
+50 ment Act of 1974, as amended.
+51 § 2. This act shall take effect on the first of January next succeed-
+52 ing the date upon which it shall have become a law. Effective immediate-
+53 ly, the addition, amendment and/or repeal of any rule or regulation
+54 necessary for the implementation of this act on its effective date are
+55 authorized to be made and completed on or before such effective date.

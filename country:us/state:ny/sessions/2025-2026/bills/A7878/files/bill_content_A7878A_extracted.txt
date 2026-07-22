@@ -1,0 +1,233 @@
+Title: 
+Official Title: 
+Source: versions - A7878A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7878--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+April 11, 2025
+___________
+Introduced by M. of A. PAULIN, ROMERO, McDONALD, STECK, LEVENBERG,
+COLTON, LUNSFORD, JACOBSON, REYES, SHIMSKY, KELLES, ROSENTHAL,
+GALLAGHER, SANTABARBARA, WRIGHT, HEVESI, SHRESTHA, BURDICK, HUNTER,
+HOOKS, SIMON, MEEKS, ALVAREZ, RAJKUMAR, WOERNER, BORES, SCHIAVONI,
+STIRPE, MORENO, TAPIA, CUNNINGHAM, GONZALEZ-ROJAS, SEAWRIGHT, EACHUS,
+BRONSON, LEE, DILAN, VALDEZ, CONRAD, MAGNARELLI, KIM, SOLAGES, ZINER-
+MAN, K. BROWN, R. CARROLL, P. CARROLL -- read once and referred to the
+Committee on Health -- recommitted to the Committee on Health in
+accordance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the public health law, in relation to enacting the lead
+pipe replacement act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "lead pipe replacement act".
+3 § 2. The public health law is amended by adding a new section 1114-c
+4 to read as follows:
+5 § 1114-c. Lead service line replacement. 1. Definitions. For the
+6 purposes of this section:
+7 (a) "Covered water system" means (i) a public water system that serves
+8 at least fifteen service connections used by year-round residents or
+9 regularly serves at least twenty-five year-round residents; or (ii) a
+10 public water system that regularly serves at least twenty-five of the
+11 same people, four hours or more per day, for four or more days per week,
+12 for twenty-six or more weeks per year.
+13 (b) "Service line" means any piping connecting a water main to the
+14 building plumbing at the first shut-off valve inside the building, or
+15 eighteen inches inside the building, whichever is shorter.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10763-06-6
+
+A. 7878--A 2
+1 (c) "Galvanized service line" means a service line made of iron or
+2 steel that has been dipped in zinc to prevent corrosion and rusting.
+3 (d) "Galvanized-requiring-replacement service line" means a galvanized
+4 service line that currently is or ever was downstream of a lead service
+5 line; or is currently downstream of a lead status unknown service line.
+6 For this definition, downstream means in the direction of flow through
+7 the service line. If the covered water system is unable to demonstrate
+8 that the galvanized service line was never downstream of a lead service
+9 line, it is a galvanized-requiring-replacement service line.
+10 (e) "Connector" means a short segment of piping not exceeding three
+11 feet that can be bent and is used for connections between service
+12 piping, typically connecting the service line to the water main. A
+13 connector may also be referred to as a gooseneck or pigtail.
+14 (f) "Lead connector" means a connector made of lead.
+15 (g) "Lead service line" means a service line made of lead or where a
+16 portion of the service line is made of lead. For the purposes of this
+17 section, a lead-lined galvanized service line and a galvanized-requir-
+18 ing-replacement service line shall be considered to be lead service
+19 lines. For the purposes of this section, the material status of a
+20 connector shall not determine whether a service line is a lead service
+21 line, provided however that a lead connector attached to a lead service
+22 line shall be considered part of the lead service line.
+23 (h) "Lead status unknown service line" means a service line whose pipe
+24 material has not been demonstrated to be a lead service line, galvan-
+25 ized-requiring-replacement service line, or a non-lead service line. For
+26 the purposes of this section, a lead status unknown connector shall not
+27 be considered to be a lead status unknown service line.
+28 (i) "Partial lead service line replacement" means replacement of any
+29 portion of a lead service line that leaves in service any length of a
+30 lead service line upon completion of the work.
+31 (j) "Disadvantaged communities" shall have the same meaning as defined
+32 in section 75-0101 of the environmental conservation law.
+33 (k) "Elevated lead levels" shall have the same meaning as defined in
+34 section thirteen hundred seventy of this chapter.
+35 (l) "Customer" means an owner of real property served by the covered
+36 water system.
+37 (m) "Property" means real property served by a covered water system.
+38 (n) "Environmental protection agency" means the United States environ-
+39 mental protection agency.
+40 (o) "Locally adopted code" means any local law, local ordinance, or
+41 covered water system rule or regulation.
+42 (p) "Distribution system" means all pipes, service lines, connectors,
+43 and appurtenances used to deliver potable water from the water main to a
+44 building connection, including any portion of a service line located on
+45 private property or otherwise owned by a customer.
+46 2. Lead service line replacement requirements. (a) A covered water
+47 system shall perform or cause to be performed the replacement of all
+48 lead service lines within its distribution system, in accordance with
+49 the procedures identified in this section, no later than November first,
+50 two thousand thirty-seven. Nothing in this section shall be construed to
+51 require a covered water system to replace customer-owned portions of
+52 lead service lines if such customer refuses replacement after notice has
+53 been provided as required under paragraph (b) of this subdivision.
+54 (b) A covered water system shall establish a lead service line
+55 replacement program. Such program shall offer to replace all portions of
+56 a lead service line at no direct charge to any customer with a lead
+
+A. 7878--A 3
+1 service line, and shall cover the costs of planning, construction,
+2 reconstruction, restoration, customer engagement, and any other activ-
+3 ities related to lead service line replacement. For the purposes of
+4 this section, a direct charge shall not include revenues raised through
+5 water rate increases. A covered water system shall make no less than
+6 four attempts to notify customers and offer lead service line replace-
+7 ments at no direct charge to each customer with a lead service line on
+8 their property, using at least two distinct methods of communication to
+9 provide notice, or until such customer accepts such replacement or
+10 replaces the lead service line at the customer's own expense.
+11 (c) Upon being offered a lead service line replacement at no direct
+12 charge by the covered water system, any customer served by a lead
+13 service line owned by the customer in whole or in part, and whose prop-
+14 erty is registered pursuant to a state or local rental registration
+15 requirement shall either:
+16 (i) Facilitate the covered water system's replacement of all portions
+17 of the lead service line at no direct charge, including by providing
+18 access to the customer's property and providing any information neces-
+19 sary for the replacement requested by the covered water system; or
+20 (ii) Opt-out of the covered water system's lead service line replace-
+21 ment program by replacing the customer-owned portion of the lead service
+22 line through the customer's own agents or contractors and at the custom-
+23 er's own expense. If the customer elects to replace the customer-owned
+24 portion of the lead service line under this subparagraph, the customer
+25 shall submit a certification by a licensed plumber that the replacement
+26 occurred to the department and covered water system, in a manner that
+27 may be determined by the commissioner in regulations, within one hundred
+28 eighty days of the covered water system first communicating the avail-
+29 ability of the lead service line replacement program. If a customer
+30 notifies the covered water system that they intend to replace or have
+31 replaced the customer-owned portion of the lead service line, the
+32 covered water system shall replace, at no charge to the customer, the
+33 portion of the lead service line owned by the covered water system at
+34 the same time as, or within forty-five days of, the customer-initiated
+35 replacement. If the covered water system cannot replace their portion of
+36 the lead service line within forty-five days due to the negative impact
+37 such a replacement would have on other planned or ongoing lead service
+38 line replacement projects, the covered water system shall notify the
+39 department of this fact and shall replace their portion of the lead
+40 service line within one hundred eighty days of the date that the custom-
+41 er completed the replacement of the customer-owned portion of the lead
+42 service line.
+43 (iii) A customer's failure to file or filing a false certificate as
+44 required under this section shall be subject to civil penalties under
+45 section twelve of this chapter, in addition to any other penalties that
+46 may apply per a covered water system's locally adopted code.
+47 (d) A covered water system shall when practicable prioritize lead
+48 service line replacements:
+49 (i) in disadvantaged communities; and
+50 (ii) at daycares, schools, and homes with children with elevated blood
+51 lead levels, when data on such properties is available.
+52 (e) The relevant offices, agencies, and departments of the state of
+53 New York, the city of New York, and all other municipalities, including
+54 but not limited to transportation, public works, and general services,
+55 shall, to the fullest extent possible, work with covered water systems
+56 to plan lead service line replacements in coordination with street
+
+A. 7878--A 4
+1 repavings, planned water infrastructure improvements, or other municipal
+2 infrastructure projects.
+3 (f) Each lead service line replaced after the effective date of this
+4 section shall be replaced with a copper service line. Notwithstanding
+5 the foregoing, the department may authorize a covered water system to
+6 use an alternative replacement material due to corrosive soil conditions
+7 which would cause copper pipe sleeving or wrapping to be inadequate to
+8 prevent corrosion. Covered water systems shall not be required to
+9 replace any non-lead service lines installed before the effective date
+10 of this section.
+11 (g) A covered water system shall not conduct a partial lead service
+12 line replacement unless such a replacement is conducted as part of an
+13 emergency repair.
+14 (h) When requested by a customer with a lead service line, a covered
+15 water system shall provide to the customer, at no charge, a pitcher or
+16 point of use filter certified by an American National Standards Insti-
+17 tute accredited certifier to reduce lead, at least six months' worth of
+18 replacement cartridges, and instructions for use. Whenever the environ-
+19 mental protection agency requires a covered water system to provide
+20 pitcher or point of use filters and replacement cartridges to customers,
+21 a covered water system shall provide such filters and cartridges to
+22 customers at no charge.
+23 3. Lead service line replacement plan. (a) In addition to the informa-
+24 tion that the environmental protection agency requires covered water
+25 systems to include in its lead service line replacement plan, a covered
+26 water system shall also include information on whether its locally
+27 adopted code or operational standards ever required or allowed the use
+28 of lead connectors, never allowed the use of lead connectors, prohibited
+29 or documented the end of the installation of lead connectors in a
+30 certain year, or never addressed the use of lead connectors.
+31 (b) The department shall make the most recent version of all lead
+32 service line replacement plans available to the public on the depart-
+33 ment's website within ninety days of receiving such plans. Each covered
+34 water system shall make its most recent lead service line replacement
+35 plan available to the public on its website, if such a website exists.
+36 4. Reporting requirements. A covered water system shall report, via
+37 its lead service line inventory required by section eleven hundred four-
+38 teen-b of this title, each lead service line left in the ground after it
+39 was replaced with a non-lead service line.
+40 5. Funding, regulations and authority. (a) A covered water system may
+41 use state and federal grants and loans, proceeds from municipal bonds,
+42 water rate revenue, property tax revenue and other types of funding to
+43 inspect and replace lead service lines and lead connectors within its
+44 distribution system, including any portions of lead service lines or
+45 lead connectors located on private property or otherwise owned by a
+46 customer. Such replacements shall be authorized and considered a public
+47 purpose and within the powers of the covered water system, and covered
+48 water systems may expend available, appropriate and lawful public funds
+49 for such purpose.
+50 (b) The department is authorized to make funding available through the
+51 clean water infrastructure act, drinking water state revolving fund, and
+52 other funding sources for the purpose of implementing the provisions of
+53 this section and any regulations promulgated thereto.
+54 (c) The department shall adopt such rules and regulations as it deems
+55 necessary and proper to implement the provisions of this section.
+
+A. 7878--A 5
+1 (d) The department shall provide guidance to covered water systems and
+2 local health departments on implementing the provisions of this section.
+3 § 3. If any clause, sentence, paragraph, section or part of this act
+4 shall be adjudged by any court of competent jurisdiction to be invalid
+5 and after exhaustion of all further judicial review, the judgment shall
+6 not affect, impair or invalidate the remainder thereof, but shall be
+7 confined in its operation to the clause, sentence, paragraph, section or
+8 part of this act directly involved in the controversy in which the judg-
+9 ment shall have been rendered.
+10 § 4. This act shall take effect immediately.

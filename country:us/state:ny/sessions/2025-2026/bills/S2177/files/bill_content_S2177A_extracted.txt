@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - S2177A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2177--A
+2025-2026 Regular Sessions
+IN SENATE
+January 15, 2025
+___________
+Introduced by Sen. PARKER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Local Government --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the real property tax law, in relation to establishing
+the "broadband investment tax stabilization (BITS) act" regarding
+telecommunications equipment owned by other than a telephone company
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "broadband investment tax stabilization (BITS) act".
+3 § 2. The legislature finds that it is necessary to correct a decision
+4 of the court of appeals that erroneously overlooked or misconstrued
+5 section 1 of chapter 71 of the laws of 1985, sections 2, 6, and 7 of
+6 chapter 416 of the laws of 1987, and paragraph (i) of subdivision 12 of
+7 section 102 of the real property tax law. This act is intended to clari-
+8 fy that all equipment used for the transmission and switching of elec-
+9 tromagnetic voice, video and data signals between different entities
+10 separated by air, street or other public domain, and related equipment
+11 necessary to the operation of such equipment or the modification of such
+12 signals required by such equipment, regardless of location, no longer
+13 constitutes real property subject to the real property tax law, even if
+14 any items of such equipment would otherwise constitute a fixture taxable
+15 under paragraph (b) of subdivision 12 of section 102 of the real proper-
+16 ty tax law.
+17 § 3. Paragraph (i) of subdivision 12 of section 102 of the real prop-
+18 erty tax law, as added by chapter 416 of the laws of 1987, is amended to
+19 read as follows:
+20 (i) When owned by other than a telephone company as such term is
+21 defined in paragraph (d) [hereof] of this subdivision, all lines, wires,
+22 poles, supports and inclosures for electrical conductors upon, above and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05077-03-5
+
+S. 2177--A 2
+1 underground used in connection with the transmission or switching of
+2 electromagnetic voice, video and data signals between different entities
+3 separated by air, street or other public domain, except that such prop-
+4 erty shall not include: (A) station connections; (B) fire and surveil-
+5 lance alarm system property; (C) such property used in the transmission
+6 of news wire services; [and] (D) such property used in the transmission
+7 of news or entertainment radio, television or cable television signals
+8 for immediate, delayed or ultimate exhibition to the public, whether or
+9 not a fee is charged therefor; and (E) such property, other than fiber
+10 optic cables, towers, permanently affixed steel rooftop structures and
+11 walk-in shelters, used in, providing for, or associated with, the trans-
+12 mission or switching of radio signals for the provision of commercial
+13 mobile radio service or mobile internet access service.
+14 § 4. This act shall take effect immediately and shall apply to all
+15 assessments that have not become final as of such date, whether or not a
+16 taxpayer has filed a complaint with respect to an assessment under
+17 section 524 of the real property tax law.

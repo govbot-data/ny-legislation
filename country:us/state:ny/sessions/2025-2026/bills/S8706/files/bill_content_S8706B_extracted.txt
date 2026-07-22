@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - S8706B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8706--B
+IN SENATE
+January 7, 2026
+___________
+Introduced by Sen. HINCHEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Labor -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the labor law, in relation to requiring covered busi-
+nesses to submit annual reports on the impact of artificial intelli-
+gence on hiring and the nature of artificial intelligence use
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The labor law is amended by adding a new section 201-j to
+2 read as follows:
+3 § 201-j. Artificial intelligence impact assessments. 1. Definition.
+4 For purposes of this section, "covered business" shall mean a business
+5 entity doing business in the state and: (a) employs more than fifty
+6 people; or (b) is a publicly traded entity.
+7 2. Reporting requirement. On or before March first of every year, a
+8 covered business shall report to the department regarding the impact of
+9 artificial intelligence on its hiring and the nature of its artificial
+10 intelligence use in the calendar year ending the preceding December
+11 thirty-first. Such report shall include:
+12 (a) Employment data, including but not limited to:
+13 (i) An estimate of the number of employees displaced, or whose hours
+14 have been reduced, due in full or in part to use of artificial intelli-
+15 gence;
+16 (ii) An estimate of the number of employees hired, or whose hours have
+17 been increased, due in full or in part to use of artificial intelli-
+18 gence; and
+19 (iii) An estimate of the number of positions previously filled that
+20 the covered business has decided not to fill due in full or in part to
+21 use of artificial intelligence; and
+22 (b) Information on the nature of artificial intelligence usage,
+23 including but not limited to:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14332-05-6
+
+S. 8706--B 2
+1 (i) Descriptions of the objectives of the use of artificial intelli-
+2 gence;
+3 (ii) Information regarding any human oversight of artificial intelli-
+4 gence;
+5 (iii) Information on the frequency and length of use of artificial
+6 intelligence;
+7 (iv) Information on any use of artificial intelligence in relation to
+8 sensitive personal data, including storage and access protections
+9 related to use of artificial intelligence in relation to such personal
+10 data; and
+11 (v) Measures in place for oversight, risk reduction, or other
+12 protections related to use of artificial intelligence.
+13 3. Responsibilities of the department. The department shall develop
+14 standard reporting forms and processes for covered businesses to submit
+15 the reports required pursuant to subdivision two of this section. The
+16 department may develop additional reporting requirements related to the
+17 hiring and business impacts of utilization of artificial intelligence by
+18 covered businesses.
+19 4. Annual report. (a) The department shall review the reports submit-
+20 ted by covered businesses pursuant to subdivision two of this section
+21 and shall prepare an annual report on the impact of artificial intelli-
+22 gence on hiring and the nature of artificial intelligence usage in the
+23 state based on the department's review of such reports submitted pursu-
+24 ant to subdivision two of this section.
+25 (b) The department shall submit the report required pursuant to para-
+26 graph (a) of this subdivision to the governor, the temporary president
+27 of the senate, the minority leader of the senate, the speaker of the
+28 assembly, and the minority leader of the assembly within one hundred
+29 twenty days of the covered business reporting deadline established
+30 pursuant to subdivision two of this section. Such report shall be made
+31 publicly available on the department's website at the same time as such
+32 report is submitted to the governor and legislature.
+33 (c) The report required pursuant to paragraph (a) of this subdivision
+34 shall include, but not be limited to, presentation of aggregate data
+35 regarding employment impacts, objectives, and implementation of artifi-
+36 cial intelligence by covered businesses, including analysis of such
+37 impacts by employment sector, geographic location, and business size.
+38 5. Enforcement. (a) A covered business who fails to report pursuant to
+39 the requirements of this section shall be subject to a civil penalty of
+40 not more than five hundred dollars for each day such covered business
+41 remains in violation of such reporting requirements.
+42 (b) Upon notice of a violation of this section, a covered business
+43 shall have ninety days to resolve such violation to the satisfaction of
+44 the commissioner. If the commissioner is satisfied that the violation
+45 has been cured within the ninety-day period, the commissioner shall
+46 waive or reduce the applicable penalties under this subdivision.
+47 § 2. This act shall take effect immediately.

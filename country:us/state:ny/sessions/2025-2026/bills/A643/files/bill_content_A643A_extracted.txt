@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - A643A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+643--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. GONZALEZ-ROJAS, DAVILA, WEPRIN, GALLAGHER, SHRES-
+THA, REYES, EPSTEIN, SEPTIMO, ROSENTHAL, SIMONE, SHIMSKY, LUCAS, RAGA,
+DE LOS SANTOS, SIMON, MEEKS, BURDICK, MAGNARELLI, KELLES, HYNDMAN,
+STECK, ROZIC, LEE, MITAYNES, HOOKS, ROMERO, VALDEZ, LEVENBERG, ALVA-
+REZ, JACKSON, STIRPE -- read once and referred to the Committee on
+Judiciary -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the judiciary law and the civil practice law and rules,
+in relation to the purchase of claims by corporations or collection
+agencies and to certain instruments calling for payment of a monetary
+obligation by a foreign state
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative intent. The intended purpose of this act is to
+2 restore the champerty defense in sovereign debt lawsuits for claims
+3 greater than $500,000 with respect to suits brought by litigious holdout
+4 investors. The restoration is not intended to apply to conventional and
+5 generally cooperative investors who may occasionally choose to sue,
+6 where "conventional investors" includes investors that regularly buy and
+7 hold sovereign debt purchased in the primary market and "cooperative
+8 investors" includes distressed debt investors that regularly purchase
+9 debt at a discount in the secondary market and have a record of support-
+10 ing the consensual resolution of sovereign debt distress through serving
+11 as a member of creditor committees or by generally participating in
+12 transactions accepted by other creditors following a negotiation.
+13 § 2. Subdivision 2 of section 489 of the judiciary law, as added by
+14 chapter 394 of the laws of 2004, is amended to read as follows:
+15 2. Except as set forth in subdivision three of this section, the
+16 provisions of subdivision one of this section shall not apply to any
+17 assignment, purchase or transfer hereafter made of one or more bonds,
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02058-03-5
+
+A. 643--A 2
+1 promissory notes, bills of exchange, book debts, or other things in
+2 action, or any claims or demands, if such assignment, purchase or trans-
+3 fer included bonds, promissory notes, bills of exchange and/or book
+4 debts, issued by or enforceable against the same eligible obligor
+5 (whether or not also issued by or enforceable against any other eligible
+6 obligors), having an aggregate purchase price of at least five hundred
+7 thousand dollars, in which event the exemption provided by this subdivi-
+8 sion shall apply as well to all other items, including other things in
+9 action, claims and demands, included in such assignment, purchase or
+10 transfer (but only if such other items are issued by or enforceable
+11 against the same eligible obligor, or relate to or arise in connection
+12 with such bonds, promissory notes, bills of exchange and/or book debts
+13 or the issuance thereof). For the purposes of this subdivision, the
+14 term "eligible obligor" means an obligor other than (i) the government
+15 of any foreign country or of any political subdivision of a foreign
+16 country, or (ii) an issuer of a bond, loan, or debt instrument guaran-
+17 teed by the government of any foreign country or of any political subdi-
+18 vision of a foreign country.
+19 § 3. Section 489 of the judiciary law is amended by adding a new
+20 subdivision 4 to read as follows:
+21 4. For purposes of subdivision one of this section, an assignee's
+22 intent and purpose in taking an assignment of a claim against an obligor
+23 that is not an eligible obligor may be inferred from the history of the
+24 assignee's (and its affiliates') behavior in transactions involving the
+25 debts of other obligors including, but not limited to, whether that
+26 history indicates a pattern of either (a) participating in good faith
+27 alongside other creditors in consensual resolutions of such situations
+28 or (b) acquiring claims against such obligors at a significant discount
+29 from face value, refusing to participate in consensual workouts and
+30 instead resorting to legal enforcement of the acquired claims. A court
+31 shall consider such other facts and circumstances related to the acqui-
+32 sition of the claims or the assignee's overall business activities in
+33 the debt of any government or political subdivision of a foreign country
+34 as it may find relevant in assessing the assignee's intent and purpose.
+35 § 4. Section 5004 of the civil practice law and rules, as amended by
+36 chapter 831 of the laws of 2021, is amended to read as follows:
+37 § 5004. Rate of interest. (a) Interest shall be at the rate of nine
+38 per centum per annum, except where otherwise provided by statute;
+39 provided the annual rate of interest to be paid in an action arising out
+40 of a consumer debt where a natural person is a defendant shall be two
+41 per centum per annum (i) on a judgment or accrued claim for judgments
+42 entered on or after the effective date of [the] chapter eight hundred
+43 thirty-one of the laws of two thousand twenty-one [which amended this
+44 section], and (ii) for interest upon a judgment pursuant to section five
+45 thousand three of this article from the date of the entry of judgment on
+46 any part of a judgment entered before the effective date of [the] chap-
+47 ter eight hundred thirty-one of the laws of two thousand twenty-one
+48 [which amended this section] that is unpaid as of such effective date.
+49 (b) For actions or proceedings commenced after May fifteenth, two
+50 thousand twenty-four, excluding actions or proceedings with respect to
+51 payment defaults that occurred before May fifteenth, two thousand twen-
+52 ty-four, the annual rate of interest to be paid in an action arising out
+53 of a claim against (i) a government of any foreign country or of any
+54 political subdivision of a foreign country, or (ii) an issuer of a bond,
+55 loan, or debt instrument guaranteed by the government of any foreign
+56 country or of any political subdivision of a foreign country as a
+
+A. 643--A 3
+1 defendant shall be equal to the weekly average one-year constant maturi-
+2 ty treasury yield, as published by the Board of Governors of the Federal
+3 Reserve System, for the calendar week proceeding the date of entry of
+4 the judgment awarding damages (28 U.S.C. §1961(a)). For the purpose of
+5 this subdivision, a "claim against a foreign state" means a payment
+6 claim against a foreign state for monies borrowed or for the foreign
+7 state's guarantee of, or other contingent obligation on, monies
+8 borrowed; the term "monies borrowed" shall include the following, wheth-
+9 er or not it represents the borrowing of money: monies owing
+10 under bonds; debentures; notes, or similar instruments of original matu-
+11 rity of at least one year; monies owing for the deferred purchase
+12 price of property or services, other than trade accounts payable arising
+13 in the ordinary course of government operations; monies owing on
+14 capitalized lease obligations; monies owing on or with respect to
+15 letters of credit, bankers' acceptances, or other extensions of credit
+16 of original maturity of at least one year.
+17 (c) For the purpose of this section "consumer debt" means any obli-
+18 gation or alleged obligation of any natural person to pay money arising
+19 out of a transaction in which the money, property, insurance or services
+20 which are the subject of the transaction are primarily for personal,
+21 family or household purposes, whether or not such obligation has been
+22 reduced to judgment, including, but not limited to, a consumer credit
+23 transaction, as defined in subdivision (f) of section one hundred five
+24 of this chapter.
+25 [(c)] (d) This section does not affect or create any rights or reme-
+26 dies related to any amounts paid prior to the effective date of this
+27 subdivision, including amounts paid to satisfy judgments or to accrued
+28 interest or fees paid, or with respect to judgments satisfied prior to
+29 the effective date of this subdivision. For amounts paid prior to the
+30 effective date of this subdivision and lawfully applied in satisfaction
+31 or partial satisfaction of interest or fees accrued prior to the effec-
+32 tive date of this subdivision, this section shall not be construed to
+33 require a judgment creditor or sheriff to (i) return or refund such
+34 amounts to judgment debtors; or (ii) apply such payments to satisfy any
+35 part of a money judgment other than fees or interest upon judgment
+36 pursuant to section five thousand three of this article.
+37 [(d)] (e) If any word, phrase, clause, sentence, paragraph, subdivi-
+38 sion, or part of this section or its application to any person or
+39 circumstance is held invalid by any court of competent jurisdiction
+40 after exhaustion of all further judicial review, the invalidity shall
+41 not affect, impair, or invalidate the remainder of this section or
+42 applications of this article which can be given effect without the
+43 invalid provision or application, and to this end the provisions of this
+44 section are severable.
+45 § 5. This act shall take effect immediately.

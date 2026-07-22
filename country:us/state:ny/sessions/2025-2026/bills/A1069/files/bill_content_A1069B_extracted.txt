@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - A1069B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1069--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 8, 2025
+___________
+Introduced by M. of A. PAULIN, ROSENTHAL, VANEL, SIMON, JACOBSON, SANTA-
+BARBARA, KELLES, McMAHON, GONZALEZ-ROJAS, BURDICK, JENSEN, BEEPHAN,
+LUCAS, LUPARDO, STECK, SHIMSKY, WEPRIN, HEVESI, SEPTIMO, LEVENBERG,
+SIMONE, BLUMENCRANZ, SEAWRIGHT, RAMOS, SAYEGH, GIBBS, TAPIA, BRABENEC,
+DINOWITZ, RAGA, MEEKS, DAVILA, WOERNER, DE LOS SANTOS, BOLOGNA, BRON-
+SON, CLARK, GALLAGHER, KAY, BICHOTTE HERMELYN, GRIFFIN, LUNSFORD,
+ANGELINO, GALLAHAN -- read once and referred to the Committee on
+Health -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee -- reported and referred to
+the Committee on Ways and Means -- recommitted to the Committee on
+Ways and Means in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public health law, in relation to the functions of
+the Medicaid inspector general with respect to audit and review of
+medical assistance program funds
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 30-a of the public health law is amended by adding
+2 three new subdivisions 4, 5 and 6 to read as follows:
+3 4. "Overpayment" shall mean any amount not authorized to be paid under
+4 the medical assistance program, whether paid as the result of inaccurate
+5 or improper cost reporting, improper claiming, unacceptable practices,
+6 fraud, abuse or mistake.
+7 5. "Applicable standards" shall mean the state laws, regulations and
+8 duly promulgated policies, guidelines, protocols and interpretations of
+9 state agencies with jurisdiction in effect at the time the provider
+10 engaged in the regulated conduct or provision of services that the
+11 inspector general is auditing or reviewing.
+12 6. "Clerical or minor error or omission" shall include mathematical or
+13 computational mistakes; transposed procedure or diagnostic codes; inac-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02919-08-6
+
+A. 1069--B 2
+1 curate data entry; computer errors; duplicate claims; and incorrect data
+2 items, such as provider number, use of a modifier or date of service.
+3 § 2. The public health law is amended by adding a new section 37 to
+4 read as follows:
+5 § 37. Audit and recovery of medical assistance payments to providers.
+6 Any audit or review of any provider contracts, cost reports, claims,
+7 bills, or medical assistance payments by the inspector, anyone desig-
+8 nated by the inspector to conduct such audit or review, shall comply
+9 with the following standards:
+10 1. Any reviews or audits of provider contracts, cost reports, claims,
+11 bills or medical assistance payments shall apply the applicable stand-
+12 ard. Prior to commencing an audit or review, the inspector shall provide
+13 to the provider access to any applicable standards. For the purpose of
+14 this subdivision, an applicable standard shall not be deemed in effect
+15 if federal governmental approval was pending or denied at the time the
+16 provider engaged in the regulated conduct or provision of services.
+17 2. The inspector shall publish the most current version of protocols
+18 applicable to and governing any audit or review of a provider or provid-
+19 er contracts, cost reports, claims, bills or medical assistance payments
+20 on the office of the Medicaid inspector general website in advance of
+21 commencing such audit or review, which protocols shall include any and
+22 all applicable standards.
+23 3. In determining the amount of an overpayment a provider must repay
+24 following an audit or review, consistent with subdivision six of section
+25 thirty-two of this title, the inspector must consider the following
+26 factors:
+27 (a) Whether the findings suggest a sustained or high level of payment
+28 error;
+29 (b) Whether the nature of the error is a clerical or minor error or
+30 omission;
+31 (c) Impacts to the provider's financial solvency; and
+32 (d) The potential for the repayment, if ordered, to negatively impact
+33 access to services.
+34 4. Any sampling and extrapolation methodologies utilized by the
+35 inspector shall be consistent with accepted standards of sound auditing
+36 practice and statistical analysis.
+37 5. If the inspector determines that the basis of an overpayment is a
+38 clerical or minor error or omission, and if the inspector further deter-
+39 mines such clerical or minor error or omission are isolated occurrences,
+40 limited to three or less, then the inspector shall not apply extrapo-
+41 lation in those cases and recoupment will be limited to each such
+42 affected audited claim.
+43 6. The draft audit report given to the provider shall include the
+44 inspector's findings and a detailed written explanation of the extrapo-
+45 lation method if used, including the size of the sample, the sampling
+46 methodology, the defined universe of claims, the specific claims
+47 included in the sample, the results of the sample, the assumptions made
+48 about the accuracy and reliability of the sample and the level of confi-
+49 dence in the sample results, and the steps undertaken to calculate the
+50 alleged overpayment and any applicable offset based on the sample
+51 results.
+52 7. The inspector shall consider any supporting documentation that the
+53 provider submits prior to the issuance of the final audit report that
+54 the provider thinks is relevant to the audit, including, but not limited
+55 to attestations addressing missing documentation and/or signatures. The
+56 inspector shall use the totality of the record to determine if the
+
+A. 1069--B 3
+1 documentation or signature requirement, as outlined in statute or regu-
+2 lation, is met, and/or consider submitted attestations to resolve the
+3 issue. If the inspector rejects such supporting documentation, an expla-
+4 nation for such rejection shall be provided in writing.
+5 8. The inspector's final audit report or final notice of agency action
+6 shall include a specific explanation of the inspector's consideration of
+7 the factors described in paragraphs (a) through (d) of subdivision three
+8 of this section.
+9 9. The inspector shall not foreclose or prohibit the provider from
+10 settling through repayment at the lower confidence limit plus applicable
+11 interest, even if the provider requests a hearing, up until the hearing
+12 determination is issued.
+13 10. Neither recoupment by the inspector nor repayment by the provider
+14 of overpayments shall commence earlier than sixty days from the issuance
+15 date of the final audit report or, if the provider requests a hearing,
+16 then sixty days from the issuance date of the hearing determination.
+17 11. Nothing in this section shall prevent the inspector from complying
+18 with Medicaid audit requirements established by federal law, rules and
+19 regulations, or binding federal agency guidance and directives.
+20 § 3. The opening paragraph of subdivision 1 of section 35 of the
+21 public health law, as added by chapter 442 of the laws of 2006, is
+22 amended to read as follows:
+23 The inspector shall, no later than October first of each year,
+24 [submit] consult with the commissioner on the preparation of an annual
+25 report, to be made and filed by the inspector and submitted to the
+26 governor, the temporary president of the senate, the speaker of the
+27 assembly, the minority leader of the senate, the minority leader of the
+28 assembly, the commissioner, the commissioner of the office of addiction
+29 services and supports, and the commissioner of the office of mental
+30 health, the commissioner of the office of persons with developmental
+31 disabilities, the state comptroller and the attorney general[, a report
+32 summarizing the activities of the office during the preceding calendar
+33 year]. Such report shall include:
+34 § 4. Paragraphs (b), (f) and (g) of subdivision 1 of section 35 of the
+35 public health law, paragraph (b) as added by chapter 442 of the laws of
+36 2006, paragraph (f) as amended and paragraph (g) as added by section 111
+37 of part E of chapter 56 of the laws of 2013, are amended and a new para-
+38 graph (h) is added to read as follows:
+39 (b) the number, subject and other relevant characteristics of audits
+40 initiated, and those completed, including but not limited to outcome,
+41 region, reason for audit and the total dollar value identified for
+42 recovery [and], the actual recovery from such audits and how many audits
+43 where overpayments were recovered used extrapolation;
+44 (f) a narrative that evaluates the office's performance, describes any
+45 specific problems and connection with the procedures and agreements
+46 required under this section, discusses any other matters that may have
+47 impaired its effectiveness and summarizes the total savings to the
+48 state's medical assistance program; [and]
+49 (g) a narrative, provided by the department in its annual report
+50 pursuant to paragraph (t) of subdivision one of section two hundred six
+51 of this chapter that summarizes the department's activities to mitigate
+52 fraud, waste and abuse during the preceding calendar year[.]; and
+53 (h) a narrative that describes the steps taken by the office in the
+54 past year to comply with subdivision six of section thirty-two of this
+55 title, which requires consideration of quality and availability of
+56 medical and long term care and services and the best interest of both
+
+A. 1069--B 4
+1 the medical assistance program and recipients, in the pursuit of civil
+2 and administrative enforcement actions.
+3 § 5. This act shall take effect on the first of April next succeeding
+4 the date on which it shall have become a law.

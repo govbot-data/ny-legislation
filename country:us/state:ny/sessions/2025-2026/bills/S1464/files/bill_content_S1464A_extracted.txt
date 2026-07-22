@@ -1,0 +1,1648 @@
+Title: 
+Official Title: 
+Source: versions - S1464A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1464--A
+2025-2026 Regular Sessions
+IN SENATE
+January 10, 2025
+___________
+Introduced by Sens. HARCKHAM, KAVANAGH, ADDABBO, BAILEY, BASKIN, BOTTCH-
+ER, BRISPORT, BROUK, CLEARE, COMRIE, FAHY, FERNANDEZ, GIANARIS, GONZA-
+LEZ, GOUNARDES, HINCHEY, JACKSON, KRUEGER, LIU, MAY, MAYER, MYRIE,
+PARKER, RAMOS, RIVERA, SALAZAR, SANDERS, SEPULVEDA, SERRANO, STAVISKY,
+SUTTON, WEBB -- read twice and ordered printed, and when printed to be
+committed to the Committee on Environmental Conservation -- recommit-
+ted to the Committee on Environmental Conservation in accordance with
+Senate Rule 6, sec. 8 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to
+enacting the packaging reduction and recycling infrastructure act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "packaging reduction and recycling infrastructure act".
+3 § 2. Article 27 of the environmental conservation law is amended by
+4 adding a new title 34 to read as follows:
+5 TITLE 34
+6 PACKAGING REDUCTION AND RECYCLING INFRASTRUCTURE ACT
+7 Section 27-3401. Definitions.
+8 27-3403. Selection of packaging reduction and recycling organ-
+9 izations.
+10 27-3405. Responsibilities of packaging reduction and recycling
+11 organizations.
+12 27-3407. Packaging reduction and recycling organization plan.
+13 27-3409. Packaging reduction and recycling plan approval.
+14 27-3411. Packaging reduction and recycling advisory council.
+15 27-3413. Funding mechanism.
+16 27-3415. Collection and convenience.
+17 27-3417. Producer responsibilities.
+18 27-3419. Department responsibilities.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04197-05-6
+
+S. 1464--A 2
+1 27-3421. Service provider responsibilities.
+2 27-3423. Statewide packaging reduction, reuse, and recycling
+3 needs assessment.
+4 27-3425. Education and outreach program.
+5 27-3427. Prohibition on certain toxic substances and materials.
+6 27-3429. Non-reusable packaging reduction standards.
+7 27-3431. Recycled content standards.
+8 27-3433. Recyclability criteria, reusable or refillable packag-
+9 ing requirements, and packaging recycling requirements
+10 27-3435. Penalties and enforcement.
+11 27-3437. Rules and regulations.
+12 27-3439. State preemption.
+13 27-3441. Other assistance programs.
+14 27-3443. Antitrust protections.
+15 27-3445. Severability.
+16 § 27-3401. Definitions.
+17 As used in this title:
+18 1. "Advisory council" or "council" means the packaging reduction and
+19 recycling advisory council established under section 27-3411 of this
+20 title.
+21 2. "Affiliate" means a person who directly, or indirectly through one
+22 or more intermediaries, controls, is controlled by, or is under common
+23 control with a producer.
+24 3. "Beverage container" shall have the same meaning as is set forth in
+25 subdivision two of section 27-1003 of this article.
+26 4. "Brand" means any mark, word, name, symbol, design, device, or
+27 graphical element or a combination thereof, including a registered or
+28 unregistered trademark, that identifies and distinguishes a product from
+29 other products.
+30 5. "Contamination" means:
+31 (a) the presence of materials in a given collected material stream
+32 that are not on the minimum recyclables list maintained by the depart-
+33 ment; or
+34 (b) the presence of materials in a given recycled material delivered
+35 as a feedstock or commodity that are not specified or accepted as a
+36 component of the feedstock or commodity.
+37 6. "Control", including the terms "controlling", "controlled by" and
+38 "under common control with", means the possession, directly or indirect-
+39 ly, of the power to direct or cause the direction of (a) the management
+40 and policies of a person, (b) the operation of a person, or (c) substan-
+41 tially all of the assets of a person, whether through the ownership of
+42 voting securities, by contract, or otherwise.
+43 7. "Covered services" means the collection, transfer, transportation,
+44 sorting, processing, recovery, preparation, or management of packaging
+45 materials by a service provider for purposes of packaging material
+46 recovery, reuse, recycling, or disposal as required or permitted under
+47 this title.
+48 8. "De minimis producer" means a producer that in their most recent
+49 fiscal year:
+50 (a) introduced less than two tons of covered material into this state;
+51 (b) earned global gross revenues of less than five million dollars; or
+52 (c) is an agricultural cooperative with less than fifty employees
+53 engaged in the production of dairy products.
+54 9. "Discarded", "discards", "generated" or "generation" means packag-
+55 ing material that has been used for its intended purpose and is no long-
+
+S. 1464--A 3
+1 er needed by consumers, businesses, institutions, and other users, and
+2 can be managed through reuse, recycling, or disposal.
+3 10. "Disposal" means the landfilling or incineration of material or
+4 products. "Disposal" shall also include energy recovery or energy
+5 generation by any means, including, but not limited to, incineration,
+6 combustion, pyrolysis, gasification, or solvolysis, waste-to-energy, or
+7 waste-to-fuel, or any other chemical conversion process. "Disposal"
+8 shall also include the use of materials for landfill cover.
+9 11. "Eco-modulation" means structuring program fees in a way to
+10 provide producers with financial incentives to reduce waste at the
+11 source, increase recyclability of packaging materials, promote regional
+12 and domestic markets, responsible end markets, and post-consumer recy-
+13 cled content, promote reusable packaging products, including those that
+14 are contained within a reuse and refill system, discourage and decrease
+15 contamination, disincentivize designs or practices that increase the
+16 costs and adverse environmental impacts of managing the packaging mate-
+17 rials, and encourage designs and processes that improve and facilitate
+18 development of infrastructure and systems for source reduction, reuse,
+19 recycling, and composting.
+20 12. "Disadvantaged community" shall have the same meaning as is set
+21 forth in subdivision five of section 75-0101 of this chapter.
+22 13. "Intentionally added substance" means a substance or material that
+23 serves an intended function or technical effect in the product or prod-
+24 uct component, including as an intentional breakdown product of an
+25 added chemical that also has a functional or technical effect in the
+26 product or product component.
+27 14. "Minimum recyclables list" means a list of those materials that,
+28 identified by the department in regulations, must be managed through the
+29 packaging reduction and recycling program and by the municipalities and
+30 service providers that receive funding or reimbursement from the program
+31 as approved by the department in accordance with section 27-3419 of this
+32 title.
+33 15. "Municipality" means any local government, municipal corporation,
+34 governmental subdivision of the state, local government unit, special
+35 district, school, local or regional board, commission, or authority
+36 authorized by law to plan or provide for waste management services for
+37 a specific geographical area.
+38 16. "Packaging material", "packaging", or "covered material" means
+39 discrete material or a category of material, including residential and
+40 commercial, regardless of recyclability, including but not limited to
+41 such material types that are flexible, foam, or rigid material, includ-
+42 ing paper, cardboard, plastic, glass, metal, or multi-material, that is
+43 used for the containment, protection, handling, delivery, transport,
+44 distribution, or presentation of another product that is sold, offered
+45 for sale, imported, or distributed in the state, including through an
+46 internet transaction, and single-use plastic products. The term "pack-
+47 aging material", "packaging", or "covered material" does not include:
+48 (a) Medical devices and packaging which are included with products
+49 regulated as a drug, medical device, or dietary supplement by the United
+50 States food and drug administration under the federal food, drug, and
+51 cosmetic act, 21 U.S.C. 321 et seq., Sec. 3.2(E) of 21 U.S. code of
+52 federal regulations, or the dietary supplement health and education act;
+53 (b) Animal biologics, including vaccines, bacterins, antisera, diag-
+54 nostic kits, and other products of biological origin, and other packag-
+55 ing materials regulated by the United States department of agriculture
+56 under the virus, serum, toxin act, 21 U.S.C. 151-159;
+
+S. 1464--A 4
+1 (c) Packaging regulated by the Federal Insecticide, Fungicide, and
+2 Rodenticide Act, 7 U.S.C. Sec. 136 et seq. or other applicable federal
+3 law, rule, or regulation;
+4 (d) Packaging used to contain hazardous or flammable products regu-
+5 lated by the 2012 federal Occupational Safety and Health Administration
+6 Hazard Communications Standard, 29 C.F.R. 1910.1200;
+7 (e) Plastic packaging containers used to contain and ship products
+8 that are classified for transportation as dangerous goods or hazardous
+9 materials under 40 C.F.R. 178;
+10 (f) Beverage containers subject to a returnable container deposit
+11 under title ten of this article and all of their packaging;
+12 (g) Infant formula as defined in section 321(z) of title 21 of the
+13 United States code of federal regulations;
+14 (h) Medical foods as defined in section 360ee(b)(3) of title 21 of the
+15 United States code of federal regulations; and
+16 (i) Architectural paint containers collected and managed pursuant to
+17 title twenty of this article.
+18 17. "Packaging reduction and recycling organization" or "organization"
+19 means a not-for-profit organization registered pursuant to 26 U.S.C.
+20 501(c)(3) designated by the department for the initial organization, or
+21 by a group of producers for subsequent organizations, to act as an agent
+22 on behalf of each producer to develop and implement a packaging
+23 reduction and recycling plan pursuant to section 27-3407 of this title
+24 and comply with the organization's responsibilities under section
+25 27-3405 of this title.
+26 18. "Packaging reduction and recycling plan" or "plan" means a docu-
+27 ment in which an organization describes the efforts it will undertake to
+28 comply with the requirements of this title.
+29 19. "Packaging reduction and recycling program" or "program" means the
+30 program implemented by an organization, and overseen by the department,
+31 to comply with and implement the provisions of this title.
+32 20. "Post-consumer recycled material" means new material produced
+33 using material resulting from North American recycling.
+34 21. "Primary packaging" means the packaging in direct contact with the
+35 product itself, also sometimes referred to as a consumer unit.
+36 22. (a) "Producer" means the following person responsible for compli-
+37 ance with requirements under this title for a covered material intro-
+38 duced:
+39 (i) for items sold in or with packaging at a physical retail location
+40 in this state:
+41 (1) if the item is sold in or with packaging under the brand of the
+42 item manufacturer or is sold in packaging that lacks identification of a
+43 brand, the producer is the person that manufactures the item;
+44 (2) if there is no person to which clause one of this subparagraph
+45 applies, the producer is the person that is licensed to manufacture and
+46 sell or offer for sale to consumers in this state an item with packaging
+47 under the brand or trademark of another manufacturer or person;
+48 (3) if there is no person to which clause one or two of this subpara-
+49 graph applies, the producer is the brand owner of the item;
+50 (4) if there is no person described in clause one, two, or three of
+51 this subparagraph within the United States, the producer is the person
+52 who is the importer of record for the item into the United States for
+53 use in a commercial enterprise that sells, offers for sale, or distrib-
+54 utes the item in this state; or
+
+S. 1464--A 5
+1 (5) if there is no person described in clause one, two, three, or four
+2 of this subparagraph the producer is the person that first distributes
+3 the item in or into this state;
+4 (ii) for items sold or distributed in packaging in or into this state
+5 via e-commerce, remote sale, or distribution:
+6 (1) for packaging used to directly protect or contain the item, the
+7 producer of the packaging is the same as the producer identified under
+8 subparagraph (i) of this paragraph; and
+9 (2) for packaging used to ship the item to a consumer, the producer of
+10 the packaging is the person that packages the item to be shipped to the
+11 consumer;
+12 (iii) for packaging that is a covered material and is not included in
+13 subparagraphs (i) or (ii) of this paragraph, the producer of the packag-
+14 ing is the person that first distributes the item in or into this state;
+15 and
+16 (iv) a person is the producer of a covered material sold, offered for
+17 sale, or distributed in or into this state, as defined in subparagraphs
+18 (i), (ii), and (iii) of this paragraph, except:
+19 (1) where another person has mutually signed an agreement with a
+20 producer as defined in subparagraphs (i), (ii), and (iii) of this para-
+21 graph that contractually assigns responsibility to the person as the
+22 producer, and the person has joined a registered packaging reduction and
+23 recycling organization as the responsible producer for that covered
+24 material under this title. In the event that another person is assigned
+25 responsibility as the producer under this subdivision, the producer
+26 under subparagraphs (i), (ii), and (iii) of this paragraph shall provide
+27 written certification of such contractual agreement to the producer
+28 responsibility organization; and
+29 (2) if the producer described in subparagraphs (i), (ii), and (iii) of
+30 this paragraph is a business operated wholly or in part as a franchise,
+31 the producer is the franchisor if that franchisor has franchisees that
+32 have a commercial presence within the state.
+33 (b) "Producer" shall not include:
+34 (i) a state, a federal or state agency, a political subdivision, or
+35 other governmental unit;
+36 (ii) a registered 501(c)(3) charitable organization or 501(c)(4)
+37 social welfare organization; or
+38 (iii) a de minimis producer.
+39 23. "Product line" means a group of related products all marketed
+40 under a single brand that is sold by the same producer to distinguish
+41 products from each other for better usability for customers.
+42 24. "Recyclable" means a packaging material that meets the criteria in
+43 subdivision one of section 27-3433 of this title.
+44 25. "Recycling" or "recycled" means to separate, dismantle or process
+45 the materials, components or commodities contained in discards for the
+46 purpose of preparing the materials, components, or commodities for use
+47 or reuse in new products or components, not including contaminants,
+48 residues, and other process losses or use of materials as landfill
+49 cover. "Recycling" or "recycled" does not include: (a) energy recovery
+50 or energy generation by any means, including but not limited to,
+51 combustion, incineration, pyrolysis, gasification, or waste-to-fuel; (b)
+52 any chemical conversion process, including solvolysis; or (c) landfill
+53 disposal.
+54 26. "Recycling rate" means the percentage of packaging material that
+55 is delivered to responsible end markets for recycling. The recycling
+56 rate for packaging material shall be calculated as the total weight of
+
+S. 1464--A 6
+1 packaging material that is delivered to responsible end markets for
+2 recycling in a given year divided by the total weight of the packaging
+3 material supplied or sold into the state in that year. The "recycling
+4 rate" shall not include contaminants, residues, reusable or refillable
+5 packaging or containers, or the use of materials as landfill cover.
+6 27. "Responsible end market" means a materials market that:
+7 (a) reuses, recycles, or otherwise recovers materials and disposes of
+8 contaminants in a manner that protects the environment and minimizes
+9 risks to public health and worker health and safety;
+10 (b) complies with all applicable federal, state, and local statutes,
+11 rules, ordinances, and other laws governing environmental, health, safe-
+12 ty, and financial responsibility;
+13 (c) possesses all requisite licenses and permits required by a federal
+14 or state agency or political subdivision;
+15 (d) if the market operates in the state, manages waste according to
+16 all applicable state laws; and
+17 (e) minimizes adverse impacts to disadvantaged communities, as defined
+18 in this title.
+19 28. "Reuse" means the return of packaging material back into the
+20 economic stream for use in the same kind of application intended for the
+21 original packaging, without effectuating a change in the original compo-
+22 sition of the package, the identity of the product, or the components
+23 thereof.
+24 29. "Reuse and refill system" means a program or set of mechanisms
+25 designed to facilitate multiple uses of packaging. Mechanisms may
+26 include, but are not limited to, deposits, incentives, curbside
+27 collection, collection kiosks, refill stations, dishwashing facilities,
+28 and re-distribution networks.
+29 30. "Reusable or refillable packaging and containers" means packaging
+30 material and containers that are specifically designed and manufactured
+31 to maintain shape and structure, and be materially durable for repeated
+32 sanitizing, washing, and reuse; provided, however, that such packaging
+33 and containers must comply with the high reuse and refill rate as set
+34 forth in the plan and approved by the department.
+35 31. "Secondary packaging" means packaging intended to bundle, sell in
+36 bulk, brand, or display a product.
+37 32. "Service provider" means an entity that provides covered services
+38 for covered materials. A municipality that provides or that contracts or
+39 otherwise arranges with another party to provide covered services for
+40 covered materials within its jurisdiction may be a service provider
+41 regardless of whether it provided, contracted for, or otherwise arranged
+42 for similar services before the approval of the applicable organization
+43 plan.
+44 33. "Single use plastic" means single use plastic products that
+45 frequent the waste stream including, but not limited to, single use
+46 plastic items such as straws, utensils, cups, plates, and plastic bags.
+47 34. "Tertiary packaging" means packaging intended to protect the prod-
+48 uct during transport.
+49 35. "Unit weight" means the weight of packaging material per unit of
+50 product sold.
+51 § 27-3403. Selection of packaging reduction and recycling organizations.
+52 1. Until the date which is ten years after the effective date of this
+53 title, there shall be only one packaging reduction organization and all
+54 producers shall be required to register with such packaging reduction
+55 organization.
+
+S. 1464--A 7
+1 2. Within six months of the effective date of this title, the depart-
+2 ment shall approve a not-for-profit to serve as the initial packaging
+3 reduction and recycling organization. Any not-for-profit seeking to
+4 serve as the initial packaging reduction and recycling organization
+5 shall submit an application on a form and format prescribed by the
+6 department.
+7 3. Regulations promulgated pursuant to this title may provide for
+8 additional organizations beginning ten years after the effective date of
+9 this title if, after ten years and the recommendation by the advisory
+10 council pursuant to subdivision ten of section 27-3411 of this title,
+11 the department determines that it would be beneficial for there to be
+12 additional organizations implementing the program, such regulations
+13 shall ensure:
+14 (a) consistency and coordination between all organizations;
+15 (b) responsibilities carried out are consistent and seamless;
+16 (c) municipalities and service providers are reimbursed for recycling
+17 services as required under this title; and
+18 (d) that packaging material requirements are not reported as gener-
+19 ated, supplied or managed by more than one organization.
+20 § 27-3405. Responsibilities of packaging reduction and recycling organ-
+21 izations.
+22 1. Producers shall register with a packaging reduction organization to
+23 meet the responsibilities of the program pursuant to the provisions of
+24 this section, and each organization shall be responsible for implementa-
+25 tion of the program on behalf of producers registered with such organ-
+26 ization.
+27 2. Each organization involved in the administration of the program
+28 shall:
+29 (a) Develop a packaging reduction and recycling plan and submit such
+30 plan to the advisory council for review and comment, and after any
+31 modifications in response to such comments, submit the plan to the
+32 commissioner for approval pursuant to section 27-3407 of this title;
+33 (b) Collect and compile data from producers as required by section
+34 27-3417 of this title;
+35 (c) Calculate reimbursement rates through the objective formula
+36 approved by the department as contemplated by paragraph (e) of subdivi-
+37 sion four of section 27-3407 of this title for the costs associated
+38 with this title and the collection, transportation, sorting, handling,
+39 storage, and recycling, disposal, or other processing of packaging mate-
+40 rials, including associated administrative costs;
+41 (d) Collect fees due from producers as required by section 27-3413 of
+42 this title;
+43 (e) Reimburse the department and any other relevant state agencies for
+44 the costs associated with conducting the statewide needs assessment
+45 required by section 27-3423 of this title, the administration of the
+46 program by the department, and the expenses of the advisory council;
+47 (f) Distribute funds to reimburse municipalities for any associated
+48 reasonable and necessary administrative costs and service providers for
+49 the costs associated with this title, including the implementation of
+50 reduction, refill, and reuse programs, and the collection, transporta-
+51 tion and recycling, disposal or other processing of packaging materials;
+52 (g) Undertake an effective statewide education and public outreach
+53 program as required by section 27-3425 of this title;
+54 (h) Offer technical support to producers, with an emphasis on support
+55 to small businesses, to assist them with compliance with the require-
+56 ments of this title, including information about procuring affordable
+
+S. 1464--A 8
+1 alternatives to non-compliant packaging material and reducing packaging
+2 material; and
+3 (i) Make recommendations to the department regarding investments in
+4 reduction, refill, reuse, collection, transportation, recycling,
+5 disposal, and other processing of packaging materials consistent with
+6 this title.
+7 3. Annually, each organization shall submit a report to the department
+8 that, at a minimum, must include the following information:
+9 (a) Contact information for the organization;
+10 (b) A list of all (i) producers, (ii) brands, and (iii) products that
+11 each producer sells, offers for sale, or distributes into the state that
+12 are contained, protected, delivered, presented, or distributed in or
+13 using packaging material;
+14 (c) The total amount, by both weight and number of units, which may be
+15 estimated if an exact amount is infeasible to provide, of each type of
+16 packaging material used to contain, protect, handle, deliver, transport,
+17 distribute, or present products sold, offered for sale, or distributed
+18 into the state by each individual producer during the prior calendar
+19 year;
+20 (d) The total amount, by both weight and number of units, of each
+21 material used to contain, protect, handle, deliver, transport, distrib-
+22 ute, or present products sold, offered for sale, or distributed into the
+23 state by all producers during the prior calendar year;
+24 (e) The total amount, by weight, of each material category delivered
+25 to responsible end markets for recycling as a result of activities
+26 undertaken by the organization, either directly or through reimburse-
+27 ment or contractual arrangement;
+28 (f) A calculation of the recycling rate of each material category;
+29 (g) A complete accounting of all payments made to and by the organiza-
+30 tion during the prior calendar year;
+31 (h) An analysis of the average time it took to reimburse munici-
+32 palities during the prior calendar year;
+33 (i) A list of producers reasonably believed to be out of compliance
+34 with the requirements of this title, and the reason the organization
+35 reasonably believes the producer to be out of compliance. Information
+36 on non-compliant producers shall be provided to the commissioner and
+37 attorney general's office in a timely fashion and for possible enforce-
+38 ment action;
+39 (j) A description of the educational and outreach efforts made by the
+40 organization in the prior calendar year, and how those efforts were
+41 designed to reduce packaging waste, and increase reuse and recycling of
+42 packaging materials;
+43 (k) An assessment of whether the fee structure adopted by the organ-
+44 ization pursuant to section 27-3413 of this title has been effective in
+45 incentivizing improvements to the design of packaging material, includ-
+46 ing actual reduction of packaging material, increases in reusable and
+47 refillable packaging material, recycling rates for packaging materials,
+48 and decreases in the amount of packaging material;
+49 (l) A description of the reimbursements and expenditures, including
+50 the timeliness of such reimbursements, made pursuant to section 27-3413
+51 of this title;
+52 (m) Independently audited financial statements; and
+53 (n) Any additional information required by the department, including
+54 Universal Product Codes (UPC) should they deem them necessary.
+55 4. Each organization shall conduct public outreach and provide consum-
+56 ers with educational and informational materials related to reducing the
+
+S. 1464--A 9
+1 amount of packaging discarded and disposed of in the state as outlined
+2 in section 27-3425 of this title.
+3 5. Each organization shall operate a program that provides for
+4 collection convenience as described in section 27-3415 of this title.
+5 6. An organization shall not share, except with the department, the
+6 advisory council, and the toxic packaging task force, or as required by
+7 law, any proprietary information that is identified by a producer as
+8 proprietary information without prior written consent.
+9 § 27-3407. Packaging reduction and recycling organization plan.
+10 1. Within thirty months of the effective date of this title, the
+11 initial packaging reduction organization shall develop and submit a
+12 packaging reduction and recycling plan for implementation of the rules
+13 and regulations of this title, including ensuring timely disbursements
+14 to municipalities and service providers, to the department for approval.
+15 The plan shall be submitted to the advisory council for review pursuant
+16 to section 27-3411 of this title prior to the department's approval.
+17 Any subsequent or additional organization shall develop and submit a
+18 packaging reduction and recycling plan and comply with all the require-
+19 ments of this section, and have such plan approved pursuant to section
+20 27-3409 of this title.
+21 2. The plan shall cover five years and be updated every five years
+22 following the approval of the original plan. The department shall have
+23 the discretion to require the plan to be reviewed or revised prior to
+24 the five-year period pursuant to section 27-3419 of this title.
+25 3. Each producer shall begin program implementation within one year
+26 after the date the plan for the initial organization is approved and in
+27 no event later than four years of the effective date of this title. If
+28 no plan is approved by that timeframe, the department, in its
+29 discretion, shall either approve a plan with conditions or specify
+30 modifications that must be made within forty-five days to conform the
+31 submitted plan to the requirements of this section. If a producer is
+32 not making good faith efforts to comply with the requirements of this
+33 title during such forty-five day period, the producer shall be subject
+34 to penalties for noncompliance.
+35 4. The submitted plan shall include, but not be limited to:
+36 (a) contact information, including the name, e-mail address, physical
+37 address, and telephone number of the authorized representative of the
+38 producer or producers;
+39 (b) the identity of the producer or producers participating in the
+40 plan;
+41 (c) a comprehensive list of the types and brands of covered materials
+42 for which the producer or producers are responsible for;
+43 (d) a description of how the organization will implement the program,
+44 including the mechanisms and processes for providing assistance to
+45 producers to comply with the reporting requirements of this title;
+46 (e) in relation to funding the program:
+47 (i) a proposed budget outlining the anticipated costs of operating the
+48 program and a description of the method by which the organization
+49 intends to determine and collect producer payments during the initial
+50 startup period;
+51 (ii) a description of the proposed funding mechanism, identified in
+52 section 27-3413 of this title, that meets the requirements of this
+53 title;
+54 (iii) a description of how the organization will maintain a financial
+55 reserve sufficient to operate the program in a fiscally prudent and
+56 responsible manner; and
+
+S. 1464--A 10
+1 (iv) a description of how the organization intends to manage and
+2 account for all program related funds which pass through the organiza-
+3 tion, including how timely reimbursements to service providers will be
+4 provided;
+5 (f) an objective formula establishing a reimbursement rate, in consul-
+6 tation with service providers which covers obligations identified in the
+7 needs assessment and the minimum recyclables list reflects the reason-
+8 able and necessary costs of providing covered services, and takes into
+9 account variable regional costs along with responsible end markets for
+10 participating service providers;
+11 (g) a description of the process for participating service providers
+12 to recoup reasonable costs as established by the objective formula, from
+13 the organization, including, as applicable, any administrative, sorting,
+14 collection, transportation, public education, or processing costs;
+15 (h) a description of the process for participating municipalities to
+16 recoup reasonable and necessary administrative costs of the program from
+17 the organization, where such cost reimbursements may be in addition to
+18 any service provider fees should the municipality also register as a
+19 service provider;
+20 (i) at a minimum, the following funding mechanism details shall be
+21 provided in the plan:
+22 (i) proposed program fees, provided as a table listing the rate paid
+23 for each material category, including at a minimum those identified in
+24 subdivision three of section 27-3413, which in sum, will generate suffi-
+25 cient funding to cover obligations identified in the needs assessment
+26 and the requirements of this title; and
+27 (ii) proposed program fee adjustments to incorporate eco-modulation
+28 factors;
+29 (j) a description of the characteristics of each type of packaging
+30 material that is relevant to the eco-modulating factors set forth pursu-
+31 ant to section 27-3413 of this title;
+32 (k) if the municipality does not elect to provide service, a
+33 description of the process used for contracting with a service provider
+34 to provide such services and the recoupment of reasonable costs, includ-
+35 ing procedures to ensure that such service provider is not compensated
+36 for such services by both the organization and the consumer for the same
+37 service, provided, however, that the packaging recycling and reduction
+38 organization and any such service provider has entered into a labor
+39 peace agreement with a bona-fide labor organization that is actively
+40 engaged in representing or attempting to represent its employees and its
+41 contractors' employees;
+42 (l) a description of how the organization will work with existing
+43 waste haulers, material recovery facilities, recyclers, and service
+44 providers to operate or expand current collection programs to address
+45 material collection methods, improve efficiency and yield of processing
+46 materials from separate collection streams, expand local material recov-
+47 ery options, and increase packaging reduction and reuse;
+48 (m) a description of how the organization will use open, competitive,
+49 and fair procurement practices should they directly enter into contrac-
+50 tual agreements with service providers;
+51 (n) a description of how a municipality will participate, on a volun-
+52 tary basis, with collection and how existing municipal recycling proc-
+53 essing and collection infrastructure will be used;
+54 (o) a description of how the organization plans to meet the conven-
+55 ience requirements set forth in this title;
+
+S. 1464--A 11
+1 (p) a description of the process for end-of-life management, including
+2 recycling and disposal of residuals collected for recycling, using envi-
+3 ronmentally sound management practices and responsible end markets;
+4 (q) a description of how the organization shall provide the option to
+5 purchase recycled materials from processors;
+6 (r) a description of how producers are complying with the waste
+7 reduction, toxics, recycling and post-consumer content requirements of
+8 this title, and the process for verifying compliance, including any
+9 third party verification services;
+10 (s) a description of how: (i) the organization will strategically
+11 invest in existing and future reuse and recycling infrastructure and the
+12 expansion or strengthening for and use of covered materials by responsi-
+13 ble end markets in the state or region in consultation with the depart-
+14 ment and in a manner not inconsistent with the needs assessment, includ-
+15 ing, but not limited to, installing or upgrading equipment to improve
+16 the sorting of covered materials or mitigating the impacts of materials
+17 on other commodities at existing sorting and processing facilities, and
+18 capital expenditures for new technology, equipment, and facilities; and
+19 (ii) how the process to offer and select opportunities will be conducted
+20 in an open, competitive, and fair manner;
+21 (t) a description of how the organization's recycling infrastructure
+22 and market development investments (i) were informed by the results of
+23 the needs assessment, and (ii) will utilize the state's existing infras-
+24 tructure;
+25 (u) a process to address concerns and questions from customers and
+26 residents;
+27 (v) a description of the organization's public outreach education
+28 program for consumers and other stakeholders;
+29 (w) a description of how the comments of stakeholders were considered
+30 and addressed in the development of the plan;
+31 (x) a detailed description of how the organization consulted with the
+32 advisory council, the public, and other stakeholders in the development
+33 of the plan prior to its submission to the department, and to what
+34 extent the organization specifically incorporated the advisory council's
+35 input into the plan;
+36 (y) a comprehensive contingency plan demonstrating how the activities
+37 in the plan will continue to be carried out by some other entity, if
+38 needed, such as an escrow company, until such time as a new plan is
+39 submitted and approved by the department:
+40 (i) upon the expiration of an approved plan;
+41 (ii) in the event that the organization has been notified by the
+42 department that it must transfer implementation responsibility for the
+43 plan to a different organization;
+44 (iii) in the event that the organization notifies the department that
+45 it will cease to implement an approved plan; or
+46 (iv) in any other event that the organization can no longer carry out
+47 plan implementation;
+48 (z) a description of how the program shall reimburse service provid-
+49 ers, including but not limited to a description of how the program will
+50 establish:
+51 (i) a process for service providers to submit invoices and be fully
+52 reimbursed for covered services provided;
+53 (ii) clear and reasonable timelines for reimbursement; and
+54 (iii) a process that utilizes a third-party mediator to resolve
+55 disputes that arise between the organization and a service provider
+
+S. 1464--A 12
+1 regarding the determination of reimbursement rates and payment of
+2 reimbursements;
+3 (aa) performance standards for service providers as applicable to the
+4 service provided, including but not limited to:
+5 (i) requirements that service providers must accept all covered mate-
+6 rials on the list established by the department; and
+7 (ii) labor standards and safety practices, including but not limited
+8 to safety programs, health benefits, and living wages;
+9 (bb) a description of how the organization will treat and protect
+10 nonpublic data submitted by service providers;
+11 (cc) a description of how the organization will provide technical
+12 assistance to service providers in order to assist them in delivering
+13 covered materials to responsible end markets; and
+14 (dd) any other additional information required by the department.
+15 5. The organization shall also provide the advisory council a reason-
+16 able period of time to review and comment upon the draft plan prior to
+17 its submission to the department in accordance with section 27-3409 of
+18 this title which shall in no event be less than sixty days. The organ-
+19 ization shall make an assessment of comments received and shall provide
+20 a summary and an analysis of the issues raised by the advisory council
+21 and significant changes suggested by any such comments, a statement of
+22 the reasons why any significant changes were not incorporated into the
+23 plan, and a description of any changes made to the plan as a result of
+24 such comments.
+25 § 27-3409. Packaging reduction and recycling plan approval.
+26 1. Before approval or denial of a packaging reduction and recycling
+27 plan can be made in accordance with this title, the producer or organ-
+28 ization shall submit the plan to the packaging reduction and recycling
+29 advisory council. The advisory council shall then make a recommendation
+30 regarding approval or disapproval of the plan in accordance with section
+31 27-3411 of this title.
+32 2. Within sixty days of the advisory council making a recommendation
+33 to the department, the department shall make a determination to approve
+34 the plan as submitted; approve the plan with conditions; or deny the
+35 plan, with reasons for the denial.
+36 3. The department may establish additional plan requirements in addi-
+37 tion to those identified herein to fulfill the intent of this title;
+38 provided, however, that any additional requirements shall be established
+39 one year prior to a required submission of a plan.
+40 4. The department may rescind the approval of an approved plan at any
+41 time for cause and with documented justification.
+42 5. The maintenance of a labor peace agreement as contemplated by para-
+43 graph (k) of subdivision four of section 27-3407 of this title shall be
+44 an ongoing material condition of plan approval.
+45 6. For the purposes of this title, "labor peace agreement" means an
+46 agreement between an entity and labor organization that, at a minimum,
+47 protects the state's proprietary interests by prohibiting labor organ-
+48 izations and members from engaging in picketing, work stoppages,
+49 boycotts, and any other economic interference.
+50 § 27-3411. Packaging reduction and recycling advisory council.
+51 1. There is hereby established within the department a packaging
+52 reduction and recycling advisory council to receive and review the pack-
+53 aging reduction and recycling plans required under section 27-3407 of
+54 this title, to make recommendations to the department regarding approval
+55 of the plans, to review the annual reports produced by organizations and
+
+S. 1464--A 13
+1 to make recommendations to the department and organizations as required
+2 by this section.
+3 2. The advisory council shall convene for the first time no later than
+4 one year after the effective date of this title. The advisory council
+5 shall be composed of nineteen members. Nine shall be appointed by the
+6 commissioner, four shall be appointed by the speaker of the assembly,
+7 one shall be appointed by the minority leader of the assembly, four
+8 shall be appointed by the temporary president of the senate and one
+9 shall be appointed by the minority leader of the senate. The advisory
+10 council shall include at least one member from each of the following:
+11 (a) a municipal association or municipal program, including an addi-
+12 tional municipal representative from cities with a population of one
+13 million or more residents;
+14 (b) a statewide environmental organization;
+15 (c) a representative of a disadvantaged community affected by solid
+16 waste infrastructure;
+17 (d) an environmental justice organization;
+18 (e) a statewide waste disposal or recycling association;
+19 (f) a materials recovery facility located within the state;
+20 (g) a recycling collection provider;
+21 (h) a manufacturer of packaging materials utilizing post-consumer
+22 recycled content;
+23 (i) a consumer advocate;
+24 (j) a retailer;
+25 (k) a public health specialist;
+26 (l) a producer and an organization established under this title as
+27 non-voting members;
+28 (m) a representative of a labor organization representing waste
+29 collection employees;
+30 (n) a representative of a labor organization representing municipal
+31 solid waste and recycling processing employees; and
+32 (o) a representative of a manufacturer of packaging materials or a
+33 trade association representing such manufacturers or materials that
+34 assists their customers with plan compliance.
+35 3. Appointments to the advisory council are term-limited to ten
+36 consecutive years of service; the chair shall be chosen through a major-
+37 ity vote of its members and shall serve no longer than three consecutive
+38 years.
+39 4. Advisory council members shall serve without compensation, except
+40 that a member of the committee who is a state officer or employee may
+41 receive their regular compensation while engaging in the business of the
+42 committee, but shall be entitled to receive reimbursement for any actu-
+43 al, necessary expenses incurred in the course of performing business for
+44 the committee.
+45 5. All decisions made by the advisory council shall be decided by
+46 voting and votes shall only be valid when a quorum is present. A quorum
+47 shall exist when greater than fifty percent of voting members are pres-
+48 ent. The advisory council shall meet at least once a year by the call of
+49 the chair or by request of more than half the members. The decisions of
+50 the advisory council shall be by vote of the majority of its membership.
+51 6. The council shall determine whether the plan submitted under
+52 section 27-3409 of this title meets the criteria and objectives under
+53 such section in making its recommendation.
+54 7. The advisory council shall, within sixty days of the submission of
+55 a packaging reduction and recycling plan, either:
+
+S. 1464--A 14
+1 (a) forward the plan to the commissioner with its recommendation for
+2 approval; or
+3 (b) forward the plan to the commissioner with its disapproval and
+4 stated reasons therefor, including any recommended changes to the plan
+5 necessary for approval.
+6 8. An organization may resubmit a packaging reduction and recycling
+7 plan for approval at any time. Upon such resubmission, the advisory
+8 council shall, within sixty days, forward the plan to the commissioner
+9 with its recommendation for approval or disapproval.
+10 9. The advisory council shall review the submitted annual reports and
+11 make such recommendations to the department and the organization for
+12 improving future administration of the program and compliance with this
+13 title.
+14 10. Thirty months from the date the department adopts rules and regu-
+15 lations pursuant to this title, and every three years thereafter, the
+16 advisory council shall conduct a review of all relevant data, including
+17 annual reports, the latest scientific data available, any pertinent
+18 statewide waste and reuse data, and any other information deemed impor-
+19 tant, to make recommendations to the following:
+20 (a) organizations for any changes in the administration of the
+21 program, including feedback on the education and outreach program as
+22 outlined in section 27-3425 of this title;
+23 (b) the department for any necessary changes to regulations, the fund-
+24 ing mechanism, reimbursement and expenditure policies, or whether it
+25 would be beneficial for there to be additional organizations implement-
+26 ing the program; and
+27 (c) the legislature for recommended statutory changes. Such recommen-
+28 dations shall include a recommendation as to whether to modify the defi-
+29 nition of recycling under this title.
+30 § 27-3413. Funding mechanism.
+31 1. An organization shall establish such program participation fees for
+32 producers through the plan pursuant to section 27-3407 of this title,
+33 which shall be sufficient to cover all costs of the program, including
+34 administration, enforcement, the statewide needs assessment, and all
+35 other state costs of the program and organizations' costs of the
+36 program, including but not limited to those costs described in subdivi-
+37 sion four of this section.
+38 2. An organization shall structure program fees to provide producers
+39 with financial incentives through eco-modulation, to reward waste and
+40 source reduction and recycling compatibility innovations and practices,
+41 and to disincentivize designs or practices that increase costs of manag-
+42 ing the products or materials that contain toxic substances.
+43 3. An organization may adjust fees to be paid by participating
+44 producers based on factors that affect system costs. At a minimum, fees
+45 shall be variable based on:
+46 (a) The category of packaging material, provided that the list of such
+47 packaging material categories for which there is a specific producer fee
+48 shall include, at a minimum, the following material types:
+49 (i) Paper;
+50 (ii) Cardboard;
+51 (iii) Corrugated cardboard;
+52 (iv) Wood;
+53 (v) Glass;
+54 (vi) Polyethylene terephthalate (PET);
+55 (vii) High density polyethylene (HDPE);
+56 (viii) Expanded polystyrene (EPS);
+
+S. 1464--A 15
+1 (ix) Polystyrene;
+2 (x) Bio-plastics;
+3 (xi) Generic plastics;
+4 (xii) Plastic film;
+5 (xiii) Other plastics;
+6 (xiv) Ferrous metals;
+7 (xv) Aluminum;
+8 (xvi) Tinplate;
+9 (xvii) Generic metals; and
+10 (xviii) Mixed materials including laminates and packaging containing
+11 more than one of the above materials;
+12 (b) The quantity of each packaging material type, by weight and unit
+13 weight, that the producer sells, offers for sale, or distributes in the
+14 state;
+15 (c) Eco-modulation, including as described in subdivision two of this
+16 section, beginning two years after producers pay their first fees.
+17 4. Producer fees shall be designed to cover, at minimum, the total
+18 costs associated with:
+19 (a) Providing curbside collection or other form of collection service
+20 that is, at minimum, as convenient as is detailed in section 27-3415 of
+21 this title;
+22 (b) The department's and other state agencies' administration and
+23 enforcement of this title;
+24 (c) Organizations' administration of this title;
+25 (d) The cost associated with the development of the needs assessment,
+26 as required in section 27-3423 of this title;
+27 (e) The costs associated with the advisory council;
+28 (f) The costs associated with establishing packaging reduction and
+29 reuse infrastructure;
+30 (g) The cost of reimbursement for, or providing, recycling and
+31 disposal services, including the collection cost, processing cost for
+32 each recyclable material, cost of handling, disposal, and transportation
+33 of non-recyclable material types collected as part of collection, trans-
+34 portation cost of recycling for each material type; and
+35 (h) Any other factors determined by the department.
+36 5. An organization may adjust producer fees based on factors that
+37 affect system costs provided that the specific parameters of such
+38 adjustments and fees are included in the plan approved by the depart-
+39 ment. At a minimum, fees shall be variable based on:
+40 (a) costs to provide curbside collection or another form of service
+41 that is, at minimum, as convenient as curbside collection or as conven-
+42 ient as the previous collection plan in the particular jurisdiction
+43 should collection not be provided;
+44 (b) costs to process packaging materials for acceptance by responsible
+45 end markets;
+46 (c) whether the packaging material would typically be readily-recycla-
+47 ble; and
+48 (d) the commodity value of a packaging material, as defined by
+49 published indices, which shall include allowances for commodities that
+50 have excessive residual contamination.
+51 6. The eco-modulated fees shall be adjusted, or the producers may be
+52 provided a credit, as detailed in the plan, based upon the percentage of
+53 post-consumer recycled material content and such percentage of post-con-
+54 sumer recycled content shall be verified by the organization or through
+55 an independent third party approved to perform verification services to
+56 ensure that such percentage exceeds the minimum requirements in the
+
+S. 1464--A 16
+1 packaging, as long as the recycled content does not disrupt the poten-
+2 tial for future recycling.
+3 7. In addition to the annual schedule of fees approved in the plan, an
+4 organization fee schedule may include a special assessment on specific
+5 categories of packaging materials, identified in the plan, if the nature
+6 of the packaging material imposes unusual costs in collection or proc-
+7 essing or requires special actions to address effective access to recy-
+8 cling or successful processing in recycling facilities.
+9 8. The eco-modulated fees shall be structured to provide producers
+10 with financial incentives to encourage:
+11 (a) A reduction in total packaging as measured by unit weight used by
+12 producers, and discarded by consumers, businesses, institutions, and
+13 other users. Weight reductions shall not be achieved by substituting
+14 plastic for other materials types;
+15 (b) An increase in the proportion of a producer's total packaging that
+16 is managed within a reuse and refill system;
+17 (c) An increase in the proportion of a producer's total packaging that
+18 is deemed recyclable as determined by an annual review process as
+19 described in section 27-3405 of this title;
+20 (d) A reduction in toxic components in packaging materials;
+21 (e) A reduction in landfilled or incinerated material; and
+22 (f) Packaging that is not disruptive of recycling processes due to
+23 labels, inks, and adhesives containing heavy metals or other toxic
+24 substances that would result in contamination of the recycling process.
+25 9. An organization shall be responsible for calculating and disbursing
+26 funding at a reasonable rate developed through an objective formula
+27 approved by the department, which includes the general quality of
+28 covered materials collected by service providers, and such reasonable
+29 rate may be varied based on population density rates for municipal
+30 services utilized by an organization if the municipality elects to be
+31 compensated by the organization for reimbursement for all costs eligible
+32 under this title in the collection, recovery, recycling, and processing
+33 of covered materials and products as or with a service provider.
+34 10. If a municipality does not elect to provide service, the organiza-
+35 tion shall be responsible for contracting with a service provider for
+36 services and shall be responsible for calculating and disbursing funding
+37 at a reasonable rate for reimbursement for all costs eligible under this
+38 title for collection, recycling, recovery, processing, and disposal
+39 services provided by the service provider. Any such contract shall be
+40 subject to a labor peace agreement as contemplated by paragraph (k) of
+41 subdivision four of section 27-3407 of this title.
+42 11. To facilitate an organization's cost reimbursement determination,
+43 participating service providers shall report data related to their costs
+44 and the value of materials to the organization. Cost calculations shall
+45 take into consideration the amount received from the sale of source-se-
+46 parated materials.
+47 12. There shall be no fee assessed on reusable or refillable packaging
+48 and containers contained within a reuse or refill system.
+49 13. Any funds directly collected pursuant to this title shall not be
+50 used to carry out lobbying activities on behalf of an organization.
+51 14. Notwithstanding any deposits that are charged to the consumer for
+52 reusable or refillable packaging, or containers contained within a reuse
+53 or refill system, no retailer shall charge a point-of-sale or other fee
+54 to consumers to facilitate a producer or organization to recoup the
+55 costs associated with meeting the obligations under this title.
+
+S. 1464--A 17
+1 15. Nothing in this title shall require a municipality to participate
+2 in the program, provided that a municipality must give at least six
+3 months' notice of its intent to cease participation.
+4 § 27-3415. Collection and convenience.
+5 1. The program shall provide for widespread, convenient, and equitable
+6 access to collection opportunities for packaging materials at no addi-
+7 tional cost to service providers. Such opportunities, including curbside
+8 collection, shall be provided to all residents of the state in a manner
+9 that is as convenient as the collection of solid waste as provided to
+10 the consumer in that geographic area as of the effective date of this
+11 title. Organizations shall ensure services continue for existing
+12 collection programs as of the effective date of this title, either
+13 directly or through a contract to provide services, and that such
+14 services are continued through such producer or organization's plan
+15 pursuant to section 27-3405 of this title.
+16 2. Participation in the program shall not restrict a jurisdiction's
+17 consumer's ability to contract directly with third parties to obtain
+18 collection services if consumers have the option to enter into such
+19 contracts as of the effective date of this title, as long as the consum-
+20 er still voluntarily chooses to contract directly with the third party.
+21 The municipality shall not provide disbursement to such third party
+22 should the municipality provide widespread recycling services either
+23 directly or through a contract that is different from the contract with
+24 such service provider, and there shall be procedures in place to ensure
+25 that no service provider is compensated more than once for the same
+26 service.
+27 3. Organizations may rely on a range of means to collect various cate-
+28 gories of covered materials so long as collection options include curb-
+29 side collection services provided by municipal programs, municipal
+30 contracted programs, solid waste collection companies, or other approved
+31 entities as identified by the department if at a minimum:
+32 (a) the category of packaging materials is on the minimum recyclables
+33 list created by the department, is suitable for waste collection and can
+34 be effectively sorted by the facilities receiving the curbside collected
+35 material;
+36 (b) the provider of the collection service agrees to the organiza-
+37 tion's service provider costs arrangement; and
+38 (c) any private contract for such services is subject to a labor peace
+39 agreement as contemplated by paragraph (k) of subdivision four of
+40 section 27-3407.
+41 4. All service providers shall provide for the collection and recycl-
+42 ing of all packaging materials contained on the minimum recyclables
+43 lists in order to be eligible for reimbursement; provided, however,
+44 nothing shall penalize a service provider for recovering and recycling
+45 materials that are generated in the municipality that are not included
+46 on the minimum recyclables lists as long as it can be demonstrated that
+47 such materials have a responsible end market for purchase as determined
+48 by the department in consultation with the producer or organization.
+49 5. Reimbursement shall cover collection, processing, transportation,
+50 and recycling and disposal of covered materials so long as the program
+51 includes at least the minimum recyclables list. The department may grant
+52 an exception to the requirements in this subdivision upon a written
+53 showing by the service provider that compliance with the requirements is
+54 not practicable for a specific identified product or material and if the
+55 department finds it is in the best interest of the intent of this title
+
+S. 1464--A 18
+1 to grant an exception; provided, however, that any such exception grant-
+2 ed by the department shall not exceed twelve months.
+3 6. Program funds that are not reimbursements outlined in this title
+4 shall be used for investment in collection systems for recycling or
+5 reuse, transportation systems for recycling or reuse, reuse systems,
+6 washing systems, redistribution systems, technology for tracking and
+7 data collection, capital expenditures on new and emerging technology
+8 that is focused on reusable and refillable packaging, as well as equip-
+9 ment, and facilities, and other projects as contemplated by paragraph
+10 (s) of subdivision four of section 27-3407 of this title.
+11 7. Nothing in this title shall be deemed to automatically void or
+12 nullify any collection contracts in effect as of the effective date of
+13 this title.
+14 § 27-3417. Producer responsibilities.
+15 1. Beginning with the required program implementation date as contem-
+16 plated by subdivision three of section 27-3407 of this title and in no
+17 event later than four years after the effective date of this title, a
+18 producer shall not sell, offer for sale, or distribute into the state a
+19 product contained, protected, delivered, presented, or distributed in
+20 packaging unless the producer is registered with an organization and in
+21 full compliance with all requirements of this title. Producers shall
+22 register with the initial organization within one year of the effective
+23 date of this title; provided, however, that any person who becomes a
+24 producer thereafter shall register with an organization and begin
+25 program implementation within six months thereof or be subject to penal-
+26 ties for noncompliance.
+27 2. Each producer shall provide the organization with the following
+28 information as part of registration:
+29 (a) Contact information, including the name, e-mail address, physical
+30 address, and telephone number of the authorized representative of the
+31 producer; and
+32 (b) Any other information required by the department.
+33 3. One year following producer registration with the organization,
+34 producers shall be required to report:
+35 (a) A comprehensive list of the categories and brands of packaging
+36 materials for which the producer or producers are responsible; and
+37 (b) The total amount, in units and weight, of each category of packag-
+38 ing material sold, offered for sale, or distributed for sale into the
+39 state by the producer in the prior calendar year.
+40 4. Producers are responsible for payment of fees, through an organiza-
+41 tion, based on the quantity, category of packaging material used in the
+42 state, and other factors. Producers shall make the first payment to an
+43 organization within six months of approval of a plan, pursuant to
+44 section 27-3409 of this title, and annually thereafter.
+45 5. Producers are responsible for meeting the toxic substances, packag-
+46 ing material reduction, post-consumer content, and recyclability stand-
+47 ards under this title.
+48 6. A producer shall electronically submit annually, to both the
+49 department and an organization, a written declaration signed by an
+50 authorized representative, verifying the producer's compliance with:
+51 (a) The packaging material reduction requirements of this title;
+52 (b) The packaging material recycled content requirements of this
+53 title;
+54 (c) The packaging material recyclability requirements of this title;
+55 (d) The toxic substance requirements of this title;
+
+S. 1464--A 19
+1 (e) Their obligations to pay fees to the organization pursuant to
+2 section 27-3413 of this title and subdivision three of this section; and
+3 (f) Any reimbursement obligations they have to the organization in
+4 connection with this title.
+5 7. Nothing in this title shall impair a producer's eligibility for tax
+6 credits or other business incentives for which they would otherwise
+7 qualify.
+8 § 27-3419. Department responsibilities.
+9 1. Within one year of the effective date of this title, the department
+10 shall register service providers seeking reimbursement for covered
+11 services provided within this title and publicly post the list of regis-
+12 tered service providers.
+13 2. Within eighteen months of the effective date of this title, the
+14 department shall, in accordance with section 27-3435 of this title,
+15 promulgate all rules and regulations necessary to implement, administer,
+16 and enforce the provisions of this title, including setting standards
+17 for consumer protection when the organization directly disburses funds
+18 to third parties. Such rules and regulations shall include prohibiting
+19 certain toxics in packaging pursuant to section 27-3427 of this title
+20 as of the dates set forth therein.
+21 3. Beginning two years after the required program implementation date
+22 as contemplated by subdivision three of section 27-3407 of this title
+23 and in no event later than three years after the effective date of this
+24 title, and annually thereafter, the department shall utilize the infor-
+25 mation obtained pursuant to paragraphs (b), (c), (d), (e), (f) and (g)
+26 of subdivision three of section 27-3405 of this title, and any other
+27 information available to the department, with input from the advisory
+28 council, to produce an annual report to be shared with the legislature
+29 and posted publicly on the department's website.
+30 4. The department shall establish and maintain the minimum recyclables
+31 lists by regulation. The department may update such lists annually,
+32 after the initial organization's plan is first approved, considering
+33 recommendations from organizations and the advisory council. The minimum
+34 recyclables lists shall meet the requirements of subdivision one of
+35 section 27-3433 of this title.
+36 5. In the event that the department determines that the organization
+37 no longer meets the requirements of this title, or fails to implement
+38 and administer the requirements of this title in a manner that effectu-
+39 ates the purposes of this title, after reasonable opportunity to cure
+40 such deficiencies, the department shall revoke its approval of such
+41 organization and, subject to the contingency plan contemplated by para-
+42 graph (x) of subdivision four of section 27-3407 of this title, shall
+43 select a new organization pursuant to section 27-3403 of this title.
+44 § 27-3421. Service provider responsibilities.
+45 1. Within one year of the effective date of this title and annually
+46 thereafter, service providers seeking reimbursement for covered services
+47 provided shall register with the department with contact information for
+48 a representative of the service provider, the address of the service
+49 provider, and any other information determined by the department.
+50 2. Service providers shall be responsible for the covered services for
+51 the covered materials in this title.
+52 3. Service providers shall submit invoices to the organization for
+53 reimbursement of covered services rendered.
+54 4. Service providers shall meet performance standards established in
+55 this title.
+
+S. 1464--A 20
+1 5. Service providers shall ensure that covered materials are sent to
+2 responsible end markets.
+3 6. Service providers shall provide to an organization information on
+4 amounts, covered material types, and volumes of covered materials by
+5 covered service method.
+6 7. Service providers that invoice customers shall display the service
+7 provider's price, minus the reimbursement from the organization, when
+8 invoicing customers. Such balance is what the service provider may
+9 charge the customer.
+10 § 27-3423. Statewide packaging reduction, reuse, and recycling needs
+11 assessment.
+12 1. No later than one year after the effective date of this title and
+13 every five years thereafter, the department shall complete or cause to
+14 be completed a statewide packaging material reduction, reuse, and recy-
+15 cling needs assessment to determine the current state of packaging mate-
+16 rial reuse, recycling, and disposal, identify barriers and opportunities
+17 to reduce the amount of packaging material discarded and disposed of,
+18 and increase the reusability and recyclability of packaging material.
+19 2. The needs assessment, at a minimum, shall cover the following:
+20 (a) The current recycling rate for each type of packaging material;
+21 (b) The amount, by weight and material type, of packaging material
+22 recycled at each recycling facility that accepts discarded packaging
+23 material generated in the state;
+24 (c) The processing capacity, responsible end market conditions, and
+25 opportunities in the state and regionally for recyclable materials
+26 generally, and packaging material categories specifically;
+27 (d) The net cost of end-of-life management of discarded packaging
+28 material in the state, including the cost associated with the
+29 collection, transportation, sortation, recycling, littering, landfill-
+30 ing, or incineration of discarded packaging;
+31 (e) The availability of opportunities in the recycling and reuse
+32 system for minority- and women-owned businesses;
+33 (f) Current barriers affecting recycling access and availability in
+34 the state;
+35 (g) Current barriers to the marketability of recyclable materials
+36 generated in the state;
+37 (h) Opportunities for the creation of packaging material reuse and
+38 refill programs in the state;
+39 (i) Opportunities for the improvement of packaging material recycling
+40 in the state, including the development of responsible end markets for
+41 recycled packaging materials;
+42 (j) Current barriers affecting the creation and implementation of
+43 packaging material reuse and refill programs;
+44 (k) Consumer education needs in the state with respect to packaging
+45 material waste reduction, recycling, and reducing contamination in recy-
+46 cling, and reuse and refill systems for packaging material; and
+47 (l) Landfill capacity.
+48 3. In developing the needs assessment, the department shall consult
+49 with the organization to ensure that the methodology used and data
+50 collected by the department properly informs the organization's plan.
+51 4. In developing the needs assessment, the department shall solicit
+52 input from the public.
+53 5. The cost incurred by the department associated with conducting the
+54 needs assessment shall be paid for by the organization.
+
+S. 1464--A 21
+1 6. The department shall report the results of the needs assessment to
+2 the public, the state legislature, and the governor, and shall post the
+3 results on its website.
+4 § 27-3425. Education and outreach program.
+5 1. The organization shall develop and implement an educational
+6 outreach program designed to educate the public about waste reduction
+7 and improve the effectiveness of municipal recycling and, at a minimum,
+8 include:
+9 (a) Educational and informational materials for consumers related to
+10 reducing the amount of packaging discarded and disposed of in the state;
+11 (b) A description of the environmental, social, economic, and environ-
+12 mental justice impacts associated with improper disposal of packaging
+13 material and failure to reuse or recycle packaging materials;
+14 (c) Information on the proper end-of-life management of packaging
+15 material, including reuse, recycling, composting, and disposal;
+16 (d) The location and availability of curbside collection and addi-
+17 tional drop-off collection opportunities for packaging material, includ-
+18 ing deposit and take-back programs;
+19 (e) How to prevent litter of packaging material in the process of
+20 collection;
+21 (f) Recycling instructions that are consistent statewide, except as
+22 necessary to take into account differences among local laws and process-
+23 ing capabilities, easy to understand, and easily accessible;
+24 (g) The best practices and guidance relating to compliance with appli-
+25 cable federal law or regulations established pursuant to paragraph (c)
+26 of subdivision six of section 27-3429 of this title, paragraph (c) of
+27 subdivision eleven of section 27-3433 of this title, and paragraph (c)
+28 of subdivision twelve of section 27-3433 of this title; and
+29 (h) Any other information required by the department.
+30 2. The educational outreach program shall incorporate, at a minimum,
+31 electronic, print, web-based and social media elements, including for
+32 use by municipalities and service providers at their discretion, as well
+33 as including a variety of outreach and education tools. Such educational
+34 outreach programs shall ensure materials are widely accessible and
+35 available in multiple languages.
+36 3. The educational outreach program shall be coordinated with and
+37 assist municipalities and service providers.
+38 4. The educational outreach program shall be developed to ensure
+39 disadvantaged communities receive targeted outreach and support.
+40 5. The educational outreach program shall include a plan to work with
+41 producers to label or mark packaging material, in accordance with
+42 reasonable labeling standards, with information to assist consumers in
+43 responsibly managing and recycling covered materials.
+44 6. The educational outreach program shall include a plan to work with
+45 New York state agencies that require labeling, including the department
+46 of agriculture and markets, to ensure producers can comply with this
+47 title and any other relevant rules or regulations.
+48 7. The organization shall consult with municipalities and service
+49 providers on the development of educational materials and may coordinate
+50 on outreach and communication.
+51 8. The organization shall be authorized to provide producers and
+52 retailers with educational materials related to the responsible
+53 reduction, reuse, recycling, or disposal of discarded packaging materi-
+54 al. The educational and informational materials provided to the retailer
+55 under this subdivision may include, but need not be limited to, printed
+56 materials, signage and templates of materials that can be reproduced by
+
+S. 1464--A 22
+1 retailers and provided thereby to consumers at the time of a product's
+2 purchase, and advertising materials that promote and encourage consumers
+3 to properly reuse, recycle, or dispose of packaging material.
+4 9. The organization shall make information on relevant tax credits and
+5 other business incentives available to producers.
+6 10. The organization shall promote the opportunity for all service
+7 providers to register with the department and to submit invoices for
+8 reimbursement with the organization.
+9 § 27-3427. Prohibition on certain toxic substances and materials.
+10 1. Notwithstanding title two of article thirty-seven of this chapter
+11 to the contrary, (a) Beginning four years after the promulgation of
+12 rules and regulations pursuant to this title, no producer shall sell,
+13 offer for sale, or distribute into the state any packaging containing
+14 any of the following toxic substances or materials as an intentionally
+15 added substance:
+16 (i) Ortho-phthalates;
+17 (ii) Bisphenols but excluding Tetramethyl bisphenol F (TMBPF);
+18 (iii) Per- and polyfluoroalkyl substances (PFAS);
+19 (iv) Heavy metals and compounds, including lead, hexavalent chromium,
+20 cadmium, and mercury, but excluding copper phthalocyanine (chemical
+21 abstracts service registry number 147-14-8);
+22 (v) Benzophenone and its derivatives;
+23 (vi) Formaldehyde;
+24 (vii) Toluene;
+25 (viii) Antimony and compounds;
+26 (ix) Polyvinyl chloride, including polyvinylidene chloride; or
+27 (x) Polystyrene but excluding EPS (expanded polystyrene).
+28 (b) Beginning seven years after the promulgation of rules and regu-
+29 lations pursuant to this title, no person or entity shall sell, offer
+30 for sale, or distribute into the state any packaging containing any of
+31 the toxic substances listed in paragraph (a) of this subdivision as
+32 intentionally added substance or at or above a level established by the
+33 department through regulation.
+34 2. Any producer that violates this section, or any rules or regu-
+35 lations promulgated pursuant to this section, shall be subject to a fine
+36 for each violation not to exceed ten thousand dollars per violation. For
+37 the purposes of this section, each product line that is sold, offered
+38 for sale, or distributed to consumers, via retail commerce, in the
+39 state, including through an internet transaction shall be considered a
+40 separate violation.
+41 § 27-3429. Non-reusable packaging reduction standards.
+42 1. Each individual producer is required to meet the following packag-
+43 ing reduction requirements:
+44 (a) Beginning three years after the program implementation date set
+45 forth in subdivision three of section 27-3407 or January first of the
+46 third year following the date on which a producer first registers with
+47 an organization if a producer registers after the program implementation
+48 date, such producer shall reduce the total amount of plastic packaging
+49 material, including plastic primary packaging, and all other non-primary
+50 packaging material, including secondary and tertiary packaging of all
+51 materials by ten percent either on a company-wide basis or by unit
+52 weight, for covered materials used to contain, protect, deliver, pres-
+53 ent, or distribute the products they sell, offer for sale, or distribute
+54 for sale in the state.
+55 (b) Beginning five years after the program implementation date set
+56 forth in subdivision three of section 27-3407 or January first of the
+
+S. 1464--A 23
+1 fifth year following the date on which a producer first registers with
+2 an organization if a producer registers after the program implementation
+3 date, such producer shall reduce the total amount of plastic packaging
+4 material, including plastic primary packaging, and all other non-primary
+5 packaging material, including secondary and tertiary packaging of all
+6 materials by fifteen percent either on a company-wide basis or by unit
+7 weight, for covered materials used to contain, protect, deliver, pres-
+8 ent, or distribute the products they sell, offer for sale, or distribute
+9 for sale in the state.
+10 (c) Beginning eight years after the program implementation date set
+11 forth in subdivision three of section 27-3407 or January first of the
+12 eighth year following the date on which a producer first registers with
+13 an organization if a producer registers after the program implementation
+14 date, such producer shall reduce the total amount of plastic packaging
+15 material, including plastic primary packaging, and all other non-primary
+16 packaging material, including secondary and tertiary packaging of all
+17 materials by twenty percent either on a company-wide basis or by unit
+18 weight, for covered materials used to contain, protect, deliver, pres-
+19 ent, or distribute the products they sell, offer for sale, or distribute
+20 for sale in the state.
+21 (d) Beginning ten years after the program implementation date set
+22 forth in subdivision three of section 27-3407 or January first of the
+23 tenth year following the date on which a producer first registers with
+24 an organization if a producer registers after the program implementation
+25 date, such producer shall reduce the total amount of plastic packaging
+26 material, including plastic primary packaging, and all other non-primary
+27 packaging material, including secondary and tertiary packaging of all
+28 materials by twenty-five percent either on a company-wide basis or by
+29 unit weight for covered packaging materials used to contain, protect,
+30 deliver, present, or distribute the products they sell, offer for sale,
+31 or distribute for sale in the state.
+32 (e) Beginning twelve years after the program implementation date set
+33 forth in subdivision three of section 27-3407 or January first of the
+34 twelfth year following the date on which a producer first registers with
+35 an organization if a producer registers after the program implementation
+36 date, such producer shall reduce the total amount of plastic packaging
+37 material, including plastic primary packaging, and all other non-primary
+38 packaging material, including secondary and tertiary packaging of all
+39 materials by thirty percent either on a company-wide basis or by unit
+40 weight, for covered materials used to contain, protect, deliver, pres-
+41 ent, or distribute the products they sell, offer for sale, or distribute
+42 for sale in the state.
+43 2. The reductions required by this section shall be measured against
+44 the packaging material the producer used during the first year such
+45 producer registered with an organization.
+46 3. These reductions shall be achieved by eliminating single-use pack-
+47 aging material, including secondary or tertiary packaging material,
+48 elimination of packaging material components, reduction of packaging
+49 material components, or by transitioning to reusable or refillable pack-
+50 aging systems. Reductions may also be achieved by substituting plastic
+51 packaging material with non-plastic packaging material. However, the
+52 reductions required by this section shall not be achieved by substitut-
+53 ing non-plastic materials with plastic materials or substituting recycl-
+54 able materials with non-recyclable materials.
+55 4. In the case of a producer for which, as of the effective date of
+56 this title or upon entry into the market after such effective date, a
+
+S. 1464--A 24
+1 portion of its packaging is reusable and contained within a reuse and
+2 refill system, such producer may apply to the department for a waiver
+3 from the packaging reduction requirements set forth in subdivision one
+4 of this section with respect to that percentage of its packaging, by
+5 unit weight, which is contained within a reuse and refill system.
+6 5. In the case of a producer that demonstrates in a manner satisfac-
+7 tory to the department that, for the period beginning ten years prior to
+8 the effective date of this title and ending on the date which is two
+9 years after the effective date of this title, or in the case of a
+10 producer registering with an organization two years after the effective
+11 date of this title, for the period beginning ten years prior to the
+12 producer registering with an organization, the producer reduced the
+13 amount of packaging used to contain, protect, deliver, present, or
+14 distribute the products the producer sells, offers for sale, or distrib-
+15 utes for sale into the state, such producer may apply to the department
+16 for a waiver from the packaging reduction requirements of this section
+17 with respect to that percentage of its packaging, by unit weight, which
+18 was reduced during such twelve-year period.
+19 6. (a) A producer may apply to the department for a partial or
+20 complete waiver from the reduction requirements of this section if bona
+21 fide compliance is impossible due to federal law or substantially
+22 impairs compliance with health, safety, or labeling requirements under
+23 federal law, and any regulations promulgated thereunder, including, but
+24 not limited to requirements relating to the contents of packaging mate-
+25 rials that come into contact with food or drugs not otherwise exempted
+26 under this title; standardized labeling of weight, quantity, ingredi-
+27 ents, nutrition, material contents, product origin and manufacturer, or
+28 health and safety warnings; or packaging design to prevent or limit
+29 ingestion by minors.
+30 (b) Such waiver shall be applied for at least every five years on a
+31 form prescribed by the department. In such application the producer
+32 shall provide sufficient information, as determined by the department in
+33 consultation with the advisory council, to make a determination that
+34 such waiver is necessary and proper and the extent to which such waiver
+35 shall apply, including citation to the relevant federal law or regu-
+36 lation, an explanation as to why compliance with this section is made
+37 impossible or substantially impaired by federal law or regulations, and
+38 evidence that the producer has otherwise taken all feasible actions to
+39 achieve the reductions required by this section.
+40 (c) The department, in consultation with the advisory council, organ-
+41 izations, the department of health, and relevant federal health and
+42 environmental subdivisions, shall, no later than two years after the
+43 effective date of this section develop and maintain on its website,
+44 incorporate into the education and outreach materials required pursuant
+45 to section 27-3425 of this title, and update at least annually thereaft-
+46 er, a list of best practices and guidance relating to the design or
+47 manufacture of common packing materials subject to regulation under
+48 federal law to (i) reduce, to the maximum extent practicable, the amount
+49 of packaging material used; and (ii) maintain compliance with applicable
+50 federal law or regulations.
+51 7. Notwithstanding subdivision four of this section, the requirements
+52 of this section shall not apply to reusable or refillable packaging or
+53 containers contained within a reuse or refill system and their secondary
+54 or tertiary packaging, however a producer switching to reusable or
+55 refillable packaging or containers contained within a reuse or refill
+56 system from other packaging shall qualify for the above standards.
+
+S. 1464--A 25
+1 8. Nothing in this section shall preclude a producer from going beyond
+2 the reduction standards in subdivision one of this section.
+3 § 27-3431. Recycled content standards.
+4 1. Each individual producer shall meet the recycling content targets
+5 contained in this section.
+6 2. Beginning two years after promulgation of rules and regulations
+7 pursuant to this title:
+8 (a) all paper carryout bags sold, offered for sale, or given away free
+9 in the state by a producer shall contain, on average, at least forty
+10 percent post-consumer recycled content; except that a paper carryout bag
+11 that holds eight pounds or less shall only be required to contain, on
+12 average, at least twenty percent post-consumer recycled content; and
+13 (b) all plastic trash bags sold or offered for sale in the state by a
+14 producer shall contain, on average, at least ten percent post-consumer
+15 recycled content.
+16 3. Beginning five years after the promulgation of rules and regu-
+17 lations pursuant to this title all plastic trash bags sold or offered
+18 for sale in the state by a producer shall contain, on average, at least
+19 twenty percent post-consumer recycled content.
+20 4. The requirements of this section shall not apply to reusable or
+21 refillable packaging or containers contained within a reuse or refill
+22 system.
+23 5. Beginning two years after plan implementation begins for the
+24 initial organization, the department is authorized, in consultation with
+25 the advisory council and the organization, to:
+26 (a) establish content requirements for materials not listed in subdi-
+27 vision two of this section; and
+28 (b) modify the post-consumer recycled content targets for the materi-
+29 als set forth in subdivision two of this section, provided that modifi-
+30 cations do not result in a lesser percentage or an earlier year for the
+31 respective target.
+32 § 27-3433. Recyclability criteria, reusable or refillable packaging
+33 requirements, and packaging recycling requirements.
+34 1. Within eighteen months of the effective date of this title, the
+35 department shall approve a list of packaging materials that are deter-
+36 mined to be recyclable statewide through a system where materials that
+37 are commingled into a recyclables stream. The department shall establish
+38 standards for collection services sufficient to meet the needs of
+39 consumers in an ongoing and convenient manner. The department may grant
+40 a municipality or service provider an exception or waiver to the
+41 requirements of this subdivision if they demonstrate to the reasonable
+42 satisfaction of the department that it is not able to provide services
+43 or provide the convenience standards for the materials on the list
+44 developed by the department.
+45 2. Within eighteen months of the effective date of this title, the
+46 department shall approve a list of packaging materials determined to be
+47 recyclable and collected statewide through systems other than the system
+48 required for packaging materials on the list established by the depart-
+49 ment according to subdivision one of this section.
+50 3. The department shall consult with the advisory council, the organ-
+51 ization, municipalities, service providers, and any other interested
+52 parties determined by the department to develop or amend the minimum
+53 recyclables list and shall review any requests by interested parties for
+54 additional or removal of packaging materials from the minimum recycling
+55 lists.
+
+S. 1464--A 26
+1 4. In developing the minimum recyclable lists, the department may
+2 consider the following criteria:
+3 (a) current availability of recycling collection services;
+4 (b) recycling process and infrastructure;
+5 (c) capacity and technology for sorting packaging materials;
+6 (d) whether a packaging material is of a type and form that is regu-
+7 larly sorted and aggregated into defined streams for recycling processes
+8 or is included in a relevant national recycled material association;
+9 (e) availability of responsible end markets for packaged materials;
+10 (f) presence and amount of processing residuals, contamination, and
+11 toxic substances;
+12 (g) quantity of packaging materials estimated to be available and
+13 recoverable;
+14 (h) availability of domestic post-consumer recycled content;
+15 (i) projected future conditions for the criteria above; and
+16 (j) any other criteria or factors as determined by the department.
+17 5. The department may amend a list completed under this section annu-
+18 ally and shall provide amended lists to an organization within a reason-
+19 able amount of time after adopting an amendment. The organization shall
+20 provide amended lists to service providers and producers as soon as
+21 possible after receiving the amendment and work to incorporate changes
+22 in relevant reimbursement rates within a year.
+23 6. The categories used by the organization for producer reporting and
+24 fee payments shall align with the lists developed by the department.
+25 7. Beginning January first, two thousand thirty-two, packaging materi-
+26 als that are not reusable or refillable packaging or containers capable
+27 of being managed through a reuse and refill system that meet the
+28 requirements of this title used by a producer shall meet the following
+29 recyclability criteria:
+30 (a) be capable of being sorted by entities that process recyclable
+31 material generated in the state;
+32 (b) have responsible end markets;
+33 (c) not contain the following:
+34 (i) opaque or pigmented polyethylene terephthalate;
+35 (ii) oxo-degradable additives, including oxo-biodegradable additives;
+36 (iii) polyethylene terephthalate glycol in rigid packaging;
+37 (iv) label constructions, including adhesives, inks, materials and
+38 formats, or features that render a package non-recyclable or disruptive
+39 to the recycling process; and
+40 (v) DoPS - polystyrene, excluding EPS (expanded polystyrene);
+41 (d) meet the post-consumer content requirements of this title; and
+42 (e) any other criteria determined by the department.
+43 8. Each individual producer shall be required to meet the following
+44 reuse standards, producer packaging changes to achieve these standards
+45 may also fulfill a producer's requirements under section 27-3429 of this
+46 title:
+47 (a) Beginning January first, two thousand thirty-two, a minimum of
+48 five percent of packaging material shall be reuseable or refillable
+49 packaging or containers;
+50 (b) Beginning January first, two thousand forty, a minimum of ten
+51 percent of packaging material shall be reusable or refillable packaging
+52 or containers; and
+53 (c) Beginning January first, two thousand fifty-five, a minimum of
+54 twenty percent of packaging material shall be reusable or refillable
+55 packaging or containers.
+
+S. 1464--A 27
+1 9. An organization shall be required to meet the following recycling
+2 rate standards:
+3 (a) With respect to covered materials that are non-plastic packaging:
+4 (i) Beginning January first, two thousand thirty-two, a minimum of
+5 thirty-five percent of packaging material reported by an organization as
+6 supplied into the state shall be reused or recycled;
+7 (ii) Beginning January first, two thousand forty, a minimum of fifty
+8 percent of packaging material reported by an organization as supplied
+9 into the state shall be reused or recycled; and
+10 (iii) Beginning January first, two thousand fifty-five, a minimum of
+11 seventy-five percent of packaging material reported by an organization
+12 as supplied into the state shall be reused or recycled.
+13 (b) With respect to covered materials that are plastic packaging:
+14 (i) Beginning January first, two thousand thirty-two, a minimum of
+15 twenty-five percent of plastic packaging material reported by an organ-
+16 ization as supplied into the state shall be reused or recycled;
+17 (ii) Beginning January first, two thousand forty, a minimum of fifty
+18 percent of plastic packaging material reported by an organization as
+19 supplied into the state shall be reused or recycled; and
+20 (iii) Beginning January first, two thousand fifty-five, a minimum of
+21 seventy-five percent of plastic packaging material reported by an organ-
+22 ization as supplied into the state shall be reused or recycled.
+23 10. The department may adjust the recycling rates in subdivision three
+24 of this section by rulemaking based on information gathered through the
+25 needs assessment or provided in producer plans and reports, and/or based
+26 on consideration of environmental, technical and economic conditions. An
+27 adjustment to the statewide recycling performance targets may not adjust
+28 the recycling rate target to less than thirty percent or more than
+29 seventy-five percent.
+30 11. (a) A producer may apply to the department for a partial or
+31 complete waiver from the recyclability requirements of this section if
+32 bona fide compliance is impossible due to federal law or substantially
+33 impairs compliance with health, safety, or labeling requirements under
+34 federal law, and any regulations promulgated thereunder, including, but
+35 not limited to requirements relating to the contents of packaging mate-
+36 rials that come into contact with food or drugs not otherwise exempted
+37 under this title; standardized labeling of weight, quantity, ingredi-
+38 ents, nutrition, material contents, product origin and manufacturer, or
+39 health and safety warnings; or packaging design to prevent or limit
+40 ingestion by minors.
+41 (b) Such waiver shall be applied for at least every five years on a
+42 form prescribed by the department. In such application the producer
+43 shall provide sufficient information, as determined by the department in
+44 consultation with the advisory council, to make a determination that
+45 such waiver is necessary and proper and the extent to which such waiver
+46 shall apply, including citation to the relevant federal law or regu-
+47 lation, an explanation as to why compliance with this section is made
+48 impossible or substantially impaired by federal law or regulations and
+49 evidence that the producer has otherwise taken all feasible actions to
+50 achieve the reductions required by this section.
+51 (c) The department, in consultation with the advisory council, organ-
+52 izations, the department of health, and relevant federal health and
+53 environmental subdivisions, shall, no later than two years after the
+54 effective date of this section develop and maintain on its website,
+55 incorporate into the education and outreach materials required pursuant
+56 to section 27-3425 of this title, and update at least annually thereaft-
+
+S. 1464--A 28
+1 er, a list of best practices and guidance relating to the design or
+2 manufacture of common packing materials subject to regulation under
+3 federal law to (i) expand the recyclability of packaging material used;
+4 and (ii) maintain compliance with applicable federal law or regulations.
+5 12. (a) A producer may apply to the department for a partial or
+6 complete waiver from the reuse standards of this section if bona fide
+7 compliance is impossible due to federal law or substantially impairs
+8 compliance with health, safety, or labeling requirements under federal
+9 law, and any regulations promulgated thereunder, including, but not
+10 limited to requirements relating to the contents of packaging materials
+11 that come into contact with food or drugs not otherwise exempted under
+12 this title; standardized labeling of weight, quantity, ingredients,
+13 nutrition, material contents, product origin and manufacturer, or health
+14 and safety warnings; or packaging design to prevent or limit ingestion
+15 by minors.
+16 (b) Such waiver shall be applied for at least every five years on a
+17 form prescribed by the department. In such application the producer
+18 shall provide sufficient information, as determined by the department in
+19 consultation with the advisory council, to make a determination that
+20 such waiver is necessary and proper and the extent to which such waiver
+21 shall apply, including citation to the relevant federal law or regu-
+22 lation, an explanation as to why compliance with this section is made
+23 impossible or substantially impaired by federal law or regulations and
+24 evidence that the producer has otherwise taken all feasible actions to
+25 achieve the reductions required by this section.
+26 (c) The department, in consultation with the advisory council, organ-
+27 izations, the department of health, and relevant federal health and
+28 environmental subdivisions, shall, no later than two years after the
+29 effective date of this section develop and maintain on its website,
+30 incorporate into the education and outreach materials required pursuant
+31 to section 27-3425 of this title, and update at least annually thereaft-
+32 er, a list of best practices and guidance relating to the design or
+33 manufacture of common packing materials subject to regulation under
+34 federal law to (i) expand the reuse of packaging material used; and (ii)
+35 maintain compliance with applicable federal law or regulations.
+36 § 27-3435. Penalties and enforcement.
+37 1. Failure to comply with the requirements of this title shall subject
+38 the organization or an individual producer to penalties for violations.
+39 The department or attorney general, may conduct investigations, includ-
+40 ing inspecting operations, facilities, and records of producers and
+41 organizations, and performing audits of producers and organizations, to
+42 determine whether such producers and organizations are complying with
+43 the requirements of this title.
+44 2. The department or the attorney general, shall notify an organiza-
+45 tion or producer of any conduct or practice that does not comply with
+46 the requirements of this title and of any inconsistencies identified in
+47 an audit.
+48 3. The department and the attorney general, may issue a notice of
+49 violation to, and impose an administrative civil penalty not to exceed
+50 one thousand dollars per day per violation on any entity not in compli-
+51 ance with this title or any of the regulations the department adopts to
+52 implement this title. For the purposes of this section, each product
+53 line that is sold, offered for sale, or distributed to consumers via
+54 retail commerce in the state, including through an internet transaction,
+55 shall be considered a separate violation.
+
+S. 1464--A 29
+1 4. Civil penalties under this section shall be assessed by the depart-
+2 ment after an opportunity to be heard pursuant to the provisions of
+3 section 71-1709 of this chapter, or by the court in any action or
+4 proceeding pursuant to section 71-2727 of this chapter, and in addition
+5 thereto, such person or entity may by similar process be enjoined from
+6 continuing such violation and any permit, registration or other approval
+7 issued by the department may be revoked or suspended or a pending
+8 renewal denied.
+9 § 27-3437. Rules and regulations.
+10 1. Within eighteen months after the effective date of this section,
+11 the department shall promulgate all rules and regulations necessary to
+12 implement, administer, and enforce the provisions of this title.
+13 2. When promulgating rules pursuant to the provisions of this section,
+14 the department shall solicit input from the public of any draft rule or
+15 regulation to implement this section, including at a minimum a ninety-
+16 day comment period and one public hearing on such draft rules.
+17 § 27-3439. State preemption.
+18 Jurisdiction in all matters pertaining to costs and funding mechanisms
+19 of packaging reduction and recycling organizations relating to the
+20 recovery of packaging materials shall, by this title, be vested exclu-
+21 sively in the state; provided, however, that nothing in this title shall
+22 preclude any person from coordinating, for recycling or reuse, the
+23 collection of packaging materials and products.
+24 § 27-3441. Other assistance programs.
+25 Nothing in this title shall impact any producer eligibility for any
+26 state or local incentive or assistance program to which they are other-
+27 wise eligible.
+28 § 27-3443. Antitrust protections.
+29 A producer shall not be liable for any claim of a violation of anti-
+30 trust, restraint of trade, or unfair trade practice arising from conduct
+31 undertaken in order to comply with this title; provided, however, this
+32 section shall not apply to any agreement establishing or affecting the
+33 price of packaging material, or the output or production of any agree-
+34 ment restricting the geographic area or customers to which packaging
+35 material will be sold.
+36 § 27-3445. Severability.
+37 The provisions of this title shall be severable and if any phrase,
+38 clause, sentence or provision of this title or the applicability thereof
+39 to any person or circumstance shall be held invalid, the remainder of
+40 this title and the application thereof shall not be affected thereby.
+41 § 3. The environmental conservation law is amended by adding a new
+42 section 37-0202 to read as follows:
+43 § 37-0202. Applicability.
+44 This article shall only have effect to the extent that the prohibi-
+45 tions in this title are not otherwise substantially given effect or in
+46 conflict with the provisions of title thirty-four of article twenty-sev-
+47 en of this chapter.
+48 § 4. This act shall take effect immediately.

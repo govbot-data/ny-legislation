@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - A8823C
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8823--C
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 9, 2025
+___________
+Introduced by M. of A. ZINERMAN, OTIS -- read once and referred to the
+Committee on Corporations, Authorities and Commissions -- recommitted
+to the Committee on Corporations, Authorities and Commissions in
+accordance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee -- again reported from said
+committee with amendments, ordered reprinted as amended and recommit-
+ted to said committee
+AN ACT to amend the public service law and the public authorities law,
+in relation to requiring certain utility corporations and the Long
+Island power authority to establish a meter usage monitoring program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 39-a to read as follows:
+3 § 39-a. Meter usage monitoring program. 1. The commission shall
+4 require any utility corporation utilizing advanced metering infrastruc-
+5 ture to establish a usage monitoring program for the purposes of notify-
+6 ing residential customers when such utility usage exceeds a usage thres-
+7 hold, as determined by such residential customer, in a given billing
+8 period. The usage monitoring program shall notify residential customers
+9 electronically or by mail when half of their determined energy usage
+10 threshold is met, and when their usage threshold exceeds their deter-
+11 mined threshold. Such notification shall include an estimate of their
+12 monthly bill.
+13 2. The usage monitoring program shall be an elective program for resi-
+14 dential customers and designed to provide such residential customers
+15 with daily updates on their utility usage. Such usage information shall
+16 be accessible to the customer online within such customer's online
+17 account.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13114-04-6
+
+A. 8823--C 2
+1 3. The usage monitoring program shall at a minimum include the follow-
+2 ing:
+3 (a) the ability to select to enroll or disenroll from the usage moni-
+4 toring program;
+5 (b) the ability to set a monthly usage threshold that is measured in
+6 kilowatt hours (kWh), therms, hundred cubic feet (CCF), in gallons or in
+7 the measurement usage that is currently provided by such utility corpo-
+8 ration on the customer's monthly billing statement; and
+9 (c) the ability for a participating customer or enrolling customer to
+10 select the manner through which they will receive notification of their
+11 usage status pursuant to subdivision one of this section.
+12 4. The commission shall, with respect to the protection of customer
+13 data, at a minimum ensure:
+14 (a) any customer data collected pursuant to such usage monitoring
+15 program shall only include personal identifying information necessary to
+16 effectively administer this program;
+17 (b) no customer data collected pursuant to the usage monitoring
+18 program may be sold or shared except as set forth in paragraph (c) of
+19 this subdivision;
+20 (c) participating customer data may be shared with law enforcement
+21 only pursuant to a valid judicial warrant or judicial subpoena; and
+22 (d) customer data shall be safely stored and securely encrpyted, be
+23 destroyed within thirty days after intended use unless retention is
+24 otherwise required to comply with federal, state, or local laws, rules,
+25 or regulations, and be subject to any other additional cybersecurity
+26 protections the commission deems necessary to protect customers and
+27 customer data.
+28 § 2. Title 1-A of article 5 of the public authorities law, as added by
+29 chapter 517 of the laws of 1986, is amended by adding a new section
+30 1020-nn to read as follows:
+31 § 1020-nn. Meter usage monitoring program. The authority shall develop
+32 and implement a usage monitoring program for the purposes of notifying
+33 residential customers when such energy usage exceeds a usage threshold
+34 as determined by such residential customer, in a given billing period.
+35 Such program shall be implemented pursuant to section thirty-nine-a of
+36 the public service law.
+37 § 3. This act shall take effect one year after it shall have become a
+38 law. Effective immediately, the addition, amendment and/or repeal of any
+39 rule or regulation necessary for the implementation of this act on its
+40 effective date are authorized to be made and completed on or before
+41 such effective date.
