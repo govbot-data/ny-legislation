@@ -1,0 +1,148 @@
+Title: 
+Official Title: 
+Source: versions - S4574A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4574--A
+2025-2026 Regular Sessions
+IN SENATE
+February 7, 2025
+___________
+Introduced by Sens. MAY, FAHY -- read twice and ordered printed, and
+when printed to be committed to the Committee on Environmental Conser-
+vation -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to
+enacting the "PFAS discharge disclosure act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "PFAS discharge disclosure act".
+3 § 2. Legislative intent. The legislature finds and declares the
+4 following:
+5 1. PFAS (per- and polyfluoroalkyl substances) are a class of persist-
+6 ent, bioaccumulative, and toxic chemicals which have contaminated
+7 surface waters and groundwater in New York and across the country.
+8 2. New York has led the nation by limiting two PFAS--perfluorooctanoic
+9 acid (PFOA) and perfluorooctane sulfonic acid (PFOS)--in drinking water
+10 by setting a maximum contaminant level for these two chemicals in 2020.
+11 New York has also designated twenty-three additional PFAS chemicals as
+12 emerging contaminants under section 1112 of the public health law, which
+13 requires statewide drinking water testing and public notification.
+14 3. In December 2022, the Federal Environmental Protection Agency (EPA)
+15 published guidance encouraging states to require permitted industries,
+16 Publicly Owned Treatment Works (POTWs), and industrial sources sending
+17 waste to POTWs to monitor for and disclose the presence of PFAS in
+18 wastewater discharged into waterways. The treatment technology at POTWs
+19 is not designed to remove PFAS from wastewater, meaning any PFAS intro-
+20 duced to the POTW by an industrial source will pass through into the
+21 waters of the state.
+22 4. In 2023, the NYS Department of Environmental Conservation (DEC)
+23 adopted numeric guidance values limiting the acceptable amounts of PFOA
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01682-03-5
+
+S. 4574--A 2
+1 and PFOS that can be discharged into waters of the state by State Pollu-
+2 tant Discharge Elimination System (SPDES) permittees.
+3 5. However, DEC's permitting guidance has only applied these limits
+4 and PFAS testing requirements to a subset of facilities, meaning that
+5 many potential polluters directly or indirectly discharging into the
+6 waters of the state, including industrial sources sending waste to
+7 POTWs, have not yet been required to test for PFAS.
+8 6. The lack of information about the suite of PFAS chemicals currently
+9 entering New York's waterways is a barrier to developing regulations to
+10 protect people and the environment from the harms of PFAS in our water-
+11 ways.
+12 7. Legislation is necessary to ensure key facilities currently
+13 discharging or proposing to discharge into waters in New York disclose
+14 the presence of these forever chemicals to the public.
+15 § 3. The environmental conservation law is amended by adding a new
+16 section 17-0833 to read as follows:
+17 § 17-0833. PFAS discharge disclosure requirement.
+18 1. Definitions. As used in this section, the following terms shall
+19 have the following meanings:
+20 (a) "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means a
+21 class of fluorinated organic chemicals containing at least one fully
+22 fluorinated carbon atom.
+23 (b) "Industrial discharger" means a facility with or seeking a SPDES
+24 permit to discharge industrial wastewater into the waters of the state,
+25 excluding general SPDES permits.
+26 (c) "Industrial source" means a facility introducing or seeking to
+27 introduce industrial wastewater to a POTW for treatment before being
+28 discharged into the waters of the state.
+29 (d) "POTW" means a publicly owned treatment works with or seeking a
+30 SPDES permit to discharge sewage into the waters of the state.
+31 (e) "Industrial wastewater" means liquid industrial waste, including
+32 but not limited to leachate from solid waste facilities.
+33 (f) "PFAS monitoring" means sampling of industrial wastewater or
+34 sewage from each outlet to determine the concentration of PFAS present.
+35 2. Every industrial discharger or POTW making an application for a new
+36 SPDES permit shall submit as part of such application the projected or
+37 estimated results of PFAS monitoring.
+38 3. All new SPDES permits issued to industrial dischargers or POTWs
+39 shall require such facilities to conduct PFAS monitoring at least quar-
+40 terly for one year and submit the first results of such monitoring to
+41 the department within ninety days of the commencement of the discharge.
+42 If any PFAS are detected during the PFAS monitoring, at a level that the
+43 department has determined warrants continued monitoring pursuant to
+44 subdivision ten of this section, the department shall modify the SPDES
+45 permit of the industrial discharger or POTW to require quarterly PFAS
+46 monitoring for the duration of the permit term.
+47 4. Every industrial discharger or POTW seeking to renew a SPDES permit
+48 shall, as part of its renewal application, submit PFAS monitoring
+49 results to the department not less than one hundred eighty days prior to
+50 the expiration of the existing SPDES permit. If any PFAS are detected
+51 during the PFAS monitoring, at a level that the department has deter-
+52 mined warrants continued monitoring pursuant to subdivision ten of this
+53 section, the department shall modify the facility's SPDES permit to
+54 require quarterly PFAS monitoring for the duration of the permit term.
+55 5. Any industrial discharger or POTW that is lawfully operating under
+56 an expired or administratively renewed SPDES permit shall submit PFAS
+
+S. 4574--A 3
+1 monitoring results to the department within six months of the effective
+2 date of this section and at least once every five years thereafter.
+3 6. A POTW shall require any new industrial source seeking to introduce
+4 industrial wastewater into the POTW to conduct PFAS monitoring and
+5 submit the results of such monitoring to the POTW and the department
+6 prior to introducing industrial wastewater to the POTW.
+7 7. Every industrial source introducing industrial wastewater to a POTW
+8 on or before the effective date of this section, and continuing to do so
+9 after such effective date, shall conduct PFAS monitoring quarterly for
+10 one year. Such industrial sources shall submit the results of PFAS moni-
+11 toring quarterly to the POTW and the department and shall submit their
+12 first monitoring results within ninety days of the effective date of
+13 this section. Any industrial source that detects any PFAS at a level
+14 that the department has determined warrants continued monitoring pursu-
+15 ant to subdivision ten of this section shall continue to conduct quar-
+16 terly PFAS monitoring and submit such results to the POTW and the
+17 department.
+18 8. All PFAS monitoring shall be conducted using a PFAS testing method
+19 or methods authorized by the department, including but not limited to
+20 the federal environmental protection agency's method 1633A. The depart-
+21 ment shall authorize additional methods that detect more PFAS or PFAS at
+22 lower levels as appropriate.
+23 9. The department shall make publicly available on the department's
+24 website all PFAS monitoring results submitted to the department by
+25 industrial dischargers, industrial sources, and POTWs, including any
+26 results submitted by such facilities within six years prior to the
+27 effective date of this section. The website shall be updated at least
+28 every six months with all new monitoring results received.
+29 10. For at least the forty PFAS that can be detected by the federal
+30 environmental protection agency's method 1633A, the department shall
+31 set, by rule or regulation, detection levels that warrant continued
+32 monitoring as required by this section. Such detection levels shall take
+33 into account the latest scientific evidence on the risks of PFAS expo-
+34 sure.
+35 § 4. This act shall take effect one year after it shall have become a
+36 law. Effective immediately, the addition, amendment and/or repeal of any
+37 rule or regulation necessary for the implementation of this act on its
+38 effective date are authorized to be made and completed on or before such
+39 effective date.

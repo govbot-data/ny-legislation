@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - A2322A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2322--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 16, 2025
+___________
+Introduced by M. of A. McDONALD, WEPRIN, WOERNER -- read once and
+referred to the Committee on Codes -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the criminal procedure law, in relation to establishing
+a program enabling counties to opt-in to allow county jails to operate
+jail-based competency restoration services for incarcerated individ-
+uals deemed unfit for trial due to mental incapacity
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 9 of section 730.10 of the criminal procedure
+2 law, as added by section 1 of part Q of chapter 56 of the laws of 2012,
+3 is amended to read as follows:
+4 9. "Appropriate institution" means: (a) a hospital operated by the
+5 office of mental health or a developmental center operated by the office
+6 for people with developmental disabilities; [or] (b) a hospital licensed
+7 by the department of health which operates a psychiatric unit licensed
+8 by the office of mental health; or (c) a mental health unit operating
+9 within a local correctional facility, as determined by the commissioner
+10 provided, however, that any such hospital or local correctional health
+11 authority that is not operated by the state shall qualify as an "appro-
+12 priate institution" only pursuant to the terms of an agreement between
+13 the commissioner and the hospital or local correctional health authori-
+14 ty, or between the commissioner and a jail-based facility pursuant to
+15 subdivision seven of section 730.60 of this article. Nothing in this
+16 article shall be construed as requiring a hospital or locality to
+17 consent to providing care and treatment to an incapacitated person at
+18 such hospital or local correctional health authority. The commissioner
+19 of mental health shall promulgate regulations for the local correctional
+20 health authority to implement restoration to competency within a local
+21 correctional facility.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03010-02-5
+
+A. 2322--A 2
+1 § 2. Subdivisions 1 and 2 of section 730.60 of the criminal procedure
+2 law, subdivision 1 as amended by chapter 231 of the laws of 2008 and
+3 subdivision 2 as amended by chapter 57 of the laws of 1984, are amended
+4 and a new subdivision 7 is added to read as follows:
+5 1. When a local criminal court issues a final or temporary order of
+6 observation or an order of commitment, it must forward such order and a
+7 copy of the examination reports and the accusatory instrument to the
+8 commissioner, and, if available, a copy of the pre-sentence report. Upon
+9 receipt thereof, the commissioner must designate an appropriate institu-
+10 tion operated by the department of mental hygiene, or a county jail-
+11 based competency restoration program pursuant to subdivision seven of
+12 this section, in which the defendant is to be placed, provided, however,
+13 that the commissioner may designate an appropriate hospital for place-
+14 ment of a defendant for whom a final order of observation has been
+15 issued, where such hospital is licensed by the office of mental health
+16 and has agreed to accept, upon referral by the commissioner, defendants
+17 subject to final orders of observation issued under this subdivision.
+18 The sheriff must hold the defendant in custody pending such designation
+19 by the commissioner, and when notified of the designation, the sheriff
+20 must deliver the defendant to the superintendent of such institution.
+21 The superintendent must promptly inform the appropriate director of the
+22 mental hygiene legal service of the defendant's admission to such insti-
+23 tution. If a defendant escapes from the custody of the commissioner, the
+24 escape shall interrupt the period prescribed in any order of observa-
+25 tion, commitment or retention, and such interruption shall continue
+26 until the defendant is returned to the custody of the commissioner.
+27 2. Except as otherwise provided in subdivisions four and five of this
+28 section, when a defendant is in the custody of the commissioner pursuant
+29 to a temporary order of observation or an order of commitment or an
+30 order of retention, or a county jail-based competency restoration
+31 program pursuant to subdivision seven of this section, the criminal
+32 action pending against the defendant in the court that issued such order
+33 is suspended until the superintendent of the institution in which the
+34 defendant is confined or a clinical psychiatrist for a county jail-based
+35 competency restoration program pursuant to subdivision seven of this
+36 section determines that [he] the defendant is no longer an incapacitated
+37 person. In that event, the court that issued such order and the appro-
+38 priate district attorney must be notified, in writing, by the super-
+39 intendent of [his] the superintendent's determination. The court must
+40 thereupon proceed in accordance with the provisions of subdivision two
+41 of section 730.30 of this [chapter] article; provided, however, if the
+42 court is satisfied that the defendant remains an incapacitated person,
+43 and upon consent of all parties, the court may order the return of the
+44 defendant to the institution in which [he] the defendant had been
+45 confined for such period of time as was authorized by the prior order of
+46 commitment or order of retention. Upon such return, the defendant shall
+47 have all rights and privileges accorded by the provisions of this arti-
+48 cle.
+49 7. (a) The office of mental health shall promulgate rules and regu-
+50 lations for the development and implementation of a program allowing for
+51 county jails to provide competency restoration services to incarcerated
+52 individuals of such facilities. County participation in a jail-based
+53 restoration program shall be voluntary.
+54 (b) Each county may provide competency restoration services either
+55 directly or through contract.
+
+A. 2322--A 3
+1 (c) Counties participating in a jail-based restoration program may
+2 appoint a working group to develop rules, guidance and policies for such
+3 program. The workgroup may include the following:
+4 (1) one member who is a sheriff;
+5 (2) one member who represents a local mental health authority;
+6 (3) one member who is a county commissioner, county judge, or elected
+7 county officer;
+8 (4) one member who is a district attorney or county attorney with
+9 criminal jurisdiction;
+10 (5) one member who is a defense attorney;
+11 (6) one member who is a judge of a district criminal court or county
+12 criminal court;
+13 (7) two members who are mental health advocates; and
+14 (8) any other member the department considers appropriate to appoint
+15 to the stakeholder workgroup.
+16 (d) Providers of jail-based restoration services must:
+17 (1) have provided such services in jail-based settings for at least
+18 two years; and
+19 (2) be a local mental health organization with prior experience
+20 providing such services.
+21 (e) A jail-based restoration program must:
+22 (1) use a multidisciplinary team including an advanced psychiatric
+23 provider, a qualified forensic examiner, mental health professional, and
+24 competency educator;
+25 (2) be directed toward the goal of restoring a defendant's fitness to
+26 stand trial; and
+27 (3) provide services similar to those provided in a hospital.
+28 (f) A county participating in a jail-based restoration program shall:
+29 (1) ensure the safety of defendants who participate in the jail-based
+30 restoration of competency program;
+31 (2) designate a separate space in the jail for the provider to conduct
+32 the program;
+33 (3) provide the same basic care to the participants as is provided to
+34 other incarcerated individuals of a jail;
+35 (4) supply clinically appropriate psychoactive medications as
+36 warranted; and
+37 (5) have in place an agreement with a hospital possessing a valid
+38 operating certificate issued pursuant to article twenty-eight of the
+39 public health law that can petition the court for and enforce treatment
+40 over objection for individuals court ordered to restoration services who
+41 refuse medication.
+42 (g) If at any time during a defendant's participation in the jail-
+43 based restoration program the psychiatrist or psychologist for the
+44 provider determines that the defendant has attained fitness to proceed:
+45 (1) the psychiatrist or psychologist for the provider shall promptly
+46 issue and send to the court a report demonstrating that fact; and
+47 (2) the court shall consider that report as the report of an expert
+48 stating an opinion that the defendant has been restored to fitness.
+49 (h) If at any time during a defendant's participation in the jail-
+50 based restoration program the psychiatrist or psychologist for the
+51 provider determines that the defendant's fitness to stand trial is
+52 unlikely to be restored in the foreseeable future, the psychiatrist or
+53 psychologist for the provider shall promptly issue and send to the court
+54 a report demonstrating that fact.
+55 (i) If the psychiatrist or psychologist for the provider determines
+56 that a defendant ordered to participate in the program has not been
+
+A. 2322--A 4
+1 restored to fitness, but is believed to be restorable to fitness with
+2 additional treatment by the end of the ninetieth day after the date the
+3 defendant began to participate in the program, the defendant shall be
+4 transferred, without unnecessary delay, to the first available facility
+5 that is appropriate for that defendant pursuant to subdivision nine of
+6 section 730.10 of this article.
+7 § 3. This act shall take effect immediately.

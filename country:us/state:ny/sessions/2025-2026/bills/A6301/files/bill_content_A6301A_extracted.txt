@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - A6301A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6301--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 3, 2025
+___________
+Introduced by M. of A. OTIS, CONRAD -- read once and referred to the
+Committee on Science and Technology -- recommitted to the Committee on
+Science and Technology in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the state technology law, in relation to enacting the
+"critical infrastructure standards and procedures act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The state technology law is amended by adding a new article
+2 6 to read as follows:
+3 ARTICLE 6
+4 CRITICAL INFRASTRUCTURE STANDARDS AND PROCEDURES ACT
+5 Section 601. Short title.
+6 602. Definitions.
+7 603. Compliance with cybersecurity standards for critical
+8 infrastructure.
+9 604. Procurement, construction, reconstruction, alteration,
+10 design and commissioning of critical infrastructure or
+11 automation control systems or automation control system
+12 components.
+13 605. Operations and maintenance of critical infrastructure.
+14 § 601. Short title. This article shall be known and may be cited as
+15 the "critical infrastructure standards and procedures (CRISP) act".
+16 § 602. Definitions. The following terms shall have the following mean-
+17 ings:
+18 1. Critical infrastructure shall include, but shall not be limited to:
+19 (a) public transportation;
+20 (b) water and wastewater treatment facilities;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08407-02-6
+
+A. 6301--A 2
+1 (c) public utilities and services subject to the jurisdiction, super-
+2 vision, powers and duties of the public service commission and the
+3 department of public service;
+4 (d) public buildings, including those operated by the state university
+5 of New York;
+6 (e) hospitals and public health facilities regulated pursuant to arti-
+7 cle twenty-eight of the public health law; and
+8 (f) facilities created or existing under the public authorities law.
+9 2. Automation and control system shall include personnel, hardware,
+10 software and policies involved in the operation of the critical infras-
+11 tructure that may affect or influence its safe, secure and reliable
+12 operation.
+13 3. Automation and control system components shall mean control systems
+14 and any complementary hardware and software components that have been
+15 installed and configured to operate in an automation and control system.
+16 Such systems shall include, but shall not be limited to:
+17 (a) control systems, whether physically separate or integrated,
+18 including distributed control systems, programmable logic controllers,
+19 remote terminal units, intelligent electronic devices, supervisory
+20 control and data acquisition, networked electronic sensing and control,
+21 and monitoring and diagnostic systems;
+22 (b) associated information systems, such as advanced or multivariable
+23 control, online optimizers, dedicated equipment monitors, graphical
+24 interfaces, process historians, manufacturing execution systems and
+25 plant information management systems;
+26 (c) associated internal, human, network, or machine interfaces used to
+27 provide control, safety, and manufacturing operations functionality to
+28 continuous, batch, discrete; and
+29 (d) other processes as defined by the international society of auto-
+30 mation including the ISA/IEC 62443 series of standards, as referenced by
+31 the national institute of standards and technology (NIST).
+32 4. Asset owner shall mean the public or private owner or entity
+33 accountable and responsible for operation of the critical infrastructure
+34 and for the automation and control system. The asset owner shall be the
+35 operator of the automation and control system and of such equipment
+36 under control.
+37 5. Operational technology shall mean the hardware and software that
+38 detects or causes a change in the critical infrastructure through the
+39 direct monitoring or control of physical devices, systems, processes and
+40 events.
+41 § 603. Compliance with cybersecurity standards for critical infras-
+42 tructure. The office, in consultation with the division of homeland
+43 security and emergency services shall make a determination of critical
+44 infrastructure, including whose assets, systems, and networks, whether
+45 physical or virtual, are considered vital and vulnerable to cybersecuri-
+46 ty attacks.
+47 § 604. Procurement, construction, reconstruction, alteration, design
+48 and commissioning of critical infrastructure or automation control
+49 systems or automation control system components. On or after July first,
+50 two thousand twenty-nine, the asset owner, when procuring automation and
+51 control system components, as defined in subdivision three of section
+52 six hundred two of this article, services or solutions, or when
+53 contracting for facility upgrades or the construction of critical
+54 infrastructure facilities, shall require such components, services, and
+55 solutions to conform to the ISA/IEC 62443 series of standards. All
+56 contracts awarded for construction, reconstruction, alteration, design
+
+A. 6301--A 3
+1 and commissioning of facilities identified as critical infrastructure
+2 under this article shall provide that such installed automation and
+3 control components meet the following minimum standards for cybersecuri-
+4 ty as defined by the ISA/IEC 62443 series of standards:
+5 1. 2-4 requirements for IACS solutions providers;
+6 2. 3-2 security risk assessment and systems design;
+7 3. 3-3 system security requirements and security levels;
+8 4. 4-1 product development requirements; and
+9 5. 4-2 technical security requirements for IACS components.
+10 § 605. Operations and maintenance of critical infrastructure. On or
+11 after July first, two thousand twenty-seven, the asset owner shall be
+12 responsible for ensuring that the operation and maintenance of opera-
+13 tional technology, including critical infrastructure, automation control
+14 systems and automation control system components conform with the
+15 following ISA/IEC 62443 series of standards, including annual risk
+16 assessments and shall create a mitigation plan:
+17 1. 2-1 requirements for an IACS security management system;
+18 2. 2-3 patch management in the IACS environment;
+19 3. 2-4 security program requirements for service providers;
+20 4. 3-2 security risk assessment and system design; and
+21 5. 3-3 system security requirements and security levels.
+22 § 2. This act shall take effect on the one hundred eightieth day after
+23 it shall have become a law. Effective immediately, the office of infor-
+24 mation technology services, the commissioner of homeland security and
+25 emergency services and the superintendent of financial services may
+26 promulgate rules and regulations and take other actions reasonably
+27 necessary to implement this act on that date.
