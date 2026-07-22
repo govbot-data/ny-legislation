@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - S8585A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8585--A
+2025-2026 Regular Sessions
+IN SENATE
+November 17, 2025
+___________
+Introduced by Sens. KAVANAGH, GONZALEZ, HARCKHAM, KRUEGER, MAY, SALAZAR
+-- read twice and ordered printed, and when printed to be committed to
+the Committee on Rules -- recommitted to the Committee on Insurance in
+accordance with Senate Rule 6, sec. 8 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the insurance law, in relation to enacting the "climate
+accountability and loss recovery act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "climate accountability and loss recovery act".
+3 § 2. The insurance law is amended by adding a new section 3463 to read
+4 as follows:
+5 § 3463. Recovery for climate disaster losses; attorney general
+6 enforcement. (a) For the purposes of this section the following terms
+7 have the following meanings:
+8 (1) "Climate disaster" means any event including fire, flood, hurri-
+9 cane, tornado, landslide, mudslide, wind, storm, wave action, wind-dri-
+10 ven water, tidal wave, air contamination, blight, drought, infestation,
+11 explosion, nuclear, chemical, biological, or bacteriological release,
+12 water contamination, bridge failure or bridge collapse, or any event
+13 designated in a state declaration of disaster emergency pursuant to
+14 section twenty-eight of the executive law or a local state of emergency
+15 pursuant to section twenty-four of the executive law, provided that
+16 climate change was a substantial factor in the event's frequency, sever-
+17 ity, location, timing, or extent.
+18 (2) "Fossil fuel product" includes the following:
+19 (A) coal, as defined in section 1-103 of the energy law;
+20 (B) fossil fuel, as defined in section 1-103 of the energy law;
+21 (C) fuel gases, as defined in section 1-103 of the energy law; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13895-08-6
+
+S. 8585--A 2
+1 (D) petroleum products, as defined in section 1-103 of the energy law.
+2 (3) "Covered entity" means any person, firm, corporation, company,
+3 partnership, society, joint stock company, entity, or association that
+4 meets all of the following criteria:
+5 (A) has an aggregate market capitalization or worldwide annual revenue
+6 across the parent entity and all affiliated entities of at least five
+7 hundred million dollars ($500,000,000), determined by an average
+8 capitalization or revenue over the preceding three years. For purposes
+9 of this subparagraph, "affiliated entities" means a parent or subsidiary
+10 corporation as well as any other business entity under common ownership
+11 or control with the parent entity, including an entity consolidated for
+12 financial reporting purposes, or to enhance profitability for the parent
+13 entity;
+14 (B) engaged in the extraction, production, manufacture, or sale at
+15 wholesale of fossil fuel products; and
+16 (C) did business in the state, was registered to do business in the
+17 state, was appointed an agent of the state, or otherwise had sufficient
+18 contacts with the state to be subject to the state's jurisdiction.
+19 "Covered entity" does not include the federal government, any tribal
+20 government, the state, a political subdivision of the tribal or state
+21 government, or an employee of the federal, tribal, or state government,
+22 on the basis of acts or omissions in the course of official duties.
+23 (4) "Market disruption" means a material impairment to the availabili-
+24 ty, affordability, or stability of the property and casualty insurance
+25 market that is attributable to losses or projected losses arising from a
+26 climate disaster, including but not limited to:
+27 (A) the withdrawal, nonrenewal, or substantial reduction in underwrit-
+28 ing by insurers or reinsurers;
+29 (B) the imposition of assessments, surcharges, or premium increases
+30 related to insurance losses or projected insurance losses resulting from
+31 climate disasters;
+32 (C) a material increase in the number of properties covered by the
+33 residual market, excess and surplus line markets, or the New York prop-
+34 erty insurance underwriting association; or
+35 (D) the incurrence of public costs or taxpayer-supported expenditures
+36 to stabilize, backstop, or replace private insurance capacity.
+37 A market disruption may exist notwithstanding that individual insurers
+38 remain solvent or that insurance coverage continues to be available on a
+39 limited, excess, or non-admittance basis.
+40 (b)(1) The attorney general may bring a civil action in the name of
+41 the people of the state of New York against any covered entity for any
+42 of the following:
+43 (A) recovery of an assessment imposed on member insurers of the New
+44 York property insurance underwriting association pursuant to section
+45 five thousand four hundred twelve of this chapter, to the extent that
+46 the association imposed the assessment to cover the association's
+47 expenses or losses arising from a climate disaster.
+48 (B) recovery of each surcharge or premium increase imposed on policy-
+49 holders or insureds in the admitted, residual, excess, or surplus
+50 market, when the surcharge or increase is based on an actual or project-
+51 ed loss arising from a climate disaster, or to reflect priced-in risk of
+52 a climate disaster.
+53 (C) recovery of costs and losses incurred by policyholders or insureds
+54 when the costs and losses (i) arise from a climate disaster; and (ii)
+55 are transferred, pooled, assessed, or publicly backstopped through a
+56 residual market mechanism to address insurer insolvency, market with-
+
+S. 8585--A 3
+1 drawal, or the availability of property and casualty insurance coverage
+2 in this state, provided however that this subparagraph shall not author-
+3 ize the attorney general to recover damages on behalf of any person who
+4 is not a policyholder or insured, or to recover amounts exceeding the
+5 applicable limits of the insurance coverage held by a policyholder or
+6 insured for a loss.
+7 (2) In any civil action against a covered entity under this section
+8 the attorney general may recover or obtain any of the following:
+9 (A) all damages arising from a climate disaster.
+10 (B) reasonable costs and disbursements incurred by the attorney gener-
+11 al.
+12 (C) any other relief that the court or jury deems proper.
+13 (3) Any covered entity shall be strictly liable, without regard to
+14 fault, for any damages or other relief afforded under this section.
+15 (4) In any action under this section, the court shall offset any
+16 damages by amounts already reimbursed in claims arising from the same
+17 case or controversy. The attorney general shall require each claimant
+18 seeking damages to certify, under penalty of perjury, any amounts
+19 received from an insured or the New York property insurance underwriting
+20 association, including pursuant to section five thousand four hundred
+21 ten of this chapter, for the same loss.
+22 § 3. Subsection (a) of section 2304 of the insurance law is amended to
+23 read as follows:
+24 (a) In the making of rates, consideration shall be given to past and
+25 prospective loss experience, including the conflagration and catastrophe
+26 hazards, if any, both within and without this state, to all factors
+27 reasonably attributable to the class of risks, to a reasonable profit,
+28 to past and prospective expenses both country-wide and those specially
+29 applicable to this state, any proceeds recovered by a claim pursuant to
+30 section three thousand four hundred sixty-three of this chapter, and in
+31 the case of participating insurers to policyholders' dividends, savings
+32 or unabsorbed premium deposits allowed or returned to policyholders,
+33 members or subscribers.
+34 § 4. Severability clause. If any clause, sentence, paragraph, subdivi-
+35 sion, section or part of this act shall be adjudged by any court of
+36 competent jurisdiction to be invalid, such judgment shall not affect,
+37 impair, or invalidate the remainder thereof, but shall be confined in
+38 its operation to the clause, sentence, paragraph, subdivision, section
+39 or part thereof directly involved in the controversy in which such judg-
+40 ment shall have been rendered. It is hereby declared to be the intent of
+41 the legislature that this act would have been enacted even if such
+42 invalid provisions had not been included herein.
+43 § 5. This act shall take effect on the ninetieth day after it shall
+44 have become a law.

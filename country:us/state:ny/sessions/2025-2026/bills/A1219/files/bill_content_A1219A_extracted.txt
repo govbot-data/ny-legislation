@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - A1219A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1219--A
+Cal. No. 43
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 9, 2025
+___________
+Introduced by M. of A. DINOWITZ, SEAWRIGHT, STIRPE, BRONSON -- read once
+and referred to the Committee on Judiciary -- ordered to a third read-
+ing -- passed by Assembly and delivered to the Senate, recalled from
+the Senate, vote reconsidered, bill amended, ordered reprinted,
+retaining its place on the order of third reading
+AN ACT to amend the civil practice law and rules, in relation to grounds
+for vacating an arbitration award on the basis of partiality of the
+arbitrator
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 75 of the civil practice law and rules is amended
+2 by adding a new section 7500 to read as follows:
+3 § 7500. Definitions. As used in this article:
+4 (a) "Arbitration" means the use of a decision-making forum conducted
+5 by an arbitrator or panel of arbitrators within the meaning and subject
+6 to the provisions of this article.
+7 (b) "Neutral third party arbitrator" means an arbitrator who does not
+8 have an undisclosed known, direct, and material interest in the outcome
+9 of the arbitration proceeding or a known, existing, and substantial
+10 relationship with a party, counsel, or representative of a party.
+11 (c) "Employment" means a relationship between an employer and an
+12 employee, as defined in section three of the Fair Labor Standards Act of
+13 1938 (29 U.S.C. § 203) but who is neither an officer nor employed pursu-
+14 ant to an individualized, mutually-negotiated employment contract.
+15 (d) "Consumer" means a natural person residing in this state who is
+16 involved in a consumer dispute.
+17 (e) "Consumer dispute" means a dispute between an individual who seeks
+18 or acquires real or personal property, services (including services
+19 relating to securities and other investments), money, or credit for
+20 personal, family or household purposes and the seller or provider of
+21 such property, services, money or credit, but shall not include any such
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00651-02-6
+
+A. 1219--A 2
+1 property or service, including financial products and services where the
+2 terms of acquisition of such product or service are mutually negotiated
+3 between the seller and the purchaser of such property or service.
+4 § 2. Section 7501 of the civil practice law and rules, as amended by
+5 chapter 532 of the laws of 1963, is amended to read as follows:
+6 § 7501. Effect of arbitration agreement. A written agreement to
+7 submit any [controversy] employment or consumer dispute thereafter aris-
+8 ing or [any] then existing [controversy] to arbitration is enforceable
+9 without regard to the justiciable character of the controversy and
+10 confers jurisdiction on the courts of the state to enforce it and to
+11 enter judgment on an award; provided, however, that, with the exception
+12 of arbitrators designated pursuant to a collective bargaining agreement
+13 between an employer and a labor organization and except where inconsist-
+14 ent with federal law, any language requiring that such employment or
+15 consumer dispute be submitted to an arbitrator or arbitration organiza-
+16 tion that is not a neutral third-party arbitrator, as that term is
+17 defined in subdivision (b) of section seventy-five hundred of this arti-
+18 cle, shall be deemed void; provided that it shall be valid with respect
+19 to the requirement that the controversy be arbitrated. In arbitrations
+20 that are not governed by a collective bargaining agreement between a
+21 labor organization and an employer the requirement that such employment
+22 or consumer dispute be heard by a neutral third-party arbitrator may not
+23 be waived by party prior to the service on such party of a demand for
+24 arbitration. Upon disclosure pursuant to section seventy-five hundred
+25 five-a of this article of a known, direct, and material interest in the
+26 outcome of the arbitration proceeding or a known existing and substan-
+27 tial relationship with a party, counsel, or representative of a party, a
+28 party shall be deemed to have waived any objection to the arbitrator by
+29 failing to raise same within thirty calendar days of receiving the
+30 disclosure. In determining any matter arising under this article, the
+31 court shall not consider whether the claim with respect to which arbi-
+32 tration is sought is tenable, or otherwise pass upon the merits of the
+33 dispute.
+34 § 3. The civil practice law and rules is amended by adding a new
+35 section 7505-a to read as follows:
+36 § 7505-a. Disclosure by arbitrator. (a) Before accepting appointment
+37 to any employment or consumer dispute, an individual who is requested to
+38 serve as an arbitrator, after making a reasonable inquiry, shall
+39 disclose to all parties to the agreement to arbitrate and the arbi-
+40 tration proceeding and to any other arbitrators any known facts that a
+41 reasonable person would consider likely to affect the impartiality of
+42 the arbitrator in the arbitration proceeding, including:
+43 (1) a financial or personal interest in the outcome of the arbitration
+44 proceeding; and
+45 (2) an existing or past relationship with any of the parties to the
+46 agreement to arbitrate or the arbitration proceeding, their counsel or
+47 representatives, a witness, or another arbitrator.
+48 (b) An arbitrator has a continuing obligation to disclose to all
+49 parties to the agreement to arbitrate and the arbitration proceeding and
+50 to any other arbitrators any facts that the arbitrator learns after
+51 accepting appointment which a reasonable person would consider likely to
+52 affect the impartiality of the arbitrator.
+53 (c) If an arbitrator discloses a fact required by subdivision (a) or
+54 (b) of this section to be disclosed and a party timely objects to the
+55 appointment or continued service of the arbitrator based upon the fact
+56 disclosed, the objection may be a ground for vacating an award made by
+
+A. 1219--A 3
+1 the arbitrator if the court holds that the arbitrator was partial as
+2 provided for in section seventy-five hundred eleven of this article.
+3 (d) If the arbitrator did not disclose a fact as required by subdivi-
+4 sion (a) or (b) of this section, upon timely objection by a party after
+5 discovery of such non-disclosure, the court may vacate an award based on
+6 such non-disclosure if the court holds that the arbitrator was partial
+7 as provided for in section seventy-five hundred eleven of this article.
+8 (e) This section shall not apply to an arbitration proceeding
+9 conducted pursuant to the terms of a collective bargaining agreement.
+10 § 4. This act shall take effect immediately.

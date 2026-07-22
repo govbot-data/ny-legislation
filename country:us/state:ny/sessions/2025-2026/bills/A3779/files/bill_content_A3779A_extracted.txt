@@ -1,0 +1,384 @@
+Title: 
+Official Title: 
+Source: versions - A3779A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3779--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 30, 2025
+___________
+Introduced by M. of A. ALVAREZ, REYES, RAGA -- Multi-Sponsored by -- M.
+of A. DAVILA -- read once and referred to the Committee on Labor --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the labor law, in relation to restricting the use of
+electronic monitoring and automated employment decision tools
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The labor law is amended by adding a new article 35-A to
+2 read as follows:
+3 ARTICLE 35-A
+4 BOUNDARIES ON TECHNOLOGY ACT
+5 Section 1010. Definitions.
+6 1011. Automated employment decision tools; impact assessments.
+7 1012. Automated employment decision tools; notice and
+8 restrictions.
+9 1013. Data access, accuracy, and correction.
+10 1014. Unlawful retaliation.
+11 1015. Vendor notice.
+12 1016. Enforcement.
+13 § 1010. Definitions. For the purposes of this section, the following
+14 terms have the following meanings:
+15 1. "Aggregated employee data" means employee data that an employer has
+16 combined, or collected together, in a summary or other form so that the
+17 employee data cannot be identified with any specific employee.
+18 2. "Automated employment decision tool" means the same as defined in
+19 section four hundred one of the state technology law.
+20 3. "Candidate" means any natural person or their authorized represen-
+21 tative seeking employment through an application, or who is screened or
+22 evaluated for recruitment, for a position of employment by a business
+23 operating in the state.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00754-04-5
+
+A. 3779--A 2
+1 4. "Employer" means any person who directly or indirectly, or through
+2 an agent or any other person, employs or exercises control over the
+3 wages, benefits, other compensation, hours, working conditions, access
+4 to work or job opportunities, or other terms or conditions of employ-
+5 ment, of any worker. Such term shall not include the state, any poli-
+6 tical subdivision of the state, a public authority, or any other govern-
+7 mental agency or instrumentality.
+8 5. "Employee" means any natural person or their authorized represen-
+9 tative acting for, employed by, or a person classified as an independent
+10 contractor providing service to, or through, an employer operating in
+11 the state. An employee shall be deemed to be operating in the state for
+12 purposes of deeming an employee to be covered by this article if the
+13 employee works at least part time at a location in the state, or if
+14 fully remote, the employee is associated with an office in the state or
+15 supervised by a person who works at least part time at a location in the
+16 state. Employee can mean a former employee.
+17 6. "Employee data" means any information that identifies, relates to,
+18 describes, is reasonably capable of being associated with, or could
+19 reasonably be linked, directly or indirectly, with a particular employ-
+20 ee, regardless of how the information is collected, inferred, or
+21 obtained. Data includes, but is not limited to, the following:
+22 (a) personal identity information, including the individual's name,
+23 contact information, government-issued identification number, financial
+24 information, criminal background, or employment history;
+25 (b) biometric information that can be used to establish individual
+26 identity;
+27 (c) health information, including the individual's medical history,
+28 physical or mental condition, diet or physical activity patterns, heart
+29 rate, medical treatment or diagnosis by a health care professional,
+30 health insurance policy number, subscriber identification number, or
+31 other unique identifier used to identify the individual; and
+32 (d) data related to workplace activities, including the following:
+33 (i) human resources information, including the contents of an individ-
+34 ual's personnel file or performance evaluations;
+35 (ii) work process information, such as data relating to an individual
+36 employee's performance, including but not limited to quantities of tasks
+37 performed, quantities of items or materials handled or produced, rates
+38 or speeds of tasks performed, measurements or metrics of employee
+39 performance in relation to a quota, and time categorized as performing
+40 tasks or not performing tasks;
+41 (iii) data that captures workplace communications and interactions,
+42 including emails, texts, internal message boards, and customer inter-
+43 action and ratings;
+44 (iv) device usage and data, including calls placed or geolocation
+45 information;
+46 (v) inputs to or outputs generated by an automated employment decision
+47 tool that are linked to the individual; and
+48 (vi) data collected or generated on workers to mitigate the spread of
+49 infectious diseases, including COVID-19, or to comply with public health
+50 measures.
+51 7. "Employment decision" means any decision made by the employer that
+52 affects wages, benefits, other compensation, hours, work schedule,
+53 performance evaluation, hiring, selecting for recruitment, discipline,
+54 promotion, termination, job content, assignment of work, access to work
+55 opportunities, productivity requirements, and workplace health and safe-
+56 ty. For persons classified as independent contractors or for candidates
+
+A. 3779--A 3
+1 for employment, this means the equivalent of these decisions based on
+2 their contract with or relationship to the employer.
+3 8. "Impact assessment" means an evaluation by an impartial auditor
+4 that complies with section one thousand eleven of this article.
+5 9. "Impartial auditor" means a person or entity that conducts an
+6 impact assessment of an automated employment decision tool in a manner
+7 that exercises objective and impartial judgment on all issues within the
+8 scope of such evaluation or assessment.
+9 10. "Protected class" means a class enumerated in section two hundred
+10 ninety-six of the executive law.
+11 11. "Vendor" means any person or entity who sells, distributes, or
+12 develops for sale an automated employment decision tool to be used in an
+13 employment decision made by an employer in the state. "Vendor" includes
+14 any of the vendor's agents, contractors, or subcontractors.
+15 § 1011. Automated employment decision tools; impact assessments. 1. It
+16 shall be unlawful for an employer with one hundred or more employees to
+17 use an automated employment decision tool for an employment decision
+18 unless such tool has been the subject of an impact assessment. Impact
+19 assessments for automated employment decision tools must:
+20 (a) be conducted no more than one year prior to the use of such tool,
+21 or where the tool was in use by the employer before the effective date
+22 of this article, within six months of the effective date of this arti-
+23 cle;
+24 (b) be conducted by an impartial party with no financial or legal
+25 conflicts of interest;
+26 (c) identify and describe the attributes and modeling techniques that
+27 the tool uses to produce outputs;
+28 (d) consider, identify, and describe any outputs produced by the tool
+29 that may result in a disparate impact on persons belonging to a
+30 protected class, and what actions may be taken by the employer or vendor
+31 of the tool to reduce or remedy that disparate impact;
+32 (e) consider and describe potential sources of adverse impact against
+33 protected classes that may arise after the tool is deployed;
+34 (f) identify and describe any other assessment of risks of discrimi-
+35 nation or a disparate impact of the tool on members of a protected class
+36 that arise over the course of the impact assessment, and what actions
+37 may be taken to reduce or remedy that risk;
+38 (g) for any finding of a disparate impact or limit on accessibility,
+39 evaluate whether the data set, attribute, or feature of the tool at
+40 issue is the least discriminatory method of assessing a candidate's
+41 performance or ability to perform job functions; and
+42 (h) be submitted in its entirety or an accessible summary form to the
+43 department for inclusion in a public registry of such impact assessments
+44 within sixty days of completion, and distributed to employees who may be
+45 subject to the tool.
+46 2. An employer subject to the provisions of this section shall conduct
+47 or commission subsequent impact assessments each year that the tool is
+48 in use for employment decisions. Subsequent impact assessments shall
+49 comply with the requirements of subdivision one of this section, and
+50 shall assess and describe any change in the validity or disparate impact
+51 of the tool.
+52 3. An employer or vendor subject to the provisions of this section
+53 shall retain all documentation pertaining to the design, development,
+54 use, and data of an automated employment decision tool that may be
+55 necessary to conduct an impact assessment for a period of three years to
+56 ensure compliance with commissioner requests for data.
+
+A. 3779--A 4
+1 4. If an initial or subsequent impact assessment requires the
+2 collection of employee data to assess a tool's disparate impact on
+3 employees, such data shall be collected, processed, stored, and retained
+4 in such a manner as to protect the privacy of employees, and shall
+5 comply with any data retention and security requirements specified by
+6 the commissioner. Employee data provided to auditors for the purpose of
+7 an impact assessment shall not be shared with the employer, nor shall it
+8 be shared with any person, business entity, or other organization unless
+9 strictly necessary for the completion of the impact assessment.
+10 5. If an initial or subsequent impact assessment concludes that a data
+11 set, feature, or application of the automated employment decision tool
+12 results in a disparate impact on persons belonging to a protected class,
+13 an employer shall refrain from using the tool until it:
+14 (a) takes reasonable and appropriate steps to remedy that disparate
+15 impact; and
+16 (b) where the employer believes the impact assessment finding of a
+17 disparate impact is erroneous, or that the steps taken in accordance
+18 with paragraph (a) of this subdivision sufficiently address those find-
+19 ings such that the tool may be lawfully used in accordance with this
+20 article, the employer shall submit to the commissioner how the data set,
+21 feature, or application of the tool is the least discriminatory method
+22 of assessing an employee's performance or ability to complete essential
+23 functions of a position.
+24 6. It shall be unlawful for an impartial auditor, vendor, or employer
+25 to manipulate, conceal, or misrepresent the results of an impact assess-
+26 ment.
+27 7. Nothing in this article shall be construed as prohibiting an
+28 employer from implementing a lawful affirmative action plan or engaging
+29 in otherwise lawful efforts to reduce or eliminate bias in employment
+30 decisions.
+31 § 1012. Automated employment decision tools; notice and restrictions.
+32 1. (a) Any employer that uses an automated employment decision tool to
+33 assess or evaluate an employee or candidate shall notify employees and
+34 candidates subject to the tool before or at the time an employment deci-
+35 sion is made:
+36 (i) that an automated employment decision tool will be used in
+37 connection with the assessment or evaluation of such employee or candi-
+38 date;
+39 (ii) the job qualifications and characteristics that such automated
+40 employment decision tool will assess, what employee or candidate data or
+41 attributes the tool will use to conduct that assessment, and what kind
+42 of outputs the tool will produce as an evaluation of such employee or
+43 candidate;
+44 (iii) what employee or candidate data is collected for the automated
+45 employment decision tool, the source of such data and the employer's
+46 data retention policy. Information pursuant to this section shall not
+47 be disclosed where such disclosure would violate local, state, or feder-
+48 al law, or interfere with a law enforcement investigation; and
+49 (iv) for employers subject to the provisions of section one thousand
+50 eleven of this article, the results of the most recent impact assessment
+51 of the automated employment decision tool, including any findings of a
+52 disparate impact and associated response from the employer, or informa-
+53 tion about how to access that information if publicly available.
+54 (b) The notice required by this subdivision shall be:
+55 (i) written in clear and plain language;
+
+A. 3779--A 5
+1 (ii) included in each job posting or advertisement for each position
+2 for which the automated employment decision tool will be used; and
+3 (iii) posted on the employer's website in English and the ten most
+4 commonly spoken non-English languages in the state.
+5 2. (a) Notwithstanding the provisions of section one thousand ten of
+6 this article, an employer shall not use an automated employment decision
+7 tool:
+8 (i) in such a manner that results in a violation of labor, employment,
+9 civil rights or human rights law or any other law of this state; or
+10 (ii) in a manner not consistent with the scope of the impact assess-
+11 ment required by section one thousand ten of this article.
+12 (b) An employer shall not solely rely on output from an automated
+13 employment decision tool when making hiring, promotion, termination,
+14 disciplinary, or compensation decisions. For an employer to satisfy the
+15 requirements of this paragraph:
+16 (i) An employer shall establish meaningful human oversight of such
+17 decisions based in whole or in part on the output of automated employ-
+18 ment decision tools. Such meaningful human oversight of such decisions
+19 shall require consideration of information other than automated
+20 employment decision tool outputs, including but not limited to: supervi-
+21 sory or managerial evaluations, personnel files, employee work products,
+22 or peer reviews.
+23 (c) An employer shall not require employees or candidates to consent
+24 to the use of an automated employment decision tool in an employment
+25 decision in order to be considered for an employment decision, nor shall
+26 an employer discipline or disadvantage an employee or candidate for
+27 employment as a result of their request for accommodation.
+28 § 1013. Data access, accuracy, and correction. 1. (a) An employer
+29 shall ensure that any employee data that is used by an automated employ-
+30 ment decision tool for an employment decision is accurate and, where
+31 relevant, kept up to date for a period of three years.
+32 (b) A current or former employee whose data was used by an automated
+33 employment decision tool for an employment decision has the right to
+34 request, and the employer shall provide, a copy of the employee's own
+35 data.
+36 (c) Such requested records pursuant to this section shall be provided
+37 at no cost to the current or former employee. A former employee is
+38 limited to one request per year pursuant to this subdivision.
+39 (d) An employer that receives a written or oral request for informa-
+40 tion pursuant to this section shall comply with the request as
+41 soon as practicable, but no later than fourteen calendar days from the
+42 date of the request.
+43 (e) An employer shall provide information pursuant to this section in
+44 English or, if applicable, in the language identified by the employee as
+45 the primary language of such employee.
+46 (f) An employer that does not monitor this data has no obligation to
+47 provide it.
+48 2. (a) An employer that receives an employee request to correct inac-
+49 curate data shall investigate and determine whether such data is inaccu-
+50 rate.
+51 (b) If an employer, upon investigation, determines that such data is
+52 inaccurate, the employer shall:
+53 (i) promptly correct the inaccurate data and inform the employee of
+54 the employer's decision and action;
+
+A. 3779--A 6
+1 (ii) review and adjust, as appropriate, any employment decisions that
+2 were based on the inaccurate data and inform the employee of the adjust-
+3 ment; and
+4 (iii) inform any third parties with which the employer shared the
+5 inaccurate data, or from which the employer received the inaccurate
+6 data, and direct them to correct it, and provide the employee with a
+7 copy of such action.
+8 (c) If an employer, upon investigation, determines that the data is
+9 accurate, the employer shall inform the employee of the decision not to
+10 amend the data, the steps taken to verify the accuracy of the data, and
+11 any evidence supporting the decision not to amend the data.
+12 § 1014. Unlawful retaliation. For purposes of this article, there
+13 shall be a rebuttable presumption of unlawful retaliation if an employer
+14 in any manner discriminates, retaliates, or takes any adverse action
+15 against any employee within ninety days of the employee doing either of
+16 the following:
+17 1. Initiating the employee's first request in a calendar year for
+18 information pursuant to section one thousand thirteen of this article.
+19 2. Making a complaint related to any violation of this article, inclu-
+20 sive, to the commissioner, the department, other local or state govern-
+21 mental agency, or the employer.
+22 § 1015. Vendor notice. 1. Any vendor who sells, distributes, or offers
+23 for use to an employer an automated employment decision tool shall noti-
+24 fy employers that use of such tool is subject to the requirements of
+25 this article. Such notice shall include:
+26 (a) information about the requirements of the employer under this
+27 article and the exemption from certain requirements or liability under
+28 this article according to the employer's size;
+29 (b) information about the penalties for non-compliance with this arti-
+30 cle and liability imposed on the employer by this article;
+31 (c) a copy of or directions on how to access any assessments of dispa-
+32 rate impact or bias conducted by the vendor on the automated employment
+33 decision tool; and
+34 (d) information on or directions on how to access more information
+35 regarding the employer's responsibility and liability under this arti-
+36 cle.
+37 2. The notice required by this section shall be:
+38 (a) written in clear and plain language;
+39 (b) provided before an employer may begin use of the automated employ-
+40 ment decision tool; and
+41 (c) otherwise presented in a manner that ensures the notice clearly
+42 and effectively communicates the required information to employers.
+43 § 1016. Enforcement. 1. The commissioner shall adopt rules and regu-
+44 lations implementing the provisions of this article. The commissioner
+45 shall be authorized to enforce the provisions of this article and to
+46 assess civil penalties as provided in sections two hundred fifteen and
+47 two hundred eighteen of this chapter. The civil penalties provided
+48 for in this section shall be in addition to and may be imposed concur-
+49 rently with any other remedy or penalty provided for in this chapter.
+50 2. The attorney general may initiate in a court of competent jurisdic-
+51 tion action that may be appropriate or necessary for correction of any
+52 violation of this article, including mandating compliance with the
+53 provisions of this article, securing injunctive, declaratory, or such
+54 other relief as may be appropriate, ordering payment of civil penalties,
+55 and recovering damages and liquidated damages.
+
+A. 3779--A 7
+1 § 2. The opening paragraph of subdivision 1 of section 218 of the
+2 labor law, as amended by chapter 43 of the laws of 2023, is amended to
+3 read as follows:
+4 If the commissioner determines that an employer has violated a
+5 provision of article six (payment of wages), article nineteen (minimum
+6 wage act), article nineteen-A (minimum wage standards and protective
+7 labor practices for farm workers), article twenty-one-A (warehouse work-
+8 er protection act), article thirty-five-A (boundaries on technology
+9 act), section two hundred twelve-a, section two hundred twelve-b,
+10 section one hundred sixty-one (day of rest) or section one hundred
+11 sixty-two (meal periods) of this chapter, or a rule or regulation
+12 promulgated thereunder, the commissioner shall issue to the employer an
+13 order directing compliance therewith, which shall describe particularly
+14 the nature of the alleged violation. A copy of such order shall be
+15 provided to any employee who has filed a complaint and any authorized
+16 representative of [him or her] such employee. In addition to directing
+17 payment of wages, benefits or wage supplements found to be due, and
+18 liquidated damages in the amount of one hundred percent of unpaid wages,
+19 such order, if issued to an employer who previously has been found in
+20 violation of those provisions, rules or regulations, or to an employer
+21 whose violation is willful or egregious, shall direct payment to the
+22 commissioner of an additional sum as a civil penalty in an amount not to
+23 exceed double the total amount of wages, benefits, or wage supplements
+24 found to be due. In no case shall the order direct payment of an amount
+25 less than the total wages, benefits or wage supplements found by the
+26 commissioner to be due, plus the liquidated damages in the amount of one
+27 hundred percent of unpaid wages, the appropriate civil penalty, and
+28 interest at the rate of interest then in effect, as prescribed by the
+29 superintendent of financial services pursuant to section fourteen-a of
+30 the banking law per annum from the date of the underpayment to the date
+31 of the payment. Where the violation is for a reason other than the
+32 employer's failure to pay wages, benefits or wage supplements found to
+33 be due, the order shall direct payment to the commissioner of a civil
+34 penalty in an amount not to exceed one thousand dollars for a first
+35 violation, two thousand dollars for a second violation or three thousand
+36 dollars for a third or subsequent violation. In assessing the amount of
+37 the penalty, the commissioner shall give due consideration to the size
+38 of the employer's business, the good faith basis of the employer to
+39 believe that its conduct was in compliance with the law, the gravity of
+40 the violation, the history of previous violations and, in the case of
+41 wages, benefits or supplements violations, the failure to comply with
+42 recordkeeping or other non-wage requirements.
+43 § 3. This act shall take effect on the one hundred eightieth day after
+44 it shall have become a law. Effective immediately, the addition, amend-
+45 ment and/or repeal of any rule or regulation necessary for the implemen-
+46 tation of this act on its effective date are authorized to be made and
+47 completed on or before such effective date.

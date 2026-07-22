@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - S9382A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9382--A
+IN SENATE
+March 6, 2026
+___________
+Introduced by Sens. JACKSON, SALAZAR -- read twice and ordered printed,
+and when printed to be committed to the Committee on Labor -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the labor law, in relation to authorizing a claimant to
+receive a dependent allowance in addition to unemployment insurance
+benefits
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 590 of the labor law is amended by adding a new
+2 subdivision 13 to read as follows:
+3 13. Dependent allowance. (a) For the purposes of this subdivision, the
+4 term "dependent" shall mean:
+5 (i) children eighteen years old and younger, including foster chil-
+6 dren, stepchildren, and children for whom the claimant has at least
+7 fifty percent custody in a shared custody arrangement;
+8 (ii) full-time students up to the age of twenty-six;
+9 (iii) nonworking adults in the household ages sixty and older; and
+10 (iv) adults with disabilities in the household.
+11 (b) In addition to the benefits received pursuant to this section, a
+12 claimant eligible for such benefits shall also be entitled to receive a
+13 dependent allowance. Beginning on the effective date of this subdivi-
+14 sion, such dependent allowance shall be equal to forty-five dollars per
+15 dependent per week. The amount of such dependent allowance shall
+16 increase annually according to the consumer price index on March first,
+17 by an amount determined by the department to represent the percent
+18 change in the price index published for December of the preceding year
+19 over the price index published for December of the year prior to the
+20 preceding year, adjusted to the nearest one tenth of one percent. The
+21 department shall report the annual increase of such dependent allowance
+22 to the legislature and shall publish the current dependent allowance
+23 amount in a prominent location on the department's website.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14162-03-6
+
+S. 9382--A 2
+1 (c) The amount of the dependent allowance a claimant receives pursuant
+2 to this subdivision shall be considered part of such claimant's benefit
+3 amount and shall be subject to the same due process and appeal rights.
+4 (d) For the purpose of determining a claimant's eligibility to receive
+5 a dependent allowance pursuant to this subdivision, the department shall
+6 request information relating to whether a claimant has any dependents as
+7 part of the initial application for benefits.
+8 (e) The number of dependents established for a claimant at the begin-
+9 ning of a benefit year shall remain in effect for the entirety of such
+10 benefit year.
+11 (f) An individual that is determined to be a dependent of a claimant
+12 may not be considered a dependent of another claimant for purposes of a
+13 dependent allowance with respect to the same weekly benefit.
+14 (e) No later than the end of the month following each completed calen-
+15 dar quarter, the department shall provide a written report to the legis-
+16 lature on dependent allowances provided pursuant to this subdivision,
+17 and shall make such report publicly available in a prominent location on
+18 the department's website. Such report shall include the following infor-
+19 mation from the immediately preceding calendar quarter, deidentified and
+20 disaggregated by race, ethnicity, gender, location and poverty level:
+21 (i) the total number of claimants claiming a dependent allowance;
+22 (ii) the average weekly dependent allowance amount;
+23 (iii) the average number of dependents claimed by a claimant, broken
+24 down by the type of dependent; and
+25 (iv) information on the number of dependent allowance appeals filed
+26 and the outcomes of such appeals.
+27 (f) (i) An employer shall not be charged for a dependent allowance
+28 received by a claimant pursuant to this subdivision.
+29 (ii) An employer shall not be considered an interested party with
+30 respect to a dependent allowance received by a claimant and shall not
+31 have any right to contest such dependent allowance.
+32 (g) The department shall provide notice to a claimant of the weekly
+33 dependent allowance amount, the dependent or dependents established for
+34 such claimant and the calculation used to determine the amount of the
+35 dependent allowance in such claimant's monetary determination.
+36 § 2. Paragraph (a) of subdivision 5 of section 590 of the labor law,
+37 as amended by section 3 of part KK of chapter 56 of the laws of 2025, is
+38 amended to read as follows:
+39 (a) A claimant's weekly benefit amount shall be one twenty-sixth of
+40 the remuneration paid during the highest calendar quarter of the base
+41 period by employers, liable for contributions or payments in lieu of
+42 contributions under this article, provided the claimant has remuneration
+43 paid in all four calendar quarters during such claimant's base period or
+44 alternate base period. However, for any claimant who has remuneration
+45 paid in all four calendar quarters during such claimant's base period or
+46 alternate base period and whose high calendar quarter remuneration
+47 during the base period is three thousand five hundred seventy-five
+48 dollars or less, the benefit amount shall be one twenty-fifth of the
+49 remuneration paid during the highest calendar quarter of the base period
+50 by employers liable for contributions or payments in lieu of contrib-
+51 utions under this article. A claimant's weekly benefit shall be one
+52 twenty-sixth of the average remuneration paid in the two highest quar-
+53 ters paid during the base period or alternate base period by employers
+54 liable for contributions or payments in lieu of contributions under this
+55 article when the claimant has remuneration paid in two or three calendar
+56 quarters provided however, that a claimant whose high calendar quarter
+
+S. 9382--A 3
+1 is four thousand dollars or less but greater than three thousand five
+2 hundred seventy-five dollars shall have a weekly benefit amount of one
+3 twenty-sixth of such high calendar quarter. However, for any claimant
+4 who has remuneration paid in two or three calendar quarters during such
+5 claimant's base period or alternate base period and whose high calendar
+6 quarter remuneration during the base period is three thousand five
+7 hundred seventy-five dollars or less, the benefit amount shall be one
+8 twenty-fifth of the remuneration paid during the highest calendar quar-
+9 ter of the base period by employers liable for contributions or payments
+10 in lieu of contributions under this article. Any claimant whose high
+11 calendar quarter remuneration during the base period is more than three
+12 thousand five hundred seventy-five dollars shall not have a weekly bene-
+13 fit amount less than one hundred forty-three dollars. The weekly benefit
+14 amount, so computed, that is not a multiple of one dollar shall be
+15 lowered to the next multiple of one dollar. On the first Monday of
+16 September, nineteen hundred ninety-eight the weekly benefit amount shall
+17 not exceed three hundred sixty-five dollars nor be less than forty
+18 dollars, until the first Monday of September, two thousand, at which
+19 time the maximum benefit payable pursuant to this subdivision shall
+20 equal one-half of the state average weekly wage for covered employment
+21 as calculated by the department no sooner than July first, two thousand
+22 and no later than August first, two thousand, rounded down to the lowest
+23 dollar. On and after the first Monday of October, two thousand fourteen,
+24 the weekly benefit shall not be less than one hundred dollars, nor shall
+25 it exceed four hundred twenty dollars until the first Monday of October,
+26 two thousand fifteen when the maximum benefit amount shall be four
+27 hundred twenty-five dollars, until the first Monday of October, two
+28 thousand sixteen when the maximum benefit amount shall be four hundred
+29 thirty dollars, until the first Monday of October, two thousand seven-
+30 teen when the maximum benefit amount shall be four hundred thirty-five
+31 dollars, until the first Monday of October, two thousand eighteen when
+32 the maximum benefit amount shall be four hundred fifty dollars, until
+33 the first Monday of October, two thousand nineteen when the maximum
+34 benefit amount shall be thirty-six percent of the average weekly wage
+35 until the first Monday of October, two thousand twenty-five when the
+36 maximum benefit amount shall be eight hundred sixty-nine dollars, until
+37 the first Monday of October, two thousand twenty-six and each year ther-
+38 eafter on the first Monday of October when the maximum benefit amount
+39 shall be fifty percent of the average weekly wage provided, however,
+40 that in no event shall the maximum benefit amount be reduced from the
+41 previous year, and provided, however, that in no event shall the maximum
+42 benefit amount, including the amount of a dependent allowance a claimant
+43 receives pursuant to subdivision thirteen of this section, exceed one
+44 hundred percent of such claimant's average weekly wage from such claim-
+45 ant's highest-earning calendar quarter.
+46 § 3. This act shall take effect immediately.

@@ -1,0 +1,345 @@
+Title: 
+Official Title: 
+Source: versions - A10727A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10727--A
+IN ASSEMBLY
+March 27, 2026
+___________
+Introduced by M. of A. TAYLOR -- read once and referred to the Committee
+on Housing -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the real property law, in relation to enacting the
+"housing transparency act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "housing transparency act".
+3 § 2. Legislative findings. The legislature finds and declares that:
+4 1. New York state is experiencing significant housing challenges,
+5 including limited housing supply, inconsistent reporting of rental unit
+6 occupancy status, and a lack of access to information regarding building
+7 code compliance and habitability standards;
+8 2. While existing state and local laws require compliance with build-
+9 ing, fire, and housing codes, there is no consistent statewide mechanism
+10 for reporting the occupancy or vacancy status of rental units, nor a
+11 centralized system to provide public transparency regarding compliance
+12 certification prior to and following tenant occupancy;
+13 3. The absence of consistent reporting and transparency impedes accu-
+14 rate housing supply data, complicates enforcement of habitability stand-
+15 ards, and limits tenants' ability to make informed decisions;
+16 4. The improvement of transparency in rental housing reporting, while
+17 respecting local enforcement authority and protecting personal privacy,
+18 serves a legitimate public purpose by enhancing housing stability,
+19 promoting safe, habitable living conditions, and supporting data-in-
+20 formed public policy decision making;
+21 5. Nothing in this act shall be construed to supersede or preempt
+22 local building, fire, or housing codes, but rather to supplement exist-
+23 ing enforcement mechanisms through standardized reporting and adminis-
+24 trative coordination;
+25 6. The legislature recognizes the importance of small property owners
+26 in maintaining affordable housing and intends to implement this act to
+27 minimize undue administrative burden; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15039-05-6
+
+A. 10727--A 2
+1 7. Reliable and accessible housing data is necessary to ensure the
+2 integrity of rental markets, prevent prolonged vacancy of habitable
+3 units, and promote public confidence in housing administration.
+4 § 3. The real property law is amended by adding a new article 7-B to
+5 read as follows:
+6 ARTICLE 7-B
+7 HOUSING TRANSPARENCY ACT
+8 Section 239-m. Definitions.
+9 239-n. Establishment of rental unit compliance registry.
+10 239-o. Pre-occupancy and turnover certification.
+11 239-p. Voluntary tenant occupancy reporting.
+12 239-q. Lease term election requirements.
+13 239-r. Enforcement and penalties.
+14 239-s. Privacy and data protection.
+15 239-t. Application and report.
+16 239-u. Exemption for nonprofit housing providers.
+17 § 239-m. Definitions. For the purposes of this article, the following
+18 terms shall have the following meanings:
+19 1. "rental unit" shall mean any dwelling unit as defined in the multi-
+20 ple dwelling law that is leased, rented, or otherwise occupied pursuant
+21 to a rental agreement for residential purposes; provided, however, that
+22 such term shall not include:
+23 (a) owner-occupied buildings containing one or two dwelling units;
+24 (b) dwelling units within one- or two-family homes not held for rental
+25 as a primary business purpose;
+26 (c) any dwelling units subject to a cooperative or condominium form of
+27 ownership, including units sublet or leased by the owner;
+28 (d) units owned or operated by a nonprofit housing provider, as
+29 defined in this article;
+30 (e) units receiving federal, state, or local subsidies where occupancy
+31 is contingent upon participation in supportive services, provided,
+32 however, that this exclusion shall not apply to tenant-based rental
+33 assistance programs, including but not limited to the Section 8 Housing
+34 Choice Voucher Program;
+35 (f) emergency shelters, temporary housing accommodations, or transi-
+36 tional housing placements; or
+37 (g) any housing program where occupancy is conditioned upon partic-
+38 ipation in social, medical, rehabilitative, or supportive services.
+39 2. "covered building" shall mean any residential building containing
+40 more than two rental units;
+41 3. "owner" shall mean any person, firm, partnership, corporation,
+42 limited liability company, or other entity holding legal title to the
+43 covered building, or any agent thereof authorized to collect rent or
+44 manage the property;
+45 4. "occupancy status" shall mean whether a rental unit is:
+46 (a) occupied pursuant to a lease or rental agreement;
+47 (b) vacant and available for rent;
+48 (c) vacant and temporarily unavailable for rent due to repairs or
+49 renovations; or
+50 (d) otherwise not lawfully habitable pursuant to a government order;
+51 5. "pre-occupancy compliance certification" shall mean a written
+52 certification by the owner that the rental unit is in compliance with
+53 applicable state and local building, fire, and housing maintenance codes
+54 at the time of lease commencement;
+
+A. 10727--A 3
+1 6. "turnover certification" shall mean a written certification submit-
+2 ted by the owner following the termination of a tenancy, indicating the
+3 condition of the rental unit and any outstanding violations;
+4 7. "division" shall mean the division of housing and community
+5 renewal;
+6 8. "small property owner" shall mean:
+7 (a) in the upstate region, an owner of a building containing no more
+8 than three rental units, including single-family rental properties, and
+9 owners of one- to three-family residential properties, whether or not
+10 owner occupied; and
+11 (b) in the downstate region, an individual or entity owning no more
+12 the ten rental units statewide, including single-family rental proper-
+13 ties, and owners of one- to ten-family residential properties, whether
+14 or not owner-occupied; provided, however, that such term shall not
+15 include:
+16 (i) any dwelling unit subject to a cooperative or condominium form of
+17 ownership;
+18 (ii) any entity that, directly or indirectly, through common owner-
+19 ship, affiliates, or controlling interest, owns or manages more than
+20 three units statewide;
+21 (iii) any real estate investment trust, corporate landlord, or insti-
+22 tutional investor; or
+23 (iv) any nonprofit housing provider as defined in this article; and
+24 9. "nonprofit housing provider" shall mean any organization exempt
+25 under section 501(c)(3) of the United States internal revenue code that
+26 owns or operates residential housing for the purpose of providing
+27 affordable, supportive, transitional, or community-based housing;
+28 provided, however, that such term shall not include any entity primarily
+29 engaged in market-rate rental activity without the provision of support-
+30 ive or community-based services.
+31 10. "downstate region" shall mean the counties of New York, Kings,
+32 Queens, Bronx, Richmond, Nassau, Westchester, Rockland, Suffolk, Dutch-
+33 ess, Putnam, Sullivan and Orange county.
+34 11. "upstate region" shall mean all counties of the state not included
+35 in the downstate region.
+36 § 239-n. Establishment of rental unit compliance registry. 1. Within
+37 one year of the effective date of this article, the division shall
+38 establish and maintain a statewide rental unit compliance registry for
+39 covered buildings within the state.
+40 2. Each owner of a covered building shall register annually with the
+41 division in a manner prescribed by regulation. Such registration shall
+42 include:
+43 (a) the address of the covered building;
+44 (b) the total number of rental units in such covered building;
+45 (c) the occupancy status of each unit;
+46 (d) the date of the most recent inspection conducted by a government
+47 entity;
+48 (e) the existence of any open housing, building, or fire violations;
+49 and
+50 (f) certification that each occupied rental unit complies with appli-
+51 cable habitability requirements.
+52 3. The division shall make registry information publicly accessible
+53 through an online portal.
+54 4. The division shall coordinate with local code enforcement agencies,
+55 housing agencies, and existing rental housing compliance or registration
+56 systems, to the extent practicable, to promote administrative efficien-
+
+A. 10727--A 4
+1 cy, avoid or reduce duplicative reporting requirements, and improve
+2 interagency communication.
+3 5. Where practicable, the division shall establish procedures for data
+4 sharing, interoperability, or coordinated reporting with existing munic-
+5 ipal or local housing compliance systems, including but not limited to
+6 systems operated by the New York city department of housing preservation
+7 and development, provided that any such coordination complies with
+8 applicable privacy and data protection laws.
+9 6. The division may permit owners who are subject to substantially
+10 similar local registration or reporting requirements to satisfy applica-
+11 ble provisions of this article through coordinated or integrated report-
+12 ing mechanisms established by regulation.
+13 7. The division is authorized to promulgate such rules and regulations
+14 as may be necessary to implement the provisions of this article.
+15 § 239-o. Pre-occupancy and turnover certification. 1. Prior to the
+16 commencement of any new tenancy in a covered building, the owner shall
+17 file with the division a pre-occupancy compliance certification affirm-
+18 ing that:
+19 (a) the rental unit is free from hazardous violations as defined by
+20 applicable state or local laws;
+21 (b) all smoke detection and carbon monoxide detection devices required
+22 by law are installed and functioning;
+23 (c) no outstanding vacate order or condemnation order applies to the
+24 unit; and
+25 (d) the unit is in compliance with the warranty of habitability pursu-
+26 ant to section two hundred thirty-five-b of this chapter.
+27 2. A copy of such certification shall be provided to the tenant at or
+28 before the lease signing.
+29 3. Within thirty days following the termination of a tenancy, the
+30 owner shall submit to the division a turnover certification indicating:
+31 (a) whether the unit is vacant and available to rent;
+32 (b) whether the unit is undergoing repair or renovation; and
+33 (c) the correction status of any violations issued during the prior
+34 tenancy.
+35 4. Nothing in this section shall require an additional governmental
+36 inspection where none is otherwise required by law.
+37 5. Owners shall provide tenants, at or before the lease signing, with
+38 notice of registry access, occupancy reporting rights, and applicable
+39 privacy protections established pursuant to this article.
+40 § 239-p. Voluntary tenant occupancy reporting. 1. The division shall
+41 establish a secure mechanism by which tenants of covered buildings may
+42 voluntarily submit information confirming:
+43 (a) occupancy of a rental unit;
+44 (b) the existence of a written or oral rental agreement; and
+45 (c) concerns regarding noncompliance with occupancy reporting require-
+46 ments.
+47 2. No owner shall take adverse action against a tenant for submitting
+48 information pursuant to this section. Any such action shall constitute
+49 retaliation under section two hundred twenty-three-b of this chapter.
+50 3. Information submitted by tenants shall not be publicly disclosed
+51 and shall be used solely for administrative verification and enforcement
+52 purposes.
+53 4. Submission of information by a tenant shall not constitute an
+54 alteration of the terms of any lease, tenancy, or lawful occupancy
+55 status.
+
+A. 10727--A 5
+1 5. All information submitted pursuant to this section shall be made in
+2 good faith and to the best of the tenants' knowledge and belief.
+3 6. The division shall not take enforcement action based solely on
+4 tenant-submitted information without independent verification or corrob-
+5 oration from reliable sources.
+6 7. Information submitted pursuant to this section shall not constitute
+7 prima facie evidence in any civil or administrative proceeding.
+8 8. Any person who knowingly submits materially false information with
+9 the intent to mislead the division shall be subjected to a civil penalty
+10 as determined by regulation.
+11 9. The division shall establish procedures to identify and disregard
+12 repetitive, frivolous, or bad faith submissions.
+13 § 239-q. Lease term election requirements. 1. (a) For a covered build-
+14 ing, an owner shall, at the commencement of a new tenancy occurring on
+15 and after the effective date of this section, offer the prospective
+16 tenant the option of entering into a:
+17 (i) lease term of not less than six months;
+18 (ii) lease term of twelve months; or
+19 (iii) lease term of twenty-four months.
+20 (b) Owners qualifying as small property owners under this article
+21 shall be exempt from lease term election requirements.
+22 2. Nothing in this section shall prohibit an owner from establishing
+23 differing rental rates for differing lease durations, provided such
+24 rates comply with applicable law.
+25 3. This section shall not apply to:
+26 (a) small property owners;
+27 (b) owner-occupied buildings containing less than three units; and
+28 (c) temporary housing accommodations intended for occupancy of less
+29 than six months.
+30 4. Nothing in this section shall prohibit rental agreements for a term
+31 of thirty days or less provided such agreements comply with all applica-
+32 ble state and local laws and are not used to circumvent short-term
+33 rental regulations.
+34 § 239-r. Enforcement and penalties. 1. The division shall have author-
+35 ity to enforce the provisions of this article and may conduct audits of
+36 registry submissions to ensure compliance.
+37 2. (a) An owner who fails to file required registration information or
+38 certifications pursuant to this article shall be subject to a civil
+39 penalty not to exceed five hundred dollars per unit per year of noncom-
+40 pliance.
+41 (b) An owner who knowingly submits materially false information shall
+42 be subject to a civil penalty not to exceed one thousand dollars per
+43 unit per violation.
+44 3. Prior to the imposition of any civil penalty, the division shall
+45 provide written notice of noncompliance and allow the owner thirty days
+46 to cure such deficiency.
+47 4. No owner of a covered building shall be eligible to implement a
+48 rent increase otherwise permitted by law for any rental unit that:
+49 (a) has not submitted a required pre-occupancy or annual compliance
+50 certification;
+51 (b) has an outstanding hazardous violation as defined by applicable
+52 state and local code; or
+53 (c) is not properly registered in the rental unit compliance registry
+54 pursuant to this article.
+
+A. 10727--A 6
+1 5. The division may refer cases involving repeated or willful
+2 violations to the office of the attorney general for further enforcement
+3 action.
+4 6. No small property owner or compliant owner who demonstrates a good
+5 faith effort to comply with the provisions of this article shall be
+6 subjected to civil penalties for a first-time or technical violation,
+7 provided such violation is cured within the notice period established by
+8 the division.
+9 7. Owners demonstrating continuous compliance with the provision of
+10 this article for three consecutive years may qualify for expedited
+11 administrative review or other incentives established by the division
+12 pursuant to regulation.
+13 § 239-s. Privacy and data protection. 1. The division shall not
+14 disclose personally identifiable information of tenants collected pursu-
+15 ant to this article.
+16 2. The division shall implement reasonable administrative, technical,
+17 and physical safeguards to protect confidential information.
+18 3. Information collected pursuant to this article shall be solely for
+19 housing administration, compliance verification, public reporting, and
+20 enforcement purposes.
+21 § 239-t. Application and report. 1. Downstate region. (a) Beginning
+22 two years after the effective date of this article, the provisions of
+23 this article shall apply to owners of covered buildings containing twen-
+24 ty or more rental units in the downstate region.
+25 (b) Beginning three years after the effective date of this article,
+26 the provisions of this article shall apply to owners of covered build-
+27 ings containing ten or more rental units in the downstate region.
+28 2. Upstate region. (a) Beginning two years after the effective date of
+29 this article, the provisions of this article shall apply to owners of
+30 covered buildings containing twenty or more rental units in the upstate
+31 region.
+32 (b) Beginning three years after the effective date of this article,
+33 the provisions of this article shall apply to owners of covered build-
+34 ings containing between six and nineteen rental units in the upstate
+35 region.
+36 3. Full Implementation. Beginning four years after the effective
+37 date of this article, the provisions of this article shall apply to all
+38 owners of covered buildings, except small property owners and exempt
+39 nonprofit housing providers.
+40 4. Beginning four years after the effective date of this article, the
+41 division shall issue a report to the legislature on the implementation
+42 of this article including but not limited to the compliance rate and
+43 administrative impact of this article.
+44 § 239-u. Exemption for nonprofit housing providers. Notwithstanding
+45 any provision of this article to the contrary, the requirements of this
+46 article shall not apply to rental units owned and/or operated by a
+47 nonprofit housing provider, as defined in this article, where such
+48 rental units are used for affordable, supportive, transitional, or
+49 community-based purposes.
+50 § 4. Severability clause. If any clause, sentence, paragraph, subdivi-
+51 sion, section or part of this act shall be adjudged by any court of
+52 competent jurisdiction to be invalid, such judgment shall not affect,
+53 impair, or invalidate the remainder thereof, but shall be confined in
+54 its operation to the clause, sentence, paragraph, subdivision, section
+55 or part thereof directly involved in the controversy in which such judg-
+56 ment shall have been rendered. It is hereby declared to be the intent of
+
+A. 10727--A 7
+1 the legislature that this act would have been enacted even if such
+2 invalid provisions had not been included herein.
+3 § 5. This act shall take effect eighteen months after it shall have
+4 become a law. Effective immediately, the addition, amendment and/or
+5 repeal of any rule or regulation necessary for the implementation of
+6 this act on its effective date are authorized to be made and completed
+7 on or before such date.
