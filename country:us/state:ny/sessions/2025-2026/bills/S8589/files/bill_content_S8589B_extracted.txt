@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - S8589B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8589--B
+2025-2026 Regular Sessions
+IN SENATE
+November 21, 2025
+___________
+Introduced by Sen. MAY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Rules -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- recommitted to the Committee on Labor in accord-
+ance with Senate Rule 6, sec. 8 -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the labor law, in relation to enacting the "automation
+displacement protection act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "automation displacement protection act".
+3 § 2. Legislative findings and intent. The legislature finds that the
+4 rapid deployment of artificial intelligence and automated decision
+5 systems is reshaping the nature of work in New York state. While techno-
+6 logical advancement can enhance productivity, the sudden substitution of
+7 human labor with automated systems threatens the economic stability of
+8 working people, their families, and the communities that rely on them.
+9 It is the public policy of this state to ensure that technological
+10 progress proceeds with fairness and transparency, to require employers
+11 to provide advance notice of workforce reductions attributable to auto-
+12 mation, and to safeguard opportunities for retraining and redeployment
+13 of displaced workers.
+14 § 3. The labor law is amended by adding a new article 25-D to read as
+15 follows:
+16 ARTICLE 25-D
+17 PROTECTION OF WORKERS FROM AI DISPLACEMENT
+18 Section 863. Definitions.
+19 863-a. Notice of technological displacement.
+20 863-b. Workforce transition period.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14017-03-6
+
+S. 8589--B 2
+1 863-c. Incentive eligibility.
+2 863-d. Civil penalties and remedies.
+3 § 863. Definitions. For the purposes of this article, the following
+4 terms shall have the following meanings:
+5 1. "Covered employer" means any business enterprise that employs fifty
+6 or more full-time employees in the state.
+7 2. "Artificial intelligence system" means any computer-based system
+8 capable of performing tasks, making predictions, or generating content
+9 that would otherwise require human intelligence, including machine
+10 learning, natural language processing, computer vision, or generative
+11 models.
+12 3. "Technological displacement" means the elimination of employment
+13 positions, or a reduction in hours equivalent to twenty-five percent or
+14 more of total workforce time, within any twelve-month period, caused in
+15 whole or in substantial part by the introduction or expanded use of an
+16 artificial intelligence system or other automated technology.
+17 4. "Employment loss" includes any termination, layoff exceeding six
+18 months, reduction in work hours of fifty percent or more during each
+19 month of any six-month period, or conversion of a human-performed func-
+20 tion to an automated function.
+21 § 863-a. Notice of technological displacement. 1. A covered employer
+22 shall provide no fewer than ninety days advance written notice prior to
+23 any technological displacement affecting twenty-five or more employees,
+24 or twenty-five percent of the workforce, whichever is less.
+25 2. Notice under subdivision one of this section shall be provided to:
+26 (a) all affected employees and any employee organization representing
+27 them;
+28 (b) the commissioner;
+29 (c) the chief elected official of each locality where the affected
+30 facility is located; and
+31 (d) the local workforce development board.
+32 3. The notice under subdivision one of this section shall describe:
+33 (a) the functions to be automated;
+34 (b) the number, classification, and location of affected employees;
+35 (c) the anticipated date of displacement;
+36 (d) available retraining or reassignment programs; and
+37 (e) the identity of any vendor or contractor supplying the artificial
+38 intelligence system.
+39 § 863-b. Workforce transition period. 1. Each employee affected by a
+40 technological displacement shall be entitled to a transition employment
+41 period of ninety days from the date of notice provided under section
+42 eight hundred sixty-three-a of this article, during which the covered
+43 employer shall offer:
+44 (a) continued employment or equivalent wages; or
+45 (b) participation, at such covered employer's expense, in a recognized
+46 retraining or reskilling program approved by the department.
+47 2. A covered employer shall not discharge an employee affected by a
+48 technological displacement during the transition period under subdivi-
+49 sion one of this section except for just cause.
+50 § 863-c. Incentive eligibility. 1. Any covered employer that fails to
+51 comply with the notice or transition requirements of this article shall
+52 be ineligible for state grants, loans, or tax incentives for five years
+53 following such violation.
+54 2. The commissioner shall maintain a public registry of covered
+55 employers found to have violated this article.
+
+S. 8589--B 3
+1 § 863-d. Civil penalties and remedies. 1. A covered employer that
+2 fails to provide the notice required by this article shall be liable to
+3 each affected employee for up to sixty days of back pay and benefits.
+4 2. The commissioner may assess a civil penalty of up to ten thousand
+5 dollars per day for willful violations of this article.
+6 3. The attorney general may bring an action to enjoin violations and
+7 recover penalties on behalf of the state.
+8 § 4. This act shall take effect immediately.

@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - S1343A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1343--A
+2025-2026 Regular Sessions
+IN SENATE
+January 9, 2025
+___________
+Introduced by Sens. PARKER, ADDABBO, FAHY, HARCKHAM, ROLISON, SANDERS,
+SEPULVEDA, TEDISCO -- read twice and ordered printed, and when printed
+to be committed to the Committee on Environmental Conservation --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to
+establishing the "clean fuel standard of 2025"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings and declarations:
+2 1. The transportation sector in New York is a leading source of crite-
+3 ria pollutants and the leading source of greenhouse gas emissions that
+4 endanger public health and welfare by causing and contributing to
+5 increased air pollution and dangerous climate change. Meeting the
+6 pollution reduction requirements of the Climate Leadership and Community
+7 Protection Act will require sharp decreases in transportation-related
+8 emissions.
+9 2. Shifting from today's petroleum-based transportation fuels to
+10 alternative fuels has the potential to significantly reduce transporta-
+11 tion emissions of air pollutants and greenhouse gases and is recommended
+12 by the Intergovernmental Panel on Climate Change as an important pathway
+13 for holding global warming to 1.5 degrees Celsius.
+14 3. The Climate Leadership and Community Protection Act directs the
+15 Department of Environmental Protection to promulgate regulations that
+16 will reduce greenhouse gas emissions, including from on-road vehicles.
+17 4. New York signed a 15-state MOU to develop an action plan to reduce
+18 toxic diesel emissions from medium and heavy-duty vehicles by 2050.
+19 5. A clean fuels standard regulation would promote innovation
+20 production and use of non-petroleum fuels that reduce vehicle and fuel-
+21 related air pollution that endangers public health and welfare and
+22 disproportionately impacts disadvantaged communities.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01966-02-5
+
+S. 1343--A 2
+1 § 2. Short title. This act may be known and may be cited as the "clean
+2 fuel standard of 2025".
+3 § 3. The environmental conservation law is amended by adding a new
+4 section 19-0333 to read as follows:
+5 § 19-0333. Clean fuel standard.
+6 1. A clean fuel standard is hereby established. The clean fuel stand-
+7 ard is intended to reduce greenhouse gas intensity from the on-road
+8 transportation sector by twenty percent by two thousand thirty-three.
+9 In advance of two thousand thirty-three and every five years thereaft-
+10 er, the department shall promulgate regulations determining the minimum
+11 additional greenhouse gas intensity reduction to be achieved over the
+12 following five years, with further reductions to be implemented based
+13 upon advances in technology and to support achieving the requirements of
+14 the New York state climate leadership and community protection act and
+15 the goals of the scoping plan established pursuant to section 75-0103 of
+16 this chapter, as determined by the commissioner. Fuels which provide
+17 net human health benefits through overall air quality improvements rela-
+18 tive to diesel and gasoline usage shall be eligible. Aviation fuels
+19 shall be exempted from the clean fuel standard due to federal
+20 preemption, but sustainable aviation fuel shall be eligible to generate
+21 credits on an opt-in basis to help encourage development of a viable
+22 sustainable aviation fuel market.
+23 2. The clean fuel standard shall apply to all providers of transporta-
+24 tion fuels, including electricity, in New York, shall be measured on a
+25 full fuels lifecycle basis and may be met through market-based methods
+26 by which providers exceeding the performance required by the clean fuel
+27 standard shall receive credits that may be applied to future obligations
+28 or traded to providers not meeting the clean fuel standard. The gener-
+29 ation of credits must use a lifecycle emissions performance-based
+30 approach that is technology and feedstock neutral to achieve greenhouse
+31 gas reductions. In addition, the department shall consider other envi-
+32 ronmental impacts of fuels in determining credits, including but not
+33 limited to crop displacement impacts and forms of pollution other than
+34 greenhouse gas emissions, whether or not occurring within the United
+35 States.
+36 3. For purposes of this section the term "providers" shall include,
+37 but shall not be limited to, all refiners, blenders, producers or
+38 importers of transportation fuels, or enablers of electricity used as
+39 transportation fuel, "greenhouse gas intensity" means the quantity of
+40 lifecycle greenhouse gas emissions per unit of fuel energy, and "full
+41 fuels lifecycle" means the aggregate greenhouse gas emissions, including
+42 direct emissions and indirect emissions, such as emissions from direct
+43 or indirect land use changes, whether or not such emissions occur within
+44 the United States, measured in carbon dioxide equivalents, as such term
+45 is defined in subdivision two of section 75-0101 of this chapter, with
+46 aggregate per unit fuel energy emissions determined by the commissioner
+47 after consideration of all relevant factors, including as contemplated
+48 by subdivision four of this section.
+49 4. The full fuels lifecycle shall be assessed annually and such
+50 assessment shall include all stages of fuel and feedstock production and
+51 distribution, including but not limited to feedstock generation or
+52 extraction through the distribution, delivery, and use of the finished
+53 fuel by the ultimate consumer.
+54 5. a. Within twenty-four months following the effective date of this
+55 section, the commissioner, in consultation with the New York state ener-
+56 gy research and development authority, shall promulgate regulations
+
+S. 1343--A 3
+1 establishing a clean fuel standard with performance objectives to imple-
+2 ment subdivision one of this section. Such regulations shall include
+3 establishment of measures to limit costs and maximize savings.
+4 b. The clean fuel standard shall take into consideration the low
+5 carbon fuel standard adopted in other states, and the recommendations of
+6 the scoping plan, and shall include coordination with other Northeastern
+7 states to promote regional reductions in greenhouse gas emissions.
+8 c. In addition, such regulations shall:
+9 (i) require providers to disclose all information material to deter-
+10 mine the full fuels lifecycle and impose rigorous standards regarding
+11 transparency with respect to information relevant to determining the
+12 full fuels lifecycle;
+13 (ii) require such disclosure and transparency in order to obtain cred-
+14 its; and
+15 (iii) impose significant penalties for failure to disclose or report
+16 information required by such regulations or as otherwise requested by
+17 the department.
+18 d. Such regulations shall include fees for the registration of provid-
+19 ers to offset the costs associated with implementation of the clean fuel
+20 standard.
+21 e. Such regulations shall allow for a deferral of the program based on
+22 emergency or forecasted conditions.
+23 6. Electric utilities, state agencies, and authorities, in consulta-
+24 tion with the climate justice working group and the climate action coun-
+25 cil established pursuant to section 75-0103 of this chapter, shall, to
+26 the extent practicable, invest or direct available and relevant program-
+27 matic resources to provide forty percent of such electric utility's,
+28 state agency's, or authority's overall credit value on electrified
+29 transportation programs, projects, or investments to directly benefit
+30 disadvantaged communities, including, but not limited to, electrifica-
+31 tion and battery swap programs for school or transit buses; electrifica-
+32 tion of drayage trucks; investment in public electric vehicle charging
+33 infrastructure and electric vehicle charging infrastructure in multi-fa-
+34 mily residences; investment in electric mobility solutions such as elec-
+35 tric vehicle sharing and ride hailing programs; multilingual marketing,
+36 education, and outreach designed to increase awareness and adoption of
+37 electric vehicles; and additional rebates and incentives for low-income
+38 individuals beyond existing local, federal, and state rebates and incen-
+39 tives.
+40 7. Within twenty-four months following the adoption of regulations
+41 implementing a clean fuel standard, the commissioner shall report to the
+42 legislature regarding the implementation of the program, the reductions
+43 in greenhouse gas emissions that have been achieved through the clean
+44 fuel standard and targets for future reductions in greenhouse gas emis-
+45 sions from the transportation sector.
+46 8. Nothing in this section shall preclude the department from enacting
+47 or maintaining other programs to reduce greenhouse gas emissions from
+48 the transportation sector.
+49 § 4. This act shall take effect immediately.

@@ -1,0 +1,1608 @@
+Title: 
+Official Title: 
+Source: versions - A8019A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8019--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+April 22, 2025
+___________
+Introduced by M. of A. MOLITOR -- read once and referred to the Commit-
+tee on Cities -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the public authorities law, in relation to establishing
+the city of Dunkirk interim finance authority; and to repeal the city
+of Dunkirk fiscal recovery act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 10-D of the public authorities law is amended by
+2 adding a new title 1-A to read as follows:
+3 TITLE 1-A
+4 CITY OF DUNKIRK INTERIM FINANCE AUTHORITY
+5 Section 3750. Short title.
+6 3751. Definitions.
+7 3752. City of Dunkirk interim finance authority.
+8 3753. Administration of the authority.
+9 3754. General powers of the authority.
+10 3755. Declaration of need.
+11 3756. Bonds of the authority.
+12 3757. Resources of the authority.
+13 3758. Agreement with the state.
+14 3759. Agreement with the city.
+15 3760. Bonds legal for investment and deposit.
+16 3761. Tax exemption and tax contract by the state.
+17 3762. Actions against the authority.
+18 3763. Audits.
+19 3764. Remedies of bondholders.
+20 3765. Assistance to the authority; employees of the authority.
+21 3766. 2025 fiscal year budget modification.
+22 3767. City financial plans.
+23 3768. Monitoring and review.
+24 3769. Control period.
+25 3770. Miscellaneous provisions.
+26 3771. Effect of inconsistent provisions.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11445-05-5
+
+A. 8019--A 2
+1 3772. Separability; construction.
+2 § 3750. Short title. This title shall be known and may be cited as the
+3 "City of Dunkirk Interim Finance Authority Act".
+4 § 3751. Definitions. For the purposes of this title, unless the
+5 context otherwise requires:
+6 1. "Authority" or "city of Dunkirk interim finance authority" means
+7 the public benefit corporation created by this title.
+8 2. "Bonds" means bonds, notes and other evidences of indebtedness,
+9 issued or incurred by the authority.
+10 3. "Chief fiscal officer" means the chief fiscal officer of the city
+11 as defined in the city charter.
+12 4. "Fiscal affairs officer" means the fiscal affairs officer of the
+13 city.
+14 5. "Control period" means a period determined by the authority in
+15 accordance with section thirty-seven hundred sixty-nine of this title.
+16 6. "City" means the city of Dunkirk.
+17 7. "City charter" means the city government law of the city of
+18 Dunkirk, as amended.
+19 8. "Mayor" means the mayor of the city of Dunkirk.
+20 9. "City tax revenues" means (a) that portion of tax revenues that is
+21 deducted and withheld for transfer and credit by the authority to the
+22 city of Dunkirk revenue anticipation note withholding fund established
+23 by the authority and (b) the balance of tax revenues transferred by the
+24 authority to the city, pursuant to section thirty-seven hundred fifty-
+25 seven of this title.
+26 10. "Covered organization" means any governmental agency, public
+27 authority or public benefit corporation which receives or may receive
+28 moneys directly, indirectly or contingently from the city, but excluding
+29 the authority and (a) any governmental agency, public authority or
+30 public benefit corporation specifically exempted from the provisions of
+31 this title by order of the authority upon application of such agency,
+32 public authority, or corporation to the authority or at the authority's
+33 own motion upon a finding by the authority that such exemption does not
+34 materially affect the ability of the city to adopt and maintain a budget
+35 pursuant to the provisions of this title, and provided that at the time
+36 of such exemption, there shall have been and during the period of such
+37 exemption there shall be an annual audit by a nationally recognized
+38 independent certified public accounting firm or consortium of firms, one
+39 of which shall be a nationally recognized firm, of the covered organiza-
+40 tion's financial statements performed in accordance with generally
+41 accepted auditing standards and report by such auditor thereon which
+42 includes an opinion that the financial statements so audited have been
+43 prepared in accordance with generally accepted accounting principles and
+44 such other information as such auditors deem appropriate, (b) any state
+45 public authority as defined in section two hundred one of the civil
+46 service law, unless specifically named above, or (c) any governmental
+47 agency, authority, commission or instrumentality created by compact or
+48 agreement between the state of New York and another state or states;
+49 provided, however, that the authority may terminate any exemption grant-
+50 ed by order of the authority pursuant to this subdivision upon a deter-
+51 mination that the circumstances upon which such exemption was granted
+52 are no longer applicable.
+53 11. "Director of the budget" means the director of the budget of the
+54 state.
+55 12. "Financeable costs" or "costs" means costs to finance (a) amounts
+56 necessary to accomplish a refunding, repayment or restructuring of a
+
+A. 8019--A 3
+1 portion of the city's outstanding indebtedness or that of any covered
+2 organization, (b) cash flow needs of the city, (c) tax certiorari
+3 settlements and judgments of any kind to which the city is a party, (d)
+4 appropriated capital costs of the city, including the costs of any
+5 preliminary studies, surveys, maps, plans, estimates and hearings, (e)
+6 amounts necessary to finance any city deficit, to the extent authorized
+7 by state law, or (f) incidental costs, including, but not limited to,
+8 legal fees, printing or engraving, publication of notices, taking of
+9 title, apportionment of costs, and capitalized interest, insurance
+10 premiums, costs related to items authorized in subdivisions seven
+11 through ten of section thirty-seven hundred fifty-four of this title or
+12 any underwriting or other costs incurred in connection with the financ-
+13 ing thereof.
+14 13. "Financial plan" means the financial plan of the city and the
+15 covered organizations to be developed pursuant to section thirty-seven
+16 hundred sixty-seven of this title, as from time to time amended.
+17 14. "Interim finance period" means the period of time from the effec-
+18 tive date of this title until the date when (a) the authority shall
+19 determine, based on annual audit reports furnished in accordance with
+20 this title, that for each fiscal year, through and including fiscal year
+21 two thousand eight, that the city has adopted and adhered to budgets
+22 covering all expenditures the results of which did not show a major
+23 operating funds deficit when reported in accordance with generally
+24 accepted accounting principles, subject to the provisions of this title,
+25 and shall further determine that in the then current fiscal year there
+26 is a substantial likelihood that the results of the city's operations
+27 will not show a deficit in the major operating funds when so reported
+28 and (b) the chief fiscal officer shall certify that securities sold by
+29 or for the benefit of the city during the fiscal year immediately
+30 preceding such date and the then current fiscal year in the general
+31 public market satisfied the financing requirements of the city during
+32 such period and that there is a substantial likelihood that such securi-
+33 ties can be sold in the general public market from such date through the
+34 end of the next succeeding fiscal year in amounts which will satisfy
+35 substantially all of the capital and seasonal financing requirements of
+36 the city during such period in accordance with the financial plan then
+37 in effect.
+38 15. "Legislature" means the legislature of the city.
+39 16. "Major operating funds" means the general fund, the police
+40 district fund, the police headquarters fund, the city parks fund and the
+41 fire prevention fund of the city, together with any other funds of the
+42 city or a covered organization from time to time designated by the
+43 authority.
+44 17. "NCIFA assistance" means the amount of debt service savings in a
+45 given fiscal year generated from the proceeds of bonds made available to
+46 or for the benefit of the city or any covered organization as determined
+47 by the authority.
+48 18. "Presiding officer" means the presiding officer of the legisla-
+49 ture, elected pursuant to the rules of the legislature.
+50 19. "Projected gap" means the excess, if any, of annual aggregate
+51 projected expenditures over annual aggregate projected revenues for the
+52 major operating funds in each year of a financial plan as determined by
+53 the city and certified by the authority. For purposes of determining the
+54 projected gap in each fiscal year, annual aggregate projected revenues
+55 shall not include the amount of NCIFA assistance or transitional state
+56 aid expected to be available for such fiscal year.
+
+A. 8019--A 4
+1 20. "Public corporation" means and includes the city, the state and
+2 every public corporation as defined in the general construction law.
+3 21. "Revenues" means the tax revenues and all aid, rents, fees, charg-
+4 es, payments and other income and receipts paid or payable to the
+5 authority or a trustee for the account of the authority to the extent
+6 such amounts are pledged to bondholders, but in no event shall revenues
+7 include any transitional state aid.
+8 22. "State" means the state of New York.
+9 23. "Tax revenues" means sales and compensating use tax net
+10 collections paid or payable to the authority pursuant to section twelve
+11 hundred sixty-one of the tax law.
+12 24. "Transitional state aid" means any state aid appropriated to the
+13 authority for the benefit of the city for (a) unrestricted aid purposes
+14 and (b) the purpose of assisting the city in streamlining the tax
+15 certiorari claims process and eliminating the need to borrow for such
+16 costs.
+17 § 3752. City of Dunkirk interim finance authority. 1. There is hereby
+18 created the city of Dunkirk interim finance authority. The authority
+19 shall be a corporate governmental agency and instrumentality of the
+20 state constituting a public benefit corporation.
+21 2. In accordance with the provisions of this title, the authority may
+22 issue bonds only to finance costs, including the refunding of bonds
+23 issued by the authority to finance costs, and fund reserves to secure
+24 such bonds.
+25 3. The authority shall continue until its oversight, control or other
+26 responsibilities, and its liabilities have been met or otherwise
+27 discharged. Upon the termination of the existence of the authority, all
+28 of its rights and property shall pass to and be vested in the city.
+29 § 3753. Administration of the authority. 1. The authority shall be
+30 administered by nine directors appointed by the governor. Of the nine
+31 directors, one each shall be appointed on the written recommendation of
+32 the temporary president of the senate, the minority leader of the
+33 senate, the speaker of the assembly, the minority leader of the assembly
+34 and the state comptroller, respectively. Two of the members appointed
+35 directly by the governor and the members appointed on the recommendation
+36 of the temporary president of the senate, the recommendation of the
+37 minority leader of the senate, the recommendation of the speaker of the
+38 assembly, the recommendation of the minority leader of the assembly and
+39 the recommendation of the state comptroller shall be residents of Chau-
+40 tauqua county. Each director shall be appointed for a term of four
+41 years, provided however, that two of the directors first appointed by
+42 the governor shall serve for a term ending December thirty-first, two
+43 thousand twenty-nine, and the five other directors first appointed shall
+44 serve for the following terms: the directors appointed on recommendation
+45 of the temporary president of the senate, the minority leader of the
+46 senate, the speaker of the assembly, the minority leader of the assembly
+47 and the state comptroller shall serve for a term ending December thir-
+48 ty-first, two thousand thirty and the two remaining directors first
+49 appointed directly by the governor shall serve for a term ending on
+50 December thirty-first, two thousand thirty-one. Each director shall hold
+51 office until such director's successor has been appointed and qualified.
+52 Thereafter each director shall serve a term of four years, except that
+53 any director appointed to fill a vacancy shall serve only until the
+54 expiration of their predecessor's term.
+55 2. The governor, the temporary president of the senate, the minority
+56 leader of the senate, the speaker of the assembly, the minority leader
+
+A. 8019--A 5
+1 of the assembly, and the state comptroller shall designate a chairperson
+2 and a vice-chairperson from among the directors. The chairperson shall
+3 preside over all meetings of the directors and shall have such other
+4 duties as the directors may prescribe. The vice-chairperson shall
+5 preside over all meetings of the directors in the absence of the chair-
+6 person and shall have such other duties as the directors may prescribe.
+7 3. The directors of the authority shall serve without salary, but each
+8 director shall be reimbursed for actual necessary expenses incurred in
+9 the performance of such director's official duties as a director of the
+10 authority.
+11 4. Notwithstanding any inconsistent provision of any general, special
+12 or local law, ordinance, resolution or charter, no officer, member or
+13 employee of the state of New York, any city, county, town or village,
+14 any governmental entity operating any public school or college, any
+15 school district or any other public agency or instrumentality which
+16 exercises governmental powers under the laws of the state, shall forfeit
+17 their office or employment by reason of their acceptance of appointment
+18 as a director, officer or employee of the authority, nor shall service
+19 as such director, officer or employee of the authority be deemed incom-
+20 patible or in conflict with such office or employment.
+21 5. Five directors shall constitute a quorum for the transaction of any
+22 business or the exercise of any power of the authority. No action shall
+23 be taken by the authority except pursuant to a favorable vote of at
+24 least five directors participating in a meeting at which such action is
+25 taken.
+26 6. The authority shall appoint a treasurer and may appoint officers
+27 and agents as it may require and prescribe their duties.
+28 7. At least annually, commencing no more than one year after the date
+29 on which authority bonds are first issued, the authority shall report to
+30 the mayor, the city legislature, the fiscal affairs officer, the direc-
+31 tor of the budget, the speaker of the assembly, the temporary president
+32 of the senate, the minority leader of the senate, the minority leader of
+33 the assembly and the state comptroller on the costs financed by the
+34 authority and the amount of such financing for each such cost over the
+35 past year.
+36 § 3754. General powers of the authority. Except as otherwise limited
+37 by this title, the authority shall have the following powers in addition
+38 to those specially conferred elsewhere in this title, subject only to
+39 agreements with bondholders:
+40 1. to sue and be sued;
+41 2. to have a seal and alter the same at pleasure;
+42 3. to make and alter by-laws for its organization and management and,
+43 subject to agreements with its bondholders, to make and alter rules and
+44 regulations governing the exercise of its powers and fulfillment of its
+45 purposes under this title;
+46 4. to make and execute contracts and all other instruments or agree-
+47 ments necessary or convenient to carry out any powers and functions
+48 expressly given in this title;
+49 5. to commence any action to protect or enforce any right conferred
+50 upon it by any law, contract or other agreement;
+51 6. to borrow money and issue bonds, or to refund the same, and to
+52 provide for the rights of the holders of its bonds;
+53 7. as security for the payment of the principal of and interest on any
+54 bonds issued by it pursuant to this title and any agreements made in
+55 connection therewith and for its obligations under bond facilities, to
+56 pledge all or any part of its revenues or assets;
+
+A. 8019--A 6
+1 8. to procure insurance, letters of credit or other credit enhancement
+2 with respect to its bonds, or facilities for the payment of tenders of
+3 such bonds or facilities for the payment upon maturity of short-term
+4 notes not renewed;
+5 9. to enter into interest rate exchange or similar arrangements with
+6 any person under such terms and conditions as the authority may deter-
+7 mine, not inconsistent with the general laws of this state and other
+8 provisions of this title, including, without limitation, provisions as
+9 to default or early termination and indemnification by the authority or
+10 any other party thereto for loss of benefits as a result thereof;
+11 provided, however, that such exchanges or similar arrangements shall be
+12 limited to fifty percent of the amount authorized in subdivision one of
+13 section thirty-seven hundred fifty-six of this title to pay the finance-
+14 able costs described in paragraph (a) of subdivision twelve of section
+15 thirty-seven hundred fifty-one of this title;
+16 10. to procure insurance, letters of credit or other credit enhance-
+17 ment with respect to arrangements described in subdivision nine of this
+18 section;
+19 11. to accept gifts, grants, loans or contributions of funds or finan-
+20 cial or other aid in any form from the city, county, state or federal
+21 government or any agency or instrumentality thereof, or from any other
+22 source and to expend the proceeds for any of its corporate purposes in
+23 accordance with the provisions of this title;
+24 12. subject to the provisions of any contract with bondholders, to
+25 invest any funds held in reserves or sinking funds, or any funds not
+26 required for immediate use or disbursement, at the discretion of the
+27 authority, in (a) obligations of the state or the United States govern-
+28 ment, (b) obligations the principal and interest of which are guaranteed
+29 by the state or the United States government, (c) certificates of depos-
+30 it, whether negotiable or non-negotiable, and banker's acceptances of
+31 any of the fifty largest banks in the United States which bank, at the
+32 time of investment, has an outstanding unsecured, uninsured and unguar-
+33 anteed debt issue ranked in either of the two highest rating categories
+34 of two nationally recognized independent rating agencies, (d) commercial
+35 paper of any bank or corporation created under the laws of either the
+36 United States or any state of the United States which commercial paper,
+37 at the time of the investment, has received the highest rating of two
+38 nationally recognized independent rating agencies, (e) bonds, deben-
+39 tures, or other evidences of indebtedness, issued or guaranteed at the
+40 time of the investment by the federal national mortgage association,
+41 federal home loan mortgage corporation, student loan marketing associ-
+42 ation, federal farm credit system, or any other United States government
+43 sponsored agency, provided that at the time of the investment such agen-
+44 cy receives, or its obligations receive, any of the three highest rating
+45 categories of two nationally recognized independent rating agencies, (f)
+46 any bonds or other obligations of any state or the United States of
+47 America or of any political subdivision thereof or any agency, instru-
+48 mentality or local governmental unit of any such state or political
+49 subdivision which bonds or other obligations, at the time of the invest-
+50 ment, have received any of the three highest ratings of two nationally
+51 recognized independent rating agencies, (g) any repurchase agreement
+52 with any bank or trust company organized under the laws of any state of
+53 the United States of America or any national banking association or
+54 government bond dealer reporting to, trading with, and recognized as a
+55 primary dealer by the Federal Reserve Bank of New York, which agreement
+56 is secured by any one or more of the securities described in paragraph
+
+A. 8019--A 7
+1 (a), (b) or (e) of this subdivision which securities shall at all times
+2 have a market value of not less than the full amount of the repurchase
+3 agreement and be delivered to another bank or trust company organized
+4 under the laws of New York State or any national banking association
+5 domiciled in New York state, as custodian, and (h) reverse repurchase
+6 agreements with any bank or trust company organized under the laws of
+7 any state of the United States of America or any national banking asso-
+8 ciation or government bond dealer reporting to, trading with, and recog-
+9 nized as a primary dealer by the Federal Reserve Bank of New York, which
+10 agreement is secured by any one or more of the securities described in
+11 paragraph (a), (b) or (e) of this subdivision which securities shall at
+12 all times have a market value of not less than the full amount of the
+13 repurchase agreement and be delivered to another bank or trust company
+14 organized under the laws of New York state or any national banking asso-
+15 ciation domiciled in New York state, as custodian.
+16 13. to appoint such officers and employees as it may require for the
+17 performance of its duties and to fix and determine their qualifications,
+18 duties, and compensation, and to retain or employ counsel, auditors and
+19 private financial consultants and other services on a contract basis or
+20 otherwise for rendering professional, business or technical services and
+21 advice; and, in taking such actions, the authority shall consider the
+22 financial impact on the city; and
+23 14. to do any and all things necessary or convenient to carry out its
+24 purposes and exercise the powers expressly given and granted in this
+25 title; provided, however, such authority shall under no circumstances
+26 acquire, hold or transfer title to, lease, own beneficially or other-
+27 wise, manage, operate or otherwise exercise control over any real prop-
+28 erty, any improvement to real property or any interest therein other
+29 than a lease or sublease of office space deemed necessary or desirable
+30 by the authority.
+31 § 3755. Declaration of need. 1. The city shall determine and declare
+32 whether it requests the authority to undertake a financing of costs. Any
+33 such request shall be made by the mayor and approved by the legislature.
+34 Any such financing shall be consistent with the adopted budget and
+35 financial plan required under sections thirty-seven hundred sixty-six
+36 and thirty-seven hundred sixty-seven of this title, as applicable.
+37 2. Upon declaration by the city of such need, the mayor shall request
+38 that the authority provide financing in accordance with the provisions
+39 of this title.
+40 3. Upon approval by the authority, in its discretion in accordance
+41 with the provisions of this title, of such financing request, the
+42 authority may enter into agreements with the city, and the city, acting
+43 by the mayor, approved by the legislature, may enter into agreements
+44 with the authority in accordance with the provisions of this title as to
+45 the financing of costs by the authority, the application of tax revenues
+46 to the authority to secure its bonds, and further assurances in respect
+47 of the authority's receipt of such revenues and the fiscal affairs of
+48 the city, including but not limited to the manner of preparation of
+49 budget reports and financial plans as provided for in sections thirty-
+50 seven hundred sixty-six and thirty-seven hundred sixty-seven of this
+51 title, as applicable. The authority's revenues shall not be deemed funds
+52 of the city. Any such agreements may be pledged by the authority to
+53 secure its bonds and may not be modified thereafter except as provided
+54 by the terms of the pledge.
+55 4. Such agreements shall (a) describe the particular financeable costs
+56 to be financed in whole or in part by the authority, (b) describe the
+
+A. 8019--A 8
+1 plan for the financing of the costs, (c) set forth the method by which
+2 and by whom and the terms and conditions upon which money provided by
+3 the authority shall be disbursed to the city, (d) where appropriate,
+4 provide for the payment of such costs by the city under such contracts
+5 as shall be awarded by the city or for the city to make a capital
+6 contribution of such proceeds as city funds to another entity for the
+7 payment or reimbursement of such costs, and (e) require every contract
+8 entered into by the city, or another entity receiving funds from the
+9 city, for costs to be financed in whole or in part by the authority to
+10 be subject to the provisions of the city charter and other applicable
+11 laws governing contracts of the city or such entity, as the case may be.
+12 Nothing contained in this title shall relieve or modify the application
+13 to the city or any entity acting on behalf of the city or any covered
+14 organization of the requirements of law relating to (i) contracts for
+15 procurement, design, construction, services and materials, or (ii) the
+16 provisions of section two hundred twenty of the labor law, or (iii) the
+17 provisions of article five-A of the general municipal law.
+18 5. At least annually, commencing no more than one year after the date
+19 on which authority bonds are first issued, the mayor shall report to the
+20 authority, fiscal affairs officer, the legislature, the state comp-
+21 troller, the chairs of the senate finance committee and the assembly
+22 ways and means committee, and the director of the budget on the costs
+23 financed by the authority and the amount of such financing over the past
+24 year, which report shall describe, by reference to the specific items in
+25 the city's budget or financial plan, its compliance therewith.
+26 § 3756. Bonds of the authority. 1. (a) The authority shall have the
+27 power and is hereby authorized from time to time to issue bonds in such
+28 principal amounts as it may determine to be necessary pursuant to
+29 section thirty-seven hundred fifty-five of this title to pay any
+30 financeable costs and to fund reserves to secure such bonds, including
+31 incidental expenses in connection therewith. Provided, however, the
+32 aggregate principal amounts of such bonds issued to pay the financeable
+33 city costs described in paragraph (c) of subdivision twelve of section
+34 thirty-seven hundred fifty-one of this title, which resulted from
+35 certiorari proceedings commenced on or after June first, two thousand
+36 twenty-five, shall not exceed eight hundred million dollars in the
+37 aggregate, excluding bonds, notes, or other obligations issued to refund
+38 or otherwise repay bonds, notes, or other obligations theretofore issued
+39 for such purposes. Effective in the year two thousand thirty-one, upon
+40 request of the city, the authority shall issue, in the amount requested,
+41 bonds to pay tax certiorari settlements or judgments of any kind to
+42 which the city is a party, not to exceed fifteen million dollars; and
+43 effective in the year two thousand thirty-two, upon request of the city,
+44 the authority shall issue, in the amount requested, bonds to pay tax
+45 certiorari settlements or judgments of any kind to which the city is a
+46 party, not to exceed ten million dollars. Whenever this title estab-
+47 lishes a limit on the principal amount of bonds that the authority is
+48 authorized to issue, there shall not be counted against such limit (i)
+49 amounts determined by the authority as reasonable to be used to pay the
+50 cost of issuing such bonds, (ii) the amount of bonds that would consti-
+51 tute interest under the Internal Revenue Code of 1986, as amended, and
+52 (iii) amounts determined by the authority as necessary to establish any
+53 reserves.
+54 (b) The authority shall have the power from time to time to refund any
+55 bonds of the authority by the issuance of new bonds, whether the bonds
+56 to be refunded have or have not matured, and may issue bonds partly to
+
+A. 8019--A 9
+1 refund bonds of the authority then outstanding and partly to pay the
+2 financeable costs pursuant to section thirty-seven hundred fifty-five of
+3 this title. Bonds issued by the authority shall be payable solely out of
+4 particular revenues or other moneys of the authority as may be desig-
+5 nated in the proceedings of the authority under which the bonds shall be
+6 authorized to be issued, subject to any agreements entered into between
+7 the authority and the city, and subject to any agreements with the hold-
+8 ers of outstanding bonds pledging any particular revenues or moneys; but
+9 in no event shall transitional state aid be pledged as security for or
+10 be made available for the payment of bonds.
+11 2. The authority is authorized to issue its bonds for a period ending
+12 not later than December thirty-first, two thousand forty-six. The
+13 authority may issue bonds to refund bonds previously issued without
+14 regard to the limitation in the first sentence of this subdivision, but
+15 in no event shall any bonds of the authority finally mature later than
+16 January thirty-first, two thousand seventy-six. Notwithstanding any
+17 other provision of law, no bond of the authority shall mature more than
+18 thirty years from the date of its issue.
+19 3. Bonds of the authority may be issued, amortized, redeemed and
+20 refunded without regard to the provisions of the local finance law;
+21 provided, however, that the principal amount of outstanding bonds issued
+22 by the authority shall be deemed to be indebtedness of the city solely
+23 in ascertaining the amount of indebtedness the city may contract pursu-
+24 ant to the local finance law and the state constitution and the authori-
+25 ty shall not exceed such limitation.
+26 4. The directors may delegate to the chairperson or other director or
+27 officer of the authority the power to set the final terms of bonds.
+28 5. The authority in its sole discretion shall determine that the issu-
+29 ance of its bonds is appropriate. Bonds shall be authorized by resol-
+30 ution of the authority. Bonds shall bear interest at such fixed or
+31 variable rates and shall be in such denominations, be in such form,
+32 either coupon or registered, be sold at such public or private sale, be
+33 executed in such manner, be denominated in United States currency, be
+34 payable in such medium of payment, at such place and be subject to such
+35 terms of redemption as the authority may provide in such resolution. No
+36 bonds of the authority may be sold at private sale unless such sale and
+37 the terms thereof have been approved in writing by (a) the state comp-
+38 troller where such sale is not to the state comptroller, or (b) the
+39 director of the budget, where such sale is to the state comptroller.
+40 6. As a condition precedent to authorizing the issuance of any bonds
+41 hereunder, the authority may include in any agreement with the city such
+42 provisions as are deemed necessary and appropriate including express
+43 provisions regarding compliance with sections thirty-seven hundred
+44 sixty-six and thirty-seven hundred sixty-seven of this title, as appli-
+45 cable.
+46 7. Any resolution or resolutions authorizing bonds or any issue of
+47 bonds may contain provisions which may be a part of the contract with
+48 the holders of the bonds thereby authorized as to:
+49 (a) pledging all or part of the authority's revenues, together with
+50 any other moneys, securities or contracts, to secure the payment of the
+51 bonds, subject to such agreements with bondholders as may then exist;
+52 (b) the setting aside of reserves and the creation of sinking funds
+53 and the regulation and disposition thereof;
+54 (c) limitations on the purposes to which the proceeds from the sale of
+55 bonds may be applied;
+
+A. 8019--A 10
+1 (d) limitations on the issuance of additional bonds, the terms upon
+2 which additional bonds may be issued and secured and the refunding of
+3 bonds;
+4 (e) the procedure, if any, by which the terms of any contract with
+5 bondholders may be amended or abrogated, including the proportion of
+6 bondholders which must consent thereto and the manner in which such
+7 consent may be given;
+8 (f) vesting in a trustee or trustees such properties, rights, powers
+9 and duties in trust as the authority may determine, which may include
+10 any or all of the rights, powers and duties of the trustee appointed by
+11 the bondholders pursuant to section thirty-seven hundred sixty-four of
+12 this title and limiting or abrogating the rights of the bondholders to
+13 appoint a trustee under such section or limiting the rights, duties and
+14 powers of such trustee; and
+15 (g) defining the acts or omissions to act which may constitute a
+16 default in the obligations and duties of the authority to the bondhold-
+17 ers and providing for the rights and remedies of the bondholders in the
+18 event of such default, including as a matter of right the appointment of
+19 a receiver; provided, however, that such acts or omissions to act which
+20 may constitute a default and such rights and remedies shall not be
+21 inconsistent with the general laws of the state and other provisions of
+22 this title.
+23 8. In addition to the powers herein conferred upon the authority to
+24 secure its bonds, the authority shall have power in connection with the
+25 issuance of bonds to enter into such agreements for the benefit of the
+26 bondholders as the authority may deem necessary, convenient or desirable
+27 concerning the use or disposition of its revenues or other moneys,
+28 including the entrusting, pledging or creation of any other security
+29 interest in any such revenues, moneys and the doing of any act, includ-
+30 ing refraining from doing any act, which the authority would have the
+31 right to do in the absence of such agreements. The authority shall have
+32 power to enter into amendments of any such agreements within the powers
+33 granted to the authority by this title and to perform such agreements.
+34 The provisions of any such agreements may be made a part of the contract
+35 with the holders of bonds of the authority.
+36 9. Notwithstanding any provision of the uniform commercial code to the
+37 contrary, any pledge of or other security interest in revenues, moneys,
+38 accounts, contract rights, general intangibles or other personal proper-
+39 ty made or created by the authority shall be valid, binding and
+40 perfected from the time when such pledge is made or other security
+41 interest attaches without any physical delivery of the collateral or
+42 further act, and the lien of any such pledge or other security interest
+43 shall be valid, binding and perfected against all parties having claims
+44 of any kind in tort, contract or otherwise against the authority irre-
+45 spective of whether such parties have notice thereof. No instrument by
+46 which such a pledge or security interest is created nor any financing
+47 statement need be recorded or filed.
+48 10. Whether or not the bonds of the authority are of such form and
+49 character as to be negotiable instruments under the terms of the uniform
+50 commercial code, the bonds are hereby made negotiable instruments within
+51 the meaning of and for all the purposes of the uniform commercial code,
+52 subject only to the provisions of the bonds for registration.
+53 11. Neither the directors of the authority nor any person executing
+54 bonds shall be liable personally thereon or be subject to any personal
+55 liability or accountability solely by reason of the issuance thereof.
+56 The bonds or other obligations of the authority shall not be a debt of
+
+A. 8019--A 11
+1 either the state or the city, and neither the state nor the city shall
+2 be liable thereon, nor shall they be payable out of any funds other than
+3 those of the authority; and such bonds shall contain on the face thereof
+4 a statement to such effect.
+5 12. The authority, subject to such agreements with bondholders as then
+6 may exist, shall have power to purchase bonds of the authority out of
+7 any moneys available therefor, which shall thereupon be cancelled.
+8 § 3757. Resources of the authority. 1. Subject to the provisions of
+9 this title, the directors of the authority shall receive, accept,
+10 invest, administer, expend and disburse for its corporate purposes all
+11 money of the authority from whatever sources derived including (a) tax
+12 revenues; (b) the proceeds of bonds; and (c) any other payments, gifts
+13 or appropriations to the authority from any other source.
+14 2. Subject to the provisions of any contract with bondholders, (a) the
+15 money of the authority shall be paid to the authority and shall not be
+16 commingled with any other money, and (b) all money received by the
+17 authority which, together with other money of the authority available
+18 for the expenses of the authority, the payment of debt service and
+19 payments to reserve funds, exceeds the amount required for such
+20 purposes, as determined by the authority, shall, subject to the
+21 provisions of subdivision six of this section and to the terms of any
+22 agreement between the authority and the city, be transferred to the city
+23 as frequently as practicable.
+24 3. The money in any of the authority's accounts shall be paid out on
+25 checks signed by the treasurer of the authority, or by other lawful and
+26 appropriate means such as wire or electronic transfer, on requisitions
+27 of the chairperson of the authority or of such other officer as the
+28 directors shall authorize to make such requisition, or pursuant to a
+29 bond resolution or trust indenture.
+30 4. All deposits of authority money shall be secured by obligations of
+31 the United States or of the state or of the city at a market value at
+32 least equal at all times to the amount of the deposit, and all banks and
+33 trust companies are authorized to give such security for such deposits.
+34 The authority shall have the power, notwithstanding the provisions of
+35 this section, to contract with the holders of any of its bonds as to the
+36 custody, collection, securing, investment and payment of any money of
+37 the authority or any money held in trust or otherwise for the payment of
+38 bonds or in any way to secure bonds, and to carry out any such contract
+39 notwithstanding that such contract may be inconsistent with the other
+40 provisions of this title. Money held in trust or otherwise for the
+41 payment of bonds or in any way to secure bonds and deposits of such
+42 money may be secured in the same manner as money of the authority, and
+43 all banks and trust companies are authorized to give such security for
+44 such deposits.
+45 5. Tax revenues received by the authority pursuant to section twelve
+46 hundred sixty-one of the tax law, together with any other revenues
+47 received by the authority, shall be applied in the following order of
+48 priority: first pursuant to the authority's contracts with bondholders,
+49 then to pay the authority's operating expenses not otherwise provided
+50 for, and then, subject to the authority's agreements with the city, to
+51 transfer the balance of such tax revenues not required to meet contrac-
+52 tual or other obligations of the authority to the city as frequently as
+53 practicable.
+54 6. (a) This subdivision shall apply only to revenue anticipation
+55 notes, including renewals thereof, issued by the city during its fiscal
+56 year ending December thirty-first, two thousand twenty-five, in antic-
+
+A. 8019--A 12
+1 ipation of the receipt of city tax revenues, and only to such issues of
+2 revenue anticipation notes as to which the certificate described in
+3 paragraph (b) of this subdivision is filed.
+4 (b) Notwithstanding the provisions of subdivision five of this section
+5 with respect to the transfer of the balance of tax revenues to the city,
+6 prior to the delivery of each such issue of revenue anticipation notes,
+7 the chief fiscal officer of the city shall file with the authority a
+8 request that the authority establish a city of Dunkirk revenue antic-
+9 ipation note withholding fund which shall constitute a special bank
+10 account for purposes of paragraph g of section 25.00 of the local
+11 finance law. Such request by such chief fiscal officer shall be accompa-
+12 nied by a certificate setting forth with respect to such issue (i) the
+13 principal amount, (ii) the date of issue, (iii) the maturity date, (iv)
+14 the interest rate or rates, (v) if interest shall be payable otherwise
+15 than at maturity, the date or dates for the payment thereof, (vi) the
+16 name and address of the paying agent, (vii) the name and address of each
+17 purchaser, or, if a purchaser shall be a syndicate or similar account,
+18 the name and address of each managing underwriter of such syndicate or
+19 similar account, (viii) the amount payable on each principal payment
+20 date and interest payment date, and (ix) a schedule setting forth the
+21 total amount of city tax revenues anticipated to be received, and the
+22 expected date or dates of anticipated receipt of such city tax revenues.
+23 Such certificate shall be accompanied by a statement executed by the
+24 chief fiscal officer certifying that the amounts and times of payments
+25 of city tax revenues contained in such schedule have been estimated by
+26 the use of reasonable and appropriate data and methods of estimation,
+27 all in accordance with applicable law.
+28 (c) All such revenue anticipation notes, in addition to a pledge of
+29 the faith and credit of the city for the payment thereof, shall contain
+30 a recital to the effect that they are entitled to the benefits of the
+31 provisions of this subdivision.
+32 (d) Commencing on the date not less than five days prior to and on
+33 each day thereafter up to and including any principal and/or interest
+34 payment date referred to in the certificate filed by the chief fiscal
+35 officer with the authority pursuant to paragraph (b) of this subdivi-
+36 sion, the authority shall pay to such paying agent from city tax reven-
+37 ues transferred and credited by the authority to the city of Dunkirk
+38 revenue anticipation note withholding fund as provided in paragraph (e)
+39 of this subdivision the amount required to pay in full the principal
+40 and/or interest due on such payment date as set forth in such certif-
+41 icate. Moneys so paid shall pass immediately from the authority and vest
+42 in such paying agent in trust for the benefit of the holders of the
+43 revenue anticipation notes to which such certificate relates. No other
+44 person having any claim of any kind in tort, contract or otherwise
+45 against the city shall have any right to or claim against the moneys
+46 held by such paying agent, and such moneys shall not be subject to any
+47 order, judgment, lien, execution, attachment, setoff or counterclaim by
+48 any such other person. Such moneys shall be held by such paying agent in
+49 a separate trust account and shall be applied only to the payment of the
+50 principal and/or interest due on such revenue anticipation notes,
+51 provided, however, that the contract by and between the city and such
+52 paying agent may provide for (i) the investment by such paying agent of
+53 such moneys in direct obligations of, or in obligations guaranteed by,
+54 the United States of America, provided such obligations shall be payable
+55 or redeemable at the option of the holder within such time as the
+56 proceeds shall be needed to pay such principal and/or interest due on
+
+A. 8019--A 13
+1 such revenue anticipation notes, and (ii) the use by such paying agent
+2 of such moneys for the purchase of direct obligations of, or obligations
+3 guaranteed by, the United States of America under one or more repurchase
+4 agreements with any bank or trust company having its principal office in
+5 the state of New York, provided that any such repurchase agreement shall
+6 provide for the repurchase of such obligations within such time as such
+7 moneys are needed to pay the principal and/or interest due on such
+8 revenue anticipation notes at a repurchase price at least sufficient to
+9 make the amount so invested available for the payment of principal
+10 and/or interest due on such revenue anticipation notes, and provided,
+11 further, that, at the time of such purchase, the market value of such
+12 obligations shall be at least equal to one hundred two per centum of the
+13 amount so invested. No person having any claim of any kind in tort,
+14 contract or otherwise against the city shall have any right to or claim
+15 against any moneys in anticipation of which such notes have been issued,
+16 other than a claim for payment by the holders of such notes, and such
+17 moneys shall not be subject to any order, judgment, lien, execution,
+18 attachment, setoff or counterclaim by any such person. Notwithstanding
+19 any provision of law to the contrary, no instrument relating to any
+20 transaction authorized or contemplated by this paragraph need be filed
+21 under the provisions of the uniform commercial code.
+22 (e) Commencing on the day when the authority determines that the prin-
+23 cipal and interest due or to come due on such outstanding revenue antic-
+24 ipation notes issued against such city tax revenues in accordance with
+25 the provisions of this subdivision shall equal the amount of such city
+26 tax revenues as set forth on the schedule included in the certificate
+27 filed with the authority pursuant to paragraph (b) of this subdivision
+28 remaining to be paid to the city on or prior to any principal and/or
+29 interest payment date, the authority shall deduct and withhold from the
+30 amount of such city tax revenues otherwise payable to the city an amount
+31 sufficient to pay, when due, the principal of and interest on all such
+32 revenue anticipation notes issued and then outstanding in anticipation
+33 thereof. Amounts so deducted and withheld shall be transferred and cred-
+34 ited by the authority to the account established for such city tax
+35 revenues in the city of Dunkirk revenue anticipation note withholding
+36 fund established by the authority in accordance with the chief fiscal
+37 officer's request pursuant to paragraph (b) of this subdivision. The
+38 payments required to be made by the authority pursuant to paragraph (d)
+39 of this subdivision shall be made from amounts on deposit in the
+40 accounts established for such city tax revenues in the city of Dunkirk
+41 revenue anticipation note withholding fund.
+42 (f) Notwithstanding any other provision of this subdivision, at the
+43 expiration of one hundred eighty days after the maturity date of any
+44 issue of revenue anticipation notes issued in accordance with the
+45 provisions of this subdivision, the amounts held by the paying agent
+46 thereof for the payment of the principal of and interest on the notes of
+47 such issue which have not been presented for payment shall be paid over
+48 and remitted by such paying agent to the city and thereafter the holders
+49 of such notes shall look only to the city for such payment.
+50 (g) All other provisions of the local finance law not inconsistent
+51 with the provisions of this subdivision shall continue to apply to the
+52 authorization and issuance of revenue anticipation notes by the city.
+53 § 3758. Agreement with the state. The state does hereby pledge to and
+54 agree with the holders of any issue of bonds issued by the authority
+55 pursuant to this title and secured by such a pledge that the state will
+56 not limit, alter or impair the rights hereby vested in the authority to
+
+A. 8019--A 14
+1 fulfill the terms of any agreements made with such holders pursuant to
+2 this title, or in any way impair the rights and remedies of such holders
+3 or the security for such bonds until such bonds, together with the
+4 interest thereon and all costs and expenses in connection with any
+5 action or proceeding by or on behalf of such holders, are fully paid and
+6 discharged. The authority is authorized to include this pledge and
+7 agreement of the state in any agreement with the holders of such bonds.
+8 Nothing contained in this title shall be deemed to restrict the right of
+9 the state to amend, modify, repeal or otherwise alter statutes imposing
+10 or relating to taxes or fees, or appropriations relating thereto. The
+11 authority shall not include within any resolution, contract or agreement
+12 with holders of the bonds issued under this title any provision which
+13 provides that a default occurs as a result of the state exercising its
+14 right to amend, repeal, modify or otherwise alter such taxes, fees, or
+15 appropriations. Nothing in this title shall be deemed to obligate the
+16 state to make any payments or impose any taxes to satisfy the debt
+17 service obligations of the authority.
+18 § 3759. Agreement with the city. The city is authorized to pledge to
+19 and agree with the holders of any issue of bonds issued by the authority
+20 pursuant to this title and secured by such a pledge that the city will
+21 not limit, alter or impair the rights hereby vested in the authority to
+22 fulfill the terms of any agreements made with such holders pursuant to
+23 this title, or in any way impair the rights and remedies of such holders
+24 or the security for such bonds until such bonds, together with the
+25 interest thereon and all costs and expenses in connection with any
+26 action or proceeding by or on behalf of such holders, are fully paid and
+27 discharged. Nothing contained in this title shall be deemed to restrict
+28 any right of the city to amend, modify or otherwise alter local laws,
+29 ordinances or resolutions imposing or relating to the taxes imposed
+30 pursuant to the authority of article twenty-nine of the tax law or other
+31 taxes or fees or appropriations related to any such taxes or fees, so
+32 long as, after giving effect to such amendment, modification or other
+33 alteration, the amount of tax revenues projected by the authority to be
+34 available during each of its fiscal years following the effective date
+35 of such amendment, modification or other alteration shall be not less
+36 than two hundred percent of maximum annual debt service on authority
+37 bonds then outstanding. Subject to the foregoing sentence, the authority
+38 shall not include in any resolution, contract or agreement with the
+39 holders of its bonds any provision which provides that a default occurs
+40 as a result of the city exercising its right to amend, modify, or other-
+41 wise alter such taxes imposed pursuant to the authority of article twen-
+42 ty-nine of the tax law or other taxes or fees. Nothing in this title
+43 shall be deemed to obligate the city to make additional payments or
+44 impose taxes other than those imposed pursuant to the authority of para-
+45 graph one of subdivision (a) of section twelve hundred ten of the tax
+46 law to satisfy the debt service obligations of the authority.
+47 § 3760. Bonds legal for investment and deposit. The bonds of the
+48 authority are hereby made securities in which all public officers and
+49 bodies of the state and all public corporations, municipalities and
+50 municipal subdivisions, all insurance companies and associations and
+51 other persons carrying on an insurance business, all banks, bankers,
+52 trust companies, savings banks and savings associations including
+53 savings and loan associations, building and loan associations, invest-
+54 ment companies and other persons carrying on a banking business, all
+55 administrators, conservators, guardians, executors, trustees and other
+56 fiduciaries, and all other persons whatsoever who are now or may here-
+
+A. 8019--A 15
+1 after be authorized to invest in bonds or in other obligations of the
+2 state, may properly and legally invest funds, including capital, in
+3 their control or belonging to them. The bonds are also hereby made secu-
+4 rities which may be deposited with and may be received by all public
+5 officers and bodies of the state and all municipalities and public
+6 corporations for any purpose for which the deposit of bonds or other
+7 obligations of the state is now or may hereafter be authorized.
+8 § 3761. Tax exemption and tax contract by the state. 1. It is hereby
+9 determined that the creation of the authority and the carrying out of
+10 its corporate purposes are in all respects for the benefit of the people
+11 of the state of New York and are public purposes. Accordingly, the
+12 authority shall be regarded as performing an essential governmental
+13 function in the exercise of the powers conferred upon it by this title.
+14 The property of the authority, its income and its operations shall be
+15 exempt from taxation, assessments, special assessments and ad valorem
+16 levies. The authority shall not be required to pay any fees, taxes,
+17 special ad valorem levies or assessments of any kind, whether state or
+18 local, including, but not limited to, fees, taxes, special ad valorem
+19 levies or assessments on real property, franchise taxes, sales taxes or
+20 other taxes, upon or with respect to any property owned by it or under
+21 its jurisdiction, control or supervision, or upon the uses thereof, or
+22 upon or with respect to its activities or operations in furtherance of
+23 the powers conferred upon it by this title, or upon or with respect to
+24 any fares, tolls, rentals, rates, charges, fees, revenues or other
+25 income received by the authority.
+26 2. Any bonds issued pursuant to this title, their transfer and the
+27 income therefrom shall, at all times, be exempt from taxation.
+28 3. The state hereby covenants with the purchasers and with all subse-
+29 quent holders and transferees of bonds issued by the authority pursuant
+30 to this title, in consideration of the acceptance of and payment for the
+31 bonds, that the bonds of the authority issued pursuant to this title and
+32 the income therefrom and all revenues, moneys, and other property
+33 pledged to pay or to secure the payment of such bonds shall at all times
+34 be exempt from taxation.
+35 § 3762. Actions against the authority. 1. Except in an action for
+36 wrongful death, no action or proceeding shall be prosecuted or main-
+37 tained against the authority for personal injury or damage to real or
+38 personal property alleged to have been sustained by reason of the negli-
+39 gence or wrongful act of the authority or of any director, officer,
+40 agent or employee thereof, unless (a) it shall appear by and as an alle-
+41 gation in the complaint or moving papers that a notice of claim shall
+42 have been made and served upon the authority, within the time limit
+43 prescribed by and in compliance with section fifty-e of the general
+44 municipal law, (b) it shall appear by and as an allegation in the
+45 complaint or moving papers that at least thirty days have elapsed since
+46 the service of such notice and that adjustment or payment thereof has
+47 been neglected or refused, and (c) the action or proceeding shall be
+48 commenced within one year after the happening of the event upon which
+49 the claim is based. An action against the authority for wrongful death
+50 shall be commenced in accordance with the notice of claim and time limi-
+51 tation provisions of title eleven of article nine of this chapter.
+52 2. Wherever a notice of claim is served upon the authority, it shall
+53 have the right to demand an examination of the claimant relative to the
+54 occurrence and extent of the injuries or damages for which claim is
+55 made, in accordance with the provisions of section fifty-h of the gener-
+56 al municipal law.
+
+A. 8019--A 16
+1 3. The authority may require any person presenting for settlement an
+2 account or claim for any cause whatever against the authority to be
+3 sworn before a director, counsel or an attorney, officer or employee
+4 thereof designated for such purpose, concerning such account or claim
+5 and when so sworn, to answer orally as to any facts relative to such
+6 account or claim. The authority shall have power to settle or adjust any
+7 claims in favor of or against the authority.
+8 4. The rate of interest to be paid by the authority upon any judgment
+9 for which it is liable, other than a judgment on bonds, shall not exceed
+10 the maximum rate of interest on judgments and accrued claims against
+11 municipal authorities as provided in the general municipal law. Interest
+12 on payments of principal or interest on any bonds in default shall
+13 accrue at the rate specified in the general municipal law until paid or
+14 otherwise satisfied.
+15 5. The venue of every action, suit or special proceeding brought
+16 against the authority shall be laid in the Dunkirk city court.
+17 6. Neither any director of the authority nor any officer, employee, or
+18 agent of the authority, while acting within the scope of their authori-
+19 ty, shall be subject to any liability resulting from exercising or
+20 carrying out any of the powers given in this title.
+21 7. (a) The state shall save harmless and indemnify directors, officers
+22 and employees of and representatives to the authority, all of whom shall
+23 be deemed officers and employees of the state for purposes of section
+24 seventeen of the public officers law, against any claim, demand, suit,
+25 or judgment arising by reason of any act or omission to act by such
+26 director, officer, employee or representative occurring in the discharge
+27 of their duties and within the scope of their service on behalf of the
+28 authority including any claim, demand, suit or judgment based on allega-
+29 tions that financial loss was sustained by any person in connection with
+30 the acquisition, disposition or holding of securities or other obli-
+31 gations. In the event of any such claim, demand, suit or judgment, a
+32 director, officer or employee of or representative to the authority
+33 shall be saved harmless and indemnified, notwithstanding the limitations
+34 of subdivision one of section seventeen of the public officers law,
+35 unless such individual is found by a final judicial determination not to
+36 have acted, in good faith, for a purpose which such individual reason-
+37 ably believed to be in the best interest of the authority or not to have
+38 had reasonable cause to believe that such individual's conduct was
+39 lawful.
+40 (b) In connection with any such claim, demand, suit, or judgment, any
+41 director, officer or employee of or representative to the authority
+42 shall be entitled to representation by private counsel of their choice
+43 in any civil judicial proceeding whenever the attorney general deter-
+44 mines based upon the attorney general's investigation and review of the
+45 facts and circumstances of the case that representation by the attorney
+46 general would be inappropriate. The attorney general shall notify the
+47 individual in writing of such determination that the individual is enti-
+48 tled to be represented by private counsel. The attorney general may
+49 require, as a condition to payment of the fees and expenses of such
+50 representative, that appropriate groups of such individuals be repres-
+51 ented by the same counsel. If the individual or groups of individuals is
+52 entitled to representation by private counsel under the provisions of
+53 this section, the attorney general shall so certify to the state comp-
+54 troller. Reasonable attorneys' fees and litigation expenses shall be
+55 paid by the state to such private counsel from time to time during the
+56 pendency of the civil action or proceeding, subject to certification
+
+A. 8019--A 17
+1 that the individual is entitled to representation under the terms and
+2 conditions of this section by the authority, upon the audit and warrant
+3 of the state comptroller. The provisions of this subdivision shall be in
+4 addition to and shall not supplant any indemnification or other benefits
+5 heretofore or hereafter conferred upon directors, officers, or employees
+6 of and representatives to the authority by section seventeen of the
+7 public officers law, by action of the authority or otherwise. The
+8 provisions of this subdivision shall inure only to directors, officers
+9 and employees of and representatives to the authority, shall not enlarge
+10 or diminish the rights of any other party, and shall not impair, limit
+11 or modify the rights and obligations of any insurer under any policy of
+12 insurance.
+13 § 3763. Audits. 1. The accounts of the authority shall be subject to
+14 the audit of the fiscal affairs officer and the state comptroller. In
+15 addition, the authority shall be subject to an annual financial audit
+16 performed by an independent certified accountant selected by the author-
+17 ity. Such audit report shall be submitted to the mayor, the presiding
+18 officer, the fiscal affairs officer, the governor, the state comp-
+19 troller, the chair and ranking minority member of the senate finance
+20 committee and the chair and ranking minority member of the assembly ways
+21 and means committee.
+22 2. For each fiscal year during the existence of the authority, and
+23 within one hundred twenty days after the close of the city's fiscal
+24 year, the city shall submit its audited financial statements to the
+25 authority.
+26 § 3764. Remedies of bondholders. Subject to any resolution or resol-
+27 utions adopted pursuant to paragraph (f) of subdivision seven of section
+28 thirty-seven hundred fifty-six of this title:
+29 1. In the event that the authority shall default in the payment of
+30 principal of or interest on any issue of bonds after the same shall
+31 become due, whether at maturity or upon call for redemption, and such
+32 default shall continue for a period of thirty days, or shall default in
+33 any agreement made with the holders of any issue of bonds, the holders
+34 of at least twenty-five per centum in aggregate principal amount of the
+35 bonds of such issue then outstanding, by instrument or instruments filed
+36 in the office of the clerk of the city and proved or acknowledged in the
+37 same manner as a deed to be recorded, may appoint a trustee to represent
+38 the holders of such bonds for the purpose provided in this section.
+39 2. Such trustee may, and upon written request of the holders of at
+40 least twenty-five per centum in principal amount of such bonds outstand-
+41 ing shall, in their own name:
+42 (a) by action or proceeding in accordance with the civil practice law
+43 and rules, enforce all rights of the bondholders and require the author-
+44 ity to carry out any other agreements with the holders of such bonds and
+45 to perform its duties under this title;
+46 (b) bring an action or proceeding upon such bonds;
+47 (c) by action or proceeding, require the authority to account as if it
+48 were the trustee of an express trust for the holder of such bonds; and
+49 (d) by action or proceeding, enjoin any acts or things which may be
+50 unlawful or in violation of the rights of the holders of such bonds.
+51 3. Such trustee shall, in addition to the provisions of subdivisions
+52 one and two of this section, have and possess all of the powers neces-
+53 sary or appropriate for the exercise of any functions specifically set
+54 forth in this section or incident to the general representation of bond-
+55 holders in the enforcement and protection of their rights.
+
+A. 8019--A 18
+1 4. The supreme court shall have jurisdiction of any action or proceed-
+2 ing by the trustee on behalf of such bondholders.
+3 § 3765. Assistance to the authority; employees of the authority. 1.
+4 With the consent of any public corporation, the authority may use
+5 agents, employees and facilities thereof, paying to such public corpo-
+6 ration its agreed proportion of the compensation or costs.
+7 2. Officers and employees of state or city agencies may be transferred
+8 to the authority without examination and without loss of any civil
+9 service or retirement status or rights. Any officer or employee of the
+10 authority who heretofore acquired or shall hereafter acquire such posi-
+11 tion status by transfer and who at the time of such transfer was a
+12 member of the New York state and local employees' retirement system
+13 shall continue to be a member of such system as long as such officer or
+14 employee continues in such service, and shall continue to have all the
+15 rights, privileges and obligations of membership in such system.
+16 § 3766. 2025 fiscal year budget modification. 1. The control period as
+17 set forth in section thirty-seven hundred sixty-nine of this title shall
+18 be instituted on June thirtieth, two thousand twenty-five, unless prior
+19 to such date (a) the mayor, after approval by the legislature, shall
+20 have submitted to the authority a modification to the city's budget for
+21 the two thousand twenty-five fiscal year, as in effect on May tenth, two
+22 thousand twenty-five; and (b) the authority shall have determined that
+23 such modification when implemented will ensure a reduction of the
+24 projected gap, through recurring or nonrecurring actions, for the two
+25 thousand twenty-five fiscal year and, together with any budget modifica-
+26 tions prior to May tenth, two thousand twenty-five, through recurring
+27 actions, for the three next succeeding fiscal years, in an amount not
+28 less than fifty million dollars per year.
+29 2. In order that such budget modification be effective on or before
+30 June thirtieth, two thousand twenty-five, the mayor shall within seven
+31 days following the effective date of this title submit a proposed
+32 modification to the legislature. Within seven days thereafter, the
+33 legislature shall approve such modification or a substitute modifica-
+34 tion. Upon approval by the legislature, the mayor shall submit such
+35 modification to the authority. Not later than ten days after such budget
+36 modification shall have been submitted to the authority, the authority
+37 shall approve or disapprove such modification, provided that the author-
+38 ity may approve such modification only upon its determination that such
+39 modification when implemented will ensure such reduction of the project-
+40 ed gap for each fiscal year as required by subdivision one of this
+41 section.
+42 3. In the event the authority shall disapprove such budget modifica-
+43 tion based on disapproval of certain actions or assumptions, the author-
+44 ity shall promptly thereafter notify the mayor of its reasons. The mayor
+45 shall thereafter, after approval by the legislature, resubmit a budget
+46 modification, based on actions or assumptions other than those that have
+47 been disapproved by the authority, for consideration by the authority
+48 and in sufficient time for the authority to have a seven day review
+49 period prior to June thirtieth, two thousand twenty-five.
+50 § 3767. City financial plans. 1. (a)(i) The mayor shall prepare and
+51 submit to the authority a four-year financial plan, initially for the
+52 fiscal years ending December thirty-first, two thousand twenty-six
+53 through two thousand twenty-nine, together with the proposed budget for
+54 the fiscal year ending on December thirty-first, two thousand twenty-
+55 six, not later than the date required for submission of such budget to
+56 the legislature pursuant to the city charter. Such financial plan shall,
+
+A. 8019--A 19
+1 in addition to the requirements for financial plans set forth in subdi-
+2 visions two and three of this section, contain actions sufficient to
+3 ensure with respect to the major operating funds for each fiscal year of
+4 the plan that annual aggregate operating expenses for such fiscal year
+5 shall not exceed annual aggregate operating revenues for such fiscal
+6 year. For purposes of determining operating revenues in the fiscal years
+7 ending December thirty-first, two thousand twenty-six through two thou-
+8 sand thirty-two, such plan may assume (A) borrowings by the city or the
+9 authority to finance tax certiorari judgments or settlements in annual
+10 amounts not exceeding one hundred million dollars, or, in the aggregate
+11 for all such years, four hundred million dollars; however, of said four
+12 hundred million dollars, no more than fifteen million dollars may be
+13 counted as operating revenue in the fiscal year two thousand thirty-one
+14 and no more than ten million dollars may be counted as operating revenue
+15 in fiscal year two thousand thirty-two, and (B) receipt by the city of
+16 NCIFA assistance and transitional state aid in the following collective
+17 amounts for each respective fiscal year:
+18 Amount Fiscal Year
+19 2026 amount 2026
+20 2027 amount 2027
+21 2028 amount 2028
+22 2029 amount 2029.
+23 (ii) The one hundred million dollars annual limit on assumed tax
+24 certiorari borrowings may be waived by the authority respecting any
+25 fiscal year, upon its determination that the results of any increased
+26 and accelerated settlement or litigation efforts by the city justify
+27 such waiver.
+28 (b) As used in this subdivision:
+29 (i) "2026 amount" means that amount expected to be provided by the
+30 authority to ensure balanced major operating fund operations upon its
+31 determination that the city has taken recurring actions to close between
+32 thirty-five per centum and forty per centum of the projected gap.
+33 (ii) "2027 amount" means that amount expected to be provided by the
+34 authority to ensure balanced major operating fund operations upon its
+35 determination that the city has taken recurring actions to close between
+36 forty-five per centum and fifty per centum of the projected gap.
+37 (iii) "2028 amount" means that amount expected to be provided by the
+38 authority to ensure balanced major operating fund operations upon its
+39 determination that the city has taken recurring actions to close between
+40 sixty per centum and sixty-five per centum of the projected gap.
+41 (iv) "2029 amount" means that amount expected to be provided by the
+42 authority to ensure balanced major operating fund operations upon its
+43 determination that the city has taken recurring actions to close between
+44 eighty per centum and eighty-five per centum of the projected gap.
+45 2. Pursuant to the procedures contained in this subdivision, each year
+46 during the interim finance period or during a control period the city
+47 shall develop, and may from time to time modify, taking into account
+48 recommendations of the authority, a four year financial plan covering
+49 the city and the covered organizations. Each such financial plan and
+50 financial plan modification shall conform to the requirements of para-
+51 graph (a) of this subdivision and shall provide that the major operating
+52 funds of the city will be balanced in accordance with generally accepted
+53 accounting principles. The financial plan shall be developed and
+
+A. 8019--A 20
+1 approved, and may from time to time be modified, in accordance with the
+2 following procedures:
+3 (a) The mayor shall prepare and submit to the authority and the legis-
+4 lature a revised financial plan covering the four year period beginning
+5 with the ensuing fiscal year, together with the proposed budget for the
+6 ensuing fiscal year, not later than the date required for submission of
+7 such budget pursuant to the city charter. On such dates, the mayor shall
+8 also submit to the authority a certificate stating that such budget is
+9 consistent with the financial plan submitted therewith and that opera-
+10 tion within the budget is feasible.
+11 (b) Not more than twenty days after submission of a financial plan or
+12 more than fifteen days after submission of a financial plan modifica-
+13 tion, the authority shall determine whether the financial plan or finan-
+14 cial plan modification is complete and complies with the provisions of
+15 section thirty-seven hundred sixty-six and this section and the other
+16 requirements of this title, and shall submit its recommendations with
+17 respect to the financial plan or financial plan modification in accord-
+18 ance with the provisions of this subdivision.
+19 (c) Upon the approval by the city of a budget in accordance with the
+20 provisions of the city charter and approval of the financial plan by the
+21 legislature, the mayor shall submit such approved budget and financial
+22 plan to the authority accompanied by expenditure, revenue and cash flow
+23 projections on a quarterly basis and certify to the authority that such
+24 budget is consistent with the financial plan to be submitted to the
+25 authority.
+26 (d) If the authority determines that the financial plan or financial
+27 plan modification provided pursuant to paragraph (c) or (f) of this
+28 subdivision is complete and complies with the standards set forth in
+29 this subdivision, the authority shall make a certification to the city
+30 setting forth revenue estimates agreed to by the authority in accordance
+31 with such determination.
+32 (e) The authority shall, in the event it disagrees with elements of
+33 the financial plan provided pursuant to paragraph (c) or (f) of this
+34 subdivision, provide notice thereof to the mayor, the legislature and
+35 the fiscal affairs officer, with copies to the director of the budget,
+36 the state comptroller, the chair of the assembly ways and means commit-
+37 tee and the chair of the senate finance committee, if, in the judgment
+38 of the authority, such plan:
+39 (i) is incomplete;
+40 (ii) fails to contain projections of revenues and expenditures that
+41 are based on reasonable and appropriate assumptions and methods of esti-
+42 mation;
+43 (iii) fails to provide that operations of the city and the covered
+44 organizations will be conducted within the cash resources available
+45 according to the authority's revenue estimates; or
+46 (iv) fails to comply with the provisions of this title or other
+47 requirements of law.
+48 (f) After the initial adoption of an approved financial plan, the
+49 revenue estimates certified by the authority and the financial plan
+50 shall be regularly reexamined by the authority in consultation with the
+51 city and the covered organizations and the mayor shall provide a modi-
+52 fied financial plan in such detail and within such time periods as the
+53 authority may require. In the event of reductions in such revenue esti-
+54 mates, or in the event the city or a covered organization shall expend
+55 funds at a rate that would exceed the aggregate expenditure limitation
+56 for the city or covered organization prior to the expiration of the
+
+A. 8019--A 21
+1 fiscal year, the mayor shall submit a financial plan modification to
+2 effect such adjustments in revenue estimates and reductions in total
+3 expenditures as may be necessary to conform to such revised revenue
+4 estimates or aggregate expenditure limitations.
+5 (g) If, within a time period specified by the authority, the city
+6 fails to make such modifications after reductions in revenue estimates,
+7 or to provide a modified plan in detail and within such time period
+8 required by the authority, the authority shall adopt a resolution so
+9 finding.
+10 (h) The city shall amend its budget or shall submit a financial plan
+11 modification for the approval of the authority such that the city's
+12 budget and the approved financial plan shall be consistent. In no event
+13 shall the city operate under a budget that is inconsistent with an
+14 approved financial plan.
+15 3. The financial plan shall be in such form and shall contain such
+16 information for each year during which the financial plan is in effect
+17 as the authority may specify, and shall include the city and all the
+18 covered organizations, and shall, in such detail as the authority from
+19 time to time may prescribe, include (a) statements of all estimated
+20 revenues and of all expenditures and cash flow projections of the city
+21 and each of the covered organizations, (b) a report on the status of
+22 efforts to reform and streamline the tax certiorari claims process and
+23 eliminate the need in each year of the plan for the city to borrow to
+24 finance such claims or judgments, including an accounting of the expend-
+25 iture of any transitional state aid for such purposes, and (c) an
+26 accounting of the expenditure of any remaining transitional state aid
+27 available to the city for each year of the plan.
+28 4. The financial plan shall include any information which the authori-
+29 ty may request to satisfy itself that (a) projected employment levels,
+30 collective bargaining agreements and other actions relating to employee
+31 costs, capital construction and such other matters as the authority may
+32 specify are consistent with the provisions made for such obligations in
+33 the financial plan, (b) the city and the covered organizations are
+34 taking whatever action is necessary with respect to programs mandated by
+35 state and federal law to ensure that expenditures for such programs are
+36 limited to and covered by the expenditures stated in the financial plan,
+37 (c) adequate reserves are provided to maintain essential programs in the
+38 event revenues have been overestimated or expenditures underestimated
+39 for any period, and (d) the city has adequate cash resources to meet its
+40 obligations. In addition, except to the extent such reporting require-
+41 ments may be modified pursuant to agreement between the authority and
+42 the city, for each fiscal year occurring during the interim finance
+43 period or while bonds issued pursuant to this title are outstanding, the
+44 mayor shall prepare a quarterly report of summarized budget data depict-
+45 ing overall trends of actual revenues and budget expenditures for the
+46 entire budget rather than individual line items and updated quarterly
+47 cash flow projections of receipts and disbursements. Such reports shall
+48 compare revenue estimates and appropriations as set forth in such budget
+49 and in the quarterly revenue and expenditure projections submitted ther-
+50 ewith with the actual revenues and expenditures made to date. Such
+51 reports shall also compare actual receipts and disbursements with the
+52 estimates contained in the cash flow projections, together with vari-
+53 ances and their explanation. All quarterly reports shall be accompanied
+54 by recommendations from the mayor to the legislature setting forth any
+55 remedial action necessary to resolve any unfavorable budget variance
+56 including the overestimation of revenues and the underestimation of
+
+A. 8019--A 22
+1 appropriations. These reports shall be completed within thirty days
+2 after the end of each quarter and shall be submitted to the legislature,
+3 the authority, the director of the budget and the state comptroller.
+4 Except during a control period, for each fiscal year occurring during
+5 the interim finance period or while bonds issued pursuant to this title
+6 are outstanding, the mayor shall submit a proposed budget or revision
+7 thereto to the authority concurrent with submission to the legislature,
+8 and shall submit the adopted budget to the authority immediately upon
+9 its adoption.
+10 5. For each financial plan and financial plan modification to be
+11 prepared and submitted by the mayor to the authority pursuant to the
+12 provisions of this section, the covered organizations shall submit to
+13 the city such information with respect to their projected expenditures,
+14 revenues and cash flows for each of the years covered by such financial
+15 plan or modification as the mayor shall determine. Notwithstanding any
+16 other provision of law limiting the authority of the city with respect
+17 to any covered organization, the city, in the preparation and submission
+18 of the financial plan and modifications thereof, shall, except for debt
+19 service or for other expenditures to the extent that such expenditures
+20 are required by law, have the power to determine the aggregate expendi-
+21 tures to be allocated to any covered organization in the financial plan
+22 and any modifications thereto.
+23 6. The authority and the city shall confer concerning the projected
+24 effect on the budgets of the city and the covered organizations of any
+25 change in generally accepted accounting principles, or change in the
+26 application of generally accepted accounting principles to the city and
+27 the covered organizations, made or to be implemented after the effective
+28 date of this title. If the authority determines that immediate compli-
+29 ance with such change will have a material effect on such budgets over a
+30 time period insufficient to accommodate the effect without a substantial
+31 adverse impact on the delivery of essential services by the city, the
+32 authority may authorize and approve a method of phasing the requirements
+33 of such change into such budgets over such reasonably expeditious time
+34 period as the authority deems appropriate.
+35 § 3768. Monitoring and review. Except as otherwise provided in section
+36 thirty-seven hundred sixty-nine of this title, the authority shall:
+37 1. conduct meetings at least annually;
+38 2. investigate, within the city and covered organizations, potential
+39 violations of the provisions of this chapter, fiscal mismanagement or
+40 systemic negligence; provided further that the authority shall provide
+41 an annual report to the governor, the temporary president of the senate,
+42 the minority leader of the senate, the speaker of the assembly, the
+43 minority leader of the assembly and the authorities budget office
+44 detailing such investigations;
+45 3. obtain from the city all information required pursuant to this
+46 section, and such other financial statements and projections, budgetary
+47 data and information, and management reports and materials as the
+48 authority deems necessary or desirable to accomplish the purposes of
+49 this title;
+50 4. recommend to the city and the covered organizations such measures
+51 relating to their operation, management, efficiency and productivity as
+52 the authority deems appropriate to reduce costs and improve services so
+53 as to advance the purposes of this title;
+54 5. consult with the city in the preparation of the budget of the city;
+55 6. with respect to any city borrowing proposed to be issued after July
+56 first, two thousand twenty-five, review the terms of and comment, within
+
+A. 8019--A 23
+1 thirty days after notification by the city of a proposed borrowing, on
+2 the prudence of each proposed issuance of bonds or notes to be issued by
+3 the city and no such borrowing shall be made unless first reviewed and
+4 commented upon by the authority. The authority shall provide such
+5 comments within thirty days after notification by the city of a proposed
+6 borrowing to the mayor, the fiscal affairs officer, the legislature, the
+7 director of the budget and the state comptroller;
+8 7. determine whether to make transitional state aid available, and on
+9 what schedule, based upon the city's compliance with the requirements of
+10 sections thirty-seven hundred sixty-six and thirty-seven hundred sixty-
+11 seven of this title, as applicable, and the requirements, if any, of the
+12 appropriations bills authorizing such transitional state aid; and
+13 8. perform such audits and reviews of the city and any agency thereof
+14 and any covered organizations as it deems necessary.
+15 § 3769. Control period. 1. The authority shall impose a control period
+16 upon its determination at any time that any of the following events have
+17 occurred or that there is a substantial likelihood and imminence of such
+18 occurrence: (a) the city shall have failed to pay the principal of or
+19 interest on any of its bonds or notes when due or payable, (b) the city
+20 shall have incurred a major operating funds deficit of one percent or
+21 more in the aggregate results of operations of such funds during its
+22 fiscal year assuming all revenues and expenditures are reported in
+23 accordance with generally accepted accounting principles, subject to the
+24 provisions of this title, (c) the city shall have otherwise violated any
+25 provision of this title and such violation substantially impairs the
+26 marketability of the city's bonds or notes, (d) the chief fiscal offi-
+27 cer's certification at any time, at the request of the authority or on
+28 the chief fiscal officer's initiative, which certification shall be made
+29 from time to time as promptly as circumstances warrant and reported to
+30 the authority, that on the basis of facts existing at such time such
+31 officer could not make the certification described by paragraph (b) of
+32 this subdivision in the definition of interim finance period in section
+33 thirty-seven hundred fifty-one of this title, or (e) the authority makes
+34 the finding required under paragraph (g) of subdivision two of section
+35 thirty-seven hundred sixty-seven of this title. The authority shall
+36 terminate any such control period when it determines that none of the
+37 conditions which would permit the authority to impose a control period
+38 exist. After termination of a control period the authority shall annual-
+39 ly consider paragraphs (a) through (e) of this subdivision and determine
+40 whether, in its judgment, any of the events described in such paragraphs
+41 have occurred and the authority shall publish each such determination.
+42 Any certification made by the chief fiscal officer hereunder shall be
+43 based on such officer's written determination which shall take into
+44 account a report and opinion of an independent expert in the marketing
+45 of municipal securities selected by the authority, and the opinion of
+46 such expert and any other information taken into account shall be made
+47 public when delivered to the authority. Notwithstanding any part of the
+48 foregoing to the contrary, in no event shall any control period continue
+49 beyond the later of (i) January first, two thousand fifty-five, or (ii)
+50 the date when all bonds of the authority are refunded, discharged or
+51 otherwise defeased.
+52 2. In carrying out the purposes of this title during any control peri-
+53 od:
+54 (a) The authority shall (i) consult with the city and the covered
+55 organizations in the preparation of the financial plan, and certify to
+56 the city the revenue estimates approved therein, (ii) prescribe the form
+
+A. 8019--A 24
+1 of the financial plan and the supporting information required in
+2 connection therewith, (iii) exercise the rights of approval, disapproval
+3 and modification with respect to the financial plan, including but not
+4 limited to the revenue estimates contained therein, and (iv) in the
+5 event the authority has made the finding required under section thirty-
+6 seven hundred sixty-seven of this title, formulate and adopt its modifi-
+7 cations to the financial plan, such modifications to become effective on
+8 their adoption by the authority.
+9 (b) The authority shall, from time to time and to the extent it deems
+10 necessary or desirable in order to accomplish the purposes of this
+11 title, (i) review the operations, management, efficiency and productiv-
+12 ity of such city operations and of such covered organizations or
+13 portions thereof as the authority may determine, and make reports there-
+14 on; (ii) audit compliance with the financial plan in such areas as the
+15 authority may determine; (iii) recommend to the city and the covered
+16 organizations such measures relating to their operations, management,
+17 efficiency and productivity as it deems appropriate to reduce costs and
+18 improve services so as to advance the purposes of this title; and (iv)
+19 obtain information on the financial condition and needs of the city and
+20 the covered organizations. Nothing herein shall diminish the powers of
+21 the state comptroller otherwise provided by law and the authority may
+22 request the assistance of the state comptroller in the performance of
+23 the above functions.
+24 (c) The authority shall (i) receive from the city and the covered
+25 organizations and from the state comptroller, and review, such financial
+26 statements and projections, budgetary data and information, and manage-
+27 ment reports and materials as the authority deems necessary or desirable
+28 to accomplish the purposes of this title, and (ii) inspect, copy and
+29 audit such books and records of the city and the covered organizations
+30 as the authority deems necessary or desirable to accomplish the purposes
+31 of this title.
+32 (d) All contracts entered into by the city or any covered organization
+33 during any control period must be consistent with the provisions of this
+34 title and must comply with the requirements of the financial plan as
+35 approved by the authority. With respect to all contracts or other obli-
+36 gations to be entered into by the city or any covered organization
+37 during any control period requiring the payment of funds or the incur-
+38 ring of costs by the city or any covered organizations:
+39 (i) Within twenty days from the commencement of a control period, the
+40 mayor shall present to the authority proposed guidelines respecting the
+41 categories and types of contracts and other obligations required to be
+42 reviewed by the authority pursuant to this subdivision. Any such guide-
+43 lines may provide a different standard for review with respect to
+44 contracts of any covered organization as the authority shall determine.
+45 Within thirty days from the commencement of a control period, the
+46 authority shall approve or modify and approve such proposed guidelines
+47 or promulgate its own in the event that such proposed guidelines are not
+48 submitted to it within the twenty days as provided for herein. Such
+49 guidelines may thereafter be modified by the authority from time to time
+50 on not less than thirty days' notice to the mayor and the mayor may from
+51 time to time propose modifications to the authority. Unless expressly
+52 disapproved or modified by the authority within thirty days, or such
+53 additional time, not exceeding thirty days, as the authority shall have
+54 notified the city or covered organization that it requires to complete
+55 it's review and analysis, from the date of submission by the mayor, any
+
+A. 8019--A 25
+1 such proposed guidelines or modifications shall be deemed approved by
+2 the authority;
+3 (ii) Prior to entering into any contract or other obligation subject
+4 to review of the authority under its guidelines, the city or any covered
+5 organization shall submit a copy of such contract or other obligation to
+6 the authority accompanied by an analysis of the projected costs of such
+7 contract or other obligation and certification that performance thereof
+8 will be in accordance with the financial plan, all in such form and with
+9 such additional information as the authority may prescribe. The authori-
+10 ty shall promptly review the terms of such contract or other obligation
+11 and the supporting information in order to determine compliance with the
+12 financial plan;
+13 (iii) The authority shall, by order, disapprove any contract or other
+14 obligation reviewed by it only after adoption of a resolution determin-
+15 ing that, in its judgment, the performance of such contract or other
+16 obligation would be inconsistent with the financial plan, and upon such
+17 order the city or covered organization shall not enter into such
+18 contract or other obligation; and
+19 (iv) If the authority approves the terms of a reviewed contract or
+20 other obligation, the city or covered organization may enter into such
+21 contract or other obligation upon the terms submitted to the authority.
+22 Failure of the authority to notify the city or covered organization
+23 within thirty days, or such additional time, not exceeding thirty days,
+24 as the authority shall have notified the city or covered organization
+25 that it requires to complete its review and analysis, after submission
+26 to it of a contract or other obligation that such contract or other
+27 obligation has been disapproved shall be deemed to constitute authority
+28 approval thereof.
+29 (e) The authority shall review the terms of each proposed long-term
+30 and short-term borrowing by the city and any covered organization to be
+31 affected during any control period, and no such borrowing shall be made
+32 during any control period unless it is approved by the authority.
+33 Neither the city nor any covered organization shall be prohibited from
+34 issuing bonds or notes to pay outstanding bonds or notes.
+35 (f) The authority shall issue, to the appropriate official of the city
+36 and each covered organization, such orders as it deems necessary to
+37 accomplish the purposes of this title, including, but not limited to,
+38 timely and satisfactory implementation of an approved financial plan.
+39 Any order so issued shall be binding upon the official to whom it was
+40 issued and failure to comply with such order shall subject the official
+41 to the penalties described in subdivision four of this section.
+42 (g) The authority is authorized to and shall withhold any transitional
+43 state aid and not pay such moneys to the city during any control period.
+44 3. (a) During a control period, upon a finding by the authority that a
+45 wage freeze is essential to the adoption or maintenance of a city budget
+46 or a financial plan that is in compliance with this title, the authori-
+47 ty, after enactment of a resolution so finding, may declare a fiscal
+48 crisis. Upon making such a declaration, the authority shall be empowered
+49 to order that all increases in salary or wages of employees of the city
+50 and employees of covered organizations which will take effect after the
+51 date of the order pursuant to collective bargaining agreements, other
+52 analogous contracts or interest arbitration awards, now in existence or
+53 hereafter entered into, requiring such salary increases as of any date
+54 thereafter are suspended. Such order may also provide that all increased
+55 payments for holiday and vacation differentials, and shift differentials
+56 for employees of the city and employees of covered organizations which
+
+A. 8019--A 26
+1 will take effect after the date of the order pursuant to collective
+2 bargaining agreements, other analogous contracts or interest arbitration
+3 awards requiring such increased payments as of any date thereafter are,
+4 in the same manner, suspended. Such order may also provide that all
+5 increased payments for salary adjustments according to plan and step-ups
+6 or increments be suspended; provided, however, when (i) the mayor
+7 provides a four year financial plan approved by the city legislature
+8 pursuant to paragraph (a) of subdivision two of section thirty-seven
+9 hundred sixty-seven of this title and the authority determines, pursuant
+10 to paragraph (b) of such subdivision, that such financial plan is
+11 complete and complies with the standards set forth in such subdivision,
+12 and (ii) the authority makes a certification to the city setting forth
+13 revenue estimates agreed to by the authority in accordance with such
+14 determination, the salary adjustments according to plan and step-ups or
+15 increments, not including cost of living increases, shall not be
+16 suspended for each year in which the four year financial plan has been
+17 certified. This inability to suspend the salary adjustments according to
+18 plan and step-ups or increments shall be applicable to city employees
+19 and employees of covered organizations, whether or not they are covered
+20 by a collectively negotiated agreement, if an individual employee or
+21 members of an employee's bargaining unit previously participated in a
+22 wage freeze implemented by the authority under this section and such
+23 wage freeze was subsequently lifted by the authority by the issuance of
+24 a resolution, pursuant to paragraph (b) or (c) of this subdivision,
+25 certifying that the suspension of their wage increases or an agreement
+26 by the collective bargaining representative or by such unrepresented
+27 employee was an acceptable and appropriate contribution toward alleviat-
+28 ing the fiscal crisis of the city. Irrespective of the duration of any
+29 approved or accepted four year financial plan, for employees who are
+30 members of a bargaining unit, this inability to suspend the salary
+31 adjustment according to plan and step-ups or increments shall take
+32 effect October first, two thousand forty-one and shall be in effect for
+33 employees for the duration of the next collective bargaining agreement
+34 succeeding either (i) the collective bargaining agreement in effect on
+35 November sixth, two thousand forty-three or (ii) the most recently
+36 expired collective bargaining agreement prior to November sixth, two
+37 thousand forty-three; whichever is later. If the succeeding collective
+38 bargaining agreement's duration is modified, extended, or renewed, this
+39 modification, extension or renewal does not modify, extend or renew the
+40 term of the inability to suspend salary adjustments according to plan
+41 and step-ups or increments. For employees who are not members of a
+42 bargaining unit, this inability to suspend the salary adjustment accord-
+43 ing to plan and step-ups or increments shall be effective October first,
+44 two thousand forty-one through December first, two thousand forty-six.
+45 For the purposes of computing the pension base of retirement allowances,
+46 any suspended salary or wage increases and any suspended other payments
+47 shall not be considered as part of compensation or final compensation or
+48 of annual salary earned or earnable. The suspensions authorized here-
+49 under shall continue until one year after the date of the order and, to
+50 the extent of any determination of the authority that a continuation of
+51 such suspensions, to a date specified by the authority, is necessary in
+52 order to achieve the objectives of the financial plan, such suspensions
+53 shall be continued to the date specified by the authority, which date
+54 shall in no event be later than the end of the interim finance period,
+55 provided that such suspensions shall terminate with respect to employees
+56 who have agreed to a deferral of salary or wage increase upon the
+
+A. 8019--A 27
+1 certification of the agreement by the authority pursuant to paragraph
+2 (b) of this subdivision.
+3 (b) This subdivision shall not be applicable to employees of the city
+4 or employees of a covered organization covered by a collective bargain-
+5 ing agreement or an employee of the city or a covered organization not
+6 covered by a collective bargaining agreement where the collective
+7 bargaining representative or such unrepresented employee has agreed to a
+8 deferment of salary or wage increase, by an instrument in writing which
+9 has been certified by the authority as being an acceptable and appropri-
+10 ate contribution toward alleviating the fiscal crisis of the city. Any
+11 such agreement to a deferment of salary or wage increase may provide
+12 that for the purposes of computing the pension base of retirement allow-
+13 ances, any deferred salary or wage increase may be considered as part of
+14 compensation or final compensation or of annual salary earned or earna-
+15 ble.
+16 (c) The authority may, if it finds that the fiscal crisis has been
+17 sufficiently alleviated or for any other appropriate reason, direct that
+18 the suspensions of salary or wage increases or suspensions of other
+19 increased payments or benefits shall, in whole or in part, be termi-
+20 nated.
+21 4. (a) If the authority has declared a fiscal crisis pursuant to
+22 subdivision three of this section, the authority shall be empowered to
+23 order a hiring freeze and suspend the hiring of new employees if the
+24 authority determines that such hiring freeze is essential to the
+25 adoption or maintenance of a city budget or a financial plan that is in
+26 compliance with this title.
+27 (b) The authority may, if it finds that the fiscal crisis has been
+28 sufficiently alleviated or for any other appropriate reason, direct that
+29 the suspensions of hiring shall, in whole or in part, be terminated.
+30 5. (a) During any control period (i) no officer or employee of the
+31 city or of any of the covered organizations shall make or authorize an
+32 obligation or other liability in excess of the amount available therefor
+33 under the financial plan as then in effect; (ii) no officer or employee
+34 of the city or of any of the covered organizations shall involve the
+35 city or any of the covered organizations in any contract or other obli-
+36 gation or liability for the payment of money for any purpose required to
+37 be approved by the authority unless such contract has been so approved
+38 and unless such contract or obligation or liability is in compliance
+39 with the financial plan as then in effect.
+40 (b) No officer or employee of the city or any of the covered organiza-
+41 tions shall take any action in violation of any valid order of the
+42 authority or shall fail or refuse to take any action required by any
+43 such order or shall prepare, present or certify any information (includ-
+44 ing any projections or estimates) or report to the authority or any of
+45 its agents that is false or misleading, or, upon learning that any such
+46 information is false or misleading, shall fail promptly to advise the
+47 authority or its agents thereof.
+48 (c) In addition to any penalty or liability under any other law, any
+49 officer or employees of the city or any of the covered organizations who
+50 shall violate paragraph (a) or (b) of this subdivision shall be subject
+51 to appropriate administrative discipline, including, when circumstances
+52 warrant, suspension from duty without pay or removal from office by
+53 order of either the governor or the mayor; and any officer or employees
+54 of the city or any of the covered organizations who shall knowingly and
+55 willfully violate paragraph (a) or (b) of this subdivision shall, upon
+56 conviction, be guilty of a misdemeanor.
+
+A. 8019--A 28
+1 (d) In the case of a violation of paragraph (a) or (b) of this subdi-
+2 vision by an officer or employee of the city or any of the covered
+3 organizations, the mayor or the chief executive officer of such covered
+4 organization shall immediately report to the authority all pertinent
+5 facts together with a statement of the action taken thereon.
+6 § 3770. Miscellaneous provisions. 1. Notwithstanding anything to the
+7 contrary in title six-A of article two of the local finance law, neither
+8 the city nor any covered organization shall file any petition authorized
+9 by such title six-A without the approval of the authority and the state
+10 comptroller. No such petition shall be filed as long as any bonds issued
+11 by the authority remain outstanding. Failure of the authority or the
+12 state comptroller to notify the city or a covered organization within
+13 thirty days, or such additional time, not exceeding thirty days, as the
+14 authority or state comptroller shall have notified the city or covered
+15 organization that it requires to complete its review, after submission
+16 to it of a petition shall be deemed to constitute authority or state
+17 comptroller approval thereof.
+18 2. Nothing contained in this title shall limit the right of the city
+19 or any covered organization to comply with the provisions of any exist-
+20 ing contract within or for the benefit of the holders of any bonds or
+21 notes of the city or such covered organization.
+22 3. Nothing contained in this title shall be construed to limit the
+23 power of the city or a covered organization during any interim finance
+24 period to determine, from time to time, within available funds for the
+25 city or for such covered organization, the purposes for which expendi-
+26 tures are to be made by the city or such covered organization and the
+27 amounts of such expenditures, consistent with the aggregate expenditures
+28 then permitted under the financial plan for the city or such covered
+29 organization.
+30 4. The authority's fiscal year shall be January first through December
+31 thirty-first.
+32 5. The authority shall adopt guidelines for procurement contracts in
+33 accordance with section twenty-eight hundred seventy-nine of this chap-
+34 ter.
+35 § 3771. Effect of inconsistent provisions. Insofar as the provisions
+36 of this title are inconsistent with the provisions of any other act,
+37 general or special, or of any charter, local law, ordinance or resol-
+38 ution of any municipality, the provisions of this title shall be
+39 controlling. Nothing contained in this section shall be held to supple-
+40 ment or otherwise expand the powers or duties of the authority otherwise
+41 set forth in this title.
+42 § 3772. Separability; construction. If any clause, sentence, para-
+43 graph, section, or part of this title shall be adjudged by any court of
+44 competent jurisdiction to be invalid, such judgment shall not affect,
+45 impair or invalidate the remainder thereof, but shall be confined in its
+46 operation to the clause, sentence, paragraph, section, or part thereof
+47 involved in the controversy in which such judgment shall have been
+48 rendered. The provisions of this title shall be liberally construed to
+49 assist the effectuation of the public purposes furthered hereby.
+50 § 2. Part DD of chapter 56 of the laws of 2024 relating to the city of
+51 Dunkirk fiscal recovery act, is REPEALED.
+52 § 3. This act shall take effect immediately.

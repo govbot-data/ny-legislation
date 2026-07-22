@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - S3314A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3314--A
+2025-2026 Regular Sessions
+IN SENATE
+January 24, 2025
+___________
+Introduced by Sens. GALLIVAN, BORRELLO, GRIFFO, HELMING, RHOADS, WEIK --
+read twice and ordered printed, and when printed to be committed to
+the Committee on Civil Service and Pensions -- recommitted to the
+Committee on Civil Service and Pensions in accordance with Senate Rule
+6, sec. 8 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+certain benefits of sheriffs, undersheriffs, deputy sheriffs and
+correction officers with credited service of more than twenty-five
+years
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision c of section 89-p of the retirement and social
+2 security law, as added by chapter 725 of the laws of 1994, is amended to
+3 read as follows:
+4 c. Upon completion of twenty-five years of such service and upon
+5 retirement, each such member shall receive a pension which, together
+6 with an annuity which shall be the actuarial equivalent of [his] such
+7 member's accumulated contributions at the time of [his] such member's
+8 retirement and an additional pension which is the actuarial equivalent
+9 of the reserved-for-increased-take-home-pay to which [he] such member
+10 may then be entitled shall be sufficient to provide [him] such member
+11 with a retirement allowance equal to one-half of [his] such member's
+12 final average salary, provided however that a member with credited
+13 service in excess of twenty-five years shall receive an additional
+14 retirement allowance equal to one-sixtieth of such member's final aver-
+15 age salary for each year of creditable service in excess of twenty-five
+16 years, provided, however that the pension payable pursuant to this
+17 section shall not exceed three-quarters of such member's final average
+18 salary.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01063-03-6
+
+S. 3314--A 2
+1 § 2. Subdivision m of section 604 of the retirement and social securi-
+2 ty law, as added by chapter 725 of the laws of 1994, is amended to read
+3 as follows:
+4 m. The early service retirement benefit for a member who is employed
+5 in a county that makes the election provided for in subdivision j of
+6 section eighty-nine-p of this chapter as a sheriff, undersheriff, deputy
+7 sheriff or correction officer as defined in section eighty-nine-p of
+8 this chapter shall be a pension equal to one-fiftieth of final average
+9 salary times years of credited service at the completion of twenty-five
+10 years of service as such sheriff, undersheriff, deputy sheriff or
+11 correction officer, [but not exceeding one-half of his or her] plus an
+12 additional retirement allowance equal to one-sixtieth of such member's
+13 final average salary for each year of credited service in excess of
+14 twenty-five years, provided, however that the pension payable pursuant
+15 to such section shall not exceed three-quarters of such member's final
+16 average salary.
+17 § 3. All past service costs associated with implementing the
+18 provisions of this act shall be borne by the county that makes the
+19 election provided for in subdivision j of section 89-p of the retirement
+20 and social security law.
+21 § 4. Notwithstanding any other provision of law to the contrary, none
+22 of the provisions of this act shall be subject to the appropriation
+23 requirement of section 25 of the retirement and social security law.
+24 § 5. This act shall take effect immediately and shall apply to all
+25 qualified members pursuant to sections one and two of this act who
+26 retire on or after such date.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+This bill would modify the service retirement benefit for members of
+the New York State and Local Employees' Retirement System (NYSLERS)
+covered by the provisions of Retirement and Social Security Law (RSSL)
+section 89-p. The modified service retirement benefit will be one-half
+of final average salary (FAS) upon completion of twenty-five years of
+creditable service with additional sixtieths for each year of creditable
+service beyond twenty-five years, not to exceed three-fourths (75%) of
+FAS. The current service retirement benefit is one-half of FAS upon
+completion of twenty-five years of creditable service.
+We estimate that the annual contributions of counties that have
+adopted RSSL section 89-p will increase $7.8 million beginning FYE 2027.
+Annual costs will vary but are expected to average 1.8% of salary.
+In addition, there will be an immediate past service cost of $39.4
+million which will be shared by the affected counties and will be borne
+as a one-time payment. This cost assumes that payment will be made on
+February 1, 2027.
+Detailed costs with a breakdown by affected counties are as follows:
+County Name Employer Past Service Future Annual
+Location Code Cost (one-time) Cost (ongoing)
+ALLEGANY 10002 $ 881,000 $ 115,000
+CATTARAUGUS 10004 438,000 108,000
+CAYUGA 10005 765,000 132,000
+CHAUTAUQUA 10006 620,000 155,000
+CHEMUNG 10007 669,000 107,000
+CHENANGO 10008 268,000 91,000
+CLINTON 10009 485,000 115,000
+COLUMBIA 10010 348,000 80,000
+
+S. 3314--A 3
+CORTLAND 10011 414,000 78,000
+DELAWARE 10012 362,000 97,000
+DUTCHESS 10013 2,810,000 514,000
+ERIE 10014 6,020,000 1,080,000
+ESSEX 10015 442,000 99,000
+FULTON 10017 440,000 144,000
+GENESEE 10018 357,000 104,000
+HERKIMER 10021 295,000 67,000
+LEWIS 10023 151,000 49,000
+LIVINGSTON 10024 652,000 116,000
+MADISON 10025 278,000 95,000
+MONROE 10026 20,000 13,000
+MONTGOMERY 10027 450,000 96,000
+NIAGARA 10029 1,008,000 278,000
+ONEIDA 10030 3,299,000 524,000
+ONTARIO 10032 1,259,000 246,000
+ORANGE 10033 3,995,000 654,000
+OSWEGO 10035 677,000 178,000
+OTSEGO 10036 273,000 74,000
+PUTNAM 10037 573,000 111,000
+RENSSELAER 10038 1,074,000 240,000
+ROCKLAND 10039 1,089,000 306,000
+SARATOGA 10041 875,000 220,000
+SCHENECTADY 10042 1,801,000 296,000
+SCHOHARIE 10043 304,000 58,000
+SCHUYLER 10044 166,000 47,000
+SENECA 10045 366,000 74,000
+SULLIVAN 10048 881,000 169,000
+TIOGA 10049 269,000 63,000
+TOMPKINS 10050 540,000 112,000
+ULSTER 10051 1,944,000 264,000
+WARREN 10052 723,000 145,000
+WAYNE 10054 584,000 121,000
+WYOMING 10056 206,000 60,000
+YATES 10057 $ 294,000 $ 71,000
+TOTAL All $39,365,000 $7,766,000
+Further, we anticipate some administrative costs to implement the
+provisions of this legislation.
+These estimated costs are based on 4,552 affected members of NYSLERS
+employed by these counties, with an estimated annual salary base of $387
+million as of March 31, 2025.
+Summary of relevant resources:
+Membership data as of March 31, 2025 was used to measure the impact of
+the bill, the same data used in the Actuarial Valuations dated April 1,
+2025. Distributions and other statistics can be found in the 2025 Report
+of the Actuary and the 2025 Annual Comprehensive Financial Report. The
+actuarial assumptions and methods used are described in the 2025 Annual
+Report to the Comptroller on Actuarial Assumptions, and the Codes, Rules
+and Regulations of the State of New York: Audit and Control. The fair
+value of assets and GASB disclosures can be found in the 2025 Financial
+Statements and Supplementary Information.
+Assumptions, demographics, and other considerations may have been
+modified to better reflect specific provisions of any proposed benefit
+change(s).
+
+S. 3314--A 4
+This fiscal note does not constitute a legal opinion on the viability
+of the bill, nor is it intended to serve as a substitute for the profes-
+sional judgment of an attorney.
+This estimate, dated March 3, 2026, and intended for use only during
+the 2026 Legislative Session, is Fiscal Note Number 2026-74. As Chief
+Actuary of the New York State and Local Retirement System (NYSLRS), I,
+Aaron Schottin Young, hereby certify that this analysis complies with
+applicable Actuarial Standards of Practice as well as the Code of
+Professional Conduct and Qualification Standards for Actuaries Issuing
+Statements of Actuarial Opinion of the American Academy of Actuaries, of
+which I am a member. I am a member of NYSLRS but do not believe it
+impairs my objectivity.
