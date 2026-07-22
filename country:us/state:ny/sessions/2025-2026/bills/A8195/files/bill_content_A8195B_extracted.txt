@@ -1,0 +1,390 @@
+Title: 
+Official Title: 
+Source: versions - A8195B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8195--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 5, 2025
+___________
+Introduced by M. of A. GALLAGHER -- read once and referred to the
+Committee on Economic Development -- recommitted to the Committee on
+Economic Development in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee -- again reported from said committee
+with amendments, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the environmental conservation law, in relation to
+establishing extended producer responsibility for gas cylinders
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 27 of the environmental conservation law is amended
+2 by adding a new title 34 to read as follows:
+3 TITLE 34
+4 EXTENDED PRODUCER RESPONSIBILITY FOR GAS CYLINDERS
+5 Section 27-3401. Definitions.
+6 27-3403. Disposal ban.
+7 27-3405. Producer plan.
+8 27-3407. Producer responsibilities.
+9 27-3409. Retailer responsibilities.
+10 27-3411. Department responsibilities.
+11 27-3413. Gas cylinders stewardship advisory board.
+12 27-3415. Penalties.
+13 27-3417. Limits on liability for antitrust, restraint of trade,
+14 or unfair trade practices.
+15 27-3419. Rules and regulations.
+16 § 27-3401. Definitions.
+17 For the purpose of this title, the following terms shall have the
+18 following meanings:
+19 1. "Brand" means a name, symbol, word, or mark that attributes a gas
+20 cylinder to the owner or licensee of the brand as the producer.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11395-06-6
+
+A. 8195--B 2
+1 2. "Collection program" or "program" means a program financed and
+2 implemented by producers, either individually or through a represen-
+3 tative organization, that provides for, but is not limited to, the
+4 collection, transportation, reuse, recycling, proper end-of-life manage-
+5 ment, or an appropriate combination thereof, of discarded gas cylinders.
+6 3. "Collection site" means a permanent location in the state at which
+7 discarded gas cylinders may be returned by a consumer. Collection sites
+8 shall accept all types of gas cylinders as defined by this title regard-
+9 less of brand.
+10 4. "Consumer" means a person located in the state who purchases, owns,
+11 leases, or uses a gas cylinder, including but not limited to an individ-
+12 ual, a business, corporation, limited partnership, not-for-profit corpo-
+13 ration, the state, a public corporation, public school, school district,
+14 private or parochial school, or board of cooperative educational
+15 services or government entity.
+16 5. "Discarded gas cylinder" means a gas cylinder that a consumer has
+17 used and disposed of in the state and is no longer used for its manufac-
+18 tured purpose.
+19 6. "Energy recovery" means the process by which all or a portion of
+20 solid waste materials are processed or combusted in order to utilize the
+21 heat content or other forms of energy derived from such solid waste
+22 materials.
+23 7. "Gas cylinder" means any nonrefillable or refillable cylinder
+24 supplied to a consumer for personal, family or household use of any size
+25 greater than a water capacity of one-half pounds but not exceeding a
+26 water capacity of fifty pounds, including, but not limited to, seamless
+27 cylinders and tubes, welded cylinders and insulated cylinders intended
+28 to contain compressed gases including helium, carbon dioxide or flamma-
+29 ble materials such as propane, butane or other flammable compressed
+30 gases. "Gas cylinder" does not include any cylinder, tube or container
+31 intended to deliver a product that is not a compressed gas, any medical
+32 or industrial-grade cylinder or any cylinder that is used by any medical
+33 facility or commercial enterprise or that contains oxygen, refrigerants
+34 not intended for combustion, acetylene, hydrogen, ethylene, or foam
+35 adhesives;
+36 8. "Producer" means any person who manufactures a gas cylinder that is
+37 sold, offered for sale, or distributed in the state under the manufac-
+38 turer's own name or brand. "Producer" includes:
+39 (a) the owner of a trademark or brand under which a gas cylinder is
+40 sold, offered for sale, or distributed in this state, whether or not
+41 such trademark or brand is registered in the state; and
+42 (b) any person who imports a gas cylinder into the United States that
+43 is sold or offered for sale in the state and that is manufactured by a
+44 person who does not have a presence in the United States.
+45 9. "Recycling" means to separate, dismantle or process the materials,
+46 components or commodities contained in discarded gas cylinders for the
+47 purpose of preparing the materials, components, or commodities for use
+48 or reuse in new products or components. "Recycling" does not include:
+49 (a) energy recovery or energy generation by any means, including but
+50 not limited to, combustion, incineration, pyrolysis, gasification,
+51 solvolysis, or waste-to-fuel or any chemical conversion process; or
+52 (b) landfill disposal of discarded gas cylinders or discarded compo-
+53 nent materials.
+54 10. "Recycling rate" means the percentage of discarded gas cylinders
+55 that is managed through recycling or reuse, as defined by this title,
+56 and is calculated by dividing the amount of recycled output derived from
+
+A. 8195--B 3
+1 collected gas cylinders, plus any amount sent for reuse, by the esti-
+2 mated total amount of discarded gas cylinders generated during a program
+3 year.
+4 11. "Representative organization" means a not-for-profit organization
+5 established by a producer or group of producers to implement a
+6 collection program.
+7 12. "Retailer" means any person who sells or offers for sale gas
+8 cylinders to a consumer in the state.
+9 13. "Reuse" means the return of a gas cylinder into the economic
+10 stream for use in the same kind of application as the gas cylinder was
+11 originally intended to be used, without a change in the product's iden-
+12 tity. "Reuse" may include refurbishment or the refilling of a gas cylin-
+13 der.
+14 14. "Sell" or "sale" means any transfer for consideration of title or
+15 the right to use, from a manufacturer or retailer to a person, includ-
+16 ing, but not limited to, transactions conducted through retail sales
+17 outlets, catalogs, mail, the telephone, the internet or any electronic
+18 means; this does not include samples, donations, or reuse.
+19 § 27-3403. Disposal ban.
+20 Beginning January first, two thousand thirty-one, no person shall
+21 knowingly dispose of gas cylinders as solid waste at any time in the
+22 state.
+23 § 27-3405. Producer plan.
+24 1. No later than December thirty-first, two thousand twenty-nine, a
+25 producer, either individually or cooperatively with one or more produc-
+26 ers, or a representative organization shall submit to the department for
+27 the department's approval a plan for the establishment of a collection
+28 program that meets the collection requirements described in this
+29 section.
+30 2. A producer may satisfy the collection program requirement of this
+31 section by agreeing to participate collectively with other producers.
+32 Any such collective program shall notify the department.
+33 3. A producer or representative organization shall update the plan, as
+34 needed, when there are changes proposed to the current program. A new
+35 plan or amendment shall be required to be submitted to the department
+36 for approval:
+37 (a) when there is a revision of the program's goals; or
+38 (b) every three years from the date of approval of a previous plan.
+39 4. The plan submitted by the producer or representative organization
+40 to the department under this section shall, at a minimum:
+41 (a) provide a list of each participating producer and brand covered by
+42 the program;
+43 (b) provide information on the products covered by the program;
+44 (c) describe how the producer or representative organization will
+45 collect, transport, recycle and process gas cylinders;
+46 (d) describe how the program will provide for collection of gas cylin-
+47 ders in the state, free of cost and in a manner convenient to consumers,
+48 including how the program will achieve, at a minimum, a convenience
+49 standard which ensures that all counties in the state and all munici-
+50 palities which have a population of ten thousand or greater have at
+51 least one permanent collection site and one additional permanent
+52 collection site for every thirty thousand people located in those areas,
+53 that accepts gas cylinders from consumers during normal business hours;
+54 however with respect to a city having a population of one million or
+55 more, after consultation with the department of sanitation of such city,
+56 the department may otherwise establish an alternative convenience stand-
+
+A. 8195--B 4
+1 ard. The producer or representative organization may coordinate the
+2 program with existing municipal waste collection infrastructure as is
+3 mutually agreeable. Convenience standards shall be evaluated by the
+4 department periodically and the department may require additional
+5 collection locations to ensure adequate consumer convenience;
+6 (e) describe in detail education and outreach efforts to inform
+7 consumers and others engaged in the management of discarded gas cylin-
+8 ders about the program including, at a minimum, an internet website and
+9 a toll-free telephone number and written information included at the
+10 time of sale of gas cylinders that provides sufficient information to
+11 allow a consumer to learn how to return such gas cylinders for disposal,
+12 recycling or reuse;
+13 (f) describe the methods to be used to reuse or recycle discarded gas
+14 cylinders;
+15 (g) describe the methods to be used to manage or dispose of discarded
+16 gas cylinders that cannot be recycled or reused;
+17 (h) describe how the program will meet annual performance goals, as
+18 determined by the department, provided that at a minimum, the program
+19 shall achieve the following recycling rates:
+20 (i) a thirty percent recycling rate for gas cylinders by five years
+21 after the plan is approved by the department pursuant to section 27-3411
+22 of this title;
+23 (ii) a fifty percent recycling rate for gas cylinders by ten years
+24 after the plan is approved by the department pursuant to section 27-3411
+25 of this title; and
+26 (iii) a seventy-five percent recycling rate for gas cylinders by
+27 fifteen years after the plan is approved by the department pursuant to
+28 section 27-3411 of this title;
+29 (i) describe what, if any, incentives will be used to encourage
+30 retailer participation;
+31 (j) describe the outreach and education methods that will be used to
+32 encourage municipal landfill and transfer station participation;
+33 (k) describe the sources of data and methodology for estimating the
+34 amount of discarded gas cylinders in the state annually; and
+35 (l) any other information as specified by the department.
+36 § 27-3407. Producer responsibilities.
+37 1. Beginning no later than July first, two thousand thirty, the
+38 producer or representative organization shall implement the collection
+39 program utilizing collection sites established pursuant to paragraph (d)
+40 of subdivision four of section 27-3405 of this title.
+41 2. A producer shall not sell, or offer for sale, gas cylinders to any
+42 person in the state unless the producer is implementing or participating
+43 under an approved plan.
+44 3. The program shall be free to the consumer, provided, however, that
+45 any customer deposit related to a gas cylinders refill or reuse system
+46 shall not be considered a violation of this subdivision, and shall be
+47 convenient and adequate to serve the needs of consumers in all areas of
+48 the state on an ongoing basis.
+49 4. A producer or representative organization shall maintain records
+50 demonstrating compliance with the provisions of this title and make them
+51 available for audit and inspection by the department for a period of
+52 three years. The department shall make such records available to the
+53 public upon the request in accordance with the provisions of the state
+54 freedom of information law and the regulations promulgated thereunder.
+55 Record holders shall submit the records required to comply with the
+
+A. 8195--B 5
+1 request within sixty working days of written notification by the depart-
+2 ment of receipt of the request.
+3 5. A producer or representative organization shall be responsible for
+4 all costs associated with the implementation of the collection program,
+5 including but not limited to the cost of collection. A producer, produc-
+6 ers or representative organization shall pay costs incurred by the
+7 department in the administration and enforcement of this title. Exclu-
+8 sive of fines and penalties, the department shall only be reimbursed its
+9 actual cost of administration and enforcement.
+10 6. Any person who becomes a producer on or after December thirty-
+11 first, two thousand twenty-nine, shall submit a plan to the department,
+12 or notify the department that it has joined an existing plan, prior to
+13 selling or offering for sale in the state any gas cylinders, and shall
+14 comply with the requirements of this title.
+15 7. On or before July first, two thousand thirty-one, and annually
+16 thereafter, a producer or representative organization shall submit a
+17 report to the department that includes, for the previous calendar year,
+18 a description of the program, including, but not limited to, the follow-
+19 ing:
+20 (a) a detailed description of the methods used to collect, transport,
+21 and process gas cylinders in the state, including detailing collection
+22 methods made available to consumers and an evaluation of the program's
+23 collection convenience;
+24 (b) identification of all collection sites in the state;
+25 (c) the weight of all of the producer's gas cylinders in the state by
+26 method of disposition, including reuse, recycling and other methods of
+27 processing or disposal;
+28 (d) an evaluation of whether the performance goals and recycling rates
+29 have been achieved;
+30 (e) the total cost of implementing the program;
+31 (f) samples of all educational materials provided to consumers and a
+32 detailed list of efforts undertaken and an evaluation of the methods
+33 used to disseminate such materials including recommendations, if any,
+34 for how the educational component of the program can be improved; and
+35 (g) any other information required by the department.
+36 8. On or before January first of each program year following implemen-
+37 tation of the plan pursuant to section 27-3405 of this title, each
+38 producer, group of producers or representative organization shall submit
+39 a report to the department that assesses compliance with performance
+40 goals and describes any modifications necessary to achieve such goals.
+41 § 27-3409. Retailer responsibilities.
+42 1. Beginning July first, two thousand thirty, no retailer may sell or
+43 offer for sale gas cylinders in the state unless the producer of such
+44 gas cylinders is participating in a collection program. A retailer shall
+45 be in compliance with this section if, on the date the gas cylinders
+46 were offered for sale, the producer is listed on the department's
+47 website as implementing or participating in an approved program or if
+48 the gas cylinders brand is listed on the department's website as being
+49 included in the program.
+50 2. Any retailer may participate, on a voluntary basis, as a designated
+51 collection site pursuant to a collection program and in accordance with
+52 all applicable laws and regulations.
+53 § 27-3411. Department responsibilities.
+54 1. The department shall (a) maintain a list of producers that are
+55 implementing or participating pursuant to section 27-3405 of this title,
+
+A. 8195--B 6
+1 (b) maintain a list of each producer's brands, and (c) post such lists
+2 on the department's website.
+3 2. Beginning on July first, two thousand thirty, the department shall
+4 post on its website the location of all collection sites identified to
+5 the department by the producer in its plans and annual reports.
+6 3. The department shall post on its website each producer plan
+7 approved by the department.
+8 4. Within ninety days after receipt of a proposed plan or plan amend-
+9 ments, the department shall approve or reject the plan or the plan
+10 amendment. If the plan or the plan amendment is approved, the department
+11 shall notify the producer or representative organization in writing. If
+12 the department rejects the plan or plan amendment, the department shall
+13 notify the producer or representative organization in writing stating
+14 the reason for rejecting the plan or plan amendment. A producer or
+15 representative organization whose plan is rejected shall submit a
+16 revised plan to the department within thirty days of receiving a notice
+17 of rejection. If the department rejects the subsequent proposal, the
+18 producer and producers at issue shall be out of compliance and subject
+19 to enforcement provisions.
+20 5. The department shall submit a report regarding the implementation
+21 of this title in the state to the governor and legislature by April
+22 first, two thousand thirty-one and every two years thereafter. The
+23 report shall include, at a minimum, an evaluation of:
+24 (a) the stream of gas cylinders in the state;
+25 (b) disposal, recycling and reuse rates in the state for gas cylin-
+26 ders;
+27 (c) a discussion of compliance and enforcement related to the require-
+28 ments of this title; and
+29 (d) recommendations for any changes to this title.
+30 6. Starting four years after the plan is approved by the department
+31 pursuant to this section, the department shall impose a penalty of twen-
+32 ty-five cents per pound to be assessed on the producer or representative
+33 organization for the number of additional pounds of gas cylinders that
+34 would have needed to be recycled through the program to achieve the
+35 performance goals specified in the approved stewardship plan. All penal-
+36 ties collected pursuant to this section shall be paid over to the
+37 commissioner for deposit to the environmental protection fund estab-
+38 lished pursuant to section ninety-two-s of the state finance law.
+39 § 27-3413. Gas cylinders stewardship advisory board.
+40 1. There is hereby established within the department the gas cylinders
+41 stewardship advisory board to make recommendations to the commissioner
+42 regarding producer plans required by this title.
+43 2. The board shall be composed of thirteen voting members. Such
+44 members shall include:
+45 (a) one representative of gas cylinder producers;
+46 (b) two representatives of gas cylinder retailers;
+47 (c) one representative of gas cylinder recyclers;
+48 (d) two representatives of gas cylinder collectors;
+49 (e) one representative of a company that utilizes discarded gas cylin-
+50 ders to manufacture a new product;
+51 (f) two representatives from a statewide environmental organization;
+52 (g) one representative from a statewide waste disposal association;
+53 (h) one representative from the New York product stewardship council;
+54 (i) one representative from a consumer organization; and
+55 (j) one representative from a statewide recycling organization.
+56 3. The members of the board shall be appointed as follows:
+
+A. 8195--B 7
+1 (a) two members to be appointed by the temporary president of the
+2 senate;
+3 (b) two members to be appointed by the speaker of the assembly;
+4 (c) one member to be appointed by the minority leader of the senate;
+5 (d) one member to be appointed by the minority leader of the assembly;
+6 and
+7 (e) seven members to be appointed by the governor.
+8 4. Such appointments shall be made no later than the first day of
+9 January following the date on which this title takes effect. The members
+10 shall designate a chair from among the members of the board by majority
+11 vote. Board members shall receive no compensation but shall be entitled
+12 to their necessary and actual expenses incurred in the performance of
+13 their board duties.
+14 5. The board shall meet at least biannually by call of the chair.
+15 § 27-3415. Penalties.
+16 Any producer, representative organization, or retailer who violates
+17 any provision of or fails to perform any duty imposed pursuant to this
+18 title shall be liable for a civil penalty not to exceed five hundred
+19 dollars for each violation and an additional penalty of not more than
+20 five hundred dollars for each day during which such violation continues.
+21 Civil penalties shall be assessed by the department after a hearing or
+22 opportunity to be heard pursuant to the provisions of section 71-1709 of
+23 this chapter.
+24 § 27-3417. Limits on liability for antitrust, restraint of trade, or
+25 unfair trade practices.
+26 1. A producer, representative organization, or retailer shall not be
+27 liable for any claim of a violation of antitrust, restraint of trade, or
+28 unfair trade practice laws arising from the performance of an action
+29 required to be undertaken by this title or which is necessary to imple-
+30 ment or participate under a producer plan approved by the department,
+31 solely to increase the collection and recycling of gas cylinders, which
+32 affects the types and quantities being collected and recycled or the
+33 cost and structure of such collection program that the producer, repre-
+34 sentative organization, or retailer is participating in pursuant to this
+35 title.
+36 2. Provided, however, subdivision one of this section shall not apply
+37 to any agreement establishing or affecting the price of gas cylinders,
+38 except, as necessary, to fulfill producer responsibility under subdivi-
+39 sion five of section 27-3407 of this title, the output or production of
+40 gas cylinders, or restricting the geographic area or customers to which
+41 gas cylinders will be sold.
+42 § 27-3419. Rules and regulations.
+43 The department is authorized to promulgate any rules and regulations
+44 necessary to implement this title.
+45 § 2. Section 71-1701 of the environmental conservation law, as amended
+46 by chapter 795 of the laws of 2022, is amended to read as follows:
+47 § 71-1701. Applicability of this title.
+48 This title shall be applicable to the enforcement of titles 1 through
+49 11 and titles 15 through 19 of article 17; article 19; and titles 1
+50 [and], 33 and 34 of article 27 of this chapter.
+51 § 3. This act shall take effect immediately.

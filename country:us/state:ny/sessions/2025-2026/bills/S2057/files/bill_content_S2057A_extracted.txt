@@ -1,0 +1,274 @@
+Title: 
+Official Title: 
+Source: versions - S2057A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2057--A
+Cal. No. 621
+2025-2026 Regular Sessions
+IN SENATE
+January 15, 2025
+___________
+Introduced by Sens. WEBB, RIVERA, ADDABBO, BASKIN, BRISPORT, BROUK,
+BYNOE, CLEARE, COMRIE, FAHY, FERNANDEZ, GIANARIS, GONZALEZ, GOUNARDES,
+HARCKHAM, HINCHEY, HOYLMAN-SIGAL, JACKSON, KAVANAGH, KRUEGER, LIU,
+MAY, MAYER, PARKER, PERSAUD, C. RYAN, S. RYAN, SALAZAR, SANDERS,
+SEPULVEDA, SERRANO, SKOUFIS -- read twice and ordered printed, and
+when printed to be committed to the Committee on Environmental Conser-
+vation -- reported favorably from said committee, ordered to first and
+second report, ordered to a third reading, amended and ordered
+reprinted, retaining its place in the order of third reading
+AN ACT to amend the environmental conservation law, in relation to the
+regulation of ingredients in personal care products and cosmetics
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "beauty justice act".
+3 § 2. Legislative findings and intent. Thousands of chemicals are used
+4 in cosmetics and personal care products. Some of these chemicals are
+5 associated with asthma, allergies, hormone disruption, neurodevelopmen-
+6 tal problems, infertility, even cancer. Exposure to personal care and
+7 cosmetic products typically begins in infancy, with products such as
+8 baby shampoo, lotion, and diaper cream, and continues throughout their
+9 lifespan. According to the Environmental Working Group, "on average,
+10 women use 12 personal care products a day, exposing themselves to 168
+11 chemical ingredients. Men use six, exposing themselves to 85 unique
+12 chemicals."
+13 Further, The National Institutes of Health (NIH) conducted an eight-
+14 year study of over 46,000 women who used permanent hair dyes and
+15 straighteners. They found that women of color who regularly used dyes
+16 and straighteners had a 45 percent higher breast cancer risk. White
+17 women faced a 7 percent higher breast cancer risk.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01853-06-5
+
+S. 2057--A 2
+1 European Union countries prohibit (with few exceptions) substances
+2 classified as carcinogenic, mutagenic, or toxic for reproduction in
+3 cosmetic products. The Canadian government regularly updates a Cosmetic
+4 Ingredient Hotlist that includes hundreds of chemicals and contaminants
+5 prohibited and restricted from cosmetics, such as formaldehyde, triclo-
+6 san, and more. Furthermore, over 40 countries including Japan, Cambodia,
+7 and Vietnam, have stricter restrictions on chemicals in personal care
+8 products than does the United States.
+9 Moreover, regarding the safety of using personal care products,
+10 the federal Modernization of Cosmetics Regulation Act of 2022 is the
+11 first federal law to significantly update the Food, Drug, and Cosmetic
+12 Act. However, the Act fails to meaningfully restrict the use of harmful
+13 chemicals in personal care/cosmetic products, and explicitly grants
+14 states the ability to enact such restrictions.
+15 Therefore, the legislature finds and declares that federal
+16 restrictions of harmful chemicals in personal care and cosmetic products
+17 are inadequate to educate and protect consumers and salon workers, and
+18 that it shall be the policy of the state to restrict chemicals that
+19 may harm the health of New Yorkers during production, use, or disposal
+20 of personal care products and cosmetic products.
+21 § 3. Article 37 of the environmental conservation law is amended by
+22 adding a new title 12 to read as follows:
+23 TITLE XII
+24 BEAUTY JUSTICE ACT
+25 Section 37-1201. Definitions.
+26 37-1203. Sales prohibition.
+27 37-1205. Identification of safer alternatives.
+28 37-1207. Regulations.
+29 § 37-1201. Definitions.
+30 As used in this title, unless the context requires otherwise:
+31 1. "Cosmetic product" shall mean a cosmetic product as defined in
+32 section 37-0117 of this article.
+33 2. "Intentionally added ingredient" shall mean any element or compound
+34 that a manufacturer has intentionally added to a personal care product,
+35 and which has a functional or technical effect in the finished product,
+36 including, but not limited to, the components of intentionally added
+37 fragrance, flavoring and colorants, and the intentional breakdown
+38 products of an added element or compound that also has a functional or
+39 technical effect on the finished product.
+40 3. "Manufacturer" shall mean any person, firm, association, partner-
+41 ship, limited liability company, or corporation which produces,
+42 prepares, formulates, or compounds a personal care product, or whose
+43 brand name is affixed to such product. In the case of a personal care
+44 product imported into the United States, "manufacturer" shall mean the
+45 importer or first domestic distributor of the product if the entity that
+46 manufactures the product or whose brand name is affixed to the product
+47 does not have a presence in the United States.
+48 4. "Personal care product" shall mean a personal care product as
+49 defined in section 37-0117 of this article.
+50 5. "Restricted substance" shall mean the following:
+51 (a) the following heavy metals and any compounds containing the
+52 following heavy metals: arsenic (CAS 7440-38-2), cadmium (CAS
+53 7440-43-9), cadmium compounds, chromium (CAS 7440-47-3), lead (CAS
+54 7439-92-1), lead compounds, and nickel (CAS 7440-02-0);
+55 (b) isobutylparaben (CAS 4247-02-3) and isopropylparaben (CAS
+56 4191-73-5);
+
+S. 2057--A 3
+1 (c) ortho-phthalates and their esters;
+2 (d) per- and polyfluoroalkyl substances, as defined in subdivision
+3 seven of section 37-0101 of this article, detected by total organic
+4 fluorine analysis;
+5 (e) formaldehyde (CAS 50-00-0) and formaldehyde releasers such as:
+6 paraformaldehyde (CAS 30525-89-4), quaternium-15 (CAS 51229-78-8), and
+7 methylene glycol (CAS 463-57-0), provided that in the case of any
+8 formaldehyde releaser, treatment as a restricted substance shall be
+9 subject to subdivision two of section 37-1203 of this title;
+10 (f) benzophenone (CAS 119-61-9);
+11 (g) benzene (CAS 71-43-2), ethylene oxide (CAS 75-21-8), toluene (CAS
+12 108-88-3), naphthalene (CAS 91-20-3), nickel (metallic) (CAS 7440-02-0),
+13 styrene (CAS 100-42-5), and xylene (CAS 1330-20-7);
+14 (h) asbestos (CAS 1332-21-4);
+15 (i) cyclotetrasiloxane (CAS 556-67-2);
+16 (j) m-phenylenediamine (CAS 108-45-2) and o-phenylenediamine (CAS
+17 95-54-5);
+18 (k) triclosan (CAS 3380-34-5);
+19 (l) diethanolamine (CAS 111-42-2);
+20 (m) Dibutyl phthalate (CAS 84-72-2);
+21 (n) Diethylhexyl phthalate (CAS 117-81-7);
+22 (o) Lily aldehyde (CAS 80-54-6);
+23 (p) Acetaldehyde (CAS 75-07-0);
+24 (q) Cychlohexylamine (CAS 108-91-8);
+25 (r) Phytonadione (CAS 84-80-0);
+26 (s) Sodium perborate (CAS 15120-21-5);
+27 (t) Trichloroacetic acid (CAS 76-03-9);
+28 (u) Tricresyl phosphate (CAS 1330-78-5);
+29 (v) Vinyl acetate (CAS 108-05-4);
+30 (w) 2-Chloracetamide (CAS 79-07-2);
+31 (x) Allyl isothiocyanate (CAS 57-06-7);
+32 (y) Anthraquinone (CAS 84-65-1);
+33 (z) Malachite green (CAS 569-64-2);
+34 (aa) Oil from seeds of Laurus nobilis L. (CAS 84603-73-6);
+35 (bb) Pyrogallol (CAS 87-66-1);
+36 (cc) C.I disperse blue 1 (CAS 2475-45-8);
+37 (dd) Trisodium nitrilotriacetate (CAS 5064-31-3);
+38 (ee) The following boron substances:
+39 (i) Perboric acids:
+40 A. Sodium salt (CAS 11138-47-9);
+41 B. Sodium salt, monohydrate (CAS 12040-72-1);
+42 C. Sodium perborate nonohydrate (CAS 10332-33-9);
+43 (ii) Boric acid (CAS 10043-35-3 and 11113-50-1);
+44 (iii) Borates, tetraborates, octaborates, and boric acid salts and
+45 esters, including all of the following:
+46 A. Disodium octaborate anhydrous (CAS 12008-41-2);
+47 B. Disodium octaborate tetrahydrate (CAS 12280-03-4);
+48 C. 2-Aminoethanol, monoester with boric acid (CAS 10377-81-8);
+49 D. 2-Hydroxypropyl, ammonium dihydrogen orthoborate (CAS 68003-13-4);
+50 E. Potassium borate, boric acid potassium salt (CAS 12712-38-8);
+51 F. Trioctyldodecyl borate;
+52 G. Zinc borate (CAS 1332-07-6);
+53 H. Sodium borate, disodium tetraborate anhydrous; boric acid, sodium
+54 salt (CAS 1330-43-4);
+55 I. Tetraboron disodium heptaoxide, hydrate (CAS 12267-73-1);
+56 J. Orthoboric acid, sodium salt (CAS 13840-56-7);
+
+S. 2057--A 4
+1 K. Disodium tetraborate decahydrate; borax decahydrate (CAS
+2 1303-96-4);
+3 L. Disodium tetraborate pentahydrate; borax pentahydrate (CAS
+4 12179-04-3);
+5 (ff) C.I. disperse blue 3 (CAS 2475-46-9);
+6 (gg) Basic green 1 (CAS 633-03-4);
+7 (hh) Basic Blue 7 (CAS 2390-60-5);
+8 (ii) 3(or 5) - ((4-(benzylmethylamino) phenyl) azo) -1, 2 - (or1, 4) -
+9 dimethyl-1H-1, 2, 4-triazolium and its salts (CAS 89959-98-8 and
+10 12221-69-1);
+11 (jj) Basic Violet 4 (CAS 2390-59-2);
+12 (kk) Basic blue 3 (CAS 33203-82-6); and
+13 (ll) Basic blue 9 (CAS 61-73-4).
+14 § 37-1203. Sales prohibition.
+15 1. Effective January first, two thousand twenty-nine, no person shall
+16 sell or offer for sale in this state a personal care product or cosmetic
+17 product containing: (a) a restricted substance as an intentionally added
+18 ingredient in any amount, or (b) lead (CAS 7439-92-1) or lead compounds
+19 at or above a level that the department shall establish in regulation
+20 that is the lowest level that can feasibly be achieved, provided that
+21 the department shall review such level every five years to determine
+22 whether it should be lowered.
+23 2. (a) The department's determinations regarding chemicals that
+24 release formaldehyde, pursuant to paragraph (e) of subdivision seven of
+25 section 37-1201 of this title, shall be adopted by regulation. The
+26 department shall identify a list of chemicals used in cosmetic products
+27 and personal care products that release formaldehyde that may be deemed
+28 restricted substances and subject to the restrictions of subdivision
+29 one of this section. In establishing such list, the department should
+30 consider: (i) estimated prevalence of use; (ii) potential to reduce
+31 disproportionate exposure; and (iii) other information deemed relevant
+32 by the department.
+33 (b) The department may identify for restriction an initial set of no
+34 more than ten of the listed chemicals used in personal care products and
+35 cosmetic products that release formaldehyde. Any initial classification
+36 as restricted substances shall take effect one year after the depart-
+37 ment's adoption of regulations required by this subdivision and be
+38 subject to the restrictions of subdivision one of this section.
+39 (c) Classification as restricted substances on the remaining listed
+40 chemicals used in personal care products and cosmetic products that
+41 release formaldehyde may take effect two years after the department's
+42 adoption of regulations required by this subdivision and shall be
+43 subject to the restrictions of subdivision one of this section.
+44 (d) The department may conduct additional rulemaking activities to
+45 develop supplemental lists of chemicals that release formaldehyde and
+46 adopt additional restrictions necessary to protect the health and safety
+47 of product users.
+48 3. (a) No person that sells or offers for sale any personal care prod-
+49 uct or cosmetic product shall be held in violation of this section if
+50 they can show that they relied in good faith on the written assurance of
+51 the manufacturer that such personal care product or cosmetic product
+52 meets the requirements of this title. Such written assurance shall take
+53 the form of a certificate of compliance stating that the personal care
+54 product or cosmetic product is in compliance with the requirements of
+55 this title. The certificate of compliance shall be signed by an author-
+56 ized official of the manufacturer.
+
+S. 2057--A 5
+1 (b) In addition to any other applicable penalties, it shall be a
+2 violation of this section to provide a certificate of compliance as
+3 contemplated by this subdivision when the applicable personal care prod-
+4 uct or cosmetic product does not satisfy the limitations on the presence
+5 of restricted substances set forth in this title.
+6 § 37-1205. Identification of safer alternatives.
+7 By January first, two thousand twenty-eight, the department, in
+8 consultation with the department of health, shall make use of existing
+9 information to identify and assess the hazards of chemicals or chemical
+10 classes that can provide the same or similar function in personal care
+11 products and cosmetic products as the chemicals or chemical classes
+12 listed in section 37-1201 of this title and that can impact vulnerable
+13 populations. In doing so they may consult with the New York state
+14 pollution prevention institute and the interstate chemicals clearing-
+15 house. The department shall make such information publicly available.
+16 § 37-1207. Regulations.
+17 Within one year of the effective date of this section, the department
+18 shall adopt rules and regulations necessary for the implementation of
+19 this title. When adopting such rules and regulations, the department
+20 shall consider:
+21 (a) relevant research;
+22 (b) laws and policies in other states; and
+23 (c) input from relevant stakeholders including but not limited to
+24 representatives from independent cosmetologists, small businesses offer-
+25 ing cosmetology services, such as beauty salons, and small manufacturers
+26 of cosmetic products.
+27 § 4. Section 71-3703 of the environmental conservation law is amended
+28 by adding a new subdivision 8 to read as follows:
+29 8. Any person who violates any of the provisions of, or who fails to
+30 perform any duty imposed by, section 37-1203 of this chapter or any
+31 rule or regulation promulgated pursuant thereto, shall be liable for a
+32 civil penalty not to exceed one thousand dollars for each day during
+33 which such violation continues, and in addition thereto, such
+34 person may be enjoined from continuing such violation. Such person shall
+35 for a second violation be liable to the people of the state for a
+36 civil penalty not to exceed two thousand five hundred dollars for each
+37 day during which such violation continues.
+38 § 5. Severability. If any provision of this act, or any application of
+39 any provision of this act, is held to be invalid, or to violate or be
+40 inconsistent with any federal law or regulation, that shall not affect
+41 the validity or effectiveness of any other provision of this act, or of
+42 any other application of any provision of this act, which can be given
+43 effect without that provision or application; and to that end, the
+44 provisions and applications of this act are severable.
+45 § 6. This act shall take effect one year after it shall have become a
+46 law. Effective immediately, the addition, amendment and/or repeal of any
+47 rule or regulation necessary for the implementation of this act on its
+48 effective date are authorized to be made and completed on or before such
+49 effective date.

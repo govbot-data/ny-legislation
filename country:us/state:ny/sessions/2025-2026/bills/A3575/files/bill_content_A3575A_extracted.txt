@@ -1,0 +1,270 @@
+Title: 
+Official Title: 
+Source: versions - A3575A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3575--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 28, 2025
+___________
+Introduced by M. of A. MITAYNES, KELLES, R. CARROLL, FORREST, GONZALEZ-
+ROJAS, MAMDANI, REYES, EPSTEIN, ROZIC, MEEKS, RAGA, ANDERSON, SHRES-
+THA, LEVENBERG, SIMON, VALDEZ, GALLAGHER, SEPTIMO, SIMONE, HOOKS --
+read once and referred to the Committee on Environmental Conservation
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to
+establishing an indirect source review for certain warehouse oper-
+ations
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The environmental conservation law is amended by adding a
+2 new section 19-0333 to read as follows:
+3 § 19-0333. Indirect source review for heavy distribution warehouses.
+4 1. As used in this section the following terms shall have the follow-
+5 ing meanings:
+6 a. "Affiliate" means, with respect to any specified person, a person
+7 that directly, or indirectly through one or more intermediaries,
+8 controls, is controlled by, or is under common control with such person.
+9 b. "Control", including the terms "controlling", "controlled by" and
+10 "under common control with", means the possession, directly or indirect-
+11 ly, of the power to direct or cause the direction of (1) the management
+12 and policies of a person, (2) the operation of a person, or (3) substan-
+13 tially all of the assets of a person, whether through the ownership of
+14 voting securities, by contract, or otherwise.
+15 c. "Heavy distribution warehouse" means a facility that falls under
+16 one or more of the following categories:
+17 (1) Fulfillment center. A facility whose primary purpose is storage
+18 and distribution of goods to consumers or end-users, either directly or
+19 through a parcel hub.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00800-03-5
+
+A. 3575--A 2
+1 (2) Parcel hub. A last mile facility or similar facility whose primary
+2 purpose is processing or redistribution of goods for delivery directly
+3 to consumers or end-users, by moving a shipment from one mode of trans-
+4 port to a vehicle with a rated capacity of less than ten thousand
+5 pounds.
+6 (3) Parcel sorting facility. A facility whose primary purpose is sort-
+7 ing or redistribution of goods from a fulfillment center to a parcel
+8 hub.
+9 d. "Qualifying warehouse" means any heavy distribution warehouse that
+10 is fifty thousand square feet or greater, whether as originally
+11 constructed or as modified, or which is owned or operated by any person,
+12 including for such purposes all affiliates of such person, who in aggre-
+13 gate owns or operates five hundred thousand or more square feet of heavy
+14 distribution warehouse space in the state.
+15 e. "Warehouse modification" means a modification to a warehouse which
+16 adds additional warehouse floor space that may be used for warehousing
+17 activities, or a change in operations of a warehouse which is likely to
+18 result in a significant increase in air pollution.
+19 f. "Warehouse operator" means any entity that conducts day-to-day
+20 operations at a heavy distribution warehouse, including operations
+21 conducted through the use of third-party contractors. For purposes of
+22 clause (i) of subparagraph one of paragraph c of subdivision two of this
+23 section, warehouse operator shall include affiliates of such warehouse
+24 operator.
+25 2. a. No later than eighteen months after the effective date of this
+26 section, the department shall adopt a program providing for the facili-
+27 ty-by-facility review of qualifying warehouses and adoption of measures
+28 to reduce air pollution associated with qualifying warehouse operations,
+29 including, in a manner not inconsistent with the regulation of indirect
+30 sources of pollution contemplated by 42 U.S.C. § 7410(a)(5), mobile
+31 sources of pollution, and shall promulgate any appropriate rules and
+32 regulations in connection therewith.
+33 b. (1) In adopting such program and promulgating such rules and regu-
+34 lations, the department shall consider a variety of measures including
+35 but not limited to requiring all warehouse operators to implement an air
+36 pollution reduction and mitigation plan developed or approved by the
+37 department; creating a points system under which warehouse operators
+38 must gain a certain number of points, based on the amount of traffic
+39 that results from their operations, through mitigation measures such as
+40 acquiring and using zero-emissions vehicles, installing and using
+41 on-site electric vehicle charging equipment, using alternatives to truck
+42 or van trips for incoming or outgoing trips, and/or installing solar
+43 electric power generation and battery storage systems; and requiring
+44 enhanced mitigation measures for qualifying warehouses located near
+45 sensitive receptors including but not limited to schools, daycares,
+46 playgrounds, parks, hospitals, senior centers or nursing homes and
+47 disadvantaged communities as defined in subdivision five of section
+48 75-0101 of this chapter.
+49 (2) Such rules and regulations shall provide that, when considering
+50 alternatives to truck or van trips for incoming or outgoing trips, the
+51 warehouse operator shall, no less than forty-five and no more than nine-
+52 ty days prior to implementation of such alternative, inform impacted
+53 employees, in writing, of the proposed change. The warehouse operator
+54 shall maintain a record of having provided written notice to impacted
+55 employees. The written notice shall include, at minimum: descriptions of
+56 the vehicles and equipment to be used; anticipated physical requirements
+
+A. 3575--A 3
+1 of operation of such vehicles and equipment; anticipated date of imple-
+2 mentation; and instructions for training and application for transfer to
+3 those positions. In addition to the foregoing notice requirements, if
+4 employees in the warehouse have an exclusive bargaining unit represen-
+5 tative, the warehouse operator will certify that such representative has
+6 agreed in writing to any operational changes that impact the scope of
+7 the bargaining unit or bargained-for terms of a collective bargaining
+8 agreement then in place, prior to utilizing alternatives.
+9 c. (1) Under the program, the department shall require any proposed
+10 new development of a qualifying warehouse, modification of an existing
+11 facility which would result in the facility constituting a qualifying
+12 warehouse, or warehouse modification of a qualifying warehouse, to first
+13 obtain a permit demonstrating that any additional traffic resulting from
+14 construction and operation will not result in a violation of one or more
+15 national ambient air quality standards established by the federal envi-
+16 ronmental protection agency or, if a violation already exists, will not
+17 exacerbate such violation, as determined in a manner consistent with the
+18 state implementation plan. In addition, newly constructed qualifying
+19 warehouses shall be required to demonstrate that (i) the warehouse oper-
+20 ator has not been held by an administrative agency or court of competent
+21 jurisdiction to be in violation of any indirect source rule which is not
+22 inconsistent with the regulation of indirect sources of pollution
+23 contemplated by 42 U.S.C. § 7410(a)(5), including pursuant to this
+24 section, or any other federal, state or local air quality standards
+25 related to its logistics operations, in the two years prior to the date
+26 of application, and (ii) the proposed qualifying warehouse meets LEED
+27 silver, gold or platinum standards, or a functionally equivalent stand-
+28 ard.
+29 (2) The department shall require applicants to submit information
+30 necessary to make such a determination pursuant to subparagraph one of
+31 this paragraph, including but not limited to, projected average number
+32 of daily vehicle trips and primary routes to the facility, a study of
+33 potential traffic and congestion impacts, identification of all sensi-
+34 tive receptors, including but not limited to, schools, daycares, play-
+35 grounds, parks, hospitals, senior centers or nursing homes and disadvan-
+36 taged communities as defined by section 75-0101 of this chapter, near
+37 the proposed warehouse or near the primary vehicle routes, and an
+38 initial plan for compliance with paragraph b of this subdivision in a
+39 form prescribed by the department.
+40 d. Under the program the department shall establish ongoing monitoring
+41 and reporting requirements for qualifying warehouse operators. Such
+42 monitoring shall include but not be limited to periodic desktop and
+43 field audits; contacting warehouse owners and warehouse operators to
+44 request further documentation or clarification on submitted reports; and
+45 conducting field visits of the warehouse facilities during regular busi-
+46 ness hours to verify a facility is following recordkeeping and other
+47 applicable requirements. All reports shall be made accessible to the
+48 public, in full and unredacted except to the extent necessary to keep
+49 personal information confidential, and posted on a publicly available
+50 website. Reporting requirements shall include, but not be limited to,
+51 annual reporting of:
+52 (1) The average daily number of inbound and outbound vehicle trips by
+53 vehicle weight and class, and by time of day and day of the week;
+54 (2) The average daily vehicle miles traveled for all vehicles making
+55 inbound and outbound trips to and from the qualifying warehouse;
+
+A. 3575--A 4
+1 (3) The average daily vehicle miles traveled and number of inbound and
+2 outbound trips for alternative modes of freight;
+3 (4) A heat map of the frequency data for trip destinations;
+4 (5) The number of jobs at the facility, including drivers and others
+5 employed by third-party contractors, with a breakdown of percentage of
+6 part-time and full-time employees, independent contractors, unionized
+7 and non-union employees;
+8 (6) The percentage of vehicles used, specifying on-road vehicles and
+9 off-road vehicles as well as weight and vehicle class, that are zero
+10 emissions;
+11 (7) The number of electric vehicle charging stations installed and
+12 actual usage;
+13 (8) The number of hydrogen fueling stations installed and actual
+14 usage;
+15 (9) The number of on-site renewable energy generation systems
+16 installed;
+17 (10) The number of vehicles used to deliver from the site that are
+18 owned by the warehouse operator but leased to a third party, and the
+19 proportion of leased vehicles used as compared to vehicles owned by the
+20 warehouse operator;
+21 (11) The identity of subcontractors who conduct more than ten percent
+22 of total delivery vehicle trips from the site, including the entity
+23 name, principal officers, business address and contact information, and
+24 total number of employees; and
+25 (12) Any other information necessary to effectively implement and
+26 enforce any rule or regulation promulgated pursuant to this section.
+27 3. The department shall impose an annual registration fee for qualify-
+28 ing warehouse operators.
+29 4. Within eighteen months of the effective date of this section, the
+30 department shall complete a study on the feasibility, benefits and costs
+31 of implementing low- and zero-emissions designated zones for medium- and
+32 heavy-duty vehicles as defined in regulations promulgated pursuant to
+33 section 19-0306-b of this title within the state that are designed to
+34 lower air pollution, congestion, greenhouse gas emissions, and noise,
+35 and to increase safety. The study shall include recommendations for
+36 implementation of low- and zero-emissions zones at the state and local
+37 level and shall be made available to the public and posted on a publicly
+38 available website. In conducting the study, the department shall consid-
+39 er:
+40 a. Creation of zones restricting deliveries to zero-emissions delivery
+41 vehicles only;
+42 b. Creation of zones requiring delivery vehicles to meet certain
+43 stringent air pollution standards;
+44 c. Creation of zones requiring a fee for entry for diesel-powered
+45 medium- and heavy-duty vehicles;
+46 d. Prioritization of low- and zero-emissions zones within disadvan-
+47 taged communities identified under article seventy-five of this chapter;
+48 nonattainment zones under the national ambient air quality standards set
+49 by the federal environmental protection agency in 42 U.S.C. 7401; and
+50 other vulnerable areas including areas proximate to schools, daycares,
+51 playgrounds, parks, hospitals, senior centers or nursing homes;
+52 e. Incentives and enforceable measures for low- and zero-emissions
+53 zones, including fees;
+54 f. Measures to ensure reinvestment of any revenues from fees in public
+55 transit and zero-emissions transportation infrastructure;
+
+A. 3575--A 5
+1 g. Equity considerations, including preventing unintended regressive
+2 cost impacts for low- and moderate-income New Yorkers; and
+3 h. Barriers to implementing low- and zero-emissions zones in the state
+4 and recommendations for overcoming such barriers.
+5 5. a. The provisions of subdivisions one, two and three of this
+6 section shall not apply in a city with a population of one million or
+7 more which, in consultation with and subject to the review and approval
+8 of the department after a public hearing in compliance with the state
+9 administrative procedure act, establishes and implements a program by
+10 adopting a local law or ordinance to regulate indirect source pollution
+11 from qualifying warehouses in a manner not inconsistent with the regu-
+12 lation of indirect source pollution contemplated by 42 U.S.C. §
+13 7410(a)(5); provided, however, any such municipal indirect source
+14 pollution program shall be, in the determination of the department, at
+15 least as stringent as the program established under subdivisions one,
+16 two and three of this section and all rules and regulations promulgated
+17 pursuant thereto.
+18 b. The department shall require any city establishing and implementing
+19 an indirect source pollution program in accordance with this subdivision
+20 to require the program to implement all data collection and reporting
+21 requirements contemplated by subdivision two of this section and submit
+22 all such data and reporting information to the department no less
+23 frequently than every twelve months for review by the department.
+24 c. The department shall conduct an annual review of any indirect
+25 source pollution program established and implemented pursuant to this
+26 subdivision. Such reviews shall evaluate whether, among other relevant
+27 matters, such program continues to be at least as stringent as the
+28 program established under subdivisions one, two and three of this
+29 section.
+30 d. In the event that the department determines that a program estab-
+31 lished pursuant to this subdivision is not meeting any applicable
+32 requirements under this subdivision, the department shall immediately
+33 notify such city of the deficiencies and if, in the determination of the
+34 department, the city does not take satisfactory corrective action, the
+35 department may take any corrective action it deems appropriate, includ-
+36 ing but not limited to suspending or terminating the approval contem-
+37 plated by paragraph a of this subdivision and enforcing the provisions
+38 of this section in such city; provided, however, any indirect source
+39 pollution law in effect in a city of one million or more as of the
+40 effective date of this section may not be found to be failing to meet
+41 such applicable requirements for the one-year period following the
+42 effective date of this section.
+43 e. The exemption contemplated by this subdivision shall be limited to
+44 the regulation of indirect source pollution from qualifying warehouses
+45 and may not be construed as an exemption from compliance with any other
+46 law, rule, regulation, decision or order.
+47 § 2. This act shall take effect on the thirtieth day after it shall
+48 have become a law.

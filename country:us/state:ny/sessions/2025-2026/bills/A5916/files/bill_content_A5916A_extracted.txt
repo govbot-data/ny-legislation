@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - A5916A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5916--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 24, 2025
+___________
+Introduced by M. of A. BORES, DAVILA -- read once and referred to the
+Committee on Cities -- recommitted to the Committee on Cities in
+accordance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general municipal law, in relation to interagency
+data sharing by agencies of a city with a population of one million or
+more for providing benefits, services or care coordination
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "one city act".
+3 § 2. The general municipal law is amended by adding a new section
+4 139-f to read as follows:
+5 § 139-f. Data sharing by agencies within a local government for
+6 providing benefits, services or care coordination. 1. Applicability.
+7 This section shall apply to cities having a population of one million or
+8 more.
+9 2. Legislative intent. The legislature hereby finds, determines, and
+10 declares that the effective delivery of benefits, services and care
+11 coordination by a local government to its populace may be improved
+12 through cooperative data-sharing arrangements that enable its agencies
+13 to act, in effect, as a single coordinated entity, "one city", for such
+14 purposes. The delivery of benefits, services and care coordination often
+15 either requires or is buttressed by the sharing of the personal informa-
+16 tion collected from individuals or households by one local government
+17 agency with other local government agencies, particularly where the same
+18 individual or household is known to multiple local government agencies
+19 or faces complex challenges requiring cross-agency coordination to
+20 effectively address a pressing need for government services, such as but
+21 not limited to food, shelter, mental health services, public benefits,
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04212-04-6
+
+A. 5916--A 2
+1 and health care. The legislature recognizes the importance of ensuring
+2 robust protections for safeguarding the privacy of the personal informa-
+3 tion that individuals have entrusted to their local government while
+4 also enabling its agencies to responsibly share such information with
+5 each other in order to effectively deliver benefits, services and care
+6 coordination to its populace. State authority for cooperative data-shar-
+7 ing arrangements that enable agencies of a local government to coordi-
+8 nate their activities is necessary in certain instances where laws of
+9 the state of New York impose restrictions on the disclosure of such
+10 personal information between local government agencies. Such cooperative
+11 data-sharing arrangements can be developed and implemented with appro-
+12 priate safeguards and protocols for protecting personal privacy and
+13 cybersecurity.
+14 3. Definitions. As used in this section:
+15 (a) "Agency" means an office, position, administration, department,
+16 division, bureau, board or commission, or a corporation, institution or
+17 agency of government, the expenses of which are paid in whole or in part
+18 from the city treasury.
+19 (b) "Agent" means an authorized person who acts on behalf of or at the
+20 direction of an agency.
+21 (c) "Benefits" means assistance and resources that a local government
+22 provides to individuals in order to meet basic needs, such as but not
+23 limited to food, shelter, financial security, education, and health
+24 care, and other types of assistance or resources that may help improve
+25 an individual's quality of life.
+26 (d) "Care coordination" means coordination or case management of bene-
+27 fits and services.
+28 (e) "Human services agency" means an agency that delivers a service to
+29 individuals or groups of individuals for the purpose of improving or
+30 enhancing such individuals' health or welfare in circumstances including
+31 but not limited to: domestic violence, teenage pregnancy, health prob-
+32 lems, child abuse, nutritional deficiencies, suicide, hunger, unemploy-
+33 ment, lack of suitable shelter, crime, drug and alcohol abuse and pover-
+34 ty.
+35 (f) "Personal information" means information collected by an agency
+36 concerning an individual that, because of name, number, symbol, mark or
+37 other identifier, can be used to identify that individual, and includes
+38 data contained in an agency record about the individual's background,
+39 circumstances, needs and services that have been provided to the indi-
+40 vidual.
+41 (g) "Services" means functions a local government performs for the
+42 purpose of assisting individuals, including but not limited to educa-
+43 tional efforts and outreach by a local government about benefits,
+44 services, and care coordination.
+45 4. Disclosure of personal information among agencies. Subject to any
+46 restrictions imposed by federal law relating to the confidentiality of
+47 personal information, an agency may disclose the personal information of
+48 individuals that would otherwise be restricted from disclosure to anoth-
+49 er agency or agent thereof for the limited purpose of:
+50 (a) providing benefits, services, or care coordination to individuals;
+51 or
+52 (b) a research study concerning the provision of benefits, services or
+53 care coordination that is conducted by or on behalf of a local govern-
+54 ment health or human services agency and is in compliance with applica-
+55 ble local, state and federal laws relating to human subjects research.
+
+A. 5916--A 3
+1 5. Written agreement to disclose personal information. The disclosure
+2 of personal information pursuant to this section shall only be made
+3 subject to a written agreement between the parties involved in the
+4 disclosure of the personal information, and such agreement shall:
+5 (a) be approved by legal counsel and the chief information security
+6 officer for each agency that is a party to the agreement, and the local
+7 government's chief privacy officer, where such a position exists;
+8 (b) provide that access to the personal information to be shared is
+9 limited to employees or agents of the parties that require such access
+10 to fulfill their job functions in relation to providing the benefits,
+11 services and care coordination described in such agreement;
+12 (c) describe the type of personal information to be shared, how it is
+13 to be shared, and the use and purpose relating to specific benefits,
+14 services or care coordination to be furthered by the disclosure;
+15 (d) prohibit the agency to which personal information shall be
+16 disclosed from redisclosing, publishing or otherwise revealing such
+17 personal information without written permission of the disclosing agen-
+18 cy, except where required by law, and require that such redisclosure be
+19 in accordance with a written agreement subject to the terms set forth in
+20 this subdivision; and
+21 (e) impose requirements governing the secure transmission, storage,
+22 use and access to the disclosed personal information that are no less
+23 stringent than those established by the local government agency that
+24 directs, manages, and has authority over a city's cyber defense, inves-
+25 tigation, response, and policy.
+26 6. Limitation of disclosure of personal information. Nothing in this
+27 section shall be interpreted to authorize the disclosure of personal
+28 information among or between agencies of a local government for any
+29 other purpose than providing or making available benefits, services and
+30 care coordination to its populace or conducting a research study pursu-
+31 ant to paragraph (b) of subdivision four of this section, nor shall this
+32 section be interpreted to authorize disclosure of personal information
+33 for the purposes of investigating an offense as such term is defined in
+34 subdivision one of section 10.00 of the penal law.
+35 § 3. This act shall take effect immediately.

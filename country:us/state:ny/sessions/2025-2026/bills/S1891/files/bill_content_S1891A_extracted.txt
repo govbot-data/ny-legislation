@@ -1,0 +1,1352 @@
+Title: 
+Official Title: 
+Source: versions - S1891A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1891--A
+2025-2026 Regular Sessions
+IN SENATE
+January 14, 2025
+___________
+Introduced by Sens. JACKSON, PERSAUD -- read twice and ordered printed,
+and when printed to be committed to the Committee on Transportation --
+recommitted to the Committee on Transportation in accordance with
+Senate Rule 6, sec. 8 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the vehicle and traffic law, in relation to owner
+liability for failure of an operator to comply with street cleaning
+parking rules; to amend the public officers law, in relation to access
+to records prepared pursuant to street cleaning parking rules; and
+providing for the repeal of certain provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The vehicle and traffic law is amended by adding a new
+2 section 1111-j to read as follows:
+3 § 1111-j. Owner liability for failure of an operator to comply with
+4 street cleaning parking rules. (a) 1. Notwithstanding any other
+5 provision of law, the city of New York is hereby authorized to establish
+6 a demonstration program imposing monetary liability on the owner of a
+7 vehicle for failure of an operator thereof to comply with posted street
+8 cleaning parking rules in such city in accordance with the provisions of
+9 this section. Such demonstration program shall empower the New York
+10 city department of sanitation to install street cleaning vehicle photo
+11 devices on street cleaning vehicles along street cleaning routes at
+12 locations determined by such department in such city and to administer
+13 such program in consultation with the New York city department of trans-
+14 portation.
+15 2. Any photographs, microphotographs, videotape or other recorded
+16 images captured by street cleaning vehicle photo devices shall be inad-
+17 missible in any disciplinary proceeding convened by the department and
+18 any proceeding initiated by the department involving licensure privi-
+19 leges of street cleaning vehicle operators. Any street cleaning vehicle
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05516-05-6
+
+S. 1891--A 2
+1 photo device mounted on a street cleaning vehicle shall be directed
+2 outwardly from such vehicle to capture images of vehicles operated in
+3 violation of street cleaning parking rules, and images produced by such
+4 device shall not be used for any other purpose in the absence of a court
+5 order requiring such images to be produced.
+6 3. No street cleaning vehicle photo device shall be used unless on the
+7 day it is to be used it has successfully passed a self-test of its func-
+8 tions.
+9 4. (i) The city of New York shall adopt and enforce measures to
+10 protect the privacy of drivers, passengers, pedestrians and cyclists
+11 whose identity and identifying information may be captured by a street
+12 cleaning photo device. Such measures shall include:
+13 (A) utilization of necessary technologies to ensure, to the extent
+14 practicable, that photographs, microphotographs, videotape or other
+15 recorded images produced by such street cleaning vehicle photo device
+16 shall not include images that identify the driver, the passengers, or
+17 the contents of the vehicle. Provided, however, that no notice
+18 of liability issued pursuant to this section shall be dismissed solely
+19 because such a photograph, microphotograph, videotape or other
+20 recorded image allows for the identification of the driver, the passen-
+21 gers, or the contents of vehicles where the city shows that it made
+22 reasonable efforts to comply with the provisions of this paragraph in
+23 such case; and
+24 (B) oversight procedures to ensure compliance with the privacy
+25 protection measures under this subdivision.
+26 (ii) Photographs, microphotographs, videotape or any other recorded
+27 image from a street cleaning vehicle photo device shall be for the
+28 exclusive use of the city for the purpose of the adjudication of liabil-
+29 ity imposed pursuant to this section and of the owner receiving a notice
+30 of liability pursuant to this section, and shall be destroyed by the
+31 city upon the final resolution of the notice of liability to which such
+32 photographs, microphotographs, videotape or other recorded images
+33 relate, or one year following the date of issuance of such notice of
+34 liability, whichever is later. Notwithstanding the provisions of any
+35 other law, rule or regulation to the contrary, photographs, microphoto-
+36 graphs, videotape or any other recorded image from a street
+37 cleaning vehicle photo device shall not be open to the public, nor
+38 subject to civil or criminal process or discovery, nor used by any
+39 court or administrative or adjudicatory body in any action or proceed-
+40 ing therein except that which is necessary for the adjudication of a
+41 notice of liability issued pursuant to this section, and no
+42 public entity or employee, officer or agent thereof shall disclose
+43 such information, except that such photographs, microphotographs,
+44 videotape or any other recorded images from such devices:
+45 (A) shall be available for inspection and copying and use by the motor
+46 vehicle owner and operator for so long as such photographs, microphoto-
+47 graphs, videotape or other recorded images are required to be maintained
+48 or are maintained by such public entity, employee, officer or agent; and
+49 (B) (1) shall be furnished when described in a search warrant issued
+50 by a court authorized to issue such a search warrant pursuant to article
+51 six hundred ninety of the criminal procedure law or a federal court
+52 authorized to issue such a search warrant under federal law, where such
+53 search warrant states that there is reasonable cause to believe such
+54 information constitutes evidence of, or tends to demonstrate that, a
+55 misdemeanor or felony offense was committed in this state or another
+56 state, or that a particular person participated in the commission of a
+
+S. 1891--A 3
+1 misdemeanor or felony offense in this state or another state, provided,
+2 however, that if such offense was against the laws of another state, the
+3 court shall only issue a warrant if the conduct comprising such offense
+4 would, if occurring in this state, constitute a misdemeanor or felony
+5 against the laws of this state; and
+6 (2) shall be furnished in response to a subpoena duces tecum signed by
+7 a judge of competent jurisdiction and issued pursuant to article six
+8 hundred ten of the criminal procedure law or a judge or magistrate of a
+9 federal court authorized to issue such a subpoena duces tecum under
+10 federal law, where the judge finds and the subpoena states that there is
+11 reasonable cause to believe such information is relevant and material to
+12 the prosecution, or the defense, or the investigation by an authorized
+13 law enforcement official, of the alleged commission of a misdemeanor or
+14 felony in this state or another state, provided, however, that if such
+15 offense was against the laws of another state, such judge or magistrate
+16 shall only issue such subpoena if the conduct comprising such offense
+17 would, if occurring in this state, constitute a misdemeanor or felony in
+18 this state; and
+19 (3) may, if lawfully obtained pursuant to this clause and clause (A)
+20 of this subparagraph and otherwise admissible, be used in such criminal
+21 action or proceeding.
+22 (iii) The demonstration program authorized pursuant to this section is
+23 prohibited from utilizing and from arranging for the utilization of
+24 biometric identifying technology, including but not limited to facial
+25 recognition technology, for any purpose. The use, and the arrangement
+26 for the use, of biometric identifying technology, including but not
+27 limited to facial recognition technology, on photographs, microphoto-
+28 graphs, videotape, or any other recorded image or data produced by a
+29 street cleaning photo device, by any person for any purpose, are prohib-
+30 ited. For purposes of this subparagraph, "person" shall include, but not
+31 be limited to, a human being, a public or private corporation, an unin-
+32 corporated association, a partnership, a government or a governmental
+33 instrumentality, a court or an administrative or adjudicatory body, and
+34 any employee, officer, and agent of the foregoing.
+35 5. Every street cleaning vehicle upon which a street cleaning vehicle
+36 photo device is installed and operated pursuant to a demonstration
+37 program authorized pursuant to this section shall be equipped with
+38 signs, placards or other displays giving notice to motor vehicle opera-
+39 tors that street cleaning vehicle photo devices are used to enforce
+40 street cleaning parking rules.
+41 6. Warning notices of violation shall be issued during the first sixty
+42 days that street cleaning vehicle photo devices pursuant to a demon-
+43 stration program authorized by this section are active and in operation.
+44 7. The city of New York shall adopt and enforce measures:
+45 (i) to upgrade signage at regular intervals within street cleaning
+46 routes stating that street cleaning vehicle photo devices are used to
+47 enforce street cleaning parking rules along such routes; and
+48 (ii) to prohibit the use or dissemination of vehicles' license plate
+49 information and other information and images captured by street cleaning
+50 vehicle photo devices except: (A) as required to establish liability
+51 under this section or collect payment of penalties; (B) as required by
+52 court order; or (C) as otherwise required by law.
+53 (b) If the city of New York has established a program pursuant to
+54 subdivision (a) of this section, the owner of a vehicle shall be liable
+55 for a penalty imposed pursuant to this section if such vehicle was
+56 parked in violation of any street cleaning parking rule of such city and
+
+S. 1891--A 4
+1 such violation is evidenced by information obtained from a street clean-
+2 ing vehicle photo device.
+3 (c) For purposes of this section, the following terms shall have the
+4 following meanings:
+5 1. "Biometric identifying technology" shall mean any tool using an
+6 automated or semi-automated process that assists in verifying a person's
+7 identity based on a person's biometric information.
+8 2. "Biometric information" shall mean any measurable physical, physio-
+9 logical or behavioral characteristics that are attributable to a person,
+10 including but not limited to facial characteristics, fingerprint charac-
+11 teristics, hand characteristics, eye characteristics, vocal character-
+12 istics, and any other characteristics that can be used to identify a
+13 person including, but not limited to: fingerprints; handprints; retina
+14 and iris patterns; DNA sequence; voice; gait; and facial geometry.
+15 3. "Facial recognition" shall mean any tool using an automated or
+16 semiautomated process that assists in uniquely identifying or verifying
+17 a person by comparing and analyzing patterns based on the person's face.
+18 4. "Owner" shall have the meaning provided in article two-B of this
+19 chapter.
+20 5. "Street cleaning routes" shall mean street cleaning routes desig-
+21 nated by the New York city department of sanitation that include
+22 upgraded signage stating that street cleaning vehicle photo devices are
+23 used to enforce street cleaning parking rules.
+24 6. "Street cleaning parking rules" shall mean the prohibited parking
+25 of any vehicle on one side of the street to allow for cleaning by the
+26 New York city department of sanitation during designated time periods as
+27 posted by sign pursuant to the rules of the New York city department of
+28 transportation.
+29 7. "Street cleaning vehicle" shall mean any vehicle operated by the
+30 New York city department of sanitation that is designed to wash dirt and
+31 grime, and remove litter and debris, from the street surface.
+32 8. "Street cleaning vehicle photo device" shall mean a device that is
+33 mounted on a street cleaning vehicle, is capable of operating independ-
+34 ently of an enforcement officer and produces one or more images of each
+35 vehicle at the time it is in violation of street cleaning parking rules.
+36 (d) A certificate, sworn to or affirmed by a technician employed by
+37 the city of New York in which the charged violation occurred, or a
+38 facsimile thereof, based upon inspection of photographs, microphoto-
+39 graphs, videotape or other recorded images produced by a street cleaning
+40 vehicle photo device, shall be prima facie evidence of the facts
+41 contained therein. Any photographs, microphotographs, videotape or other
+42 recorded images evidencing such a violation shall be available for
+43 inspection in any proceeding to adjudicate the liability for such
+44 violation pursuant to this section.
+45 (e) An owner liable for a violation of a street cleaning parking rule
+46 imposed on any route shall be liable for monetary penalties in accord-
+47 ance with a schedule of fines and penalties promulgated by the parking
+48 violations bureau of the city of New York; provided, however, that the
+49 monetary penalty for violating a street cleaning parking rule shall not
+50 exceed fifty dollars for each violation; provided, further, that an
+51 owner shall be liable for an additional penalty not to exceed twenty-
+52 five dollars for each violation for the failure to respond to a notice
+53 of liability within the prescribed time period.
+54 (f) An imposition of liability under the demonstration program estab-
+55 lished pursuant to this section shall not be deemed a conviction as an
+56 operator and shall not be made part of the operating record of the
+
+S. 1891--A 5
+1 person upon whom such liability is imposed nor shall it be used for
+2 insurance purposes in the provision of motor vehicle insurance coverage.
+3 (g) 1. A notice of liability shall be sent by first class mail to each
+4 person alleged to be liable as an owner for a violation of a street
+5 cleaning parking rule. Personal delivery on the owner shall not be
+6 required. A manual or automatic record of mailing prepared in the ordi-
+7 nary course of business shall be prima facie evidence of the facts
+8 contained therein.
+9 2. A notice of liability shall contain the name and address of the
+10 person alleged to be liable as an owner for violation of a street clean-
+11 ing parking rule, the registration number of the vehicle involved in
+12 such violation, the location where such violation took place including
+13 the street or cross streets, one or more images identifying the
+14 violation, the date and time of such violation and the identification
+15 number of the street cleaning vehicle photo device that recorded the
+16 violation or other document locator number.
+17 3. The notice of liability shall contain information advising the
+18 person charged of the manner and the time in which such person may
+19 contest the liability alleged in the notice. Such notice of liability
+20 shall also contain a warning to advise the person charged that failure
+21 to contest in the manner and time provided shall be deemed an admission
+22 of liability and that a default judgment may be entered thereon.
+23 4. The notice of liability shall be prepared and mailed by an agency
+24 or agencies designated by the city of New York, or any other entity
+25 authorized by such city to prepare and mail such notification of
+26 violation.
+27 5. Adjudication of the liability imposed upon owners by this section
+28 shall be by the New York city parking violations bureau.
+29 (h) If an owner of a vehicle receives a notice of liability pursuant
+30 to this section for any time period during which the vehicle was
+31 reported to the police department as having been stolen, it shall be a
+32 valid defense to an allegation of liability for violation of a street
+33 cleaning parking rule of such city, that the vehicle had been reported
+34 to the police as stolen prior to the time the violation occurred and had
+35 not been recovered by such time. For purposes of asserting the defense
+36 provided by this subdivision it shall be sufficient that a certified
+37 copy of the police report on the stolen vehicle be sent by first class
+38 mail to the parking violations bureau.
+39 (i) 1. An owner who is a lessor of a vehicle to which a notice of
+40 liability was issued pursuant to subdivision (g) of this section shall
+41 not be liable for the violation of the street cleaning parking rule,
+42 provided that:
+43 (i) prior to the violation, the lessor has filed with such parking
+44 violations bureau in accordance with the provisions of section two
+45 hundred thirty-nine of this chapter; and
+46 (ii) within thirty-seven days after receiving notice from such bureau
+47 of the date and time of such liability, together with the other informa-
+48 tion contained in the original notice of liability, the lessor submits
+49 to such bureau the correct name and address of the lessee of the vehicle
+50 identified in the notice of liability at the time of such violation,
+51 together with such other additional information contained in the rental,
+52 lease or other contract document, as may be reasonably required by such
+53 bureau pursuant to regulations that may be promulgated for such purpose.
+54 2. Failure to comply with subparagraph (ii) of paragraph one of this
+55 subdivision shall render the lessor liable for the penalty prescribed in
+56 this section.
+
+S. 1891--A 6
+1 3. Where the lessor complies with the provisions of paragraph one of
+2 this subdivision, the lessee of such vehicle on the date of such
+3 violation shall be deemed to be the owner of such vehicle for purposes
+4 of this section, shall be subject to liability for such violation pursu-
+5 ant to this section, and shall be sent a notice of liability pursuant to
+6 subdivision (g) of this section.
+7 (j) 1. If the owner liable for a violation of a street cleaning park-
+8 ing rule pursuant to this section was not the operator of the vehicle
+9 at the time of such violation, the owner may maintain an action for
+10 indemnification against the operator.
+11 2. Notwithstanding any other provision of this section, no owner of a
+12 vehicle shall be subject to a monetary fine imposed pursuant to this
+13 section if the operator of such vehicle was operating such vehicle with-
+14 out the consent of the owner at the time such operator failed to obey a
+15 street cleaning parking rule. For purposes of this subdivision there
+16 shall be a presumption that the operator of such vehicle was operating
+17 such vehicle with the consent of the owner at the time such operator
+18 failed to obey a street cleaning parking rule.
+19 (k) Nothing in this section shall be construed to limit the liability
+20 of an operator of a vehicle for any violation of a street cleaning park-
+21 ing rule.
+22 (l) If the city of New York adopts a demonstration program pursuant to
+23 subdivision (a) of this section, such city's department of sanitation
+24 shall submit a report on the results of the use of street cleaning park-
+25 ing rule-related photo devices to the governor, the temporary president
+26 of the senate, and the speaker of the assembly by April first, two thou-
+27 sand twenty-nine and every two years thereafter. The department of
+28 sanitation of the city of New York shall also make such reports avail-
+29 able on their public-facing websites, provided that they may provide
+30 aggregate data from paragraph one of this subdivision if the city finds
+31 that publishing specific location data would jeopardize public safety.
+32 Such report shall include, but not be limited to:
+33 1. a description of the locations and/or vehicles where street clean-
+34 ing vehicle photo devices were used;
+35 2. the total number of violations recorded on a monthly and annual
+36 basis;
+37 3. the total number of notices of liability issued;
+38 4. the number of fines and total amount of fines paid after the first
+39 notice of liability;
+40 5. the number of violations adjudicated and results of such adjudi-
+41 cations including breakdowns of dispositions made;
+42 6. the total amount of revenue realized by such city and department;
+43 7. the quality of the adjudication process and its results;
+44 8. the total number of cameras;
+45 9. the total cost to such city; and
+46 10. an assessment by the New York city department of sanitation of
+47 the efficacy of the program in enabling such department to clean the
+48 city's streets.
+49 (m) It shall be a defense to any prosecution for a violation of a
+50 street cleaning parking rule pursuant to a demonstration program adopted
+51 pursuant to this section that such street cleaning vehicle photo devices
+52 were malfunctioning at the time of the alleged violation.
+53 § 2. Subdivision 1 of section 235 of the vehicle and traffic law, as
+54 amended by section 1 of part N of chapter 58 of the laws of 2025, is
+55 amended to read as follows:
+
+S. 1891--A 7
+1 1. Notwithstanding any inconsistent provision of any general, special
+2 or local law or administrative code to the contrary, in any city which
+3 heretofore or hereafter is authorized to establish an administrative
+4 tribunal: (a) to hear and determine complaints of traffic infractions
+5 constituting parking, standing or stopping violations, or (b) to adjudi-
+6 cate the liability of owners for violations of subdivision (d) of
+7 section eleven hundred eleven of this chapter imposed pursuant to a
+8 local law or ordinance imposing monetary liability on the owner of a
+9 vehicle for failure of an operator thereof to comply with traffic-con-
+10 trol indications through the installation and operation of traffic-con-
+11 trol signal photo violation-monitoring systems, in accordance with arti-
+12 cle twenty-four of this chapter, or (c) to adjudicate the liability of
+13 owners for violations of subdivision (b), (c), (d), (f) or (g) of
+14 section eleven hundred eighty of this chapter imposed pursuant to a
+15 demonstration program imposing monetary liability on the owner of a
+16 vehicle for failure of an operator thereof to comply with such posted
+17 maximum speed limits through the installation and operation of photo
+18 speed violation monitoring systems, in accordance with article thirty of
+19 this chapter, or (d) to adjudicate the liability of owners for
+20 violations of bus lane restrictions as defined by article twenty-four of
+21 this chapter imposed pursuant to a bus rapid transit program imposing
+22 monetary liability on the owner of a vehicle for failure of an operator
+23 thereof to comply with such bus lane restrictions through the installa-
+24 tion and operation of bus lane photo devices, in accordance with article
+25 twenty-four of this chapter, or (e) to adjudicate the liability of
+26 owners for violations of toll collection regulations imposed by certain
+27 public authorities pursuant to the law authorizing such public authori-
+28 ties to impose monetary liability on the owner of a vehicle for failure
+29 of an operator thereof to comply with toll collection regulations of
+30 such public authorities through the installation and operation of
+31 photo-monitoring systems, in accordance with the provisions of section
+32 two thousand nine hundred eighty-five of the public authorities law and
+33 sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
+34 seventy-four of the laws of nineteen hundred fifty, or (f) to adjudicate
+35 the liability of owners for violations of section eleven hundred seven-
+36 ty-four of this chapter when meeting a school bus marked and equipped as
+37 provided in subdivisions twenty and twenty-one-c of section three
+38 hundred seventy-five of this chapter imposed pursuant to a local law or
+39 ordinance imposing monetary liability on the owner of a vehicle for
+40 failure of an operator thereof to comply with school bus red visual
+41 signals through the installation and operation of school bus photo
+42 violation monitoring systems, in accordance with article twenty-nine of
+43 this chapter, or (g) to adjudicate the liability of owners for
+44 violations of section three hundred eighty-five of this chapter and the
+45 rules of the applicable covered agency or covered authority as such
+46 terms are defined in article ten of this chapter in relation to gross
+47 vehicle weight and/or axle weight violations imposed pursuant to a weigh
+48 in motion demonstration program imposing monetary liability on the owner
+49 of a vehicle for failure of an operator thereof to comply with such
+50 gross vehicle weight and/or axle weight restrictions through the instal-
+51 lation and operation of weigh in motion violation monitoring systems, in
+52 accordance with article ten of this chapter, or (h) to adjudicate the
+53 liability of owners for violations of subdivision (b), (d), (f) or (g)
+54 of section eleven hundred eighty of this chapter imposed pursuant to a
+55 demonstration program imposing monetary liability on the owner of a
+56 vehicle for failure of an operator thereof to comply with such posted
+
+S. 1891--A 8
+1 maximum speed limits within a highway construction or maintenance work
+2 area through the installation and operation of photo speed violation
+3 monitoring systems, in accordance with article thirty of this chapter,
+4 or (i) to adjudicate the liability of owners for violations of bus oper-
+5 ation-related traffic regulations as defined by article twenty-four of
+6 this chapter imposed pursuant to a demonstration program imposing mone-
+7 tary liability on the owner of a vehicle for failure of an operator
+8 thereof to comply with such bus operation-related traffic regulations
+9 through the installation and operation of bus operation-related photo
+10 devices, in accordance with article twenty-four of this chapter, or (j)
+11 to adjudicate the liability of owners for violations of street cleaning
+12 parking rules as defined by article twenty-four of this chapter imposed
+13 pursuant to a program imposing monetary liability on the owner of a
+14 vehicle for failure of an operator thereof to comply with such street
+15 cleaning parking rules through the installation and operation of street
+16 cleaning vehicle photo devices, in accordance with article twenty-four
+17 of this chapter, such tribunal and the rules and regulations pertaining
+18 thereto shall be constituted in substantial conformance with the follow-
+19 ing sections.
+20 § 3. Subdivision 1 of section 236 of the vehicle and traffic law, as
+21 amended by section 2 of part N of chapter 58 of the laws of 2025, is
+22 amended to read as follows:
+23 1. Creation. In any city as hereinbefore or hereafter authorized such
+24 tribunal when created shall be known as the parking violations bureau
+25 and shall have jurisdiction of traffic infractions which constitute a
+26 parking violation and, where authorized: (a) to adjudicate the liability
+27 of owners for violations of subdivision (d) of section eleven hundred
+28 eleven of this chapter imposed pursuant to a local law or ordinance
+29 imposing monetary liability on the owner of a vehicle for failure of an
+30 operator thereof to comply with traffic-control indications through the
+31 installation and operation of traffic-control signal photo violation-
+32 monitoring systems, in accordance with article twenty-four of this chap-
+33 ter, or (b) to adjudicate the liability of owners for violations of
+34 subdivision (b), (c), (d), (f) or (g) of section eleven hundred eighty
+35 of this chapter imposed pursuant to a demonstration program imposing
+36 monetary liability on the owner of a vehicle for failure of an operator
+37 thereof to comply with such posted maximum speed limits through the
+38 installation and operation of photo speed violation monitoring systems,
+39 in accordance with article thirty of this chapter, or (c) to adjudicate
+40 the liability of owners for violations of bus lane restrictions as
+41 defined by article twenty-four of this chapter imposed pursuant to a bus
+42 rapid transit program imposing monetary liability on the owner of a
+43 vehicle for failure of an operator thereof to comply with such bus lane
+44 restrictions through the installation and operation of bus lane photo
+45 devices, in accordance with article twenty-four of this chapter, or (d)
+46 to adjudicate the liability of owners for violations of toll collection
+47 regulations imposed by certain public authorities pursuant to the law
+48 authorizing such public authorities to impose monetary liability on the
+49 owner of a vehicle for failure of an operator thereof to comply with
+50 toll collection regulations of such public authorities through the
+51 installation and operation of photo-monitoring systems, in accordance
+52 with the provisions of section two thousand nine hundred eighty-five of
+53 the public authorities law and sections sixteen-a, sixteen-b and
+54 sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+55 hundred fifty, or (e) to adjudicate the liability of owners for
+56 violations of section eleven hundred seventy-four of this chapter when
+
+S. 1891--A 9
+1 meeting a school bus marked and equipped as provided in subdivisions
+2 twenty and twenty-one-c of section three hundred seventy-five of this
+3 chapter imposed pursuant to a local law or ordinance imposing monetary
+4 liability on the owner of a vehicle for failure of an operator thereof
+5 to comply with school bus red visual signals through the installation
+6 and operation of school bus photo violation monitoring systems, in
+7 accordance with article twenty-nine of this chapter, or (f) to adjudi-
+8 cate the liability of owners for violations of section three hundred
+9 eighty-five of this chapter and the rules of the applicable covered
+10 agency or covered authority as such terms are defined in article ten of
+11 this chapter in relation to gross vehicle weight and/or axle weight
+12 violations imposed pursuant to a weigh in motion demonstration program
+13 imposing monetary liability on the owner of a vehicle for failure of an
+14 operator thereof to comply with such gross vehicle weight and/or axle
+15 weight restrictions through the installation and operation of weigh in
+16 motion violation monitoring systems, in accordance with article ten of
+17 this chapter, or (g) to adjudicate the liability of owners for
+18 violations of subdivision (b), (d), (f) or (g) of section eleven hundred
+19 eighty of this chapter imposed pursuant to a demonstration program
+20 imposing monetary liability on the owner of a vehicle for failure of an
+21 operator thereof to comply with such posted maximum speed limits within
+22 a highway construction or maintenance work area through the installation
+23 and operation of photo speed violation monitoring systems, in accordance
+24 with article thirty of this chapter, or (h) to adjudicate the liability
+25 of owners for violations of bus operation-related traffic regulations as
+26 defined by article twenty-four of this chapter imposed pursuant to a
+27 demonstration program imposing monetary liability on the owner of a
+28 vehicle for failure of an operator thereof to comply with such bus oper-
+29 ation-related traffic regulations through the installation and operation
+30 of bus operation-related photo devices, in accordance with article twen-
+31 ty-four of this chapter, or (i) to adjudicate the liability of owners
+32 for violations of street cleaning parking rules as defined by article
+33 twenty-four of this chapter imposed pursuant to a program imposing mone-
+34 tary liability on the owner of a vehicle for failure of an operator
+35 thereof to comply with such street cleaning parking rules through the
+36 installation and operation of street cleaning vehicle photo devices, in
+37 accordance with article twenty-four of this chapter. Such tribunal,
+38 except in a city with a population of one million or more, shall also
+39 have jurisdiction of abandoned vehicle violations. For the purposes of
+40 this article, a parking violation is the violation of any law, rule or
+41 regulation providing for or regulating the parking, stopping or standing
+42 of a vehicle. In addition for purposes of this article, "commissioner"
+43 shall mean and include the commissioner of traffic of the city or an
+44 official possessing authority as such a commissioner.
+45 § 4. Paragraph f of subdivision 1 of section 239 of the vehicle and
+46 traffic law, as amended by section 3 of part N of chapter 58 of the laws
+47 of 2025, is amended to read as follows:
+48 f. "Notice of violation" means a notice of violation as defined in
+49 subdivision nine of section two hundred thirty-seven of this article,
+50 but shall not be deemed to include a notice of liability issued pursuant
+51 to authorization set forth in articles ten, twenty-four, twenty-nine and
+52 thirty of this chapter, section two thousand nine hundred eighty-five of
+53 the public authorities law and sections sixteen-a, sixteen-b and
+54 sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+55 hundred fifty to impose monetary liability on the owner of a vehicle for
+56 failure of an operator thereof: to comply with traffic-control indi-
+
+S. 1891--A 10
+1 cations in violation of subdivision (d) of section eleven hundred eleven
+2 of this chapter through the installation and operation of traffic-con-
+3 trol signal photo violation-monitoring systems, in accordance with arti-
+4 cle twenty-four of this chapter; or to comply with certain posted maxi-
+5 mum speed limits in violation of subdivision (b), (c), (d), (f) or (g)
+6 of section eleven hundred eighty of this chapter through the installa-
+7 tion and operation of photo speed violation monitoring systems, in
+8 accordance with article thirty of this chapter; or to comply with bus
+9 lane restrictions as defined by article twenty-four of this chapter
+10 through the installation and operation of bus lane photo devices, in
+11 accordance with article twenty-four of this chapter; or to comply with
+12 toll collection regulations of certain public authorities through the
+13 installation and operation of photo-monitoring systems, in accordance
+14 with the provisions of section two thousand nine hundred eighty-five of
+15 the public authorities law and sections sixteen-a, sixteen-b and
+16 sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+17 hundred fifty; or to stop for a school bus displaying a red visual
+18 signal in violation of section eleven hundred seventy-four of this chap-
+19 ter through the installation and operation of school bus photo violation
+20 monitoring systems, in accordance with article twenty-nine of this chap-
+21 ter; or to comply with certain posted maximum speed limits in violation
+22 of subdivision (b), (d), (f) or (g) of section eleven hundred eighty of
+23 this chapter within a highway construction or maintenance work area
+24 through the installation and operation of photo speed violation monitor-
+25 ing systems, in accordance with article thirty of this chapter; or to
+26 comply with gross vehicle weight and/or axle weight restrictions in
+27 violation of section three hundred eighty-five of this chapter and the
+28 rules of the applicable covered agency or covered authority as such
+29 terms are defined in article ten of this chapter through the installa-
+30 tion and operation of weigh in motion violation monitoring systems, in
+31 accordance with article ten of this chapter; or to comply with bus oper-
+32 ation-related traffic regulations as defined by article twenty-four of
+33 this chapter in violation of the rules of the department of transporta-
+34 tion of the city of New York through the installation and operation of
+35 bus operation-related photo devices, in accordance with article twenty-
+36 four of this chapter; or to comply with street cleaning parking rules as
+37 defined by article twenty-four of this chapter through the installation
+38 and operation of street cleaning vehicle photo devices, in accordance
+39 with article twenty-four of this chapter.
+40 § 5. Subdivisions 1, 1-a and the opening paragraph of paragraph (a) of
+41 subdivision 1-b of section 240 of the vehicle and traffic law, subdivi-
+42 sions 1 and 1-a as amended by section 4 of part N of chapter 58 of the
+43 laws of 2025, and the opening paragraph of paragraph (a) of subdivision
+44 1-b as amended by section 5 of part MM of chapter 56 of the laws of
+45 2023, are amended to read as follows:
+46 1. Notice of hearing. Whenever a person charged with a parking
+47 violation enters a plea of not guilty; or a person alleged to be liable
+48 in accordance with any provisions of law specifically authorizing the
+49 imposition of monetary liability on the owner of a vehicle for failure
+50 of an operator thereof: to comply with traffic-control indications in
+51 violation of subdivision (d) of section eleven hundred eleven of this
+52 chapter through the installation and operation of traffic-control signal
+53 photo violation-monitoring systems, in accordance with article twenty-
+54 four of this chapter; or to comply with certain posted maximum speed
+55 limits in violation of subdivision (b), (c), (d), (f) or (g) of section
+56 eleven hundred eighty of this chapter through the installation and oper-
+
+S. 1891--A 11
+1 ation of photo speed violation monitoring systems, in accordance with
+2 article thirty of this chapter; or to comply with bus lane restrictions
+3 as defined by article twenty-four of this chapter through the installa-
+4 tion and operation of bus lane photo devices, in accordance with article
+5 twenty-four of this chapter; or to comply with toll collection regu-
+6 lations of certain public authorities through the installation and oper-
+7 ation of photo-monitoring systems, in accordance with the provisions of
+8 section two thousand nine hundred eighty-five of the public authorities
+9 law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
+10 hundred seventy-four of the laws of nineteen hundred fifty; or to stop
+11 for a school bus displaying a red visual signal in violation of section
+12 eleven hundred seventy-four of this chapter through the installation and
+13 operation of school bus photo violation monitoring systems, in accord-
+14 ance with article twenty-nine of this chapter; or to comply with certain
+15 posted maximum speed limits in violation of subdivision (b), (d), (f) or
+16 (g) of section eleven hundred eighty of this chapter within a highway
+17 construction or maintenance work area through the installation and oper-
+18 ation of photo speed violation monitoring systems, in accordance with
+19 article thirty of this chapter; or to comply with gross vehicle weight
+20 and/or axle weight restrictions in violation of section three hundred
+21 eighty-five of this chapter and the rules of the applicable covered
+22 agency or covered authority as such terms are defined in article ten of
+23 this chapter through the installation and operation of weigh in motion
+24 violation monitoring systems, in accordance with article ten of this
+25 chapter; or to comply with bus operation-related traffic regulations as
+26 defined by article twenty-four of this chapter in violation of the rules
+27 of the department of transportation of the city of New York through the
+28 installation and operation of bus operation-related photo devices, in
+29 accordance with article twenty-four of this chapter; or to comply with
+30 street cleaning parking rules as defined by article twenty-four of this
+31 chapter through the installation and operation of street cleaning vehi-
+32 cle photo devices, in accordance with article twenty-four of this chap-
+33 ter, contests such allegation, the bureau shall advise such person
+34 personally by such form of first class mail as the director may direct
+35 of the date on which such person must appear to answer the charge at a
+36 hearing. The form and content of such notice of hearing shall be
+37 prescribed by the director, and shall contain a warning to advise the
+38 person so pleading or contesting that failure to appear on the date
+39 designated, or on any subsequent adjourned date, shall be deemed an
+40 admission of liability, and that a default judgment may be entered ther-
+41 eon.
+42 1-a. Fines and penalties. Whenever a plea of not guilty has been
+43 entered, or the bureau has been notified that an allegation of liability
+44 in accordance with provisions of law specifically authorizing the impo-
+45 sition of monetary liability on the owner of a vehicle for failure of an
+46 operator thereof: to comply with traffic-control indications in
+47 violation of subdivision (d) of section eleven hundred eleven of this
+48 chapter through the installation and operation of traffic-control signal
+49 photo violation-monitoring systems, in accordance with article twenty-
+50 four of this chapter; or to comply with certain posted maximum speed
+51 limits in violation of subdivision (b), (c), (d), (f) or (g) of section
+52 eleven hundred eighty of this chapter through the installation and oper-
+53 ation of photo speed violation monitoring systems, in accordance with
+54 article thirty of this chapter; or to comply with bus lane restrictions
+55 as defined by article twenty-four of this chapter through the installa-
+56 tion and operation of bus lane photo devices, in accordance with article
+
+S. 1891--A 12
+1 twenty-four of this chapter; or to comply with toll collection regu-
+2 lations of certain public authorities through the installation and oper-
+3 ation of photo-monitoring systems, in accordance with the provisions of
+4 section two thousand nine hundred eighty-five of the public authorities
+5 law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
+6 hundred seventy-four of the laws of nineteen hundred fifty; or to stop
+7 for a school bus displaying a red visual signal in violation of section
+8 eleven hundred seventy-four of this chapter through the installation and
+9 operation of school bus photo violation monitoring systems, in accord-
+10 ance with article twenty-nine of this chapter; or to comply with certain
+11 posted maximum speed limits in violation of subdivision (b), (d), (f) or
+12 (g) of section eleven hundred eighty of this chapter within a highway
+13 construction or maintenance work area through the installation and oper-
+14 ation of photo speed violation monitoring systems, in accordance with
+15 article thirty of this chapter; or to comply with gross vehicle weight
+16 and/or axle weight restrictions in violation of section three hundred
+17 eighty-five of this chapter and the rules of the applicable covered
+18 agency or covered authority as such terms are defined in article ten of
+19 this chapter through the installation and operation of weigh in motion
+20 violation monitoring systems, in accordance with article ten of this
+21 chapter; or to comply with bus operation-related traffic regulations as
+22 defined by article twenty-four of this chapter in violation of the rules
+23 of the department of transportation of the city of New York through the
+24 installation and operation of bus operation-related photo devices, in
+25 accordance with article twenty-four of this chapter, or to comply with
+26 street cleaning parking rules as defined by article twenty-four of this
+27 chapter through the installation and operation of street cleaning vehi-
+28 cle photo devices, in accordance with article twenty-four of this chap-
+29 ter, is being contested, by a person in a timely fashion and a hearing
+30 upon the merits has been demanded, but has not yet been held, the bureau
+31 shall not issue any notice of fine or penalty to that person prior to
+32 the date of the hearing.
+33 In a city having a population of one million or more, at every hearing
+34 for the adjudication of a notice of liability, as provided by this arti-
+35 cle, there shall be a rebuttable presumption that the owner of a first-
+36 response emergency vehicle alleged to be liable in accordance with any
+37 provisions of law specifically authorizing the imposition of monetary
+38 liability on the owner of a vehicle for failure of an operator thereof:
+39 to comply with traffic-control indications in violation of subdivision
+40 (d) of section eleven hundred eleven of this chapter through the instal-
+41 lation and operation of traffic-control signal photo violation-monitor-
+42 ing systems, in accordance with article twenty-four of this chapter; or
+43 to comply with certain posted maximum speed limits in violation of
+44 subdivision (b), (c), (d), (f) or (g) of section eleven hundred eighty
+45 of this chapter through the installation and operation of photo speed
+46 violation monitoring systems, in accordance with article thirty of this
+47 chapter; or to comply with bus lane restrictions as defined by article
+48 twenty-four of this chapter through the installation and operation of
+49 bus lane photo devices, in accordance with article twenty-four of this
+50 chapter; or to comply with bus operation-related traffic regulations as
+51 defined by article twenty-four of this chapter in violation of the rules
+52 of the department of transportation of the city of New York through the
+53 installation and operation of bus operation-related photo devices, in
+54 accordance with article twenty-four of this chapter; or to comply with
+55 street cleaning parking rules as defined by article twenty-four of this
+56 chapter through the installation and operation of street cleaning
+
+S. 1891--A 13
+1 vehicle photo devices, in accordance with article twenty-four of this
+2 chapter is not liable for such alleged violation if such owner of the
+3 first-response emergency vehicle provides the hearing officer with:
+4 § 6. Paragraphs a and g of subdivision 2 of section 240 of the vehicle
+5 and traffic law, as amended by section 5 of part N of chapter 58 of the
+6 laws of 2025, are amended to read as follows:
+7 a. Every hearing for the adjudication of a charge of parking violation
+8 or an allegation of liability of an owner for a violation of subdivision
+9 (d) of section eleven hundred eleven of this chapter imposed pursuant to
+10 a local law or ordinance imposing monetary liability on the owner of a
+11 vehicle for failure of an operator thereof to comply with traffic-con-
+12 trol indications through the installation and operation of traffic-con-
+13 trol signal photo violation-monitoring systems, in accordance with arti-
+14 cle twenty-four of this chapter, or an allegation of liability of an
+15 owner for a violation of subdivision (b), (c), (d), (f) or (g) of
+16 section eleven hundred eighty of this chapter imposed pursuant to a
+17 demonstration program imposing monetary liability on the owner of a
+18 vehicle for failure of an operator thereof to comply with certain posted
+19 maximum speed limits through the installation and operation of photo
+20 speed violation monitoring systems, in accordance with article thirty of
+21 this chapter, or an allegation of liability of an owner for a violation
+22 of bus lane restrictions as defined by article twenty-four of this chap-
+23 ter imposed pursuant to a bus rapid transit program imposing monetary
+24 liability on the owner of a vehicle for failure of an operator thereof
+25 to comply with such bus lane restrictions through the installation and
+26 operation of bus lane photo devices, in accordance with article twenty-
+27 four of this chapter, or an allegation of liability of an owner for a
+28 violation of toll collection regulations imposed by certain public
+29 authorities pursuant to the law authorizing such public authorities to
+30 impose monetary liability on the owner of a vehicle for failure of an
+31 operator thereof to comply with toll collection regulations of such
+32 public authorities through the installation and operation of photo-moni-
+33 toring systems, in accordance with the provisions of section two thou-
+34 sand nine hundred eighty-five of the public authorities law and sections
+35 sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
+36 of the laws of nineteen hundred fifty, or an allegation of liability of
+37 an owner for a violation of section eleven hundred seventy-four of this
+38 chapter when meeting a school bus marked and equipped as provided in
+39 subdivisions twenty and twenty-one-c of section three hundred seventy-
+40 five of this chapter imposed pursuant to a local law or ordinance impos-
+41 ing monetary liability on the owner of a vehicle for failure of an oper-
+42 ator thereof to comply with school bus red visual signals through the
+43 installation and operation of school bus photo violation monitoring
+44 systems, in accordance with article twenty-nine of this chapter, or an
+45 allegation of liability of an owner for a violation of subdivision (b),
+46 (d), (f) or (g) of section eleven hundred eighty of this chapter imposed
+47 pursuant to a demonstration program imposing monetary liability on the
+48 owner of a vehicle for failure of an operator thereof to comply with
+49 certain posted maximum speed limits within a highway construction or
+50 maintenance work area through the installation and operation of photo
+51 speed violation monitoring systems, in accordance with article thirty of
+52 this chapter, or an allegation of liability of an owner for a violation
+53 of section three hundred eighty-five of this chapter and the rules of
+54 the applicable covered agency or covered authority as such terms are
+55 defined in article ten of this chapter in relation to gross vehicle
+56 weight and/or axle weight violations imposed pursuant to a weigh in
+
+S. 1891--A 14
+1 motion demonstration program imposing monetary liability on the owner of
+2 a vehicle for failure of an operator thereof to comply with such gross
+3 vehicle weight and/or axle weight restrictions through the installation
+4 and operation of weigh in motion violation monitoring systems, in
+5 accordance with article ten of this chapter, or an allegation of liabil-
+6 ity of an owner for a violation of bus operation-related traffic regu-
+7 lations as defined by article twenty-four of this chapter imposed pursu-
+8 ant to a demonstration program imposing monetary liability on the owner
+9 of a vehicle for failure of an operator thereof to comply with such bus
+10 operation-related traffic regulations through the installation and oper-
+11 ation of bus operation-related photo devices, in accordance with article
+12 twenty-four of this chapter, or an allegation of liability of an owner
+13 for a violation of street cleaning parking rules as defined by article
+14 twenty-four of this chapter imposed pursuant to a program imposing mone-
+15 tary liability on the owner of a vehicle for failure of an operator
+16 thereof to comply with such street cleaning parking rules through the
+17 installation and operation of street cleaning vehicle photo devices, in
+18 accordance with article twenty-four of this chapter, shall be held
+19 before a hearing examiner in accordance with rules and regulations
+20 promulgated by the bureau.
+21 g. A record shall be made of a hearing on a plea of not guilty or of a
+22 hearing at which liability in accordance with any provisions of law
+23 specifically authorizing the imposition of monetary liability on the
+24 owner of a vehicle for failure of an operator thereof: to comply with
+25 traffic-control indications in violation of subdivision (d) of section
+26 eleven hundred eleven of this chapter through the installation and oper-
+27 ation of traffic-control signal photo violation-monitoring systems, in
+28 accordance with article twenty-four of this chapter; to comply with
+29 certain posted maximum speed limits in violation of subdivision (b),
+30 (c), (d), (f) or (g) of section eleven hundred eighty of this chapter
+31 through the installation and operation of photo speed violation monitor-
+32 ing systems, in accordance with article thirty of this chapter; to
+33 comply with bus lane restrictions as defined by article twenty-four of
+34 this chapter through the installation and operation of bus lane photo
+35 devices, in accordance with article twenty-four of this chapter; to
+36 comply with toll collection regulations of certain public authorities
+37 through the installation and operation of photo-monitoring systems, in
+38 accordance with the provisions of section two thousand nine hundred
+39 eighty-five of the public authorities law and sections sixteen-a,
+40 sixteen-b and sixteen-c of chapter seven hundred seventy-four of the
+41 laws of nineteen hundred fifty; to stop for a school bus displaying a
+42 red visual signal in violation of section eleven hundred seventy-four of
+43 this chapter through the installation and operation of school bus photo
+44 violation monitoring systems, in accordance with article twenty-nine of
+45 this chapter; to comply with certain posted maximum speed limits in
+46 violation of subdivision (b), (d), (f) or (g) of section eleven hundred
+47 eighty of this chapter within a highway construction or maintenance work
+48 area through the installation and operation of photo speed violation
+49 monitoring systems, in accordance with article thirty of this chapter;
+50 to comply with gross vehicle weight and/or axle weight restrictions in
+51 violation of section three hundred eighty-five of this chapter and the
+52 rules of the applicable covered agency or covered authority as such
+53 terms are defined in article ten of this chapter through the installa-
+54 tion and operation of weigh in motion violation monitoring systems, in
+55 accordance with article ten of this chapter; or to comply with bus oper-
+56 ation-related traffic regulations as defined by article twenty-four of
+
+S. 1891--A 15
+1 this chapter in violation of the rules of the department of transporta-
+2 tion of the city of New York through the installation and operation of
+3 bus operation-related photo devices, in accordance with article twenty-
+4 four of this chapter; or to comply with street cleaning parking rules as
+5 defined by article twenty-four of this chapter through the installation
+6 and operation of street cleaning vehicle photo devices, in accordance
+7 with article twenty-four of this chapter, is contested. Recording
+8 devices may be used for the making of the record.
+9 § 7. Subdivisions 1 and 2 of section 241 of the vehicle and traffic
+10 law, as amended by section 6 of part N of chapter 58 of the laws of
+11 2025, are amended to read as follows:
+12 1. The hearing examiner shall make a determination on the charges,
+13 either sustaining or dismissing them. Where the hearing examiner deter-
+14 mines that the charges have been sustained such hearing examiner may
+15 examine either the prior parking violations record or the record of
+16 liabilities incurred in accordance with any provisions of law specif-
+17 ically authorizing the imposition of monetary liability on the owner of
+18 a vehicle for failure of an operator thereof: to comply with traffic-
+19 control indications in violation of subdivision (d) of section eleven
+20 hundred eleven of this chapter through the installation and operation of
+21 traffic-control signal photo violation-monitoring systems, in accordance
+22 with article twenty-four of this chapter; to comply with certain posted
+23 maximum speed limits in violation of subdivision (b), (c), (d), (f) or
+24 (g) of section eleven hundred eighty of this chapter through the instal-
+25 lation and operation of photo speed violation monitoring systems, in
+26 accordance with article thirty of this chapter; to comply with bus lane
+27 restrictions as defined by article twenty-four of this chapter through
+28 the installation and operation of bus lane photo devices, in accordance
+29 with article twenty-four of this chapter; to comply with toll collection
+30 regulations of certain public authorities through the installation and
+31 operation of photo-monitoring systems, in accordance with the provisions
+32 of section two thousand nine hundred eighty-five of the public authori-
+33 ties law and sections sixteen-a, sixteen-b and sixteen-c of chapter
+34 seven hundred seventy-four of the laws of nineteen hundred fifty; to
+35 stop for a school bus displaying a red visual signal in violation of
+36 section eleven hundred seventy-four of this chapter through the instal-
+37 lation and operation of school bus photo violation monitoring systems,
+38 in accordance with article twenty-nine of this chapter; to comply with
+39 certain posted maximum speed limits in violation of subdivision (b),
+40 (d), (f) or (g) of section eleven hundred eighty of this chapter within
+41 a highway construction or maintenance work area through the installation
+42 and operation of photo speed violation monitoring systems, in accordance
+43 with article thirty of this chapter; to comply with gross vehicle weight
+44 and/or axle weight restrictions in violation of section three hundred
+45 eighty-five of this chapter and the rules of the applicable covered
+46 agency or covered authority as such terms are defined in article ten of
+47 this chapter through the installation and operation of weigh in motion
+48 violation monitoring systems, in accordance with article ten of this
+49 chapter; [or] to comply with bus operation-related traffic regulations
+50 as defined by article twenty-four of this chapter in violation of the
+51 rules of the department of transportation of the city of New York
+52 through the installation and operation of bus operation-related photo
+53 devices, in accordance with article twenty-four of this chapter; or to
+54 comply with street cleaning parking rules as defined by article twenty-
+55 four of this chapter through the installation and operation of street
+56 cleaning vehicle photo devices, in accordance with article twenty-four
+
+S. 1891--A 16
+1 of this chapter, of the person charged, as applicable prior to rendering
+2 a final determination. Final determinations sustaining or dismissing
+3 charges shall be entered on a final determination roll maintained by the
+4 bureau together with records showing payment and nonpayment of penal-
+5 ties.
+6 2. Where an operator or owner fails to enter a plea to a charge of a
+7 parking violation or contest an allegation of liability in accordance
+8 with any provisions of law specifically authorizing the imposition of
+9 monetary liability on the owner of a vehicle for failure of an operator
+10 thereof: to comply with traffic-control indications in violation of
+11 subdivision (d) of section eleven hundred eleven of this chapter through
+12 the installation and operation of traffic-control signal photo viola-
+13 tion-monitoring systems, in accordance with article twenty-four of this
+14 chapter; to comply with certain posted maximum speed limits in violation
+15 of subdivision (b), (c), (d), (f) or (g) of section eleven hundred
+16 eighty of this chapter through the installation and operation of photo
+17 speed violation monitoring systems, in accordance with article thirty of
+18 this chapter; to comply with bus lane restrictions as defined by article
+19 twenty-four of this chapter through the installation and operation of
+20 bus lane photo devices, in accordance with article twenty-four of this
+21 chapter; to comply with toll collection regulations of certain public
+22 authorities through the installation and operation of photo-monitoring
+23 systems, in accordance with the provisions of section two thousand nine
+24 hundred eighty-five of the public authorities law and sections
+25 sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
+26 of the laws of nineteen hundred fifty; to stop for a school bus display-
+27 ing a red visual signal in violation of section eleven hundred seventy-
+28 four of this chapter through the installation and operation of school
+29 bus photo violation monitoring systems, in accordance with article twen-
+30 ty-nine of this chapter; to comply with certain posted maximum speed
+31 limits in violation of subdivision (b), (d), (f) or (g) of section elev-
+32 en hundred eighty of this chapter within a highway construction or main-
+33 tenance work area through the installation and operation of photo speed
+34 violation monitoring systems, in accordance with article thirty of this
+35 chapter; to comply with gross vehicle weight and/or axle weight
+36 restrictions in violation of section three hundred eighty-five of this
+37 chapter and the rules of the applicable covered agency or covered
+38 authority as such terms are defined in article ten of this chapter
+39 through the installation and operation of weigh in motion violation
+40 monitoring systems, in accordance with article ten of this chapter; [or]
+41 to comply with bus operation-related traffic regulations as defined by
+42 article twenty-four of this chapter in violation of the rules of the
+43 department of transportation of the city of New York through the instal-
+44 lation and operation of bus operation-related photo devices, in accord-
+45 ance with article twenty-four of this chapter; or to comply with street
+46 cleaning parking rules as defined by article twenty-four of this chapter
+47 through the installation and operation of street cleaning vehicle photo
+48 devices, in accordance with article twenty-four of this chapter, or
+49 fails to appear on a designated hearing date or subsequent adjourned
+50 date or fails after a hearing to comply with the determination of a
+51 hearing examiner, as prescribed by this article or by rule or regulation
+52 of the bureau, such failure to plead or contest, appear or comply shall
+53 be deemed, for all purposes, an admission of liability and shall be
+54 grounds for rendering and entering a default judgment in an amount
+55 provided by the rules and regulations of the bureau. However, after the
+56 expiration of the original date prescribed for entering a plea and
+
+S. 1891--A 17
+1 before a default judgment may be rendered, in such case the bureau shall
+2 pursuant to the applicable provisions of law notify such operator or
+3 owner, by such form of first class mail as the commission may direct;
+4 (1) of the violation charged, or liability alleged in accordance with
+5 any provisions of law specifically authorizing the imposition of mone-
+6 tary liability on the owner of a vehicle for failure of an operator
+7 thereof: to comply with traffic-control indications in violation of
+8 subdivision (d) of section eleven hundred eleven of this chapter through
+9 the installation and operation of traffic-control signal photo viola-
+10 tion-monitoring systems, in accordance with article twenty-four of this
+11 chapter; to comply with certain posted maximum speed limits in violation
+12 of subdivision (b), (c), (d), (f) or (g) of section eleven hundred
+13 eighty of this chapter through the installation and operation of photo
+14 speed violation monitoring systems, in accordance with article thirty of
+15 this chapter; to comply with bus lane restrictions as defined by article
+16 twenty-four of this chapter through the installation and operation of
+17 bus lane photo devices, in accordance with article twenty-four of this
+18 chapter; to comply with toll collection regulations of certain public
+19 authorities through the installation and operation of photo-monitoring
+20 systems, in accordance with the provisions of section two thousand nine
+21 hundred eighty-five of the public authorities law and sections
+22 sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
+23 of the laws of nineteen hundred fifty; to stop for a school bus display-
+24 ing a red visual signal in violation of section eleven hundred seventy-
+25 four of this chapter through the installation and operation of school
+26 bus photo violation monitoring systems, in accordance with article twen-
+27 ty-nine of this chapter; to comply with certain posted maximum speed
+28 limits in violation of subdivision (b), (d), (f) or (g) of section elev-
+29 en hundred eighty of this chapter within a highway construction or main-
+30 tenance work area through the installation and operation of photo speed
+31 violation monitoring systems, in accordance with article thirty of this
+32 chapter; to comply with gross vehicle weight and/or axle weight
+33 restrictions in violation of section three hundred eighty-five of this
+34 chapter and the rules of the applicable covered agency or covered
+35 authority as such terms are defined in article ten of this chapter
+36 through the installation and operation of weigh in motion violation
+37 monitoring systems, in accordance with article ten of this chapter; [or]
+38 to comply with bus operation-related traffic regulations as defined by
+39 article twenty-four of this chapter in violation of the rules of the
+40 department of transportation of the city of New York through the instal-
+41 lation and operation of bus operation-related photo devices, in accord-
+42 ance with article twenty-four of this chapter; or to comply with street
+43 cleaning parking rules as defined by article twenty-four of this chapter
+44 through the installation and operation of street cleaning vehicle photo
+45 devices, in accordance with article twenty-four of this chapter, (2) of
+46 the impending default judgment, (3) that such judgment will be entered
+47 in the Civil Court of the city in which the bureau has been established,
+48 or other court of civil jurisdiction or any other place provided for the
+49 entry of civil judgments within the state of New York, and (4) that a
+50 default may be avoided by entering a plea or contesting an allegation of
+51 liability in accordance with any provisions of law specifically author-
+52 izing the imposition of monetary liability on the owner of a vehicle for
+53 failure of an operator thereof: to comply with traffic-control indi-
+54 cations in violation of subdivision (d) of section eleven hundred eleven
+55 of this chapter through the installation and operation of traffic-con-
+56 trol signal photo violation-monitoring systems, in accordance with arti-
+
+S. 1891--A 18
+1 cle twenty-four of this chapter; to comply with certain posted maximum
+2 speed limits in violation of subdivision (b), (c), (d), (f) or (g) of
+3 section eleven hundred eighty of this chapter through the installation
+4 and operation of photo speed violation monitoring systems, in accordance
+5 with article thirty of this chapter; to comply with bus lane
+6 restrictions as defined by article twenty-four of this chapter through
+7 the installation and operation of bus lane photo devices, in accordance
+8 with article twenty-four of this chapter; to comply with toll collection
+9 regulations of certain public authorities through the installation and
+10 operation of photo-monitoring systems, in accordance with the provisions
+11 of section two thousand nine hundred eighty-five of the public authori-
+12 ties law and sections sixteen-a, sixteen-b and sixteen-c of chapter
+13 seven hundred seventy-four of the laws of nineteen hundred fifty; to
+14 stop for a school bus displaying a red visual signal in violation of
+15 section eleven hundred seventy-four of this chapter through the instal-
+16 lation and operation of school bus photo violation monitoring systems,
+17 in accordance with article twenty-nine of this chapter; to comply with
+18 certain posted maximum speed limits in violation of subdivision (b),
+19 (d), (f) or (g) of section eleven hundred eighty of this chapter within
+20 a highway construction or maintenance work area through the installation
+21 and operation of photo speed violation monitoring systems, in accordance
+22 with article thirty of this chapter; to comply with gross vehicle weight
+23 and/or axle weight restrictions in violation of section three hundred
+24 eighty-five of this chapter and the rules of the applicable covered
+25 agency or covered authority as such terms are defined in article ten of
+26 this chapter through the installation and operation of weigh in motion
+27 violation monitoring systems, in accordance with article ten of this
+28 chapter; [or] to comply with bus operation-related traffic regulations
+29 as defined by article twenty-four of this chapter in violation of the
+30 rules of the department of transportation of the city of New York
+31 through the installation and operation of bus operation-related photo
+32 devices, in accordance with article twenty-four of this chapter; or to
+33 comply with street cleaning parking rules as defined by article twenty-
+34 four of this chapter through the installation and operation of street
+35 cleaning vehicle photo devices, in accordance with article twenty-four
+36 of this chapter; or making an appearance within thirty days of the send-
+37 ing of such notice. Pleas entered and allegations contested within that
+38 period shall be in the manner prescribed in the notice and not subject
+39 to additional penalty or fee. Such notice of impending default judgment
+40 shall not be required prior to the rendering and entry thereof in the
+41 case of operators or owners who are non-residents of the state of New
+42 York. In no case shall a default judgment be rendered or, where
+43 required, a notice of impending default judgment be sent, more than two
+44 years after the expiration of the time prescribed for entering a plea or
+45 contesting an allegation. When a person has demanded a hearing, no fine
+46 or penalty shall be imposed for any reason, prior to the holding of the
+47 hearing. If the hearing examiner shall make a determination on the
+48 charges, sustaining them, such hearing examiner shall impose no greater
+49 penalty or fine than those upon which the person was originally charged.
+50 § 8. Subparagraph (i) of paragraph a of subdivision 5-a of section 401
+51 of the vehicle and traffic law, as amended by section 7 of part N of
+52 chapter 58 of the laws of 2025, is amended to read as follows:
+53 (i) If at the time of application for a registration or renewal there-
+54 of there is a certification from a court, parking violations bureau,
+55 traffic and parking violations agency or administrative tribunal of
+56 appropriate jurisdiction that the registrant or their representative
+
+S. 1891--A 19
+1 failed to appear on the return date or any subsequent adjourned date or
+2 failed to comply with the rules and regulations of an administrative
+3 tribunal following entry of a final decision in response to a total of
+4 three or more summonses or other process in the aggregate, issued within
+5 an eighteen month period, charging either that: (i) such motor vehicle
+6 was parked, stopped or standing, or that such motor vehicle was operated
+7 for hire by the registrant or their agent without being licensed as a
+8 motor vehicle for hire by the appropriate local authority, in violation
+9 of any of the provisions of this chapter or of any law, ordinance, rule
+10 or regulation made by a local authority; or (ii) the registrant was
+11 liable for a violation of subdivision (d) of section eleven hundred
+12 eleven of this chapter imposed pursuant to a local law or ordinance
+13 imposing monetary liability on the owner of a vehicle for failure of an
+14 operator thereof to comply with traffic-control indications through the
+15 installation and operation of traffic-control signal photo violation-
+16 monitoring systems, in accordance with article twenty-four of this chap-
+17 ter; or (iii) the registrant was liable for a violation of subdivision
+18 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this chap-
+19 ter imposed pursuant to a demonstration program imposing monetary
+20 liability on the owner of a vehicle for failure of an operator thereof
+21 to comply with such posted maximum speed limits through the installation
+22 and operation of photo speed violation monitoring systems, in accordance
+23 with article thirty of this chapter; or (iv) the registrant was liable
+24 for a violation of bus lane restrictions as defined by article twenty-
+25 four of this chapter imposed pursuant to a bus rapid transit program
+26 imposing monetary liability on the owner of a vehicle for failure of an
+27 operator thereof to comply with such bus lane restrictions through the
+28 installation and operation of bus lane photo devices, in accordance with
+29 article twenty-four of this chapter; or (v) the registrant was liable
+30 for a violation of section eleven hundred seventy-four of this chapter
+31 when meeting a school bus marked and equipped as provided in subdivi-
+32 sions twenty and twenty-one-c of section three hundred seventy-five of
+33 this chapter imposed pursuant to a local law or ordinance imposing mone-
+34 tary liability on the owner of a vehicle for failure of an operator
+35 thereof to comply with school bus red visual signals through the instal-
+36 lation and operation of school bus photo violation monitoring systems,
+37 in accordance with article twenty-nine of this chapter; or (vi) the
+38 registrant was liable for a violation of section three hundred eighty-
+39 five of this chapter and the rules of the applicable covered agency or
+40 covered authority as such terms are defined in article ten of this chap-
+41 ter in relation to gross vehicle weight and/or axle weight violations
+42 imposed pursuant to a weigh in motion demonstration program imposing
+43 monetary liability on the owner of a vehicle for failure of an operator
+44 thereof to comply with such gross vehicle weight and/or axle weight
+45 restrictions through the installation and operation of weigh in motion
+46 violation monitoring systems, in accordance with article ten of this
+47 chapter; or (vii) the registrant was liable for a violation of subdivi-
+48 sion (b), (d), (f) or (g) of section eleven hundred eighty of this chap-
+49 ter imposed pursuant to a demonstration program imposing monetary
+50 liability on the owner of a vehicle for failure of an operator thereof
+51 to comply with such posted maximum speed limits within a highway
+52 construction or maintenance work area through the installation and oper-
+53 ation of photo speed violation monitoring systems, in accordance with
+54 article thirty of this chapter[,]; or (viii) the registrant was liable
+55 for a violation of bus operation-related traffic regulations as defined
+56 by article twenty-four of this chapter imposed pursuant to a demon-
+
+S. 1891--A 20
+1 stration program imposing monetary liability on the owner of a vehicle
+2 for failure of an operator thereof to comply with such bus operation-re-
+3 lated traffic regulations through the installation and operation of bus
+4 operation-related photo devices, in accordance with article twenty-four
+5 of this chapter[,]; or (ix) the registrant was liable for a violation of
+6 street cleaning parking rules as defined by article twenty-four of this
+7 chapter imposed pursuant to a program imposing monetary liability on the
+8 owner of a vehicle for failure of an operator thereof to comply with
+9 such street cleaning parking rules through the installation and opera-
+10 tion of street cleaning vehicle photo devices, in accordance with arti-
+11 cle twenty-four of this chapter, the commissioner or their agent shall
+12 deny the registration or renewal application until the applicant
+13 provides proof from the court, traffic and parking violations agency or
+14 administrative tribunal wherein the charges are pending that an appear-
+15 ance or answer has been made or in the case of an administrative tribu-
+16 nal that such applicant has complied with the rules and regulations of
+17 said tribunal following entry of a final decision. Where an application
+18 is denied pursuant to this section, the commissioner may, in their
+19 discretion, deny a registration or renewal application to any other
+20 person for the same vehicle and may deny a registration or renewal
+21 application for any other motor vehicle registered in the name of the
+22 applicant where the commissioner has determined that such registrant's
+23 intent has been to evade the purposes of this subdivision and where the
+24 commissioner has reasonable grounds to believe that such registration or
+25 renewal will have the effect of defeating the purposes of this subdivi-
+26 sion. Such denial shall only remain in effect as long as the summonses
+27 remain unanswered, or in the case of an administrative tribunal, the
+28 registrant fails to comply with the rules and regulations following
+29 entry of a final decision.
+30 § 9. Subdivision 1-a of section 1809 of the vehicle and traffic law,
+31 as amended by section 8 of part N of chapter 58 of the laws of 2025, is
+32 amended to read as follows:
+33 1-a. Notwithstanding the provisions of subdivision one of this
+34 section, the provisions of subdivision one of this section shall not
+35 apply to an adjudication of liability of owners: (a) for violations of
+36 subdivision (d) of section eleven hundred eleven of this chapter imposed
+37 pursuant to a local law or ordinance imposing monetary liability on the
+38 owner of a vehicle for failure of an operator thereof to comply with
+39 traffic-control indications through the installation and operation of
+40 traffic-control signal photo violation-monitoring systems, in accordance
+41 with article twenty-four of this chapter; or (b) for violations of
+42 subdivision (b), (c), (d), (f) or (g) of section eleven hundred eighty
+43 of this chapter imposed pursuant to a demonstration program imposing
+44 monetary liability on the owner of a vehicle for failure of an operator
+45 thereof to comply with such posted maximum speed limits through the
+46 installation and operation of photo speed violation monitoring systems,
+47 in accordance with article thirty of this chapter; or (c) for violations
+48 of bus lane restrictions as defined by article twenty-four of this chap-
+49 ter imposed pursuant to a bus rapid transit program imposing monetary
+50 liability on the owner of a vehicle for failure of an operator thereof
+51 to comply with such bus lane restrictions through the installation and
+52 operation of bus lane photo devices, in accordance with article twenty-
+53 four of this chapter; or (d) for violations of toll collection regu-
+54 lations imposed by certain public authorities pursuant to the law
+55 authorizing such public authorities to impose monetary liability on the
+56 owner of a vehicle for failure of an operator thereof to comply with
+
+S. 1891--A 21
+1 toll collection regulations of such public authorities through the
+2 installation and operation of photo-monitoring systems, in accordance
+3 with the provisions of section two thousand nine hundred eighty-five of
+4 the public authorities law and sections sixteen-a, sixteen-b and
+5 sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+6 hundred fifty; or (e) for violations of section eleven hundred seventy-
+7 four of this chapter when meeting a school bus marked and equipped as
+8 provided in subdivisions twenty and twenty-one-c of section three
+9 hundred seventy-five of this chapter imposed pursuant to a local law or
+10 ordinance imposing monetary liability on the owner of a vehicle for
+11 failure of an operator thereof to comply with school bus red visual
+12 signals through the installation and operation of school bus photo
+13 violation monitoring systems, in accordance with article twenty-nine of
+14 this chapter; or (f) for violations of section three hundred eighty-five
+15 of this chapter and the rules of the applicable covered agency or
+16 covered authority as such terms are defined in article ten of this chap-
+17 ter in relation to gross vehicle weight and/or axle weight violations
+18 imposed pursuant to a weigh in motion demonstration program imposing
+19 monetary liability on the owner of a vehicle for failure of an operator
+20 thereof to comply with such gross vehicle weight and/or axle weight
+21 restrictions through the installation and operation of weigh in motion
+22 violation monitoring systems, in accordance with article ten of this
+23 chapter; or (g) for violations of subdivision (b), (d), (f) or (g) of
+24 section eleven hundred eighty of this chapter imposed pursuant to a
+25 demonstration program imposing monetary liability on the owner of a
+26 vehicle for failure of an operator thereof to comply with such posted
+27 maximum speed limits within a highway construction or maintenance work
+28 area through the installation and operation of photo speed violation
+29 monitoring systems, in accordance with article thirty of this chapter;
+30 or (h) for violations of bus operation-related traffic regulations as
+31 defined by article twenty-four of this chapter imposed pursuant to a
+32 demonstration program imposing monetary liability on the owner of a
+33 vehicle for failure of an operator thereof to comply with such bus oper-
+34 ation-related traffic regulations through the installation and operation
+35 of bus operation-related photo devices, in accordance with article twen-
+36 ty-four of this chapter; or (i) for violations of street cleaning park-
+37 ing rules as defined by article twenty-four of this chapter imposed
+38 pursuant to a program imposing monetary liability on the owner of a
+39 vehicle for failure of an operator thereof to comply with such street
+40 cleaning parking rules through the installation and operation of street
+41 cleaning vehicle photo devices, in accordance with article twenty-four
+42 of this chapter.
+43 § 10. Subdivision 1 of section 1809-a of the vehicle and traffic law,
+44 as amended by section 10 of part MM of chapter 56 of the laws of 2023,
+45 is amended to read as follows:
+46 1. The provisions of any other general or special law notwithstanding,
+47 whenever, in a city having a population of one hundred thousand or more
+48 according to the nineteen hundred eighty United States census,
+49 proceedings in an administrative tribunal or a court result in a finding
+50 of liability, or conviction for the violation of any statute, local law,
+51 ordinance or rule involving the parking, stopping or standing of a motor
+52 vehicle, except (a) an adjudication of liability of an owner for a
+53 violation of bus operation-related traffic regulations as defined by
+54 article twenty-four of this chapter imposed pursuant to a demonstration
+55 program imposing monetary liability on the owner of a vehicle for fail-
+56 ure of an operator thereof to comply with such bus operation-related
+
+S. 1891--A 22
+1 traffic regulations through the installation and operation of bus opera-
+2 tion-related photo devices, in accordance with article twenty-four of
+3 this chapter, or (b) an adjudication of liability of an owner for a
+4 violation of street cleaning parking rules as defined by article twen-
+5 ty-four of this chapter imposed pursuant to a program imposing monetary
+6 liability on the owner of a vehicle for failure of an operator thereof
+7 to comply with such street cleaning parking rules through the installa-
+8 tion and operation of street cleaning vehicle photo devices, in accord-
+9 ance with article twenty-four of this chapter, there shall be levied a
+10 mandatory surcharge in addition to any other sentence, fine or penalty
+11 otherwise permitted or required, in the amount of fifteen dollars. Such
+12 surcharge shall not be deemed a monetary penalty for the purposes of
+13 section two hundred thirty-seven of this chapter or section 19-203 of
+14 the administrative code of the city of New York.
+15 § 11. Subdivision 1 of section 1809-aa of the vehicle and traffic law,
+16 as amended by section 11 of part MM of chapter 56 of the laws of 2023,
+17 is amended to read as follows:
+18 1. Notwithstanding any other provision of law, whenever proceedings in
+19 an administrative tribunal or court result in a conviction for a
+20 violation of section twelve hundred, twelve hundred one or twelve
+21 hundred two of this chapter, except (a) an adjudication of liability of
+22 an owner for a violation of bus operation-related traffic regulations as
+23 defined by article twenty-four of this chapter imposed pursuant to a
+24 demonstration program imposing monetary liability on the owner of a
+25 vehicle for failure of an operator thereof to comply with such bus oper-
+26 ation-related traffic regulations through the installation and operation
+27 of bus operation-related photo devices, in accordance with article twen-
+28 ty-four of this chapter, or (b) an adjudication of liability of an
+29 owner for a violation of street cleaning parking rules as defined by
+30 article twenty-four of this chapter imposed pursuant to a program
+31 imposing monetary liability on the owner of a vehicle for failure
+32 of an operator thereof to comply with such street cleaning parking rules
+33 through the installation and operation of street cleaning vehicle photo
+34 devices, in accordance with article twenty-four of this chapter, there
+35 shall be levied a mandatory surcharge in addition to any other sentence,
+36 fine or penalty otherwise permitted or required, in the amount of twen-
+37 ty-five dollars.
+38 § 12. Paragraph a of subdivision 1 of section 1809-e of the vehicle
+39 and traffic law, as amended by section 9 of part N of chapter 58 of the
+40 laws of 2025, is amended to read as follows:
+41 a. Notwithstanding any other provision of law, whenever proceedings in
+42 a court or an administrative tribunal of this state result in a
+43 conviction for an offense under this chapter, except a conviction pursu-
+44 ant to section eleven hundred ninety-two of this chapter, or for a traf-
+45 fic infraction under this chapter, or a local law, ordinance, rule or
+46 regulation adopted pursuant to this chapter, except: (i) a traffic
+47 infraction involving standing, stopping, or parking or violations by
+48 pedestrians or bicyclists; and (ii) an adjudication of liability of an
+49 owner for a violation of subdivision (d) of section eleven hundred elev-
+50 en of this chapter imposed pursuant to a local law or ordinance imposing
+51 monetary liability on the owner of a vehicle for failure of an operator
+52 thereof to comply with traffic-control indications through the installa-
+53 tion and operation of traffic-control signal photo violation-monitoring
+54 systems, in accordance with article twenty-four of this chapter; and
+55 (iii) an adjudication of liability of an owner for a violation of subdi-
+56 vision (b), (c), (d), (f) or (g) of section eleven hundred eighty of
+
+S. 1891--A 23
+1 this chapter imposed pursuant to a demonstration program imposing mone-
+2 tary liability on the owner of a vehicle for failure of an operator
+3 thereof to comply with such posted maximum speed limits through the
+4 installation and operation of photo speed violation monitoring systems,
+5 in accordance with article thirty of this chapter; and (iv) an adjudi-
+6 cation of liability of an owner for a violation of bus lane restrictions
+7 as defined by article twenty-four of this chapter imposed pursuant to a
+8 bus rapid transit program imposing monetary liability on the owner of a
+9 vehicle for failure of an operator thereof to comply with such bus lane
+10 restrictions through the installation and operation of bus lane photo
+11 devices, in accordance with article twenty-four of this chapter; and (v)
+12 an adjudication of liability of an owner for a violation of toll
+13 collection regulations imposed by certain public authorities pursuant to
+14 the law authorizing such public authorities to impose monetary liability
+15 on the owner of a vehicle for failure of an operator thereof to comply
+16 with toll collection regulations of such public authorities through the
+17 installation and operation of photo-monitoring systems, in accordance
+18 with section two thousand nine hundred eighty-five of the public author-
+19 ities law or sections sixteen-a, sixteen-b and sixteen-c of chapter
+20 seven hundred seventy-four of the laws of nineteen hundred fifty; and
+21 (vi) an adjudication of liability of an owner for a violation of section
+22 eleven hundred seventy-four of this chapter when meeting a school bus
+23 marked and equipped as provided in subdivisions twenty and twenty-one-c
+24 of section three hundred seventy-five of this chapter imposed pursuant
+25 to a local law or ordinance imposing monetary liability on the owner of
+26 a vehicle for failure of an operator thereof to comply with school bus
+27 red visual signals through the installation and operation of school bus
+28 photo violation monitoring systems, in accordance with article twenty-
+29 nine of this chapter; and (vii) an adjudication of liability of an owner
+30 for a violation of section three hundred eighty-five of this chapter and
+31 the rules of the applicable covered agency or covered authority as such
+32 terms are defined in article ten of this chapter in relation to gross
+33 vehicle weight and/or axle weight violations imposed pursuant to a weigh
+34 in motion demonstration program imposing monetary liability on the owner
+35 of a vehicle for failure of an operator thereof to comply with such
+36 gross vehicle weight and/or axle weight restrictions through the instal-
+37 lation and operation of weigh in motion violation monitoring systems, in
+38 accordance with article ten of this chapter; and (viii) an adjudication
+39 of liability of an owner for a violation of subdivision (b), (d), (f) or
+40 (g) of section eleven hundred eighty of this chapter imposed pursuant to
+41 a demonstration program imposing monetary liability on the owner of a
+42 vehicle for failure of an operator thereof to comply with such posted
+43 maximum speed limits within a highway construction or maintenance work
+44 area through the installation and operation of photo speed violation
+45 monitoring systems, in accordance with article thirty of this chapter;
+46 and (ix) an adjudication of liability of an owner for a violation of bus
+47 operation-related traffic regulations as defined by article twenty-four
+48 of this chapter imposed pursuant to a demonstration program imposing
+49 monetary liability on the owner of a vehicle for failure of an operator
+50 thereof to comply with such bus operation-related traffic regulations
+51 through the installation and operation of bus operation-related photo
+52 devices, in accordance with article twenty-four of this chapter; and (x)
+53 an adjudication of liability of an owner for a violation of street
+54 cleaning parking rules as defined by article twenty-four of this chapter
+55 imposed pursuant to a program imposing monetary liability on the owner
+56 of a vehicle for failure of an operator thereof to comply with such
+
+S. 1891--A 24
+1 street cleaning parking rules through the installation and operation of
+2 street cleaning vehicle photo devices, in accordance with article twen-
+3 ty-four of this chapter, there shall be levied in addition to any
+4 sentence, penalty or other surcharge required or permitted by law, an
+5 additional surcharge of twenty-eight dollars.
+6 § 13. Subdivision 2 of section 87 of the public officers law is
+7 amended by adding a new paragraph (w) to read as follows:
+8 (w) are photographs, microphotographs, videotape or other recorded
+9 images prepared under authority of section eleven hundred eleven-j of
+10 the vehicle and traffic law.
+11 § 14. The purchase or lease of equipment for a demonstration program
+12 established pursuant to section 1111-j of the vehicle and traffic law,
+13 as added by section one of this act, shall be subject to the provisions
+14 of section 103 of the general municipal law.
+15 § 15. This act shall take effect on the one hundred eightieth day
+16 after it shall have become a law; provided, however, that sections one,
+17 thirteen and fourteen of this act shall expire July 1, 2032, when upon
+18 such date the provisions of such sections shall be deemed repealed;
+19 provided further, however, that:
+20 (a) the amendments to subdivision 1 of section 1809-a of the vehicle
+21 and traffic law made by section ten of this act shall not affect the
+22 repeal of such section and shall be deemed repealed therewith; and
+23 (b) effective immediately, the addition, amendment and/or repeal of
+24 any rule or regulation necessary for the implementation of section one
+25 of this act on its effective date are authorized to be made and
+26 completed on or before such effective date.

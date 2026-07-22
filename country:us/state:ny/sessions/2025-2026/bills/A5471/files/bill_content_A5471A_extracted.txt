@@ -1,0 +1,601 @@
+Title: 
+Official Title: 
+Source: versions - A5471A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5471--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 14, 2025
+___________
+Introduced by M. of A. ALVAREZ, O'PHARROW, DAIS, HYNDMAN, REYES,
+BICHOTTE HERMELYN, TAPIA, DE LOS SANTOS -- Multi-Sponsored by -- M. of
+A. DAVILA -- read once and referred to the Committee on Governmental
+Employees -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+diversity and inclusion in the management of public pension funds,
+ensure equitable access to investment opportunities, and foster the
+growth of emerging BIPOC (black, indigenous, and people of color)
+owned investment management firms within the state of New York (Part
+A); directing the comptroller and the commissioner of taxation and
+finance to undertake a study on the feasibility of establishing a
+venture capital program within the common retirement fund and a
+venture capital tax credit to ensure equitable access to investment
+opportunities, and foster the growth of emerging diverse founding
+member businesses (Part B); and to amend the executive law, in
+relation to fair investment practices by investment advisers within
+the state of New York (Part C)
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act enacts into law provisions relating to equitable
+2 investments. Each component is wholly contained within a Part identified
+3 as Parts A through C. The effective date for each particular provision
+4 contained within such Part is set forth in the last section of such
+5 Part. Any provision in any section contained within a Part, including
+6 the effective date of the Part, which makes a reference to a section "of
+7 this act", when used in connection with that particular component, shall
+8 be deemed to mean and refer to the corresponding section of the Part in
+9 which it is found. Section three of this act sets forth the general
+10 effective date of this act.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05066-03-5
+
+A. 5471--A 2
+1 PART A
+2 Section 1. Short title. This act shall be known and may be cited as
+3 the "New York state agency BIPOC asset management and financial institu-
+4 tion strategy act".
+5 § 2. The retirement and social security law is amended by adding a new
+6 section 423-d to read as follows:
+7 § 423-d. BIPOC-owned investment management firms; state of New York.
+8 1. For the purposes of this section, the following terms shall have the
+9 following meanings:
+10 (a) "Best practices" shall mean industry-recognized standards and
+11 guidelines for diversity, equity, and inclusion.
+12 (b) "BIPOC" shall mean black, indigenous, and people of color.
+13 (c) "BIPOC-owned firms" shall mean business enterprises owned by indi-
+14 viduals from black, indigenous, and people of color communities.
+15 (d) "Designated entities" shall mean entities governed by this
+16 section, including but not limited to, the common retirement fund, the
+17 New York state teachers' retirement system, and the New York state
+18 insurance fund.
+19 (e) "Emerging manager programs" shall mean programs designed to
+20 enhance opportunities for small, disadvantaged, or BIPOC-owned business
+21 enterprises.
+22 (f) "Fiduciaries" shall mean individuals entrusted with fiduciary
+23 duties within the designated entities.
+24 2. (a) All public pension funds in the state shall provide opportu-
+25 nities for emerging BIPOC-owned investment management firms. Such public
+26 pension funds shall adopt an investment manager diversity policy to set
+27 objectives for enhancing the utilization of BIPOC investment management
+28 firms.
+29 (b) Twenty percent of a public pension fund's total assets shall be
+30 invested with BIPOC investment managers.
+31 (c) Twenty-five percent of a public pension fund's active assets shall
+32 be invested with BIPOC investment managers.
+33 (d) There shall be an asset class breakdown as follows:
+34 (i) thirty percent of a public pension fund's equity assets shall be
+35 invested with BIPOC investment managers;
+36 (ii) fifteen percent of a public pension fund's fixed income assets
+37 shall be invested with BIPOC investment managers; and
+38 (iii) fifteen percent of a public pension fund's alternative assets
+39 shall be invested with BIPOC investment managers.
+40 3. Pursuant to subdivision two of this section, the utilization stand-
+41 ards shall serve as the minimum requirement, and such standards may be
+42 subject to modification in response to changes in the number of BIPOC
+43 investment managers that are capable of directly managing mandates from
+44 a public pension fund.
+45 4. (a) A public pension fund shall, within six months of the effective
+46 date of this section, establish mechanisms to ensure compliance with the
+47 investment manager diversity policy.
+48 (b) The relevant authorities of each public pension fund shall report
+49 annually to the comptroller on the progress and outcomes achieved in
+50 meeting the utilization standards set forth in subdivision three of this
+51 section.
+52 (c) The comptroller shall compile and publish an annual report detail-
+53 ing the progress and effectiveness of the investment manager diversity
+54 policy.
+
+A. 5471--A 3
+1 5. (a) Within six months of the effective date of this section, each
+2 public pension fund within the state shall develop a comprehensive
+3 implementation plan to ensure compliance with the investment manager
+4 diversity policy outlined in subdivision two of this section. This plan
+5 shall detail the strategies, procedures, and timelines that such fund
+6 shall adopt to achieve the specified utilization standards for BIPOC
+7 investment managers across various asset classes.
+8 (b) The governing body of each public pension fund shall submit an
+9 annual progress report to the city comptroller outlining the advance-
+10 ments made in fulfilling the investment manager diversity policy's
+11 requirements. Such report shall include, but not be limited to:
+12 (i) the total assets managed by BIPOC investment managers as a
+13 percentage of the fund's total assets;
+14 (ii) the active assets managed by BIPOC investment managers as a
+15 percentage of the fund's active assets;
+16 (iii) the allocation of equity, fixed income, and alternative assets
+17 to BIPOC investment managers; and
+18 (iv) an assessment of any challenges faced and steps taken to address
+19 them.
+20 (c) Each public pension fund shall provide a narrative report detail-
+21 ing any initiatives, programs, or partnerships established to promote
+22 the growth and development of BIPOC-owned investment management firms
+23 within the state. Such report shall highlight successful collaborations
+24 and the impact of these initiatives on diversifying the investment land-
+25 scape.
+26 (d) All annual reports submitted to the comptroller shall be made
+27 publicly available on the fund's website, ensuring transparency and
+28 accountability to the public.
+29 6. (a) The comptroller shall review and assess the annual progress
+30 reports submitted by the public pension funds.
+31 (b) In the event that a public pension fund fails to meet the utiliza-
+32 tion standards specified in subdivision two of this section, the comp-
+33 troller shall work closely with such fund to identify the reasons for
+34 non-compliance and provide guidance on corrective actions.
+35 (c) The comptroller shall compile the information received from the
+36 public pension funds and produce an annual report assessing the overall
+37 progress and effectiveness of the investment manager diversity policy
+38 across the state. Such report shall also include recommendations for
+39 enhancing diversity and inclusion in asset management within the public
+40 pension sector.
+41 7. To promote awareness and understanding of the goals and benefits of
+42 the investment manager diversity policy, each public pension fund shall
+43 establish public outreach and educational programs that engage the
+44 community, investment professionals, and other stakeholders. Such
+45 programs may include seminars, workshops, webinars, and informational
+46 materials that highlight the value of diverse investment management
+47 teams and the potential for economic growth through BIPOC-owned busi-
+48 nesses.
+49 8. To support the growth of emerging BIPOC-owned investment management
+50 firms, each public pension fund shall explore opportunities to provide
+51 technical assistance, mentorship, and resources. Such support may encom-
+52 pass financial education, networking opportunities, and guidance on
+53 compliance and best practices, with the aim of fostering a vibrant
+54 ecosystem of diverse investment professionals.
+55 9. Five years after the effective date of this section, the city comp-
+56 troller shall conduct a comprehensive review of the investment manager
+
+A. 5471--A 4
+1 diversity policy's impact on the public pension sector's diversity and
+2 inclusion goals.
+3 § 3. The retirement and social security law is amended by adding a new
+4 section 423-e to read as follows:
+5 § 423-e. BIPOC-owned investment management firms; city of New York. 1.
+6 For the purposes of this section, the following terms shall have the
+7 following meanings:
+8 (a) "Best practices" shall mean industry-recognized standards and
+9 guidelines for diversity, equity, and inclusion.
+10 (b) "BIPOC" shall mean black, indigenous, and people of color.
+11 (c) "BIPOC-owned firms" shall mean business enterprises owned by indi-
+12 viduals from black, indigenous, and people of color communities.
+13 (d) "Designated entities" shall mean entities governed by this
+14 section, including but not limited to, the common retirement fund, the
+15 New York state teachers' retirement system, and the New York state
+16 insurance fund.
+17 (e) "Emerging manager programs" shall mean programs designed to
+18 enhance opportunities for small, disadvantaged, or BIPOC-owned business
+19 enterprises.
+20 (f) "Fiduciaries" shall mean individuals entrusted with fiduciary
+21 duties within the designated entities.
+22 (g) "Municipality" shall mean any city, village, or incorporated town
+23 with an inhabitant count one million or more but less than twelve
+24 million, as determined by United States government statistics or a rele-
+25 vant census.
+26 (h) "Compensation" shall mean any money, thing of value, or economic
+27 benefit conferred on or received by a consultant in exchange for
+28 services rendered or to be rendered.
+29 (i) "Economic opportunity" shall mean any transaction or arrangement
+30 involving the purchase, sale, lease, contract, option, or other engage-
+31 ment related to property or services, in which a consultant may gain an
+32 economic benefit.
+33 (j) "Trustees" shall mean the relevant governing body, such as city
+34 councils, boards of trustees, and other appropriate authorities.
+35 1-a. In each municipality and city as defined in paragraph (g) of
+36 subdivision one of this section, the relevant governing body, such as
+37 city councils, boards of trustees, and other appropriate authorities,
+38 shall establish and administer specific funds as described in this
+39 section for the benefit of police officers, firefighters, municipal
+40 employees, officers, and public school teachers, along with their
+41 surviving spouses, children, and certain other dependents.
+42 2. (a) The trustees of each public pension fund in the city of New
+43 York shall be mandated to allocate no less than forty percent of the
+44 total dollar amount of the identified fund under management towards
+45 investments through BIPOC asset managers, BIPOC financial institutions,
+46 and BIPOC financial or professional service firms.
+47 (b) Investment funds that do not fall under the BIPOC category shall
+48 aspire to reach a minimum of twenty percent but shall strive to achieve
+49 the goal of forty percent of funds received from the fund being allo-
+50 cated towards BIPOC-led investments.
+51 3. The scope of BIPOC investments covered by this section shall
+52 include, but not be limited to, the following:
+53 (a) investing assets of the various pension funds with BIPOC asset
+54 managers, recognizing their expertise, experience, and unique perspec-
+55 tives in managing investment portfolios; and
+56 (b) subject to best execution practices:
+
+A. 5471--A 5
+1 (i) conducting trades of public equity securities with BIPOC financial
+2 institutions, promoting collaboration and economic opportunities within
+3 the BIPOC community; and
+4 (ii) conducting trades of fixed-income securities through BIPOC insti-
+5 tutions, contributing to the growth and development of BIPOC-led finan-
+6 cial entities;
+7 (c) allocating investments of all pension fund assets through:
+8 (i) direct investments in the equities and debt securities of BIPOC
+9 entities, fostering capital flow to BIPOC-led projects and businesses;
+10 and
+11 (ii) indirect investments through special programs involving BIPOC
+12 asset managers, facilitating partnerships and promoting access to
+13 investment opportunities; and
+14 (d) awarding contracts for various financial and professional services
+15 to BIPOC financial institutions and other BIPOC professional service
+16 firms, ensuring equitable distribution of opportunities and supporting
+17 the growth of BIPOC-led enterprises.
+18 4. (a) The trustees of the various funds shall have the authority to
+19 establish additional goals that supplement the requirements stated in
+20 subdivision two of this section.
+21 (b) Within sixty days of the conclusion of each fiscal year subsequent
+22 to the effective date of this section, the trustees shall provide a
+23 comprehensive report to the city comptroller. Such report shall detail
+24 the participation of BIPOC asset managers, BIPOC financial institutions,
+25 and BIPOC professional service providers in investment and brokerage
+26 transactions, as well as their provision of services for the fund.
+27 (c) Such report shall include a comparative analysis of the activities
+28 outlined in subdivision three of this section in relation to all asset
+29 managers, financial institutions, and professional service providers
+30 engaged by the city comptroller of the pension fund during the relevant
+31 period.
+32 (d) Such report shall evaluate and highlight the progress and success
+33 achieved in pursuing the aspirational goals outlined in subdivision two
+34 of this section. These efforts shall be undertaken to the greatest
+35 extent feasible, ensuring compliance with financial and fiduciary
+36 prudence.
+37 (e) Each report shall be promptly published on the official website of
+38 the applicable investment fund, remaining accessible for a minimum peri-
+39 od of sixty days following its release.
+40 5. (a) Effective January first, two thousand twenty-six, and on each
+41 subsequent January first thereafter, any consultant retained by the fund
+42 shall disclose to the trustees all compensation and economic opportu-
+43 nities received in the preceding twenty-four months from investment
+44 advisors retained by the trustees.
+45 (b) A consultant shall disclose to the trustees any compensation or
+46 economic opportunity received within the past twenty-four months from an
+47 investment advisor that is recommended for selection by such consultant.
+48 Such disclosure shall be made prior to the trustees appointing an
+49 investment advisor. No contract for consulting services shall be awarded
+50 by the trustees of the fund without first requiring the consultant to
+51 fulfill the necessary disclosure requirements stated within this
+52 section.
+53 6. To qualify for fund allocation as provided under this section, the
+54 following minimum requirements shall be met by the respective firms:
+55 (a) For real estate manager qualifications:
+
+A. 5471--A 6
+1 (i) the firm shall manage gross assets under management across all
+2 clients that are less than two billion dollars at the inception of the
+3 relationship;
+4 (ii) the firm's latest fund offerings shall seek less than two hundred
+5 fifty million dollars of equity;
+6 (iii) real estate firms shall have at least forty-five percent of
+7 their economic interests owned by principals and employees; and
+8 (iv) qualified real estate managers shall operate and reside within
+9 New York state.
+10 (b) For private equity manager qualifications:
+11 (i) the firm shall be a legally structured entity, adhering to all
+12 applicable laws and regulations;
+13 (ii) the firm shall have a private placement memorandum (PPM) in
+14 place;
+15 (iii) the firm shall raise a first, second, or third institutional
+16 fund; and
+17 (iv) The firm's institutional fund shall not exceed certain fund size
+18 limits.
+19 (c) For fixed income manager qualifications:
+20 (i) the firm shall have two billion dollars or less in assets under
+21 management;
+22 (ii) the firm shall have a maximum of fifty percent non-employee
+23 ownership; and
+24 (iii) the firm shall be a legally structured entity with a valid
+25 corporate tax identification number.
+26 (d) For a registered investment advisor or exemption, the firm shall
+27 be a registered investment advisor or qualify for exemption from regis-
+28 tration.
+29 § 4. This act shall take effect immediately.
+30 PART B
+31 Section 1. The comptroller and the commissioner of the department of
+32 taxation and finance shall jointly undertake a study on the feasibility
+33 of a venture capital program within the common retirement fund and a
+34 venture capital tax credit, for investments in emerging diverse founding
+35 member businesses, and evaluate and make recommendations to ensure equi-
+36 table access to investment opportunities, promote diversity and inclu-
+37 sion in investment opportunities and foster the growth of diverse found-
+38 ing member businesses within the state.
+39 § 2. The comptroller and the commissioner of the department of taxa-
+40 tion and finance shall study the feasibility of a venture capital
+41 program within the common retirement fund for the purpose of investing
+42 in partnerships, corporations, trusts or limited liability companies
+43 organized on a for-profit basis that enter into agreements to invest the
+44 moneys of the common retirement fund in qualified businesses as defined
+45 in this act.
+46 § 3. The study required by this act shall develop criteria for a
+47 venture capital tax credit for investments made to a qualifying organ-
+48 ization which shall include, at a minimum, the following:
+49 1. (a) A qualified organization shall have at least one diverse found-
+50 ing team member who: (i) owned initial shares or similar ownership
+51 interests of the business; (ii) contributed to the concept of, research
+52 for, development of, or work performed by the business before initial
+53 shares were issued; and (iii) was not a passive investor in the busi-
+54 ness; or
+
+A. 5471--A 7
+1 (b) who has been designated as the chief executive officer, president,
+2 chief financial officer, or manager of a business, or who has been
+3 designated with a role with a similar level of authority as any of those
+4 positions.
+5 A "diverse founding team member" shall mean a person who self-identi-
+6 fies as a woman, non-binary, Black, African American, Hispanic, Latino-
+7 Latina, Asian, Pacific Islander, Native American, Native Hawaiian, Alas-
+8 kan Native, disabled, veteran or disabled veteran, lesbian, gay,
+9 bisexual, transgender, or queer.
+10 2. Qualified investments made by firms shall not be subject to limita-
+11 tion, and firms may deduct qualified investments of up to 100 percent of
+12 their taxable income.
+13 3. The venture capital tax credit shall be a dollar-for-dollar tax
+14 credit for investments made to a qualifying organization.
+15 § 4. A report on the study conducted pursuant to this act, along with
+16 such legislative proposals deemed necessary to implement its recommenda-
+17 tions, shall be submitted to the governor and the legislature within one
+18 year of the effective date of this act.
+19 § 5. This act shall take effect immediately.
+20 PART C
+21 Section 1. Short title. This act shall be known and may be cited as
+22 the "New York state investment transparency act".
+23 § 2. The executive law is amended by adding a new article 15-D to read
+24 as follows:
+25 ARTICLE 15-D
+26 NEW YORK STATE INVESTMENT TRANSPARENCY ACT
+27 Section 328-b. Definitions.
+28 328-c. Reporting.
+29 328-d. Remedies.
+30 § 328-b. Definitions. For the purposes of this article, the following
+31 terms shall have the following meanings:
+32 1. "Covered entity" shall mean a venture capital company that:
+33 (a) either:
+34 (i) primarily engages in the business of investing in, or providing
+35 financing to, startup, early-stage, or emerging growth companies; or
+36 (ii) manages assets on behalf of third-party investors, including, but
+37 not limited to, investments made on behalf of a state or local retire-
+38 ment or public pension systems pursuant to article four-A of the retire-
+39 ment and social security law; and
+40 (b) meets at least one of the following criteria:
+41 (i) is headquartered in New York;
+42 (ii) has a significant presence or operational division in New York;
+43 (iii) makes venture capital investments in businesses that are located
+44 in, or have significant operations in, New York; and/or
+45 (iv) solicits or receives investments from a person who is a resident
+46 of New York.
+47 2. "Diverse founding team member" shall mean a founding team member
+48 who self-identifies as a woman, non-binary, Black, African American,
+49 Hispanic, Latino-Latina, Asian, Pacific Islander, Native American,
+50 Native Hawaiian, Alaskan Native, disabled, veteran or disabled veteran,
+51 lesbian, gay, bisexual, transgender, or queer.
+52 3. "Founding team member" means either:
+53 (a) a person who:
+
+A. 5471--A 8
+1 (i) owned initial shares or similar ownership interests of the busi-
+2 ness;
+3 (ii) contributed to the concept of, research for, development of, or
+4 work performed by the business before initial shares were issued; and
+5 (iii) was not a passive investor in the business; or
+6 (b) a person who has been designated as the chief executive officer,
+7 president, chief financial officer, or manager of a business, or a role
+8 with a similar level of authority.
+9 4. "Investment advisor" shall have the same meaning as set forth in
+10 subparagraph (v) of paragraph (a) of subdivision fourteen of section
+11 three hundred fifty-nine-e of the general business law.
+12 5. "Division" shall mean the division of minority and women's business
+13 development, as established by section three hundred eleven of this
+14 chapter.
+15 § 328-c. Reporting. 1. Beginning on January first, two thousand twen-
+16 ty-six, and annually thereafter, a covered entity shall report to the
+17 division the following information regarding such entity's funding
+18 determinations:
+19 (a) The following information, at an aggregated level, shall be
+20 reported for the founding teams of all businesses in which the covered
+21 entity made a venture capital investment in the previous calendar year,
+22 to the extent that such information has been provided as part of the
+23 survey described in paragraph (a) of subdivision two of this section:
+24 (i) the gender identity of each founding team member, inclusive of
+25 non-binary and gender-fluid identities;
+26 (ii) the racial background of each founding team member;
+27 (iii) the ethnic background of each founding team member;
+28 (iv) the disability status of each founding team member;
+29 (v) whether any member of the founding team identifies as LGBTQIA+;
+30 (vi) whether any member of the founding team is a veteran or a disa-
+31 bled veteran;
+32 (vii) whether any member of the founding team is a resident of New
+33 York; and
+34 (viii) whether any member of the founding team opted not to provide
+35 any of the information detailed in subparagraphs (i) through (vii) of
+36 this paragraph.
+37 (b) During the previous calendar year, the number of venture capital
+38 investments to businesses primarily founded by diverse founding team
+39 members, as a percentage of the total number of venture capital invest-
+40 ments the covered entity made, in the aggregate and broken down into the
+41 categories described in subparagraphs (i) through (vii) of paragraph (a)
+42 of this subdivision. The information provided pursuant to this paragraph
+43 shall be anonymized.
+44 (c) During the previous calendar year, the total amount of venture
+45 capital investments to businesses primarily founded by diverse founding
+46 team members, as a percentage of venture capital investments made by the
+47 covered entity, in the aggregate and broken down into the categories
+48 described in subparagraphs (i) through (vii) of paragraph (a) of this
+49 subdivision.
+50 (d) The total amount of funds in venture capital investments that the
+51 covered entity invested in each business during the previous calendar
+52 year.
+53 (e) The principal place of business of each company in which the
+54 covered entity made a venture capital investment during the prior calen-
+55 dar year.
+
+A. 5471--A 9
+1 2. (a) A covered entity shall facilitate the collection of information
+2 required by subdivision one of this section by offering each founding
+3 team member of a business that has received funding from a venture capi-
+4 tal firm under such covered entity's advisory services the opportunity
+5 to partake in a survey.
+6 (b) The survey described in paragraph (a) of this subdivision shall be
+7 provided pursuant to a standardized form, as specified by the division.
+8 Such survey shall include a "decline to state" option for each question
+9 on the survey.
+10 (c) A covered entity shall provide a written disclosure to each found-
+11 ing team member prior to, or concurrently with, the survey described in
+12 paragraph (a) of this subdivision which shall state the following:
+13 (i) the founding team member's decision to disclose their demographic
+14 information is voluntary.
+15 (ii) no adverse action will be taken against the founding team member
+16 if they decline to participate in the survey.
+17 (iii) the aggregate data collected for each demographic category will
+18 be reported to the division.
+19 (d) A covered entity shall not provide the survey described in para-
+20 graph (a) of this subdivision and the disclosure described in paragraph
+21 (c) of this subdivision to a founding team member until after such
+22 covered entity has executed an investment agreement with the business
+23 and made the first transfer of funds.
+24 (e) Neither a covered entity nor the division shall in any way encour-
+25 age, incentivize, or attempt to influence the decision of a founding
+26 team member to participate in the survey described in paragraph (a) of
+27 this subdivision.
+28 3. (a) A covered entity required to conduct the survey described in
+29 paragraph (a) of subdivision two of this section shall:
+30 (i) collect survey response data from founding team members in a
+31 manner that does not associate the survey response data with an individ-
+32 ual founding team member; and
+33 (ii) report the survey response data in a manner that does not associ-
+34 ate the survey response data with an individual founding team member.
+35 (b) A covered entity may satisfy the requirements of this section by
+36 providing a report prepared by a business that controls each venture
+37 capital company to which the covered entity acted as an investment
+38 adviser at any time during the prior calendar year if the report
+39 contains all of the information required by paragraph (a) of subdivision
+40 one of this section.
+41 (c) The division shall make the reports received pursuant to this
+42 section readily accessible, easily searchable, and easily downloadable
+43 on the division's internet website.
+44 (d) The division may publish aggregate results or aggregate informa-
+45 tion based on the information received pursuant to this section.
+46 (e) The division may use any information collected pursuant to this
+47 section in furtherance of its statutory duties, including, but not
+48 limited to, using such information in a civil action brought by the
+49 division under this chapter or other law.
+50 (f) A covered entity shall make and keep records related to its obli-
+51 gations under this section. All records related to a report delivered to
+52 the division pursuant to this section shall be preserved for at least
+53 four years after a covered entity delivers such report. The division may
+54 examine such records of a covered entity to determine such covered enti-
+55 ty's compliance with the provisions of this section.
+
+A. 5471--A 10
+1 (g) The division shall charge and collect fees from covered entities
+2 to cover the expenses incurred in the administration of this section,
+3 which shall not exceed the reasonable costs of such administration.
+4 § 328-d. Remedies. 1. (a) If a covered entity fails to file the report
+5 required by subdivision one of section three hundred twenty-eight-c of
+6 this article by January first of a given year, the division shall notify
+7 such covered entity that such covered entity must submit such report
+8 within sixty days of such notification.
+9 (b) If a covered entity has not submitted the report required by
+10 subdivision one of section three hundred twenty-eight-c of this article
+11 within the sixty-day period prescribed in paragraph (a) of this subdivi-
+12 sion, the division may file with the court of appeals an ex-parte peti-
+13 tion, naming the covered entity as the respondent, seeking an order
+14 providing the following reliefs:
+15 (i) An order compelling the respondent to comply with this section.
+16 (ii) An order requiring the respondent to pay a penalty to the divi-
+17 sion sufficient to deter the respondent from failing to comply with this
+18 article, as determined by the court. In making such determination, the
+19 court shall consider all relevant factors, including, but not limited
+20 to:
+21 (A) the size of the respondent;
+22 (B) the number of assets under management of the respondent; and
+23 (C) the nature of the failure to comply with this section.
+24 (iii) An order mandating the respondent to pay the division's reason-
+25 able attorneys' fees and costs incurred in pursuing the action.
+26 (iv) Any other relief that the court deems appropriate.
+27 (c) The division may bring an action described in paragraph (b) of
+28 this subdivision in:
+29 (i) any county in which the division has a division; or
+30 (ii) the county of the respondent's residence or principal place of
+31 business.
+32 2. (a) In an action brought pursuant to subdivision one of this
+33 section, the court of appeals shall have jurisdiction to grant any of
+34 the reliefs described in paragraph (b) of subdivision one of this
+35 section.
+36 (b) (i) If a petition filed by the division pursuant to paragraph (b)
+37 of subdivision one of this section fails to set forth good cause for
+38 relief, the court may enter an order denying such petition.
+39 (ii) If a petition filed by the division pursuant to paragraph (b) of
+40 subdivision one of this section sets forth good cause for relief, the
+41 court shall issue an order to show cause to the respondent.
+42 (c) The division shall serve the petition and the order to show cause
+43 on the respondent in any manner within ten days of the issuance of the
+44 order. The respondent shall file a response to the petition and the
+45 order to show cause within twenty-one days of service.
+46 (d) (i) The respondent has the option to request a hearing on the
+47 petition and order to show cause as part of their response.
+48 (ii) Within seven days of receiving the respondent's response, the
+49 division may submit a request for a hearing.
+50 (e) (i) The court, either at its discretion or upon request pursuant
+51 to paragraph (d) of this subdivision, may conduct a hearing on the peti-
+52 tion and order to show cause. The court shall schedule such hearing
+53 within thirty days of the respondent's response and issue an order
+54 granting or denying the petition within thirty days of such hearing.
+55 (ii) If no hearing is convened, the court shall issue an order grant-
+56 ing or denying the petition within thirty days of receiving the respond-
+
+A. 5471--A 11
+1 ent's response or following the expiration of the respondent's twenty-
+2 one day response window, whichever is earlier, unless otherwise agreed
+3 upon by the parties.
+4 (iii) The court may, on its own motion and for good cause, extend any
+5 time period described in subparagraph (i) of this paragraph by thirty
+6 days.
+7 (f) (i) The division shall serve on the respondent a copy of the
+8 court's order granting or denying the petition in any manner within ten
+9 days of issuance of such order.
+10 (ii) If the court grants the petition in whole or in part, the order
+11 shall:
+12 (A) set forth the manner and time period in which the respondent shall
+13 comply with the provisions of this section; and
+14 (B) become effective ten days after it is served.
+15 (iii) If the order denies the petition, such order shall become effec-
+16 tive on the date it is served.
+17 (g) The order of the court of appeals shall be final and, except as
+18 provided for by this paragraph, not subject to review by appeal. A party
+19 aggrieved by the order, or any part of such order, may, within fifteen
+20 days after the service of such order, serve and file, in the appropriate
+21 court of corresponding jurisdiction, a petition for a writ of mandamus
+22 to compel the court of appeals to set aside or otherwise modify such
+23 order.
+24 (h) Monetary awards or judgments collected pursuant to this section
+25 shall be deposited in the New York state workforce development capital
+26 grant program.
+27 § 3. This act shall take effect immediately.
+28 § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
+29 sion, section or part of this act shall be adjudged by any court of
+30 competent jurisdiction to be invalid, such judgment shall not affect,
+31 impair, or invalidate the remainder thereof, but shall be confined in
+32 its operation to the clause, sentence, paragraph, subdivision, section
+33 or part thereof directly involved in the controversy in which such judg-
+34 ment shall have been rendered. It is hereby declared to be the intent of
+35 the legislature that this act would have been enacted even if such
+36 invalid provisions had not been included herein.
+37 § 3. This act shall take effect immediately; provided, however, that
+38 the applicable effective date of Parts A through C of this act shall be
+39 as specifically set forth in the last section of such Parts.
