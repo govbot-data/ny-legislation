@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - A541A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+541--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. PAULIN, CUNNINGHAM, SANTABARBARA -- read once and
+referred to the Committee on Energy -- reported and referred to the
+Committee on Ways and Means -- recommitted to the Committee on Ways
+and Means in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public service law and the public authorities law,
+in relation to developing microgrids in preparation for extreme weath-
+er events and other risks to public security
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 66-x to read as follows:
+3 § 66-x. Microgrid development program. 1. Definitions. As used in this
+4 section:
+5 (a) "community outage asset" means a public or private entity that
+6 provides critical services to the public during an extended electric
+7 distribution outage. Community outage assets shall include, but are not
+8 limited to: telecommunications providers, hospitals, nursing homes,
+9 supermarkets, government agencies, transportation systems, gas stations,
+10 publicly available electric vehicle charging stations, educational
+11 institutions, large multi-family residential housing, wastewater treat-
+12 ment facilities, community centers and other customers deemed by the
+13 commission to provide a critical service to the public that would
+14 promote or enhance health and safety during an outage of the electric
+15 distribution system;
+16 (b) "extended electric distribution outage" means a total or partial
+17 outage of an electric corporation's distribution system that continues
+18 for a period of twenty-four hours or longer;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02060-03-6
+
+A. 541--A 2
+1 (c) "uninterrupted" means that the output of the microgrid system is
+2 delivered to the end-use customer throughout an extended electric
+3 distribution outage, with the exception of momentary interruptions asso-
+4 ciated with transitions to and from grid parallel and grid islanded
+5 operations; and
+6 (d) "microgrid" shall mean a load or group of interconnected loads and
+7 distributed energy resources within clearly defined electrical bounda-
+8 ries that acts as a single controllable entity with respect to the elec-
+9 tric grid. A microgrid can connect and disconnect from the electric
+10 grid to enable it to operate in both grid-connected or island-mode.
+11 2. On or within one hundred twenty days of the effective date of this
+12 section, the commission shall, after a hearing held on notice, adopt an
+13 order requiring the New York state energy research and development
+14 authority to establish a program to support the development of micro-
+15 grids that are capable of providing an uninterrupted supply of power to
+16 one or more community outage assets through an extended electric
+17 distribution outage, subject to an appropriation therefor. Such program
+18 shall include a preference for those microgrids that:
+19 (a) maximize annual reductions in carbon dioxide equivalent, oxides of
+20 nitrogen, sulfur dioxide and particulate matter emissions achieved rela-
+21 tive to marginal grid emissions for the region in which the project is
+22 located. For purposes of this section the commission shall define
+23 marginal emissions using the same metric or metrics that are used to
+24 quantify emissions reductions achieved by other New York state energy
+25 research and development authority clean energy programs;
+26 (b) displace or otherwise reduce the operation of diesel back-up
+27 generators; and
+28 (c) are more capable of being expeditiously permitted, interconnected
+29 and commissioned in preparation for extreme weather events and other
+30 grid related risks.
+31 § 2. The public authorities law is amended by adding a new section
+32 1020-nn to read as follows:
+33 § 1020-nn. Microgrid development program. 1. Definitions. As used in
+34 this section:
+35 (a) "community outage asset" means a public or private entity that
+36 provides critical services to the public during an extended electric
+37 distribution outage. Community outage assets shall include, but are not
+38 limited to: telecommunications providers, hospitals, nursing homes,
+39 supermarkets, government agencies, transportation systems, gas stations,
+40 publicly available electric vehicle charging stations, educational
+41 institutions, health care providers, large multi-family residential
+42 housing, wastewater treatment facilities, community centers and other
+43 customers deemed by the commission to provide a critical service to the
+44 public that would promote or enhance health and safety during an outage
+45 of the electric distribution system;
+46 (b) "extended electric distribution outage" means a total or partial
+47 outage of the authority's electric distribution system that continues
+48 for a period of twenty-four hours or longer;
+49 (c) "uninterrupted" means that the output of the microgrid system is
+50 delivered to the end-use customer throughout an extended electric
+51 distribution outage, with the exception of momentary interruptions asso-
+52 ciated with transitions to and from grid parallel and grid islanded
+53 operations; and
+54 (d) "microgrid" shall mean a load or group of interconnected loads and
+55 distributed energy resources within clearly defined electrical bounda-
+56 ries that acts as a single controllable entity with respect to the elec-
+
+A. 541--A 3
+1 tric grid. A microgrid can connect and disconnect from the electric
+2 grid to enable it to operate in both grid-connected or island-mode.
+3 2. On or within one hundred eighty days of the effective date of this
+4 section, the authority shall establish a program to support the develop-
+5 ment of microgrids that are capable of providing an uninterrupted supply
+6 of power to one or more community outage. assets through an extended
+7 electric distribution outage, subject to an appropriation therefor. Such
+8 program shall include a preference for those microgrids that:
+9 (a) maximize annual reductions in carbon dioxide equivalent, oxides of
+10 nitrogen, sulfur dioxide and particulate matter emissions achieved rela-
+11 tive to marginal grid emissions for the authority's service territory.
+12 For purposes of this section the authority shall define marginal emis-
+13 sions using the same metric or metrics that are used to quantify emis-
+14 sions reductions achieved by other New York state energy research and
+15 development authority clean energy programs;
+16 (b) displace or otherwise reduce the operation of diesel back-up
+17 generators; and
+18 (c) are more capable of being expeditiously permitted, interconnected
+19 and commissioned in preparation for extreme weather events and other
+20 grid related risks.
+21 § 3. This act shall take effect immediately.

@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - A8963A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8963--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+August 13, 2025
+___________
+Introduced by M. of A. BORES -- read once and referred to the Committee
+on Consumer Affairs and Protection -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general business law, in relation to establishing
+the NY digital choice act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 48 to read as follows:
+3 ARTICLE 48
+4 NY DIGITAL CHOICE ACT
+5 Section 1800. Short title.
+6 1801. Definitions.
+7 1802. Portability.
+8 1803. Interoperability.
+9 1804. Data rights.
+10 1805. Rulemaking authority.
+11 1806. Enforcement by attorney general.
+12 1807. Severability.
+13 § 1800. Short title. This article shall be known and may be cited as
+14 the "NY digital choice act".
+15 § 1801. Definitions. As used in this article, the following terms
+16 shall have the following meanings:
+17 1. "Open protocol" means a publicly available set of technical rules
+18 that:
+19 (a) enables interoperability and data exchange between social media
+20 platforms by providing a common data infrastructure where multiple
+21 social media platforms can access a covered user's social graph;
+22 (b) is free from licensing fees and patent restrictions; and
+23 (c) governs how social media platforms communicate and exchange data.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13423-06-5
+
+A. 8963--A 2
+1 2. (a) "Social graph" means:
+2 (i) a covered user's social connections with secondary users;
+3 (ii) content created by a covered user;
+4 (iii) the covered user's responses to secondary users' content,
+5 including comments, reactions, mentions, reports, shares, and other
+6 engagements;
+7 (iv) secondary users' responses to the covered user's content;
+8 (v) metadata for subparagraphs (i), (ii), (iii), and (iv) of this
+9 paragraph; and
+10 (vi) relational references sufficient to maintain the associations
+11 among data elements described in subparagraphs (i), (ii), (iii), and
+12 (iv) of this paragraph.
+13 (b) "Social graph" does not include a secondary user's content and
+14 responses that have been designated private by such secondary user,
+15 including private messages.
+16 3. "Content" has the same meaning as in section eleven hundred of this
+17 chapter.
+18 4. "Social media company" has the same meaning as in section eleven
+19 hundred of this chapter.
+20 5. "Social media platform" has the same meaning as in section eleven
+21 hundred of this chapter.
+22 6. "Covered user" has the same meaning as in section fifteen hundred
+23 of this chapter.
+24 7. "Secondary user" means a user of a website, online service, online
+25 application, or mobile application that is developed, deployed, or oper-
+26 ating in whole or in part in the state and that is not acting as an
+27 operator, or agent or affiliate of an operator, of such website, online
+28 service, online application, or mobile application, or any portion ther-
+29 eof, irrespective of such user's physical location.
+30 8. "Data portability" means the ability of covered users of social
+31 media platforms to retain existing social graphs without impairment of
+32 quality, reliability, or convenience when such information is trans-
+33 ferred from one social media platform or third party to another.
+34 § 1802. Portability. 1. If a covered user requests a copy of such
+35 covered user's social graph under this article, a social media company
+36 shall, within five business days, provide the social graph or user-se-
+37 lected parts of the social graph, in a format that:
+38 (a) allows for data portability, to the extent technically feasible;
+39 (b) is readily viewable by the covered user; and
+40 (c) allows the covered user to transmit the data to another social
+41 media platform or third party without impediment if the social media
+42 platform or third party processes the data by automated means.
+43 2. A social media company shall adopt an accessible, prominent, and
+44 persistent method for covered users to request their social graph data.
+45 § 1803. Interoperability. 1. A social media company shall implement a
+46 transparent, third-party-accessible interoperability interface or inter-
+47 faces to allow covered users to choose to:
+48 (a) share a covered user's social graph or user-selected parts of the
+49 social graph between the social media platforms designated by the
+50 covered user; and
+51 (b) enable third parties to access social graph data created by the
+52 covered user and to be notified when new or updated social graph data is
+53 available, with the covered user's permission.
+54 2. To achieve interoperability under subdivision one of this section,
+55 a social media company shall:
+56 (a) utilize an open protocol;
+
+A. 8963--A 3
+1 (b) facilitate and maintain interoperability and continuous, real-time
+2 data sharing with other social media platforms through an interoperabi-
+3 lity interface, based on reasonable terms that do not discriminate
+4 between social media platforms;
+5 (c) establish reasonable and proportionate thresholds related to the
+6 frequency, nature, and volume of requests, beyond which the social media
+7 company may assess a fair, reasonable, and non-discriminatory fee for
+8 such access; and
+9 (d) make available to other social media companies a functionally
+10 equivalent version of any internal interoperability interfaces created
+11 by the social media company for the social media company's own social
+12 media platforms; and
+13 (e) disclose to other social media companies complete, accurate, and
+14 regularly updated documentation describing access to the interoperabi-
+15 lity interface required under this section.
+16 3. A social media company or third party that accesses an interoper-
+17 ability interface shall take reasonable steps to meet platform integrity
+18 standards, including data security, data privacy, and abuse-mitigation
+19 practices necessary to preserve user protections and secure any data
+20 such company or third party acquires, processes, or transmits.
+21 4. A social media company or third party may not share or receive a
+22 covered user's social graph through the interoperability interface,
+23 except with the covered user's consent.
+24 5. A social media company shall adopt an accessible, prominent, and
+25 persistent method for covered users to give consent for data sharing
+26 with other social media platforms or third parties through the interop-
+27 erability interface and shall implement such user's instructions within
+28 five business days of receipt of such request.
+29 6. A social media company is not required to:
+30 (a) provide access to:
+31 (i) inferences, analyses, or derived data that the social media compa-
+32 ny has generated internally about a user; or
+33 (ii) proprietary algorithms, ranking systems, or other internal oper-
+34 ating mechanisms; or
+35 (b) transmit data that meets all of the following criteria:
+36 (i) such data is stored or structured in a proprietary format;
+37 (ii) no open, industry-standard format is reasonably available; and
+38 (iii) transmitting the data would disclose information described in
+39 paragraph (a) of this subdivision.
+40 7. A social media company shall give secondary users an opportunity to
+41 opt out, through a prominent notification at the time of a request, by a
+42 covered user, of transferal of such secondary user's public data from
+43 one social media platform or third party to another.
+44 § 1804. Data rights. Upon specific request from a covered user, a
+45 social media company shall allow such covered user to delete the data in
+46 such covered user's social graph, as well as any data that has been
+47 designated private by such covered user.
+48 § 1805. Rulemaking authority. The attorney general may promulgate such
+49 rules and regulations as are necessary to identify open protocols that
+50 satisfy the requirements of this article.
+51 § 1806. Enforcement by attorney general. In addition to any other
+52 remedies provided by law, whenever there shall be a violation of this
+53 article, application may be made by the attorney general in the name of
+54 the people of the state of New York to a court or justice having juris-
+55 diction by a special proceeding to issue an injunction, and upon notice
+56 to the defendant of not less than five days, to enjoin and restrain the
+
+A. 8963--A 4
+1 continuance of such violations. If it shall appear to the satisfaction
+2 of the court or justice that the defendant has, in fact, violated this
+3 article, an injunction may be issued by such court or justice enjoining
+4 and restraining any further violation, without requiring proof that any
+5 person has, in fact, been injured or damaged thereby. In any such
+6 proceeding, the court may make allowances to the attorney general as
+7 provided in paragraph six of subdivision (a) of section eighty-three
+8 hundred three of the civil practice law and rules. Whenever the court
+9 shall determine that a violation of this article has occurred, the court
+10 may impose a civil penalty of not more than twenty-five hundred dollars
+11 for each violation.
+12 § 1807. Severability. If any clause, sentence, paragraph, subdivision,
+13 section or part of this article shall be adjudged by any court of compe-
+14 tent jurisdiction to be invalid, such judgment shall not affect, impair,
+15 or invalidate the remainder thereof, but shall be confined in its opera-
+16 tion to the clause, sentence, paragraph, subdivision, section, or part
+17 thereof directly involved in the controversy in which such judgment
+18 shall have been made.
+19 § 2. This act shall take effect on the ninetieth day after it shall
+20 have become a law. Effective immediately, the addition, amendment and/or
+21 repeal of any rule or regulation necessary for the implementation of
+22 this act on its effective date are authorized to be made and completed
+23 on or before such effective date.

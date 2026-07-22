@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - A1364B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1364--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 9, 2025
+___________
+Introduced by M. of A. CLARK, SIMON, STIRPE, McDONALD, REYES, SMULLEN --
+read once and referred to the Committee on Higher Education -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee -- again reported from said committee with
+amendments, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public health law and the education law, in relation
+to dental laboratories
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 5 of the public health law is amended by adding a
+2 new title 7 to read as follows:
+3 TITLE VII
+4 DENTAL LABORATORIES
+5 Section 590. Definitions.
+6 591. Dental laboratory registrations.
+7 592. Nonresident dental laboratories.
+8 593. Enforcement and penalties.
+9 § 590. Definitions. As used in this title, the following terms shall
+10 have the following meanings:
+11 1. "Certified dental technician" shall mean a dental laboratory tech-
+12 nician who is certified by the national board for certification in
+13 dental laboratory technology, or a successor certifying body acceptable
+14 to the department.
+15 2. "Prescribing dentist" shall mean a licensed dentist who issues a
+16 dental laboratory prescription or any other written or electronic
+17 instrument directing the manufacture of or work to be performed on a
+18 dental prosthesis, device, or appliance.
+19 3. "Dental laboratory" shall mean a facility that engages in the
+20 designing, making, repairing, altering, or supplying of artificial
+21 restorations, substitutions, appliances, or materials for the correction
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02645-04-5
+
+A. 1364--B 2
+1 of disease, loss, deformity, malposition, dislocation, fracture, injury
+2 to the jaws, teeth, lips, gums, cheeks, palate, or associated tissues or
+3 parts.
+4 4. "Material content disclosure" shall mean a notice to the prescrib-
+5 ing dentist that contains the name, physical address, and registration
+6 number of the dental laboratory that received a prescription or any
+7 other written or electronic instrument from a licensed dentist directing
+8 the manufacture of or work to be performed on a dental prosthesis,
+9 device, or appliance, and the city, state, and country of origin where
+10 the work on the prosthesis, device or appliance was performed in whole
+11 or in part or laboratories that manufactured or repaired the dental
+12 prosthesis, either directly or indirectly, and the complete material
+13 content information of all patient contact materials used in such dental
+14 prosthesis, device or appliance, including whether the United States
+15 food and drug administration cleared materials were used. Such notice
+16 must be provided in a manner that can be easily entered into a patient
+17 record.
+18 5. "Responsible person" shall mean the person who:
+19 (a) controls a majority interest in a dental laboratory; or
+20 (b) is primarily responsible for the supervision of the day-to-day
+21 operations of the dental laboratory.
+22 6. "Work authorization" shall mean a written instrument by which a
+23 dental laboratory delegates to another dental laboratory to perform work
+24 on a dental prosthesis, device, or appliance, in whole or in part, as
+25 authorized by a dental laboratory prescription from a licensed dentist.
+26 § 591. Dental laboratory registrations. 1. (a) Any dental laboratory
+27 operating, doing business, or intending to operate or do business in
+28 this state must register with the department in a manner acceptable to
+29 the department and in accordance with the department's regulations.
+30 (b) A dental laboratory shall be considered operating or doing busi-
+31 ness within this state if its work product is prepared for a prescribing
+32 dentist pursuant to a prescription or work authorization originating
+33 from an entity located within this state.
+34 2. Any dental laboratory operating, doing business, or intending to
+35 operate or do business within this state must submit an application for
+36 registration of dental laboratory or renewal of registration of dental
+37 laboratory to the department in a form provided by the department and
+38 accompanied by a registration or renewal fee as provided in this
+39 section. An application for registration or renewal of registration
+40 must include:
+41 (a) The name, mailing address, phone number, and email address of the
+42 dental laboratory;
+43 (b) The physical address of the dental laboratory, if different from
+44 the mailing address of the dental laboratory;
+45 (c) The name, mailing address, phone number, and email address of the
+46 responsible person, or the name and license number of the supervising
+47 dentist who is licensed under article one hundred thirty-three of the
+48 education law;
+49 (d) A statement that the dental laboratory meets accepted infection
+50 control precaution practices as established by the department pursuant
+51 to section two hundred thirty-a of this chapter;
+52 (e) An acknowledgment by the responsible person or the supervising
+53 dentist that the dental laboratory will provide a material content
+54 disclosure to the prescribing dentist of all patient contact materials
+55 that contain both the manufacturer and brand name, or the United States
+56 food and drug administration registration number of all patient contact
+
+A. 1364--B 3
+1 materials contained in each restoration such that the dentist may
+2 include those in the patient's record;
+3 (f) An acknowledgment by the responsible person or the supervising
+4 dentist who is licensed in this state that they will disclose to the
+5 prescribing dentist the point of origin of the manufacture of the resto-
+6 ration. If the restoration was partially or entirely manufactured by a
+7 third-party provider, the point of origin disclosure must identify the
+8 portion manufactured by a third-party provider and the city, state, and
+9 country of the provider;
+10 (g) The name of any person who works at least thirty hours per week in
+11 the responsible person's dental laboratory and:
+12 (i) Has successfully completed at least thirty-six hours of continuing
+13 education in dental laboratory technology approved by the national board
+14 for certification in dental laboratory technology, or a successor certi-
+15 fying body acceptable to the department, during the thirty-six months
+16 immediately preceding the application for registration or renewal of
+17 registration; or
+18 (ii) Is a certified dental technician in good standing;
+19 (h) An acknowledgment by the responsible person or the supervising
+20 dentist that the laboratory will continuously satisfy the requirements
+21 of this section; and
+22 (i) A registration or renewal fee, not to exceed one hundred and fifty
+23 dollars, as determined by the department.
+24 3. Upon approval of a registration for a dental laboratory, the
+25 department shall assign the dental laboratory a registration number.
+26 Such registration number must appear on any invoice from and all other
+27 correspondence by a dental laboratory to the prescribing dentist.
+28 4. A dental laboratory registration shall require renewal on a trien-
+29 nial basis from the date of issuance. Registrations may be renewed with
+30 the department upon receipt and approval of application materials as
+31 required by subdivision two of this section.
+32 5. (a) This section shall not apply to a dental laboratory operating
+33 under the supervision of a practicing dentist licensed under article one
+34 hundred thirty-three of the education law in a dental office or as a
+35 part of a dental practice, provided that the laboratory does not perform
+36 work for a prescribing dentist from outside of the supervising dentist's
+37 dental practice or supervising dentist's office, or in an educational
+38 institution as part of the institution's educational program, provided
+39 that the dental laboratory does not routinely perform work for prescrib-
+40 ing dentists from outside of the educational institution.
+41 (b) A responsible person or employee of a dental laboratory may engage
+42 in onsite consultation with a licensed dentist during a dental proce-
+43 dure.
+44 § 592. Nonresident dental laboratories. 1. The term "nonresident
+45 dental laboratory" shall mean any dental laboratory as defined in subdi-
+46 vision three of section five hundred ninety of this title that is
+47 located outside of this state which has its work product prepared pursu-
+48 ant to a prescription or any other written or electronic instrument from
+49 a licensed dentist or work authorization originating from an entity
+50 located within this state.
+51 2. Any nonresident dental laboratory that ships, mails, or delivers
+52 dental prostheses, devices or appliances to any other dental laboratory,
+53 dental office, licensed dentist, and/or patient in this state pursuant
+54 to a prescription or any other written or electronic instrument from a
+55 licensed dentist or work authorization originating from an entity
+56 located within this state shall be registered with the department.
+
+A. 1364--B 4
+1 3. Each nonresident dental laboratory that ships, mails, or delivers
+2 dental prostheses, devices or appliances into this state shall designate
+3 a resident agent in this state for service of process pursuant to rule
+4 three hundred eighteen of the civil practice law and rules.
+5 4. As a condition of registration, a nonresident dental laboratory
+6 shall comply with the following requirements:
+7 (a) Be in good standing in the state of residence;
+8 (b) Maintain, in readily retrievable form, records of work product
+9 shipped into this state;
+10 (c) Supply, upon request, all information needed by the department to
+11 carry out the department's responsibilities under the laws and rules and
+12 regulations pertaining to nonresident dental laboratories;
+13 (d) Comply with all statutory and regulatory requirements of the state
+14 where the nonresident dental laboratory is located;
+15 (e) Apply in the manner and form prescribed by the department pursuant
+16 to the requirements of subdivision two of section five hundred ninety-
+17 one of this title.
+18 5. The department may adopt such regulations as appropriate to evalu-
+19 ate registrations from dental laboratories that hold valid licenses,
+20 registrations, certifications or their equivalent in another state or
+21 country, provided the standards for granting licenses, registrations, or
+22 certifications to such facilities are not less than the standards
+23 required of dental laboratories otherwise registered pursuant to this
+24 title.
+25 § 593. Enforcement and penalties. 1. A registration issued pursuant to
+26 this title may be revoked or suspended by the department on proof that
+27 the responsible person or one or more persons in their employ:
+28 (a) has been guilty of misrepresentation in obtaining the registration
+29 or in the operation of the dental laboratory;
+30 (b) has shipped, mailed, or delivered dental prostheses, devices or
+31 appliances into this state performed in another dental laboratory with-
+32 out designating the fact that such work product was performed by another
+33 dental laboratory;
+34 (c) has failed to renew any registration required by the provisions of
+35 this title; or
+36 (d) has not otherwise complied with the requirements of this title.
+37 2. Any person or entity which owns or operates a dental laboratory and
+38 does not hold a valid registration shall be liable for a civil penalty
+39 not to exceed one thousand dollars for each day for the unregistered
+40 operation of such laboratory.
+41 3. Any violation of any other provision of this title shall be subject
+42 to a fine of not more than one thousand dollars. A second or subsequent
+43 violation shall be punishable by a fine of not more than two thousand
+44 five hundred dollars.
+45 § 2. Subdivision 1 of section 6611 of the education law, as amended by
+46 chapter 576 of the laws of 2001, is amended to read as follows:
+47 1. Except upon the written dental laboratory prescription of a
+48 licensed dentist and except by the use of impressions, including but not
+49 limited to digital intraoral scans or analog impressions, or casts made
+50 by a licensed dentist, no dental laboratory shall furnish, supply,
+51 construct, reproduce, place, adjust, or repair any dental prosthesis,
+52 device, or appliance. A dental laboratory prescription shall be made out
+53 in duplicate. It shall contain the registration number issued by the
+54 department of health pursuant to title seven of article five of the
+55 public health law and such other data as may be prescribed by the
+56 commissioner's regulations. One copy shall be retained by the practi-
+
+A. 1364--B 5
+1 tioner of dentistry for a period of one year. The other copy shall be
+2 issued to the person, firm or corporation engaged in filling dental
+3 laboratory prescriptions, who or which shall each retain and file in
+4 their respective offices or places of business their respective copies
+5 for a period of one year.
+6 § 3. Section 6612 of the education law, as added by chapter 332 of the
+7 laws of 1985, is amended to read as follows:
+8 § 6612. Identification of removable full or partial prosthetic
+9 devices. 1. Except as provided [herein] in this section, every dentist
+10 licensed in this state making or directing to be made a removable pros-
+11 thetic denture, bridge, appliance or other structure to be used and worn
+12 as a substitute for natural teeth, shall offer to the patient for whom
+13 the prosthesis is intended the opportunity to have such prosthesis
+14 marked with the patient's name or initials. Such markings shall be
+15 accomplished at the time the prosthesis is made and the location and
+16 methods used to apply or implant them shall be determined by the dentist
+17 or the person acting on behalf of the dentist. Such marking shall be
+18 permanent, legible and cosmetically acceptable.
+19 2. Notwithstanding the foregoing, if in the judgment of the dentist or
+20 the [person] dental laboratory registered pursuant to title seven of
+21 article five of the public health law making the prosthesis, such iden-
+22 tification is not practicable or clinically safe, the identification
+23 marks may be omitted entirely.
+24 3. The commissioner shall adopt rules and regulations and provide
+25 standards necessary to carry out the provisions of this section.
+26 § 4. This act shall take effect one year after it shall have become a
+27 law. Effective immediately, the addition, amendment and/or repeal of any
+28 rule or regulation necessary for the implementation of this act on its
+29 effective date are authorized to be made and completed on or before such
+30 effective date.

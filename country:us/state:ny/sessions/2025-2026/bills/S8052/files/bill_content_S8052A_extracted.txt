@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - S8052A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8052--A
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sen. JACKSON -- read twice and ordered printed, and when
+printed to be committed to the Committee on Civil Service and Pensions
+-- recommitted to the Committee on Civil Service and Pensions in
+accordance with Senate Rule 6, sec. 8 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the retirement and social security law, in relation to
+providing a disability presumption to members of public retirement
+systems
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The retirement and social security law is amended by adding
+2 a new section 810 to read as follows:
+3 § 810. Disability presumption. Notwithstanding any other law, rule or
+4 regulation to the contrary, a member of a public retirement system as
+5 defined by subdivision a of section eight hundred of this article who
+6 has been determined to have a permanent partial disability by the work-
+7 ers' compensation board of the state of New York, or who the United
+8 States social security administration has determined is disabled for
+9 substantial gainful activity, and approved for social security disabili-
+10 ty benefits, shall be deemed to be disabled for the purposes of eligi-
+11 bility for disability benefits of such public retirement system.
+12 § 2. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+Bill Description:
+This fiscal note is prepared for legislative bill draft S.8052. This
+bill would add a section 810 to the Retirement and Social Security Law
+that would deem any member determined to have a permanent partial disa-
+bility by the New York State Workers' Compensation Board, or determined
+to be disabled for substantial gainful activity and eligible for Social
+Security Disability benefits by the United States Social Security Admin-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11399-04-6
+
+S. 8052--A 2
+istration, to be eligible for disability benefits from the New York
+State Teachers' Retirement System (NYSTRS). Current statute, section 605
+of the Retirement and Social Security Law, requires that a member be
+physically or mentally incapacitated for the performance of gainful
+employment to qualify for a disability benefit. The statute empowers
+NYSTRS to make that determination and to that end, NYSTRS has a Medical
+Board of board-certified physicians that meets monthly to review disa-
+bility applications and medical files.
+Cost:
+The overall cost to the participating employers of the New York State
+Teachers' Retirement System cannot be readily determined as the ultimate
+number of disability retirements granted under this definition cannot be
+determined at this time.
+The System's average cost per individual member impacted is estimated
+as follows:
+Member Age Disability Benefit
+30 $280,000 (4.5 times salary)
+40 $350,000 (4.2 times salary)
+50 $400,000 (3.8 times salary)
+The actual cost per member would depend on the member's age, tier,
+years of service, and salary. The costs above are determined based on
+averages, so the actual cost for a member could be higher or lower.
+Data:
+Member data as of June 30, 2025, prepared for the most recent actuari-
+al valuation was used in determining this cost. The most recent data
+distributions and statistics can be found in the System's Annual Report
+for the fiscal year ended June 30, 2025. System assets are as reported
+in the System's financial statements which can be found in the System's
+Annual Report. This data will also be provided in the System's Actuarial
+Valuation Report as of June 30, 2025.
+Methods and Assumptions:
+A summary of actuarial assumptions and methods will be provided in the
+System's Actuarial Valuation Report as of June 30, 2025. Further details
+can be found in the most recent Recommended Actuarial Assumptions 2025
+Report.
+Actuarial Certification:
+We, the undersigned actuaries for the New York State Teachers' Retire-
+ment System, certify the following:
+1. The actuarial assumptions, methods, and data used are reasonable
+for the purposes of this fiscal note, internally consistent and are in
+accordance with standards of practice prescribed by the Actuarial Stand-
+ards Board and generally accepted actuarial principles and procedures.
+2. We relied on member data supplied by the participating employers of
+the New York State Teachers' Retirement System and assets as supplied in
+the annual Financial Statements by NYSTRS' Finance Department.
+3. Results were prepared based on our current understanding of the
+proposal as of the date of this fiscal note. If the language or our
+understanding of the proposal changes, the results could change and
+require the issuance of a new fiscal note. The next annual update of the
+actuarial valuation could also produce different results. Results should
+not be relied upon for any other purpose.
+4. This fiscal note was prepared in accordance with New York State
+Retirement and Social Security Law, New York State Education Law, appli-
+cable Internal Revenue Code, and accepted actuarial standards of prac-
+
+S. 8052--A 3
+tice as of the date of this fiscal note. This fiscal note does not
+constitute a legal opinion on the viability of this legislative
+proposal.
+5. We are members of the American Academy of Actuaries and the Society
+of Actuaries, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+We are currently compliant with the Continuing Professional Development
+Requirement of the Society of Actuaries.
+Fiscal Note Identification:
+This Fiscal Note, 2026-10 dated January 29, 2026, was prepared by the
+Office of the Actuary of the New York State Teachers' Retirement System
+and is intended for use only during the 2026 Legislative Session.
