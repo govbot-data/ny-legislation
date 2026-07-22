@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - A9026A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9026--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+September 5, 2025
+___________
+Introduced by M. of A. TORRES, LEE -- read once and referred to the
+Committee on Consumer Affairs and Protection -- recommitted to the
+Committee on Consumer Affairs and Protection in accordance with Assem-
+bly Rule 3, sec. 2 -- reported and referred to the Committee on Codes
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the agriculture and markets law, in relation to requir-
+ing the testing of baby food and infant formula for toxic heavy metals
+and the disclosure of such test results
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "Baby Food
+2 and Infant Formula Safety and Transparency Act".
+3 § 2. Legislative findings and intent. The legislature hereby finds and
+4 declares that toxic heavy metals, including arsenic, cadmium, lead, and
+5 mercury, have been detected in baby food and infant formula products
+6 sold in the United States. Even at low levels, exposure to these contam-
+7 inants may cause significant harm to infants and young children, includ-
+8 ing impaired neurological development, reduced cognitive ability, and
+9 increased risk of developmental and behavioral disorders.
+10 The legislature further finds that existing federal standards and
+11 enforcement mechanisms are inadequate to fully protect infants and young
+12 children from unnecessary exposure to such contaminants. It is therefore
+13 the intent of the legislature to require manufacturers of baby food or
+14 infant formula sold in this state to conduct regular testing for toxic
+15 heavy metals, to prohibit the sale of products that exceed federal
+16 limits, to require public disclosure of testing results, and to estab-
+17 lish a system for enforcement and consumer reporting.
+18 § 3. The agriculture and markets law is amended by adding a new
+19 section 214-p to read as follows:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13680-05-6
+
+A. 9026--A 2
+1 § 214-p. Baby foods and infant formulas; toxic heavy metals. 1. Defi-
+2 nitions. For purposes of this section:
+3 (a) "Baby food" shall mean food packaged in a jar, pouch, tub, or box
+4 that is represented or sold for consumption by infants or children under
+5 two years of age.
+6 (b) "Infant formula" shall mean a food which purports to be or is
+7 represented for special dietary use solely as a food for infants by
+8 reason of its simulation of human milk or its suitability as a complete
+9 or partial substitute for human milk.
+10 (c) "Manufacturer" shall mean any person, firm, corporation, or asso-
+11 ciation engaged in the manufacturing, processing, or packing of baby
+12 food or infant formula for sale or distribution in this state.
+13 (d) "Production aggregate" shall mean a quantity of product that is
+14 intended to have uniform composition, character, and quality, and that
+15 is produced pursuant to a master manufacturing order.
+16 (e) "Proficient laboratory" shall mean a laboratory accredited to
+17 ISO/IEC 17025:2017 by an accreditation body that is a signatory to the
+18 Global Accreditation Cooperation Incorporated, which utilizes an analyt-
+19 ical method at least as sensitive as the method described in section 4.7
+20 of the United States food and drug administration elemental analysis
+21 manual for food and related products, and which demonstrates proficiency
+22 in quantifying each toxic heavy metal to at least six micrograms per
+23 kilogram of food through an independent proficiency test achieving a Z
+24 score not greater than plus two and not less than minus two.
+25 (f) "Representative sample" shall mean a sample drawn in accordance
+26 with rational criteria, including random sampling, intended to ensure
+27 that the sample accurately portrays the material being sampled.
+28 (g) "Toxic heavy metal" shall include, but not be limited to, arsenic,
+29 cadmium, lead, and mercury.
+30 (h) "QR code" shall mean a machine-readable code, consisting of an
+31 array of squares, used for storing data that allows a user to access a
+32 webpage.
+33 2. Prohibition on sale. No person shall sell, distribute, or offer for
+34 sale within this state any baby food or infant formula that contains an
+35 amount of toxic heavy metal which exceeds standards set by the depart-
+36 ment in collaboration with the department of health. Any baby food or
+37 infant formula exceeding such limit shall be deemed adulterated within
+38 the meaning of section two hundred of this article and unsafe within the
+39 meaning of section two hundred two of this article.
+40 3. Testing requirements. (a) Each manufacturer shall test a represen-
+41 tative sample of each production aggregate of the manufacturer's final
+42 baby food or infant formula product for each toxic heavy metal.
+43 (b) Such testing shall be conducted not less than once per month by a
+44 proficient laboratory.
+45 (c) Testing may be conducted on the final baby food or infant formula
+46 product prior to the packaging of individual units for sale or distrib-
+47 ution.
+48 (d) Upon request of the commissioner, or an authorized agent thereof,
+49 each manufacturer shall provide to the department the results of testing
+50 conducted pursuant to this subdivision.
+51 4. Public disclosure. Each manufacturer shall make publicly available,
+52 on a website maintained by the manufacturer, the following information
+53 with respect to each baby food or infant formula product sold, manufac-
+54 tured, delivered, held, or offered for sale in this state:
+
+A. 9026--A 3
+1 (a) the name and level of each toxic heavy metal present in the final
+2 product, as determined by testing conducted pursuant to subdivision
+3 three of this section;
+4 (b) sufficient product identifiers, including but not limited to the
+5 product name, universal product code, or lot or batch number, to enable
+6 consumer identification of the final product; and
+7 (c) a hyperlink to the website of the United States food and drug
+8 administration containing the most recent guidance and information
+9 regarding the health effects of toxic heavy metals on children. Such
+10 information shall remain publicly available for the duration of the
+11 product shelf life and for not less than one month thereafter.
+12 5. Label requirements. If the baby food or infant formula is tested
+13 for a toxic heavy metal subject to an action level, regulatory limit, or
+14 tolerance established by the department in collaboration with the
+15 department of health, the product label shall include:
+16 (a) the statement, "For information about the toxic heavy metal test-
+17 ing on this product, scan the Quick Response (QR) code"; and
+18 (b) a QR code providing direct access to the webpages described in
+19 subdivision four of this section.
+20 6. Rulemaking. The commissioner, in collaboration with the commission-
+21 er of health, is hereby authorized and directed to promulgate such rules
+22 and regulations as may be necessary to implement and give full effect to
+23 the provisions of this section, including but not limited to rules
+24 governing acceptable heavy metal levels, sampling procedures, laboratory
+25 proficiency, record retention, data submission, public disclosures, and
+26 consumer reporting. Such rules may incorporate by reference limits,
+27 action levels, tolerances, or guidance established by the United States
+28 food and drug administration for toxic elements in food, including any
+29 amendments thereto. Such rules and regulations shall be promulgated
+30 within one hundred eighty days of the effective date of this subdivi-
+31 sion.
+32 7. Consumer reporting. If a consumer believes, based on information
+33 obtained through the QR code or other machine-readable code included on
+34 the product label, that baby food or infant formula is being sold in
+35 violation of this section, the consumer may report such product to the
+36 department. The department shall establish and maintain a system for
+37 consumer reporting consistent with this subdivision. The department may
+38 share information received pursuant to this subdivision with federal and
+39 state authorities, consistent with applicable law.
+40 8. Enforcement. A violation of this section or of any rule or regu-
+41 lation promulgated hereunder shall constitute a violation of this chap-
+42 ter and shall be subject to the penalties prescribed in section thirty-
+43 nine of this chapter, the remedies set forth in sections two hundred
+44 two-b and two hundred two-c of this article, and any other remedy
+45 authorized by law.
+46 9. Construction. Nothing in this section shall be construed to dimin-
+47 ish or impair the authority of the department under this chapter or of
+48 any other agency under any other law, including but not limited to
+49 authority concerning adulteration, misbranding, seizure, quarantine, or
+50 false advertising. The requirements of this section shall be in addition
+51 to, and not in substitution for, federal requirements.
+52 § 4. Severability. If any provision of this act, or the application
+53 thereof to any person or circumstance, shall be adjudged invalid by a
+54 court of competent jurisdiction, such judgment shall not affect or
+55 impair the validity of the remainder of this act, or the application
+56 thereof to other persons and circumstances.
+
+A. 9026--A 4
+1 § 5. This act shall take effect immediately; provided, however, subdi-
+2 visions 2 and 3 of section 214-p of the agriculture and markets law
+3 added by section three of this act shall apply to the sale and testing
+4 of baby food or infant formula conducted on and after the first day of
+5 the thirteenth month next succeeding such effective date; and provided
+6 further, however, the requirements of subdivisions 4 and 5 of section
+7 214-p of the agriculture and markets law added by section three of this
+8 act shall apply to baby food or infant formula manufacturers on and
+9 after the first day of the twenty-fifth month next succeeding such
+10 effective date.

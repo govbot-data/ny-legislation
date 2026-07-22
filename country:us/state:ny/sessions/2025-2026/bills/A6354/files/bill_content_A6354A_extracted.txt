@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - A6354A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6354--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 4, 2025
+___________
+Introduced by M. of A. WALKER, PAULIN, SHRESTHA, VALDEZ, R. CARROLL,
+LEVENBERG, SIMON, P. CARROLL, KASSAY -- read once and referred to the
+Committee on Election Law -- recommitted to the Committee on Election
+Law in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the election law, in relation to providing protections
+against illegal voter purging
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 4-117 of the election law is amended by adding a
+2 new subdivision 4 to read as follows:
+3 4. Any person, other than an election officer, who pays for, mails or
+4 causes to be mailed, any mail, where such person knows or reasonably
+5 should know that such mail: (a) is intended to be delivered to a regis-
+6 tered voter or voter registration applicant; and (b) may be used by a
+7 challenger, other than an election officer, to challenge the qualifica-
+8 tions of a voter, shall file with the state board of elections within
+9 two business days of such mailing, a duplicate copy of such mail, a
+10 duplicate copy of names and addresses to which such mail was sent, and a
+11 completed form prescribed by the state board of elections. Such form
+12 shall contain: the full name, residence and business address, and the
+13 name of the employer of the person who pays for, mails or causes to be
+14 mailed the mailing; the approximate number of pieces of such mail; and a
+15 statement certifying the accuracy of such duplicate copies and of the
+16 information contained in the complete form. The failure to comply with
+17 the provisions of this subdivision shall create a presumption that such
+18 mail shall not be used to challenge the qualifications of a voter.
+19 § 2. Section 8-502 of the election law, as amended by chapter 481 of
+20 the laws of 2023, is amended to read as follows:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05256-05-6
+
+A. 6354--A 2
+1 § 8-502. Challenges; generally. 1. Before [his] the voter's vote is
+2 cast at an election any person may be challenged as to [his] the voter's
+3 right to vote, in accordance with the provisions of this section, or
+4 [his] the voter's right to vote by early mail, absentee, military,
+5 special federal or special presidential ballot. Such challenge may be
+6 made by an inspector or clerk, by any duly appointed watcher, or by any
+7 registered voter properly in the polling place in accordance with the
+8 provisions of this section.
+9 2. An inspector shall challenge every person offering to vote, whom
+10 [he] the inspector shall know or suspect is not entitled to vote in the
+11 district, and every person whose name appears on the list of persons to
+12 be challenged on election day which is furnished by the board of
+13 elections.
+14 3. Any person, other than an inspector or clerk, may challenge the
+15 qualifications of a voter only by completing, executing and delivering
+16 to the board of inspectors a challenge affidavit that satisfies the
+17 requirements of section 8-503 of this title.
+18 § 3. The election law is amended by adding a new section 8-503 to read
+19 as follows:
+20 § 8-503. Challenge affidavit. 1. The state board of elections shall
+21 prescribe the content and form of a challenge affidavit for use at any
+22 general, special, town or village election and at any primary election.
+23 Such affidavit shall contain the affiant's full name, residence and
+24 business address, the name of the affiant's employer, the registration
+25 serial number of the person challenged and a recital of the reasons and
+26 the facts supporting the affiant's belief that the person challenged
+27 lacks one or more of the qualifications for voting prescribed in section
+28 5-102 or 5-106 of this chapter and specified in such affidavit. The
+29 affidavit shall state if the reason for challenge are based upon the
+30 affiant's personal knowledge or upon information received from another
+31 person. If the affiant's belief is based upon information furnished by
+32 another, the affidavit shall recite the name of the person furnishing
+33 the information and the basis for the affiant's information. After the
+34 affiant has filed such affidavit, an inspector from each major party
+35 shall read to the affiant and request the affiant to sign the following
+36 oath which shall be subscribed by such affiant: "I do solemnly swear (or
+37 affirm) that I am a qualified voter of the city or county in which this
+38 affidavit is signed and that the foregoing statement made by me on
+39 (insert day, month and year) is a truthful disclosure of the reasons for
+40 my belief that the registered voter therein named is not qualified to
+41 vote in the election district in which such voter is now registered." If
+42 the affiant shall take and sign such oath, an inspector shall sign the
+43 inspector's name as a witness below the affiant's subscription to such
+44 oath. An inspector may request state-issued identification to affirm the
+45 identity of the challenger. Each challenge affidavit shall only chal-
+46 lenge the qualifications of one voter.
+47 2. The boards of elections shall make challenge affidavit forms avail-
+48 able to all qualified voters.
+49 § 4. Subdivision 2 of section 8-504 of the election law, as renumbered
+50 by chapter 373 of the laws of 1978, is amended to read as follows:
+51 2. (a) If the applicant shall take the preliminary oath, the inspector
+52 shall ask the applicant [such] the following questions as [may] they
+53 pertain to the reason [his] the applicant's right to vote at such
+54 election in such district was challenged[.]:
+55 Are you eighteen years of age or older?
+56 Are you a citizen of the United States?
+
+A. 6354--A 3
+1 Have you been a resident of this state and of this county (and the
+2 City of New York or village, as applicable) for the past thirty days or
+3 more?
+4 Do you swear that you have not already voted at this election?
+5 (b) If any applicant shall refuse to answer fully any of the questions
+6 [which may be put to him] in this subdivision, [he] the applicant shall
+7 not be permitted to vote.
+8 § 5. Section 8-504 of the election law is amended by adding a new
+9 subdivision 8 to read as follows:
+10 8. Information concerning the citizenship status of individuals, when
+11 collected and transmitted pursuant to this section, shall not be
+12 retained, used or shared for any other purpose except as may be required
+13 by law. A failure to certify that an individual is a citizen of the
+14 United States shall be considered an innocent error. Such person failing
+15 to certify United States citizenship shall not be considered as attempt-
+16 ing to register to vote.
+17 § 6. Paragraphs (b) and (e) of subdivision 2 of section 8-508 of the
+18 election law, as amended by section 11 of part XX of chapter 55 of the
+19 laws of 2019, are amended to read as follows:
+20 (b) The second section of such report shall be reserved for the board
+21 of inspectors to enter the name, address and registration serial number
+22 of each person who is challenged at the time of voting together with the
+23 reason for the challenge, the name and address of the person challenging
+24 the qualifications of such voter, if such person challenging the quali-
+25 fications is not an inspector or clerk, and the words "Permitted to
+26 Vote" or "Refused to take oath". If no voters are challenged, the board
+27 of inspectors shall enter the words "No Challenges" across the space
+28 reserved for such names. In lieu of preparing section two of the chal-
+29 lenge report, the board of elections may provide, next to the name of
+30 each voter in the computer generated registration list, a place for the
+31 inspectors of election to record the information required to be entered
+32 in such section two, or provide elsewhere in such registration list, a
+33 place for the inspectors of election to enter such information.
+34 (e) At the foot of such report or at the end of any such computer
+35 generated registration list, if applicable, shall be a certificate that
+36 such report or list contains the names of all persons who were chal-
+37 lenged on the day of election, [and] the reason for such challenge and
+38 the names and addresses of all challengers who are not inspectors or
+39 clerks that each voter so reported as having been challenged took the
+40 oaths as required, that such report or list contains the names of all
+41 voters to whom such board gave or allowed assistance and lists the
+42 nature of the disability which required such assistance to be given and
+43 the names and family relationship, if any, to the voter of the persons
+44 by whom such assistance was rendered; that each such assisted voter
+45 informed such board under oath that [he] the voter required such assist-
+46 ance and that each person rendering such assistance took the required
+47 oath; that such report or list contains the names of all voters who were
+48 permitted to vote although their registration poll records were missing;
+49 that the entries made by such board are a true and accurate record of
+50 its proceedings with respect to the persons named in such report or
+51 list.
+52 § 7. Subdivision 3 of section 8-510 of the election law, as amended by
+53 section 12 of part XX of chapter 55 of the laws of 2019, is amended to
+54 read as follows:
+55 3. The inspectors shall place such completed report, each challenge
+56 affidavit and each court order, if any, directing that a person be
+
+A. 6354--A 4
+1 permitted to vote, in the secure container provided by the county board
+2 of elections for such ledger of registration records or computer gener-
+3 ated registration lists and then shall close and seal each ledger of
+4 registration records or computer generated registration lists, lock such
+5 ledger in the carrying case furnished for that purpose and enclose the
+6 keys in a sealed package or seal such list in the envelope provided for
+7 that purpose.
+8 § 8. Subdivisions 1 and 2 of section 17-108 of the election law, as
+9 amended by chapter 373 of the laws of 1978, are amended to read as
+10 follows:
+11 1. Any person who wilfully loses, alters, destroys or mutilates the
+12 list of voters or registration poll ledgers, a challenge affidavit, or a
+13 challenge report in any election district, or a certified copy thereof,
+14 is guilty of a misdemeanor.
+15 2. An applicant for registration who shall make, incorporate or cause
+16 to be incorporated a material false statement in an application for
+17 registration, or in any challenge or other affidavit required for or
+18 made or filed in connection with registration or voting, and any person
+19 who knowingly takes a false oath before a board of inspectors of
+20 election, and any person who makes a material false statement in a
+21 medical certificate, a challenge affidavit or an affidavit filed in
+22 connection with an application for registration, is guilty of a misde-
+23 meanor.
+24 § 9. This act shall take effect on the thirtieth day after it shall
+25 have become a law.

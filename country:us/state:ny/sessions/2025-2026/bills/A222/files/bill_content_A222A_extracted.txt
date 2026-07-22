@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - A222A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+222--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. VANEL -- read once and referred to the Committee
+on Consumer Affairs and Protection -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the general business law, in relation to liability for
+false information provided by a chatbot
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new section
+2 390-f to read as follows:
+3 § 390-f. Liability for chatbot responses. 1. As used in this section
+4 the following terms shall have the following meanings:
+5 (a) "Artificial intelligence" means a machine-based system or combina-
+6 tion of systems, that for explicit and implicit objectives, infers, from
+7 the input it receives, how to generate outputs such as predictions,
+8 content, recommendations, or decisions that can influence physical or
+9 virtual environments.
+10 (b) "Chatbot" means an artificial intelligence system, software
+11 program, or technological application that simulates human-like conver-
+12 sation and interaction through text messages, audio, or a combination
+13 thereof to provide information and services to users.
+14 (c) "Companion chatbot" means a chatbot that is designed to provide
+15 human-like interaction that simulates an interpersonal relationship with
+16 a user or group of users as its primary function, or uses previous user
+17 interactions when simulating an interpersonal relationship in future
+18 interactions. An interpersonal relationship shall include, but shall not
+19 be limited to, romantic, platonic, familial, adversarial, professional,
+20 official, therapeutic, or stranger relationships that are between the
+21 covered user and a fictional or non-fictional character or group of
+22 characters.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01914-02-5
+
+A. 222--A 2
+1 (d) "Covered user" means a user of a chatbot in New York.
+2 (e) "Human-like" means any form of communication or interaction that
+3 approximates human behavior, including non-human behavior that could be
+4 attributed to a human actor, including but not limited to, a human actor
+5 role playing as a fictional non-human character, an animal, or other
+6 interactive entity.
+7 (f) "Minor" means an individual under the age of eighteen.
+8 (g) "Proprietor" means any person, business, company, organization,
+9 institution or government entity that owns, operates or deploys a chat-
+10 bot used to interact with users. Proprietors shall not include third-
+11 party developers that license their technology to a proprietor.
+12 2. (a) A proprietor of a chatbot that is used as an alternative to a
+13 human representative, or otherwise as an agent of the proprietor to
+14 provide any substantive response, information, advice, or action may not
+15 disclaim liability where a chatbot provides materially misleading,
+16 incorrect, contradictory or harmful information to a covered user that
+17 results in financial loss or other demonstrable harm to a covered user.
+18 No such liability shall be imposed where the proprietor has corrected
+19 the information and substantially or completely cured the harm to the
+20 covered user within thirty days of notice of such harm.
+21 (b) The proprietor of a chatbot shall be responsible for ensuring such
+22 chatbot accurately provides information aligned with the formal poli-
+23 cies, product details, disclosures and terms of service offered to
+24 covered users.
+25 (c) A proprietor may not waive or disclaim this liability merely by
+26 notifying consumers that they are interacting with a non-human chatbot
+27 system.
+28 3. A proprietor of a chatbot or another person or entity that directs
+29 the proprietor's chatbot to provide any substantive response, informa-
+30 tion, advice or action may not disclaim liability of any kind where a
+31 chatbot provides materially misleading, incorrect, contradictory or
+32 harmful information to a covered user that results in bodily harm to the
+33 covered user or any third party, including but not limited to any form
+34 of self-harm.
+35 4. Proprietors utilizing chatbots shall provide clear, conspicuous and
+36 explicit notice to covered users that they are interacting with an arti-
+37 ficial intelligence chatbot program rather than a human. The text of
+38 the notice shall appear in the same language and in a size easily read-
+39 able by the average viewer and no smaller than the largest font size of
+40 other text appearing on the website on which the chatbot is utilized.
+41 5. (a) A proprietor of a companion chatbot shall use commercially
+42 reasonable and technically feasible methods to (i) prevent such compan-
+43 ion chatbot from promoting, causing or aiding self-harm, and (ii) deter-
+44 mine whether a covered user is expressing thoughts of self-harm and,
+45 upon making such determination, such proprietor prohibits continued use
+46 of the companion chatbot for a period of at least twenty-four hours and
+47 prominently displays a means to contact a suicide crisis organization to
+48 such covered user.
+49 (b) Where a proprietor of a companion chatbot fails to comply with the
+50 provisions of paragraph (a) of this subdivision, such proprietor shall
+51 be liable to covered users who inflict self-harm upon themselves, in
+52 whole or in part, as a result of such proprietor's companion chatbot
+53 promoting, causing or aiding the covered user to inflict self-harm.
+54 (c) Irrespective of the proprietor's compliance with paragraph (a) of
+55 this subdivision, a proprietor shall be liable to covered users who
+
+A. 222--A 3
+1 inflict self-harm upon themselves, in whole or in part, where such
+2 proprietor:
+3 (i) has actual knowledge that the companion chatbot is promoting,
+4 causing or aiding self-harm; or
+5 (ii) has actual knowledge that a covered user is expressing thoughts
+6 of self-harm, fails to prohibit continued use of the companion chatbot
+7 for a period of at least twenty-four hours, and fails to prominently
+8 display a means to contact a suicide crisis organization to such covered
+9 user.
+10 (d) A proprietor of a companion chatbot may not waive or disclaim
+11 liability under this subdivision.
+12 6. (a) A proprietor of a companion chatbot shall use commercially
+13 reasonable and technically feasible methods to determine whether a
+14 covered user is a minor.
+15 (b) Where such proprietor of a companion chatbot determines that a
+16 covered user is a minor pursuant to paragraph (a) of this subdivision,
+17 or has actual knowledge that a covered user is a minor, such proprietor
+18 shall:
+19 (i) cease such covered user's use of the companion chatbot until such
+20 proprietor has obtained verifiable parental consent to provide a compan-
+21 ion chatbot to such minor user; and
+22 (ii) prohibit such covered user's continued use of the companion chat-
+23 bot for a period of at least three days and prominently display a means
+24 to contact a suicide crisis organization to such covered user if, using
+25 commercially reasonable and technically feasible methods, such proprie-
+26 tor determines that, or has actual knowledge that, a covered user is
+27 expressing thoughts of self-harm.
+28 (c) A proprietor shall be strictly liable for any harm caused where:
+29 (i) such provider fails to comply with paragraphs (a) or (b) of this
+30 subdivision; and
+31 (ii) a minor covered user inflicts self-harm upon themselves, in whole
+32 or in part, as a result of such proprietor's companion chatbot.
+33 (d) A proprietor of a companion chatbot may not waive or disclaim
+34 liability under this subdivision.
+35 7. A proprietor of a companion chatbot shall implement and engage in
+36 the ongoing implementation of commercially reasonable and technically
+37 feasible methods to discover vulnerabilities in the proprietor's system,
+38 including any methods used to determine whether a covered user is a
+39 minor.
+40 8. (a) The attorney general shall promulgate regulations identifying
+41 commercially reasonable and technically feasible methods for proprietors
+42 of companion chatbots required under this section.
+43 (b) In promulgating regulations related to the commercially reasonable
+44 and technically feasible methods for proprietors of companion chatbots
+45 to comply with this section, the attorney general shall consider the
+46 size, financial resources, and technical capabilities of the proprietor,
+47 the costs and effectiveness of available (i) age determination tech-
+48 niques for users of companion chatbots, (ii) techniques to prevent the
+49 promotion, aid, or encouragement of self-harm, (iii) techniques to
+50 determine whether a user is expressing thoughts of self-harm, and (iv)
+51 techniques to discover vulnerabilities in the proprietor's system. The
+52 attorney general shall also consider that prevalent practices of the
+53 industry of the proprietor and the impact of the techniques listed in
+54 subparagraphs (i) through (iv) of this paragraph on the user's safety,
+55 utility, and experience.
+
+A. 222--A 4
+1 (c) Such regulations shall also identify the appropriate levels of
+2 accuracy that would be commercially reasonable and technically feasible
+3 for proprietors to achieve in determining (i) whether a user is a minor,
+4 (ii) whether the proprietor's companion chatbot is promoting, aiding, or
+5 encouraging self-harm, and (iii) whether a user is expressing thoughts
+6 of self-harm.
+7 9. Information collected for the purpose of determining a user's age
+8 under paragraph (a) of subdivision five of this section shall not be
+9 used for any purposes other than age determination and shall be deleted
+10 immediately after an attempt to determine a user's age, except where
+11 necessary for compliance with any applicable provisions of New York
+12 state or federal law or regulation.
+13 10. The attorney general shall promulgate regulations identifying
+14 methods of obtaining verifiable parental consent pursuant to subpara-
+15 graph (i) of paragraph (b) of subdivision six of this section.
+16 11. Information collected for the purpose of obtaining verifiable
+17 parental consent shall not be used for any purpose other than obtaining
+18 such verifiable parental consent and shall be deleted immediately after
+19 an attempt to obtain verifiable parental consent, except where necessary
+20 for compliance with any applicable provisions of New York state or
+21 federal law or regulation.
+22 12. Nothing in this section shall be construed as requiring any
+23 proprietor to give a parent who grants verifiable parental consent any
+24 additional or special access to or control over the data or accounts of
+25 their child.
+26 § 2. This act shall take effect one year after it shall have become a
+27 law.

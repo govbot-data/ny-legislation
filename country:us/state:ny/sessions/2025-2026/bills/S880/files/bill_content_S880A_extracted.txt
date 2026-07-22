@@ -1,0 +1,509 @@
+Title: 
+Official Title: 
+Source: versions - S880A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+880--A
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. JACKSON, CLEARE -- read twice and ordered printed,
+and when printed to be committed to the Committee on Housing,
+Construction and Community Development -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the private housing finance law, in relation to enacting
+the housing development fund company self-determination, preservation
+and affordability act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "housing development fund company self-determination, preservation
+3 and affordability act".
+4 § 2. Legislative findings and declarations. 1. In 1966, the Legisla-
+5 ture enacted Article 11 of the private housing finance law. Article 11
+6 authorized the development of rental and cooperative housing that is
+7 subject to certain income restrictions. The type of income-restricted
+8 housing is referred to as housing development fund companies (HDFCs).
+9 2. Beginning in the early 1980s, New York city adopted the HDFC form
+10 of housing cooperative as a means to divest itself of -- and revitalize
+11 -- its tax-foreclosed multi-family housing stock. At the time the city
+12 was experiencing large-scale abandonment of its private low and middle-
+13 income multi-family housing stock. In response to this housing crisis,
+14 the city determined to turn over the ownership and management of many
+15 city-owned tax-foreclosed multifamily buildings to the existing tenants
+16 in the form of HDFC co-ops.
+17 3. Previously, the city sold at auction nearly all of its tax-forec-
+18 losed multi-family property to private investors - and that traditional
+19 approach to disposing of tax foreclosed property had led to an acceler-
+20 ating cycle of housing disinvestment and abandonment. The city's HDFC
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02813-02-5
+
+S. 880--A 2
+1 initiative was in the city's own interests: it enabled the city to avoid
+2 the counterproductive private auction process and to return the build-
+3 ings to the tax rolls.
+4 4. Over the past four decades the city's HDFC initiative proved to be
+5 one of New York's most enduring housing success stories. Tens of thou-
+6 sands of resident-shareholders of HDFCs played an important role in the
+7 stabilization and preservation of New York city's multi-family housing
+8 stock in the period following the city's fiscal crisis of the 1970s and
+9 1980s. The city's large-scale creation of HDFC co-ops was a major policy
+10 innovation and was an important part of the city's response to the hous-
+11 ing crisis of that era. Today, there are over 1,100 HDFC co-ops in New
+12 York city.
+13 5. All government and community stakeholders benefitted from the
+14 large-scale creation of HDFCs. The city benefitted by reducing its enor-
+15 mous portfolio of tax-foreclosed apartment buildings at a time when the
+16 buildings were a substantial burden to the city and when there was
+17 little in the way of a private market for these properties. The resi-
+18 dents benefitted by the preservation and upgrading of their own build-
+19 ings and by becoming homeowners for the first time. And the surrounding
+20 communities benefitted by the stabilization of the neighborhood, the
+21 upgrading of housing and by the transformation of a rental community
+22 into a homeowning community.
+23 6. When the city imposed regulatory controls on the city-sponsored
+24 HDFCs, the regulatory controls placed on HDFCs were time-limited.
+25 Consequently, the HDFCs that were created in the 1980s and 1990s have
+26 regulatory controls that already have expired or will soon expire. For
+27 this class of HDFCs, there is a great deal of uncertainty as to their
+28 legal status and their financial future.
+29 7. This legislation clarifies the legal status of HDFCs with expired
+30 regulatory controls in a way that protects and promotes their autonomy
+31 and self-governance while strengthening the inducements for these HDFCs
+32 to voluntarily agree to continue to operate as affordable housing.
+33 8. An important feature of city-sponsored HDFCs is the city's use of
+34 its authority to enter into a "regulatory agreement" with the HDFC.
+35 Under section 576 of the private housing finance law, either the state
+36 or the municipal "supervisory agency" (i.e., HPD) may enter into a regu-
+37 latory agreement with an HDFC if the agency advances public funds to the
+38 HDFC. Under such section of the private housing finance law, every HDFC
+39 regulatory agreement must provide that:
+40 (1) Households must meet income eligibility guidelines, which are
+41 defined by statute as six times the annual rent plus six percent of the
+42 shareholder's "original investment" in the HDFC. See paragraph b of
+43 subdivision 1 of section 576 of the private housing finance law.
+44 (2) Profits must be used only for capital improvements or to reduce
+45 rent/maintenance. Dividends cannot be paid to owners. See paragraphs c
+46 and d of subdivision 1 of section 576 of the private housing finance
+47 law.
+48 (3) The property may not be sold or transferred without HPD approval
+49 for so long as the regulatory agreement remains in effect and/or unless
+50 and until any funds or mortgages owed to the city are paid in full. See
+51 paragraph e of subdivision 1 of section 576 of the private housing
+52 finance law.
+53 (4) The HDFC may not be dissolved without HPD approval for so long as
+54 the regulatory agreement remains in effect and/or unless and until any
+55 funds or mortgages owed to the city are paid in full. See paragraph e of
+56 subdivision 1 of section 576 of the private housing finance law.
+
+S. 880--A 3
+1 9. Thus, under section 576 of the private housing finance law certain
+2 key restrictions remains in effect only for so long as a regulatory
+3 agreement remains in effect. Put differently, the city's authority to
+4 impose section 576 restrictions (including restrictions on dissolution
+5 of HDFCs and on the sale and disposition of HDFC property) is limited to
+6 only those HDFCs that are subject to a regulatory agreement and does not
+7 extend to HDFCs in which a regulatory agreement or mortgage is no longer
+8 in effect.
+9 10. The city applied its section 576 authority to HDFCs in two ways:
+10 i.e. (1) some of the terms of the section 576 "regulatory agreement"
+11 were incorporated into various HDFC incorporation documents and in the
+12 deed conveying title to the property; and (2) a regulatory agreement was
+13 incorporated into mortgage documents when the city made loans to HDFCs
+14 to finance capital improvements. In each case the city imposed resale
+15 restrictions that had a fixed term. At the inception of the HDFC program
+16 in the early 1980s, city-sponsored resale restrictions imposed by the
+17 sale documents expired in ten years. By the late 1980s, city-sponsored
+18 resale restrictions imposed by the sale documents ran for 25 years.
+19 Furthermore, resale restrictions that were made a part of city-sponsored
+20 rehabilitation loans to HDFCs ran for the life of the loan -- i.e.,
+21 usually 15 to 25 years.
+22 11. Thus, the city used section 576 of the private housing finance law
+23 as a means to impose additional terms and conditions (including resale
+24 restrictions) on the operation of the HDFC for a fixed term following
+25 the establishment of the housing cooperative or during the life of a
+26 city-sponsored loan to the HDFC. For the vast majority of HDFCs, these
+27 restrictions have expired.
+28 12. There are presently over 1,100 HDFCs in New York city containing
+29 approximately 25,000 apartments. Of these HDFCs, approximately 20
+30 percent are subject to regulatory agreements. A substantial number of
+31 non-regulated HDFCs date from the 1980s and 1990s. These older HDFCs are
+32 no longer subject to city resale restrictions that expired after either
+33 ten years or 25 years following the incorporation of the HDFCs.
+34 13. For as long as a particular city-imposed resale restrictions
+35 remained in effect, an HDFC is subject to a detailed scheme of regu-
+36 lations imposed by the city pursuant to section 576 of the private hous-
+37 ing finance law. In general, HPD resale restrictions govern such impor-
+38 tant issues of HDFC governance as income limitations for purchasers,
+39 succession rights, sublet rights, flip taxes, HPD consent as a precondi-
+40 tion to the sale of an HDFC building and HPD consent to the dissolution
+41 of an HDFC. Upon the expiration of the city-imposed restrictions, the
+42 HDFC is no longer subject to these externally imposed regulations.
+43 14. An HDFC with expired regulatory controls nevertheless remains
+44 subject to Article 11 of the private housing finance law as well as to
+45 various governing documents, such as its certificate of incorporation,
+46 deed restrictions, proprietary lease and by-laws. Most importantly, an
+47 HDFC is required to provide housing for "persons of low income," as
+48 defined in paragraph a of subdivision 3 of section 573 of the private
+49 housing finance law. However, once an HDFC regulatory agreement or other
+50 HPD-imposed income restriction has expired, nothing in the private hous-
+51 ing finance law expressly precludes these HDFC co-ops from converting to
+52 a non-HDFC co-op by reincorporating as a conventional co-op (and thereby
+53 opting out of the remaining statutory restrictions imposed by the
+54 private housing finance law). That circumstance raised the possibility
+55 that some HDFCs may opt-out of the HDFC statute and become market-rate
+
+S. 880--A 4
+1 housing - which would represent a loss to the city's inventory of
+2 affordable housing stock.
+3 15. A city-established HDFC is eligible to receive a partial real
+4 estate tax exemption granted by the city pursuant to section 577 of the
+5 private housing finance law. Pursuant to this authority, the city in
+6 1989 enacted a partial tax exemption for most city-sponsored HDFCs. The
+7 tax exemption is generally referred to as the "Division of Alternative
+8 Management Programs" tax exemption, or "DAMP tax exemption".
+9 16. The tax exemption runs for forty years and will expire in 2029. A
+10 condition of the DAMP tax exemption is that the HDFC remain an HDFC for
+11 the duration of the tax exemption. Hence, an HDFC that opt-outs of the
+12 HDFC statute and become market-rate housing would be required to forfeit
+13 the DAMP tax exemption.
+14 17. The city in 2017 proposed local legislation that would revoke the
+15 DAMP tax exemption from any HDFC that declined to sign a new regulatory
+16 agreement with HPD. The proposed new regulatory agreement would contain
+17 many provisions that would largely deprive HDFCs of autonomy and self-
+18 determination, including the imposition of external fiscal monitors paid
+19 for by HDFC income, new restriction on apartment sales and subletting,
+20 and limitations on the assets and other real property owned by HDFC
+21 shareholders. By 2019 the city abandoned the proposed legislation in the
+22 face of widespread opposition by HDFC community groups and other stake-
+23 holders.
+24 18. Also in 2017, the city proposed new state legislation that would
+25 re-regulate HDFCs and that would change the law to ensure that all HDFCs
+26 remain subject to affordability controls in perpetuity. See S2543 (2017)
+27 (proposed amendment to the private housing finance law). As stated in
+28 the city's memorandum in support of S2543:
+29 "(T)here is a great need for an amendment to clarify that the corpo-
+30 rate purpose of an HDFC -- to provide affordable housing to persons and
+31 families of low income -- is perpetual in duration. Absent the checks
+32 and balances provided by the (proposed amendment to private housing
+33 finance law, which would subject HDFCs for the time to the requirements
+34 of the not-for-profit corporation law), there may be a great loss of
+35 affordable housing."
+36 19. Thus, the city expressly acknowledged that, under existing law,
+37 HDFCs with expired regulatory agreements have the option of remaining as
+38 an HDFC or, in the alternative, the option of converting to another form
+39 of housing cooperative without affordability controls. S2453 was
+40 intended to eliminate the second option. Ultimately, S2453 was not
+41 enacted and the statutory law governing HDFCs remains unchanged.
+42 20. Contrary to the city's 2017 statement, the New York Attorney
+43 General issued an opinion in 2015 to the effect that HDFC cooperatives
+44 could never opt-out of the PHFL and that they were subject to the
+45 perpetual regulation of the HPD Commissioner. See New York Attorney
+46 General, "Guidance on Housing Development Fund Corporations Seeking to
+47 Transfer or Sell Property for, or Otherwise Convert Property to Market-
+48 Rate Use" (hereafter "Guidance"). HPD joined in the Guidance. The Attor-
+49 ney General reached this conclusion based on their determination that
+50 the statutory term "amendment" - as used in subdivision 5 of section 573
+51 of the private housing finance law - encompassed and implied the commis-
+52 sioner's additional authority to consent to the dissolution of an HDFC.
+53 The Attorney General's Guidance is incorrect as a matter of law, in that
+54 it misconstrues the plain text of the HDFC statute as well as ignores
+55 the distinct treatment of the concepts of "amendment" and "dissolution"
+
+S. 880--A 5
+1 in other New York corporate law settings, including the business corpo-
+2 ration law.
+3 21. Consistent with the city's 2017 statement, HDFCs always have had
+4 the right under the private housing finance law -- and continue to have
+5 the right under the private housing finance law -- to dissolve and rein-
+6 corporate under the business corporation law or other applicable law,
+7 provided that the housing development fund company: (1) was formerly
+8 subject to a regulatory agreement but such regulatory agreement has
+9 expired and/or was formerly subject to contractual restrictions imple-
+10 menting the requirements of section 576 of the private housing finance
+11 law but that such contractual restrictions have expired; and (2) had
+12 formerly received a tax exemption under section 577 of the private hous-
+13 ing finance law but such tax exemption either has expired or is other-
+14 wise no longer being received.
+15 22. This legislation squarely addresses the legal uncertainty that
+16 threatens the future of many city-sponsored HDFCs. More particularly,
+17 this legislation has three overriding goals: (1) to protect and promote
+18 the self-determination of HDFC co-ops; (2) to provide strong incentives
+19 for HDFC co-ops with expired controls to agree to remain as affordable
+20 housing; and (3) to ensure that the HDFC co-ops that agree to remain as
+21 affordable housing are in sound condition and are economically self-suf-
+22 ficient. These three overriding objectives are complementary.
+23 23. The current HDFC tax exemption for most city-sponsored HDFCs
+24 co-ops is scheduled to expire in 2029. Already, many financial insti-
+25 tutions have indicated a reluctance to lend to HDFCs in light of the
+26 financial uncertainty associated with the scheduled expiration of the
+27 HDFC tax exemption in five years. This legislation will eliminate this
+28 uncertainty by providing a permanent tax incentive for HDFCs.
+29 24. Currently, HDFC co-ops receive a partial tax exemption - known as
+30 "the DAMP tax benefit". The DAMP tax benefit takes the form of a cap on
+31 assessed valuation per dwelling unit - currently $12,542. As previously
+32 noted, this legislation removes the sunsetting of the DAMP tax exemption
+33 and makes the tax exemption permanent. Furthermore, the legislation
+34 allows HDFC co-ops to receive the greater of the DAMP tax exemption or
+35 twice the tax abatement that most market-rate co-ops presently currently
+36 receive under section 467-a of the real property tax law (but which HDFC
+37 co-ops presently are ineligible to receive). This increased tax benefit
+38 to HDFCs is a recognition that income-restricted HDFC co-ops are enti-
+39 tled to greater benefits than market-rate co-ops. This increased tax
+40 benefit is a vital means to promote and protect housing affordability
+41 and to provide financial stability to HDFCs. The benefit also is
+42 intended as an inducement for current HDFC co-ops (with expired regula-
+43 tory controls) to make a long-term commitment to remain as income-res-
+44 tricted HDFCs - rather than exercising their right to reincorporate as
+45 another form of housing cooperative that is not subject to income
+46 restrictions.
+47 25. The fact that market-rate co-ops are eligible to receive a tax
+48 abatement under section 467-a of the real property tax law, but that
+49 HDFC co-ops presently are ineligible to receive any such tax abatement,
+50 is an inequity that is corrected by this legislation. As stated above,
+51 the real property tax law section 467-a tax abatement is received by
+52 most housing cooperatives in New York City other than HDFCs. This tax
+53 abatement contains no income restrictions or similar eligibility
+54 requirements. A luxury co-op on Park Avenue is eligible for a conven-
+55 tional co-op tax abatement. Currently, a conventional co-op that is
+56 assessed at $50,000 per unit or less is eligible for a tax abatement of
+
+S. 880--A 6
+1 28.1 percent. A conventional co-op that is assessed above $60,000 per
+2 unit - without any upper limit to assessed value - is subject to a 17.5
+3 percent tax abatement. However, under current law, HDFCs that receive
+4 the DAMP tax exemption are not eligible to receive either the 28.1
+5 percent real property tax law tax abatement or the 19 percent real prop-
+6 erty tax law tax abatement. See paragraph (b) of subdivision 2 of
+7 section 467-a of the real property tax law which provides that housing
+8 cooperatives that receive most other real estate tax incentives are not
+9 eligible to receive the conventional co-op tax abatement. This places
+10 many income-restricted HDFCs co-ops in the anomalous position of receiv-
+11 ing less of a tax benefit than a conventional co-op without any income
+12 restrictions whatsoever.
+13 26. Although HDFCs do receive the DAMP tax exemption in lieu of the
+14 conventional co-op tax abatement, the application of the DAMP tax
+15 exemption to many HDFC co-ops is not nearly as valuable as would be the
+16 application of the real property tax law section 467-a tax abatement.
+17 This is so because the real property tax law section 467-a tax abatement
+18 provides a dollar-for-dollar reduction in real estate tax liability. By
+19 contrast, the DAMP tax exemption merely provides a cap on assessed valu-
+20 ation, and thereby a cap on the resulting real estate tax liability. If
+21 an HDFC's assessment is already below the DAMP "cap," then the HDFC
+22 receives no tax benefit at all. Hence, many HDFCs located in low-income
+23 neighborhoods receive no tax benefit whatsoever. This is manifestly
+24 unfair.
+25 27. This legislation remedies this anomaly by providing that HDFC
+26 co-ops are entitled to either the benefits of a conventional co-op tax
+27 abatement and the DAMP tax exemption. As a matter of fairness and equi-
+28 ty, an HDFC income-restricted co-op should receive at least the tax
+29 benefit that a market-rate co-op receives. This legislation goes further
+30 and provides that HDFC co-ops are entitled to the greater of twice the
+31 conventional co-op tax abatement or the DAMP tax exemption. As previous-
+32 ly stated, this increased benefit is a recognition that HDFC co-ops are
+33 entitled to greater benefits than market-rate co-ops as a vital means to
+34 promote and protect housing affordability in New York City and as a
+35 means to provide financial stability to HDFCs.
+36 28. This legislation also establishes a mechanism to ensure that HDFCs
+37 that receive the tax benefit comply with the new affordability require-
+38 ments. As a condition of the continuing receipt of the tax benefit, each
+39 HDFC is required to file an annual certification stating that it has
+40 complied with the affordability requirements. HPD is authorized to
+41 review and audit the sales records of the HDFC in order to ensure
+42 compliance with these requirements. Furthermore, HPD has the right to
+43 suspend or revoke the tax exemption and tax abatement if HPD determines
+44 that HDFC has willfully not complied with the affordability require-
+45 ments.
+46 29. For the vast majority of HDFC co-ops, the proposed enhanced real
+47 estate tax benefit -- together with the availability of below-market
+48 interest financing available through HPD -- would be sufficient to
+49 ensure both affordability and fiscal stability. However, for perhaps 10
+50 to 20 percent of HDFCs -- which are in fair to poor financial condition
+51 - something more is needed. In recognition of this special need of
+52 economically distressed HDFCs, the legislation extends the authority of
+53 the city of New York to offer special tax relief to HDFC co-ops that are
+54 in severe fiscal distress and that are in danger of tax foreclosure by
+55 reason of unpaid real estate taxes. Such tax relief is conditioned on
+56 the HDFC co-op agreeing to enter into a special regulatory agreement in
+
+S. 880--A 7
+1 which the city exercises appropriate oversight and monitoring of the
+2 HDFC. Current legislation was enacted in 2002 and authorized tax
+3 forgiveness only for HDFCs that "(as of) January 1, 2002 had outstanding
+4 municipal real estate taxes relating to any period prior to January 1,
+5 2001." This baseline year for tax forgiveness (i.e., tax arrears as of
+6 2001) has never been updated to a more current tax year. The legislation
+7 updates the baseline year so that the city has the flexibility to offer
+8 tax forgiveness (in appropriate cases and subject to strict controls set
+9 forth in current law) for HDFC co-ops that are at risk of tax foreclo-
+10 sure. In this way an economically distressed HDFC co-op is saved from
+11 tax foreclosure, and may thereby provide sustainable and affordable
+12 housing for years to come. This is critically important - not just for
+13 the HDFC shareholders themselves - but also for neighborhood stability.
+14 30. In summary, this legislation provides a much needed permanent tax
+15 incentive for HDFCs -- as well as targeted tax relief for economically
+16 distressed HDFCs. The permanent tax benefit will eliminate the current
+17 uncertainty surrounding the expiration of the DAMP tax exemption in 2029
+18 - and will thereby ease the availability of mortgage financing for
+19 HDFCs. Furthermore, the permanent tax benefit will serve as a strong
+20 incentive for HDFCs with expired regulatory controls to affirmatively
+21 choose to remain as affordable HDFC housing subject to income
+22 restrictions -- consistent with democratic principles of self-gover-
+23 nance. This approach is a matter of basic fairness and justice; is
+24 consistent with the promises given to HDFCs over the past thirty years;
+25 and is in full accord with how all other government-sponsored private
+26 housing under the private housing finance law is treated (such as Mitc-
+27 hell-Lama housing and Article V redevelopment companies). Most impor-
+28 tantly, this approach will ensure the long-term economic viability of
+29 affordable HDFC co-ops.
+30 § 3. Section 576 of the private housing finance law is amended by
+31 adding a new subdivision 4 to read as follows:
+32 4. A housing development fund company that is no longer subject either
+33 to a regulatory agreement or to deed restrictions entered into with the
+34 commissioner or supervisory agency shall continue to be subject to the
+35 oversight of the commissioner or supervisory agency, subject to the
+36 limitation set forth in paragraph (d) of subdivision one of section five
+37 hundred seventy-seven of this article, provided that the housing devel-
+38 opment fund company continues to elect to receive a tax exemption and/or
+39 tax abatement pursuant to section five hundred seventy-seven of this
+40 article. If such housing development fund company elects not to receive
+41 a tax exemption and/or tax abatement pursuant to such section, then it
+42 shall cease to be subject to the regulation and oversight of the commis-
+43 sioner or supervisory agency.
+44 § 4. Subdivision 1 of section 577 of the private housing finance law,
+45 as amended by chapter 658 of the laws of 1967, paragraph (a) as amended
+46 by chapter 428 of the laws of 1980, paragraph (c) as added by chapter
+47 494 of the laws of 1995, and paragraph (d) as added by chapter 73 of the
+48 laws of 2009, is amended to read as follows:
+49 1. (a) The local legislative body of any municipality in which a
+50 project of a housing development fund company is or is to be located may
+51 exempt and abate the real property in such project from local and munic-
+52 ipal taxes including school taxes, other than assessments for local
+53 improvements, to the extent of all or part of the value of the property
+54 included in the completed project. The tax exemption and tax abatement
+55 shall operate and continue for [such period as may be provided by such
+56 local legislative body, but in no event for a period of more than forty
+
+S. 880--A 8
+1 years, commencing] so long as a housing development fund company remains
+2 in compliance with the requirements of this section, and shall commence
+3 in each instance from the date on which the benefits of such exemption
+4 first became available and effective. The tax exemption and tax abate-
+5 ment shall be applied to:
+6 (i) newly created housing development fund companies that are subject
+7 to regulatory agreement and/or contractual or deed restrictions imposed
+8 by the commissioner or supervisory agency;
+9 (ii) housing development fund companies that are presently subject to
+10 a regulatory agreement and/or contractual or deed restrictions imposed
+11 by the commissioner or supervisory agency; and
+12 (iii) housing development fund companies that are not presently
+13 subject to a regulatory agreement and are not presently subject to
+14 contractual or deed restrictions imposed by the commissioner or supervi-
+15 sory agency but that agree to the conditions of the tax exemption and
+16 tax abatement as hereinafter described in paragraph (b) of this subdivi-
+17 sion.
+18 (b) In order for a housing development fund company described in
+19 subparagraph (iii) of paragraph (a) of this subdivision to be eligible
+20 for a tax exemption and tax abatement pursuant to this section, such
+21 company shall be required, for so long as it receives such tax exemption
+22 and tax abatement, to not approve a sale of an apartment unless the
+23 purchaser of the apartment provides satisfactory proof of income and
+24 unless the income of the purchaser is no greater than the income limita-
+25 tion specified herein. Such income limitation shall be, at the election
+26 of the housing development fund company, either (i) the apartment resale
+27 requirement of paragraph b of subdivision one of section five hundred
+28 seventy-six of this article; or (ii) a requirement that the income of a
+29 purchaser of an apartment not exceed one hundred sixty-five percent of
+30 the area median income, as determined from time to time by the United
+31 States department of housing and urban development. As a condition of
+32 the continuing receipt of such tax exemption and tax abatement, the
+33 housing development fund company shall file an annual certification with
+34 the commissioner or supervisory agency that the company has complied
+35 with the requirements of this section. Such certification shall be
+36 limited to a listing of apartments sold or transferred in the prior
+37 twelve months and a statement that the income of the purchaser or trans-
+38 feree of the apartment complies with the income requirement of this
+39 paragraph, except that a transferee who is a member of the transferor's
+40 family or household need not comply with such requirement.
+41 (c) (i) The commissioner or supervisory agency may review and audit
+42 the sales records of a housing development fund company in order to
+43 ensure compliance with the requirements of this section. The commission-
+44 er or supervisory agency shall have the authority to suspend or revoke
+45 the tax exemption and tax abatement applicable to any housing develop-
+46 ment fund company, in proportion to the percentage of dwelling units at
+47 a housing development fund corporation not in compliance with this
+48 section, if the commissioner determines that the company has willfully
+49 violated the provisions of this section, so long as the housing develop-
+50 ment fund company is provided with prior written notification as to each
+51 specific instance of noncompliance and to which dwelling unit such non-
+52 compliance is alleged.
+53 (ii) A housing development fund company shall have the right to rebut
+54 allegations of a willful violation of this section, and also to charge
+55 and collect additional monies from any shareholder, including successors
+56 and assigns, found by the commissioner or supervisory agency to have
+
+S. 880--A 9
+1 willfully not complied with the requirements of this section so as to
+2 recover expenses for all losses of tax exemptions and tax abatements and
+3 so as to recover all expenses associated with responding to such allega-
+4 tions by the commissioner or supervisory agency.
+5 (iii) Any annual certification submitted pursuant to this section that
+6 has been accepted for filing and that has not been subject to a suspen-
+7 sion or revocation action by the commissioner or supervisory agency for
+8 a period of five years shall be deemed correct and shall not be subject
+9 to further audit or review by the commissioner or supervisory agency.
+10 (d) The conditions set forth in paragraph (b) of this subdivision
+11 shall be the sole and exclusive conditions governing the eligibility of
+12 a housing development fund company described in subparagraph (iii) of
+13 paragraph (a) of this subdivision for receipt of the tax exemption and
+14 tax abatement authorized in paragraph (e) of this subdivision.
+15 (e) For each eligible housing development fund company, the annual
+16 amount of the tax exemption and tax abatement authorized pursuant to
+17 this section shall be the greater of:
+18 (i) twelve thousand five hundred forty-two dollars, equivalent to the
+19 cap on assessed value per apartment of fifty thousand dollars in the two
+20 thousand twenty-four tax year, and which shall increase by two and a
+21 half percent per year in each subsequent tax year; or
+22 (ii) the net reduction in real estate taxes resulting from two hundred
+23 percent of the tax abatement for housing cooperatives authorized by
+24 section four hundred sixty-seven-a of the real property tax law.
+25 (f) Where a municipality acts on behalf of another taxing jurisdiction
+26 in assessing real property for the purpose of taxation, or in levying
+27 taxes therefor, the action of the local legislative body of such munici-
+28 pality in granting such tax exemption shall have the effect of exempting
+29 the real property in such project from local and municipal taxes includ-
+30 ing school taxes, other than assessments for local improvements, levied
+31 by or in behalf of both such taxing jurisdictions.
+32 [(c)] (g) The local legislative body of any municipality may grant an
+33 exemption under paragraph (a) of this subdivision to the real property
+34 of a project of any entity to which it is authorized to make a loan
+35 pursuant to section five hundred seventy-six-c of this article.
+36 [(d)] (h) In a city having a population of one million or more, within
+37 one hundred twenty days following receipt of a written submission from
+38 the supervising agency requesting a tax exemption pursuant to paragraph
+39 (a) of this subdivision for the real property containing the project of
+40 a housing development fund company, the local legislative body shall
+41 approve or disapprove by resolution the requested tax exemption. If the
+42 local legislative body fails to take such action within one hundred
+43 twenty days following receipt of such written submission from such
+44 supervising agency, then the tax exemption requested by the supervising
+45 agency shall be deemed approved pursuant to paragraph (a) of this subdi-
+46 vision.
+47 § 5. Paragraph (b) of subdivision 1 of section 577-b of the private
+48 housing finance law, as amended by chapter 225 of the laws of 2004, is
+49 amended to read as follows:
+50 (b) on January first, two thousand [two] twenty-four, had outstanding
+51 municipal real estate taxes relating to any period prior to January
+52 first, two thousand [one] twenty-three.
+53 § 6. This act shall take effect on the first of January next succeed-
+54 ing the date on which it shall have become a law.
