@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - S8451A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8451--A
+2025-2026 Regular Sessions
+IN SENATE
+July 7, 2025
+___________
+Introduced by Sens. FAHY, BASKIN, FERNANDEZ, GONZALEZ, GOUNARDES, HARCK-
+HAM, HINCHEY, JACKSON, MAY, MAYER, PALUMBO, RAMOS, C. RYAN, SALAZAR,
+SEPULVEDA, SKOUFIS, WEBB -- read twice and ordered printed, and when
+printed to be committed to the Committee on Rules -- recommitted to
+the Committee on Internet and Technology in accordance with Senate
+Rule 6, sec. 8 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to enacting the
+"New York fundamental artificial intelligence requirements in (FAIR)
+news act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York fundamental artificial intelligence requirements in (FAIR)
+3 news act".
+4 § 2. The general business law is amended by adding a new article 48 to
+5 read as follows:
+6 ARTICLE 48
+7 ARTIFICIAL INTELLIGENCE IN NEWS MEDIA
+8 Section 1800. Legislative intent.
+9 1801. Definitions.
+10 1802. Transparency requirements.
+11 § 1800. Legislative intent. The legislature hereby finds that:
+12 1. New York is the center of the American news industry and journal-
+13 ists are a key part of the state's workforce.
+14 2. Artificial intelligence can quickly generate articles, summaries,
+15 news scripts, audio/visual and other media content that may seem profes-
+16 sionally done to a lay observer. However, there is ample evidence that
+17 content created by generative artificial intelligence: (a) contains
+18 false or misleading content; and (b) plagiarizes by deriving its content
+19 from original source material without permission or proper citation.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13419-02-6
+
+S. 8451--A 2
+1 These failures are a disservice to the public who relies on the news for
+2 accurate information about the world.
+3 3. As such, the government has a strong interest in the preservation
+4 of human news work. There is an urgent need to prevent news companies
+5 from using artificial intelligence at the expense of both the broader
+6 public and of news workers, including human reporters, editors, news
+7 writers, directors, producers, voice actors, graphic designers and other
+8 newsroom professionals.
+9 4. It is therefore the intent of the legislature to establish clear,
+10 meaningful protections for both journalists and the broader public to
+11 ensure that the integrity of the news and its workforce are safeguarded.
+12 § 1801. Definitions. For the purposes of this article, the following
+13 terms shall have the following meanings:
+14 1. "Artificial intelligence", "artificial intelligence technology", or
+15 "AI" means a machine-based system that can, for a given set of human-de-
+16 fined objectives, make predictions, recommendations, or decisions influ-
+17 encing real or virtual environments, and that uses machine- and human-
+18 based inputs to perceive real and virtual environments, abstract such
+19 perceptions into models through analysis in an automated manner, and use
+20 model inference to formulate options for information or action.
+21 2. "Automated employment decision-making tool" shall mean any software
+22 that uses algorithms, computational models, or artificial intelligence
+23 techniques, or a combination thereof, to materially automate or replace
+24 human decision-making regarding employment, including but not limited to
+25 wages and other compensation, hiring, selection for recruitment, disci-
+26 pline, promotion, and termination. "Automated employment decision-making
+27 tool" shall not include any software used primarily for basic computer-
+28 ized processes, such as calculators, spellcheck tools, autocorrect func-
+29 tions, spreadsheets, electronic communications, or any tool that relates
+30 only to internal management affairs such as ordering office supplies or
+31 processing payments, and that do not materially affect the rights,
+32 liberties, benefits, safety or welfare of any individual within the
+33 state.
+34 3. "Generative artificial intelligence" means a class of artificial
+35 intelligence models that are self-supervised and emulate the structure
+36 and characteristics of input data to generate derived synthetic content,
+37 including, but not limited to, images, videos, audio, text, and other
+38 digital content.
+39 4. "News media" shall mean any publication or programming, regardless
+40 of the medium or method of distribution, that provides news, weather,
+41 traffic, sports, or entertainment reports or programming. This includes
+42 but is not limited to newspapers, magazines, journals, periodicals,
+43 websites, newsletters, television or cable programming, radio or podcast
+44 programming, and internet or satellite-based content.
+45 § 1802. Transparency requirements. Any news media content published,
+46 broadcast, or otherwise disseminated or accessible within the state of
+47 New York, which was substantially composed, authored, or otherwise
+48 created through the use of generative artificial intelligence shall
+49 conspicuously imprint on the top of the page, webpage, image, graphic,
+50 video or other visual or audio/visual content, or verbally orate at the
+51 onset of audio content, that such content was substantially created by
+52 generative artificial intelligence. If the content is eligible for copy-
+53 right registration such disclosure requirement shall not apply.
+54 § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+55 sion or section of this act shall be adjudged by any court of competent
+56 jurisdiction to be invalid, such judgment shall not affect, impair, or
+
+S. 8451--A 3
+1 invalidate the remainder thereof, but shall be confined in its operation
+2 to the clause, sentence, paragraph, subdivision or section thereof
+3 directly involved in the controversy in which such judgment shall have
+4 been rendered. It is hereby declared to be the intent of the legislature
+5 that this act would have been enacted even if such invalid provisions
+6 had not been included herein.
+7 § 4. This act shall take effect on the sixtieth day after it shall
+8 have become a law.

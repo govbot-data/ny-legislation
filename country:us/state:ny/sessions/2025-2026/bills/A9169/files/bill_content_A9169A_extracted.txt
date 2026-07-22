@@ -1,0 +1,385 @@
+Title: 
+Official Title: 
+Source: versions - A9169A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9169--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+October 17, 2025
+___________
+Introduced by M. of A. ALVAREZ, TAPIA -- read once and referred to the
+Committee on Health -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT in relation to establishing the New York-Dominican health part-
+nership act, creating a commission to study and develop a framework
+for authorizing New York state-funded health services for eligible
+seniors and individuals with disabilities residing part-time or full-
+time in the Dominican Republic through a pilot partnership with the
+Seguro Nacional de Salud (SeNaSa), the primary public health insurer
+of the Dominican Republic, and to explore bilateral health collab-
+oration between the state of New York and the Dominican Republic; and
+providing for the repeal of such provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York-Dominican health partnership act".
+3 § 2. Legislative findings and intent. 1. The legislature finds that:
+4 (a) A significant number of New York state residents, particularly
+5 seniors aged 65 years and older and individuals with disabilities who
+6 are enrolled in the New York state Medicaid program, maintain close
+7 cultural, familial, and residential ties with the Dominican Republic,
+8 often residing six months or more of each year in the Dominican Republic
+9 while remaining eligible for health care and social services in New York
+10 state;
+11 (b) Such dual-residence patterns create significant gaps in health
+12 care continuity, as the federal Medicaid program does not authorize
+13 payment for medical services rendered outside the United States, result-
+14 ing in eligible beneficiaries delaying or forgoing necessary primary and
+15 preventive care while residing abroad;
+16 (c) The absence of accessible, affordable primary and preventive care
+17 for these populations while residing in the Dominican Republic often
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13909-02-6
+
+A. 9169--A 2
+1 leads to the progression of manageable health conditions into acute or
+2 emergency situations requiring costly interventions upon the benefici-
+3 ary's return to New York state, thereby increasing overall Medicaid
+4 expenditures;
+5 (d) Medical services in the Dominican Republic can often be delivered
+6 at substantially lower costs than comparable services in New York state,
+7 while maintaining acceptable quality standards, particularly when coor-
+8 dinated through accredited facilities and the Dominican Republic's
+9 established public health insurance infrastructure;
+10 (e) The Dominican Republic operates a comprehensive three-tiered
+11 public health insurance system managed by the Seguro Nacional de Salud
+12 (SeNaSa), which serves over seven million beneficiaries and maintains an
+13 extensive network of certified public and private health care providers
+14 throughout the country;
+15 (f) SeNaSa operates under the regulatory oversight of the Superinten-
+16 dencia de Salud y Riesgos Laborales (SISALRIL) and provides coverage
+17 through multiple regimes, including the Contributory Subsidized Regime
+18 (Regimen Contributivo Subsidiado), which provides coverage for self-em-
+19 ployed workers and individuals with limited income who have not contrib-
+20 uted to the social security system through payroll taxes;
+21 (g) A bilateral health partnership between New York state and the
+22 Dominican Republic, utilizing SeNaSa's established infrastructure and
+23 provider network, represents an innovative approach to addressing health
+24 care access gaps while potentially generating long-term savings for the
+25 New York state Medicaid program;
+26 (h) There are approximately eight hundred thousand dual-eligible medi-
+27 care-Medicaid enrollees in New York state, many of whom are seniors of
+28 Dominican heritage who maintain connections to the Dominican Republic;
+29 and
+30 (i) An initial pilot program funded entirely with state-only dollars
+31 could demonstrate proof of concept for such partnerships, including the
+32 viability of cross-border payment systems, care coordination mechanisms,
+33 quality assurance protocols, and cost-effectiveness, thereby providing
+34 the evidentiary basis for a potential federal section 1115 demonstration
+35 waiver application to the Centers for Medicare and Medicaid Services.
+36 2. It is the intent of this legislation to:
+37 (a) Establish a commission to evaluate the feasibility and develop a
+38 framework for a state-only funded pilot program that would provide
+39 primary and preventive health care services to eligible New York state
+40 Medicaid beneficiaries aged 65 years and older who reside part-time or
+41 full-time in the Dominican Republic;
+42 (b) Explore the establishment of a formal partnership between the New
+43 York state Medicaid program and the Seguro Nacional de Salud (SeNaSa) of
+44 the Dominican Republic to deliver covered health care services through
+45 SeNaSa's Contributory Subsidized Regime tier and its network of certi-
+46 fied providers;
+47 (c) Improve health care accessibility and affordability for eligible
+48 New York state residents residing abroad by ensuring continuity of care
+49 and access to primary and preventive services that would otherwise be
+50 unavailable or unaffordable;
+51 (d) Reduce overall Medicaid expenditures by preventing the escalation
+52 of manageable health conditions into acute or emergency situations
+53 requiring costly interventions upon beneficiaries' return to New York
+54 state;
+
+A. 9169--A 3
+1 (e) Strengthen bilateral cooperation between the state of New York and
+2 the Dominican Republic in public health, health care delivery, medical
+3 education, and elder care;
+4 (f) Develop the operational infrastructure, including payment mech-
+5 anisms, provider credentialing, care coordination protocols, and quality
+6 measurement systems, necessary to support a cross-border health care
+7 partnership; and
+8 (g) Generate sufficient evidence of cost-effectiveness and program
+9 viability to support a future application to the Centers for Medicare
+10 and Medicaid Services for a section 1115 demonstration waiver and poten-
+11 tial designation as a designated state health program (DSHP), which
+12 could provide federal matching funds of up to 50 percent of program
+13 costs.
+14 3. Nothing in this act shall be construed to expand eligibility for
+15 federal Medicaid expenditures outside the United States, unless express-
+16 ly authorized by federal law or waiver. The pilot program contemplated
+17 by this act shall be funded exclusively with state-only appropriations
+18 until such time as federal approval and matching funds are obtained.
+19 § 3. Definitions. As used in this act, the following terms shall have
+20 the following meanings:
+21 1. "Commission" means the New York-Dominican health partnership
+22 commission established pursuant to section four of this act.
+23 2. "Contributory subsidized regime" means the tier of coverage within
+24 the Dominican Social Security System (Sistema Dominicano de Seguridad
+25 Social) that provides health coverage for self-employed workers, inde-
+26 pendent professionals, technical workers, and others with average wages
+27 equivalent to or higher than the national minimum wage who have not
+28 contributed to the system through payroll taxes, funded through contrib-
+29 utions from the worker and a state subsidy.
+30 3. "Covered services" means primary care, preventive care, chronic
+31 disease management, and such other health care services as the commis-
+32 sion may recommend for inclusion in the pilot program, excluding acute
+33 care, emergency care, surgical interventions, and other services to be
+34 specified by the commission.
+35 4. "Designated state health program" or "DSHP" means a state-funded
+36 health program that may be approved by the Centers for Medicare and
+37 Medicaid Services under a section 1115 demonstration waiver as eligible
+38 for federal financial participation.
+39 5. "Dominican Ministry of Public Health" or "Ministerio de Salud
+40 Publica" means the cabinet-level ministry of the government of the
+41 Dominican Republic responsible for public health policy and regulation.
+42 6. "Dual-eligible beneficiary" means an individual who is enrolled in
+43 both the Medicare program under Title XVIII of the Social Security Act
+44 and the Medicaid program under Title XIX of the Social Security Act.
+45 7. "Eligible beneficiary" means a New York state resident who: (a) is
+46 65 years of age or older; (b) is enrolled in the New York state Medicaid
+47 program; (c) resides in the Dominican Republic for a minimum of six
+48 months per calendar year; (d) does not qualify for or is not enrolled in
+49 any private, senior, or retiree health insurance program in the Domini-
+50 can Republic; and (e) meets such other eligibility criteria as the
+51 commission may recommend.
+52 8. "Pilot program" means the New York-Dominican health partnership
+53 pilot program to be developed pursuant to the recommendations of the
+54 commission.
+55 9. "Primary care" means basic health care services including general
+56 medical examinations, health screenings, diagnosis and treatment of
+
+A. 9169--A 4
+1 common illnesses and injuries, management of chronic conditions, health
+2 education, and preventive care.
+3 10. "Preventive care" means health care services intended to prevent
+4 illness or detect health conditions at an early stage, including immuni-
+5 zations, health screenings, wellness visits, and chronic disease
+6 prevention programs.
+7 11. "Seguro Nacional de Salud" or "SeNaSa" means the national health
+8 insurance agency of the Dominican Republic, the public autonomous insti-
+9 tution responsible for administering health risks for beneficiaries of
+10 the subsidized, contributory, and contributory subsidized regimes of the
+11 Dominican Social Security System, established pursuant to Law No. 87-01
+12 of the Dominican Republic.
+13 12. "Section 1115 demonstration waiver" means a demonstration project
+14 authorized by section 1115 of the Social Security Act that permits a
+15 state to waive certain federal Medicaid requirements to test exper-
+16 imental, pilot, or demonstration projects likely to promote the objec-
+17 tives of the Medicaid program.
+18 13. "Superintendencia de Salud y Riesgos Laborales" or "SISALRIL"
+19 means the Superintendency of Health and Occupational Risks, the Domini-
+20 can regulatory agency responsible for oversight of health insurance
+21 providers in the Dominican Republic.
+22 § 4. Establishment of the New York-Dominican health partnership
+23 commission. 1. There is hereby established the New York-Dominican health
+24 partnership commission ("the commission").
+25 2. The commission shall consist of 12 members, appointed as follows:
+26 (a) The commissioner of health, or their designee;
+27 (b) The director of the office for the aging, or their designee;
+28 (c) The commissioner of temporary and disability assistance, or their
+29 designee;
+30 (d) The Medicaid director of the New York state department of health,
+31 or their designee;
+32 (e) The director of the division of the budget, or their designee;
+33 (f) Two members appointed by the speaker of the assembly, one of whom
+34 shall have expertise in health policy or Medicaid administration and one
+35 of whom shall represent the Dominican community in New York state;
+36 (g) Two members appointed by the temporary president of the senate,
+37 one of whom shall have expertise in health policy or Medicaid adminis-
+38 tration and one of whom shall represent the Dominican community in New
+39 York state;
+40 (h) One member appointed by the governor who shall have expertise in
+41 international health policy, health economics, or cross-border health
+42 care programs;
+43 (i) One member representative designated by the Consulate General of
+44 the Dominican Republic in New York, who shall serve in an advisory
+45 capacity and may participate in commission deliberations but shall not
+46 have voting privileges on matters pertaining to New York state appropri-
+47 ations or policy; and
+48 (j) One expert in international health policy or global health from a
+49 New York-based university or academic medical center.
+50 3. The commissioner of health, or their designee, shall serve as chair
+51 of the commission. The commission shall select from among its voting
+52 members a vice-chairperson.
+53 4. Members shall be appointed within 60 days of the effective date of
+54 this act. Vacancies shall be filled in the same manner as original
+55 appointments within 30 days of the occurrence of such vacancy.
+
+A. 9169--A 5
+1 5. Members shall serve without compensation but shall be entitled to
+2 reimbursement for necessary expenses incurred in the performance of
+3 their duties.
+4 6. A majority of the voting members of the commission shall constitute
+5 a quorum for the transaction of business. The commission shall meet at
+6 least quarterly and at such other times as the chair shall determine.
+7 7. The department of health shall provide staff support to the commis-
+8 sion and shall be responsible for administrative coordination of commis-
+9 sion activities.
+10 § 5. Duties of the commission. The commission shall:
+11 1. Conduct a comprehensive feasibility study examining:
+12 (a) The legal requirements and regulatory framework necessary to
+13 establish a bilateral health partnership between the state of New York
+14 and the Dominican Republic;
+15 (b) The cost-effectiveness of providing primary and preventive care
+16 services to eligible beneficiaries through SeNaSa's Contributory Subsi-
+17 dized Regime compared to the current pattern of delayed care and subse-
+18 quent acute interventions in New York state;
+19 (c) The estimated number of New York state Medicaid beneficiaries aged
+20 65 and older who reside in the Dominican Republic for six months or more
+21 per year and who would be eligible for the pilot program;
+22 (d) The current health care utilization patterns and costs associated
+23 with such beneficiaries, including emergency department visits, hospi-
+24 talizations, and other acute care episodes upon return to New York
+25 state;
+26 (e) The capacity, quality standards, and accreditation status of
+27 SeNaSa's provider network and whether such standards meet or can be
+28 adapted to meet New York state public health and quality requirements;
+29 (f) The comparative cost of primary and preventive care services in
+30 the Dominican Republic versus New York state; and
+31 (g) Potential barriers to implementation, including legal, regulatory,
+32 administrative, technological, and cultural considerations.
+33 2. Develop a detailed pilot program framework including:
+34 (a) Eligibility criteria for beneficiary participation, including
+35 residency requirements, Medicaid enrollment verification, attestation of
+36 time spent in the Dominican Republic, and exclusion criteria related to
+37 alternative insurance coverage;
+38 (b) A defined scope of covered services, including specific primary
+39 care, preventive care, and chronic disease management services to be
+40 provided under the pilot program, with explicit exclusions for acute
+41 care, emergency care, surgical interventions, and other services;
+42 (c) Proposed enrollment procedures, including outreach strategies,
+43 enrollment verification, and beneficiary education;
+44 (d) A recommended pilot program size, including the number of benefi-
+45 ciaries to be enrolled and geographic targeting considerations;
+46 (e) Quality assurance and utilization review mechanisms to ensure that
+47 services meet acceptable standards of care;
+48 (f) Care coordination protocols, including mechanisms for communi-
+49 cation between Dominican providers and New York state providers, medical
+50 records sharing, and continuity of care during beneficiary transitions
+51 between countries;
+52 (g) Payment mechanisms and contracting requirements, including
+53 proposed reimbursement rates, claims processing procedures, and finan-
+54 cial controls; and
+55 (h) Performance metrics and evaluation criteria to assess pilot
+56 program success.
+
+A. 9169--A 6
+1 3. Explore and recommend models for:
+2 (a) A formal partnership agreement or memorandum of understanding
+3 between the New York state department of health and SeNaSa for the
+4 provision of covered services to eligible New York state Medicaid bene-
+5 ficiaries;
+6 (b) Provider credentialing and facility accreditation systems to
+7 ensure that Dominican health facilities and providers participating in
+8 the pilot program meet New York state public health and quality stand-
+9 ards, or acceptable equivalent standards;
+10 (c) Reciprocal telehealth programs to enable remote consultations
+11 between beneficiaries in the Dominican Republic and New York state-based
+12 providers, and to facilitate care coordination;
+13 (d) Health information exchange systems to enable secure sharing of
+14 medical records and care coordination information between participating
+15 providers in both jurisdictions;
+16 (e) Long-term care partnerships and geriatrics exchange programs to
+17 address the specialized needs of the senior population; and
+18 (f) Future opportunities for federal collaboration or waivers under
+19 section 1115 of the Social Security Act, including potential designation
+20 as a designated state health program.
+21 4. Assess potential fiscal impacts including:
+22 (a) Estimated state-only costs for the pilot program, including admin-
+23 istrative costs, payments to SeNaSa for covered services, care coordi-
+24 nation costs, and evaluation costs;
+25 (b) Projected savings to the New York state Medicaid program resulting
+26 from reduced acute care episodes, emergency department visits, and
+27 hospitalizations among pilot program participants;
+28 (c) Net fiscal impact of the pilot program to New York state, compar-
+29 ing total costs to projected savings;
+30 (d) Economic benefits to both New York state and the Dominican Repub-
+31 lic; and
+32 (e) Potential federal savings that could result from reduced acute
+33 care costs if a portion of pilot program participants are dual-eligible
+34 for medicare, recognizing that any federal savings would accrue to the
+35 medicare program and not directly to New York state.
+36 5. Develop recommendations for:
+37 (a) Any statutory or regulatory changes required at the state level to
+38 authorize and implement the pilot program;
+39 (b) Proposed memoranda of understanding or bilateral agreements
+40 between the New York state department of health and the Dominican Minis-
+41 try of Public Health, SeNaSa, and any other relevant Dominican govern-
+42 mental entities;
+43 (c) A state-only appropriation amount necessary to fund the pilot
+44 program for an initial three-year demonstration period;
+45 (d) A timeline and implementation plan for pilot program launch and
+46 operation;
+47 (e) A strategy for eventual application to the Centers for Medicare
+48 and Medicaid Services for a section 1115 demonstration waiver to obtain
+49 federal financial participation, including potential designation as a
+50 designated state health program; and
+51 (f) Criteria for evaluating pilot program success and determining
+52 whether to continue, expand, or terminate the program.
+53 6. Consult with:
+54 (a) Representatives of SeNaSa and other appropriate Dominican govern-
+55 ment officials regarding the feasibility and structure of a partnership;
+
+A. 9169--A 7
+1 (b) The Centers for Medicare and Medicaid Services regarding potential
+2 pathways for federal approval and financial participation;
+3 (c) New York state Medicaid beneficiaries who reside part-time in the
+4 Dominican Republic regarding their health care needs and experiences;
+5 (d) Dominican community organizations in New York state;
+6 (e) Health care providers in both New York state and the Dominican
+7 Republic; and
+8 (f) Experts in international health policy, Medicaid administration,
+9 and cross-border health care programs.
+10 § 6. Reporting. 1. The commission shall submit an interim report of
+11 its preliminary findings and recommendations to the governor, the speak-
+12 er of the assembly, the temporary president of the senate, and the
+13 chairs of the health and aging committees of both houses no later than
+14 nine months after the effective date of this act.
+15 2. The commission shall submit a final report of its findings and
+16 recommendations to the governor, the speaker of the assembly, the tempo-
+17 rary president of the senate, and the chairs of the health and aging
+18 committees of both houses no later than 18 months after the effective
+19 date of this act.
+20 3. Such final report shall include:
+21 (a) an executive summary of findings and recommendations;
+22 (b) a detailed feasibility analysis;
+23 (c) a proposed pilot program design, including eligibility criteria,
+24 covered services, enrollment procedures, and operational framework;
+25 (d) draft statutory language for any legislation necessary to author-
+26 ize and implement the pilot program;
+27 (e) draft memorandum of understanding with SeNaSa and other relevant
+28 Dominican entities;
+29 (f) fiscal impact estimates, including projected costs and savings;
+30 (g) an implementation timeline and operational plan;
+31 (h) evaluation framework and performance metrics;
+32 (i) a strategy for federal waiver application; and
+33 (j) any dissenting views of commission members.
+34 § 7. Cooperation of agencies. All departments, divisions, boards,
+35 bureaus, commissions, and agencies of the state and its political subdi-
+36 visions shall provide the commission with any information and assistance
+37 it may require in carrying out its duties under this act. The depart-
+38 ment of health shall have primary responsibility for coordinating such
+39 cooperation and providing data related to Medicaid enrollment, utiliza-
+40 tion, and expenditures for the populations of interest.
+41 § 8. Severability. If any provision of this act, or the application of
+42 such provision to any person or circumstance, shall be held invalid,
+43 illegal or unenforceable, the remainder of this act, and the application
+44 of such provision to persons or circumstances other than those as to
+45 which it is held invalid, illegal or unenforceable, shall not be
+46 affected thereby.
+47 § 9. This act shall take effect immediately and shall expire and be
+48 deemed repealed two years after such date.

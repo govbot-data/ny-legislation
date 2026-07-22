@@ -1,0 +1,431 @@
+Title: 
+Official Title: 
+Source: versions - S705B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+705--B
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. KRUEGER, BRISPORT, CLEARE, COONEY, FAHY, FERNANDEZ,
+GONZALEZ, GOUNARDES, HARCKHAM, HINCHEY, JACKSON, LIU, MAY, MAYER,
+MYRIE, PARKER, RAMOS, C. RYAN, SALAZAR, SEPULVEDA, SERRANO, SKOUFIS,
+SUTTON, WEBB, ZELLNER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Health -- recommitted to
+the Committee on Health in accordance with Senate Rule 6, sec. 8 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the public health law, in relation to fair pricing for
+low-complexity, routine medical care; and to amend the insurance law,
+in relation to billing and reimbursement
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 2830 of the public health law, as added by chapter
+2 764 of the laws of 2022, is renumbered section 2833 and a new section
+3 2834 is added to read as follows:
+4 § 2834. Fair pricing for certain services. 1. As used in this section:
+5 (a) "Site-neutral payment policy" means the policy of reimbursing
+6 health care providers the same amount for a similar service, regardless
+7 of the site or setting of the service.
+8 (b) "Applicable services" means outpatient or ambulatory items or
+9 services that can safely be provided across ambulatory care settings;
+10 including:
+11 (i) any outpatient or ambulatory item or service paid by medicare on a
+12 site-neutral basis, such as services paid exclusively through non-hospi-
+13 tal fee schedules or paid at a rate set to match with a non-hospital fee
+14 schedule rate; or
+15 (ii) the services, identified by healthcare common procedure coding
+16 system (HCPCS) codes, contained within the sixty-six ambulatory payment
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02527-12-6
+
+S. 705--B 2
+1 classifications (APCs) identified by the medicare payment advisory
+2 commission (MedPAC) in its June two thousand twenty-three report to
+3 congress and any subsequent services MedPAC recommends for site-neutral
+4 payment policy.
+5 (c) (i) "Health care provider" means an individual, entity, corpo-
+6 ration, person, or organization, whether for profit or nonprofit,
+7 authorized to practice or holding an operating certificate, registra-
+8 tion, or certification under title VIII of the education law, article
+9 twenty-eight, thirty-one, or forty-seven of this chapter, or article
+10 thirty-one or thirty-two of the mental hygiene law that furnishes, bills
+11 or is paid for health care service delivery in the normal course of
+12 business, and includes, but is not limited to, hospitals, hospital
+13 extension clinics, diagnostic and treatment centers, physician offices,
+14 and clinical laboratories. It shall also include any affiliated provider
+15 or entity acting on the health care provider's or affiliated provider's
+16 behalf.
+17 (ii) "Health care provider" shall not include any of the following:
+18 (A) any facility that is eligible to be designated or has received a
+19 designation as a federally qualified health center in accordance with 42
+20 U.S.C. § 1396a(aa), as amended, or any successor law thereto, including
+21 those facilities that are also licensed under article thirty-one or
+22 thirty-two of the mental hygiene law;
+23 (B) a diagnostic and treatment center whose patient population is over
+24 fifty percent combined patients enrolled in Medicaid or uninsured and
+25 that is a sub-recipient of federal Title X Family Planning funding as of
+26 April twenty-eighth, two thousand twenty-six;
+27 (C) an enhanced safety net hospital, as defined in subdivision thir-
+28 ty-four of section twenty-eight hundred seven-c of this article;
+29 (D) a general hospital that is a distressed safety net hospital, which
+30 for purposes of this subdivision shall mean a private, financially
+31 distressed hospital that serves at least forty-five percent Medicaid and
+32 uninsured payor mix and has an average operating margin that is less
+33 than or equal to zero percent over the past four calendar years of
+34 available data based on audited hospital institutional cost reports; or
+35 (E) a PPS-exempt cancer hospital under medicare. A public hospital,
+36 which for purposes of this subdivision, shall mean a general hospital
+37 operated by a county, municipality or a public benefit corporation.
+38 (d) "Affiliated provider" means a provider that is billing for medical
+39 goods or services that were delivered at a facility that is:
+40 (i) employed by the health care provider;
+41 (ii) under a professional services agreement with the health care
+42 provider; or
+43 (iii) a clinical faculty member of a medical school or other school
+44 that trains individuals to be providers and that is affiliated with the
+45 health care provider.
+46 (e) "Health benefit plan" means a plan, policy, contract, certificate,
+47 or agreement entered into, offered, or issued by a health insurance
+48 carrier, plan sponsor, or third-party administrator acting on behalf of
+49 a plan sponsor to provide, deliver, arrange for, pay for, or reimburse
+50 any of the costs of health care services and includes all plans adminis-
+51 tered by an insurer, health maintenance organization, corporation or
+52 plan authorized, licensed or certified under article thirty-two, forty-
+53 two, forty-three, forty-four, or forty-seven of the insurance law, or
+54 article forty-four or section twenty-five hundred eleven of this chap-
+55 ter. Health benefit plan does not include any plans, programs of cover-
+56 age, or benefits administered under 42 U.S.C. § 1395 et seq. (Medicare).
+
+S. 705--B 3
+1 (f) "Plan sponsor" means:
+2 (i) the employer in the case of a benefit plan established or main-
+3 tained by a single employer;
+4 (ii) the employee organization in the case of a benefit plan estab-
+5 lished or maintained by an employee organization, provided that "employ-
+6 ee organization" shall mean any labor union or any organization of any
+7 kind, or any agency or employee representation committee, association,
+8 group, or plan, in which employees participate and that exists for the
+9 purpose, in whole or in part, of dealing with employers concerning an
+10 employee benefit plan, or other matters incidental to employment
+11 relationships, or any employees' beneficiary association organized for
+12 the purpose in whole or in part, of establishing such a plan; or
+13 (iii) in the case of a benefit plan established or maintained by two
+14 or more employers or jointly by one or more employers and one or more
+15 employee organizations, the association, committee, joint board of trus-
+16 tees, or other similar group of representatives of the parties who
+17 establish or maintain the benefit plan.
+18 (g) "Health care contract" means a contract, agreement, or understand-
+19 ing, either orally or in writing, entered into, amended, restated, or
+20 renewed between a health care provider and a health insurance carrier,
+21 one or more third-party administrators, a plan sponsor or its contrac-
+22 tors or agents for the delivery of health care services to an enrollee
+23 of a health benefit plan.
+24 (h) "Medicare non-hospital rate" means the amount paid by medicare for
+25 those same services pursuant to the appropriate non-hospital medicare
+26 fee schedule, such as the medicare physician fee schedule, set forth
+27 under 42 U.S.C. § 1395w-4, or the ambulatory surgical center (ASC)
+28 payment system, set forth under 42 U.S.C. § 1395l(i)(2)(D), according to
+29 the site of service recommended by MedPAC as the reference rate where
+30 applicable.
+31 2. (a) No health care provider shall charge, bill, or accept payment
+32 for any applicable services that exceeds the lesser of: (i) one hundred
+33 fifty percent of the medicare non-hospital rate; or (ii) the negotiated
+34 rate agreed upon by the health care provider and the health benefit
+35 plan. This provision applies regardless of whether the health care
+36 provider has an existing contract with the payor, including self-pay
+37 individuals.
+38 (b) No health care provider shall charge, bill, or collect, or other-
+39 wise demand payment for any applicable service on an institutional claim
+40 form when a professional claim form is appropriate to be filed for the
+41 same service. In no circumstance should both a professional claim and an
+42 institutional claim be charged or billed for the same service.
+43 (c) All health care providers that enter into a health care contract
+44 to be a participating provider with a health benefit plan, must offer to
+45 accept as payment in full for all applicable services, rates that shall
+46 not exceed one hundred fifty percent of the medicare non-hospital rate.
+47 (d) No beneficiary or self-pay individual shall be liable to any
+48 health care provider for any amounts in excess of the rates set forth in
+49 this subdivision or for claims, charges, or bills prohibited by para-
+50 graph (b) of this subdivision, including any copayments, deductibles
+51 and/or coinsurance for any portion of such prohibited rates.
+52 3. (a) Commencing one year after the effective date of this section,
+53 the department, in consultation with the superintendent, shall publish
+54 on a publicly accessible website an annual report on multi-year spending
+55 trends and cost drivers for ambulatory services, including the applica-
+
+S. 705--B 4
+1 ble services, stratified by site of service. The report shall include,
+2 but is not limited to, the following:
+3 (i) analysis of impact from this section on utilization of, and spend-
+4 ing on, the applicable services, including average prices charged and
+5 allowed relative to medicare non-hospital rates, patient cost-sharing,
+6 service volumes, total spending, and an estimate of savings to payers
+7 and consumers;
+8 (ii) service-specific rates for the most common services, formatted to
+9 allow price comparisons stratified by site and across each of the larg-
+10 est hospitals and non-hospital provider groups;
+11 (iii) a list of general hospitals which charge for services in
+12 violation of paragraph (a) of subdivision two of this section and
+13 actions taken by the state for non-compliance; and
+14 (iv) recommendations to the governor and legislature regarding ambula-
+15 tory services pricing, including other items or services that should be
+16 considered for site-neutral payment policy.
+17 (b) If the all payer database data is not in a format sufficient for
+18 the reporting described in this subdivision, the department shall
+19 collect any additional data submissions needed for the purposes of accu-
+20 rate and comprehensive reporting.
+21 (c) The department shall annually post on a publicly available website
+22 an official list of health care facilities exempt from this section as
+23 described in subparagraph (ii) of paragraph (c) of subdivision one of
+24 this section.
+25 4. A health care provider that violates any provision of this section
+26 or any of the rules and regulations adopted pursuant hereto shall be
+27 subject to an administrative penalty in an amount which is the greater
+28 of:
+29 (a) a statutory penalty of one hundred thousand dollars per contract
+30 occurrence; or
+31 (b) one thousand dollars per claim improperly billed.
+32 5. Any violation of this section, subsection (q) of section three
+33 thousand two hundred seventeen-b, subsection (w) of section three thou-
+34 sand two hundred twenty-one, section four thousand two hundred forty-
+35 two, subsection (q) of section four thousand three hundred twenty-five,
+36 subsection (h) of section four thousand four hundred thirteen, or
+37 section four thousand seven hundred fifteen of the insurance law, or of
+38 subdivision fifteen of section forty-four hundred six-c of this chapter
+39 shall constitute an unlawful deceptive act or practice under section
+40 three hundred forty-nine of the general business law. Any person or
+41 entity who suffers a loss as a result of a violation of this section
+42 shall be entitled to initiate an action and seek all remedies, damages,
+43 costs, and fees available under subdivision (h) of section three hundred
+44 forty-nine of the general business law.
+45 § 2. Section 3217-b of the insurance law is amended by adding a new
+46 subsection (q) to read as follows:
+47 (q) No insurer that provides coverage for applicable services as
+48 defined in subdivision one of section twenty-eight hundred thirty-four
+49 of the public health law shall reimburse or enter into contracts that
+50 include provisions to reimburse a health care provider for any applica-
+51 ble services in amounts in excess of the rates set forth in subdivision
+52 two of section twenty-eight hundred thirty-four of the public health law
+53 or for services billed in violation of paragraph (a) of subdivision two
+54 of section twenty-eight hundred thirty-four of the public health law.
+55 The superintendent, after notice and hearing, may impose a penalty of up
+
+S. 705--B 5
+1 to fifty thousand dollars per day for each day that a contract is in
+2 violation of this subsection.
+3 § 3. Section 3221 of the insurance law is amended by adding a new
+4 subsection (w) to read as follows:
+5 (w) No policy that provides coverage for applicable services as
+6 defined in subdivision one of section twenty-eight hundred thirty-four
+7 of the public health law shall reimburse or enter into contracts that
+8 include provisions to reimburse a health care provider for any applica-
+9 ble services in amounts in excess of the rates set forth in subdivision
+10 two of section twenty-eight hundred thirty-four of the public health law
+11 or for services billed in violation of paragraph (a) of subdivision two
+12 of section twenty-eight hundred thirty-four of the public health law.
+13 The superintendent, after notice and hearing, may impose a penalty of up
+14 to fifty thousand dollars per day for each day that a contract is in
+15 violation of this subsection.
+16 § 4. The insurance law is amended by adding a new section 4242 to read
+17 as follows:
+18 § 4242. Penalty for violation of fair pricing law. Any authorized
+19 insurer that offers group or blanket insurance and provides coverage for
+20 applicable services as defined in subdivision one of section twenty-
+21 eight hundred thirty-four of the public health law shall not reimburse
+22 or enter into contracts that include provisions to reimburse a health
+23 care provider for any applicable services in amounts in excess of the
+24 rates set forth in subdivision two of section twenty-eight hundred thir-
+25 ty-four of the public health law or for services billed in violation of
+26 paragraph (a) of subdivision two of section twenty-eight hundred thir-
+27 ty-four of the public health law. The superintendent, after notice and
+28 hearing, may impose a penalty of up to fifty thousand dollars per day
+29 for each day that a contract is in violation of this section.
+30 § 5. Section 4325 of the insurance law is amended by adding a new
+31 subsection (q) to read as follows:
+32 (q) No corporation organized under this article that provides coverage
+33 for applicable services as defined in subdivision one of section twen-
+34 ty-eight hundred thirty-four of the public health law shall reimburse or
+35 enter into contracts that include provisions to reimburse a health care
+36 provider for any applicable services in amounts in excess of the rates
+37 set forth in subdivision two of section twenty-eight hundred thirty-four
+38 of the public health law or for services billed in violation of para-
+39 graph (a) of subdivision two of section twenty-eight hundred thirty-four
+40 of the public health law. The superintendent, after notice and hearing,
+41 may impose a penalty of up to fifty thousand dollars per day for each
+42 day that a contract is in violation of this subsection.
+43 § 6. Section 4413 of the insurance law is amended by adding a new
+44 subsection (h) to read as follows:
+45 (h) Any employee welfare fund organized under this article that offers
+46 coverage for applicable services as defined in subdivision one of
+47 section twenty-eight hundred thirty-four of the public health law that
+48 reimburses or enters into contracts that include provisions to reimburse
+49 a health care provider for any applicable services in amounts in excess
+50 of the rates set forth in subdivision two of section twenty-eight
+51 hundred thirty-four of the public health law or for services billed in
+52 violation of paragraph (a) of subdivision two of section twenty-eight
+53 hundred thirty-four of the public health law. The superintendent, after
+54 notice and hearing, may impose a penalty of up to fifty thousand dollars
+55 per day for each day that a contract is in violation of this subsection.
+
+S. 705--B 6
+1 § 7. The insurance law is amended by adding a new section 4715 to read
+2 as follows:
+3 § 4715. Fair pricing. No municipal cooperative health benefit plan
+4 organized under this article that provides coverage for applicable
+5 services as defined in subdivision one of section twenty-eight hundred
+6 thirty-four of the public health law shall reimburse or enter into
+7 contracts that include provisions to reimburse a health care provider
+8 for any applicable services in amounts in excess of the rates set forth
+9 in subdivision two of section twenty-eight hundred thirty-four of the
+10 public health law or for services billed in violation of paragraph (a)
+11 of subdivision two of section twenty-eight hundred thirty-four of the
+12 public health law. The superintendent, after notice and hearing, may
+13 impose a penalty of up to fifty thousand dollars per day for each day
+14 that a contract is in violation of this section.
+15 § 8. Section 4406-c of the public health law is amended by adding a
+16 new subdivision 15 to read as follows:
+17 15. No health care plan that provides coverage for applicable services
+18 as defined in subdivision one of section twenty-eight hundred thirty-
+19 four of this chapter shall reimburse or enter into contracts that
+20 include provisions to reimburse a health care provider for any applica-
+21 ble services in amounts in excess of the rates set forth in subdivision
+22 two of section twenty-eight hundred thirty-four of this chapter or for
+23 services billed in violation of paragraph (a) of subdivision two of
+24 section twenty-eight hundred thirty-four of this chapter. The department
+25 may impose a penalty of up to fifty thousand dollars per day for each
+26 day that a contract is in violation of this subdivision.
+27 § 9. Subparagraph (A) of paragraph 1 of subsection (e) of section 3231
+28 of the insurance law, as amended by chapter 107 of the laws of 2010 and
+29 as further amended by section 104 of part A of chapter 62 of the laws of
+30 2011, is amended to read as follows:
+31 (A) An insurer desiring to increase or decrease premiums for any poli-
+32 cy form subject to this section shall submit a rate filing or applica-
+33 tion to the superintendent.
+34 An insurer shall send written notice of the proposed rate adjustment,
+35 including the specific change requested, to each policy holder and
+36 certificate holder affected by the adjustment on or before the date the
+37 rate filing or application is submitted to the superintendent. The
+38 notice shall prominently include mailing and website addresses for both
+39 the department of financial services and the insurer through which a
+40 person may, within thirty days from the date the rate filing or applica-
+41 tion is submitted to the superintendent, contact the department of
+42 financial services or insurer to receive additional information or to
+43 submit written comments to the department of financial services on the
+44 rate filing or application. The superintendent shall establish a process
+45 to post on the department's website, in a timely manner, all relevant
+46 written comments received pertaining to rate filings or applications.
+47 The insurer shall provide a copy of the notice to the superintendent
+48 with the rate filing or application. The superintendent shall immediate-
+49 ly cause the notice to be posted on the department of financial
+50 services' website. The superintendent shall determine whether the filing
+51 or application shall become effective as filed, shall become effective
+52 as modified, or shall be disapproved. The superintendent may modify or
+53 disapprove the rate filing or application if the superintendent finds
+54 that the premiums are unreasonable, excessive, inadequate, or unfairly
+55 discriminatory, and may consider the financial condition of the insurer
+56 when approving, modifying or disapproving any premium adjustment. The
+
+S. 705--B 7
+1 determination of the superintendent shall be supported by sound actuari-
+2 al assumptions and methods, and shall be rendered in writing between
+3 thirty and sixty days from the date the rate filing or application is
+4 submitted to the superintendent. In addition, the determination of the
+5 superintendent shall modify the final rate determination to reflect the
+6 reduced payments to health care providers as a result of the require-
+7 ments in section twenty-eight hundred thirty-four of the public health
+8 law. Should the superintendent require additional information from the
+9 insurer in order to make a determination, the superintendent shall
+10 require the insurer to furnish such information, and in such event, the
+11 sixty days shall be tolled and shall resume as of the date the insurer
+12 furnishes the information to the superintendent. If the superintendent
+13 requests additional information less than ten days from the expiration
+14 of the sixty days (exclusive of tolling), the superintendent may extend
+15 the sixty day period an additional twenty days to make a determination.
+16 The application or rate filing will be deemed approved if a determi-
+17 nation is not rendered within the time allotted under this section. An
+18 insurer shall not implement a rate adjustment unless the insurer
+19 provides at least sixty days advance written notice of the premium rate
+20 adjustment approved by the superintendent to each policy holder and
+21 certificate holder affected by the rate adjustment.
+22 § 10. Paragraph 2 of subsection (c) of section 4308 of the insurance
+23 law, as amended by chapter 107 of the laws of 2010 and as further
+24 amended by section 104 of part A of chapter 62 of the laws of 2011, is
+25 amended to read as follows:
+26 (2) A corporation desiring to increase or decrease premiums for any
+27 contract subject to this subsection shall submit a rate filing or appli-
+28 cation to the superintendent. A corporation shall send written notice of
+29 the proposed rate adjustment, including the specific change requested,
+30 to each contract holder and subscriber affected by the adjustment on or
+31 before the date the rate filing or application is submitted to the
+32 superintendent. The notice shall prominently include mailing and website
+33 addresses for both the department of financial services and the corpo-
+34 ration through which a person may, within thirty days from the date the
+35 rate filing or application is submitted to the superintendent, contact
+36 the department of financial services or corporation to receive addi-
+37 tional information or to submit written comments to the department of
+38 financial services on the rate filing or application. The superintendent
+39 shall establish a process to post on the department's website, in a
+40 timely manner, all relevant written comments received pertaining to rate
+41 filings or applications. The corporation shall provide a copy of the
+42 notice to the superintendent with the rate filing or application. The
+43 superintendent shall immediately cause the notice to be posted on the
+44 department of financial services' website. The superintendent shall
+45 determine whether the filing or application shall become effective as
+46 filed, shall become effective as modified, or shall be disapproved. The
+47 superintendent may modify or disapprove the rate filing or application
+48 if the superintendent finds that the premiums are unreasonable, exces-
+49 sive, inadequate, or unfairly discriminatory, and may consider the
+50 financial condition of the corporation in approving, modifying or disap-
+51 proving any premium adjustment. The determination of the superintendent
+52 shall be supported by sound actuarial assumptions and methods, and shall
+53 be rendered in writing between thirty and sixty days from the date the
+54 rate filing or application is submitted to the superintendent. In addi-
+55 tion, the determination of the superintendent shall modify the final
+56 rate determination to reflect the reduced payments to health care
+
+S. 705--B 8
+1 providers as a result of the requirements in section twenty-eight
+2 hundred thirty-four of the public health law. Should the superintendent
+3 require additional information from the corporation in order to make a
+4 determination, the superintendent shall require the corporation to
+5 furnish such information, and in such event, the sixty days shall be
+6 tolled and shall resume as of the date the corporation furnishes the
+7 information to the superintendent. If the superintendent requests addi-
+8 tional information less than ten days from the expiration of the sixty
+9 days (exclusive of tolling), the superintendent may extend the sixty day
+10 period an additional twenty days, to make a determination. The applica-
+11 tion or rate filing will be deemed approved if a determination is not
+12 rendered within the time allotted under this section. A corporation
+13 shall not implement a rate adjustment unless the corporation provides at
+14 least sixty days advance written notice of the premium rate adjustment
+15 approved by the superintendent to each contract holder and subscriber
+16 affected by the rate adjustment.
+17 § 11. The commissioner of health and the superintendent of financial
+18 services shall promulgate joint regulations necessary to implement the
+19 provisions of this act.
+20 § 12. Severability. If any clause, sentence, paragraph, subdivision,
+21 section or part of this act shall be adjudged by any court of competent
+22 jurisdiction to be invalid, such judgment shall not affect, impair, or
+23 invalidate the remainder thereof, but shall be confined in its operation
+24 to the clause, sentence, paragraph, subdivision, section or part thereof
+25 directly involved in the controversy in which such judgment shall have
+26 been rendered. It is hereby declared to be the intent of the legislature
+27 that this act would have been enacted even if such invalid provisions
+28 had not been included herein.
+29 § 13. This act shall take effect on the first of January next succeed-
+30 ing the date upon which it shall have become a law, and shall apply to
+31 policies and contracts issued, amended, or renewed on or after such
+32 date. Effective immediately, the addition, amendment and/or repeal of
+33 any rule or regulation necessary for the implementation of this act on
+34 its effective date are authorized to be made and completed on or before
+35 such effective date.

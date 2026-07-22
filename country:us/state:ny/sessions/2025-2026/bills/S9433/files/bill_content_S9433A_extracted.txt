@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - S9433A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9433--A
+IN SENATE
+March 12, 2026
+___________
+Introduced by Sen. PARKER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Energy and Telecommuni-
+cations -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the public service law, in relation to requiring gas and
+electric corporations to disclose certain information with an applica-
+tion for a major rate change
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 12 of section 66 of the public service law is
+2 amended by adding two new paragraphs (n) and (o) to read as follows:
+3 (n) The commission shall require each application for a major change
+4 in rates filed by a gas corporation, an electric corporation, or a
+5 combination gas and electric corporation, to include a past performance
+6 disclosure which shall include:
+7 (i) detailed information on all dividends paid to shareholders in the
+8 previous ten years, including an explanation of the total dividends paid
+9 and the date such payments were made;
+10 (ii) capital investments which the applicant indicated it would make
+11 in major change in rate filings in the previous ten years, and capital
+12 investments actually made during such time, including an explanation of
+13 why any planned capital investments were not made or were abandoned, and
+14 why any unplanned capital investments were made;
+15 (iii) operating expenses for the previous ten years, including expla-
+16 nations for any differences between the estimated operating expenses in
+17 a major change in rate filing and actual operating expenses; and
+18 (iv) details of programmatic and policy expenditures, including
+19 required state programs, any income-based assistance program identified
+20 by the public service commission, customer service initiatives, and all
+21 related capital expenditures for the previous ten years, including
+22 explanations for any differences between the estimated programmatic and
+23 policy expenses in a major change in rate filing and actual programmatic
+24 and policy expenses. The applicant shall assemble such programmatic and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15111-03-6
+
+S. 9433--A 2
+1 policy expenditures in a separate and distinct part of the filing in a
+2 standardized format prescribed by the commission.
+3 (o) (i) The commission shall require each application for a major
+4 change in rates filed by a gas corporation, electric corporation, or a
+5 combination gas and electric corporation, to include, in addition to any
+6 other proposal, an inflation-indexed proposal that separately itemizes
+7 dividends, operating expenses, capital expenditures, programmatic and
+8 policy expenditures, commodity supply costs, and other costs not within
+9 control of the applicant. Such inflation-indexed proposal shall not
+10 increase the applicant's aggregate revenues by more than the average
+11 annual consumer price index over the prior three years. In addition to
+12 past dividend information required by subparagraph (i) of paragraph (n)
+13 of this subdivision, applications shall include a dividend forecast
+14 covering the requested rate period.
+15 (ii) The commission shall consider only the inflation-indexed proposal
+16 and shall not approve an increase in the applicant's aggregate revenues
+17 by more than the increase set forth in the inflation-indexed proposal
+18 absent a demonstration that the applicant is unable to maintain the same
+19 level of operating expenses, capital expenditures, and programmatic or
+20 policy expenditures without jeopardizing safety, reliability, energy
+21 affordability programs, energy efficiency programs, or cost-effective
+22 electrification upgrades. If the commission finds that the applicant has
+23 made such a demonstration, the commission must provide a detailed expla-
+24 nation as to why an increase of more than the inflation-indexed proposal
+25 was necessary in its order adopting the increase. The commission, in
+26 making its determinations, shall consider the disclosures required under
+27 paragraph (n) of this subdivision when evaluating the rate case filing,
+28 whether such performance information is comparable to information
+29 submitted in the application, and whether such performance indicates a
+30 pattern of deviation from the investments, expenses, and other spending
+31 represented to the commission by the applicant in previous applications
+32 for major changes.
+33 (iii) If the disclosures required by subparagraph (i) of paragraph (n)
+34 of this subdivision show that dividends were increased within the previ-
+35 ous four years prior to the current application, the applicant must
+36 additionally submit with its application for a major change a detailed
+37 explanation of the reasons dividends were increased and whether the
+38 applicant could have preserved safety, reliability, energy affordability
+39 programs, energy efficiency programs, and cost-effective electrification
+40 upgrade programs while maintaining prior dividend amounts. The commis-
+41 sion shall make a finding of whether the amount of such dividend
+42 increase was in excess of what is the minimum amount necessary to
+43 evidence that the applicant earned a just and reasonable rate of return
+44 during such time period. If the commission makes a finding that such
+45 dividend increase was in excess of such minimum amount and that such
+46 applicant continues to be in a stable financial position which is
+47 substantially similar to or better than the financial position of such
+48 applicant at the time when the dividend increase was made, there shall
+49 be a rebuttable presumption that the applicant is able to maintain the
+50 same level of operating expenses, capital expenditures, programmatic or
+51 policy expenditures without jeopardizing safety, reliability, energy
+52 affordability programs, energy efficiency programs, and cost-effective
+53 electrification upgrades without an increase in excess of the infla-
+54 tion-indexed proposal. Such rebuttable presumption may only be rebutted
+55 by demonstrating by a preponderance of the evidence that the inflation-
+56 linked proposal would, after accounting for a reduction in dividends
+
+S. 9433--A 3
+1 equivalent to such prior dividend increase, jeopardize safety, reliabil-
+2 ity, energy affordability programs, energy efficiency programs, or cost-
+3 effective electrification upgrades.
+4 (iv) Nothing in this paragraph shall be construed to prevent the
+5 commission from approving a rate increase in an amount less than the
+6 inflation-indexed proposal.
+7 § 2. This act shall take effect on the ninetieth day after it shall
+8 have become a law and shall apply to all applications for major changes
+9 in rates filed on and after such date.

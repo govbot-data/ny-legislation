@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - S6997A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6997--A
+2025-2026 Regular Sessions
+IN SENATE
+March 28, 2025
+___________
+Introduced by Sens. C. RYAN, BAILEY, BASKIN, GALLIVAN, HARCKHAM,
+HINCHEY, JACKSON, MARTINEZ, MATTERA, MAYER, MURRAY, PALUMBO, RHOADS,
+S. RYAN, SALAZAR, SCARCELLA-SPANTON, SKOUFIS, STAVISKY -- read twice
+and ordered printed, and when printed to be committed to the Committee
+on Energy and Telecommunications -- reported favorably from said
+committee and committed to the Committee on Finance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public service law and the general municipal law, in
+relation to enforcement of pole attachment safety and quality
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 119-e to read as follows:
+3 § 119-e. Utility pole and attachment identification. 1. (a) In
+4 connection to a new pole attachment, or during the modification, repair
+5 or inspection of a pole or pole attachment, all utility pole owners and
+6 attachers shall be required to submit information that allows inspectors
+7 to ensure physical identification of each individual attacher's and pole
+8 owner's equipment. Such information shall include the (i) telecommuni-
+9 cations or cable company that owns the equipment attached to the pole,
+10 (ii) contractor or subcontractor responsible for completing the pole
+11 attachment work, (iii) date of work commencement and estimated
+12 completion, and (iv) any other information the commission deems neces-
+13 sary to allow inspectors to ensure physical identification of ownership
+14 relating to pole attachments on a utility pole. Such information shall
+15 also be submitted electronically to the commission and kept in an elec-
+16 tronic database pursuant to the requirements listed within paragraph (b)
+17 of this subdivision.
+18 (b) The commission shall keep a record of all information submitted
+19 pursuant to paragraph (a) of this subdivision.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11374-03-5
+
+S. 6997--A 2
+1 (c) The commission shall promulgate rules and regulations to provide a
+2 uniform format and form for complying with paragraphs (a) and (b) of
+3 this subdivision.
+4 2. (a) The commission shall create an electronic complaint form, post-
+5 ed to the commission's website, to allow members of the public and tele-
+6 communications workers to report the following alleged violations: (i)
+7 telecommunications equipment moved in violation of applicable laws and
+8 regulations including but not limited to regulations established by the
+9 commission related to pole attachments and the use of one touch make
+10 ready, (ii) an attachment that does not meet industry standards includ-
+11 ing but not limited to the National Electrical Safety Code (NESC) and
+12 Telcordia Standards, (iii) an unsafe attachment, telecommunications or
+13 electrical equipment, or a pole that presents a safety hazard, and (iv)
+14 anything else the commission deems necessary to protect workers and the
+15 public and ensure safe pole attachment work.
+16 (b) The complaint form shall include, at minimum, (i) the date and
+17 time of the complaint, (ii) the location of the alleged violation, (iii)
+18 a description of the alleged violation, and (iv) information regarding
+19 the pole owner, attacher or contractor, if available. Such form shall
+20 allow for the submission of photographs.
+21 3. The commission shall be required to inspect a reported complaint
+22 within two weeks of the submission of such complaint and make a determi-
+23 nation if a violation has occurred. If the commission determines a
+24 violation has occurred, the commission shall notify the relevant public
+25 utility company, corporation or person or the officers, attachers,
+26 agents or employees within two weeks of such determination.
+27 4. (a) Where the commission determines a violation has occurred, the
+28 commission shall notify the relevant public utility company, corporation
+29 or person or the officers, attachers, agents and employees in writing of
+30 the violation and disclose its findings.
+31 (b) (i) Such public utility company and/or attacher shall have one
+32 week from the date of notice to remedy the violation, which may be
+33 reduced or extended by the commission based on the nature and severity
+34 of the violation. Where the commission determines such remedy is not
+35 satisfactory, or the relevant public utility company, corporation or
+36 person or the officers, attachers, agents or employees have not reme-
+37 died the violation within the required timeframe, such entity shall be
+38 subject to the following fine schedule:
+39 (1) Upon a first violation, the responsible party may be subject up to
+40 a twenty thousand dollar fine.
+41 (2) Upon a second violation, the responsible party may be subject up
+42 to a fifty thousand dollar fine.
+43 (3) Upon a third violation, the responsible party may be subject to a
+44 stop work order in the county where any of the violations were made.
+45 (ii) The provisions of this paragraph shall not apply to violations
+46 outlined in paragraph (c) of this subdivision.
+47 (c) The commission shall issue a fine of up to twenty thousand dollars
+48 for violations of regulations established by the commission related to
+49 the use of one touch make ready.
+50 5. The commission shall compile a semiannual list of attachers, inter-
+51 net service providers and their contractors that the commission has
+52 determined committed three or more violations. The commission shall
+53 distribute such list to relevant agencies including but not limited to
+54 the division of broadband access, as established in section sixteen-gg
+55 of the urban development corporation act.
+
+S. 6997--A 3
+1 § 2. The general municipal law is amended by adding a new section
+2 109-e to read as follows:
+3 § 109-e. Additional requirements for right-of-way permits. As a
+4 requirement of obtaining a public right-of-way permit, all applicants
+5 shall disclose to the local permitting authority of a municipality prior
+6 to the issuance of such permit the identity of each contractor, subcon-
+7 tractor, or agent that will perform work authorized by the permit in the
+8 right-of-way, whether a sole proprietor, independent contractor, compa-
+9 ny, or other entity. If there are any changes to the entities that will
+10 perform permitted work in the right-of-way after submission, the appli-
+11 cant shall update the municipality with the new information within five
+12 business days.
+13 § 3. This act shall take effect immediately.

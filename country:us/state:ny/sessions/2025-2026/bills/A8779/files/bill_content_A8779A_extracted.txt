@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - A8779A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8779--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 2, 2025
+___________
+Introduced by M. of A. ROZIC, SEAWRIGHT -- read once and referred to the
+Committee on Consumer Affairs and Protection -- recommitted to the
+Committee on Consumer Affairs and Protection in accordance with Assem-
+bly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to restricting the
+use of automatic license plate reader information
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new section
+2 394-j to read as follows:
+3 § 394-j. Policy for the use of automatic license plate reader systems.
+4 1. As used in this section, the following words and phrases shall have
+5 the following meanings:
+6 (a) "Automatic license plate reader system" shall mean a system of one
+7 or more mobile or fixed high-speed cameras used in combination with
+8 computer algorithms to convert images of license plates into computer-
+9 readable data. "Automated license plate reader system" shall include but
+10 not be limited to such systems that are subject to multi-agency or
+11 vendor agreements that allow the sharing of automatic license plate
+12 reader information collected in New York.
+13 (b) "Captured plate data" shall mean the GPS coordinates, date and
+14 time, photograph, license plate number, and any other data captured by
+15 or derived from an automatic license plate reader system.
+16 (c) "Automatic license plate reader user" means a person or entity
+17 that owns or operates an automatic license plate reader device.
+18 (d) "Law enforcement agency" means: (i) a law enforcement agency as
+19 defined in subdivision eight of section eighty-six of the public offi-
+20 cers law; and (ii) any private investigator, security guard, or watch,
+21 guard, or patrol agency licensed pursuant to section seventy-one of this
+22 chapter.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11861-04-6
+
+A. 8779--A 2
+1 2. (a) An automatic license plate reader user shall not sell, share,
+2 allow access to, or transfer captured plate data to any state or local
+3 jurisdiction for the purpose of investigating or enforcing a law that
+4 denies or interferes with a person's right to choose or obtain reproduc-
+5 tive health care services or any lawful health care services.
+6 (b) Any automatic license plate reader user in this state, including
+7 any law enforcement agency of this state that uses automatic license
+8 plate reader systems, shall not share automatic license plate reader
+9 information with an out-of-state law enforcement agency without first
+10 obtaining a written declaration from the out-of-state law enforcement
+11 agency that it expressly affirms that the captured plate data obtained
+12 shall not be used in a manner that violates paragraph (a) of this subdi-
+13 vision. If a written declaration of affirmation is not executed, the law
+14 enforcement agency shall not share the captured plate data with the
+15 out-of-state law enforcement agency.
+16 (c) Captured plate data shall be maintained confidentially to the
+17 fullest extent permitted by law.
+18 3. The provisions of this section shall not apply to an electronic
+19 toll collection system or associated transaction system or any component
+20 thereof which is operated by a public authority for the purpose of
+21 imposing and collecting tolls on a roadway within the state.
+22 § 2. This act shall take effect on the thirtieth day after it shall
+23 have become a law.
