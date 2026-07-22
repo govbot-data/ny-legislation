@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - A10543A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10543--A
+IN ASSEMBLY
+March 11, 2026
+___________
+Introduced by M. of A. REYES, SEPTIMO, MEEKS -- read once and referred
+to the Committee on Health -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the public health law, in relation to requiring health-
+care facilities to maintain a fifty percent operating threshold of
+certain reusable healthcare protective textiles in their inventory
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 2803 of the public health law is amended by adding
+2 a new subdivision 15 to read as follows:
+3 15. (a) The commissioner shall ensure that all healthcare facilities
+4 as defined in paragraph (b) of this subdivision possess and maintain an
+5 operating threshold of at least fifty percent of all healthcare protec-
+6 tive textiles (HPT) as provided by a hygienically clean laundry service
+7 provider; provided, however, that upon request, the department may grant
+8 an extension or reprieve, at its sole and exclusive discretion if the
+9 healthcare facility demonstrates, to the commissioner's satisfaction,
+10 that such healthcare facility's inability to meet such requirement is
+11 solely attributable to supply chain issues that are beyond the hospi-
+12 tal's control and purchasing HPT at market rates would facilitate price
+13 gouging by HPT vendors.
+14 (b) For purposes of this subdivision, the following terms shall have
+15 the following meanings:
+16 (i) "healthcare facility" shall mean hospitals, skilled nursing facil-
+17 ities, outpatient care centers, long-term care facilities, physical
+18 therapy centers, comprehensive outpatient rehabilitation facilities,
+19 end-stage renal disease facilities, hospice, physician's offices, non-
+20 physician provider's offices, and laboratories;
+21 (ii) "healthcare protective textiles" shall mean all types of barrier
+22 garments, incontinence pads and barrier curtains; and
+23 (iii) "operating threshold" shall mean a constantly rotating stock of
+24 HPT textiles being used, returned to a laundry facility, processed by a
+25 hygienically clean certified facility, and returned to a healthcare
+26 facility for use.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06988-06-6
+
+A. 10543--A 2
+1 (c) Failure to possess and maintain such a supply of HPT may result in
+2 a fine to be determined by the department; provided, however, that no
+3 such revocation or suspension shall be ordered unless the department has
+4 provided the healthcare facility with a thirty-day grace period, to
+5 achieve compliance with the requirements of paragraph (a) of this subdi-
+6 vision.
+7 § 2. This act shall take effect one year after it shall have become a
+8 law.

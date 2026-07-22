@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - A3457A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3457--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 27, 2025
+___________
+Introduced by M. of A. McDONALD, SEAWRIGHT, LUNSFORD, STIRPE, TAYLOR,
+BRABENEC, SLATER, BLUMENCRANZ, BRONSON, BICHOTTE HERMELYN, DAVILA,
+SIMPSON, WOERNER, BERGER -- Multi-Sponsored by -- M. of A. LEVENBERG
+-- read once and referred to the Committee on Ways and Means --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the tax law, in relation to extending the period during
+which the empire state digital gaming media production tax credit may
+be claimed, the eligibility criteria for such tax credit, and allowing
+unused allowable credits to be rolled over to the following tax year
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraph 1 of subdivision (a) and subdivisions (b) and (c)
+2 of section 45 of the tax law, as added by section 1 of part OO of chap-
+3 ter 59 of the laws of 2022, are amended to read as follows:
+4 (1) A taxpayer which is a digital gaming media production entity
+5 engaged in qualified digital gaming media production, or who is a sole
+6 proprietor of or a member of a partnership, which is a digital gaming
+7 media production entity engaged in qualified digital gaming media
+8 production, and is subject to tax under article nine-A or twenty-two of
+9 this chapter, shall be allowed a credit against such tax to be computed
+10 as provided herein for taxable years beginning on or after January
+11 first, two thousand twenty-three and before January first, two thousand
+12 [twenty-eight] thirty-two.
+13 (b) Allocation of credit. The aggregate amount of tax credits allowed
+14 under this section, subdivision fifty-five of section two hundred ten-B
+15 and subsection (nnn) of section six hundred six of this chapter in any
+16 taxable year shall be five million dollars. Such credit shall be allo-
+17 cated by the department of economic development in order of priority
+18 based upon the date of filing an application for allocation of digital
+19 gaming media production credit with such office. An applicant shall
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06207-06-5
+
+A. 3457--A 2
+1 submit an annual application which shall include all qualified digital
+2 gaming media productions for the taxable year along with an estimate of
+3 the digital gaming media production costs. The application can be
+4 submitted no earlier than ninety days prior to the first day of the
+5 applicable taxable year. If the total amount of allocated credits
+6 applied for in any particular year exceeds the aggregate amount of tax
+7 credits allowed for such year under this section, such excess shall be
+8 treated as having been applied for on the first day of the subsequent
+9 taxable year. Provided, however, that for taxable years beginning on or
+10 after January first, two thousand twenty-three, if the total amount of
+11 allocated credits applied for in any particular year is less than the
+12 aggregate amount of tax credits allowed for such year under this
+13 section, any unused portion may be carried over and added to the aggre-
+14 gate amount of credits allowed in the next succeeding taxable year or
+15 years.
+16 (c) Definitions. As used in this section:
+17 (1) "Qualified digital gaming media production" means: (i) a website,
+18 the digital media production costs of which are paid or incurred predo-
+19 minately in connection with (A) video simulation, animation, text,
+20 audio, graphics or similar gaming related property embodied in digital
+21 format, and (B) interactive features of digital gaming (e.g., links,
+22 message boards, communities or content manipulation); (ii) video or
+23 interactive games produced primarily for distribution over the internet,
+24 wireless network or successors thereto; and (iii) animation, simulation
+25 or embedded graphics digital gaming related software intended for
+26 commercial distribution regardless of medium; provided, however, that
+27 the qualified digital game development media productions described in
+28 subparagraphs (i) through (iii) of this paragraph must have digital
+29 media production costs equal to or in excess of [one hundred] fifty
+30 thousand dollars per production. A qualified digital gaming media
+31 production does not include a website, video, interactive game or soft-
+32 ware that is used predominately for: electronic commerce (retail or
+33 wholesale purposes other than the sale of video interactive games),
+34 gambling (including activities regulated by a New York gaming agency),
+35 or political advocacy purposes.
+36 (2) "Digital gaming media production costs" means any costs for wages
+37 [or salaries] paid to individuals, [other than actors or writers,]
+38 directly employed for services performed by those individuals directly
+39 [and predominantly] in the creation of a digital gaming media production
+40 or productions. [Up to one hundred thousand dollars in wages and sala-
+41 ries paid to such employees, other than actors and writers, directly
+42 employed shall be used in the calculation of this credit.] Digital
+43 gaming media production costs include but shall not be limited to
+44 payments for services performed directly [and predominantly] in the
+45 development (including concept creation), [design,] production (includ-
+46 ing concept creation), design, production (including testing), editing
+47 (including encoding) and compositing (including the integration of
+48 digital files for interaction by end users) of digital gaming media.
+49 Digital gaming media production costs shall not include expenses
+50 incurred for the distribution, marketing, promotion, or advertising
+51 content generated by end users, other costs not directly [and predomi-
+52 nantly] related to the creation, production or modification of digital
+53 gaming media or costs used by the taxpayer as a basis of the calculation
+54 of any other tax credit allowed under this chapter. In addition, [sala-
+55 ries or other income distribution] wages related to the creation of
+56 digital gaming media for any person who predominately serves in a corpo-
+
+A. 3457--A 3
+1 rate capacity in the role of chief executive officer, chief financial
+2 officer, president, treasurer or similar corporate position and who is
+3 not directly engaged in services related to the creation of a digital
+4 gaming media production or productions shall not be included as digital
+5 gaming media production costs if the digital gaming media production
+6 entity has more then ten employees. [Salaries or other income] Wages
+7 paid to a person serving in such a role for the digital gaming media
+8 production entity shall also not be included if the person was employed
+9 by a related person of the digital gaming media production entity within
+10 sixty months of the date the digital gaming media production entity
+11 applied for the tax credit certificate described in subdivision (d) of
+12 this section. For purposes of the preceding sentence, a related person
+13 shall have the same meaning as the term "related person" in section four
+14 hundred sixty-five of the internal revenue code. [Furthermore, any
+15 income or other distribution to any individual including, but not limit-
+16 ed to, licensing or royalty fees, who holds an ownership interest in a
+17 digital gaming media production entity, whether or not such individual
+18 is serving in the role of chief executive officer, chief financial offi-
+19 cer, president, treasurer or similar position for such an entity, shall
+20 not be included as digital gaming media production costs. Up to four
+21 million dollars in qualified digital gaming media production costs per
+22 production shall be used in the calculation of this credit.] Digital
+23 gaming media production costs shall not include those costs used by the
+24 taxpayer or another taxpayer as the basis calculation of any other tax
+25 credit allowed under this chapter.
+26 (3) "Qualified digital gaming media production costs" means digital
+27 gaming media production costs only to the extent such costs are attrib-
+28 utable to the use of property or the performance of services by any
+29 persons within the state directly [and predominantly] in the creation,
+30 production or modification of digital gaming related media. [Such total
+31 production costs incurred and paid in this state shall be equal to or
+32 exceed seventy-five percent of total cost of an eligible production
+33 incurred and paid within and without this state.]
+34 (4) "Digital gaming media production entity" means a corporation,
+35 partnership, limited partnership or other entity or individual engaged
+36 in qualified digital game development media production.
+37 § 2. Paragraph (a) of subdivision 55 of section 210-B of the tax law,
+38 as added by section 2 of part OO of chapter 59 of the laws of 2022, is
+39 amended to read as follows:
+40 (a) Allowance of credit. A taxpayer who is eligible pursuant to
+41 section forty-five of this chapter shall be allowed a credit to be
+42 computed as provided in such section forty-five against the tax imposed
+43 by this article. [Under no circumstances may a single taxpayer receive
+44 more than one million five hundred thousand dollars in tax credits per
+45 year.]
+46 § 3. Paragraph 1 of subsection (nnn) of section 606 of the tax law, as
+47 added by section 4 of part OO of chapter 59 of the laws of 2022, is
+48 amended to read as follows:
+49 (1) Allowance of credit. A taxpayer who is eligible pursuant to
+50 section forty-five of this chapter shall be allowed a credit to be
+51 computed as provided in such section forty-five against the tax imposed
+52 by this article. [Under no circumstances may a single taxpayer receive
+53 more than one million five hundred thousand dollars in tax credits per
+54 year.]
+55 § 4. This act shall take effect immediately and shall apply to taxable
+56 years beginning on and after January 1, 2025 and before January 1, 2032.

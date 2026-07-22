@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - A1185B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1185--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 9, 2025
+___________
+Introduced by M. of A. TAPIA, DAVILA, DINOWITZ, SEAWRIGHT, HYNDMAN --
+read once and referred to the Committee on Governmental Operations --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee -- again reported from said committee
+with amendments, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public authorities law, in relation to establishing
+an e-bike safety program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 1854 of the public authorities law is amended by
+2 adding a new subdivision 27 to read as follows:
+3 27. E-bike safety program. (a) For purposes of this subdivision, the
+4 following terms shall have the following meanings:
+5 (i) "Battery" means a storage battery in which an electrical current
+6 is generated.
+7 (ii) "Delivery service worker" means an individual who performs pick-
+8 up, transportation, and delivery of food, goods, or packages for compen-
+9 sation, whether through an app-based platform, a third-party network, or
+10 direct employment by a business offering delivery services.
+11 (iii) "E-bike" means a bicycle with electric assist as defined by
+12 section one hundred two-c of the vehicle and traffic law.
+13 (iv) "Unsafe e-bike" means an e-bike that is not certified by an
+14 accredited testing laboratory for compliance with a battery stand-
+15 ard referenced in UL 2849, UL 2271, or EN 15194, or such other safety
+16 standard approved by the department of state pursuant to regulation.
+17 (v) "Accredited testing laboratory" means a nationally recognized
+18 testing laboratory as recognized by the federal occupational safety and
+19 health administration or an independent laboratory that has been certi-
+20 fied by an accrediting body to ISO 17025 or ISO 17065.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02631-06-5
+
+A. 1185--B 2
+1 (vi) "Program" means the program developed pursuant to paragraph (b)
+2 of this subdivision.
+3 (b) No later than two years after the effective date of this subdivi-
+4 sion, the authority, in collaboration with the department of environ-
+5 mental conservation and any other appropriate agency, shall develop and
+6 administer a program to provide new e-bikes at reduced or no cost in
+7 exchange for used unsafe e-bikes to delivery service workers, subject to
+8 eligibility requirements established by the authority.
+9 (c) Individuals utilizing e-bikes solely for recreational purposes
+10 shall not be eligible for the program.
+11 (d) To be eligible for a reduced or no cost e-bike under the program,
+12 a delivery service worker applying to such program shall:
+13 (i) have earned at least one thousand five hundred dollars over the
+14 twelve months preceding the application submission period as a delivery
+15 service worker;
+16 (ii) own an eligible used unsafe e-bike that is in operable condition;
+17 (iii) be at least eighteen years of age; and
+18 (iv) reside in New York state.
+19 (e) Within two years of the effective date of this subdivision, the
+20 authority shall implement and administer this subdivision including
+21 promulgating rules relating to the forms required to exchange a used
+22 unsafe e-bike for a new e-bike, the required documentation for estab-
+23 lishing eligibility, procedures and guidelines for exchanging a used
+24 unsafe e-bike for a new e-bike, and the collection of economic impact
+25 data from applicants and any other requirements the authority deems
+26 necessary.
+27 (f) All new e-bikes provided at reduced or no cost pursuant to the
+28 program shall be certified by an accredited testing laboratory for
+29 compliance with safety standards referenced in UL 2849, UL 2271, or EN
+30 15194, or such other safety standard approved by the department of state
+31 pursuant to regulation. Such certification or the logo, wordmark, or
+32 name of such accredited testing laboratory shall be displayed on packag-
+33 ing or documentation at the time of sale for a product or directly on
+34 such product itself.
+35 (g) The authority shall collaborate with relevant agencies to develop
+36 and distribute educational materials and conduct outreach efforts to
+37 inform eligible individuals about the program and the application proc-
+38 ess for its services.
+39 (h) No later than April first, two thousand twenty-eight, and annually
+40 thereafter, the authority shall issue a report to the governor, the
+41 temporary president of the senate, and the speaker of the assembly
+42 detailing the status of the program. Such report shall at a minimum
+43 include:
+44 (i) the amount of funding dedicated by the authority for the program
+45 in the preceding year;
+46 (ii) the number of exchanges provided; and
+47 (iii) any other information the authority deems necessary.
+48 § 2. This act shall take effect immediately.

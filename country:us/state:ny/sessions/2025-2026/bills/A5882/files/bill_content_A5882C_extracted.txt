@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - A5882C
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5882--C
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 24, 2025
+___________
+Introduced by M. of A. McDONALD, WOERNER, BOLOGNA, DAIS, GRIFFIN, HEVE-
+SI, STIRPE, LEE, KAY, BRABENEC, BUTTENSCHON, SHIMSKY, GLICK, McMAHON,
+MANKTELOW, ANGELINO, K. BROWN, BLANKENBUSH, ROMERO, OTIS, PAULIN,
+DINOWITZ, SOLAGES, SAYEGH, GALLAHAN, SIMONE, ALVAREZ, RAJKUMAR, REYES,
+BURDICK, LASHER, LUPARDO, BARRETT, RA, ROSENTHAL, SIMON, McDONOUGH,
+BENEDETTO, ZACCARO, DeSTEFANO, BLUMENCRANZ, MILLER, SEMPOLINSKI,
+CHLUDZINSKI, PALMESANO, LEMONDES, BEEPHAN, MAHER, LAVINE, WEPRIN,
+PHEFFER AMATO, SIMPSON, HUNTER, FITZPATRICK, BURROUGHS, NOVAKHOV,
+SLATER, STERN, STECK, BAILEY, DE LOS SANTOS, CLARK, SHRESTHA, WIEDER,
+MAGNARELLI, SEAWRIGHT, CONRAD, JACOBSON, EACHUS, GRAY, CRUZ, WILLIAMS,
+SCHIAVONI, BENDETT, JENSEN, LUNSFORD, KELLES, BRONSON, TAPIA, DAVILA,
+MEEKS, GONZALEZ-ROJAS, BORES, RIVERA, MIKULIN, SANTABARBARA, KASSAY,
+HYNDMAN, GALLAGHER, ROZIC, BRAUNSTEIN, BURKE, P. CARROLL, LUCAS,
+PEOPLES-STOKES, YEGER, TAYLOR, FORREST, R. CARROLL, CUNNINGHAM, DILAN,
+FALL, HAWLEY, HOOKS, JACKSON, KIM, MORINELLO, O'PHARROW, SEPTIMO,
+WALKER, WRIGHT, ZINERMAN -- Multi-Sponsored by -- M. of A. LEVENBERG
+-- read once and referred to the Committee on Health -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- again reported from said committee with amend-
+ments, ordered reprinted as amended and recommitted to said committee
+-- reference changed to the Committee on Insurance -- recommitted to
+the Committee on Insurance in accordance with Assembly Rule 3, sec. 2
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the public health law and the insurance law, in relation
+to payments by pharmacy benefit managers to participating pharmacies
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 1 of section 280-a of the public health law is
+2 amended by adding two new paragraphs (j) and (k) to read as follows:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01972-10-6
+
+A. 5882--C 2
+1 (j) "Pharmacy acquisition cost rate" means the cost paid by a partic-
+2 ipating pharmacy to acquire generic, brand name drugs, or biologic
+3 products, or drugs produced through genetic technology or biopharmaceu-
+4 tical processes pursuant to cost invoices from the pharmacy.
+5 (k) "National average drug acquisition cost" means the monthly survey
+6 of retail pharmacies conducted by the federal Centers for Medicare and
+7 Medicaid Services (CMS) to determine average acquisition cost for Medi-
+8 caid covered outpatient drugs.
+9 § 2. Subdivision 3 of section 280-a of the public health law, as
+10 amended by chapter 128 of the laws of 2022, is amended to read as
+11 follows:
+12 3. Prescriptions. (a) A pharmacy benefit manager may not substitute or
+13 cause the substituting of one prescription drug for another in dispens-
+14 ing a prescription, or alter or cause the altering of the terms of a
+15 prescription, except with the approval of the prescriber or as explicit-
+16 ly required or permitted by law, including regulations of the department
+17 of financial services or the department of health. The superintendent
+18 and commissioner, in coordination with each other, are authorized to
+19 promulgate regulations to determine when substitution of prescription
+20 drugs may be required or permitted.
+21 (b) To the extent permitted under federal law, a pharmacy benefit
+22 manager shall pay a participating pharmacy at minimum at the national
+23 average drug acquisition cost (NADAC) rate or at the pharmacy acquisi-
+24 tion cost rate if there is not a NADAC rate, plus a professional
+25 dispensing fee that is at minimum the professional dispensing fee paid
+26 under the state medical assistance program. For generic, brand name
+27 medications, biologic products, or drugs produced through genetic tech-
+28 nology or biopharmaceutical processes as required by a manufacturer, a
+29 federal or state regulatory agency, or accrediting body that require
+30 unique handling, distribution or administration, in-depth patient teach-
+31 ing, coordination of care, or frequent or special monitoring to ensure
+32 successful use, special packaging, shipping or other costs to be
+33 incurred by the pharmacy for the dispensing process that is greater than
+34 the professional dispensing fee paid by the state medical assistance
+35 program, participating pharmacies shall be paid a professional dispens-
+36 ing fee for these costs to ensure a participating pharmacy is not paid
+37 less than its cost to acquire and dispense medications. A pharmacy
+38 benefit manager shall not pay a participating pharmacy below its pharma-
+39 cy acquisition cost but may require demonstration of such cost through
+40 the provision of pharmacy invoices. Provided, however, this paragraph
+41 shall not apply to prescriptions, prescription drugs, or payments for
+42 prescription drugs, distributed, or paid for in whole or in part, by a
+43 trust fund established or maintained under the Labor Management
+44 Relations Act (29 U.S. Code § 186), pursuant to coverage required by the
+45 terms of a collective bargaining agreement between an employer and a
+46 labor organization or certified employee organization; or pursuant to a
+47 health plan, welfare fund, pharmaceutical plan, or other form of medical
+48 or prescription coverage established, adopted, utilized, funded, or
+49 agreed upon by an employer and a labor organization or certified employ-
+50 ee organization pursuant to a collective bargaining agreement; or, where
+51 the plan, coverage, fund, or program has been collectively bargained and
+52 pertains to a sponsored multi-employer plan, including but not limited
+53 to, plans developed under article five-G of the general municipal law,
+54 articles forty-four and forty-seven of the insurance law, or any plans
+55 created pursuant to the Internal Revenue Code, Employee Retirement
+
+A. 5882--C 3
+1 Income Security Act or any applicable federal statute that provides such
+2 benefits to employee and retiree groups.
+3 § 3. The opening paragraph of subdivision 4 of section 280-a of the
+4 public health law, as added by chapter 828 of the laws of 2021, is
+5 amended to read as follows:
+6 A pharmacy benefit manager shall, with respect to contracts between a
+7 pharmacy benefit manager and a pharmacy or, alternatively, a pharmacy
+8 benefit manager and a pharmacy's contracting agent, such as a pharmacy
+9 services administrative organization, include a reasonable process to
+10 appeal, investigate and resolve disputes regarding multi-source generic,
+11 brand name, and biologic product, and drugs produced through genetic
+12 technology or biopharmaceutical processes drug pricing. The appeals
+13 process shall include the following provisions:
+14 § 4. Section 2911 of the insurance law is amended by adding a new
+15 subsection (d) to read as follows:
+16 (d) To the extent permitted under federal law, a pharmacy benefit
+17 manager shall pay a participating pharmacy at minimum at the national
+18 average drug acquisition cost (NADAC) rate, as defined in subdivision
+19 one of section two hundred eighty-a of the public health law, or at the
+20 pharmacy acquisition cost rate, as defined in subdivision one of section
+21 two hundred eighty-a of the public health law, if there is not a NADAC
+22 rate, plus a professional dispensing fee that is at minimum the profes-
+23 sional dispensing fee paid under the state medical assistance program.
+24 For generic, brand name medications, biologic products, or drugs
+25 produced through genetic technology or biopharmaceutical processes as
+26 required by a manufacturer, a federal or state regulatory agency, or
+27 accrediting body that require unique handling, distribution or adminis-
+28 tration, in-depth patient teaching, coordination of care, or frequent or
+29 special monitoring to ensure successful use, special packaging, shipping
+30 or other costs to be incurred by the pharmacy for the dispensing process
+31 that is greater than the professional dispensing fee paid by the state
+32 medical assistance program, participating pharmacies shall be paid a
+33 professional dispensing fee for these costs to ensure a participating
+34 pharmacy is not paid less than its cost to acquire and dispense medica-
+35 tions. A pharmacy benefit manager shall not pay a participating pharmacy
+36 below its pharmacy acquisition cost but may require demonstration of
+37 such cost through the provision of pharmacy invoices. A pharmacy benefit
+38 manager shall, with respect to contracts between a pharmacy benefit
+39 manager and a pharmacy or, alternatively, a pharmacy benefit manager and
+40 a pharmacy's contracting agent, such as a pharmacy services administra-
+41 tive organization, include a reasonable process to appeal, investigate
+42 and resolve disputes regarding multi-source generic, brand name, biolog-
+43 ic product, and drugs produced through genetic technology or biopharma-
+44 ceutical processes drug pricing. The appeals process shall be considered
+45 within the existing appeals process under section two hundred eighty-a
+46 of the public health law. Provided, however, this paragraph shall not
+47 apply to prescriptions, prescription drugs, or payments for prescription
+48 drugs, distributed, or paid for in whole or in part, by a trust fund
+49 established or maintained under the Labor Management Relations Act (29
+50 U.S. Code § 186), pursuant to coverage required by the terms of a
+51 collective bargaining agreement between an employer and a labor organ-
+52 ization or certified employee organization; or pursuant to a health
+53 plan, welfare fund, pharmaceutical plan, or other form of medical or
+54 prescription coverage established, adopted, utilized, funded, or agreed
+55 upon by an employer and a labor organization or certified employee
+56 organization pursuant to a collective bargaining agreement; or, where
+
+A. 5882--C 4
+1 the plan, coverage, fund, or program has been collectively bargained and
+2 pertains to a sponsored multi-employer plan, including but not limited
+3 to, plans developed under article five-G of the general municipal law,
+4 articles forty-four and forty-seven of this chapter, or any plans
+5 created pursuant to the Internal Revenue Code, Employee Retirement
+6 Income Security Act or any applicable federal statute that provides such
+7 benefits to employee and retiree groups.
+8 § 5. This act shall take effect January 1, 2027 and shall apply to all
+9 policies and contracts issued, renewed, modified, altered or amended on
+10 and after such date.

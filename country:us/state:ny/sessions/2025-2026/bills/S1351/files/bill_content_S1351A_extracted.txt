@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - S1351A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1351--A
+2025-2026 Regular Sessions
+IN SENATE
+January 9, 2025
+___________
+Introduced by Sens. CLEARE, ADDABBO, BRISPORT, SALAZAR -- read twice and
+ordered printed, and when printed to be committed to the Committee on
+Insurance -- recommitted to the Committee on Insurance in accordance
+with Senate Rule 6, sec. 8 -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the insurance law, in relation to requiring a referenced
+rate for prescription drugs
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The insurance law is amended by adding a new section 111-b
+2 to read as follows:
+3 § 111-b. Pilot program on referenced rate for prescription drugs.
+4 (a) Legislative findings and declaration; statement of policy. The
+5 legislature hereby finds and declares that access to prescription drugs
+6 is necessary for the public health, general welfare, and economy of the
+7 state:
+8 (1) New Yorkers pay as much as three times more than what Canadians
+9 pay for prescription drugs, and such excessive prices negatively impact
+10 the ability of New York residents to obtain prescription drugs, thereby
+11 endangering the health and safety of New Yorkers to maintain or achieve
+12 good health;
+13 (2) Excessive prices for prescription drugs threaten the economic
+14 well-being of New York residents and endanger their ability to pay for
+15 other necessary and essential goods and services including housing, food
+16 and utilities;
+17 (3) Excessive prices for prescription drugs contribute significantly
+18 to a dramatic and unsustainable rise in health care costs and health
+19 insurance that threaten the overall ability of New York residents to
+20 obtain health coverage and maintain or achieve good health;
+21 (4) Excessive prices for prescription drugs contribute significantly
+22 to rising state costs for health care provided and paid for through
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00232-05-6
+
+S. 1351--A 2
+1 health insurance programs for public employees, including employees of
+2 the state, municipalities and counties, school districts, institutions
+3 of higher education, and retirees whose health care costs are funded by
+4 public programs, thereby threatening the ability of the state to fund
+5 those programs adequately and further threatening the ability of the
+6 state to fund other programs necessary for the public good and safety,
+7 such as public education; and
+8 (5) Based on findings of paragraphs 1, 2, 3 and 4 of this subsection,
+9 the legislature finds that excessive prices for prescription drugs
+10 threaten the safety and well-being of New York residents and find it is
+11 necessary to act in order to protect New York residents from the nega-
+12 tive impact of excessive costs.
+13 (b) Program creation. A pilot program is hereby created to study the
+14 possibility of controlling excessive and unconscionable prices for
+15 prescription drugs.
+16 (c) Definitions. As used in this section, unless otherwise expressly
+17 stated or the context or subject matter otherwise requires, the follow-
+18 ing terms shall have the following meanings:
+19 (1) "Prescription drug" shall have the same meaning as "prescription
+20 medication or device" as defined in section 178.00 of the penal law.
+21 (2) "Wholesale acquisition cost" shall have the same meaning as
+22 defined in subdivision (g) of section four hundred ninety-seven of the
+23 tax law.
+24 (3) "State entity" means any agency of the state government that
+25 purchases prescription drugs on behalf of the state for a person whose
+26 health care is paid for by the state, including any agent, vendor,
+27 fiscal agent, contractor, or other party acting on behalf of the state.
+28 "State entity" shall not include Medicaid.
+29 (4) "Health plan" shall have the same meaning as defined in paragraph
+30 (a) of subdivision one of section two hundred eighty-a of the public
+31 health law.
+32 (5) "ERISA plan" means a plan qualified under the Employee Retirement
+33 Income Security Act of 1974.
+34 (6) "Participating ERISA plan" means an ERISA plan that has elected to
+35 participate in the requirements and restrictions of this section as
+36 described in subsection (e) of this section.
+37 (7) "Referenced rate" means the maximum rate established by the super-
+38 intendent utilizing the wholesale acquisition cost and other pricing
+39 data described in subsection (f) of this section.
+40 (8) "Referenced drugs" means any prescription drug subject to a refer-
+41 enced rate.
+42 (d) Payment in excess of referenced rate prohibited. (1) It shall be a
+43 violation of this section for a state entity or health plan to purchase
+44 the referenced drugs subject to this pilot program and which shall be
+45 dispensed or delivered to a consumer in the state, whether directly or
+46 through a distributor, for a cost higher than the referenced rate as
+47 determined pursuant to paragraph two of subsection (f) of this section.
+48 (2) It shall be a violation of this section for any pharmacy licensed
+49 in this state to purchase for sale or distribution referenced drugs for
+50 a cost that exceeds the referenced rate to a person whose health care is
+51 provided by a state entity or health plan.
+52 (e) ERISA plan opt-in. An ERISA plan may elect to participate in the
+53 provisions of this section. Any ERISA plan that desires its purchase of
+54 prescription drugs to be subject to the prohibition described in
+55 subsection (d) of this section shall notify the superintendent in writ-
+
+S. 1351--A 3
+1 ing at least one month before reference rates go into effect as
+2 described in paragraph three of subsection (g) of this section.
+3 (f) Costly prescription drugs. As part of this pilot program, the
+4 director of the employee benefits division within the department of
+5 civil service shall identify the ten most costly prescription drugs
+6 based upon net price times utilization. Such list of ten drugs shall
+7 stay the same over the course of the pilot program.
+8 (g) Referenced drugs determined. (1) Beginning no later than one year
+9 after the effective date of this section, the director of the employee
+10 benefits division within the department of civil service shall transmit
+11 to the superintendent the list of prescription drugs referenced in
+12 subsection (f) of this section. For each of these prescription drugs,
+13 such director shall also provide the total net spend on each of those
+14 prescription drugs for the previous calendar year.
+15 (2) Utilizing the information described in paragraph one of this
+16 subsection, no later than one year and five months after the effective
+17 date of this section, the superintendent shall create and publish a list
+18 on the department's website of such drugs that shall be subject to the
+19 referenced rate.
+20 (3) The reference rates go into effect six months from the date that
+21 the superintendent publishes the list described in paragraph two of this
+22 subsection and annually thereafter during the three-year pilot program.
+23 (4) The superintendent shall determine the referenced rate annually by
+24 comparing the wholesale acquisition cost to the cost from all of the
+25 following sources:
+26 (A) Ontario Ministry of Health and long term care and most recently
+27 published on the Ontario Drug Benefit Formulary;
+28 (B) Regie de l'Assurance Maladie du Quebec and most recently published
+29 on the Quebec Public Drug Programs List of Medications;
+30 (C) British Columbia Ministry of Health and most recently published on
+31 the BC Pharmacare Formulary; and
+32 (D) Alberta Ministry of Health and most recently published on the
+33 Alberta Drug Benefit List.
+34 (5) The referenced rate for each prescription drug shall be calculated
+35 as the lowest cost among those resources and the wholesale acquisition
+36 cost. If a specific referenced drug is not included within the resources
+37 described in paragraph four of this subsection, then, for the purpose of
+38 determining the referenced rate for that drug, the superintendent shall
+39 utilize the ceiling price for drugs as reported by the government of
+40 Canada Patented Medicine Prices Review Board.
+41 (6) The superintendent shall calculate the savings that are expected
+42 to be achieved by subjecting prescription drugs to the referenced rate
+43 for each year of the pilot program. In making this determination the
+44 superintendent shall consult with the director of the employee benefits
+45 division within the department of civil service and the drug account-
+46 ability board.
+47 (7) The superintendent shall promulgate such rules and regulations as
+48 may be necessary to carry out this pilot program. The pilot program
+49 shall regulate drug prices for three years.
+50 (h) Application of savings. (1) The department shall require plans to
+51 report savings from this program in their annual rate review applica-
+52 tions.
+53 (2) In reviewing and approving rates, the department shall ensure that
+54 savings from this program are used to benefit purchasers and consumers
+55 of health care.
+
+S. 1351--A 4
+1 (3) No later than sixty days after the conclusion of each year subject
+2 to this pilot program, each state entity or health plan subject to this
+3 section shall submit to the superintendent a report describing the
+4 savings achieved for each referenced drug and how those savings were
+5 used to achieve the requirements of paragraph two of this subsection.
+6 The superintendent in coordination with the department's drug account-
+7 ability board shall submit a report of the savings, if any, of the pilot
+8 program conducted pursuant to this section, to the governor, the tempo-
+9 rary president of the senate, the speaker of the assembly, and the
+10 minority leaders of the senate and assembly no later than one hundred
+11 eighty days following the conclusion of each year of the pilot subject
+12 to this section. The report shall also include recommendations on the
+13 feasibility of expanding this program to other prescription drugs,
+14 recommendations on improvements to the program, and any other findings,
+15 recommendations, or conclusions the superintendent deems necessary to
+16 understand the broader effects of this pilot program.
+17 (i) Withdrawal of referenced drugs for sale; prohibited. (1) It shall
+18 be a violation of this section for any manufacturer or distributor of a
+19 referenced drug to withdraw that drug from sale or distribution within
+20 this state for the purpose of avoiding the impact of this pilot program.
+21 (2) Any manufacturer that intends to withdraw a referenced drug from
+22 sale or distribution from within the state shall provide a notice of
+23 withdrawal in writing to the superintendent and to the attorney general
+24 not less than one hundred eighty days prior to such withdrawal.
+25 (3) The superintendent shall assess a penalty on any manufacturer or
+26 distributor that they determine to have withdrawn a referenced drug from
+27 distribution or sale in the state in violation of paragraph one or two
+28 of this subsection. With respect to each referenced drug for which the
+29 superintendent has determined the manufacturer or distributor has with-
+30 drawn from the market, the penalty shall be equal to:
+31 (A) five hundred thousand dollars; or
+32 (B) the amount of annual savings determined by the superintendent as
+33 described in paragraph five of this subsection, whichever is greater.
+34 (4) It shall be a violation of this section for any manufacturer or
+35 distributor of a referenced drug to refuse to negotiate in good faith
+36 with any payor or seller of prescription drugs a price that is within
+37 the referenced rate as determined in paragraph five of subsection (g) of
+38 this section.
+39 (5) The superintendent shall assess a penalty on any manufacturer or
+40 distributor that it determines has failed to negotiate in good faith in
+41 violation of paragraph four of this subsection. With respect to each
+42 referenced drug for which the superintendent has determined the manufac-
+43 turer or distributor has failed to negotiate in good faith, the penalty
+44 shall be equal to:
+45 (A) five hundred thousand dollars; or
+46 (B) the amount of annual savings determined by the superintendent as
+47 described in this subsection, whichever is greater.
+48 § 2. This act shall take effect on the thirtieth day after it shall
+49 have become a law. Effective immediately, the addition, amendment and/or
+50 repeal of any rule or regulation necessary for the implementation of
+51 this act on its effective date are authorized to be made and completed
+52 on or before such effective date.

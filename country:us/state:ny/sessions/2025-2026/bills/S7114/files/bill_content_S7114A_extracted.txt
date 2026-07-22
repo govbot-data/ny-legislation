@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - S7114A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7114--A
+2025-2026 Regular Sessions
+IN SENATE
+April 1, 2025
+___________
+Introduced by Sens. SCARCELLA-SPANTON, ASHBY, COONEY, GRIFFO, JACKSON,
+RHOADS, SKOUFIS -- read twice and ordered printed, and when printed to
+be committed to the Committee on Civil Service and Pensions -- recom-
+mitted to the Committee on Civil Service and Pensions in accordance
+with Senate Rule 6, sec. 8 -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+obtaining military service credit for members of the New York state
+and local police and fire retirement system, the New York city police
+pension fund, and the New York city fire pension fund
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 9 of section 1000 of the retirement and social
+2 security law, as amended by chapter 41 of the laws of 2016, is amended
+3 to read as follows:
+4 9. (a) Anything to the contrary in subdivision three of this section
+5 notwithstanding, to obtain such credit, a member who first joins a
+6 public retirement system of the state on or after April first, two thou-
+7 sand twelve shall pay such retirement system, for deposit in the fund
+8 used to accumulate employer contributions, a sum equal to the product of
+9 the number of years of military service being claimed and six percent of
+10 such member's compensation earned during the twelve months of credited
+11 service immediately preceding the date that the member made application
+12 for credit pursuant to this section.
+13 (b) Beginning with applications received by members of the New York
+14 state and local police and fire retirement system, the New York city
+15 police pension fund, and the New York city fire pension fund on and
+16 after April first, two thousand twenty-six, for members who first become
+17 members of the New York state and local police and fire retirement
+18 system, the New York city police pension fund, and the New York city
+19 fire pension fund on or after April first, two thousand twelve, the sum
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08377-05-6
+
+S. 7114--A 2
+1 required in paragraph (a) of this subdivision shall be equal to the
+2 product of the number of years of military service being claimed and
+3 three percent of such member's compensation earned during the twelve
+4 months of credited service immediately preceding the date the member
+5 made application pursuant to this section.
+6 § 2. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law Section 50:
+SUMMARY: This proposed legislation, as it relates to the New York City
+Retirement Systems and Pension Funds (NYCRS), would reduce the cost of
+purchasing pre-membership military service for Tier 3 members of POLICE
+and FIRE who joined on or after April 1, 2012, from 6% of compensation
+per year of military service to 3% of compensation per year of military
+service.
+ILLUSTRATION - INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Thousands)
+Year Per One Year of Per One Year of Service
+Service Purchased Purchased per Year
+2027 400 400
+2028 400 800
+2029 400 1,200
+2030 400 1,600
+2031 400 2,000
+2032 400 2,500
+2033 400 2,900
+2034 400 3,400
+2035 400 3,900
+2036 400 4,400
+2037 400 4,900
+2038 400 5,400
+2039 400 5,900
+2040 400 6,500
+2041 0 6,700
+2042 0 6,900
+2043 0 7,100
+2044 0 7,300
+2045 0 7,500
+2046 0 7,800
+2047 0 8,000
+2048 0 8,200
+2049 0 8,500
+2050 0 8,700
+2051 0 9,000
+Employer contribution impact beyond Fiscal Year 2051 is not shown.
+The potential increases in employer contribution will be allocated to
+New York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2025 ($)
+Present Value (PV) Per One Year of
+Service Purchased
+
+S. 7114--A 3
+(1) PV of Employer Contributions: 3,200
+(2) PV of Employee Contributions: (4,100)
+Total PV of Benefits (1) + (2): (900)
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are the
+portion of the Present Value of Benefits allocated to past service.
+Changes in UAL per incident would be recognized as ongoing gain/loss.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+Recognized as Ongoing Gain/Loss Per One Year of
+Service Purchased
+Increase (Decrease) in UAL: 3,200
+Number of Payments: 14
+Amortization Payment: 400
+CENSUS DATA: The number of members who will benefit in the future from
+this proposed legislation is unknown. The estimates presented herein are
+based on preliminary census data collected as of June 30, 2025. The
+census data for the potentially impacted population used to develop the
+average costs is summarized below.
+NYCERS
+Active Members
+- Number Count: 15,397
+- Average Age: 35.7
+- Average Service: 9.0
+- Average Salary: 145,000
+IMPACT ON MILITARY BUYBACK CONTRIBUTIONS: Currently, Tier 3 members of
+POLICE and FIRE who joined on or after April 1, 2012 must pay 6% of the
+compensation earned during the twelve months of service preceding the
+application date for each year of pre-membership military service they
+want to purchase (up to three years).
+The proposed legislation would reduce the required contribution to 3%
+for each year of pre-membership military service, effective for applica-
+tions made on or after April 1, 2026.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been calcu-
+lated based on the Revised 2021 Actuarial Assumptions and Methods of the
+impacted retirement systems.
+The number of members who will benefit from this proposed legislation is
+unknown. The cost of this proposed legislation could vary greatly
+depending on the number of future members who purchase military buyback
+service, and on their salary history.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and does
+not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikovsky
+are members of the Society of Actuaries and the American Academy of
+
+S. 7114--A 4
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-75 dated May 4, 2026
+was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2026
+Legislative Session.

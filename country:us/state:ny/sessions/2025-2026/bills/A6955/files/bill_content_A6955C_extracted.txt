@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - A6955C
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6955--C
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 18, 2025
+___________
+Introduced by M. of A. WILLIAMS, FALL, BUTTENSCHON, COLTON, YEGER,
+PIROZZOLO, BEEPHAN, NOVAKHOV, FRIEND, McDONOUGH, GRAY, E. BROWN,
+TANNOUSIS, BROOK-KRASNY, RAGA, KASSAY, HUNTER, GRIFFIN, SIMPSON,
+GALLAHAN, BLUMENCRANZ, NORBER, MILLER, SEMPOLINSKI, RA, DeSTEFANO,
+CHANG, SMITH, SLATER, WEPRIN, BRAUNSTEIN, ROZIC, COOK, SAYEGH, TAYLOR,
+BRABENEC, CHLUDZINSKI, BAILEY, MANKTELOW, HAWLEY -- read once and
+referred to the Committee on Energy -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- recommitted to the Committee on Energy in accordance with
+Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- again
+reported from said committee with amendments, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the public service law, the New York city fire code, the
+town law and the village law, in relation to setback requirements
+relating to the siting of battery energy storage systems
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 74-c to read as follows:
+3 § 74-c. Municipal assistance. 1. The department, in coordination with
+4 the office of renewable energy siting and electric transmission, the New
+5 York state energy research and development authority, and the department
+6 of state, shall prepare and make available to municipalities, informa-
+7 tion relating to the siting of battery energy storage systems with a
+8 capacity over three megawatts, including, but not limited to, model
+9 local laws, regulations, or ordinances related to, setback requirements
+10 which shall be at least seven hundred fifty feet from a dwelling, house,
+11 farm building, or school building that is actually occupied or used and
+12 for a city with a population of one million or more inhabitants such
+13 setback requirement shall be at least three hundred feet from a dwell-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10952-06-6
+
+A. 6955--C 2
+1 ing, house, farm building, or school building that is actually occupied
+2 or used. Such setback requirements may vary based on the capacity of the
+3 battery energy storage system and may set a further distance appropriate
+4 to ensure the safety of any occupants against fire or other potential
+5 reasonable dangers.
+6 2. For purposes of this section, "battery energy storage system" shall
+7 have the same meaning as "qualified energy storage system" as defined in
+8 subdivision one of section seventy-four of this article, except that it
+9 shall not include energy storage systems that use mechanical or thermal
+10 processes.
+11 § 2. Section 104.1.2 of the New York city fire code, as amended by
+12 local law number 47 of the city of New York for the year 2022, is
+13 amended to read as follows:
+14 104.1.2 Review of design and installation. The commissioner may
+15 authorize the Department of Buildings to review construction documents
+16 filed with that agency for compliance with the design and installation
+17 requirements of this code for stationary energy storage systems, fire
+18 apparatus access roads, rooftop access and obstructions, and such other
+19 design and installation requirements as the commissioner, in consulta-
+20 tion with the Commissioner of Buildings, may determine facilitates the
+21 design and construction process. The commissioner shall require the
+22 establishment of minimum setback requirements for commercial energy
+23 storage systems, with a capacity of three megawatts or greater, of no
+24 less than three hundred feet from residential property. The manner and
+25 scope of such review and the standards to be applied thereto shall be
+26 established by the commissioner in consultation with the Commissioner of
+27 Buildings, consistent with FC104.2.1.
+28 § 3. Section 104.2 of the New York city fire code, as amended by local
+29 law number 47 of the city of New York for the year 2022, is amended to
+30 read as follows:
+31 104.2 Applications and approvals. The department shall receive, review
+32 and, if satisfactory, approve, applications for permits, certificates
+33 and other approvals, and design and installation documents required to
+34 be submitted to the department by this code or the construction codes,
+35 issue permits, inspect buildings, structures, facilities, premises,
+36 marine vessels, watercraft and motor vehicles for the purpose of enforc-
+37 ing compliance with the requirements of this code, and otherwise admin-
+38 ister, implement and enforce the provisions of this code. When review-
+39 ing applications for commercial energy storage systems, with a capacity
+40 of three megawatts or greater, the department shall ensure that prior to
+41 the approval of any application for any applicable permit, request for
+42 tax exemption, or commencement of any other regulatory approval process,
+43 at least one public hearing has been held in the community district in
+44 which such storage is proposed to be sited.
+45 § 4. Section 263 of the town law, as amended by chapter 459 of the
+46 laws of 2021, is amended to read as follows:
+47 § 263. Purposes in view. 1. Such regulations shall be made in accord-
+48 ance with a comprehensive plan and designed to lessen congestion in the
+49 streets; to secure safety from fire, flood, panic and other dangers; to
+50 promote health and general welfare; to provide adequate light and air;
+51 to prevent the overcrowding of land; to avoid undue concentration of
+52 population; to make provision for, so far as conditions may permit, the
+53 accommodation of solar thermal, photovoltaics, wind, hydroelectric,
+54 geothermal electric, geothermal ground source heat, tidal energy, wave
+55 energy, ocean thermal, farm waste electric generating equipment as
+56 defined in paragraph (e) of subdivision one of section sixty-six-j of
+
+A. 6955--C 3
+1 the public service law, [and] fuel cells, and battery energy storage
+2 systems as defined in section seventy-four-c of the public service law;
+3 to facilitate the practice of forestry; to facilitate the adequate
+4 provision of transportation, water, sewerage, schools, parks and other
+5 public requirements. Such regulations shall be made with reasonable
+6 consideration, among other things, as to the character of the district
+7 and its peculiar suitability for particular uses, and with a view to
+8 conserving the value of buildings and encouraging the most appropriate
+9 use of land throughout such municipality.
+10 2. Regulations related to battery energy storage systems as defined in
+11 section seventy-four-c of the public service law may include, but shall
+12 not be limited to, minimum setback requirements from residential proper-
+13 ty pursuant to section seventy-four-c of the public service law.
+14 § 5. Section 7-704 of the village law, as amended by chapter 459 of
+15 the laws of 2021, is amended to read as follows:
+16 § 7-704 Purposes in view. 1. Such regulations shall be made in accord-
+17 ance with a comprehensive plan and designed to lessen congestion in the
+18 streets; to secure safety from fire, panic, floods and other dangers; to
+19 promote health and the general welfare; to provide adequate light and
+20 air; to prevent the overcrowding of land; to avoid undue concentration
+21 of population; to make provision for, so far as conditions may permit,
+22 the accommodation of solar thermal, photovoltaics, wind, hydroelectric,
+23 geothermal electric, geothermal ground source heat, tidal energy, wave
+24 energy, ocean thermal, farm waste electric generating equipment as
+25 defined in paragraph (e) of subdivision one of section sixty-six-j of
+26 the public service law [and], fuel cells, and battery energy storage
+27 systems as defined in section seventy-four-c of the public service law;
+28 to facilitate the adequate provision of transportation, water, sewerage,
+29 schools, parks and other public requirements. Such regulations shall be
+30 made with reasonable consideration, among other things, as to the char-
+31 acter of the district and its peculiar suitability for particular uses,
+32 and with a view to conserving the value of buildings and encouraging the
+33 most appropriate use of land throughout such municipality.
+34 2. Regulations related to battery energy storage systems as defined in
+35 section seventy-four-c of the public service law may include, but not to
+36 be limited to, minimum setback requirements from residential property
+37 pursuant to section seventy-four-c of the public service law.
+38 § 6. Notwithstanding the amendments to section 263 of the town law
+39 made by section four of this act and the amendments to section 7-704 of
+40 the village law made by section five of this act, nothing in this act
+41 shall be construed to require any town or village to amend applicable
+42 local building code or zoning regulations.
+43 § 7. This act shall take effect on the one hundred eightieth day after
+44 it shall have become a law and shall only apply to comprehensive plans
+45 established or amended on or after such effective date.

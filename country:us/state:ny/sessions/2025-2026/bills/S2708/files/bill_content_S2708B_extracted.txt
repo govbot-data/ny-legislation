@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - S2708B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2708--B
+Cal. No. 454
+2025-2026 Regular Sessions
+IN SENATE
+January 22, 2025
+___________
+Introduced by Sen. MAY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Energy and Telecommuni-
+cations -- recommitted to the Committee on Energy and Telecommuni-
+cations in accordance with Senate Rule 6, sec. 8 -- reported favorably
+from said committee, ordered to first and second report, ordered to a
+third reading, amended and ordered reprinted, retaining its place in
+the order of third reading -- passed by Senate and delivered to the
+Assembly, recalled, vote reconsidered, restored to third reading,
+amended and ordered reprinted, retaining its place in the order of
+third reading
+AN ACT to amend the public service law, in relation to advanced trans-
+mission technologies; and to direct the New York state energy research
+and development authority to conduct a study on the effectiveness of
+such technologies
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 66-x to read as follows:
+3 § 66-x. Advanced transmission technologies. 1. For the purposes of
+4 this section, the following terms shall have the following meanings:
+5 (a) "Advanced transmission technologies" or "ATTs" means hardware
+6 and/or software that enhance the performance, efficiency, or capacity of
+7 the electric transmission system, including but not limited to, grid
+8 enhancing technologies, advanced conductors, advanced reconductoring,
+9 and energy storage used as a transmission resource.
+10 (b) "Grid enhancing technology" means any hardware and/or software
+11 technology that enables enhanced or more efficient performance from the
+12 electric distribution or transmission system, including, but not limited
+13 to dynamic line rating, advanced power flow control technology, topology
+14 optimization, and energy storage when used as a distribution resource.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05306-05-6
+
+S. 2708--B 2
+1 (c) "Advanced conductor" means a conductor with a direct current elec-
+2 trical resistance substantially lower than traditional conductors of a
+3 similar diameter, while simultaneously increasing capacity, which may
+4 include rebuilding support structures or other associated facilities.
+5 (d) "Dynamic line rating" means hardware and/or software technologies
+6 used to update the calculated thermal limits of existing transmission
+7 lines based on real-time and forecasted weather conditions.
+8 (e) "Advanced power flow control" means hardware and/or software tech-
+9 nologies used to push or pull electric power in a manner that balances
+10 overloaded lines and underutilized corridors within the transmission
+11 system.
+12 (f) "Topology optimization" means hardware and/or software technolo-
+13 gies that identify reconfigurations of the transmission system and
+14 enable the routing of electrical power flows around congested or over-
+15 loaded elements of the transmission system.
+16 (g) "Electric corporation" shall have the same meaning as defined by
+17 section two of this chapter.
+18 (h) "Combination electric and gas corporation" shall have the same
+19 meaning as defined by section two of this chapter.
+20 (i) "Transmission", except as used within the term advanced trans-
+21 mission technologies, shall have the same meaning as the term major
+22 electric transmission facility as defined by section one hundred thir-
+23 ty-seven of this chapter.
+24 2. (a) In any hearing considering a major change in rates or charges,
+25 transmission planning proceeding, or capital improvement proposal before
+26 the commission initiated one year after the effective date of this
+27 section, each electric corporation or combination electric and gas
+28 corporation shall file with the commission a cost-effectiveness analysis
+29 relating to the deployment of advanced transmission technologies;
+30 provided however nothing in this section shall be construed to prohibit
+31 an electric corporation or combination electric and gas corporation from
+32 filing a cost-effectiveness analysis relating to the deployment of ATTs
+33 prior to such date. Such cost-effectiveness analysis shall evaluate
+34 such strategies against a set of enumerated transmission goals, includ-
+35 ing:
+36 (i) increased transmission capacity;
+37 (ii) reduced transmission system congestion;
+38 (iii) reduced curtailment of renewable and zero-emission resources;
+39 (iv) increased reliability and resiliency;
+40 (v) reduced risk of equipment failure in light of climate-driven
+41 hazards;
+42 (vi) increased capacity to connect new renewable and zero-emission
+43 resources;
+44 (vii) increased flexibility and optionality in long-term planning,
+45 including for major load growth; and
+46 (viii) improvement of consumer affordability, reduced overall ratepay-
+47 er costs, and/or mitigation of rate increases.
+48 (b) During or subsequent to any hearing considering a major change in
+49 rates, transmission planning proceeding, or capital improvement proposal
+50 before the commission, each electric corporation and combination elec-
+51 tric and gas corporation shall file cost-effectiveness analysis with the
+52 federally designated bulk system operator. Such filing shall reflect
+53 analyses conducted within such proceedings and shall not require dupli-
+54 cative standalone evaluations.
+55 3. (a) Where a cost-effectiveness analysis conducted under subdivision
+56 two of this section identifies one or more advanced transmission tech-
+
+S. 2708--B 3
+1 nologies or advanced conductors as cost-effective strategies, the utili-
+2 ty shall submit to the commission a strategic implementation plan within
+3 ninety days of completion of such analysis.
+4 (b) An implementation plan submitted under paragraph (a) of this
+5 subdivision shall include proposed timelines, procurement strategies,
+6 including solicitations where appropriate, and measurable performance
+7 metrics.
+8 (c) The commission shall review implementation plans submitted under
+9 paragraph (a) of this subdivision and, where consistent with the public
+10 interest, direct the timely deployment of the technologies identified in
+11 such implementation plans.
+12 4. Each electric corporation and combination electric and gas corpo-
+13 ration shall submit a filing on their compliance with the provisions of
+14 this section to the commission, and provide a separate report to the
+15 federally designated bulk system operator and the legislature's standing
+16 committees on energy, within one year of the effective date of this
+17 section, and every two years thereafter, which shall include, but not be
+18 limited to:
+19 (a) the status of deployment of ATTs;
+20 (b) results of cost-effectiveness analyses;
+21 (c) implementation plans and progress; and
+22 (d) projected opportunities for future deployment.
+23 § 2. Study on effectiveness of advanced transmission technologies. 1.
+24 For the purposes of this section, the following terms shall have the
+25 following meanings:
+26 (a) "Advanced transmission technologies" or "ATTs" shall have the same
+27 meaning as defined in section 66-x of the public service law.
+28 (b) "Transmission", except as used within the term advanced trans-
+29 mission technologies, shall have the same meaning as the term major
+30 electric transmission facility as defined by section 137 of the public
+31 service law.
+32 (c) "NYSERDA" means the New York state energy research and development
+33 authority.
+34 2. Within 12 months of the effective date of this act, NYSERDA shall
+35 conduct and complete a study evaluating the use and benefits of advanced
+36 transmission technologies within this state and other jurisdictions.
+37 3. The study shall include:
+38 (a) a description of all advanced transmission technologies deployed
+39 by utilities in New York state;
+40 (b) an evaluation of the impacts of ATTs on transmission performance,
+41 including but not limited to:
+42 (i) increased capacity and efficiency;
+43 (ii) congestion reduction;
+44 (iii) curtailment reduction;
+45 (iv) reliability and resiliency improvements;
+46 (v) cost savings to ratepayers; and
+47 (vi) integration of new renewable energy and load growth;
+48 (c) at least two multi-technology case studies, including cost, time-
+49 line, reliability, and consumer impacts; and
+50 (d) a projection of future opportunities for deployment of ATTs to
+51 meet demand growth and improve affordability.
+52 4. NYSERDA may consult with the federally designated bulk system oper-
+53 ator, federal energy regulatory commission, consumer advocates, utili-
+54 ties, academic experts, and other stakeholders in conducting the study.
+
+S. 2708--B 4
+1 5. Upon completion of the study, NYSERDA shall submit a report on the
+2 results of such study to the legislature and the governor, and make such
+3 study available on its website.
+4 § 3. This act shall take effect immediately.

@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - A6663A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6663--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 7, 2025
+___________
+Introduced by M. of A. LEE, STECK, KELLES, GONZALEZ-ROJAS, COLTON,
+MAGNARELLI, GLICK, OTIS, DAVILA, McDONOUGH -- read once and referred
+to the Committee on Consumer Affairs and Protection -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to clear and
+conspicuous pricing practices regarding mandatory junk fees
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York junk fee prevention act".
+3 § 2. The general business law is amended by adding a new section 396-
+4 yy to read as follows:
+5 § 396-yy. Junk fee prevention. 1. For the purposes of this section,
+6 the following terms shall have the following meanings:
+7 (a) (i) "Mandatory fee" includes any fee or surcharge, additional to
+8 the price of a good or service, that:
+9 (A) a consumer is required to pay to purchase or lease any good or
+10 service being advertised;
+11 (B) is not reasonably avoidable to complete the purchase or lease of
+12 any good or service being advertised;
+13 (C) a reasonable consumer would expect to be included with the
+14 purchase or lease of the good or service being advertised; or
+15 (D) is added by default for the consumer, by the seller or automat-
+16 ically, and requires action by the consumer to remove it;
+17 (ii) "Mandatory fee" shall not include:
+18 (A) any tax, duty, fee or custom levied by any local, state, federal,
+19 or other governmental or quasi-governmental entity, as well as any
+20 assessment fee of a government-created special district, including busi-
+21 ness improvement districts and tourism improvement districts;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00734-05-5
+
+A. 6663--A 2
+1 (B) any fee covering the cost of delivering goods, the amount of which
+2 is based upon the delivery method selected by the consumer, provided
+3 that such amount is disclosed to the consumer prior to collecting
+4 payment information;
+5 (C) any nominal fee for the purpose of pre-authorizing a transaction
+6 that is immediately refunded or removed upon the charge of the full
+7 purchase amount; or
+8 (D) any optional add-ons or add-on product or service as defined by 16
+9 CFR part 463(a).
+10 (b) "Total price" shall mean the full price of a good or service that
+11 a consumer must pay, including any and all mandatory fees associated
+12 with the transaction, but not including any exemptions to mandatory fees
+13 pursuant to subdivision one of this section, in order to complete the
+14 purchase or lease of a good or service.
+15 2. (a) Any person, firm, partnership, association, corporation or any
+16 agent or employee who solicits or facilitates a purchase directly from a
+17 consumer, or lease of any good or service directly to a consumer, in the
+18 state, shall clearly and conspicuously:
+19 (i) disclose to the consumer in every offer or advertisement for the
+20 purchase or lease of a good or service that includes pricing informa-
+21 tion, the total price of the good or service being offered or adver-
+22 tised, except where the total price of the good or service is to be
+23 derived from a variable fee and is indeterminable at the time of the
+24 offer or advertisement, disclose such variable fee along with any and
+25 all mandatory fees associated with the transaction; and
+26 (ii) disclose to the consumer any tax, duty, custom, or fee amounts
+27 under subparagraph (ii) of paragraph (a) of subdivision one of this
+28 section, prior to accepting payment.
+29 (b) Disclosures of the total price, fees, charges or any component of
+30 the total price shall not be false or misleading, and must by their
+31 font, size, contrast, location, the length of time they appear, and
+32 other characteristics, be presented prominently and stand out from any
+33 accompanying text or other visual elements so that they are easily
+34 noticed, read, and understood.
+35 3. (a) For every violation of this section, an application may be made
+36 by the attorney general in a court of competent jurisdiction to issue an
+37 injunction, and upon notice to the defendant of not less than five days,
+38 to enjoin and restrain the continuance of such violation. If it shall
+39 appear to the satisfaction of the court that the defendant is, in fact,
+40 in violation of this section, an injunction may be issued by such court,
+41 enjoining and restraining such action or violation, without requiring
+42 proof that any person has, in fact, been misled or deceived or otherwise
+43 damaged thereby.
+44 (b) The attorney general, or any person adversely affected by a
+45 violation of this section, may bring an action against the person or
+46 entity in violation of this section to recover the greater of:
+47 (i) actual damages;
+48 (ii) up to five hundred dollars for each unintentional violation of
+49 this section; or
+50 (iii) up to one thousand dollars for each intentional, knowing, or
+51 willful violation of this section.
+52 (c) In an action brought pursuant to paragraph (b) of this subdivi-
+53 sion, the court may award costs of the action together with reasonable
+54 attorneys' fees to a prevailing plaintiff.
+55 (d) Any action taken under this section pleading a violation of this
+56 section shall be exempt from any pre-dispute arbitration clauses that
+
+A. 6663--A 3
+1 may bind a consumer who is adversely affected by a violation of this
+2 section.
+3 (e) Any agreement relating to the waiver of any provision within this
+4 section shall be deemed void.
+5 (f) Nothing in this section shall in any way limit rights or remedies
+6 which are otherwise available under law to the attorney general or any
+7 other person authorized to bring an action under this section.
+8 4. (a) A person, firm, partnership, association, or corporation that
+9 provides broadband internet access service on its own or as part of a
+10 bundle, as defined in section 8.1(b) of title 47 of the code of federal
+11 regulations, and is in compliance with the broadband consumer label
+12 requirements adopted by the federal communications commission in FCC
+13 22-86 on November fourteenth, two thousand twenty-two, codified in
+14 section 8.1(a) of title 47 of the code of federal regulations, shall be
+15 deemed in compliance with this section. Provided, however, that if such
+16 federal broadband consumer label requirements are no longer applicable,
+17 a person, firm, partnership, association, or corporation providing
+18 broadband internet access service shall comply with the provisions of
+19 this section.
+20 (b) A person, firm, partnership, association, or corporation providing
+21 cable service, as defined in section 522(6) of title 47 of the United
+22 States code, whether on a standalone basis or as part of a bundle, that
+23 complies with the truth in billing and advertising requirements adopted
+24 by the federal communications commission, as codified in section 76.310
+25 of title 47 of the code of federal regulations, shall be deemed in
+26 compliance with this section. Provided, however, that if such truth in
+27 billing requirements are no longer applicable, a person, firm, partner-
+28 ship, association, or corporation providing cable service shall comply
+29 with the provisions of this section.
+30 (c) A financial institution that is required to provide disclosures in
+31 compliance with any of the following federal or state acts or regu-
+32 lations with respect to a financial transaction is exempt from this
+33 section for purposes of such financial transaction:
+34 (i) the federal truth in savings act;
+35 (ii) the federal electronic fund transfer act;
+36 (iii) section 19 of the federal reserve act;
+37 (iv) the federal truth in lending act;
+38 (v) the federal real estate settlement procedures act;
+39 (vi) the federal home ownership and equity protection act; or
+40 (vii) any regulation adopted pursuant to any of the federal acts in
+41 subparagraphs (i) through (vi) of this paragraph, inclusive.
+42 For purposes of this paragraph, "financial institution" shall have the
+43 same meaning as defined in section eight hundred one of the financial
+44 services law.
+45 (d) Compliance with the notice requirements of section five hundred
+46 eighteen of the general business law by a person, firm, partnership,
+47 association, or corporation imposing a surcharge on any sales trans-
+48 action where a consumer elects to use a credit card in lieu of payment
+49 by cash, check, or similar means, shall be deemed compliance with this
+50 section.
+51 (e) A food service establishment as defined in paragraph (b) of subdi-
+52 vision one of section three hundred ninety-one-v of this article shall
+53 be deemed compliant with this section if, in every offer or advertise-
+54 ment for the purchase or lease of a good or service that includes pric-
+55 ing information, the total price of the good or service being offered or
+
+A. 6663--A 4
+1 advertised includes a clear and conspicuous disclosure of the percentage
+2 of any automatic and mandatory gratuity to be charged.
+3 (f) A person, firm, partnership, association, or corporation offering
+4 services for which the total price of the service cannot reasonably be
+5 known at the time of the offer due to factors that determine the total
+6 price that are beyond the control of such person or entity offering the
+7 service, including factors that are determined by consumer selections or
+8 preferences or that relate to distance or time, is compliant with this
+9 section if such person or entity offering the service clearly and
+10 conspicuously discloses:
+11 (i) the factors that determine the total price;
+12 (ii) any mandatory fees associated with the transaction; and
+13 (iii) that the total price of the services may vary.
+14 (g) It is not intended to be a violation of this section to advertise,
+15 display, or offer the current bid in an ongoing auction provided that
+16 the bid clearly and conspicuously discloses:
+17 (i) all amounts that the buyer would be required to pay, other than
+18 those amounts listed under subparagraph (ii) of paragraph (a) of subdi-
+19 vision one of this section; and
+20 (ii) that the total price of the goods or services may vary.
+21 (h) It is not intended to be a violation of this section to advertise,
+22 display, or offer multiple total prices in one advertisement as long as
+23 each total price corresponds to one good or service in the advertise-
+24 ment.
+25 (i) Offers or advertisements for short-term lodging, including tempo-
+26 rary sleeping accommodations at a hotel, motel, inn, short-term rental,
+27 vacation rental, or other place of lodging that are in compliance with
+28 part 464 of chapter I of title 16 of the code of federal regulations
+29 shall be deemed in compliance with this section. Provided, however, that
+30 if such regulations are no longer applicable, a person, firm, partner-
+31 ship, association, or corporation offering short-term lodging shall
+32 comply with the provisions of this section.
+33 5. (a) Entities subject to subdivision four of section 25.07 of the
+34 arts and cultural affairs law shall not be subject to the provisions of
+35 this section.
+36 (b) The provisions of this section shall not apply to air transporta-
+37 tion provided by air carriers, as those terms are used in section 41713
+38 of title 49 of the United States code.
+39 § 3. Severability. If any clause, sentence, paragraph, section or part
+40 of this act shall be adjudged by any court of competent jurisdiction to
+41 be invalid and after exhaustion of all further judicial review, the
+42 judgment shall not affect, impair or invalidate the remainder thereof,
+43 but shall be confined in its operation to the clause, sentence, para-
+44 graph, section or part of this act directly involved in the controversy
+45 in which the judgment shall have been rendered.
+46 § 4. This act shall take effect on the first of January next succeed-
+47 ing the date on which it shall have become a law.
