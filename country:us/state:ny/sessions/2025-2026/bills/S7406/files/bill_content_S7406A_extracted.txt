@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - S7406A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7406--A
+2025-2026 Regular Sessions
+IN SENATE
+April 15, 2025
+___________
+Introduced by Sens. HINCHEY, MAY, MYRIE, ROLISON, WEBB -- read twice and
+ordered printed, and when printed to be committed to the Committee on
+Energy and Telecommunications -- recommitted to the Committee on Ener-
+gy and Telecommunications in accordance with Senate Rule 6, sec. 8 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the public service law, in relation to directing the
+public service commission to review cellular services within the state
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "cellular
+2 mapping act".
+3 § 2. The public service law is amended by adding a new section 91-b to
+4 read as follows:
+5 § 91-b. Cellular services. 1. For the purposes of this section:
+6 (a) The term "served for calling" means any location with at least two
+7 cellular service providers and/or at least one such provider has a call
+8 completion rate of greater than ninety percent.
+9 (b) The term "underserved" means any location which has fewer than two
+10 cellular service providers, or such providers have a call completion
+11 rate greater than thirty percent, but less than ninety percent.
+12 (c) The term "unserved" means any location which has no cellular
+13 service providers or such providers have a call completion rate of less
+14 than thirty percent.
+15 (d) The term "excellent cellular coverage" shall mean cellular service
+16 of at least 25 megabits per second (mbps) download speeds.
+17 (e) The term "adequate cellular coverage" shall mean cellular service
+18 of at least 5 mbps but less than 25 mbps download speeds.
+19 (f) The term "poor cellular coverage" shall mean cellular service of
+20 fewer than 5 mbps download speed.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01755-02-6
+
+S. 7406--A 2
+1 (g) The term "no cellular coverage" shall mean cellular service where
+2 greater than fifty percent of speed tests fail to complete.
+3 (h) The term "location" shall mean a geographic area smaller than a
+4 census tract.
+5 (i) The term "cellular service provider" shall mean any person, busi-
+6 ness or organization qualified to do business in this state that
+7 provides individuals, corporations, or other entities with the ability
+8 to make wireless telephone calls and connect to the internet.
+9 2. The commission shall study the availability, affordability and
+10 reliability of cellular services in New York state. The commission
+11 shall:
+12 (a) review and appropriately consider the results of the federal
+13 communications commission broadband data task force's newly updated
+14 national broadband map, and any future data, on the availability of
+15 wireless broadband service in New York state;
+16 (b) assess the efficacy and make recommendations regarding levels of
+17 competition among providers, as well as any regulatory and statutory
+18 barriers, in order to deliver comprehensive statewide access to excel-
+19 lent cellular coverage;
+20 (c) review available technology to identify solutions that best
+21 support cellular service in underserved or unserved areas, and make
+22 recommendations on ensuring deployment of such technology in underserved
+23 and unserved areas;
+24 (d) identify locations where insufficient access to excellent cellular
+25 coverage is causing negative social or economic impact on the community,
+26 which shall include but not be limited to: the incurment of extraneous
+27 business expenses, the lack of remote educational opportunities, resi-
+28 dents being unable to place calls and/or send text messages in emergency
+29 situations and barriers to the proper provision of police, fire and
+30 emergency medical services;
+31 (e) examine any other telecommunications deficiencies affecting excel-
+32 lent cellular service it deems necessary to further the economic and
+33 social goals of the state;
+34 (f) produce, maintain and publish on its website, a detailed cellular
+35 service access map of the state, indicating access to cellular service
+36 by location. Such map shall include, but not be limited to, the follow-
+37 ing information for each location:
+38 (i) call completion rates and download speeds advertised and experi-
+39 enced;
+40 (ii) the consistency and reliability of call completion rates and
+41 download speeds including latency;
+42 (iii) the number of cellular service providers available, the price of
+43 cellular service available; and
+44 (iv) any other factors the commission may deem relevant; and
+45 (g) provide the opportunity for consumers to challenge the results of
+46 the call completion rates and speed tests at each location.
+47 3. The commission shall submit a report of its findings and recommen-
+48 dations from the study required in subdivision two of this section, to
+49 the governor, the temporary president of the senate and the speaker of
+50 the assembly no later than one year after the effective date of this
+51 section, and an updated report annually thereafter. Such report shall
+52 include, but not be limited to, the following:
+53 (a) the overall number of residences with access to excellent cellular
+54 coverage, adequate cellular coverage, poor cellular coverage and no
+55 cellular coverage and identifying which areas are served, unserved and
+56 underserved for calling;
+
+S. 7406--A 3
+1 (b) a regional survey of cellular service prices in comparison to
+2 county-level median income;
+3 (c) an analysis of the affordability of excellent cellular coverage in
+4 New York state;
+5 (d) any relevant usage statistics;
+6 (e) any other metrics or analyses the commission deems necessary in
+7 order to assess the availability, affordability and reliability of
+8 cellular service in New York state; and
+9 (f) the map maintained pursuant to paragraph (f) of subdivision two of
+10 this section.
+11 4. The commission shall hold at least four regional public hearings
+12 within one year of the effective date of this section, to solicit input
+13 from the public and other stakeholders including but not limited to
+14 cellular service providers, telecommunications concerns, labor organiza-
+15 tions, public safety organizations, healthcare, education, agricultural
+16 and other businesses or organizations.
+17 5. The commission shall examine the labor demand of the wireless
+18 construction workforce needed to achieve excellent cellular coverage
+19 statewide.
+20 6. The commission shall work with cellular service providers in the
+21 state to prioritize access to excellent cellular coverage services for
+22 the communities determined to have experienced negative economic and
+23 social impacts due to absent, insufficient, or inadequate cellular
+24 service pursuant to subdivision one of this section.
+25 7. To effectuate the purposes of this section, the commission may
+26 request and shall receive from any department, division, board, bureau,
+27 commission or other agency of the state or any state public authority
+28 such assistance, information and data as will enable the commission to
+29 carry out its powers and duties under this section.
+30 8. To ensure the compliance of cellular service providers with the
+31 recommendations of the commission, the division of consumer protection
+32 shall assist the commission.
+33 § 3. This act shall take effect on the thirtieth day after it shall
+34 have become a law.

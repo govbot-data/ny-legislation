@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - A6741A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6741--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 11, 2025
+___________
+Introduced by M. of A. SIMONE -- Multi-Sponsored by -- M. of A. BENDETT,
+DeSTEFANO, DINOWITZ, EPSTEIN, GLICK, GONZALEZ-ROJAS, JACOBSON, KELLES,
+LUNSFORD, MAGNARELLI, NOVAKHOV, RAGA, SHIMSKY, SIMON, TAYLOR, WALKER
+-- read once and referred to the Committee on Election Law -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the election law, in relation to requiring state and
+county boards of elections to post sample ballots
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 3 of section 7-118 of the election law, as
+2 separately amended by chapters 410 and 411 of the laws of 2019, is
+3 amended to read as follows:
+4 3. Sample ballots may be mailed by the board of elections to each
+5 eligible voter at least three days before the [election, or in lieu
+6 thereof, a copy of such sample ballot may be published at least once
+7 within one week preceding the election in newspapers or on a website
+8 maintained by the board of elections] first day of early voting. Each
+9 county board of elections shall transmit electronically in a format to
+10 be determined by the state board of elections, as it is available, a
+11 copy [of the candidate and contest information contained on each of its
+12 ballot styles] of a sample ballot for all election districts within that
+13 county to the state board of elections. [The state board shall create a
+14 system to allow such information to be made publicly available via its
+15 website, as well as the website of any county board of elections, and in
+16 such a way as to be accessible with a computer screen-reading program.]
+17 § 2. Section 7-118 of the election law is amended by adding two new
+18 subdivisions 3-a and 3-b to read as follows:
+19 3-a. The state board of elections shall post a sample ballot for each
+20 election district in the state on the board's website at least twelve
+21 days prior to the first day of early voting. The board shall post such
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07649-02-5
+
+A. 6741--A 2
+1 sample ballots in a searchable database which allows voters to obtain
+2 polling site information, voter district information and a sample ballot
+3 that such voter shall be eligible to cast at the next election. Sample
+4 ballots shall have an embedded security tool to prevent tampering and
+5 printing of such sample ballots.
+6 3-b. Each county board of elections may post a sample ballot for each
+7 election district within that county at least twelve days prior to the
+8 first day of early voting. A county board that posts such sample ballots
+9 shall do so in a searchable database that allows voters to obtain poll-
+10 ing site information and a sample ballot that such voter shall be eligi-
+11 ble to cast in the next election. Such sample ballots shall have an
+12 embedded security tool to prevent tampering and printing of such ballot.
+13 Such county board of elections may also refer to the state board of
+14 elections' website for such information to be delivered pursuant to
+15 subdivision three-a of this section.
+16 § 3. This act shall take effect on the ninetieth day after it shall
+17 have become a law.

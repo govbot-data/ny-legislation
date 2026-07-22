@@ -1,0 +1,753 @@
+Title: 
+Official Title: 
+Source: versions - S3037B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3037--B
+2025-2026 Regular Sessions
+IN SENATE
+January 23, 2025
+___________
+Introduced by Sens. HOYLMAN-SIGAL, JACKSON -- read twice and ordered
+printed, and when printed to be committed to the Committee on Cultural
+Affairs, Tourism, Parks and Recreation -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the labor law, in relation to prevailing wage require-
+ment for not-for-profit theaters and payment of their employees on
+productions funded by the New York state council on the arts or arts
+agencies of localities; and to amend the arts and cultural affairs
+law, in relation to requiring that an organization applying for grant
+funding shall provide to arts agencies a certification that it will
+enter into a labor peace agreement with at least one bona fide labor
+organization under certain circumstances
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The labor law is amended by adding a new article 8-B to
+2 read as follows:
+3 ARTICLE 8-B
+4 PREVAILING WAGE REQUIREMENT FOR NOT-FOR-PROFIT THEATERS
+5 Section 228. Definitions.
+6 228-a. Prevailing wage requirement for not-for-profit theaters
+7 and payment of their employees on productions funded by
+8 the New York State council on the arts or arts agencies
+9 of localities; record keeping.
+10 228-b. Powers of the fiscal officer.
+11 228-c. Investigation and hearing.
+12 228-d. Failure to protest underpayments.
+13 228-e. Statements showing amounts due for wages.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06595-05-5
+
+S. 3037--B 2
+1 228-f. Provisions in contracts prohibiting discrimination on
+2 account of race, creed, color, national origin, age,
+3 sex or disability.
+4 228-g. Penalties.
+5 228-h. Enforcement of article.
+6 § 228. Definitions. As used in this article:
+7 1. "Arts agency" means any public agency of New York state or of a
+8 locality of New York state that provides grants to productions at not-
+9 for-profit theaters.
+10 2. "Contract" means any agreement between a production and an arts
+11 agency to grant funds to such production.
+12 3. "Contractor" or "subcontractor" means a production that is a recip-
+13 ient of a grant from an arts agency.
+14 4. "Employee" means an employee of a not-for-profit theater that
+15 receives a grant award from an arts agency including but not limited to
+16 actors, stage managers, production assistants, scenic artists, scenic
+17 designers, costume designers, lighting designers, sound designers,
+18 projection designers, graphic artists, art and costume department coor-
+19 dinators, ushers, ticket takers, line directors, press agents, company
+20 managers, theatre managers, engineers, musicians, singers, choreogra-
+21 phers, dancers, staging staff, ballet school faculty, directors, fight
+22 directors, intimacy directors, dressers, wardrobers, costumers, stitch-
+23 ers, tailors, drapers, shoppers, laundry workers, dyers, costume techni-
+24 cians, milliners, craftspeople, child actors, guardians, stagehands, box
+25 office treasurers, first assistants, and ticket sellers employed on a
+26 production funded by an arts agency.
+27 5. "Entity" means a partnership, association, joint venture, company,
+28 sole proprietorship, corporation or any other form of doing business.
+29 6. "Fiscal officer" means the comptroller of the state of New York or
+30 other analogous officer of the governing body of an arts agency.
+31 7. "Grant" means any capital and/or operational grant made to
+32 productions funded by an arts agency.
+33 8. "Locality" means the state, or a town, city, village or other civil
+34 division or area of the state as determined by the fiscal officer. The
+35 fiscal officer may fix a different geographic area in determining the
+36 locality for the prevailing basic hourly cash rate of pay and the local-
+37 ity for prevailing supplements.
+38 9. "Not-for-profit theater" means a theater operating as a not-for-
+39 profit entity pursuant to New York state laws with a seating capacity of
+40 at least one hundred.
+41 10. "Parent company" means an entity that directly controls the
+42 contractor or subcontractor.
+43 11. "Prevailing practices in the locality" means the practice of
+44 providing supplements by virtue of collective bargaining agreements
+45 between bona fide labor organizations that represent employees of not-
+46 for-profit theaters including but not limited to actors, stage managers,
+47 production assistants, scenic artists, scenic designers, costume design-
+48 ers, lighting designers, sound designers, projection designers, graphic
+49 artists, art and costume department coordinators, ushers, ticket takers,
+50 line directors, press agents, company managers, theatre managers, engi-
+51 neers, musicians, singers, choreographers, dancers, staging staff,
+52 ballet school faculty, directors, fight directors, intimacy directors,
+53 dressers, wardrobers, costumers, stitchers, tailors, drapers, shoppers,
+54 laundry workers, dyers, costume technicians, milliners, craftspeople,
+55 child actors, guardians, stagehands, box office treasurers, first
+56 assistants, and ticket sellers provided that said employers employ at
+
+S. 3037--B 3
+1 least thirty per centum of such employees in the locality, as determined
+2 by the fiscal officer in accordance with the provisions herein. With
+3 respect to each supplement determined to be one of the prevailing prac-
+4 tices in the locality, the amount of such supplement shall be determined
+5 in the same manner and at the same time as the prevailing rate of wage
+6 is determined pursuant to this section.
+7 12. "Prevailing wage" means the rate of compensation paid by a
+8 production, by virtue of collective bargaining agreements between bona
+9 fide labor organizations that represent employees of not-for-profit
+10 theaters including but not limited to actors, stage managers, production
+11 assistants, scenic artists, scenic designers, costume designers, light-
+12 ing designers, sound designers, projection designers, graphic artists,
+13 art and costume department coordinators, ushers, ticket takers, line
+14 directors, press agents, company managers, theatre managers, engineers,
+15 musicians, singers, choreographers, dancers, staging staff, ballet
+16 school faculty, directors, fight directors, intimacy directors, dres-
+17 sers, wardrobers, costumers, stitchers, tailors, drapers, shoppers,
+18 laundry workers, dyers, costume technicians, milliners, craftspeople,
+19 child actors, guardians, stagehands, box office treasurers, first
+20 assistants, ticket sellers, and employers of such employees performing
+21 work on a production funded by an arts agency where such labor organiza-
+22 tion represents at least thirty per centum of employees in the locality
+23 where such work is being performed. The prevailing rate of wage shall be
+24 annually determined in accordance herewith by the fiscal officer no
+25 later than thirty days prior to July first of each year, and the
+26 prevailing rate of wage for the period commencing July first of such
+27 year through June thirtieth, inclusive, of the following year shall be
+28 the rate of wage set forth in such collective bargaining agreements for
+29 the period commencing July first through June thirtieth, including those
+30 increases for such period which are directly ascertainable from such
+31 collective bargaining agreements by the fiscal officer in such officer's
+32 annual determination. In the event that it is determined after a
+33 contest, as provided in section two hundred twenty-eight-c of this arti-
+34 cle, that less than thirty percent of the employees in the locality
+35 where the work is being performed receive a collectively bargained rate
+36 of wage, then the average wage paid to such employees in the locality
+37 for the twelve-month period preceding the fiscal officer's annual deter-
+38 mination shall be the prevailing rate of wage. Employees for whom a
+39 prevailing rate of wage is to be determined shall not be considered in
+40 determining such prevailing wage.
+41 13. "Production" means a corporation, partnership, limited partner-
+42 ship, or other entity or individual that provides compensation to an
+43 employee.
+44 14. "Substantially-owned affiliated entity" means the parent company
+45 of the contractor or subcontractor, any subsidiary of the contractor or
+46 subcontractor, or any entity in which the parent of the contractor or
+47 subcontractor owns more than fifty percent of the voting stock, or an
+48 entity in which one or more of the top five shareholders of the contrac-
+49 tor or subcontractor individually or collectively also owns a control-
+50 ling share of the voting stock, or an entity which exhibits any other
+51 indicia of control over the contractor or subcontractor or over which
+52 the contractor or subcontractor exhibits control, regardless of whether
+53 or not the controlling party or parties have any identifiable or docu-
+54 mented ownership interest. Such indicia shall include power or responsi-
+55 bility over employment decisions, access to and/or use of the relevant
+56 entity's assets or equipment, power or responsibility over contracts of
+
+S. 3037--B 4
+1 the entity, responsibility for maintenance or submission of certified
+2 payroll records, and influence over the business decisions of the rele-
+3 vant entity.
+4 15. "Subsidiary" means an entity that is controlled directly, or indi-
+5 rectly through one or more intermediaries, by a contractor or subcon-
+6 tractor or the contractor's parent company.
+7 16. "Successor" means an entity engaged in work substantially similar
+8 to that of the predecessor, where there is substantial continuity of
+9 operation with that of the predecessor.
+10 17. "Supplements" means all remuneration for employment paid in any
+11 medium other than cash, or reimbursement for expenses, or any payments
+12 which are not "wages" within the meaning of the law, including, but not
+13 limited to, health, welfare, non-occupational disability, retirement and
+14 vacation benefits, holiday pay, life insurance, and apprenticeship
+15 training.
+16 18. "Wage" includes: (a) basic hourly cash rate of pay; and (b) fringe
+17 benefits including medical or hospital care, pensions on retirement or
+18 death, compensation for injuries or illness resulting from occupational
+19 activity, or insurance to provide any of the foregoing, unemployment
+20 benefits, life insurance, disability and sickness insurance, accident
+21 insurance, vacation and holiday pay, costs of apprenticeship or other
+22 similar programs and other bona fide fringe benefits not otherwise
+23 required by federal, state or local law to be provided by the contractor
+24 or subcontractor.
+25 § 228-a. Prevailing wage requirement for not-for-profit theaters and
+26 payment of their employees on productions funded by the New York state
+27 council on the arts or arts agencies of localities; record keeping. 1.
+28 In all cases where work is being performed pursuant to a collective
+29 bargaining agreement the contractor or subcontractor shall keep original
+30 payrolls or transcripts thereof, subscribed and confirmed by the
+31 contractor or subcontractor as true, under penalty of perjury, showing
+32 the hours and days worked by each employee, the craft, trade or occupa-
+33 tion at which the employee was employed, and the wages paid.
+34 2. Where the wages paid include sums which are not paid directly to
+35 the employees weekly and which are expended for supplements, the records
+36 required to be maintained shall include a record of such hourly payment
+37 on behalf of such employees, the supplement for which such payment has
+38 been made, and the name and address of the person to whom such payment
+39 has been made. In all such cases, the contractor shall keep a true and
+40 inscribed copy of the agreement under which such payments are made, a
+41 record of all net payments made thereunder, and a list of all persons
+42 for whom such payments are made.
+43 3. The records required to be maintained shall be kept on the site of
+44 the work during all of the time that work under the contract is being
+45 performed.
+46 4. All records required to be maintained shall be preserved for a
+47 period of three years after the completion of work.
+48 § 228-b. Powers of the fiscal officer. 1. In addition to the powers
+49 enumerated elsewhere in this article, the fiscal officer shall have the
+50 power to:
+51 (a) cause an investigation to be made to determine the wages prevail-
+52 ing in any locality for work performed by employees covered by this
+53 article and in making such investigation, the fiscal officer may utilize
+54 wage and fringe benefit data from various sources including, but not
+55 limited to, data and determinations of federal, state or other govern-
+56 mental agencies;
+
+S. 3037--B 5
+1 (b) institute and conduct inspections at the site of the work or else-
+2 where in aid of the effective administration and enforcement of the
+3 provisions of this article;
+4 (c) examine the books, documents and records pertaining to the wages
+5 paid to, and the hours of work performed by, such employees;
+6 (d) hold the hearings provided for in this article, and in connection
+7 therewith, to issue subpoenas, administer oaths and examine witnesses.
+8 The enforcement of a subpoena issued under this section shall be regu-
+9 lated by the civil practice law and rules;
+10 (e) make a classification by craft, trade or other generally recog-
+11 nized occupational category of the employees involved and to determine
+12 whether such work has been performed by the employees in such classi-
+13 fication;
+14 (f) require a contractor or subcontractor to file with the fiscal
+15 officer a record of the wages actually paid by such contractor or
+16 subcontractor to the employees and of their hours of work;
+17 (g) delegate any of the foregoing powers to the fiscal officer's depu-
+18 ty or other authorized representative;
+19 (h) provide such reasonable limitations from any or all provisions of
+20 this article as the fiscal officer may find necessary and proper in the
+21 public interest or to avoid serious impairment of the conduct of govern-
+22 ment business; and
+23 (i) propose, and after public hearing held before the fiscal officer
+24 or the fiscal officer's designee, promulgate such rules as the fiscal
+25 officer shall consider necessary for the proper execution of the duties,
+26 responsibilities and powers conferred upon the fiscal officer by the
+27 provisions of this article. Such rules may allow such reasonable vari-
+28 ations, tolerances and exemptions to and from any or all provisions of
+29 this article as the fiscal officer may find necessary and proper in the
+30 public interest, or to avoid serious impairment of the conduct of
+31 government business.
+32 2. For all work for which the commissioner is the fiscal officer, the
+33 commissioner shall additionally have all the powers granted to the
+34 commissioner elsewhere in this chapter.
+35 § 228-c. Investigation and hearing. 1. Whenever the fiscal officer has
+36 reason to believe that an employee has been paid less than the wages
+37 stipulated in the contract, or if such contract has no wage schedule
+38 attached thereto and the fiscal officer has reason to believe that an
+39 employee has been paid less than the wages prevailing for the employee's
+40 craft, trade or occupation, the fiscal officer may, and upon receipt of
+41 a written complaint from an employee employed thereon, conduct a special
+42 investigation to determine the facts relating thereto.
+43 2. (a) At the start of such investigation the fiscal officer may noti-
+44 fy the financial officer of the arts agency interested who shall, at the
+45 direction of the fiscal officer, forthwith withhold from any payment due
+46 to the contractor or subcontractor executing the contract sufficient
+47 money to safeguard the rights of the employees and to cover the civil
+48 penalty that may be assessed as provided herein, or, if there are insuf-
+49 ficient moneys still due to be disbursed to the contractor or subcon-
+50 tractor to safeguard the rights of the employees and to cover the civil
+51 penalty that may be assessed as provided herein, the financial officer
+52 of another arts agency which has entered or subsequently enters into a
+53 contract with the contractor or subcontractor, shall withhold from any
+54 such payment to the contractor or subcontractor executing any work,
+55 sufficient moneys to safeguard the rights of the employees and to cover
+56 the civil penalty that may be assessed as provided herein.
+
+S. 3037--B 6
+1 (b) If there are still insufficient moneys still due to be disbursed
+2 to the contractor or subcontractor to safeguard the rights of the
+3 employees and to cover the civil penalty that may be assessed as
+4 provided herein, the financial officer shall immediately so notify the
+5 fiscal officer, who may issue a notice of withholding to any of the
+6 following: any substantially-owned affiliated entity or successor or
+7 subsidiary of the contractor or subcontractor, an officer of the
+8 contractor or subcontractor who knowingly participated in the violation
+9 of this article, any of the partners, if the contractor or subcontractor
+10 is a partnership, or any of the five largest shareholders of the
+11 contractor or subcontractor, as determined by the fiscal officer.
+12 (c) The notice of withholding shall provide that the fiscal officer
+13 intends to instruct the financial officer, not less than ten days
+14 following of the notice by mail, to withhold sufficient moneys to safe-
+15 guard the rights of the employees and to cover the civil penalty that
+16 may be assessed as provided herein, from any payment due the notified
+17 party under any contract pending final determination. The notice of
+18 withholding shall provide that within thirty days following the date of
+19 the notice of withholding the notified party may contest the withholding
+20 on the basis that the notified party is not a partner or one of the five
+21 largest shareholders of the subcontractor or contractor, an officer of
+22 the contractor or subcontractor who knowingly participated in the
+23 violation of this article, or a substantially-owned affiliated entity or
+24 successor. If the notified party fails to contest the notice of with-
+25 holding, or if the fiscal officer, after reviewing the information
+26 provided by the notified party in such contest, determines that the
+27 notified party is a partner or one of the five largest shareholders, a
+28 substantially-owned affiliated entity, an officer of the contractor or
+29 subcontractor who knowingly participated in the violation of this arti-
+30 cle, or a successor, the fiscal officer may instruct the financial offi-
+31 cer to immediately withhold sufficient moneys to safeguard the rights of
+32 the employees and to cover the civil penalty that may be assessed as
+33 provided herein from funds still to be disbursed to the notified party
+34 under any contract pending the final determination.
+35 (d) The financial officer shall immediately implement the notice of
+36 withholding and confirm in writing to the fiscal officer the amount of
+37 money withheld.
+38 (e) If the notified party contests the withholding after a withholding
+39 has been effected, and if the fiscal officer determines that the noti-
+40 fied party is not a partner or one of the five largest shareholders, a
+41 substantially-owned affiliated entity or successor, or an officer of the
+42 contractor or subcontractor who knowingly participated in the violation
+43 of this article, the fiscal officer shall immediately notify the finan-
+44 cial officer to release all funds being withheld from the notified
+45 party.
+46 (f) The money shall be held in trust pending completion of the inves-
+47 tigation.
+48 3. If, despite the requirements of law, the contract for the work has
+49 been awarded without the annexation thereto of the schedule of wages
+50 provided for in this article, the fiscal officer shall determine in the
+51 proceeding before such fiscal officer the wages prevailing at the time
+52 the work was performed for the crafts, trades or occupations of the
+53 employees involved.
+54 4. In an investigation conducted under the provisions of this section,
+55 the inquiry of the fiscal officer shall not extend to work performed
+56 more than two years prior to:
+
+S. 3037--B 7
+1 (a) the filing of the complaint; or
+2 (b) the commencement of the investigation upon the fiscal officer's
+3 own volition, whichever is earlier in point of time.
+4 5. (a) The investigation and hearing shall be expeditiously conducted
+5 and upon the completion thereof the fiscal officer shall determine the
+6 issues raised and shall make and file an order in the fiscal officer's
+7 office stating such determination and forthwith serve personally or by
+8 mail a copy of such order and determination together with a notice of
+9 filing upon all parties to the proceeding and upon the financial officer
+10 of the arts agency involved.
+11 (b) In addition to directing payment of wages found to be due, such
+12 order of the fiscal officer may direct payment of a further sum as a
+13 civil penalty in an amount not exceeding twenty-five percent of the
+14 total amount found to be due. In assessing the amount of the penalty,
+15 due consideration shall be given to the size of the employer's business,
+16 the good faith of the employer, the gravity of the violation, the histo-
+17 ry of previous violations of the employer, successor or substantially-
+18 owned affiliated entity or any successor of the contractor or subcon-
+19 tractor, any officer of the contractor or subcontractor who knowingly
+20 participated in the violation of this article, and any of the partners
+21 if the contractor or subcontractor is a partnership or any of the five
+22 largest shareholders of the contractor or subcontractor, as determined
+23 by the fiscal officer, of such underpayment of wages or supplements, and
+24 any officer of the contractor or subcontractor who knowingly partic-
+25 ipated in the violation of this article, and the failure to comply with
+26 record keeping or other non-wage requirements. Where the fiscal officer
+27 is the commissioner, the penalty shall be paid to the commissioner for
+28 deposit in the state treasury. Where the fiscal officer is a city comp-
+29 troller or other analogous officer, the penalty shall be paid to said
+30 officer for deposit in the city treasury.
+31 (c) If the order directs the payment to specified employees of wages
+32 found to be due and unpaid, including interest at a rate not less than
+33 six per centum per year and not more than the rate of interest then in
+34 effect as prescribed by the superintendent of financial services pursu-
+35 ant to section fourteen-a of the banking law per annum from the time
+36 such wages should have been paid, the financial officer of such arts
+37 agency shall, upon the service to the financial officer of such order,
+38 pay to such employees from the trust money withheld the amounts speci-
+39 fied in such order and shall pay the civil penalty as provided herein,
+40 provided no review proceeding pursuant to the provisions of article
+41 seventy-eight of the civil practice law and rules is commenced within
+42 thirty days of the date said order was filed in the office of the fiscal
+43 officer. If such review is timely commenced, the money withheld shall
+44 remain in trust pending final disposition of the review proceeding. In
+45 determining the rate of interest to be imposed the fiscal officer shall
+46 consider the size of the employer's business, the good faith of the
+47 employer, the gravity of the violation, the history of previous
+48 violations of the employer, successor or substantially-owned affiliated
+49 entity or any successor of the contractor or subcontractor, any officer
+50 of the contractor or subcontractor who knowingly participated in the
+51 violation of this article, and any of the partners if the contractor or
+52 subcontractor is a partnership or any of the five largest shareholders
+53 of the contractor or subcontractor, as determined by the fiscal officer,
+54 and the failure to comply with record keeping or other non-wage require-
+55 ments.
+
+S. 3037--B 8
+1 6. When a final determination has been made and such determination is
+2 in favor of an employee, such employee may, in addition to any other
+3 remedy provided by this article, institute an action in any court of
+4 appropriate jurisdiction against the person or corporation found to have
+5 violated this article, any substantially-owned affiliated entity or any
+6 successor of the contractor or subcontractor, any officer of the
+7 contractor or subcontractor who knowingly participated in the violation
+8 of this article, and any of the partners if the contractor or subcon-
+9 tractor is a partnership or any of the five largest shareholders of the
+10 contractor or subcontractor, as determined by the fiscal officer, for
+11 the recovery of the difference between the sum, if any, actually paid to
+12 the employee by the aforesaid financial officer pursuant to said order
+13 and the amount found to be due the employee as determined by said order.
+14 Such action must be commenced within three years from the date of the
+15 filing of said order, or if the said order is reviewed in a proceeding
+16 pursuant to article seventy-eight of the civil practice law and rules,
+17 within three years after the termination of such review proceeding.
+18 Provided that no proceeding for judicial review as provided in this
+19 section shall then be pending and the time for initiation of such
+20 proceeding shall have expired, the fiscal officer may file with the
+21 county clerk of the county where the employer resides or has a place of
+22 business the order of the fiscal officer containing the amount found to
+23 be due. The filing of such order shall have the full force and effect of
+24 a judgment duly docketed in the office of such clerk. The order may be
+25 enforced by and in the name of the fiscal officer in the same manner,
+26 and with like effect, as that prescribed by the civil practice law and
+27 rules for the enforcement of a money judgment.
+28 7. When, pursuant to the provisions of this section, two final orders
+29 have been entered against a contractor, subcontractor, successor, or any
+30 substantially-owned affiliated entity of the contractor or subcontrac-
+31 tor, any of the partners if the contractor or subcontractor is a part-
+32 nership, any of the five largest shareholders of the contractor or
+33 subcontractor, any officer of the contractor or subcontractor who know-
+34 ingly participated in the violation of this article within any consec-
+35 utive six-year period determining that such contractor or subcontractor
+36 and/or its successor, substantially-owned affiliated entity of the
+37 contractor or subcontractor, any of the partners or any of the five
+38 largest shareholders of the contractor or subcontractor, any officer of
+39 the contractor or subcontractor who knowingly participated in the
+40 violation of this article has willfully failed to pay the prevailing
+41 wages in accordance with the provisions of this article, whether such
+42 failures were concurrent or consecutive and whether or not such final
+43 determinations concerning separate public contracts are rendered simul-
+44 taneously, such contractor, subcontractor, successor, and if the
+45 contractor, subcontractor, successor, or any substantially-owned affil-
+46 iated entity of the contractor or subcontractor, any of the partners if
+47 the contractor or subcontractor is a partnership, or any of the five
+48 largest shareholders of the contractor or subcontractor, any officer of
+49 the contractor or subcontractor who knowingly participated in the
+50 violation of this article, or any successor is a corporation, any offi-
+51 cer of such corporation who knowingly participated in such failure,
+52 shall be ineligible to submit a grant application or be awarded a grant
+53 by an arts agency covered by this article for a period of five years
+54 from the date of the second order, provided, however, that where any
+55 such final order involves the falsification of payroll records or the
+56 kickback of wages, the contractor, subcontractor, successor, substan-
+
+S. 3037--B 9
+1 tially-owned affiliated entity of the contractor or subcontractor, any
+2 partner if the contractor or subcontractor is a partnership or any of
+3 the five largest shareholders of the contractor or subcontractor, any
+4 officer of the contractor or subcontractor who knowingly participated in
+5 the violation of this article shall be ineligible to submit a grant
+6 application or be awarded a grant, contract or subcontract with the
+7 state, or any municipal corporation or public body for a period of five
+8 years from the date of the first final order. Nothing in this subdivi-
+9 sion shall be construed as affecting any provision of any other law or
+10 regulation relating to the awarding of public contracts or grants.
+11 8. (a) When a final determination has been made in favor of a
+12 complainant and the contractor or subcontractor found violating this
+13 article has failed to make payment as required by the order of the
+14 fiscal officer, and provided that no relevant proceeding for judicial
+15 review shall then be pending and the time for initiation of such
+16 proceeding shall have expired, the fiscal officer may file a copy of the
+17 order of the fiscal officer containing the amount found to be due with
+18 the county clerk of the county of residence or place of business of any
+19 of the following:
+20 (i) any substantially-owned affiliated entity or any successor of the
+21 contractor or subcontractor;
+22 (ii) any of the partners if the contractor or subcontractor is a part-
+23 nership or any of the five largest shareholders of the contractor or
+24 subcontractor, as determined by the fiscal officer; or
+25 (iii) any officer of the contractor or subcontractor who knowingly
+26 participated in the violation of this article; provided, however, that
+27 the fiscal officer shall within five days of the filing of the order
+28 provide notice thereof to the partner or a top five shareholder or
+29 successor or substantially-owned affiliated entity. The notified party
+30 may contest the filing on the basis that it is not a partner or a top
+31 five shareholder, an officer of the contractor or subcontractor who
+32 knowingly participated in the violation of this article, successor or
+33 substantially-owned affiliated entity. If, after reviewing the informa-
+34 tion provided by the notified party in support of such contest, the
+35 fiscal officer determines that the notified party is not within the
+36 definitions described herein, the fiscal officer shall immediately with-
+37 draw the filing of the order.
+38 (b) The filing of such order shall have the full force and effect of a
+39 judgment duly docketed in the office of such clerk. The order may be
+40 enforced by and in the name of the fiscal officer in the same manner,
+41 and with like effect, as that prescribed by the civil practice law and
+42 rules for the enforcement of a money judgment.
+43 9. When a final determination has been made against a subcontractor in
+44 favor of a complainant and the contractor has made payment to the
+45 complainant of any wages and interest due the complainant and any civil
+46 penalty, and providing that no relevant proceeding for judicial review
+47 shall then be pending and the time for initiation of such proceeding
+48 shall have expired, the contractor may file a copy of the order of the
+49 fiscal officer containing the amount found to be due with the county
+50 clerk of the county of residence or place of business of the subcontrac-
+51 tor. The filing of such order shall have the full force and effect of a
+52 judgment duly docketed in the office of such clerk. The judgment may be
+53 docketed in favor of the contractor who may proceed as a judgment credi-
+54 tor against the subcontractor for the recovery of all monies paid by the
+55 contractor under such order.
+
+S. 3037--B 10
+1 § 228-d. Failure to protest underpayments. Notwithstanding any incon-
+2 sistent provision of this chapter or of any other general, special or
+3 local law, ordinance, charter or administrative code, an employee shall
+4 not be barred from the right to recover the difference between the
+5 amount actually paid to the employee and the amount which should have
+6 been paid to the employee pursuant to an order entered under the
+7 provisions of this article because of the prior receipt by the employee
+8 without protest of wages paid or on account of the employee's failure to
+9 state orally or in writing upon any payroll or receipt which the employ-
+10 ee is required to sign that the wages received by the employee are
+11 received under protest, or on account of the employee's failure to indi-
+12 cate the employee's protest against the amount, or that the amount so
+13 paid does not constitute payment in full of wages due the employee for
+14 the period covered by such payment.
+15 § 228-e. Statements showing amounts due for wages. 1. Subcontractors
+16 engaged for work by a contractor or its subcontractor shall, upon
+17 receipt from the contractor or its subcontractor of the schedule of
+18 wages and supplements specified in the contract, provide to the contrac-
+19 tor or its subcontractor a verified statement attesting that the subcon-
+20 tractor has received and reviewed such schedule of wages and supple-
+21 ments, and agrees that it will pay the applicable prevailing wages and
+22 will pay or provide the supplements specified therein. Such verified
+23 statement shall be filed in the manner described in subdivision three of
+24 this section. It shall be a violation of this article for any contractor
+25 or its subcontractor to fail to provide for its subcontractor a copy of
+26 the schedule of wages and supplements specified in the contract.
+27 2. Before grant funds are released by an arts agency it shall be the
+28 duty of the comptroller or the financial officer of such arts agency or
+29 other officer or person charged with the custody and disbursement of the
+30 grant funds pursuant to the contract and under which payment is made, to
+31 require the contractor to file a statement in writing in form satisfac-
+32 tory to such officer certifying to the amounts then due and owing from
+33 such contractor filing such statement to or on behalf of any and all
+34 employees for daily or weekly wages on account of labor performed upon
+35 the work under the contract, setting forth therein the names of the
+36 persons whose wages are unpaid and the amount due to or on behalf of
+37 each respectively, which statement so to be filed shall be verified by
+38 the oath of the contractor that the contractor has read such statement
+39 subscribed by the contractor and knows the contents thereof, and that
+40 the same is true of the contractor's own knowledge.
+41 3. Before payment is made by or on behalf of an arts agency of any
+42 sums due on account of a contract and representing the final portion of
+43 twenty percent of the total amount payable under the contract, it shall
+44 be the duty of the comptroller or the financial officer of such arts
+45 agency or other officer or person charged with the custody and disburse-
+46 ment of the grant funds applicable to the contract under and pursuant to
+47 which payment is made to require the contractor to file every verified
+48 statement required to be obtained by the contractor from its subcontrac-
+49 tors pursuant to subdivision one of this section and to file a statement
+50 in writing in form satisfactory to such officer setting forth the
+51 amounts known by the contractor to be then due and owing from a subcon-
+52 tractor, or from a subcontractor of such subcontractor, for such wages
+53 and supplements, or certifying that the contractor has no knowledge of
+54 such amounts owing to or on behalf of any employees of its subcontrac-
+55 tors, and that in the event it is determined by the commissioner that
+56 the wages or supplements or both of any employees of such subcontractors
+
+S. 3037--B 11
+1 have not been paid or provided pursuant to the appropriate schedule of
+2 wages and supplements, the contractor shall be responsible for payment
+3 of such wages or supplements pursuant to the provisions of section two
+4 hundred twenty-eight-a of this article. Before final payment is made of
+5 any sums due on account of such contract, the contractor shall be
+6 required to file a supplemental statement setting forth any additional
+7 amounts known by the contractor to be then due and owing by each subcon-
+8 tractor for such wages or supplements, or that the contractor has no
+9 knowledge of such amounts owing to or on behalf of any employee of its
+10 subcontractors. Such statements so to be filed shall be verified by the
+11 oath of the contractor that the contractor has read such statements
+12 subscribed by the contractor and knows the contents thereof, and that
+13 the same is true of the contractor's own knowledge, except with respect
+14 to wages and supplements owing by subcontractors which may be certified
+15 upon information and belief.
+16 4. If any interested person shall have previously filed a protest in
+17 writing objecting to the release of grant funds to any contractor or
+18 subcontractor to the extent of the amount or amounts due or to become
+19 due to such person for daily or weekly wages for labor performed on the
+20 work which was funded by such grant, or if for any other reason it may
+21 be deemed advisable, the comptroller or the financial officer of the
+22 arts agency or other officer or person charged with the custody and
+23 disbursement of the grant funds applicable to the contract for such
+24 work, may deduct from the whole amount of any payment on account thereof
+25 the sum or sums admitted by any contractor or subcontractor in such
+26 statement or statements as filed to be due and owing by the contractor
+27 or subcontractor on account of labor performed on such work before
+28 disbursing such grant funds, and may withhold the amount so deducted for
+29 the benefit of the employees whose wages are unpaid as shown by the
+30 verified statements filed by any contractor or subcontractor, and may
+31 pay directly to any person the amount or amounts shown by the statements
+32 filed as hereinbefore required to be due to such person or such person's
+33 duly authorized collective bargaining labor organization receiving such
+34 payment to the extent of the amount thereof.
+35 § 228-f. Provisions in contracts prohibiting discrimination on account
+36 of race, creed, color, national origin, age, sex or disability. Every
+37 contract for work shall contain provisions by which the contractor
+38 agrees:
+39 1. that in the hiring of employees for the performance of work under
+40 the contract or any subcontract thereunder within the territorial limits
+41 of this state, no contractor or subcontractor, nor any person acting on
+42 behalf of such contractor or subcontractor, shall by reason of race,
+43 creed, color, national origin, age, sex or disability, discriminate
+44 against any citizen of the state of New York who is qualified and avail-
+45 able to perform the work to which the employment relates;
+46 2. that no contractor or subcontractor, nor any person acting on such
+47 entity's behalf shall, in any manner, discriminate against or intimidate
+48 any employee hired for the performance of work under the contract on
+49 account of race, creed, color, national origin, age, sex or disability;
+50 3. that there may be deducted from the amount payable to the contrac-
+51 tor by the arts agency under the contract a penalty of fifty dollars for
+52 each person for each day during which such person was discriminated
+53 against or intimidated in violation of the provisions of the contract;
+54 and
+55 4. that the contract may be cancelled or terminated by the arts agen-
+56 cy, and all moneys otherwise to be disbursed pursuant to such contract
+
+S. 3037--B 12
+1 may be forfeited for a second or any subsequent violation of the terms
+2 or conditions of this section of the contract.
+3 § 228-g. Penalties. 1. Any contractor or subcontractor who shall upon
+4 such entity's oath verify any statement required to be filed under this
+5 article which is known by such entity to be false shall be guilty of
+6 perjury and punishable as provided by the penal law.
+7 2. When a contract contains as part thereof a schedule of wages as
+8 provided for in this article, any contractor who, after entering into
+9 such contract, and any subcontractor of such contractor fails to pay to
+10 any employee the wages stipulated in such wage schedule is guilty of a
+11 misdemeanor and upon conviction shall be punished for a first offense by
+12 a fine of five hundred dollars or by imprisonment for not more than
+13 thirty days or by both such fine and imprisonment; for a second offense
+14 by a fine of one thousand dollars, and in addition thereto the contract
+15 on which the violation has occurred shall be forfeited; and no such
+16 contractor shall be entitled to receive any sum, nor shall any officer,
+17 agent or employee of the contracting arts agency pay any such sum or
+18 authorize its payment from the funds under such entity's charge or
+19 control to such contractor for work done upon the contract on which the
+20 contractor has been convicted of a second offense. If the contractor or
+21 subcontractor is a corporation, any officer of such corporation who
+22 knowingly permits the corporation to fail to make such payment shall
+23 also be guilty of a misdemeanor and the criminal and civil penalties
+24 herein shall attach to such officer upon conviction.
+25 § 228-h. Enforcement of article. If the fiscal officer, as defined
+26 herein, finds that any contractor fails to comply with or evades the
+27 provisions of this article, the fiscal officer shall present evidence of
+28 such noncompliance or evasion to the arts agency having charge of such
+29 contract for enforcement. Where such evidence indicates noncompliance or
+30 evasion on the part of a subcontractor, the contractor shall be respon-
+31 sible for such noncompliance or evasion. It shall be the duty of the
+32 arts agency in charge of such contract to enforce the provisions of this
+33 article.
+34 § 2. Section 3.01 of the arts and cultural affairs law is amended to
+35 read as follows:
+36 § 3.01. Legislative findings and declaration of policy. It is hereby
+37 found that many of our citizens lack the opportunity to view, enjoy or
+38 participate in living theatrical performances, musical concerts, operas,
+39 dance and ballet recitals, art exhibits, examples of fine architecture,
+40 and the performing and fine arts generally. It is hereby further found
+41 that, with increasing leisure time, the practice and enjoyment of the
+42 arts are of increasing importance and that the general welfare of the
+43 people of the state will be promoted by giving further recognition to
+44 the arts as a vital aspect of our culture and heritage and as a valued
+45 means of expanding the scope of our educational programs.
+46 It is hereby declared to be the policy of the state to join with
+47 private patrons and with institutions and professional organizations
+48 concerned with the arts to insure that the role of the arts in the life
+49 of our communities will continue to grow and will play an ever more
+50 significant part in the welfare and educational experience of our citi-
+51 zens and in maintaining the paramount position of this state in the
+52 nation and in the world as a cultural center.
+53 The legislature further finds that the investment of funds by arts
+54 agencies as defined in article eight-B of the labor law can provide a
+55 vital economic engine to assist, nurture, develop, and promote regional
+56 economic development, the state tourism industry and the growth of jobs
+
+S. 3037--B 13
+1 in the state. Indeed, attendees of arts programming generate economic
+2 activity in New York state far beyond the cost of admission, from food
+3 and drink, to parking, transportation, travel, and childcare revenues,
+4 among others.
+5 The professional performers and related or supporting professionals
+6 employed on projects and productions that create the performing and fine
+7 arts, and are the basis of the arts economy in New York state and must
+8 not be left behind. Therefore, the state legislature finds that arts
+9 agencies have a substantial and compelling proprietary interest in any
+10 funds awarded in the fine and performing arts. The legislature hereby
+11 declares that the mandate of a living wage for projects awarded grants
+12 by arts agencies is central to ensuring the continued availability of
+13 the fine and performing arts in New York state, and the concomitant
+14 economic benefits therewith, and further that the state's proprietary
+15 interest with regard to such funds could be adversely affected by
+16 labor-management conflict.
+17 It is further declared that all activities undertaken by the state in
+18 carrying out this policy shall be directed toward encouraging and
+19 assisting rather than in any ways limiting the freedom of artistic
+20 expression that is essential for the well-being of the arts.
+21 § 3. Paragraph (d) of subdivision 1 of section 3.19 of the arts and
+22 cultural affairs law, as added by chapter 16 of the laws of 2017, is
+23 amended to read as follows:
+24 (d) Any organization applying for grant funding from an arts agency as
+25 defined by this chapter shall provide to the arts agency a certification
+26 that it will enter into a labor peace agreement with at least one bona
+27 fide labor organization that represents employees of such organization
+28 including but not limited to actors, stage managers, production assist-
+29 ants, scenic artists, scenic designers, costume designers, lighting
+30 designers, sound designers, projection designers, graphic artists, art
+31 and costume department coordinators, ushers, ticket takers, line direc-
+32 tors, press agents, company managers, theatre managers, engineers, musi-
+33 cians, singers, choreographers, dancers, staging staff, ballet school
+34 faculty, directors, fight directors, intimacy directors, dressers,
+35 wardrobers, costumers, stitchers, tailors, drapers, shoppers, laundry
+36 workers, dyers, costume technicians, milliners, craftspeople, child
+37 actors, guardians, stagehands, box office treasurers, first assistants,
+38 and ticket sellers either where such bona fide labor organization is
+39 actively representing employees providing services covered by the organ-
+40 ization seeking such grant funding or upon notice by a bona fide labor
+41 organization that is attempting to represent employees who will provide
+42 services to the organization seeking such grant funding. The maintenance
+43 of such a labor peace agreement shall be an ongoing material condition
+44 for receipt of grant funding under this article. For purposes of this
+45 section, "labor peace agreement" means an agreement between an entity
+46 and labor organization that, at a minimum, protects the state's proprie-
+47 tary interests by prohibiting labor organizations and members from
+48 engaging in picketing, work stoppages, boycotts, and any other economic
+49 interference with the entity.
+50 (e) Any applicant which fails to demonstrate that grant funds are to
+51 be used toward programs in the state shall be deemed ineligible to
+52 receive grant funding under this article. Any organization, when apply-
+53 ing for grant funding, shall provide in its grant application materials
+54 documentation demonstrating compliance with this provision.
+55 § 4. Severability. If any clause, sentence, paragraph, subdivision,
+56 section or part of this act shall be adjudged by any court of competent
+
+S. 3037--B 14
+1 jurisdiction to be invalid, such judgment shall not affect, impair, or
+2 invalidate the remainder thereof, but shall be confined in its operation
+3 to the clause, sentence, paragraph, subdivision, section or part thereof
+4 directly involved in the controversy in which such judgment shall have
+5 been rendered. It is hereby declared to be the intent of the legislature
+6 that this act would have been enacted even if such invalid provisions
+7 had not been included herein.
+8 § 5. This act shall take effect on the ninetieth day after it shall
+9 have become a law and shall apply to any grant award made subsequent to
+10 such effective date.
