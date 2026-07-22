@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - A9533A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9533--A
+IN ASSEMBLY
+January 14, 2026
+___________
+Introduced by M. of A. BRONSON -- read once and referred to the Commit-
+tee on Labor -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the labor law, in relation to enacting the "automation
+displacement protection act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "automation displacement protection act".
+3 § 2. The labor law is amended by adding a new article 25-D to read as
+4 follows:
+5 ARTICLE 25-D
+6 PROTECTION OF WORKERS FROM AI DISPLACEMENT
+7 Section 863. Definitions.
+8 863-a. Notice of technological displacement.
+9 863-b. Workforce transition period.
+10 863-c. Incentive eligibility.
+11 863-d. Civil penalties and remedies.
+12 § 863. Definitions. For the purposes of this article, the following
+13 terms shall have the following meanings:
+14 1. "Covered employer" means any business enterprise that employs fifty
+15 or more full-time employees in the state.
+16 2. "Artificial intelligence" means the same as defined in section
+17 seventeen hundred of the general business law.
+18 3. "Technological displacement" means the elimination of employment
+19 positions, or a reduction in hours equivalent to twenty-five percent or
+20 more of total workforce time, within any twelve-month period, caused in
+21 whole or in substantial part by the introduction or expanded use of an
+22 artificial intelligence system or other automated technology.
+23 § 863-a. Notice of technological displacement. 1. A covered employer
+24 shall provide no fewer than ninety days advance written notice prior to
+25 any technological displacement affecting twenty-five or more employees,
+26 or twenty-five percent of the workforce, whichever is less.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14017-05-6
+
+A. 9533--A 2
+1 2. Notice under subdivision one of this section shall be provided to:
+2 (a) all affected employees and any employee organization representing
+3 them;
+4 (b) the commissioner;
+5 (c) the chief elected official of each locality where the affected
+6 facility is located; and
+7 (d) the local workforce development board.
+8 3. The notice under subdivision one of this section shall describe:
+9 (a) the functions to be automated;
+10 (b) the number, classification, and location of affected employees;
+11 (c) the anticipated date of displacement;
+12 (d) available retraining or reassignment programs; and
+13 (e) the identity of any vendor or contractor supplying the artificial
+14 intelligence system.
+15 § 863-b. Workforce transition period. 1. Each employee affected by a
+16 technological displacement shall be entitled to a transition employment
+17 period of ninety days from the date of notice provided under section
+18 eight hundred sixty-three-a of this article, during which the covered
+19 employer shall offer:
+20 (a) continued employment or equivalent wages; or
+21 (b) participation, at such covered employer's expense, in a recognized
+22 retraining or reskilling program approved by the department.
+23 2. A covered employer shall not discharge an employee affected by a
+24 technological displacement during the transition period under subdivi-
+25 sion one of this section except for just cause.
+26 § 863-c. Incentive eligibility. 1. Any covered employer that fails to
+27 comply with the notice or transition requirements of this article shall
+28 be ineligible for state grants, loans, or tax incentives for five years
+29 following such violation.
+30 2. The commissioner shall maintain a public registry of covered
+31 employers found to have violated this article.
+32 § 863-d. Civil penalties and remedies. 1. A covered employer that
+33 fails to provide the notice required by this article shall be liable to
+34 each affected employee for up to sixty days of back pay and benefits.
+35 2. The commissioner may assess a civil penalty of up to ten thousand
+36 dollars per day for willful violations of this article.
+37 3. The attorney general may bring an action to enjoin violations and
+38 recover penalties on behalf of the state.
+39 § 3. This act shall take effect immediately.

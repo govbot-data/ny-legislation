@@ -1,0 +1,358 @@
+Title: 
+Official Title: 
+Source: versions - A6453A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6453--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+March 5, 2025
+___________
+Introduced by M. of A. BORES, LASHER, SEAWRIGHT, PAULIN, TAPIA, RAGA,
+SHIMSKY, REYES, EPSTEIN, BURKE, HEVESI, P. CARROLL, ZACCARO, HYNDMAN,
+LUPARDO, KASSAY, LEE, DAVILA, SCHIAVONI, LUNSFORD, K. BROWN, TANNOUS-
+IS, TORRES, HOOKS, GIBBS, ROMERO, COLTON, CONRAD, MEEKS, GLICK, CRUZ,
+CUNNINGHAM, FORREST, CHANDLER-WATERMAN, STIRPE -- read once and
+referred to the Committee on Science and Technology -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to the training
+and use of artificial intelligence frontier models
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "Responsible AI safety and education act" or "RAISE act".
+3 § 2. The general business law is amended by adding a new article 44-B
+4 to read as follows:
+5 ARTICLE 44-B
+6 RESPONSIBLE AI SAFETY AND EDUCATION (RAISE) ACT
+7 Section 1420. Definitions.
+8 1421. Transparency requirements regarding frontier model train-
+9 ing and use.
+10 1422. Protections, rights and obligations of employees.
+11 1423. Violations.
+12 1424. Duties and obligations.
+13 1425. Scope.
+14 1426. Severability.
+15 § 1420. Definitions. As used in this article, the following terms
+16 shall have the following meanings:
+17 1. "Appropriate redactions" means redactions to a safety and security
+18 protocol or audit report that a developer may make when necessary to:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00047-12-5
+
+A. 6453--A 2
+1 (a) protect public safety to the extent the developer can reasonably
+2 predict such risks;
+3 (b) protect trade secrets;
+4 (c) prevent the release of confidential information as required by
+5 state or federal law;
+6 (d) protect employee or customer privacy; or
+7 (e) prevent the release of information otherwise controlled by state
+8 or federal law.
+9 2. "Artificial intelligence" means a machine-based system that can,
+10 for a given set of human-defined objectives, make predictions, recommen-
+11 dations, or decisions influencing real or virtual environments, and that
+12 uses machine- and human-based inputs to perceive real and virtual envi-
+13 ronments, abstract such perceptions into models through analysis in an
+14 automated manner, and use model inference to formulate options for
+15 information or action.
+16 3. "Artificial intelligence model" means an information system or
+17 component of an information system that implements artificial intelli-
+18 gence technology and uses computational, statistical, or machine-learn-
+19 ing techniques to produce outputs from a given set of inputs.
+20 4. "Compute cost" means the cost incurred to pay for compute used in
+21 training a model when calculated using the average published market
+22 prices of cloud compute in the United States at the start of training
+23 such model as reasonably assessed by the person doing the training.
+24 5. "Deploy" means to use a frontier model or to make a frontier model
+25 foreseeably available to one or more third parties for use, modifica-
+26 tion, copying, or a combination thereof with other software, except for
+27 training or developing the frontier model, evaluating the frontier model
+28 or other frontier models, or complying with federal or state laws.
+29 6. "Frontier model" means either of the following:
+30 (a) an artificial intelligence model trained using greater than 10º26
+31 computational operations (e.g., integer or floating-point operations),
+32 the compute cost of which exceeds one hundred million dollars; or
+33 (b) an artificial intelligence model produced by applying knowledge
+34 distillation to a frontier model as defined in paragraph (a) of this
+35 subdivision.
+36 7. "Critical harm" means the death or serious injury of one hundred or
+37 more people or at least one billion dollars of damages to rights in
+38 money or property caused or materially enabled by a large developer's
+39 creation, use, storage, or release of a frontier model, through either
+40 of the following:
+41 (a) The creation or use of a chemical, biological, radiological, or
+42 nuclear weapon; or
+43 (b) An artificial intelligence model engaging in conduct that does
+44 both of the following:
+45 (i) Acts with limited human intervention; and
+46 (ii) Would, if committed by a human, constitute a crime specified in
+47 the penal law that requires intent, recklessness, or gross negligence,
+48 or the solicitation or aiding and abetting of such a crime.
+49 A harm inflicted by an intervening human actor shall not be deemed to
+50 result from a developer's activities unless such activities made it
+51 substantially easier or more likely for the actor to inflict such harm.
+52 8. "Knowledge distillation" means any supervised learning technique
+53 that uses a larger artificial intelligence model or the output of a
+54 larger artificial intelligence model to train a smaller artificial
+55 intelligence model with similar or equivalent capabilities as the larger
+56 artificial intelligence model.
+
+A. 6453--A 3
+1 9. "Large developer" means a person that has trained at least one
+2 frontier model, the compute cost of which exceeds five million dollars,
+3 and has spent over one hundred million dollars in compute costs in
+4 aggregate in training frontier models. Accredited colleges and univer-
+5 sities shall not be considered large developers under this article to
+6 the extent that such colleges and universities are engaging in academic
+7 research. If a person subsequently transfers full intellectual property
+8 rights of the frontier model to another person (including the right to
+9 resell the model) and retains none of those rights for themself, then
+10 the receiving person shall be considered the large developer and shall
+11 be subject to the responsibilities and requirements of this article
+12 after such transfer.
+13 10. "Model weight" means a numerical parameter in an artificial intel-
+14 ligence model that is adjusted through training and that helps determine
+15 how inputs are transformed into outputs.
+16 11. "Person" means an individual, proprietorship, firm, partnership,
+17 joint venture, syndicate, business trust, company, corporation, limited
+18 liability company, association, committee, or any other nongovernmental
+19 organization or group of persons acting in concert.
+20 12. "Safety and security protocol" means documented technical and
+21 organizational protocols that:
+22 (a) Specify reasonable protections and procedures that, if successful-
+23 ly implemented would appropriately reduce the risk of critical harm;
+24 (b) Describe reasonable administrative, technical, and physical
+25 cybersecurity protections for frontier models within the large develop-
+26 er's control that, if successfully implemented, appropriately reduce the
+27 risk of unauthorized access to, or misuse of, the frontier models lead-
+28 ing to critical harm, including by sophisticated actors;
+29 (c) Describe in detail the testing procedure to evaluate if the fron-
+30 tier model poses an unreasonable risk of critical harm;
+31 (d) Describe in detail how the testing procedure assesses whether the
+32 frontier model could be misused, be modified, be executed with increased
+33 computational resources, evade the control of its large developer or
+34 user, be combined with other software or be used to create another fron-
+35 tier model in a manner that would increase the risk of critical harm;
+36 (e) State compliance requirements with sufficient detail and specif-
+37 icity to allow the large developer or a third party to readily ascertain
+38 whether the requirements of the safety and security protocol have been
+39 followed;
+40 (f) Describe how the large developer will fulfill their obligations
+41 under this article, including with respect to any requirements, safe-
+42 guards, or modifications; and
+43 (g) Designate senior personnel to be responsible for ensuring compli-
+44 ance.
+45 13. "Safety incident" means an incident of the following kinds that
+46 occurs in such a way that it provides demonstrable evidence of an
+47 increased risk of critical harm:
+48 (a) A frontier model autonomously engaging in behavior other than at
+49 the request of a user;
+50 (b) Theft, misappropriation, malicious use, inadvertent release, unau-
+51 thorized access, or escape of the model weights of a frontier model;
+52 (c) The critical failure of any technical or administrative controls,
+53 including controls limiting the ability to modify a frontier model; or
+54 (d) Unauthorized use of a frontier model.
+55 14. "Trade secret" means any form and type of financial, business,
+56 scientific, technical, economic, or engineering information, including a
+
+A. 6453--A 4
+1 pattern, plan, compilation, program device, formula, design, prototype,
+2 method, technique, process, procedure, program, or code, whether tangi-
+3 ble or intangible, and whether or how stored, compiled, or memorialized
+4 physically, electronically, graphically, photographically or in writing,
+5 that:
+6 (a) Derives independent economic value, actual or potential, from not
+7 being generally known to, and not being readily ascertainable by proper
+8 means by, other persons who can obtain economic value from its disclo-
+9 sure or use; and
+10 (b) Is the subject of efforts that are reasonable under the circum-
+11 stances to maintain its secrecy.
+12 § 1421. Transparency requirements regarding frontier model training
+13 and use. 1. Before deploying a frontier model, the large developer of
+14 such frontier model shall do all of the following:
+15 (a) Implement a written safety and security protocol;
+16 (b) Retain an unredacted copy of the safety and security protocol,
+17 including records and dates of any updates or revisions. Such unredacted
+18 copy of the safety and security protocol, including records and dates of
+19 any updates or revisions, shall be retained for as long as a frontier
+20 model is deployed plus five years;
+21 (c) (i) Conspicuously publish a copy of the safety and security proto-
+22 col with appropriate redactions and transmit a copy of such redacted
+23 safety and security protocol to the division of homeland security and
+24 emergency services;
+25 (ii) Grant the division of homeland security and emergency services or
+26 the attorney general access to the safety and security protocol, with
+27 redactions only to the extent required by federal law, upon request;
+28 (d) Record, as and when reasonably possible, and retain for as long as
+29 the frontier model is deployed plus five years information on the
+30 specific tests and test results used in any assessment of the frontier
+31 model that provides sufficient detail for third parties to replicate the
+32 testing procedure; and
+33 (e) Implement appropriate safeguards to prevent unreasonable risk of
+34 critical harm.
+35 2. A large developer shall not deploy a frontier model if doing so
+36 would create an unreasonable risk of critical harm.
+37 3. A large developer shall conduct an annual review of any safety and
+38 security protocol required by this section to account for any changes
+39 to the capabilities of their frontier models and industry best practices
+40 and, if necessary, make modifications to such safety and security proto-
+41 col. If any modifications are made, the large developer shall publish
+42 the safety and security protocol in the same manner as required pursuant
+43 to paragraph (c) of subdivision one of this section.
+44 4. (a) Beginning on the effective date of this article, or ninety days
+45 after a developer first qualifies as a large developer, whichever is
+46 later, a large developer shall annually retain a third party to perform
+47 an independent audit of compliance with the requirements of this
+48 section. Such third party shall conduct audits consistent with best
+49 practices.
+50 (b) The third party shall be granted access to unredacted materials as
+51 necessary to comply with the third party's obligations under this subdi-
+52 vision.
+53 (c) The third party shall produce a report including all of the
+54 following:
+55 (i) A detailed assessment of the large developer's steps to comply
+56 with the requirements of this section;
+
+A. 6453--A 5
+1 (ii) If applicable, any identified instances of noncompliance with the
+2 requirements of this section, and any recommendations for how the devel-
+3 oper can improve its policies and processes for ensuring compliance with
+4 the requirements of this section;
+5 (iii) A detailed assessment of the large developer's internal
+6 controls, including its designation and empowerment of senior personnel
+7 responsible for ensuring compliance by the large developer, its employ-
+8 ees, and its contractors; and
+9 (iv) The signature of the lead auditor certifying the results of the
+10 audit.
+11 (d) The large developer shall retain an unredacted copy of the report
+12 for as long as a frontier model is deployed plus five years.
+13 (e) (i) The large developer shall conspicuously publish a copy of the
+14 third party's report with appropriate redactions and transmit a copy of
+15 such redacted report to the division of homeland security and emergency
+16 services.
+17 (ii) The large developer shall grant the division of homeland security
+18 and emergency services or the attorney general access to the third
+19 party's report, with redactions only to the extent required by federal
+20 law, upon request.
+21 5. A large developer shall disclose each safety incident affecting
+22 the frontier model to the division of homeland security and emergency
+23 services within seventy-two hours of the large developer learning of the
+24 safety incident or within seventy-two hours of the large developer
+25 learning facts sufficient to establish a reasonable belief that a safety
+26 incident has occurred. Such disclosure shall include: (a) the date of
+27 the safety incident; (b) the reasons the incident qualifies as a safety
+28 incident as defined in subdivision thirteen of section fourteen hundred
+29 twenty of this article; and (c) a short and plain statement describing
+30 the safety incident.
+31 6. A large developer shall not knowingly make false or materially
+32 misleading statements or omissions in or regarding documents produced
+33 pursuant to this section.
+34 7. Any person who is not a large developer, but who sets out to train
+35 a frontier model that if completed as planned would qualify such person
+36 as a large developer (i.e. at the end of the training, such person will
+37 have spent five million dollars in compute costs on one frontier model
+38 and one hundred million dollars in compute costs in aggregate in train-
+39 ing frontier models, excluding accredited colleges and universities to
+40 the extent such colleges and universities are engaging in academic
+41 research) shall, before training such model:
+42 (a) Implement a written safety and security protocol, excluding the
+43 requirements described in paragraphs (c) and (d) of subdivision twelve
+44 of section fourteen hundred twenty of this article; and
+45 (b) Transmit a copy of an appropriately redacted safety and security
+46 protocol to the division of homeland security and emergency services.
+47 § 1422. Protections, rights and obligations of employees. 1. A large
+48 developer or a contractor or subcontractor of a large developer shall
+49 not prevent an employee from disclosing, or threatening to disclose, or
+50 retaliate against an employee for disclosing or threatening to disclose,
+51 information to the large developer or the attorney general, if the
+52 employee has reasonable cause to believe that the large developer's
+53 activities pose an unreasonable or substantial risk of critical harm,
+54 regardless of the employer's compliance with applicable law.
+55 2. An employee harmed by a violation of this section may petition a
+56 court for appropriate temporary or preliminary injunctive relief.
+
+A. 6453--A 6
+1 3. A large developer shall inform employees of their protections,
+2 rights and obligations under this article within ninety days of the
+3 effective date of this article or of becoming a large developer, which-
+4 ever is later, upon commencement of employment, and by posting a notice
+5 thereof. Such notice shall be posted conspicuously in easily accessible
+6 and well-lighted places customarily frequented by employees.
+7 4. Nothing in this section shall be deemed to diminish the rights,
+8 privileges, or remedies of any employee under any other law or regu-
+9 lation or under any collective bargaining agreement or employment
+10 contract.
+11 5. As used in this section, the following terms shall have the follow-
+12 ing meanings:
+13 (a) "Employee" has the same meaning as defined in subdivision five of
+14 section two of the labor law and includes both of the following:
+15 (i) Contractors or subcontractors and unpaid advisors involved with
+16 assessing, managing, or addressing the risk of critical harm from fron-
+17 tier models; and
+18 (ii) Corporate officers.
+19 (b) "Contractor or subcontractor" means any person, sole proprietor,
+20 partnership, firm, corporation, limited liability company, association
+21 or other legal entity who by oneself or through others offers to under-
+22 take, or holds oneself out as being able to undertake, or does undertake
+23 work assessing, managing, or addressing the risk of critical harm from
+24 frontier models on behalf of the large developer.
+25 § 1423. Violations. 1. The attorney general may bring a civil action
+26 for a violation of this article and to recover all of the following:
+27 (a) For a violation of section fourteen hundred twenty-one of this
+28 article, a civil penalty in an amount not exceeding ten million dollars
+29 for a first violation and in an amount not exceeding thirty million
+30 dollars for any subsequent violation.
+31 (b) For a violation of section fourteen hundred twenty-two of this
+32 article, a civil penalty in an amount not exceeding ten thousand dollars
+33 per employee for each violation of such section to be awarded to the
+34 employee who was retaliated against.
+35 (c) For a violation of section fourteen hundred twenty-one or fourteen
+36 hundred twenty-two of this article, injunctive or declaratory relief.
+37 2. (a) A provision within a contract or agreement that seeks to waive,
+38 preclude, or burden the enforcement of a liability arising from a
+39 violation of this article, or to shift that liability to any person or
+40 entity in exchange for their use or access of, or right to use or
+41 access, a large developer's products or services, including by means of
+42 a contract of adhesion, is void as a matter of public policy.
+43 (b) A court shall disregard corporate formalities and impose joint and
+44 several liability on affiliated entities for purposes of effectuating
+45 the intent of this section to the maximum extent allowed by law if the
+46 court concludes that both of the following are true:
+47 (i) The affiliated entities, in the development of the corporate
+48 structure among the affiliated entities, took steps to purposely and
+49 unreasonably limit or avoid liability; and
+50 (ii) As the result of the steps described in subparagraph (i) of this
+51 paragraph, the corporate structure of the large developer or affiliated
+52 entities would frustrate recovery of penalties, damages, or injunctive
+53 relief under this section.
+54 3. The division of homeland security and emergency services shall
+55 make any critical safety incident disclosure available to the attorney
+56 general upon request.
+
+A. 6453--A 7
+1 4. This section does not limit the application of other laws.
+2 § 1424. Duties and obligations. The duties and obligations imposed by
+3 this article are cumulative with any other duties or obligations imposed
+4 under other law and shall not be construed to relieve any party from any
+5 duties or obligations imposed under other law and do not limit any
+6 rights or remedies under existing law.
+7 § 1425. Scope. This article shall only apply to frontier models that
+8 are developed, deployed, or operating in whole or in part in New York
+9 state.
+10 § 1426. Severability. If any clause, sentence, paragraph, subdivision,
+11 section or part of this article shall be adjudged by any court of compe-
+12 tent jurisdiction to be invalid, such judgment shall not affect, impair,
+13 or invalidate the remainder thereof, but shall be confined in its opera-
+14 tion to the clause, sentence, paragraph, subdivision, section, or part
+15 thereof directly involved in the controversy in which such judgment
+16 shall have been made.
+17 § 3. This act shall take effect on the ninetieth day after it shall
+18 have become a law.

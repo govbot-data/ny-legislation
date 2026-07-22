@@ -1,0 +1,734 @@
+Title: 
+Official Title: 
+Source: versions - S2332A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2332--A
+2025-2026 Regular Sessions
+IN SENATE
+January 16, 2025
+___________
+Introduced by Sens. RIVERA, BRISPORT, CLEARE, COMRIE, FERNANDEZ, GONZA-
+LEZ, HARCKHAM, HINCHEY, JACKSON, MAY, MAYER, PARKER, RAMOS, SALAZAR,
+SERRANO, SKOUFIS, STAVISKY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Health -- recommitted to
+the Committee on Health in accordance with Senate Rule 6, sec. 8 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the public health law, the social services law, the
+elder law and the mental hygiene law, in relation to long term care
+options; and to repeal certain provisions of the public health law
+relating to managed long term care
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative intent. The state, as part of an ambitious
+2 effort to move all Medicaid recipients to some form of managed care,
+3 moved those in need of home and community-based long term care services
+4 for over a one hundred twenty day period into managed long term care
+5 plans on a mandatory basis over ten years ago. The original intent of
+6 the MLTC program was that the managed long term care plans would develop
+7 into fully capitated plans over time. This has not happened.
+8 Therefore, it is the intent of the legislature to repeal the partially
+9 capitated managed long term care program and instead, provide appropri-
+10 ate home and community-based long term care benefits under a fee-for-
+11 service arrangement. Fully capitated programs such as the PACE program
+12 shall continue to be an option. This transition shall not be implemented
+13 until the commissioner of health is satisfied that all necessary and
+14 appropriate transition planning has occurred, and federal approvals have
+15 been obtained.
+16 § 2. Section 4403-f of the public health law is REPEALED and a new
+17 section 4403-f is added to read as follows:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05134-08-6
+
+S. 2332--A 2
+1 § 4403-f. Long term care options. 1. The following words or phrases,
+2 as used in this section, shall have the following meanings:
+3 (a) "Program of all-inclusive care of the elderly" or "PACE" means a
+4 fully capitated federally recognized model of comprehensive care for
+5 persons fifty-five years of age or older that are eligible for medicaid
+6 and may also be eligible for Medicare, qualifying for nursing home
+7 levels of care who wish to remain in their community (see, Sections 1894
+8 and 1934 to Title XVIII of the Social Security Act; 42 CFR 460), which
+9 are licensed to operate under article twenty-nine-EE of this chapter.
+10 (b) "Medicaid advantage plus program" or "MAP" means a fully capitated
+11 state developed model of comprehensive care for persons eighteen years
+12 of age or older that are eligible for Medicaid and also eligible for
+13 medicare, qualifying for nursing home levels of care.
+14 (c) "Care coordination entity" means an entity that has obtained
+15 approval from the commissioner based on guidelines established by the
+16 department to promote continuity of care and coordination of services
+17 for all enrollees. The entity may be organized as a health home
+18 specially certified by the commissioner to serve home and community-
+19 based services eligible recipients, but this shall not preclude other
+20 organizational structures as determined by the commissioner.
+21 2. The commissioner shall submit the appropriate waivers, including
+22 but not limited to those authorized pursuant to sections eleven hundred
+23 fifteen and nineteen hundred fifteen of the federal social security act
+24 or successor provisions, and any other waivers necessary to require on
+25 or after April first, two thousand twenty-eight, medical assistance
+26 recipients who are eighteen years of age or older and who require long
+27 term care services, as specified by the commissioner, for a continuous
+28 period of more than one hundred twenty days, to receive such services
+29 through an available fully integrated plan including a PACE or MAP plan,
+30 or through a fee-for-service based model with services coordinated by a
+31 care coordination entity. The commissioner shall establish guidelines on
+32 the establishment and operation of care coordination entities. Such
+33 guidelines shall address the payment methods that ensure provider
+34 accountability for cost effective quality outcomes. Such guidelines
+35 shall include a provision for the development of an individualized plan
+36 of care that contains a holistic evaluation of the recipient's needs.
+37 Copies of such waiver applications and amendments thereto shall be
+38 provided to the chairs of the senate finance committee, the assembly
+39 ways and means committee and the senate and assembly health committees
+40 before their submission to the federal government.
+41 3. Persons that are determined eligible to receive long term care
+42 services through PACE or MAP, or through a fee-for-service based model
+43 with services coordinated by a care coordination entity established
+44 pursuant to subdivision two of this section shall have at least thirty
+45 days to select a PACE or MAP provider, or care coordination entity and
+46 shall be provided with information to make an informed choice. Where a
+47 participant has not selected such a provider or care coordination enti-
+48 ty, the commissioner shall assign such participant to a care coordi-
+49 nation entity taking into account consistency with any prior community-
+50 based direct care workers having recently served the recipient, quality
+51 performance criteria, capacity and geographic accessibility.
+52 § 3. Subdivision 2 of section 365-a of the social services law is
+53 amended by adding two new paragraphs (oo) and (pp) to read as follows:
+54 (oo) The department shall promulgate regulations for all Medicaid
+55 enrollees receiving services through a fee-for-service model pursuant to
+56 section forty-four hundred three-f of the public health law that include
+
+S. 2332--A 3
+1 the establishment and operation of care coordination entities to promote
+2 continuity of care and coordination of services to ensure that each
+3 enrollee has an ongoing source of care appropriate to their needs as
+4 required by 42 CFR § 438.208. Such regulations shall provide for a
+5 minimum number of care coordination entities in order to ensure enrollee
+6 choice. There shall be a minimum of two care coordination entities per
+7 county. The regulations shall include conflict-free case management
+8 protections to ensure that assessment and coordination of services are
+9 separate from the delivery of those services. In selecting providers of
+10 case management services, the department shall prioritize providers with
+11 proven experience serving populations receiving home and personal care
+12 services.
+13 (pp) The department shall conduct an evaluation of the viability of
+14 utilizing care coordination entities operating pursuant to this section
+15 for assessments or reassessments required for determining an individ-
+16 ual's needs for services that are controlled by the independent assessor
+17 established pursuant to subdivision ten of section three hundred sixty-
+18 five-a of this title.
+19 § 4. Stakeholder engagement. 1. The commissioner of health shall
+20 convene an advisory group composed of stakeholder representatives which
+21 shall seek input from representatives of home and community-based long
+22 term care services providers, including representative associations,
+23 recipients, the department of health, local social services districts,
+24 and the direct care workforce, among others, to:
+25 (a) further evaluate and promote the transition of persons in receipt
+26 of home and community-based long term care services into fee-for-service
+27 arrangements, where appropriate, and to develop guidelines for such
+28 care; and
+29 (b) determine a process to transition providers, including but not
+30 limited to licensed home care services agencies, certified home health
+31 agencies, and fiscal intermediaries, to a fee-for-service reimbursement
+32 system.
+33 2. In implementing the transition to a fee-for-service model the
+34 commissioner of health, in consultation with the advisory group, shall,
+35 to the extent practicable, consider and select programs and policies
+36 that seek to maximize continuity of care and minimize disruption to the
+37 provider labor workforce, and shall continue to support providers,
+38 licensed home care services agencies, and fiscal intermediaries that are
+39 based on a commitment to quality and value; provided that nothing in
+40 this subdivision shall supersede or invalidate any contracts or awards
+41 provided to fiscal intermediaries pursuant to subdivision 4-a of section
+42 365-f of the social services law, provided that the provisions of subdi-
+43 vision 4-b of section 365-f of the social services law shall still
+44 apply, or contracts or awards provided to licensed home care services
+45 agencies pursuant to section 3605-c of the public health law.
+46 3. The commissioner of health shall report biannually on the implemen-
+47 tation of this section. The reports shall include, but not be limited
+48 to: (a) satisfaction of enrollees with care coordination/case management
+49 and timeliness of care; (b) service utilization data including changes
+50 in the level, hours, frequency, and types of services and providers; (c)
+51 enrollment data; (d) quality data; and (e) continuity of care for
+52 participants as they move out of managed long term care and into the
+53 fee-for-service model. The commissioner shall publish the report on the
+54 department's website and provide notice to the temporary president of
+55 the senate, the speaker of the assembly, the chair of the senate stand-
+56 ing committee on health and the chair of the assembly health committee.
+
+S. 2332--A 4
+1 4. The commissioner of health shall seek input from representatives of
+2 home and community-based long term care services providers, recipients,
+3 and the Medicaid managed care advisory review panel, among others, to
+4 assist in the development of guidelines for the establishment and opera-
+5 tion of care coordination entities pursuant to section 4403-f of the
+6 public health law. The guidelines shall be finalized and posted on the
+7 department of health's website no later than November first, two thou-
+8 sand twenty-seven.
+9 § 5. Paragraph (o) of subdivision 2 of section 365-a of the social
+10 services law, as added by chapter 659 of the laws of 1997, is amended to
+11 read as follows:
+12 (o) care and services furnished by a [managed long term care plan or
+13 approved managed long term care demonstration pursuant to the provisions
+14 of] PACE or MAP plan as such terms are defined by section forty-four
+15 hundred three-f of the public health law to eligible individuals [resid-
+16 ing in the geographic area] served by such entity, when such services
+17 are furnished in accordance with an agreement with the department of
+18 health and meet the applicable requirements of federal law and regu-
+19 lation.
+20 § 6. Subparagraph (iii) of paragraph (e) of subdivision 2 of section
+21 365-a of the social services law, as amended by section 36-a of part B
+22 of chapter 57 of the laws of 2015, is amended to read as follows:
+23 (iii) the commissioner shall provide assistance to persons receiving
+24 services under this paragraph who are transitioning to receiving care
+25 from a [managed long term care plan certified pursuant to] PACE or MAP
+26 plan as such terms are defined by section forty-four hundred three-f of
+27 the public health law, consistent with subdivision thirty-one of section
+28 three hundred sixty-four-j of this title;
+29 § 7. Subdivision 10 of section 365-a of the social services law, as
+30 amended by section 25 of part B of chapter 57 of the laws of 2025, is
+31 amended to read as follows:
+32 10. The department of health shall establish or procure the services
+33 of an independent assessor or assessors no later than October 1, 2022,
+34 in a manner and schedule as determined by the commissioner of health, to
+35 take over from local departments of social services[,] and Medicaid
+36 Managed Care providers, [and Medicaid managed long term care plans]
+37 including a MAP plan, or a PACE plan if the PACE plan elects to utilize
+38 the independent assessor as such terms are defined by section forty-four
+39 hundred three-f of the public health law, the performance of assessments
+40 and reassessments required for determining individuals' needs for
+41 personal care services, including as provided through the consumer
+42 directed personal assistance program, and other services or programs
+43 available pursuant to the state's medical assistance program as deter-
+44 mined by such commissioner for the purpose of improving efficiency,
+45 quality, and reliability in assessment [and to determine individuals'
+46 eligibility for Medicaid managed long term care plans]. Notwithstanding
+47 the provisions of section one hundred sixty-three of the state finance
+48 law, or sections one hundred forty-two and one hundred forty-three of
+49 the economic development law, or any contrary provision of law,
+50 contracts may be entered or the commissioner may amend and extend the
+51 terms of a contract awarded prior to the effective date and entered into
+52 to conduct enrollment broker and conflict-free evaluation services for
+53 the Medicaid program, if such contract or contract amendment is for the
+54 purpose of procuring such assessment services from an independent asses-
+55 sor. Contracts entered into, amended, or extended pursuant to this
+56 subdivision shall not remain in force beyond September 30, [2025] 2028.
+
+S. 2332--A 5
+1 § 8. Paragraph (d) of subdivision 1 of section 218 of the elder law,
+2 as amended by section 1 of chapter 259 of the laws of 2018, is amended
+3 to read as follows:
+4 (d) "Long-term care facilities" shall mean residential health care
+5 facilities as defined in subdivision three of section twenty-eight
+6 hundred one of the public health law; adult care facilities as defined
+7 in subdivision twenty-one of section two of the social services law,
+8 including those adult homes and enriched housing programs licensed as
+9 assisted living residences, pursuant to article forty-six-B of the
+10 public health law; or any facilities which hold themselves out or adver-
+11 tise themselves as providing assisted living services and which are
+12 required to be licensed or certified under the social services law or
+13 the public health law. Within the amounts appropriated therefor, "long-
+14 term care facilities" shall also mean [managed long-term care plans and
+15 approved managed long-term care or operating demonstrations] a PACE or
+16 MAP plan as such terms are defined in section forty-four hundred three-f
+17 of the public health law and the term "resident", "residents", "patient"
+18 and "patients" shall also include enrollees of such plans.
+19 § 9. Subdivisions (a), (c), (d), (f), the opening paragraph of subdi-
+20 vision (g) and subdivision (h) of section 13.40 of the mental hygiene
+21 law, subdivisions (a), (d), (f) and the opening paragraph of subdivision
+22 (g) as added by section 72-b of part A of chapter 56 of the laws of
+23 2013, subdivision (c) as amended by section 17 of part Z of chapter 57
+24 of the laws of 2018, and subdivision (h) as added by section 1 of part D
+25 of chapter 58 of the laws of 2014, are amended to read as follows:
+26 (a) The commissioner and the commissioner of health shall jointly
+27 establish a people first waiver program for purposes of developing a
+28 care coordination model that integrates various long-term habilitation
+29 supports and/or health care. The people first waiver program shall
+30 include the use of developmental disability individual support and care
+31 coordination organizations, herein referred to as DISCOs, pursuant to
+32 section forty-four hundred three-g of the public health law, health
+33 maintenance organizations, herein referred to as HMOs, providing
+34 services under subdivision eight of section forty-four hundred three of
+35 the public health law, and [managed] long term care [plans, herein
+36 referred to as MLTCs] options, providing or coordinating services under
+37 [subdivisions twelve, thirteen and fourteen of] section forty-four
+38 hundred three-f of the public health law. Services shall be provided as
+39 described in section forty-four hundred three-g of the public health
+40 law, subdivision eight of section forty-four hundred three of the public
+41 health law, and [subdivisions twelve, thirteen and fourteen of] section
+42 forty-four hundred three-f of the public health law.
+43 (c) No person with a developmental disability who is receiving or
+44 applying for medical assistance and who is receiving, or eligible to
+45 receive, services operated, funded, certified, authorized or approved by
+46 the office, shall be required to enroll in a DISCO, HMO or [MLTC] long
+47 term care option in order to receive such services until program
+48 features and reimbursement rates are approved by the commissioner and
+49 the commissioner of health, and until such commissioners determine that
+50 a sufficient number of plans that are authorized to coordinate care for
+51 individuals pursuant to this section or that are authorized to operate
+52 and to exclusively enroll persons with developmental disabilities pursu-
+53 ant to subdivision twenty-seven of section three hundred sixty-four-j of
+54 the social services law are operating in such person's county of resi-
+55 dence to meet the needs of persons with developmental disabilities, and
+56 that such entities meet the standards of this section. No person shall
+
+S. 2332--A 6
+1 be required to enroll in a DISCO, HMO or [MLTC] long term care option in
+2 order to receive services operated, funded, certified, authorized or
+3 approved by the office until there are at least two entities operating
+4 under this section in such person's county of residence, unless federal
+5 approval is secured to require enrollment when there are less than two
+6 such entities operating in such county. Notwithstanding the foregoing or
+7 any other law to the contrary, any health care provider: (i) enrolled in
+8 the Medicaid program and (ii) rendering hospital services, as such term
+9 is defined in section twenty-eight hundred one of the public health law,
+10 to an individual with a developmental disability who is enrolled in a
+11 DISCO, HMO or [MLTC] long term care option, or a prepaid health services
+12 plan operating pursuant to section forty-four hundred three-a of the
+13 public health law, including, but not limited to, an individual who is
+14 enrolled in a plan authorized by section three hundred sixty-four-j [or]
+15 of the social services law, shall accept as full reimbursement the nego-
+16 tiated rate or, in the event that there is no negotiated rate, the rate
+17 of payment that the applicable government agency would otherwise pay for
+18 such rendered hospital services.
+19 (d) DISCOs, HMOs and [MLTCs] long term care options operating under
+20 this section shall ensure, to the greatest extent practicable, that
+21 their assessment, services, and the grievance and appeals processes are
+22 culturally and linguistically competent.
+23 (f) There shall be a joint advisory council chaired by the commission-
+24 er and the commissioner of health that shall be charged with advising
+25 both commissioners in regard to the oversight of DISCOs, HMOs providing
+26 services under subdivision eight of section forty-four hundred three of
+27 the public health law, and [MLTCs] long term care options providing
+28 services under [subdivisions twelve, thirteen and fourteen of] section
+29 forty-four hundred three-f of the public health law. The joint advisory
+30 council may be comprised of the members of existing advisory councils or
+31 similar entities serving the office, provided that it shall be comprised
+32 of twelve members, including individuals with developmental disabili-
+33 ties, family members of, advocates for, and providers of services to
+34 people with developmental disabilities. Three members of the joint advi-
+35 sory council shall also be members of the special advisory review panel
+36 on medicaid managed care established under section three hundred sixty-
+37 four-jj of the social services law. The joint advisory council shall
+38 review all managed care options provided to individuals with develop-
+39 mental disabilities, including: the adequacy of habilitation services;
+40 the record of compliance with person-centered planning, person-centered
+41 services and community integration; the adequacy of rates paid to
+42 providers in accordance with the provisions of [paragraph one of subdi-
+43 vision four of] section forty-four hundred three of the public health
+44 law, paragraph [a-two] (a-2) of subdivision eight of section forty-four
+45 hundred three of the public health law or [paragraph a-two of subdivi-
+46 sion twelve of] section forty-four hundred three-f of the public health
+47 law; and quality of life, health, safety and community integration of
+48 individuals with developmental disabilities enrolled in managed care.
+49 The commissioner and commissioner of the office for people with develop-
+50 mental disabilities or their designees shall attend all meetings of the
+51 joint advisory council. The joint advisory council shall report its
+52 findings, recommendations, and any proposed amendments to pertinent
+53 sections of the law to the commissioner and the commissioner of health,
+54 the senate majority leader and speaker of the assembly. The joint advi-
+55 sory council shall have access to any and all information that may be
+
+S. 2332--A 7
+1 lawfully disclosed to it and that is necessary to perform its functions
+2 under this section.
+3 Notwithstanding any inconsistent provision of sections one hundred
+4 twelve and one hundred sixty-three of the state finance law, or section
+5 one hundred forty-two of the economic development law, or any other law
+6 to the contrary, the commissioner and the commissioner of health are
+7 authorized to enter into a contract or contracts under section forty-
+8 four hundred three-g of the public health law, subdivision eight of
+9 section forty-four hundred three of the public health law, and [subdivi-
+10 sion twelve of] section forty-four hundred three-f of the public health
+11 law, provided, however, that:
+12 (h) Consistent with and subject to the terms of federal approval, the
+13 commissioner shall establish the managed care for persons with develop-
+14 mental disabilities advocacy program, hereinafter referred to as the
+15 advocacy program. The activities of the advocacy program shall be coor-
+16 dinated with the independent Medicaid managed care ombuds services
+17 provided to persons with disabilities enrolling in Medicaid managed
+18 care. The advocacy program shall advise individuals of applicable rights
+19 and responsibilities, provide information and assistance to address the
+20 needs of individuals with disabilities, and pursue legal, administrative
+21 and other appropriate remedies or approaches to ensure the protection of
+22 and advocacy for the rights of the enrollees. The advocacy program shall
+23 provide support to eligible individuals with developmental disabilities
+24 enrolling in developmental disability individual support and care coor-
+25 dination organizations pursuant to section forty-four hundred three-g of
+26 the public health law, health maintenance organizations providing
+27 services pursuant to subdivision eight of section forty-four hundred
+28 three of the public health law, [managed long term care plans] long term
+29 care options providing services under [subdivisions twelve, thirteen and
+30 fourteen of] section forty-four hundred three-f of the public health
+31 law, and fully integrated dual advantage plans providing services under
+32 subdivision twenty-seven of section three hundred sixty-four-j of the
+33 social services law. The commissioner shall select an independent organ-
+34 ization or organizations to provide advocacy services under this subdi-
+35 vision.
+36 § 10. Paragraph (c) of subdivision 6 of section 2801-e of the public
+37 health law, as amended by chapter 257 of the laws of 2005, is amended to
+38 read as follows:
+39 (c) The commissioner may, as necessary, waive existing methodologies
+40 for determining public need under this article, article thirty-six of
+41 this chapter and article seven of the social services law[, as well as
+42 enrollment limitations under section forty-four hundred three-f of this
+43 chapter,] to accommodate permanent conversions of beds to other programs
+44 or services on the basis that any such increases in capacity are linked
+45 to commensurate reductions in the number of residential health care
+46 facility beds.
+47 § 11. The opening paragraph of paragraph (ccc) of subdivision 1 of
+48 section 2807-v of the public health law, as amended by section 12 of
+49 part C of chapter 57 of the laws of 2023, is amended to read as follows:
+50 Funds shall be deposited by the commissioner, within amounts appropri-
+51 ated, and the state comptroller is hereby authorized and directed to
+52 receive for the deposit to the credit of the state special revenue funds
+53 - other, HCRA transfer fund, medical assistance account, or any succes-
+54 sor fund or account, for purposes of funding the state share of
+55 increases in the rates for certified home health agencies, long term
+56 home health care programs, AIDS home care programs, hospice programs and
+
+S. 2332--A 8
+1 [managed] long term care [plans and approved managed long term care
+2 operating demonstrations as defined in] options in section forty-four
+3 hundred three-f of this chapter for recruitment and retention of health
+4 care workers pursuant to subdivisions nine and ten of section thirty-six
+5 hundred fourteen of this chapter from the tobacco control and insurance
+6 initiatives pool established for the following periods in the following
+7 amounts:
+8 § 12. Section 2807-x of the public health law is REPEALED.
+9 § 13. Subdivision 8 of section 3605 of the public health law, as
+10 amended by section 49 of part D of chapter 56 of the laws of 2012, is
+11 amended to read as follows:
+12 8. Agencies licensed pursuant to this section but not certified pursu-
+13 ant to section [three thousand six hundred eight] thirty-six hundred
+14 eight of this article, shall not be qualified to participate as a home
+15 health agency under the provisions of title XVIII or XIX of the federal
+16 Social Security Act provided, however, an agency which has a contract
+17 with a state agency or its locally designated office or, as specified by
+18 the commissioner, with a managed care organization participating in the
+19 managed care program established pursuant to section three hundred
+20 sixty-four-j of the social services law or with a [managed long term
+21 care plan established pursuant to] PACE or MAP plan as such terms are
+22 defined by section forty-four hundred three-f of this chapter, may
+23 receive reimbursement under title XIX of the federal Social Security
+24 Act.
+25 § 14. The opening paragraph of subdivision 9 of section 3614 of the
+26 public health law, as amended by section 56 of part A of chapter 56 of
+27 the laws of 2013, is amended to read as follows:
+28 Notwithstanding any law to the contrary, the commissioner shall,
+29 subject to the availability of federal financial participation, adjust
+30 medical assistance rates of payment for certified home health agencies
+31 for such services provided to children under eighteen years of age and
+32 for services provided to a special needs population of medically complex
+33 and fragile children, adolescents and young disabled adults by a CHHA
+34 operating under a pilot program approved by the department, long term
+35 home health care programs, AIDS home care programs established pursuant
+36 to this article, hospice programs established under article forty of
+37 this chapter and for [managed] long term care [plans and approved
+38 managed long term care operating demonstrations as defined in] options
+39 under section forty-four hundred three-f of this chapter. Such adjust-
+40 ments shall be for purposes of improving recruitment, training and
+41 retention of home health aides or other personnel with direct patient
+42 care responsibility in the following aggregate amounts for the following
+43 periods:
+44 § 15. Paragraph (a) of subdivision 10 of section 3614 of the public
+45 health law, as amended by section 57 of part A of chapter 56 of the laws
+46 of 2013, is amended to read as follows:
+47 (a) Such adjustments to rates of payments shall be allocated propor-
+48 tionally based on each certified home health agency, long term home
+49 health care program, AIDS home care and hospice program's home health
+50 aide or other direct care services total annual hours of service
+51 provided to medicaid patients, as reported in each such agency's most
+52 recently available cost report as submitted to the department or for the
+53 purpose of the [managed] long term care [program] option a suitable
+54 proxy developed by the department in consultation with the interested
+55 parties. Payments made pursuant to this section shall not be subject to
+56 subsequent adjustment or reconciliation; provided that such adjustments
+
+S. 2332--A 9
+1 to rates of payments to certified home health agencies shall only be for
+2 that portion of services provided to children under eighteen years of
+3 age and for services provided to a special needs population of medically
+4 complex and fragile children, adolescents and young disabled adults by a
+5 CHHA operating under a pilot program approved by the department.
+6 § 16. Paragraph (b) of subdivision 2 of section 4409 of the public
+7 health law, as added by section 5 of part NN of chapter 57 of the laws
+8 of 2023, is amended to read as follows:
+9 (b) The department is authorized to address to any health maintenance
+10 organization, and [managed long term care plan with a certificate of
+11 authority pursuant to] a PACE or MAP plan as such terms are defined by
+12 section forty-four hundred three-f of this article, or officers thereof,
+13 any inquiry in relation to its contracts with providers and other enti-
+14 ties providing covered services to the health maintenance
+15 organization's, or [managed long term care plan's] PACE or MAP plans'
+16 enrollees, including but not limited to the rates of payment and payment
+17 terms and conditions therein. Every entity or person so addressed shall
+18 reply in writing to such inquiry promptly and truthfully, and such reply
+19 shall be, if required by the department, signed by such individual, or
+20 by such officer or officers of a corporation, as the department shall
+21 designate, and affirmed by them as true under penalty of perjury. Fail-
+22 ure to comply with the requirements of this section shall be subject to
+23 civil penalties under section twelve of this chapter. Each day after the
+24 deadline established by the department for reply until such time that
+25 the provider submits a good faith response shall be considered a sepa-
+26 rate and subsequent violation. In accordance with the process outlined
+27 in this paragraph, employers shall provide any documents or materials in
+28 the employer's possession, custody, or control that are requested by the
+29 department as needed to support or verify the employer's reply.
+30 § 17. Subparagraph (i) of paragraph (e) of subdivision 3 of section
+31 364-j of the social services law, as amended by section 38 of part A of
+32 chapter 56 of the laws of 2013, is amended to read as follows:
+33 (i) an individual dually eligible for medical assistance and benefits
+34 under the federal Medicare program; provided, however, nothing herein
+35 shall: (a) require an individual enrolled in a [managed] long term care
+36 [plan] option, pursuant to section forty-four hundred three-f of the
+37 public health law, to disenroll from such program; or (b) make enroll-
+38 ment in a Medicare managed care plan a condition of the individual's
+39 participation in the managed care program pursuant to this section, or
+40 affect the individual's entitlement to payment of applicable Medicare
+41 managed care or [fee for service] fee-for-service coinsurance and deduc-
+42 tibles by the individual's managed care provider.
+43 § 18. Paragraphs (b) and (c) of subdivision 27 of section 364-j of
+44 the social services law, as added by section 72 of part A of chapter 56
+45 of the laws of 2013, are amended to read as follows:
+46 (b) The FIDA program shall provide targeted populations of
+47 [medicare/medicaid] Medicare/Medicaid dually eligible persons with
+48 comprehensive health services that include the full range of [medicare]
+49 Medicare and [medicaid] Medicaid covered services, including but not
+50 limited to primary and acute care, prescription drugs, behavioral health
+51 services, care coordination services, and long-term supports and
+52 services, as well as other services, through managed care providers, as
+53 defined in subdivision one of this section[, including managed long term
+54 care plans, certified pursuant to section forty-four hundred three-f of
+55 the public health law].
+
+S. 2332--A 10
+1 (c) Under the FIDA program established pursuant to this subdivision,
+2 up to three managed [long term] care plans may be authorized to exclu-
+3 sively enroll individuals with developmental disabilities, as such term
+4 is defined in section 1.03 of the mental hygiene law. The commissioner
+5 of health may waive any of the department's regulations as such commis-
+6 sioner, in consultation with the commissioner of the office for people
+7 with developmental disabilities, deems necessary to allow such managed
+8 [long term] care plans to provide or arrange for service for individuals
+9 with developmental disabilities that are adequate and appropriate to
+10 meet the needs of such individuals and that will ensure their health and
+11 safety. The commissioner of the office for people with developmental
+12 disabilities may waive any of the office for people with developmental
+13 disabilities' regulations as such commissioner, in consultation with the
+14 commissioner of health, deems necessary to allow such managed [long
+15 term] care plans to provide or arrange for services for individuals with
+16 developmental disabilities that are adequate and appropriate to meet the
+17 needs of such individuals and that will ensure their health and safety.
+18 § 19. Subdivision 31 of section 364-j of the social services law, as
+19 added by section 36-b of part B of chapter 57 of the laws of 2015, is
+20 amended to read as follows:
+21 31. [(a)] The commissioner shall require managed care providers under
+22 this section, [managed long-term care plans] a PACE or MAP plan as such
+23 terms are defined under section forty-four hundred three-f of the public
+24 health law and other appropriate long-term service programs to adopt
+25 expedited procedures for approving personal care services for a medical
+26 assistance recipient who requires immediate personal care or consumer
+27 directed personal assistance services pursuant to paragraph (e) of
+28 subdivision two of section three hundred sixty-five-a of this title or
+29 section three hundred sixty-five-f of this title, respectively, or other
+30 long-term care, and provide such care or services as appropriate, pend-
+31 ing approval by such provider or program.
+32 § 20. Paragraphs (a) and (c) of subdivision 32 of section 364-j of the
+33 social services law, as amended by section 1 of part KKK of chapter 56
+34 of the laws of 2020, are amended to read as follows:
+35 (a) The commissioner, or for the purposes of subparagraph (iv) of
+36 paragraph (c) of this subdivision, the Medicaid inspector general in
+37 consultation with the commissioner, may, in [his or her] their
+38 discretion, apply penalties to managed care organizations subject to
+39 this section and article forty-four of the public health law, including
+40 [managed long term care plans] a PACE or MAP plan as such terms are
+41 defined by section forty-four hundred three-f of the public health law,
+42 for untimely or inaccurate submission of encounter data; provided howev-
+43 er, no penalty shall be assessed if the managed care organization or a
+44 PACE or MAP plan submits, in good faith, timely and accurate data and a
+45 material amount of such data is not successfully received by the depart-
+46 ment as a result of department system failures or technical issues that
+47 are beyond the control of the managed care organization.
+48 (c) (i) Penalties assessed pursuant to this subdivision against a
+49 managed care organization other than a [managed long term care plan
+50 certified pursuant to] PACE or MAP plan as such terms are defined by
+51 section forty-four hundred three-f of the public health law shall be as
+52 follows:
+53 (A) for encounter data submitted or resubmitted past the deadlines set
+54 forth in the model contract, the Medicaid capitated premiums shall be
+55 reduced by one-third percent; [and]
+
+S. 2332--A 11
+1 (B) for incomplete or inaccurate encounter data, evaluated at a cate-
+2 gory of service level, that fails to conform to department developed
+3 benchmarks for completeness and accuracy, the Medicaid capitated premi-
+4 ums shall be reduced by one and one-third percent; and
+5 (C) for submitted data that results in a rejection rate in excess of
+6 ten percent of department developed volume benchmarks, the Medicaid
+7 capitated premiums shall be reduced by one-third percent.
+8 (ii) Penalties assessed pursuant to this [subdivisions] subdivision
+9 against a [managed] long term care [plan] option certified pursuant to
+10 section forty-four hundred three-f of the public health law shall be as
+11 follows:
+12 (A) for encounter data submitted or resubmitted past the deadlines set
+13 forth in the model contract, the Medicaid capitated premiums shall be
+14 reduced by one-quarter percent;
+15 (B) for incomplete or inaccurate encounter data, evaluated at a cate-
+16 gory of service level, that fails to conform to department developed
+17 benchmarks for completeness and accuracy, the Medicaid capitated premi-
+18 ums shall be reduced by one percent; and
+19 (C) for submitted data that results in a rejection rate in excess of
+20 ten percent of department developed volume benchmarks, the Medicaid
+21 capitated premiums shall be reduced by one-quarter percent.
+22 (iii) For incomplete or inaccurate encounter data, identified in the
+23 course of an audit, investigation or review by the Medicaid inspector
+24 general, the Medicaid capitated premiums shall be reduced by an addi-
+25 tional one percent.
+26 § 21. Paragraph (x) of subdivision (b) of section 364-jj of the social
+27 services law, as amended by section 39 of part C of chapter 60 of the
+28 laws of 2014, is amended to read as follows:
+29 (x) in accordance with the recommendations of the joint advisory coun-
+30 cil established pursuant to section 13.40 of the mental hygiene law,
+31 advise the commissioners of health and developmental disabilities with
+32 respect to the oversight of DISCOs and of health maintenance organiza-
+33 tions and [managed] long term care [plans] options providing services
+34 authorized, funded, approved or certified by the office for people with
+35 developmental disabilities, and review all managed care options provided
+36 to persons with developmental disabilities, including: the adequacy of
+37 support for habilitation services; the record of compliance with
+38 requirements for person-centered planning, person-centered services and
+39 community integration; the adequacy of rates paid to providers in
+40 accordance with the provisions of [paragraph 1 of] subdivision four of
+41 section forty-four hundred three of the public health law, paragraph
+42 (a-2) of subdivision eight of section forty-four hundred three of the
+43 public health law or [paragraph (a-2) of subdivision twelve of] section
+44 forty-four hundred three-f of the public health law; and the quality of
+45 life, health, safety and community integration of persons with develop-
+46 mental disabilities enrolled in managed care; and
+47 § 22. Subdivision 6 of section 365-f of the social services law, as
+48 added by section 50 of part D of chapter 56 of the laws of 2012, is
+49 amended to read as follows:
+50 6. Notwithstanding any inconsistent provision of this section or any
+51 other contrary provision of law, managed care programs established
+52 pursuant to section three hundred sixty-four-j of this title and
+53 [managed] long term care [plans] options and other care coordination
+54 models established pursuant to section [four thousand four] forty-four
+55 hundred three-f of the public health law shall offer consumer directed
+56 personal assistance programs to enrollees.
+
+S. 2332--A 12
+1 § 23. Paragraph (a) of subdivision 4 of section 365-h of the social
+2 services law, as amended by section 2 of part LL of chapter 56 of the
+3 laws of 2020, is amended to read as follows:
+4 (a) The commissioner of health is authorized to assume responsibility
+5 from a local social services official for the provision and reimburse-
+6 ment of transportation costs under this section. If the commissioner
+7 elects to assume such responsibility, the commissioner shall notify the
+8 local social services official in writing as to the election, the date
+9 upon which the election shall be effective and such information as to
+10 transition of responsibilities as the commissioner deems prudent. The
+11 commissioner is authorized to contract with a transportation manager or
+12 managers to manage transportation services in any local social services
+13 district, other than transportation services provided or arranged for
+14 enrollees of [managed long term care plans issued certificates of
+15 authority under] a PACE or MAP plan as defined by section forty-four
+16 hundred three-f of the public health law. Any transportation manager or
+17 managers selected by the commissioner to manage transportation services
+18 shall have proven experience in coordinating transportation services in
+19 a geographic and demographic area similar to the area in New York state
+20 within which the contractor would manage the provision of services under
+21 this section. Such a contract or contracts may include responsibility
+22 for: review, approval and processing of transportation orders; manage-
+23 ment of the appropriate level of transportation based on documented
+24 patient medical need; and development of new technologies leading to
+25 efficient transportation services. If the commissioner elects to assume
+26 such responsibility from a local social services district, the commis-
+27 sioner shall examine and, if appropriate, adopt quality assurance meas-
+28 ures that may include, but are not limited to, global positioning track-
+29 ing system reporting requirements and service verification mechanisms.
+30 Any and all reimbursement rates developed by transportation managers
+31 under this subdivision shall be subject to the review and approval of
+32 the commissioner.
+33 § 24. Subparagraph (vi) of paragraph (b) of subdivision 4 of section
+34 365-h of the social services law, as added by section 2 of part LL of
+35 chapter 56 of the laws of 2020, is amended to read as follows:
+36 (vi) Responsibility for transportation services provided or arranged
+37 for enrollees of [managed] long term care [plans issued certificates of
+38 authority] options under section forty-four hundred three-f of the
+39 public health law, not including a program designated as a Program of
+40 All-Inclusive Care for the Elderly (PACE) as authorized by Federal
+41 Public law 1053-33, subtitle I of title IV of the Balanced Budget Act of
+42 1997, and, at the commissioner's discretion, other plans that integrate
+43 benefits for dually eligible Medicare and Medicaid beneficiaries based
+44 on a demonstration by the plan that inclusion of transportation within
+45 the benefit package will result in cost efficiencies and quality
+46 improvement, shall be transferred to a transportation management broker
+47 that has a contract with the commissioner in accordance with this para-
+48 graph. Providers of adult day health care may elect to, but shall not be
+49 required to, use the services of the transportation management broker.
+50 § 25. Subdivision 14 of section 366 of the social services law, as
+51 amended by section 1 of part NN of chapter 57 of the laws of 2021, is
+52 amended to read as follows:
+53 14. The commissioner of health may make any available amendments to
+54 the state plan for medical assistance submitted pursuant to section
+55 three hundred sixty-three-a of this title, or, if an amendment is not
+56 possible, develop and submit an application for any waiver or approval
+
+S. 2332--A 13
+1 under the federal social security act that may be necessary to disregard
+2 or exempt an amount of income, for the purpose of assisting with housing
+3 costs, for individuals receiving coverage of nursing facility services
+4 under this title, other than short-term rehabilitation services, and for
+5 individuals in receipt of medical assistance while in an adult home, as
+6 defined in subdivision twenty-five of section two of this chapter, who:
+7 are (i) discharged to the community; and (ii) if eligible, enrolled or
+8 required to enroll and have initiated the process of enrolling in a
+9 [plan certified] long term care option pursuant to section forty-four
+10 hundred three-f of the public health law; and (iii) do not meet the
+11 criteria to be considered an "institutionalized spouse" for purposes of
+12 section three hundred sixty-six-c of this title.
+13 § 26. This act shall take effect immediately; provided, however, that:
+14 (i) sections two, five, six, seven, eight, nine, ten, eleven, twelve,
+15 thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen,
+16 twenty, twenty-one, twenty-two, twenty-three, twenty-four and twenty-
+17 five of this act shall take effect upon delivery of a certificate of
+18 readiness by the commissioner of health, in consultation with the direc-
+19 tor of the division of the budget; provided, however, that the commis-
+20 sioner of health shall notify the legislative bill drafting commission
+21 upon the delivery of such certificate of readiness, in order that the
+22 commission may maintain an accurate and timely effective data base of
+23 the official text of the laws of the state of New York in furtherance of
+24 effectuating the provisions of section 44 of the legislative law and
+25 section 70-b of the public officers law. Such delivery shall occur no
+26 sooner than April 1, 2028;
+27 (ii) the amendments to paragraph (o) of subdivision 2 of section 365-a
+28 of the social services law made by section five of this act shall not
+29 affect the expiration and/or repeal of such paragraph and shall be
+30 deemed to expire therewith;
+31 (iii) the amendments to subparagraph (i) of paragraph (e) of subdivi-
+32 sion 3, paragraphs (b) and (c) of subdivision 27, subdivision 31 and
+33 paragraphs (a) and (c) of subdivision 32 of section 364-j of the social
+34 services law made by sections seventeen, eighteen, nineteen and twenty
+35 of this act shall be subject to the repeal of such section and shall
+36 expire and be deemed repealed therewith;
+37 (iv) the amendments to paragraph (x) of subdivision (b) of section
+38 364-jj of the social services law made by section twenty-one of this act
+39 shall be subject to the expiration of such section and shall expire and
+40 be deemed repealed therewith; and
+41 (v) the amendments to section 365-h of the social services law made
+42 by sections twenty-three and twenty-four of this act shall be subject to
+43 the expiration of such section and shall expire and be deemed repealed
+44 therewith.
+45 Effective immediately, the commissioner of health shall promulgate any
+46 rules and regulations and take steps, including requiring the submission
+47 of reports or surveys, submission and receipt of state plans, and neces-
+48 sary federal waivers, as may be necessary for the timely implementation
+49 of this act on such effective date.

@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - S6361A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+6361--A
+2025-2026 Regular Sessions
+IN SENATE
+March 11, 2025
+___________
+Introduced by Sen. BAILEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Consumer Protection --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the general business law, in relation to prohibiting
+unfair residential real estate service agreements
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "prohibition of unfair real estate service agreements act".
+3 § 2. Legislative intent. In an effort to protect consumers from fraud
+4 and abuse by unscrupulous actors, this act prohibits the use of real
+5 estate service agreements that are unfair to an owner of residential
+6 real estate or to other persons who may become owners of that real
+7 estate in the future, and further prohibits the recording of such resi-
+8 dential real estate service agreements so that the public records will
+9 not be clouded by them and provides remedies for owners who are incon-
+10 venienced or damaged by the recording of such agreements.
+11 § 3. The general business law is amended by adding a new article 36-E
+12 to read as follows:
+13 ARTICLE 36-E
+14 PROHIBITION OF UNFAIR REAL ESTATE SERVICE AGREEMENTS
+15 Section 778-aaa. Definitions.
+16 778-bbb. Prohibition against unfair service agreements; record-
+17 ing thereof.
+18 778-ccc. Deceptive acts and practices.
+19 778-ddd. Enforcement; action by the attorney general.
+20 778-eee. Severability.
+21 § 778-aaa. Definitions. As used in this article, the following terms,
+22 unless the context requires otherwise, shall have the following mean-
+23 ings:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05484-03-5
+
+S. 6361--A 2
+1 1. "Person" means a natural person, partnership, association, cooper-
+2 ative, corporation, trust, or other legal entity.
+3 2. "Real estate service agreement" means a written contract under
+4 which a person agrees to provide services in connection with the mainte-
+5 nance of or purchase or sale of residential real estate.
+6 3. "Recording" means presenting a document to a recording officer,
+7 whether the county clerk of the county or the register of the county,
+8 consistent with the real property law.
+9 4. "Residential real estate" means real property located in this state
+10 which is used primarily for personal, family, or household purposes and
+11 is improved by one to four dwelling units, including condominium units.
+12 5. "Service provider" means an individual or entity that provides
+13 services to a person.
+14 6. (a) "Unfair real estate service agreement" means any real estate
+15 service agreement that is not to be performed within two years after the
+16 time it is entered into and either:
+17 (i) purports to run with the land or to be binding on future owners of
+18 interests in the real property; or
+19 (ii) allows for assignment of the right to provide service without
+20 notice to and consent of the owner of residential real estate; or
+21 (iii) purports to create a lien, encumbrance, or other real property
+22 security interest, other than a mechanics lien properly issued pursuant
+23 to the provisions of the lien law.
+24 (b) Notwithstanding the foregoing, an agreement shall not be consid-
+25 ered an unfair real estate service agreement if it is a valid:
+26 (i) home warranty or similar product that covers the cost of mainte-
+27 nance of a major home system for a fixed period;
+28 (ii) insurance contract;
+29 (iii) option or right of refusal to purchase the residential real
+30 estate;
+31 (iv) declaration created in the formation of a common interest commu-
+32 nity or an amendment thereto;
+33 (v) maintenance or repair agreement entered by a homeowners' associ-
+34 ation in a common interest community;
+35 (vi) mortgage loan or a commitment to make or receive a mortgage loan;
+36 (vii) security agreement under the uniform commercial code relating to
+37 the sale or rental of personal property or fixtures; or
+38 (viii) contract with a water, sewer, electrical, telephone, cable, or
+39 other regulated utility service provider.
+40 § 778-bbb. Prohibition against unfair service agreements; recording
+41 thereof. 1. No unfair real estate service agreement shall be enforceable
+42 in the state.
+43 2.(a) No person shall record or cause to be recorded an unfair real
+44 estate service agreement or notice or memorandum thereof.
+45 (b) If an unfair real estate service agreement is recorded in this
+46 state, it shall not provide actual or constructive notice against an
+47 otherwise bona fide purchaser or creditor.
+48 (c) If an unfair service agreement or a notice or memorandum thereof
+49 is recorded, any person with an interest in the real property that is
+50 the subject of that agreement may apply to a court in the county where
+51 the recording exists to record a court order declaring the agreement
+52 unenforceable.
+53 § 778-ccc. Deceptive acts and practices. Any person in this state who
+54 enters into or causes a consumer to enter into an unfair real estate
+55 service agreement shall be considered to have violated section three
+56 hundred forty-nine of this chapter.
+
+S. 6361--A 3
+1 § 778-ddd. Enforcement; action by the attorney general. 1.(a) Whenever
+2 the attorney general shall believe from evidence satisfactory to the
+3 attorney general that any person or agent or employee thereof has
+4 engaged in or is about to engage in any of the acts or practices stated
+5 to be unlawful pursuant to this section, the attorney general may bring
+6 an action in the name and on behalf of the people of the state of New
+7 York to enjoin such unlawful acts or practices and to obtain restitution
+8 of any moneys or property obtained directly or indirectly by any such
+9 unlawful acts or practices. In such action preliminary relief may be
+10 granted under article sixty-three of the civil practice law and rules.
+11 (b) The provisions of this article may be enforced concurrently by the
+12 director of a municipal consumer affairs office, or by the town attor-
+13 ney, city corporation counsel, or other lawful designee of a munici-
+14 pality or local government, and all moneys collected thereunder shall be
+15 retained by such municipality or local government.
+16 2. In addition to the right of action granted to the attorney general
+17 pursuant to this section, any person who has been injured by reason of
+18 any violation of this section may bring an action in their own name to
+19 enjoin such unlawful act or practice, an action to recover actual
+20 damages or five hundred dollars, whichever is greater, or both such
+21 actions. The court may, in its discretion, increase the award of damages
+22 to an amount not to exceed three times the actual damages, if the court
+23 finds the defendant willfully or knowingly violated this section. The
+24 court may award reasonable attorneys' fees to a prevailing plaintiff.
+25 § 778-eee. Severability. If any provision of this article is, for any
+26 reason, declared unconstitutional or invalid, in whole or in part, by
+27 any court of competent jurisdiction, such portion shall be deemed sever-
+28 able, and such unconstitutionality or invalidity shall not affect the
+29 validity of the remaining portions of this article, which remaining
+30 portions shall continue in full force and effect.
+31 § 4. This act shall take effect on the ninetieth day after it shall
+32 have become a law.

@@ -1,0 +1,417 @@
+Title: 
+Official Title: 
+Source: versions - S9891A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9891--A
+IN SENATE
+April 13, 2026
+___________
+Introduced by Sens. SANDERS, CLEARE -- read twice and ordered printed,
+and when printed to be committed to the Committee on Banks -- reported
+favorably from said committee and committed to the Committee on
+Consumer Protection -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to crypto kiosks
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new article 2-AAA to
+2 read as follows:
+3 ARTICLE 2-AAA
+4 CRYPTO KIOSKS
+5 Section 76-a. Definitions.
+6 76-b. Crypto kiosk and cashier crypto exchange operators.
+7 76-c. Disclosures for crypto kiosks.
+8 76-d. Disclosures required prior to completing a transaction.
+9 76-e. Transaction receipt.
+10 76-f. Customer service.
+11 76-g. Crypto kiosk transaction hold periods.
+12 76-h. Fraud refunds related to crypto kiosks.
+13 76-i. Cashier crypto transmission prohibition.
+14 76-j. Crypto kiosk or cashier crypto fees.
+15 76-k. Fraud and anti-money laundering.
+16 76-l. Blockchain analytics.
+17 76-m. Transaction limits and protections.
+18 76-n. Legal and beneficial ownership; penalties.
+19 § 76-a. Definitions. As used in this article, the following terms
+20 shall have the following meanings:
+21 1. "Virtual currency business activity" shall mean the conduct of any
+22 one of the following types of activities involving New York or a New
+23 York resident:
+24 (a) receiving virtual currency for transmission or transmitting virtu-
+25 al currency, except where the transaction is undertaken for non-finan-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15416-05-6
+
+S. 9891--A 2
+1 cial purposes and does not involve the transfer of more than a nominal
+2 amount of virtual currency;
+3 (b) storing, holding, or maintaining custody or control of virtual
+4 currency on behalf of others;
+5 (c) buying and selling virtual currency as a customer business;
+6 (d) performing exchange services as a customer business; or
+7 (e) controlling, administering, or issuing a virtual currency.
+8 The development and dissemination of software in and of itself shall
+9 not constitute virtual currency business activity.
+10 2. "Consumer" shall mean a natural person who uses a crypto kiosk
+11 regardless of whether they create an account with the operator.
+12 3. "Crypto kiosk" shall mean any electronic terminal or retail
+13 location which enables a consumer to exchange money for virtual currency
+14 including by connecting to a separate virtual currency exchange.
+15 4. "Operator" means a person that engages in virtual currency business
+16 activity via a crypto kiosk or cashier crypto exchange located in this
+17 state, or a person that owns, operates, or manages a crypto kiosk or
+18 cashier crypto exchange located in this state through which virtual
+19 currency business activity is offered. This definition applies whether
+20 or not the operator owns the kiosks or cashier crypto exchanges used in
+21 transactions, and whether the operator provides custodial or non-custo-
+22 dial services. A group or persons or entities acting in concert, includ-
+23 ing but not limited to any affiliated entities, subsidiaries, parent
+24 companies, joint ventures, partnerships, agents, or employees thereof,
+25 or any entity or individual acting at the direction of, in cooperation
+26 with, under contract or in partnership with, or financially benefitting
+27 from another person or entity shall be treated as one person for
+28 purposes of this article.
+29 5. "Cashier crypto exchange" shall mean a method of exchanging virtual
+30 currency in exchange for funds, where such funds are collected at a
+31 retailer acting as an agent or processor for such transaction.
+32 6. "Retailer" shall mean any physical location that sells goods or
+33 services to consumers for personal or commercial use.
+34 7. (a) "Virtual currency" shall mean any type of digital unit that is
+35 used as a medium of exchange or a form of digitally stored value. Virtu-
+36 al currency shall be broadly construed to include digital units of
+37 exchange that:
+38 (i) have a centralized repository or administrator;
+39 (ii) are decentralized and have no centralized repository or adminis-
+40 trator; or
+41 (iii) may be created or obtained by computing or manufacturing effort.
+42 (b) Virtual currency shall not be construed to include any of the
+43 following:
+44 (i) digital units that:
+45 (1) are used solely within online gaming platforms;
+46 (2) have no market or application outside of online gaming platforms;
+47 (3) cannot be converted into, or redeemed for, fiat currency or virtu-
+48 al currency; or
+49 (4) may or may not be redeemable for real-world goods, services,
+50 discounts, or purchases;
+51 (ii) digital units that can be redeemed for goods, services,
+52 discounts, or purchases as part of a customer affinity or rewards
+53 program with the issuer or other designated merchants or can be redeemed
+54 for digital units in another customer affinity or rewards program, but
+55 cannot be converted into, or redeemed for, fiat currency or virtual
+56 currency; or
+
+S. 9891--A 3
+1 (iii) digital units used as part of prepaid cards.
+2 8. "Funds" shall mean cash or other monetary value accepted by the
+3 crypto kiosk or cashier crypto exchange.
+4 9. "Execution" shall mean the irreversible broadcast by the operator
+5 of a transfer of virtual currency to the consumer-designated address on
+6 a blockchain.
+7 § 76-b. Crypto kiosk and cashier crypto exchange operators. 1. An
+8 operator of a crypto kiosk or cashier crypto exchange that engages in
+9 virtual currency business activity shall obtain a virtual currency
+10 license from the department and comply with all applicable requirements
+11 established by the superintendent.
+12 2. An operator shall provide, in a clear and conspicuous manner, on
+13 its website or websites, in all physical locations, and in any other
+14 location as the superintendent may prescribe, the following disclosures:
+15 (a) the operator's mailing address, email address, and telephone
+16 number for the receipt of complaints;
+17 (b) a statement that the complainant may also bring their complaint to
+18 the attention of the department;
+19 (c) the department's mailing address, website, and telephone number;
+20 and
+21 (d) such other information as the superintendent may require.
+22 3. Any provision in a contract or waiver that conflicts with or waives
+23 any provision or requirement in this section shall be deemed void and
+24 unenforceable.
+25 § 76-c. Disclosures for crypto kiosks. 1. A crypto kiosk operator
+26 shall disclose in a clear, conspicuous, and easily readable manner in
+27 the chosen language of the user, all relevant terms and conditions
+28 generally associated with the products, services, and activities of the
+29 crypto kiosk operator and virtual currency including but not limited to
+30 transaction fees collected and exchange rates used by the operator.
+31 2. Each time a user engages with a crypto kiosk, the crypto kiosk
+32 operator shall receive acknowledgement of receipt of all disclosures
+33 required under this section via confirmation of consent at the crypto
+34 kiosk.
+35 § 76-d. Disclosures required prior to completing a transaction. 1. In
+36 addition to any other disclosures required pursuant to this article,
+37 disclosures required pursuant to this section shall at a minimum include
+38 the following message, in a substantially similar form and shall be
+39 displayed prior to the consumer completing the transaction on a crypto
+40 kiosk or cashier crypto exchange, in a form, size, placement, and manner
+41 as prescribed by the department by regulation:
+42 "WARNING:
+43 IF SOMEONE ASKED YOU TO DEPOSIT MONEY IN THIS MACHINE AND/OR IS ON THE
+44 PHONE WITH YOU AND CLAIMS TO BE A:
+45 * FRIEND OR FAMILY MEMBER,
+46 * GOVERNMENT AGENT,
+47 * COMPUTER SOFTWARE REPRESENTATIVE,
+48 * BILL COLLECTOR,
+49 * LAW ENFORCEMENT OFFICER,
+50 * OR ANYONE YOU DO NOT KNOW PERSONALLY,
+51 STOP THIS TRANSACTION IMMEDIATELY AND CONTACT YOUR LOCAL LAW ENFORCE-
+52 MENT AND THE KIOSK OPERATOR. THIS MAY BE A SCAM."
+53 2. The message required by this section shall not be altered, dimin-
+54 ished, or otherwise obscured in any manner. No additional message shall
+55 appear on or near the same notice, screen, or on any screen which
+56 distracts from or is presented as related to the required message.
+
+S. 9891--A 4
+1 3. When using a crypto kiosk, the following information shall be
+2 provided to the consumer:
+3 (a) The name, address, and telephone number of the owner of the kiosk
+4 and the days, time, means by which a user can contact the owner for
+5 assistance, and any relevant state and local law enforcement and/or
+6 government agency for reporting fraud shall be displayed on or at the
+7 location of the crypto kiosk or cashier crypto exchange, or on the first
+8 screen of a crypto kiosk.
+9 (b) Any other disclosure that the department may require.
+10 § 76-e. Transaction receipt. Upon the completion of each transaction
+11 the crypto kiosk or cashier crypto exchange operator shall provide the
+12 user with paper and electronic receipts in a retainable form. The
+13 receipt shall include the following information:
+14 1. the operator's name and toll-free customer service phone number;
+15 2. relevant contact information for state and/or local law enforcement
+16 and/or government agency to report fraud;
+17 3. type, value, date, and precise time of the transaction, and each
+18 applicable virtual currency address and transaction hash where avail-
+19 able;
+20 4. all fees;
+21 5. exchange rate of the virtual currency to United States dollars;
+22 6. statement of the operator's refund policy;
+23 7. any additional information the operator may determine; and
+24 8. any additional information the department may require.
+25 § 76-f. Customer service. All crypto kiosk and cashier crypto exchange
+26 operators performing business shall provide live customer service during
+27 operating hours including the hours between 8 AM to 10 PM local time.
+28 The customer service toll-free number shall be displayed on the crypto
+29 kiosk or the crypto kiosk screens and shall be run by trained individ-
+30 uals who are employed by or on behalf of the operator, and who provide
+31 live customer assistance to a caller in real time. In the case of a
+32 cashier crypto exchange, such toll-free number shall be displayed in a
+33 conspicuous manner that is readily available to the consumer.
+34 § 76-g. Crypto kiosk transaction hold periods. 1. No person shall
+35 operate a crypto kiosk in this state unless such operator complies with
+36 the following:
+37 (a) Upon receipt of funds from a consumer in an amount of one thousand
+38 dollars or more in any twenty-four hour period, the operator shall not
+39 execute any virtual currency transmission for a hold period of seventy-
+40 two hours from the time of receipt.
+41 (b) All such funds accepted during the hold period shall be held in
+42 statutory trust for the exclusive benefit of the consumer in segregated,
+43 non-commingled accounts, shall not be encumbered or pledged, and legal
+44 and beneficial ownership shall remain with the consumer until execution
+45 in accordance with this section.
+46 (c) The operator shall aggregate a consumer's transactions across all
+47 kiosks within any twenty-four hour period for purposes of the threshold
+48 in paragraph (a) of this subdivision. Multiple transactions that exceed
+49 one thousand dollars over a twenty-four hour period shall be treated as
+50 one transaction;
+51 (d) Both on the machine and on the customer's receipt, the operator
+52 provides:
+53 (i) A current, toll-free contact number dedicated to cancellation and
+54 refund requests;
+55 (ii) The transaction identifier;
+56 (iii) The hold-period expiration timestamp; and
+
+S. 9891--A 5
+1 (iv) A clear and conspicuous notice that any amounts aggregated to one
+2 thousand dollars and over in a twenty-four hour period can be refunded
+3 upon request.
+4 (e) Any other rule or regulation established by the superintendent,
+5 which may include know your customer, anti-money laundering, and other
+6 regulations.
+7 2. The consumer may cancel their transaction at any time during the
+8 hold period using the information in paragraph (d) of subdivision one of
+9 this section and the operator shall not refuse, frustrate, or charge any
+10 fee for collection.
+11 3. Upon the consumer's timely cancellation during the hold period, the
+12 operator shall refund the full amount tendered by the consumer, includ-
+13 ing all fees, within seven business days of notice by the consumer or
+14 the consumer's representative. Refunds shall be made by check sent via
+15 certified mail to the consumer's address on file. Such amounts refunded
+16 shall be the amount deposited including any and all fees. Operators may
+17 not charge fees to issue a refund.
+18 4. Where an operator violates paragraph (b) or (c) of subdivision one
+19 of this section or subdivision three of this section, or refuses or
+20 frustrates restitution in accordance with the provisions of subdivision
+21 seven of this section, such operator shall be subject to a civil penalty
+22 of the greater of two thousand five hundred dollars or three times the
+23 amount tendered to the operator in the amount that such crypto was worth
+24 at the time of such tender, inclusive of all fees paid by the consumer,
+25 whichever is greater.
+26 5. In addition to the penalties set forth herein, where an operator
+27 fails to comply with any provision of this section, legal and beneficial
+28 ownership of the funds accepted shall be conclusively presumed to remain
+29 with the consumer, and the operator shall return the full principal and
+30 all fees within seven business days of notice by the consumer or the
+31 consumer's representative.
+32 6. Where an operator engages in a persistent course of conduct in
+33 violation of this section, the department may revoke such operator's
+34 license or charter and such operator shall be subject to a civil penalty
+35 of five hundred dollars per transaction in violation of such subdivi-
+36 sions.
+37 § 76-h. Fraud refunds related to crypto kiosks. 1. In cases related to
+38 fraud, where a crypto kiosk operator fails to comply with the provisions
+39 of sections seventy-six-g and seventy-six-k of this article, such opera-
+40 tor shall issue a refund to a consumer in the full amount of all trans-
+41 actions paid by the consumer, including, but not limited to, any fees or
+42 other charges collected in connection with the transactions, at the time
+43 of the transaction, regardless of any acknowledgments or waivers the
+44 consumer may have made prior to finalizing the transactions. Refunds
+45 shall be made in the originating currency. Operators shall not charge
+46 any fees to issue a refund.
+47 2. To receive a refund under this section, a consumer must:
+48 (a) Have engaged in one or more crypto kiosk transactions that were
+49 affected by fraud, whether the transactions were authorized or unauthor-
+50 ized;
+51 (b) Notify the crypto kiosk operator of the fraudulent nature of the
+52 transaction or transactions within ninety days after the last such tran-
+53 saction occurred or the consumer becoming aware of the fraud; and
+54 (c) Within one hundred twenty days after notifying the operator,
+55 submit to the operator a police report, government agency report, or
+
+S. 9891--A 6
+1 sworn statement describing the fraudulent nature of the transaction or
+2 transactions.
+3 3. If the conditions for a refund are met, the operator shall issue
+4 the refund within seventy-two hours after receiving the required
+5 documentation.
+6 4. For all communications relating to refunds, the operator shall
+7 provide written notices in English and Spanish, and shall communicate
+8 with the consumer in the consumer's preferred language through staff,
+9 interpretation services, and/or auxiliary aids and services.
+10 5. Any provision in a contract or waiver relating to any provision in
+11 this section shall be deemed void and unenforceable.
+12 § 76-i. Cashier crypto transmission prohibition. 1. No person or enti-
+13 ty involved in a cashier crypto exchange transaction shall permit,
+14 facilitate, or enable the transmission of virtual currency.
+15 2. A cashier crypto exchange shall be used for the sole purpose of
+16 exchanging virtual currency for United States dollars, whether in cash
+17 or deposited to a bank account.
+18 3. No cashier crypto exchange shall evade the prohibitions under this
+19 section by any device, subterfuge, or pretense.
+20 § 76-j. Crypto kiosk or cashier crypto fees. 1. The aggregate of all
+21 fees, charges, commissions, and other amounts, directly or indirectly,
+22 charged to a customer in connection with a single transaction or series
+23 of related transactions involving virtual currency effected through a
+24 crypto kiosk or cashier crypto exchange, including any difference
+25 between the price charged to the customer to buy, sell, exchange, swap,
+26 or convert virtual currency and the prevailing market value at the time
+27 of the transaction, shall not exceed three percent of the United States
+28 dollar value of the transaction.
+29 2. Where an operator violates the provisions of this section, such
+30 operator shall be subject to a civil penalty of five hundred dollars per
+31 transaction which violates this section.
+32 3. A consumer may bring a civil action to recover any amounts unlaw-
+33 fully charged in violation of this section, together with interest and
+34 statutory damages equal to the greater of one thousand dollars or three
+35 times the amount charged to the consumer.
+36 4. Any provision in a contract or waiver relating to any provision in
+37 this section shall be deemed void and unenforceable.
+38 § 76-k. Fraud and anti-money laundering. 1. All crypto kiosk operators
+39 shall take reasonable steps to detect and prevent fraud and money laun-
+40 dering, including establishing and maintaining a written anti-fraud and
+41 money laundering policy and abiding by Bank Secrecy Act, 31 U.S.C. 5311
+42 et seq., provisions.
+43 2. The anti-fraud and money laundering policy shall be filed with the
+44 department as part of an application for a license or charter and shall,
+45 at a minimum, include:
+46 (a) implementation of know your customer policies;
+47 (b) verification of the customer prior to engaging in the transaction;
+48 (c) identification and assessment of fraud and money laundering
+49 related risk areas;
+50 (d) procedures and controls to protect against identified risks;
+51 (e) allocation of responsibility for monitoring risks; and
+52 (f) procedures for the periodic evaluation and revision of the anti-
+53 fraud and money laundering procedures, controls, and monitoring mech-
+54 anisms.
+55 § 76-l. Blockchain analytics. 1. All crypto kiosk operators shall use
+56 blockchain analytics and tracing software to assist in the prevention of
+
+S. 9891--A 7
+1 sending virtual currency to a virtual currency wallet known or likely to
+2 be affiliated with fraudulent activity at the time of a transaction and
+3 to detect transaction patterns indicative of fraud or other illicit
+4 activities.
+5 2. Crypto kiosk operators shall block transactions to virtual currency
+6 wallets associated with overseas exchanges non-accessible for United
+7 States users.
+8 3. All crypto kiosk operators performing business shall provide a
+9 dedicated communications line for relevant government agencies via a
+10 posted United States phone number or email address. This dedicated line
+11 shall be used to facilitate law enforcement and regulatory agency commu-
+12 nications with the crypto kiosk and cashier crypto exchange operator in
+13 the event of a fraud report from a user. The communications line shall
+14 be frequently monitored.
+15 § 76-m. Transaction limits and protections. 1. Daily transaction
+16 limit. A crypto kiosk or cashier crypto exchange operator shall not
+17 accept transactions of more than one thousand dollars in United States
+18 dollars or the equivalent in virtual currency for any user per day
+19 across all crypto kiosks or cashier crypto exchange of such operator. In
+20 addition, the transaction limit shall not exceed ten thousand dollars in
+21 United States or the equivalent in virtual currency in any thirty-day
+22 period.
+23 2. The transaction limits and protections provided for in this act
+24 shall apply to all products or services offered by an operator through a
+25 crypto kiosk.
+26 3. Operators shall not use alternative methods, including but not
+27 limited to online portals, affiliated kiosks, or over-the-counter trans-
+28 actions, to evade or exceed the limits provided for in this section.
+29 4. Data collected by the department pursuant to this section shall be
+30 confidential and may be released only in composite form, except as
+31 otherwise provided by law.
+32 § 76-n. Legal and beneficial ownership; penalties. 1. Where an opera-
+33 tor of a crypto kiosk fails to comply with subdivision one of section
+34 seventy-six-b, section seventy-six-g, section seventy-six-k or section
+35 seventy-six-l of this article, legal and beneficial ownership of the
+36 funds accepted shall be conclusively presumed to remain with the consum-
+37 er, and the operator shall return the full principal and all fees within
+38 seven business days of notice by the consumer or the consumer's repre-
+39 sentative.
+40 2. Where an operator of a cashier crypto exchange fails to comply with
+41 subdivision one of section seventy-six-b or section seventy-six-i of
+42 this article legal and beneficial ownership of the funds accepted shall
+43 be conclusively presumed to remain with the consumer, and the operator
+44 shall return the full principal and all fees within seven business days
+45 of notice by the consumer or the consumer's representative. Where the
+46 operator fails to pay back such principal and fees in full within such
+47 period of time as described in subdivision three of section
+48 seventy-six-g of this article, the consumer shall have a private right
+49 of action to recover such funds and, upon such a finding that the opera-
+50 tor violated subdivision five of this section, such court shall award
+51 attorney's fees and costs to the consumer, including statutory damages
+52 of three times the amount required to be paid back to the consumer.
+53 3. Where an operator of a crypto kiosk or cashier crypto exchange
+54 fails to comply with any provision of this article with a specific
+55 penalty, such penalty shall be imposed on such operator. Where no penal-
+56 ty is provided, such penalty shall be the greater of one thousand
+
+S. 9891--A 8
+1 dollars per violation or two times such profits earned from such
+2 violation.
+3 4. The attorney general may bring an action in the name of the people
+4 of the state of New York to restrain or prevent any violation of this
+5 article or any continuance of any such violation and to obtain restitu-
+6 tion of any moneys or property obtained directly or indirectly by any
+7 such violation, as well as reasonable attorneys' fees.
+8 § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
+9 sion, section or part of this act shall be adjudged by any court of
+10 competent jurisdiction to be invalid, such judgment shall not affect,
+11 impair, or invalidate the remainder thereof, but shall be confined in
+12 its operation to the clause, sentence, paragraph, subdivision, section
+13 or part thereof directly involved in the controversy in which such judg-
+14 ment shall have been rendered. It is hereby declared to be the intent of
+15 the legislature that this act would have been enacted even if such
+16 invalid provisions had not been included herein.
+17 § 3. This act shall take effect on the one hundred eightieth day after
+18 it shall have become a law.

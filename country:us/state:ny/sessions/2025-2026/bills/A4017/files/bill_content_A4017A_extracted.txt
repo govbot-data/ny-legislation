@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - A4017A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4017--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 30, 2025
+___________
+Introduced by M. of A. McDONALD, KAY, SANTABARBARA, WOERNER, CONRAD,
+REYES, LEE, YEGER, NOVAKHOV, SIMPSON, GALLAHAN, HAWLEY, CHANG, MAGNAR-
+ELLI, SCHIAVONI, COLTON, P. CARROLL, BUTTENSCHON, LUNSFORD, BURROUGHS,
+BEEPHAN, MANKTELOW, MORINELLO, ANGELINO, McDONOUGH, PALMESANO, BAILEY,
+CHLUDZINSKI, DeSTEFANO, PIROZZOLO, KASSAY, LEMONDES, GRIFFIN, MOLITOR,
+FALL, BURDICK, LEVENBERG, ROMERO, GALLAGHER, SIMON, SAYEGH, McMAHON,
+BENDETT, GIGLIO, GRAY -- read once and referred to the Committee on
+Consumer Affairs and Protection -- recommitted to the Committee on
+Consumer Affairs and Protection in accordance with Assembly Rule 3,
+sec. 2 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to the calcu-
+lation of interchange fees charged by credit card networks
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 42-A to read as follows:
+3 ARTICLE 42-A
+4 INTERCHANGE FEES
+5 Section 1120. Definitions.
+6 1121. Calculation of interchange fees.
+7 1122. Rebate of fees on tax amount.
+8 1123. Penalties.
+9 § 1120. Definitions. For purposes of this article:
+10 1. "Credit card" means a card, plate, coupon book, or other credit
+11 device existing for the purpose of obtaining money, property, labor, or
+12 services on credit.
+13 2. "Debit card":
+14 (a) means a card, or other payment code or device, issued or approved
+15 for use through a payment card network to debit an asset account,
+16 regardless of the purpose for which the account is established, whether
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04674-03-6
+
+A. 4017--A 2
+1 authorization is based on signature, personal identification number, or
+2 other means; and
+3 (b) includes a general-use prepaid card, as defined in 15 U.S.C. §
+4 1693l-1; and
+5 (c) does not include paper checks.
+6 3. "Electronic payment transaction" means a transaction in which a
+7 consumer uses a debit card, credit card, or other payment code or
+8 device, issued or approved through a payment card network to debit a
+9 deposit account or use a line of credit, whether authorization is based
+10 on a signature, personal identification number, or other means.
+11 4. "Interchange fee" means a fee established, charged, or received by
+12 a payment card network for the purpose of compensating the issuer for
+13 its involvement in an electronic payment transaction.
+14 5. "Issuer" means a person issuing a debit card or credit card, or the
+15 issuer's agent.
+16 6. "Payment card network" means an entity that:
+17 (a) directly, or through licensed members, processors, or agents
+18 provides the proprietary services, infrastructure, and software that
+19 routes information and data to conduct debit card or credit card trans-
+20 action authorization, clearance, and settlement; and
+21 (b) a merchant or seller uses in order to accept as a form of payment
+22 a brand of debit card, credit card, or other device that may be used to
+23 carry out debit or credit transactions.
+24 7. "Settlement" means the transfer of funds from a customer's account
+25 to a seller or merchant upon electronic submission of finalized sales
+26 transactions to the payment card network.
+27 § 1121. Calculation of interchange fees. 1. The amount of a state or
+28 local tax or fee that is calculated as a percentage of an electronic
+29 payment transaction amount and listed separately on the payment invoice
+30 or other demand for payment must be excluded from the amount on which an
+31 interchange fee is charged for that electronic payment transaction. Such
+32 taxes and fees include, but are not limited to:
+33 (a) sales and compensating use taxes under article twenty-eight of the
+34 tax law;
+35 (b) hotel and motel and occupancy taxes under article twenty-nine of
+36 the tax law;
+37 (c) taxes on alcoholic beverages under article eighteen of the tax
+38 law;
+39 (d) tax on gasoline and motor fuel under article twelve-A of the tax
+40 law;
+41 (e) tax on petroleum businesses under article thirteen-A of the tax
+42 law;
+43 (f) tax on fuel use under article twenty-one-A of the tax law;
+44 (g) rental vehicle taxes under article twenty-eight-A of the tax law;
+45 and
+46 (h) gratuities.
+47 2. A payment card network may not alter or manipulate the computation
+48 and imposition of interchange fees by increasing the rate or amount of
+49 the fees applicable to or imposed upon the portion of a credit or debit
+50 card transaction not attributable to the sales tax or gratuity amount or
+51 other fees charged to the retailer to circumvent the effect of this
+52 article.
+53 § 1122. Rebate of fees on tax amount. 1. A payment card network shall
+54 either:
+
+A. 4017--A 3
+1 (a) deduct the amount of any tax or gratuities imposed from the calcu-
+2 lation of interchange fees specific to each form or type of electronic
+3 payment transaction at the time of settlement; or
+4 (b) rebate an amount of interchange fee proportionate to the amount
+5 attributable to the tax or fee and/or gratuities.
+6 2. A deduction or rebate must occur at the time of settlement when the
+7 merchant or seller is able to capture and transmit tax or fee and/or
+8 gratuity amounts relevant to the sale at the time of sale as part of the
+9 transaction finalization.
+10 3. If a merchant or seller is unable to capture and transmit tax or
+11 fee and/or gratuity amounts relevant to the sale at the time of sale,
+12 then the payment card network shall accept proof of tax or fee amounts
+13 collected on sales subject to an interchange fee upon the submission of
+14 sales data by the merchant or seller and promptly credit the merchant or
+15 seller's settlement account.
+16 § 1123. Penalties. A payment card network that violates this article
+17 is subject to a civil penalty of not more than one thousand dollars per
+18 violation and shall also refund the surcharge to each merchant or seller
+19 from whom such fees were collected.
+20 § 2. This act shall take effect on the first of July next succeeding
+21 the date on which it shall have become a law.
