@@ -1,0 +1,261 @@
+Title: 
+Official Title: 
+Source: versions - A10281A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10281--A
+IN ASSEMBLY
+February 20, 2026
+___________
+Introduced by M. of A. ALVAREZ -- read once and referred to the Commit-
+tee on Ways and Means -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the tax law, in relation to establishing a tax on video
+streaming services; and to amend the state finance law, in relation to
+establishing the media arts technology and education fund
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "technolo-
+2 gy, education and arts through media act" or "TEAM NY Act".
+3 § 2. Legislative intent. This act establishes the Media Arts Technolo-
+4 gy and Education Fund to promote access to broadband, community media,
+5 arts, and technology throughout the State. The Fund is supported by
+6 contributions from video streaming services, ensuring that these provid-
+7 ers contribute to the expansion of digital infrastructure and local
+8 resources for all New Yorkers in a manner that is comparable to cable
+9 television companies' support for these facilities and services.
+10 § 3. The tax law is amended by adding a new article 15 to read as
+11 follows:
+12 ARTICLE 15
+13 VIDEO STREAMING TAX
+14 Section 330. Definitions.
+15 331. Imposition and collection of a tax on video streaming
+16 services.
+17 § 330. Definitions. As used in this article, the following terms shall
+18 have the following meanings:
+19 1. "Community media organization" means an entity that is responsible
+20 for:
+21 (a) operating and administering a public access channel, as defined in
+22 N.Y. Comp. Codes R. & Regs. tit. 16 § 895.4(c)(1); and/or
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14554-06-6
+
+A. 10281--A 2
+1 (b) operating and administering educational and/or governmental access
+2 channels, as defined in N.Y. Comp. Codes R. & Regs. tit. 16 §
+3 895.4(c)(2).
+4 2. "Gross receipts" means all consideration of any kind or nature
+5 received by a video streaming service provider, or an affiliate of such
+6 video streaming service provider, in connection with the provision,
+7 delivery, or furnishing of video streaming service to subscribers or
+8 customers within the state, determined according to the hierarchy
+9 described in section three hundred thirty-one of this article. Gross
+10 receipts shall not include:
+11 (a) revenue not actually received, regardless of whether it is billed,
+12 including, but not limited to, bad debts;
+13 (b) revenue from the sale of capital assets or surplus equipment not
+14 used by the purchaser to receive video streaming service from the video
+15 streaming service provider; or
+16 (c) charges, other than charges for video streaming services, that are
+17 aggregated or bundled with video streaming services on a subscriber or
+18 customer's bill, if the video streaming service provider can reasonably
+19 and separately identify the charges in its books and records kept in the
+20 regular course of business.
+21 3. "Person" means an individual, partnership, limited liability compa-
+22 ny, trust or association, with or without transferable shares, joint-
+23 stock company, corporation, society, club, organization, institution,
+24 estate, receiver, trustee, assignee or referee and any other person
+25 acting in a fiduciary or representative capacity, whether appointed by a
+26 court or otherwise, and any combination of individuals acting as a unit.
+27 The term "person", unless expressly provided otherwise, does not
+28 include:
+29 (a) a governmental entity or a unit or instrumentality of a govern-
+30 mental entity; or
+31 (b) any entity exempt from sales and compensating use taxes pursuant
+32 to paragraph four of subdivision (a) of section eleven hundred sixteen
+33 of this chapter.
+34 4. "State" means the state of New York.
+35 5. "Subscriber" or "customer" means any person or member of the gener-
+36 al public who receives video streaming service from a video streaming
+37 service provider and does not further distribute such service in the
+38 ordinary course of business.
+39 6. "Video programming" means programming provided by, or comparable to
+40 programming provided by, a television broadcast station including, but
+41 not limited to, video programming provided by local networks, national
+42 broadcast networks, cable television networks and all forms of pay-per-
+43 view or on-demand video entertainment.
+44 7. "Video streaming service" means the distribution, broadcasting, or
+45 provision of video programming displayed by the viewer for a fee on a
+46 subscription basis. The term video streaming service, unless expressly
+47 provided otherwise, does not include cable service as defined by 47
+48 U.S.C. § 522(6).
+49 8. "Video streaming service provider" means a person who transmits,
+50 broadcasts or otherwise provides, delivers, furnishes, or makes avail-
+51 able video streaming service to subscribers or customers in the state.
+52 § 331. Imposition and collection of a tax on video streaming services.
+53 1. There is hereby imposed on every video streaming service provider a
+54 tax equal to five percent of such provider's gross receipts in the
+55 state.
+
+A. 10281--A 3
+1 2. The commissioner shall promulgate regulations by December thirty-
+2 first, two thousand twenty-six, to establish procedures determining
+3 video streaming service providers' gross receipts from subscribers or
+4 customers in the state, including the hierarchy of sourcing methods
+5 based on:
+6 (a) the customer's primary use location of the video streaming
+7 service; and
+8 (b) the customer's billing address.
+9 3. The tax authorized in this section shall be for each year, or part
+10 of each year, that such video streaming service provider is engaged in
+11 the provision, delivery, or furnishing of video streaming services to
+12 subscribers or customers in the state.
+13 4. (a) Every video streaming service provider subject to tax under
+14 this section shall, on or before April fifteenth of each year, for years
+15 beginning on or after January first, two thousand twenty-six:
+16 (i) file a return for the year ended on the preceding December thir-
+17 ty-first, which return shall state the gross receipts for the period
+18 covered by each such return, and
+19 (ii) pay the tax due.
+20 (b) Returns shall be filed with the commissioner on a form to be
+21 furnished by the commissioner for such purpose and shall contain such
+22 other data, information or matter as the commissioner may require to be
+23 included therein.
+24 (c) Notwithstanding the foregoing provisions of this subdivision, the
+25 commissioner may require any video streaming service provider to file an
+26 annual return, which shall contain any data specified by the commission-
+27 er, regardless of whether such provider is subject to taxation under
+28 this section.
+29 (d) Video streaming service providers subject to assessment under this
+30 section may not include the amount of the tax on bills as a pass-through
+31 to subscribers or customers. The tax under this article is imposed upon
+32 video streaming service providers, and providers may not misrepresent or
+33 mislead subscribers or customers regarding the person responsible for
+34 the tax.
+35 5. (a) A video streaming service provider who fails to file a return
+36 or to pay any tax due under this article within thirty days of the time
+37 required pursuant to this article (determined with regard to any exten-
+38 sion of time for filing or paying) shall be subject to a penalty of ten
+39 percent of the amount of the tax determined to be due, plus five percent
+40 of such amount for each subsequent month or fraction thereof during
+41 which such failure continues, not to exceed thirty percent in the aggre-
+42 gate.
+43 (b) In the event of an underpayment of the tax owed, the commissioner
+44 shall set the underpayment rate of interest to be paid, but the under-
+45 payment rate shall not be less than seven and one-half percent per
+46 annum, compounded daily. If no such rate of interest is set, such under-
+47 payment rate shall be deemed to be set at seven and one-half percent per
+48 annum, compounded daily. Any such rate set by the commissioner shall
+49 apply to taxes, or any portion thereof, which remain or become due or
+50 underpaid on or after the date on which such rates become effective and
+51 shall apply only with respect to interest computed or computable for
+52 periods or portions of periods occurring in the period during which such
+53 rates are in effect.
+54 6. Every video streaming service provider subject to taxation under
+55 this section shall keep such records of its business and in such form as
+56 the commissioner may require, and such records shall be preserved for a
+
+A. 10281--A 4
+1 period of three years, except that the commissioner may consent to their
+2 destruction within that period or may require that they be kept longer.
+3 7. All revenue received pursuant to this section shall be deposited
+4 into the media arts technology and education fund established by section
+5 ninety-nine-m of the tax law; provided that the commissioner may retain
+6 up to ten percent of the moneys collected annually for operational
+7 expenditures.
+8 § 4. The state finance law is amended by adding a new section 99-m to
+9 read as follows:
+10 § 99-m. Media arts technology and education fund. 1. There is hereby
+11 established in the joint custody of the comptroller and the commissioner
+12 of taxation and finance a special fund to be known as the "media arts
+13 technology and education fund".
+14 2. For purposes of this section, the following terms shall have the
+15 following meanings:
+16 (a) "Community media organization" has the meaning set forth in
+17 section three hundred thirty of the tax law.
+18 (b) "Municipal class" shall mean one of the following categories of
+19 local government within the state: counties not wholly contained within
+20 a city, cities, towns, and villages.
+21 (c) "Other qualified organization" means an organization that is not a
+22 community media organization and that, as determined by the commissioner
+23 of taxation and finance pursuant to paragraph (b) of subdivision five of
+24 this section, provides one or more of the following services:
+25 (i) creating and/or facilitating access to local non-profit news
+26 and/or media;
+27 (ii) improving digital equity and inclusion, including digital litera-
+28 cy;
+29 (iii) fostering and/or advancing local arts, culture, and creativity;
+30 and/or
+31 (iv) planning and/or constructing infrastructure needed for communi-
+32 cations connectivity.
+33 (d) "Population" shall mean the population as shown by the most recent
+34 decennial federal census completed and published as a final population
+35 count by the United States bureau of the census preceding the commence-
+36 ment of the state fiscal year in which the moneys are distributed pursu-
+37 ant to this section, provided that, for purposes of calculating distrib-
+38 utions within a municipal class pursuant to subdivision five of this
+39 section, the population of a city shall mean the total population within
+40 such city; the population of a village shall mean the total population
+41 within such village; the population of a town shall exclude the popu-
+42 lation of any village within such town; and the population of a county
+43 shall exclude the population of any city or village within such county.
+44 3. The fund shall consist of all moneys collected for the tax imposed
+45 on video streaming services pursuant to section three hundred thirty-one
+46 of the tax law and all other moneys appropriated, credited or trans-
+47 ferred thereto from any other fund or source pursuant to law.
+48 4. Moneys in the fund shall be kept separate and shall not be commin-
+49 gled with any other moneys in the custody of the comptroller. All depos-
+50 its of such moneys shall be secured by obligations of the United States
+51 or of the state of market value equal at all times to the amount of the
+52 deposit and all banks and trust companies are authorized to give such
+53 securities for such deposits.
+54 5. (a) Moneys in the fund shall be distributed to the state, munici-
+55 palities, community media organizations, and other qualified organiza-
+56 tions as provided in this section.
+
+A. 10281--A 5
+1 (b) The commissioner of taxation and finance shall promulgate regu-
+2 lations necessary to implement the provisions of this section, including
+3 regulations to establish procedures for identifying, on an annual basis:
+4 (i) community media organizations eligible to receive moneys distrib-
+5 uted pursuant to this section, and the municipality or municipalities
+6 served by each community media organization; and
+7 (ii) other qualified organizations eligible to receive moneys distrib-
+8 uted pursuant to this section and the allocation formula or other meth-
+9 odology for determining which other qualified organizations will receive
+10 moneys and in what amount.
+11 (c) Moneys in the fund shall be annually distributed according to the
+12 following formula and the regulations of the commissioner of taxation
+13 and finance:
+14 (i) three-tenths of the moneys in the fund, less the moneys retained
+15 by the commissioner for operational expenditures, shall be distributed
+16 to the state general fund;
+17 (ii) three-tenths of the moneys in the fund shall be distributed
+18 directly to municipalities within each municipal class in the state.
+19 The commissioner shall apportion such moneys among the municipal classes
+20 in proportion to the aggregate population of each class, and shall
+21 distribute funds to each municipality in proportion to the population of
+22 each such municipality within each class.
+23 (iii) three-tenths of the moneys in the fund shall be distributed
+24 directly to identified community media organizations. The commissioner
+25 shall apportion such moneys in proportion to the population of each
+26 municipal class served by each such organization, except that for commu-
+27 nity media organizations serving New York city, the commissioner shall
+28 apportion such moneys equally to each community media organization
+29 based on the population of New York city divided by the number of
+30 community media organizations serving any portion of New York city; and
+31 (iv) one-tenth of the moneys in the fund shall be distributed to other
+32 qualified organizations identified pursuant to regulations promulgated
+33 by the commissioner of taxation and finance, in the amounts determined
+34 pursuant to such regulations.
+35 6. Moneys shall be payable from the fund on the audit and warrant of
+36 the comptroller on vouchers approved and certified by the commissioner
+37 of taxation and finance.
+38 § 5. This act shall take effect immediately and shall apply to tax
+39 years beginning on and after January 1, 2027.

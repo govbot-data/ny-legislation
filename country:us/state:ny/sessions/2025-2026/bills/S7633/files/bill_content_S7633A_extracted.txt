@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - S7633A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7633--A
+2025-2026 Regular Sessions
+IN SENATE
+April 24, 2025
+___________
+Introduced by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+when printed to be committed to the Committee on Judiciary -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the New York city civil court act, in relation to
+actions and proceedings seeking an abatement of rent based on
+violations of the housing maintenance code or the warranty of habita-
+bility
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision (a) of section 110 of the New York city civil
+2 court act is amended by adding a new paragraph 10 to read as follows:
+3 (10) Actions and proceedings seeking an abatement of rent based on
+4 violations of the housing maintenance code, applicable housing stand-
+5 ards, building code, health code or section two hundred thirty-five-b of
+6 the real property law. Such abatements shall be granted beginning at the
+7 time when the violation commenced until the violation is corrected. For
+8 the purposes of this provision, "violation" shall mean any condition
+9 that would give rise to a violation of the housing maintenance code,
+10 applicable local and state housing standards, the building code, the
+11 health code, or the multiple dwelling law.
+12 § 2. Section 110 of the New York city civil court act is amended by
+13 adding a new subdivision (r) to read as follows:
+14 (r) (1) Abatements shall be calculated based on the diminished value
+15 of the premises during the period of the breach as follows:
+16 (i) For each non-hazardous violation, not less than twenty percent of
+17 the rent;
+18 (ii) For each hazardous violation, not less than thirty percent of the
+19 rent; and
+20 (iii) For each immediately hazardous violation, not less than sixty
+21 percent of the rent.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11478-02-5
+
+S. 7633--A 2
+1 (2) The court may, in its discretion, grant a greater abatement than
+2 that anticipated by the minimum standards in paragraph one of this
+3 subdivision on account of the duration of the diminution in value and
+4 the severity of the violations.
+5 (3) For any violation for which the provisions in paragraph one would
+6 not apply, the abatement granted shall equal the difference between the
+7 rent reserved under the lease and the value of the premises during the
+8 period of the breach.
+9 § 3. This act shall take effect on the ninetieth day after it shall
+10 have become a law.

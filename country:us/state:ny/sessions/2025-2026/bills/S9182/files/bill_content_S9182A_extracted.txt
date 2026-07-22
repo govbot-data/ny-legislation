@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - S9182A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9182--A
+IN SENATE
+February 11, 2026
+___________
+Introduced by Sens. MAY, ADDABBO, FAHY, KRUEGER, SALAZAR, WEBB -- read
+twice and ordered printed, and when printed to be committed to the
+Committee on Energy and Telecommunications -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public authorities law, the economic development
+law, the general municipal law and the environmental conservation law,
+in relation to enacting the "stop subsidizing data centers act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "stop subsidizing data centers act".
+3 § 2. Section 2 of the public authorities law is amended by adding a
+4 new subdivision 7 to read as follows:
+5 7. "data center" shall mean a facility primarily housing computer
+6 systems of the kind typically associated with telecommunications and/or
+7 data storage infrastructure.
+8 § 3. Section 187 of the economic development law is amended by adding
+9 a new subdivision (h) to read as follows:
+10 (h) Notwithstanding any other provision of law, no application for
+11 economic power allocation shall be approved under this section where
+12 such allocation would be for the operation of a data center, as defined
+13 by section two of the public authorities law.
+14 § 4. Paragraph (a) of subdivision 13-a of section 1005 of the public
+15 authorities law, as added by section 3 of part CC of chapter 60 of the
+16 laws of 2011, is amended to read as follows:
+17 (a) Notwithstanding any other provision of law to the contrary, but
+18 subject to the terms and conditions of federal energy regulatory commis-
+19 sion licenses, to allocate, reallocate or extend, directly or by sale
+20 for resale, up to nine hundred ten megawatts of recharge New York power
+21 to eligible applicants located within the state of New York upon the
+22 recommendation of the New York state economic development power allo-
+23 cation board pursuant to section one hundred eighty-eight-a of the
+24 economic development law; provided, however, that no such allocation
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14850-04-6
+
+S. 9182--A 2
+1 shall be approved where such allocation would be for the operation of a
+2 data center.
+3 § 5. The opening paragraph of paragraph (a) of subdivision 13 of
+4 section 1005 of the public authorities law, as amended by chapter 645 of
+5 the laws of 2006, is amended to read as follows:
+6 Criteria for eligibility for expansion, replacement and preservation
+7 power. Each application for an allocation for expansion, replacement or
+8 preservation power shall be evaluated by the trustees under the criteria
+9 [which] provided under this paragraph; provided, however, that no appli-
+10 cation for allocation for expansion, replacement or preservation power
+11 shall be approved where such allocation would be for the operation of a
+12 data center. The criteria to be evaluated by the trustees for applica-
+13 tions for allocation for expansion, replacement or preservation power
+14 shall include but need not be limited to:
+15 § 6. Section 874 of the general municipal law is amended by adding a
+16 new subdivision 13 to read as follows:
+17 (13) (a) Any agreement executed by an agency providing financial
+18 assistance to a data center project shall include provisions requiring
+19 the return of all or part of such financial assistance, including all or
+20 part of the amount of any tax exemptions, where the recipient fails to
+21 create or maintain the number of full-time jobs identified in the
+22 project application or agreement within five years of project
+23 completion. Such agreement shall provide for mandatory claw back of
+24 financial assistance upon a material shortfall in job creation or
+25 retention, as determined by the agency pursuant to written standards
+26 adopted by such agency.
+27 (b) Any recipient of financial assistance for a data center project
+28 shall submit an annual certification of compliance with the applicable
+29 job creation and retention requirements established pursuant to para-
+30 graph (a) of this subdivision for a period of five years following
+31 project completion.
+32 (c) Financial assistance shall not be awarded for any data center
+33 project in an amount exceeding twenty-five thousand dollars for each
+34 full-time job anticipated to be created by such project, as indicated in
+35 the project application.
+36 (d) Financial assistance shall not be awarded for any data center
+37 project that, upon completion, is capable of consuming more than twenty
+38 megawatts during normal operations.
+39 (e) For the purposes of this subdivision:
+40 (i) the term "financial assistance" shall include, but not be limited
+41 to, sales tax exemptions, mortgage recording tax exemptions, and real
+42 property tax exemptions; and
+43 (ii) the term "data center" shall have the same meaning as defined by
+44 section two of the public authorities law.
+45 § 7. Subdivision 6 of section 8-0111 of the environmental conservation
+46 law, as added by chapter 612 of the laws of 1975, is amended to read as
+47 follows:
+48 6. Lead Agency. When an action is to be carried out or approved by two
+49 or more agencies, the determination of whether the action may have a
+50 significant effect on the environment shall be made by the lead agency
+51 having principal responsibility for carrying out or approving such
+52 action and such agency shall prepare, or cause to be prepared by
+53 contract or otherwise, the environmental impact statement for the action
+54 if such a statement is required by this article. In the event that there
+55 is a question as to which is the lead agency, any agency may submit the
+56 question to the commissioner and the commissioner shall designate the
+
+S. 9182--A 3
+1 lead agency, giving due consideration to the capacity of such agency to
+2 fulfill adequately the requirements of this article. The department
+3 shall be the mandatory lead agency for any action capable of consuming
+4 over fifty megawatts during normal operations.
+5 § 8. Section 8-0109 of the environmental conservation law is amended
+6 by adding a new subdivision 10 to read as follows:
+7 10. An environmental impact statement shall be prepared for any action
+8 found to be located within ten miles of a federally recognized Indian
+9 nation's territory. Prior to the preparation of such environmental
+10 impact statement, the applicant shall consult with such Indian nation,
+11 and include any comments submitted by such Indian nation pursuant to
+12 such consultation in its environmental impact statement.
+13 § 9. This act shall take effect on the one hundred eightieth day after
+14 it shall have become a law. Effective immediately, the addition, amend-
+15 ment and/or repeal of any rule or regulation necessary for the implemen-
+16 tation of this act on its effective date are authorized to be made and
+17 completed on or before such effective date.
