@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - A2133A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2133--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 15, 2025
+___________
+Introduced by M. of A. ROSENTHAL -- read once and referred to the
+Committee on Environmental Conservation -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the environmental conservation law, in relation to
+prohibiting the sale of medical solution containers made with PVC,
+intentionally added DEHP, and establishes acceptable limits for unin-
+tentionally added DEHP
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 37 of the environmental conservation law is amended
+2 by adding a new title 8 to read as follows:
+3 TITLE VIII
+4 MEDICAL SOLUTION CONTAINERS
+5 Section 37-0801. Definitions.
+6 37-0803. Medical solution containers.
+7 § 37-0801. Definitions.
+8 For purposes of this title, the following terms shall have the follow-
+9 ing meanings:
+10 1. "DEHP" means Di(2-ethylhexyl) phthalate.
+11 2. "Intentionally added DEHP" means DEHP that a manufacturer has
+12 intentionally added to an intravenous or other specified medical
+13 solution container or medical tubing product and that has a functional
+14 or technical effect on the product.
+15 3. "Medical solution container" means a container used to house medi-
+16 cine, fluid, or nutrition therapy that is administered intravenously or
+17 through the mouth, nose, stomach or intestines to patients in a hospi-
+18 tal, outpatient, or other health care facility.
+19 4. "Medical tubing" means any tubing used to administer fluids, medi-
+20 cation, or nutrients directly to an adult, child, or infant, including:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02500-06-5
+
+A. 2133--A 2
+1 (a) intravenous tubing used to administer fluids, medication or paren-
+2 teral nutrition directly into the bloodstream of an adult, child or
+3 infant; and
+4 (b) medical tubing used to deliver enteral nutrition or medication to
+5 a patient's digestive system.
+6 5. "Ortho-phthalates" means a class of chemicals that are esters of
+7 ortho-phthalic acid.
+8 6. "PVC" means polyvinyl chloride, the polymerization of a vinyl chlo-
+9 ride monomer, and is also known as poly(1-chloroethylene), or polychlo-
+10 roethene.
+11 7. "Unintentionally added DEHP" means DEHP in an intravenous or speci-
+12 fied medical solution container or medical tubing product that is not
+13 used for a functional or technical effect on the product.
+14 § 37-0803. Medical solution containers.
+15 1. Beginning January first, two thousand thirty, no person or entity
+16 shall manufacture, sell, or distribute into commerce in New York medical
+17 solution containers made with PVC or intentionally added DEHP.
+18 2. Beginning January first, two thousand thirty-three, no person or
+19 entity shall manufacture, sell, or distribute into commerce in New York
+20 medical tubing made with PVC or intentionally added DEHP.
+21 3. No person or entity shall replace DEHP, pursuant to this title, for
+22 revised or new products with other ortho-phthalates.
+23 4. A medical solution container or medical tubing product shall not
+24 have unintentionally added DEHP present at a quantity at or above 0.1
+25 percent weight per weight (%w/w).
+26 § 2. This act shall take effect immediately.

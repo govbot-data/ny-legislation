@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - A8202A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8202--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 5, 2025
+___________
+Introduced by M. of A. EPSTEIN, LEVENBERG -- read once and referred to
+the Committee on Governmental Operations -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee
+AN ACT to amend the executive law, in relation to directing state agen-
+cies to adopt an embodied carbon decarbonization program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The executive law is amended by adding a new section 170-j
+2 to read as follows:
+3 § 170-j. Embodied carbon decarbonization program. 1. For the purposes
+4 of this section, the following terms shall have the following meanings:
+5 (a) "affected entities" shall mean any agency or department over which
+6 the governor has executive authority, including all offices and divi-
+7 sions thereof, as well as all public authorities for which the governor
+8 appoints the chair, the chief executive, or the majority of the board
+9 members, including all offices and divisions thereof, except for the
+10 port authority of New York and New Jersey. "Affected entities" shall
+11 also include the state university of New York and the city university of
+12 New York;
+13 (b) "common construction materials" shall mean:
+14 (i) concrete, including ready mix concrete, shotcrete, precast
+15 concrete, and concrete masonry units;
+16 (ii) asphalt paving mixtures;
+17 (iii) steel, including rebar, reinforcing steel and structural steel,
+18 hot-rolled sections, hollow sections, plate steel and cold-formed steel;
+19 (iv) any other materials the office of general services designates by
+20 rule and reviews every three years;
+21 (c) "new construction" shall mean the construction of a new building
+22 that is occupied during all four seasons and is five thousand square
+23 feet or larger; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11392-05-5
+
+A. 8202--A 2
+1 (d) "product and facility-specific environmental product declarations"
+2 shall mean a type III environmental product declaration, as defined by
+3 the international organization for standardization 8 standard 14025,
+4 representing a single product from a single manufacturing facility.
+5 2. Beginning in two thousand twenty-six, the office of general
+6 services shall continue to issue operational directives and guidance for
+7 common construction materials to reduce the amount of embodied carbon in
+8 such materials. Affected entities shall seek to reduce the embodied
+9 carbon in all new construction or construction projects consisting of
+10 adaptive reuse or significant renovations that cost greater than one
+11 million dollars, submitted for permitting by affected entities, by
+12 taking the following actions:
+13 (a) design teams shall calculate the total embodied carbon that will
+14 result from the project, including shipping, transportation, and
+15 construction equipment requirements;
+16 (b) bidders shall be required to submit product and facility-specific
+17 environmental product declarations, that include the amount of embodied
+18 carbon in given building materials; and
+19 (c) product- and facility-specific environmental product declarations
+20 for products submitted for bid and installation shall comply with maxi-
+21 mum global warming potential limits defined by the office of general
+22 services.
+23 § 2. This act shall take effect immediately.

@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - A10305A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10305--A
+IN ASSEMBLY
+February 20, 2026
+___________
+Introduced by M. of A. PAULIN -- read once and referred to the Committee
+on Corporations, Authorities and Commissions -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public service law, in relation to protections
+against termination of residential utility service in cases of medical
+emergencies, life-support equipment and elderly, blind or disabled
+customers
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subdivision 3 of section 32 of the public service law, as
+2 added by chapter 713 of the laws of 1981, paragraph (a) as amended by
+3 chapter 382 of the laws of 2006, is amended to read as follows:
+4 3. The commission shall safeguard from termination, or require resto-
+5 ration of service to, those residents who will suffer serious impair-
+6 ments to health or safety as a result of such termination or failure to
+7 restore services[. The regulations shall include, but not be limited to:
+8 (a) Medical emergencies. The commission shall require the continuation
+9 or restoration of utility service to a customer's residence where a
+10 medical emergency exists. The commission shall provide for written
+11 certification by a medical doctor, nurse practitioner or local board of
+12 health that termination of service or failure to restore service will
+13 aggravate an existing medical emergency at a customer's residence,
+14 provided that the commission may authorize an initial certification by
+15 telephone if written certification is provided within five business
+16 days. The commission shall provide for the duration, form, content and
+17 renewal of written certificates. With respect to the renewal of written
+18 certificates, the commission may require the customer to demonstrate an
+19 inability to pay charges for service. The commission shall, in consulta-
+20 tion with the departments of health and social services and the office
+21 for the aging, establish criteria to be used by a medical doctor, nurse
+22 practitioner or local board of health in making a determination that a
+23 medical emergency exists or that the absence of service will aggravate
+24 an existing medical emergency.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14906-02-6
+
+A. 10305--A 2
+1 (b) Customers who are elderly, blind, or disabled. The commission
+2 shall provide special procedures to be followed by a utility or munici-
+3 pality with respect to the termination or restoration of service to a
+4 residence where the customer is known to or identified to the utility to
+5 be blind, disabled, or sixty-two years of age or older; provided that
+6 all the remaining residents of the household are sixty-two years of age
+7 or older, eighteen years of age or under, or blind or disabled. The
+8 commission shall afford reasonable protections to elderly, blind or
+9 disabled customers, including a requirement that the utility corporation
+10 or municipality make a diligent effort to contact by telephone or in
+11 person an adult resident at the customer's premises at least seventy-two
+12 hours prior to termination of service. The commission shall also estab-
+13 lish reasonable procedures for identifying customers eligible for the
+14 protections of this section] by establishing and implementing uniform
+15 definitions, standardized procedures, and uniform applications or forms,
+16 for determining a medical emergency, life-support equipment, and elder-
+17 ly, blind and disabled designation, to be used by utility corporations.
+18 For the purposes of this subdivision, these protections shall apply to
+19 the residential utility account whenever any resident of the household
+20 meets one or more of the criteria, regardless of whether the customer of
+21 record, or any other household member, does not meet all of such crite-
+22 ria.
+23 (a) The commission shall use the following definitions to safeguard
+24 utility customers from service terminations and to require restoration
+25 of service:
+26 (i) "medical emergency" shall mean documentation from a state licensed
+27 medical professional stating that loss of electric service would aggra-
+28 vate an existing medical condition;
+29 (ii) "life-support equipment" shall mean any device or medical equip-
+30 ment necessary to sustain life or prevent serious deterioration of
+31 health; and
+32 (iii) "elderly, blind or disabled" shall mean a household in which one
+33 or more members is over the age of sixty-two or is blind or disabled.
+34 (b) The commission shall develop and mandate the use of simplified,
+35 standardized applications or forms to designate accounts for medical
+36 emergency, life-support equipment, and the designation of elderly, blind
+37 or disabled, by utility corporations.
+38 (c) Utility corporations shall accept applications or forms for desig-
+39 nating accounts as medical emergency, life-support equipment, or elder-
+40 ly, blind or disabled, submitted by a licensed medical provider or
+41 submitted by the customer directly, without requiring disclosure of
+42 detailed health information beyond confirmation of medical necessity.
+43 Utility corporations shall not require financial documentation for the
+44 initial thirty-day medical emergency. Subsequent financial verification
+45 shall comply with the home energy fair practices act and minimize
+46 burdensome requirements.
+47 (d) Utility corporations shall accept applications or forms for
+48 medical emergency, life-support equipment, and elderly, blind or disa-
+49 bled designation via email, regular mail, in-person delivery, online
+50 accounts, a dedicated online portal for such purpose and facsimile.
+51 (e) Utility corporations shall review and act upon submitted applica-
+52 tions or forms under this subdivision, within five business days of
+53 receipt. Failure to act within such timeframe shall result in automatic
+54 approval of the requested account designation.
+55 (f) Utility corporations shall not request detailed medical records or
+56 information beyond what is defined in this section or deny life-support
+
+A. 10305--A 3
+1 equipment account designation based on internal interpretation of
+2 medical necessity.
+3 (g)(i) Every utility corporation shall, on an annual basis, provide to
+4 the commission:
+5 (1) the total number of customers who applied for medical emergency,
+6 life-support equipment and elderly, blind or disabled designation;
+7 (2) the total number of customers who were approved for each customer
+8 account designation;
+9 (3) the total number of customers who were denied for each account
+10 designation; and
+11 (4) any other relevant information as determined by the commission.
+12 (ii) By July first, two thousand twenty-seven and annually thereafter,
+13 the commission shall issue a report to the governor and the legislature
+14 containing such information, and make such report available to the
+15 public on its website.
+16 [(c) Special procedures for cold weather periods.] (h) (i) The commis-
+17 sion shall establish procedures to be followed by a utility or munici-
+18 pality supplying heat related service in cold weather periods. Such
+19 procedures shall be designed to identify and assist, prior to termi-
+20 nation of service, those residents who may suffer serious impairment to
+21 health or safety as a result of any such termination. The commission
+22 shall establish the applicable cold weather periods; specify criteria
+23 for identifying residents who are likely to suffer serious impairments,
+24 and require that such service not be terminated unless a representative
+25 of the utility or municipality makes a diligent effort to contact by
+26 telephone or in person an adult resident of the customer's premises at
+27 least seventy-two hours prior to termination, makes a personal visit at
+28 the time of termination and provides the customer with information
+29 regarding the protections available under this article. The commission
+30 shall provide for the manner in which such contacts and personal visits
+31 are made. (ii) The commission shall also require a utility or munici-
+32 pality supplying service to continue service to customers where a seri-
+33 ous impairment to health or safety is likely to result from termination
+34 of service and the person supplied is unable because of mental or phys-
+35 ical problems to manage [his or her] their own resources or to protect
+36 [himself or herself] themself from neglect or hazardous situations with-
+37 out the assistance of others. Doubts shall be resolved in favor of
+38 continued service. Continuations of service shall be for a period of
+39 time to be established by the commission. The commission shall consult
+40 with the department of social services and the state office for the
+41 aging in implementing the provisions of this paragraph.
+42 § 2. This act shall take effect on the one hundred eightieth day after
+43 it shall have become a law. Effective immediately, the addition, amend-
+44 ment and/or repeal of any rule or regulation necessary for the implemen-
+45 tation of this act on its effective date are authorized to be made and
+46 completed on or before such effective date.

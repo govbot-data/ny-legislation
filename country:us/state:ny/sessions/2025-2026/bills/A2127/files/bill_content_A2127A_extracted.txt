@@ -1,0 +1,1833 @@
+Title: 
+Official Title: 
+Source: versions - A2127A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2127--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 15, 2025
+___________
+Introduced by M. of A. SHRESTHA, GALLAGHER, MAMDANI, REYES, BURDICK,
+EACHUS, SHIMSKY, LEVENBERG, SIMON -- read once and referred to the
+Committee on Corporations, Authorities and Commissions -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public authorities law, in relation to establishing
+the Hudson Valley power authority, and providing for its powers and
+duties; to amend the public authorities law, in relation to the New
+York power authority; and to amend the not-for-profit corporation law,
+in relation to establishing energy observatory corporations
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 5 of the public authorities law is amended by
+2 adding a new title 1-C to read as follows:
+3 TITLE 1-C
+4 HUDSON VALLEY POWER AUTHORITY
+5 Section 1022. Short title.
+6 1022-a. Definitions.
+7 1022-b. Hudson Valley power authority.
+8 1022-b-1. Trustees.
+9 1022-c. Hudson Valley power authority service area; extension of
+10 service area.
+11 1022-d. Powers and duties of the authority.
+12 1022-e. Powers to provide and maintain generating, transmission
+13 and related facilities.
+14 1022-f. Rate-setting procedures.
+15 1022-g. Climate leadership and community protection act commit-
+16 ment.
+17 1022-h. Acquisition of property, including the exercise of the
+18 power of eminent domain.
+19 1022-i. Subsidiaries.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02011-03-5
+
+A. 2127--A 2
+1 1022-j. Deposit and investment of moneys of the authority.
+2 1022-k. Conflicts of interest.
+3 1022-l. Sale of surplus power.
+4 1022-m. Audit and annual reports.
+5 1022-n. Bonds, notes and other obligations of the authority.
+6 1022-o. State and municipalities not liable on bonds or notes or
+7 other obligations.
+8 1022-p. Agreement of the state.
+9 1022-q. Exemption of the authority from taxation.
+10 1022-r. Actions against the authority.
+11 1022-s. Equal employment opportunity.
+12 1022-t. Limitation of liability; indemnification.
+13 1022-u. Public service law generally not applicable to the
+14 authority; inconsistent provisions in certain other
+15 acts superseded.
+16 1022-v. Authority subject to certain provisions contained in the
+17 state finance law, the public service law, the social
+18 services law and the general municipal law.
+19 1022-w. Website.
+20 1022-x. Periodic review by the legislature.
+21 1022-y. Hudson Valley power authority observatory.
+22 1022-z. Severability.
+23 § 1022. Short title. This title shall be known and may be cited as the
+24 "Hudson Valley power authority act" or the HVPA act.
+25 § 1022-a. Definitions. As used or referred to in this title, unless a
+26 different meaning clearly appears from the context:
+27 1. "Acquire" means, with respect to any right, title or interest in or
+28 to any property, either the act of taking by the exercise of the power
+29 of eminent domain, or the acquisition by purchase or otherwise.
+30 2. "Act" means the Hudson Valley power authority act, being this
+31 title.
+32 3. "Authority" means the Hudson Valley power authority established by
+33 section one thousand twenty-two-b of this title.
+34 4. "Commission" means the public service commission.
+35 5. "Comptroller" means the state comptroller.
+36 6. "Utility corporation" means any private gas corporation, electric
+37 corporation, or combined gas and electric corporation, as such terms are
+38 defined in section two of the public service law, that has a portion of
+39 its service territory within the service area. This shall not include
+40 any municipality that provides gas or electric service.
+41 7. "Federal government" means the United States of America and any
+42 agency or instrumentality, corporate or otherwise, of the United States
+43 of America.
+44 8. "Final determination" or "finally determined" means a judicial
+45 decision (a) by the highest court of competent jurisdiction, or (b) by a
+46 court of competent jurisdiction from which no appeal has been taken and
+47 the time within which to appeal has expired.
+48 9. "Municipality" means any county, city, town, village, municipal
+49 corporation, school district or other political subdivision of the
+50 state, including any agency, authority or public corporation of the
+51 state or any of the foregoing, or any combination thereof, other than
+52 the authority.
+53 10. "Property" means the power distribution system or systems of the
+54 authority, whether completed facilities or projects in construction,
+55 whether situated within or without the territorial limits of the service
+56 area, including the plants, works, structures, poles, lines, conduits,
+
+A. 2127--A 3
+1 mains, systems, instrumentalities or parts thereof and appurtenances
+2 thereto, lands, franchises and interest in land, including lands under
+3 water and riparian rights, space rights and air rights, contract rights,
+4 substations, and distribution facilities, or any other property inci-
+5 dental to and included in such system or part thereof, and any improve-
+6 ments, extensions or betterments. The term "property" shall also include
+7 any and all interests in real property less than full title, such as
+8 easements, rights of way, uses, leases, licenses and all other incorpo-
+9 real hereditaments and every estate, interest or right, legal or equita-
+10 ble, including terms for years and liens thereon by way of judgments,
+11 mortgages or otherwise, and also all claims for damages related to such
+12 real estate.
+13 11. "Revenues" means all rates, rents, fees, charges, payments and
+14 other income and receipts derived by the authority from the operation of
+15 the properties of the authority other than the proceeds of the sales of
+16 its securities, including, but not limited to, investment proceeds and
+17 proceeds of insurance, condemnation, and sales or other disposition of
+18 assets, together with all federal, state or municipal aid.
+19 12. "Security" means any bond, note or other obligation issued by the
+20 authority.
+21 13. "State" means the state of New York.
+22 14. "State agency" means any board, authority, agency, department,
+23 commission, public corporation, body politic or instrumentality of the
+24 state.
+25 15. "Trustees" means the board of trustees of the authority.
+26 16. "Relevant sectors" refers to the sectors that the HVPA will need
+27 expertise from in order to succeed. They include environmental justice,
+28 consumer protection, indigenous nation rights, community renewable ener-
+29 gy, electrification, energy efficiency, workplace issues and local
+30 government.
+31 § 1022-b. Hudson Valley power authority. 1. A corporation known as the
+32 Hudson Valley power authority is hereby established and charged with the
+33 duties and having the powers provided in this title. The authority shall
+34 be a state authority, a body corporate and politic constituting a public
+35 benefit corporation, a political subdivision of the state, exercising
+36 governmental and public powers, perpetual in duration, capable of suing
+37 and being sued and having a seal, and which shall have the powers and
+38 duties enumerated in this title, together with such others as may be
+39 conferred upon it by law. The authority is not created or organized, and
+40 its operations shall not be conducted, for the purpose of making a
+41 profit. No part of the revenues or assets of the authority shall inure
+42 to the benefit of or be distributable to its trustees or officers or any
+43 other private persons, except as herein provided for actual services
+44 rendered.
+45 2. (a) The trustees from time to time shall hire, without regard to
+46 any personnel or civil service law, rule or regulation of the state,
+47 such officers and employees, including a chief executive officer and
+48 such engineering, management and legal officers, and other professional
+49 employees, including but not limited to accounting, planning,
+50 construction, marketing, finance, appraisal, banking and trustee
+51 services, transmission and distribution, energy management, information
+52 technology, cyber security, power supply, human resources, procurement,
+53 treasury, energy efficiency, customer service and any other area of
+54 utility operations as the trustees may require for the performance of
+55 their duties and shall prescribe the duties and compensation of each
+
+A. 2127--A 4
+1 such officer and employee. Such compensation shall be reasonable and
+2 commensurate to the duties of the position of such officer or employee.
+3 (b) Any such employees hired, leased, or otherwise retained by the
+4 authority or any of its subsidiaries as a consequence of an acquisition
+5 of all the membership interests in, or assets of, the Central Hudson Gas
+6 and Electric Corporation (hereinafter, "Central Hudson"), or any author-
+7 ity subsidiary shall be hired subject to, and be entitled to, all appli-
+8 cable provisions of (i) any existing contract or contracts with labor
+9 unions representing Central Hudson employees, and (ii) all existing
+10 pension, retirement, or other benefits provided to Central Hudson
+11 employees under any existing collective bargaining agreement. Such
+12 employees shall not be public employees or eligible to become members of
+13 the New York state employees' retirement system on the basis of compen-
+14 sation payable to them by the authority.
+15 3. The authority shall not hire third-party service contractors to
+16 conduct utility operations unless it has obtained written consent by the
+17 labor unions representing Central Hudson workers.
+18 4. In addition to all of the powers of the public service commission,
+19 prior to acquiring any property and commencing operations, the authority
+20 shall secure an order from the commission authorizing such acquisition
+21 and commencement. The commission shall have the power to deny the
+22 authority's application to acquire property and commence operations. The
+23 authority shall comply with any and all requests for documents, materi-
+24 als, and testimony that the commission may seek. The commission shall
+25 consider, including but not limited to, the following factors before
+26 issuing an order: ratepayer impacts; and system reliability. The
+27 authority granted pursuant to this paragraph shall terminate upon
+28 commencement of distribution of power.
+29 5. The authority and its corporate existence shall continue until
+30 terminated by law, provided, however, that no such law shall take effect
+31 so long as the authority shall have securities outstanding, unless
+32 adequate provision has been made for the payment thereof.
+33 6. In the event that the authority does not commence delivering elec-
+34 tric power within ten years of the effective date of this title, the
+35 authority shall cease to exist and the provisions of this title shall be
+36 of no further force and effect, subject to the terms of any bonds, notes
+37 or other debt obligations then outstanding.
+38 § 1022-b-1. Trustees. 1. The board of the authority shall consist of
+39 nine trustees all of whom shall be residents of the service area, two of
+40 whom shall be appointed by the governor (trustees one and two), one of
+41 whom the governor shall designate as chair, two of whom shall be
+42 appointed by the temporary president of the senate after consultation
+43 with the state senator or senators representing the HVPA service area
+44 (trustees three and four), two of whom shall be appointed by the speaker
+45 of the assembly after consultation with the state assembly member or
+46 members representing the HVPA service area (trustees five and six), one
+47 of whom shall be the HVPA observatory governing board chair (trustee
+48 seven), one of whom shall be appointed by the HVPA observatory governing
+49 board (trustee eight), and one of whom shall be the business manager of
+50 the International Brotherhood of Electrical Workers 320 representing the
+51 frontline workers of the HVPA (trustee nine). Appointed trustees shall
+52 have expertise in one of the relevant sectors mentioned in section one
+53 thousand twenty-two-a of this article. Trustees shall serve staggered
+54 five-year terms, except during the first term of appointments upon the
+55 effective date of this title. Trustees three and five shall be
+56 appointed for two years, trustees seven and nine shall be appointed for
+
+A. 2127--A 5
+1 three years, trustees one and eight shall be appointed for four years,
+2 trustees two, four, and six shall be appointed for five years. This will
+3 allow for staggered appointments of at least two members each year after
+4 the first year, thus ensuring a degree of continuity of committee
+5 membership.
+6 2. The trustees shall serve without compensation but shall be entitled
+7 to reimbursement of their actual and necessary expenses incurred in the
+8 performance of their official duties, as may be authorized by the trus-
+9 tees, in each case upon appropriate documentation by the submitting
+10 trustee. No trustee or any entity, the majority of which is owned or
+11 controlled by any trustee, shall receive any additional compensation
+12 from the authority or be employed by the authority in any other capacity
+13 by whatever means.
+14 3. A majority of the appointed voting trustees shall constitute a
+15 quorum for the transaction of business, and the affirmative vote of a
+16 majority of trustees at a meeting shall be necessary to the validity of
+17 any resolution, order or determination. The trustees, in by-laws or by
+18 resolution, may allow for attendance at a meeting of the trustees by
+19 speaker phone or any other electronic means by which all meeting partic-
+20 ipants can hear one another.
+21 4. The trustees shall appoint an executive committee of not less than
+22 three trustees and shall delegate such duties and responsibilities of
+23 the trustees to the executive committee as it may determine from time to
+24 time, except that the trustees shall not delegate to the executive
+25 committee the power to authorize the issuance of securities. The trus-
+26 tees may appoint such additional committees with such duties and respon-
+27 sibilities as they may determine from time to time.
+28 § 1022-c. Hudson Valley power authority service area; extension of
+29 service area. 1. The service area of the Hudson Valley power authority
+30 shall embrace the service territory of Central Hudson Gas and Electric
+31 as of the effective date of this title.
+32 2. The service area of the Hudson Valley power authority may be
+33 extended at any time to include additional territory by the trustees in
+34 accordance with the following procedure, provided however, the procedure
+35 does not conflict with any rule or regulation of the public service
+36 commission or any other law. Whenever the trustees determine that the
+37 territory included within the service area should be extended, consist-
+38 ent with the provisions of this title, the trustees shall adopt a resol-
+39 ution proposing the additional territory. The trustees shall fix the
+40 dates, hours and places for three public hearings before such trustees
+41 upon the question of such extension and cause notice thereof and of the
+42 additional territory to be included within the service area to be
+43 published in two newspapers of general circulation in the county not
+44 less than twenty nor more than thirty days before such date. At least
+45 one of such hearings shall be held within the bounds of the proposed
+46 additional territory. At such time the trustees shall hear all persons,
+47 taxpayers or officials who may wish to be heard and shall finally deter-
+48 mine the additional territory, if any, to be included in such extension.
+49 Such determination shall be made by resolution of the trustees adopted
+50 by a two-thirds vote of all trustees then in office. A map of the
+51 service area, as extended, shall thereupon be filed in the office of the
+52 county clerk of the affected counties.
+53 § 1022-d. Powers and duties of the authority. The powers conferred by
+54 this title shall be exercised by the trustees, subject to the terms of
+55 this title. In the exercise of those powers, either directly or through
+56 its officers and employees, the trustees may do the following things,
+
+A. 2127--A 6
+1 among others, and the following list of powers shall not be deemed
+2 complete or exclusive, or to deny the existence of other powers, whether
+3 similar or different, so long as they are reasonably necessary for
+4 accomplishing the purposes declared and indicated in this title:
+5 1. To make and alter by-laws for the regulation of its affairs and
+6 conduct of its activities, to schedule annual, regular and special meet-
+7 ings of the trustees, as the conduct of the business of the authority
+8 may warrant, and to adopt and amend an official seal;
+9 2. To develop, acquire, construct, reconstruct, rehabilitate and
+10 improve facilities for the distribution of electric and gas power or any
+11 connected service;
+12 3. To determine the location, type, size, construction, lease,
+13 purchase, ownership, acquisition, use and operation of any facilities or
+14 other structure or property, within or without the service area;
+15 4. To investigate, implement and integrate, to the fullest extent
+16 practicable and economically feasible, such resource conservation and
+17 energy efficiency measures and equipment intended to reduce power demand
+18 and usage, utilize green technologies, alternative and renewable fuels,
+19 net metering, crediting mechanisms for distributed energy resources and
+20 demand response programs, all as integral elements in its investments in
+21 new equipment for distribution of power, and in its marketing and sale
+22 of electricity and gas to consumers;
+23 5. To acquire on behalf of and in the name of the authority, whether
+24 by agreement with and purchase from the owner or owners, or by arbi-
+25 tration, or within the service area by eminent domain, pursuant to the
+26 procedures set forth in the eminent domain procedure law, or by lease,
+27 the whole or any part of any existing facilities or of any other proper-
+28 ty to be used in connection with power distribution by the authority as
+29 set out in this title; provided, however, that the authority shall not
+30 acquire real property of a municipality or a political subdivision of
+31 the state unless such municipality or political subdivision shall
+32 consent thereto; and provided further that the authority shall not
+33 acquire by the exercise of eminent domain any facilities for distrib-
+34 ution operating at a voltage in excess of twenty-two thousand volts from
+35 any person, corporation or association, public or private, engaged in
+36 the business of distribution and sale of electricity and gas to ultimate
+37 customers unless the authority is unable to acquire by contract with the
+38 owners or operators thereof, the right to use such facilities on just,
+39 reasonable and non-discriminatory terms. In the exercise of the power of
+40 eminent domain, as provided in this subdivision, the property being
+41 acquired shall be deemed, when so determined by the authority, to be for
+42 a public use;
+43 6. To create or acquire one or more wholly owned subsidiaries or
+44 membership interests in subsidiaries in accordance with section one
+45 thousand twenty-two-i of this title to carry out all or any part of the
+46 purposes of this title;
+47 7. To distribute electric and gas power and any connected services
+48 within the service area, to fix progressive rates and charges for the
+49 furnishing or rendition of electric and gas power or of any connected
+50 service, and to collect revenues. Provided however, that prior to the
+51 first sale of electric and gas power or any connected service, the
+52 authority shall promulgate regulations granting to customers the
+53 protections afforded by article two of the public service law and
+54 section one hundred thirty-one-s of the social services law;
+55 8. To maintain, operate and manage, and contract for the maintenance,
+56 operation and management of properties of the authority;
+
+A. 2127--A 7
+1 9. To apply to the appropriate agencies and officials of the federal,
+2 state and local governments for such licenses, permits or approvals for
+3 its plans and projects as it may deem necessary or advisable, and upon
+4 such terms and conditions as it may deem appropriate to accept, in its
+5 discretion, such licenses, permits or approvals as may be tendered to it
+6 by such agencies and officials;
+7 10. To enter upon such lands, waters or premises as in the judgment of
+8 the authority shall be necessary for the purpose of making surveys,
+9 soundings, borings and examinations to accomplish any purpose authorized
+10 by this title, the authority being liable only for actual damages done;
+11 11. To enter into cooperative agreements with other authorities, muni-
+12 cipalities, utility companies, individuals, firms or corporations, and
+13 the dominion of Canada and its political subdivisions, for the intercon-
+14 nection of facilities and the exchange or interchange of electric and
+15 gas power or connected services, upon such terms and conditions as shall
+16 be determined to be reasonable;
+17 12. To execute contracts, borrow money, issue bonds, notes and other
+18 obligations as provided in section one thousand twenty-two-j of this
+19 title, and sell the same in such amounts and at such prices, interest
+20 rates and other financial terms as may be determined by the trustees;
+21 13. To enter into agreements to purchase power from the power authori-
+22 ty of the state of New York, the state, any state agency, any munici-
+23 pality, any private entity or any other available source at such price
+24 or prices as may be negotiated, including the power to enter into any
+25 agreement or any negotiation for the purchase of power from the dominion
+26 of Canada, or any political subdivision, public authority or private
+27 corporation therein;
+28 14. To make any plans, studies or investigations which it may deem
+29 necessary, convenient or desirable to enable it effectually to carry out
+30 the provisions of this title;
+31 15. To do whatever may be necessary to give effect to the purposes of
+32 this title, and in general to have and exercise all other powers neces-
+33 sary or incidental to the purposes of this title;
+34 16. The trustees shall hold a monthly public meeting to discuss the
+35 authority's business, including but not limited to proposed rates and
+36 resource plans. Special meetings may be called by the chief executive
+37 officer, by a majority of trustees, observatory, or by a petition signed
+38 by not less than one-tenth of all of the primary account holders.
+39 Monthly and special meetings shall be held at the authority's headquar-
+40 ters. At monthly and special meetings, members shall be allowed to
+41 attend in person or virtually and be given the opportunity to present
+42 their views through oral or written statements;
+43 17. To develop and manage a public distributed renewable energy (PDRE)
+44 program that will plan, fund, and build distributed renewable energy
+45 owned by the HVPA. The PDRE program will include community energy stor-
+46 age (CES). Similarly, the HVPA will ensure ratepayers that own their own
+47 distributed renewable energy are fairly rewarded for sending energy back
+48 to the grid;
+49 18. In regards to hiring workers to operate the HVPA's distribution
+50 assets, the authority shall enter into a memorandum of understanding
+51 with bona fide labor organizations of jurisdiction that is actively
+52 engaged in representing transitioning employees from non-renewable
+53 generation facilities. Such memorandum shall contain but not be limited
+54 to safety and training standards, disaster response measures, guaranteed
+55 hours, staffing levels, pay rate protection, and retraining programs.
+56 The employees eligible for these positions shall first be selected from
+
+A. 2127--A 8
+1 a pool of transitioning workers who have lost their employment or will
+2 be losing their employment in the non-renewable energy sector. Such a
+3 list of potential employees will be provided by affected labor organiza-
+4 tions and provided to the department of labor. If positions cannot be
+5 filled by transitioning employees, workers who live in disadvantaged
+6 communities within the service territory should then be prioritized,
+7 followed by any worker who lives in the service territory;
+8 19. In order to ensure a prevailing wage is paid, whenever the author-
+9 ity enters into any contract, subcontract, lease, grant, bond, covenant
+10 or other agreement for or in connection with any construction, demoli-
+11 tion, reconstruction, excavation, rehabilitation, repair, renovation,
+12 alteration, or improvement project, such project shall be deemed to be a
+13 public works project for the purposes of article eight of the labor law,
+14 and all of the provisions of article eight of the labor law shall be
+15 applicable to all the work involved in the construction, demolition,
+16 reconstruction, excavation, rehabilitation, repair, renovation, alter-
+17 ation, or improvement of such project. Funds, financial assistance, or
+18 any other benefits provided pursuant to this title shall not be utilized
+19 for or in connection with the construction, demolition, reconstruction,
+20 excavation, rehabilitation, repair, renovation, alteration, or improve-
+21 ment of any project to which the provisions of article eight of the
+22 labor law are not applicable; and
+23 20. (a) For the protection of consumer health, safety and/or privacy
+24 needs, it shall be the right of every consumer of the Hudson Valley
+25 power authority, at no penalty, fee or service charge, to require their
+26 electric corporation or gas corporation to replace an existing digital
+27 utility meter at such consumer's premises that is assigned to such
+28 consumer's account with an analog utility meter.
+29 (b) The Hudson Valley power authority may not install a digital utili-
+30 ty meter on a consumer's premises that is assigned to such consumer's
+31 account unless it first shall provide written notice to the consumer no
+32 less than ninety days prior to the scheduled installation of such meter,
+33 so that such consumer may decline permission for such installation. Such
+34 notice shall provide that:
+35 (i) the consumer shall have the right to decline permission for the
+36 Hudson Valley power authority from installing a digital utility meter
+37 with no fee, penalty or service charge;
+38 (ii) the consumer may, at any point in time following the installation
+39 of a digital utility meter, request the removal of such device and its
+40 replacement with an analog utility meter; and
+41 (iii) the Hudson Valley power authority shall respond to such consum-
+42 er's instructions within thirty days of receipt. The Hudson Valley power
+43 authority may charge such consumer the at-cost price for this service.
+44 (c) The Hudson Valley power authority may offer a one-time credit to
+45 customers who have a digital utility meter installed on their premises.
+46 § 1022-e. Powers to provide and maintain generating, transmission and
+47 related facilities. Without limiting the generality of the powers
+48 conferred upon the authority by section one thousand twenty-two-d of
+49 this title, the authority shall have the specific power:
+50 1. Subject to the provisions of subdivision one of section one thou-
+51 sand twenty-two-u of this title, to acquire, construct, improve, reha-
+52 bilitate, maintain and operate such generating, transmission and related
+53 facilities as the authority deems necessary or desirable to maintain an
+54 adequate and dependable supply of electric and gas power within the
+55 service area;
+
+A. 2127--A 9
+1 2. Subject to the provisions of subdivision one of section one thou-
+2 sand twenty-two-u of this title, to acquire, construct, improve, reha-
+3 bilitate, maintain and operate such hydroelectric or energy storage
+4 projects within the state as it deems necessary or desirable to contrib-
+5 ute to the adequacy, economy and reliability of the supply of electric
+6 power and energy or to conserve fuel;
+7 3. Subject to the provisions of subdivision one of section one thou-
+8 sand twenty-two-u of this title, to determine the location, type, size,
+9 construction, lease, purchase, ownership, acquisition, use and operation
+10 of any generating, transmission or other related facility, provided,
+11 however, that in making such determinations relating to electric power
+12 facilities the authority shall give primary consideration to the
+13 construction of energy efficient facilities, energy conservation, load
+14 management programs, and cogeneration in the service area;
+15 4. To proceed with the physical construction or completion of any
+16 generating, transmission or related facility;
+17 5. To apply to the appropriate agencies and officials of the federal
+18 and state governments, for such licenses, permits or approval of its
+19 plans or projects as it may deem necessary or advisable, and to accept
+20 such licenses, permits or approvals as may be tendered to it by such
+21 agencies or officials, upon such terms and conditions as it may deem
+22 appropriate;
+23 6. To institute suit, or to apply to any legislative body for legis-
+24 lation, or to take such other action as it may deem necessary or advis-
+25 able in the furtherance of the purposes of this title and for the
+26 protection of its rights, if for any reason the authority shall fail to
+27 secure any such license, permit or approval as it may deem necessary or
+28 advisable;
+29 7. To implement programs and policies designed to provide for the
+30 interconnection of: (i) (A) solar electric generating equipment owned or
+31 operated by residential customers, (B) farm waste electric generating
+32 equipment owned or operated by customer-generators, (C) solar electric
+33 generating equipment owned or operated by non-residential customers, (D)
+34 micro-combined heat and power generating equipment owned, leased or
+35 operated by residential customers, (E) fuel cell electric generating
+36 equipment owned, leased or operated by residential customers, and (F)
+37 micro-hydroelectric generating equipment owned, leased or operated by
+38 customer-generators and for net energy metering consistent with section
+39 sixty-six-j of the public service law, to increase the efficiency of
+40 energy end use, to shift demand from periods of high demand to periods
+41 of low demand and to facilitate the development of cogeneration; and
+42 (ii) wind electric generating equipment owned or operated by custom-
+43 er-generators and for net energy metering consistent with section
+44 sixty-six-l of the public service law;
+45 8. To develop, with public participation, a comprehensive least-cost
+46 plan which shall consider practical and economical use of conservation,
+47 renewable resources, and cogeneration for providing service to its
+48 customers;
+49 9. To cooperate with and to enter into contractual arrangements with
+50 private utility companies or public entities:
+51 (i) with respect to the construction and operation of facilities by
+52 the authority and the sale of all or part of the output therefrom;
+53 (ii) with respect to the construction, completion, acquisition, owner-
+54 ship and/or operation of generating facilities, fuel, docks, sidings,
+55 loading or unloading equipment, storage facilities and other subsidiary
+
+A. 2127--A 10
+1 facilities and the disposition of the output of such generating facili-
+2 ties; and
+3 (iii) with respect to the construction, acquisition, ownership, opera-
+4 tion and/or use of transmission facilities;
+5 10. To cooperate with and to enter into contractual arrangements with
+6 municipalities with respect to the construction, improvement, rehabili-
+7 tation, ownership and/or operation of generating facilities;
+8 11. To cooperate with and to enter into contractual arrangements with
+9 the New York state energy research and development authority in
+10 connection with the planning, siting, development, construction, opera-
+11 tion and maintenance of generating facilities of the authority utilizing
+12 new energy technologies;
+13 12. All renewable energy generating projects subject to this subdivi-
+14 sion shall be deemed public work and subject to and performed in accord-
+15 ance with articles eight and nine of the labor law. Each contract for
+16 such renewable energy generating project shall contain a provision that
+17 such projects may only be undertaken pursuant to a project labor agree-
+18 ment. For purposes of this section, "project labor agreement" shall
+19 mean a pre-hire collective bargaining agreement between the authority,
+20 or a third party on behalf of the authority, and a bona fide building
+21 and construction trade labor organization establishing the labor organ-
+22 ization as the collective bargaining representative for all persons who
+23 will perform work on a public work project, and which provides that only
+24 contractors and subcontractors who sign a pre-negotiated agreement with
+25 the labor organization can perform project work. All contractors and
+26 subcontractors associated with this work shall be required to utilize
+27 apprenticeship agreements as defined by article twenty-three of the
+28 labor law;
+29 13. The authority shall include requirements in any procurement or
+30 development of a renewable energy generating project, as defined in this
+31 subdivision, that the components and parts shall be produced or made in
+32 whole or substantial part in the United States, its territories or
+33 possessions. The authority's president and chief executive officer, or
+34 such chief executive officer's designee may waive the procurement and
+35 development requirements set forth in this paragraph if such official
+36 determines that: the requirements would not be in the public interest;
+37 the requirements would result in unreasonable costs; obtaining such
+38 infrastructure components and parts in the United States would increase
+39 the cost of a renewable energy generating project by an unreasonable
+40 amount; or such components or parts cannot be produced, made, or assem-
+41 bled in the United States in sufficient and reasonably available quanti-
+42 ties or of satisfactory quality. Such determination must be made on an
+43 annual basis no later than December thirty-first, after providing notice
+44 and an opportunity for public comment, and such determination shall be
+45 made publicly available, in writing, on the authority's website with a
+46 detailed explanation of the findings leading to such determination. If
+47 the authority's president and chief executive officer, or designee, has
+48 issued determinations for three consecutive years finding that no such
+49 waiver is warranted pursuant to this paragraph, then the authority shall
+50 no longer be required to provide the annual determination required by
+51 this paragraph;
+52 14. To enter into a memorandum of understanding for the operation and
+53 maintenance of a renewable energy generating project developed pursuant
+54 to this subdivision with a bona fide labor organization of jurisdiction
+55 that is actively engaged in representing transitioning employees from
+56 non-renewable generation facilities. Such memorandum shall be entered
+
+A. 2127--A 11
+1 into prior to the completion date of a renewable energy generating
+2 project and shall be an ongoing material condition of authorization to
+3 operate and maintain a renewable energy generating project developed
+4 pursuant to this subdivision. The memorandum shall only apply to the
+5 employees necessary for the maintenance and operation of such renewable
+6 energy generating projects. Such memorandum shall contain but not be
+7 limited to safety and training standards, disaster response measures,
+8 guaranteed hours, staffing levels, pay rate protection, and retraining
+9 programs. The employees eligible for these positions shall first be
+10 selected from a pool of transitioning workers who have lost their
+11 employment or will be losing their employment in the non-renewable ener-
+12 gy generation sector. Such list of potential employees will be provided
+13 by affected labor organizations and provided to the department of labor.
+14 The department of labor shall update and provide such list to the
+15 authority ninety days prior to purchase, acquisition, and/or
+16 construction of any project under this subdivision.
+17 15. For the purposes of article fifteen-A of the executive law, any
+18 person entering into a contract for a project authorized pursuant to
+19 this section shall be deemed a state agency as that term is defined in
+20 such article and such contracts shall be deemed state contracts within
+21 the meaning of that term as set forth in such article.
+22 16. Nothing in this subdivision, shall be construed as exempting the
+23 authority, its subsidiaries, or any renewable energy generating projects
+24 undertaken pursuant to this section from the requirements of article
+25 eight of the public service law respecting any renewable energy system
+26 developed by the authority or an authority subsidiary after the effec-
+27 tive date of this subdivision that meets the definition of "major renew-
+28 able energy facility" as defined in section one hundred thirty-seven of
+29 the public service law, and section 11-0535-c of the environmental
+30 conservation law as it relates to an endangered and threatened species
+31 mitigation bank fund.
+32 § 1022-f. Rate-setting procedures. In periodically establishing and
+33 revising rates, the trustees shall use the following procedures:
+34 1. Notice of the proposed rates shall be published in the state regis-
+35 ter with a statement of the justification and reasons supporting such
+36 rates. Such notice shall include a date for a hearing in accordance
+37 with subdivision two of this section.
+38 2. One or more hearings shall be conducted as expeditiously as practi-
+39 cable by a hearing officer to develop a full and complete record and to
+40 receive public comment in the form of written and oral presentation of
+41 views, data, questions, and argument related to such proposed rates. In
+42 any such hearing:
+43 (a) any person shall be provided an adequate opportunity by the hear-
+44 ing officer to offer refutation or rebuttal of any material submitted by
+45 any other person or the trustees, and
+46 (b) the hearing officer, in such hearing officer's discretion, shall
+47 allow a reasonable opportunity for cross examination, which, as deter-
+48 mined by the hearing officer, is not dilatory, in order to develop
+49 information and material relevant to any such proposed rate.
+50 3. In addition to the opportunity to submit oral and written material
+51 at the hearings, any written views, data, questions, and arguments
+52 submitted by persons prior to, or before the close of, hearings shall be
+53 made a part of the administrative record.
+54 4. The HVPA shall use progressive green rates. The rates shall follow
+55 set parameters for energy rates and charges based on energy usage.
+
+A. 2127--A 12
+1 (a) The HVPA's rates shall have increasing block rates, so that as
+2 electric energy and gas consumption increases, the marginal cost
+3 increases as well.
+4 (b) The first block of residential electric energy and gas use will be
+5 priced at below market rate, as determined by the HVPA.
+6 (c) Additional blocks shall be determined in the rate-making process.
+7 5. After such a hearing, the trustees in coordination with the observ-
+8 atory may propose revised rates, publish such proposed rates in the
+9 state register, and conduct additional hearings in accordance with this
+10 section.
+11 6. The trustees shall, in coordination with the observatory, make a
+12 final decision establishing a rate or rates based on the record which
+13 shall include the hearing transcript, together with exhibits, and such
+14 other materials and information as may have been submitted to, or devel-
+15 oped by, the trustees. The decision shall include a full and complete
+16 justification of the final rates pursuant to this section.
+17 7. The final decision of the trustees shall become effective on publi-
+18 cation.
+19 § 1022-g. Climate leadership and community protection act commitment.
+20 1. At the outset, it is critical to enshrine climate goals into the
+21 enabling legislation to ensure achieving the climate leadership and
+22 community protection act's goals (CLCPA). In line with the CLCPA goals,
+23 the HVPA shall:
+24 (a) Procure seventy percent renewable electricity by two thousand
+25 thirty, and one hundred percent renewable electricity by two thousand
+26 forty, provided the supply is available at reasonable rates;
+27 (b) Ensure at least thirty-five percent of the benefits of clean ener-
+28 gy and energy efficiency programs go to disadvantaged communities in its
+29 service territory; and
+30 (c) Conduct a study within two years of its creation to create a time-
+31 line for the potential phaseout of its gas infrastructure.
+32 2. The authority shall, to the extent it is eligible, apply for elec-
+33 tive pay credit programs authorized or extended by the Inflation
+34 Reduction Act of 2022, as established by Internal Revenue Service (IRS)
+35 Rule 89 FR 17546. Prior to filing, the authority shall ensure that it
+36 has:
+37 (a) properly registered with the IRS;
+38 (b) met the prevailing wage and apprenticeships set forth by the
+39 Inflation Reduction Act; and
+40 (c) qualified for the domestic content bonus credit amounts under
+41 sections forty-five, forty-five-y, forty-eight, and forty-eight-e of the
+42 Internal Revenue Code.
+43 § 1022-h. Acquisition of property, including the exercise of the power
+44 of eminent domain. 1. The legislature hereby expressly finds and deter-
+45 mines:
+46 (a) The acquisition by the authority, through purchase or the exercise
+47 of the power of eminent domain, of either the securities or assets of a
+48 utility corporation whichever is less expensive for the ratepayers, as
+49 the authority may determine will be just to the ratepayers in the
+50 service area, is the most appropriate means of dealing with the emergen-
+51 cy involving the economy, health and safety of the residents and the
+52 industry and commerce in the service area, notwithstanding the fact that
+53 such utility corporation presently may be devoted to a public use, since
+54 the public use of such property by the authority is hereby deemed to be
+55 superior to the public use of such property by any other person, associ-
+56 ation, or corporation.
+
+A. 2127--A 13
+1 (b) The authority, prior to exercising its power of eminent domain to
+2 acquire the stock or assets of a utility corporation, shall enter into
+3 negotiations with such utility corporation for the purpose of acquiring
+4 such stock or assets upon such terms as the authority, in its sole
+5 discretion, determines will result in average electric rates equal to or
+6 less than the projected electric rates which would result if such utili-
+7 ty corporation were to continue in operation.
+8 (c) The compensation paid by the authority to a utility corporation
+9 shall be just to the ratepayers in the service area who must pay such
+10 compensation.
+11 (d) If the authority determines that it is the stock of a utility
+12 corporation that should be taken, the proper measure of damages shall be
+13 the fair market value thereof as evidenced by the price of such stock on
+14 the exchange on which it is traded on the valuation date since there is
+15 an established market for such stock that is reflective of its value. In
+16 no event, however, shall consequential or severance damages be awarded
+17 if control of such utility corporation shall have been taken by the
+18 authority.
+19 (e) If the authority determines that it is the assets of a utility
+20 corporation that should be taken, fair market value would not constitute
+21 just compensation to such utility corporation since there is an insuffi-
+22 cient market in the usual sense for its assets to ascertain the value
+23 thereof from the market. In determining the compensation payable for
+24 such assets, there shall be taken into consideration the capitalization
+25 of such utility corporation's expected future earnings.
+26 (f) Neither consequential nor severance damages are proper if the
+27 authority condemns all the assets of a utility corporation.
+28 (g) Such an acquisition by the authority of the securities or assets
+29 of a utility corporation serves the public purposes of assuring the
+30 provision of an adequate supply of electricity in a reliable, efficient
+31 and economic manner and retaining existing commerce and industry in and
+32 attracting new commerce and industry to the service area, all of which
+33 are matters of state-wide concern.
+34 2. In furtherance of the legislative findings and determinations set
+35 forth in subdivision one of this section, the authority is hereby
+36 authorized and empowered to acquire, through purchase or the exercise of
+37 the power of eminent domain, all or any part of the securities or assets
+38 of a utility corporation, as the authority in its sole discretion may
+39 determine; provided, however, that prior to proceeding with any such
+40 acquisition under this title, the board of trustees shall determine, in
+41 its sole discretion based upon such engineering, financial and legal
+42 data, studies and opinions as it may deem appropriate, that the average
+43 electric rates projected to be charged after such acquisition and for
+44 such reasonable period of time as the board of trustees may determine
+45 will not be higher than the electric rates projected to be charged by
+46 such utility corporation during such period if such acquisition had not
+47 occurred.
+48 3. The authority also is authorized and empowered, in its discretion,
+49 to make a tender offer or tender offers for all or any portion of the
+50 securities of a utility corporation at such price or prices as the
+51 authority may determine to be appropriate; provided, however that such
+52 tender offer or tender offers, in the sole judgment of the authority,
+53 will result in average electric rates less than the projected electric
+54 rates which would result from continued operation by such utility corpo-
+55 ration.
+
+A. 2127--A 14
+1 (a) The authority shall make such offer or offers or any adjustment
+2 thereof prior to acquiring any such securities or any assets of a utili-
+3 ty corporation through the exercise of the power of eminent domain. The
+4 authority may pay for such securities in cash or by exchanging therefor
+5 the authority's bonds or a combination thereof.
+6 (b) In the case of a tender offer in which a subsidiary of the author-
+7 ity acquires at least sixty-six and two-thirds percent of a utility
+8 corporation's common stock, such subsidiary may merge with such utility
+9 corporation and either continue in existence or dissolve, as it may
+10 determine.
+11 (c) The provisions of section five hundred thirteen and article
+12 sixteen of the business corporation law and any other provisions of law
+13 relating to procedures in a corporate takeover, including without limi-
+14 tation chapter nine hundred fifteen of the laws of nineteen hundred
+15 eighty-five, shall not be applicable to the actions of the authority
+16 pursuant to this title.
+17 (d) In determining whether acceptance of such a tender offer by the
+18 authority is in the best interests of a utility corporation, the direc-
+19 tors of such utility corporation shall consider not only the dollar
+20 amount of such offer but the interests of employees, suppliers, ratepay-
+21 ers, creditors (including holders of such utility corporation's debt
+22 securities), and the economy of the service area and the state.
+23 4. The authority, should it determine, in its sole discretion, to
+24 acquire the stock or assets of a utility corporation by the exercise of
+25 the power of eminent domain, shall not take title to nor possession of
+26 such stock or assets prior to a final determination of the amount of
+27 compensation to be paid for such stock or assets nor prior to a determi-
+28 nation by the authority, in its sole discretion that the taking of such
+29 stock or assets will result in average electric rates less than the
+30 projected electric rates which would result from continued operation by
+31 such utility corporation. Notwithstanding the provisions of the eminent
+32 domain procedure law, the provisions of subdivisions five and six of
+33 this section shall apply to the acquisition of the stock or property of
+34 such utility corporation by the power of eminent domain, provided howev-
+35 er, to the extent the provisions herein do not supersede or conflict
+36 with the provisions of such law the provisions of such law shall apply.
+37 5. Procedure for acquisition of a utility corporation stock. (a) In
+38 the event the authority determines to acquire the stock of a utility
+39 corporation by the exercise of the power of eminent domain, having first
+40 entered into negotiations with such utility corporation for the purchase
+41 of such stock, the authority need not hold any public hearing on its
+42 intention to condemn such stock or on the question of the public use of
+43 such action, such finding having been made by the legislature herein.
+44 The authority shall commence such acquisition by serving upon such util-
+45 ity corporation and filing with the county clerk of the county in which
+46 the principal office of such utility corporation is located a notice
+47 describing the stock being acquired, the valuation date, as determined
+48 by the authority, and such additional information as the authority may
+49 reasonably deem necessary to facilitate the process of condemnation and
+50 payment. The notice shall state that it is a notice of pendency of an
+51 acquisition proceeding and that the authority will elect whether or not
+52 to pay the amount of such award when it has been finally determined. The
+53 authority also shall cause a copy of such notice: (i) to be served upon
+54 the stock transfer agent or agents designated by such utility corpo-
+55 ration for the transfer and registration of its stock; and (ii) to be
+
+A. 2127--A 15
+1 published in at least five successive issues of a daily newspaper of
+2 national circulation.
+3 (b) Upon receipt of such notice, the stock transfer agent or agents,
+4 at the expense of the authority, shall forthwith serve upon each of the
+5 registered owners of such stock a copy of such notice. Service shall be
+6 deemed sufficient if mailed by certified or registered mail to the
+7 address of each such owner as shown on a utility corporation's stock
+8 transfer books. Service of the notice upon the stock transfer agent or
+9 agents and its publication shall not be jurisdictional prerequisites to
+10 the validity of the taking. Failure to notify any owner of stock to be
+11 taken shall not invalidate any proceedings brought hereunder or any
+12 title acquired by the authority.
+13 (c) Upon filing of the notice described in paragraph (a) of this
+14 subdivision, the authority shall petition a special term of the supreme
+15 court in the judicial district in which such utility corporation has its
+16 principal office for the acquisition of the stock. Such petition shall
+17 be generally in the form prescribed by the eminent domain procedure law
+18 so far as consistent herewith.
+19 (d) The supreme court in the district in which such utility corpo-
+20 ration has its principal office shall have exclusive jurisdiction to
+21 hear and determine all claims arising from the acquisition of stock by
+22 the exercise of the power of eminent domain and shall hear such claims
+23 without a jury and without referral to a referee or commissioners.
+24 Notwithstanding the provisions of section nine hundred one of the civil
+25 practice law and rules, upon motion to the court by the authority, the
+26 condemnation proceeding for the acquisition of stock shall be maintained
+27 as a class action, pursuant to remaining provisions of article nine of
+28 the civil practice law and rules, and the owners of the stock shall be
+29 deemed a defendant class on the basis of the following express legisla-
+30 tive findings:
+31 (i) the class of such utility corporation stock owners is so numerous
+32 that joinder of all members is impracticable;
+33 (ii) the issue of valuation of such utility corporation stock is
+34 common to all such utility corporation stock owners and there are ques-
+35 tions of law or fact common to the members of such class which predomi-
+36 nate over any questions affecting only individual members;
+37 (iii) the claims or defenses, if any, of any representative owner of
+38 such utility corporation stock to acquisition thereof by the authority
+39 are typical of the claims or defenses of the class;
+40 (iv) there are representative parties who will fairly and adequately
+41 protect the interests of the class; and
+42 (v) the prosecution of separate actions by or against individual
+43 members of the class would create a risk of inconsistent or varying
+44 adjudications with respect to the issue of valuation and other issues
+45 common to the class.
+46 (e) The procedure for determining just compensation shall be in the
+47 manner prescribed by the eminent domain procedure law, except to the
+48 extent such procedure is inconsistent with the provisions of this title,
+49 in which case the provisions of this title shall control.
+50 (f) Upon the entry of an award finally determining just compensation
+51 for the stock, the authority shall have sixty days after receipt of
+52 notice of entry of such award within which to elect to proceed with the
+53 taking or to abandon such acquisition as provided in subdivision nine of
+54 this section. Notice of such election shall be served by the authority
+55 and by the stock transfer agent in the manner described in paragraph (a)
+56 of this subdivision. If the authority elects to proceed with the acqui-
+
+A. 2127--A 16
+1 sition, it shall deposit with the supreme court in which the condemna-
+2 tion proceeding was held an amount equal to the award within one hundred
+3 eighty days after receipt by the authority of notice of entry of such
+4 award. Upon the making of such deposit, the authority shall notify such
+5 utility corporation's stock transfer agent in writing of such deposit.
+6 The sum so deposited shall be applied as provided in the eminent domain
+7 procedure law. Upon making such deposit and giving such notice to the
+8 stock transfer agent, title to all stock described in the notice of
+9 taking shall immediately vest in the authority and the authority shall
+10 have the immediate right thereto. In the event the authority elects to
+11 abandon the acquisition, the provisions of subdivision nine of this
+12 section shall apply.
+13 (g) It shall be a condition precedent to the payment of compensation
+14 for any such securities that such securities be surrendered to the
+15 supreme court or to such other entity, including the issuer's stock
+16 transfer agent, as the supreme court may direct.
+17 6. Procedure for acquisition of a utility corporation's assets. (a) If
+18 the authority shall find it necessary or convenient to acquire any real
+19 or personal property of such utility corporation, other than securities,
+20 whether for immediate or future use, then the authority need not deter-
+21 mine that such property is required for public use, since the legisla-
+22 ture already has made such determination in this title which determi-
+23 nation shall be binding for all purposes. The authority need not publish
+24 any notice of its intention to acquire such property or hold any public
+25 hearing with respect thereto or to the public use of such action.
+26 (b) When any real property of such utility corporation within this
+27 state is sought to be acquired by the exercise of the power of eminent
+28 domain, and after the authority shall have entered into negotiations
+29 with such utility corporation for the purchase of such property, the
+30 authority shall cause a survey and map to be made thereof and shall
+31 cause such survey and map to be filed in its office and in the office of
+32 the county clerk in which such property is located. There shall be
+33 annexed to such survey and map a certificate executed by the chief engi-
+34 neer of the authority, or by such other officer or employee as may be
+35 designated by the board of trustees, stating that the property or inter-
+36 est therein described in such survey and map is necessary for its
+37 purposes.
+38 (c) Upon filing such survey and map, the authority shall petition a
+39 special term of the supreme court in the judicial district in which the
+40 property is located for the acquisition of such property or interest
+41 therein. Such petition shall describe the property being acquired, the
+42 valuation date, as determined by the authority, and such additional
+43 information as the authority may reasonably deem necessary to facilitate
+44 the process of condemnation and payment. The petition shall state that
+45 the authority will elect whether or not to pay the amount of such award
+46 when it has been finally determined. In all other respects, such peti-
+47 tion shall be generally in the form prescribed by the eminent domain
+48 procedure law, so far as consistent herewith. Such petition, together
+49 with a notice of pendency of the proceeding, shall be filed in the
+50 office of the county clerk of the county in which the property is
+51 located and shall be indexed and recorded as provided by law. A copy of
+52 such petition, together with a notice of the presentation thereof to
+53 such special term of the supreme court, shall be served upon the owners
+54 of such property as provided in the eminent domain procedure law. The
+55 authority may cause a duplicate original affidavit of the service there-
+56 of to be recorded in the books used for recording deeds in the office of
+
+A. 2127--A 17
+1 the county clerk of the county in which the property described in such
+2 notice is located, and the recording of such affidavit shall be prima
+3 facie evidence of due service thereof.
+4 (d) Subsequent proceedings shall be conducted generally in the manner
+5 prescribed by the eminent domain procedure law except to the extent the
+6 provisions thereof are inconsistent with the provisions of this title,
+7 in which case the provisions of this title shall control.
+8 (e) Notwithstanding any provision of the eminent domain procedure law
+9 to the contrary, in any proceeding brought by the authority to condemn
+10 real property pursuant to such law, title shall vest in the authority
+11 and compensation shall be paid only upon: (i) a decision by the supreme
+12 court that compensation for the real property condemned shall be deter-
+13 mined solely by the income capitalization method of valuation based on
+14 the actual net income as allowed by the public service commission; and
+15 (ii) such supreme court's determination that the amount of such compen-
+16 sation shall be based on the income capitalization method, entry of a
+17 final judgment, the filing of the final decree and the conclusion of any
+18 appeal or the expiration of the time to file an appeal related to the
+19 condemnation proceeding. If any court shall utilize any method of
+20 compensation other than the income capitalization method, or if the
+21 proposed compensation is more than the rate base of the assets taken in
+22 condemnation, as utilized by the public service commission in setting
+23 rates and as certified by such commission, then the authority may with-
+24 draw the condemnation proceeding without prejudice or costs to any
+25 party.
+26 (f) Should a utility corporation's property be taken by the exercise
+27 of the power of eminent domain and if such utility corporation shall
+28 have agreed upon the compensation to be paid therefor in settlement of
+29 the proceeding, if, such utility corporation shall be entitled to
+30 payment of the agreed or awarded compensation within one hundred eighty
+31 days after the date of the agreement upon the amount of the compensation
+32 or of the entry of the award, together with interest upon the amount of
+33 such compensation from the time of acquisition thereof by the authority
+34 to the date of payment of such compensation; but such interest shall
+35 cease upon the service by the authority, upon the person or corporation
+36 entitled thereto, of a fifteen days' notice that the authority is ready
+37 and willing to pay the amount of such compensation upon the presentation
+38 of proper proofs and vouchers. Such notice shall be served personally or
+39 by registered mail and publication thereof shall be made at least once a
+40 week for three successive weeks in a daily newspaper of general circu-
+41 lation in the county in which such property or any part thereof is
+42 located.
+43 (g) Upon the entry of an award finally determining just compensation
+44 for the property of such utility corporation, the authority shall have
+45 sixty days after receipt of notice of entry of such award within which
+46 to elect to proceed with the taking or to abandon such acquisition as
+47 provided in subdivision nine of this section. Notice of such election
+48 shall be served by the authority on the owners of such property in the
+49 manner described in paragraph (c) of this subdivision. If the authority
+50 elects to proceed with the acquisition, it shall deposit with the
+51 supreme court in which the condemnation proceeding was held an amount
+52 equal to the award within one hundred eighty days after receipt by the
+53 authority of notice of entry of such award. Upon the making of such
+54 deposit, the authority shall notify such utility corporation in writing
+55 of such deposit. The sum so deposited shall be applied as provided in
+56 the eminent domain procedure law. Upon making such deposit and giving
+
+A. 2127--A 18
+1 such notice to such utility corporation, title to all property described
+2 in the notice of taking shall immediately vest in the authority and the
+3 authority shall have the immediate right thereto. The order setting
+4 forth the award, together with evidence from the clerk of the court of
+5 receipt of the amount of the award, shall be filed in the office of the
+6 county clerk of the county in which the property is located and shall be
+7 indexed and recorded in the same manner as a notice of pendency under
+8 the eminent domain procedure law. The owner or person in possession of
+9 such property shall deliver possession thereof to the authority upon
+10 demand, and in case possession is not delivered when demanded or demand
+11 is not convenient because of absence of the owner or inability to locate
+12 or determine the owner, the authority may apply to the court without
+13 notice for an order requiring the sheriff to put it into possession of
+14 such real property. Such an order shall be executed as if it were an
+15 execution for the delivery of the possession of the property. In the
+16 event the authority elects to abandon the acquisition, the provisions of
+17 subdivision nine of this section shall apply.
+18 7. At any time the authority and its duly authorized agents and
+19 employees may, on reasonable notice and during business hours, (a) enter
+20 upon any real property proposed to be acquired for the purpose of making
+21 the surveys or maps mentioned in this section, or of making such other
+22 surveys, inspections or examinations of real and personal property and
+23 (b) inspect and make copies of the books and records of the issuer of
+24 such securities, all as the authority may deem necessary or convenient
+25 for the purposes of this title.
+26 8. Upon the acquisition of all the outstanding shares of stock of a
+27 corporate issuer representing all the voting rights and equity thereof,
+28 the authority shall as soon as reasonably practicable take all steps
+29 necessary to ensure that the rights and claims of all the holders of any
+30 other stock and debt securities and all other creditors thereof are as
+31 secure as they were immediately prior to the acquisition by the authori-
+32 ty. Nothing herein shall prohibit the authority from taking any appro-
+33 priate and prudent action to renegotiate and restructure such debt or
+34 from purchasing the preferred stock and debt securities issued by such
+35 corporation at such prices as the authority may determine. The authority
+36 may also exchange its bonds for any outstanding preferred stock or debt
+37 securities with the consent of the holders of such preferred stock or
+38 debt securities.
+39 9. If the authority determines, in its sole discretion, that the total
+40 cost of acquisition will result in average electric rates in excess of
+41 the projected electric rates which would result from continued operation
+42 by such utility corporation, the authority shall abandon the acquisi-
+43 tion. In such event, the authority shall serve notice of such abandon-
+44 ment (a) in the case of a stock acquisition, by causing to be mailed by
+45 certified or registered mail a copy of such notice to each former owner
+46 of stock as shown on such utility corporation's stock transfer books
+47 immediately prior to such acquisition at the address shown on such stock
+48 transfer books and by causing to be published a copy of such notice in
+49 at least five successive issues of a daily newspaper of national circu-
+50 lation or (b) in the case of an asset acquisition, in the same manner as
+51 provided for the service of a petition for acquisition in paragraph (c)
+52 of subdivision six of this section. In addition, in the case of an
+53 asset acquisition the authority shall file a copy of the notice of aban-
+54 donment with the county clerk of the county in which is located any real
+55 property that was taken and with the clerk of the supreme court in which
+56 the proceeding was instituted.
+
+A. 2127--A 19
+1 § 1022-i. Subsidiaries. 1. The authority shall have the right to exer-
+2 cise and perform all or part of its powers and functions through one or
+3 more wholly owned subsidiaries by operating as the sole member thereof,
+4 acquiring the voting shares or membership interests thereof, or by
+5 resolution of the board directing any of its trustees, officers or
+6 employees to organize a subsidiary pursuant to the business corporation
+7 law, the not-for-profit corporation law, the limited liability company
+8 law, or the transportation corporations law. Such resolution shall
+9 prescribe the purpose for which such subsidiary is to be formed.
+10 2. The authority may transfer to any subsidiary any moneys, property
+11 (real, personal or mixed) or facilities in order to carry out the
+12 purposes of this title. Each such subsidiary shall have all the privi-
+13 leges, immunities, tax exemptions and other exemptions of the authority
+14 to the extent the same are not inconsistent with the statute or statutes
+15 pursuant to which such subsidiary was established provided, however,
+16 that in any event any such subsidiary shall be entitled to exemptions
+17 from the public service law and any regulation by, or the jurisdiction
+18 of, the public service commission, and the state environmental quality
+19 review act to the extent provided in subdivision two of section one
+20 thousand twenty-two-u of this title.
+21 3. When the authority acquires either directly or through a subsidiary
+22 the private entity known as Central Hudson, the authority shall maintain
+23 the employment of the Central Hudson employees who are subject to the
+24 terms of any existing contract or contracts with any labor union, and
+25 shall assume such labor contracts. Upon acquisition of Central Hudson by
+26 the authority, such employees shall:
+27 (a) continue to be treated as private sector employees subject to the
+28 national labor relations act and exempt from the New York state public
+29 employees fair employment act;
+30 (b) not acquire civil service status;
+31 (c) be entitled to continue to receive such salary and benefits as
+32 said employees receive as provided in the existing labor union contracts
+33 as of the date of the authority's acquisition of any membership interest
+34 in Central Hudson;
+35 (d) be entitled to all provisions of any existing contract or
+36 contracts with labor unions; and
+37 (e) have pension and other benefits, including retirement benefits,
+38 continued in plans that are operated and administered in compliance with
+39 the employee retirement income security act of 1974, as amended (herein-
+40 after "ERISA"), and the internal revenue code, to the fullest extent
+41 allowed by law. After acquisition of Central Hudson by the authority,
+42 the authority shall have an obligation to bargain in good faith with the
+43 collective bargaining representative of such employees pursuant to the
+44 national labor relations act. The authority may, in its discretion,
+45 utilize the services of a professional employer organization (PEO) as
+46 defined in section nine hundred sixteen of the labor law to maintain the
+47 employment and working conditions of the Central Hudson employees
+48 consistent with the requirements of this subdivision. Notwithstanding
+49 any provision of law which may or could be deemed to the contrary, such
+50 acquisition of Central Hudson by or for the authority and/or authority
+51 subsidiary, and the rights, obligations and undertakings of the authori-
+52 ty in connection therewith as hereinabove set forth, are hereby declared
+53 to be in furtherance of the authority's proprietary, marketplace func-
+54 tion of providing a safer, more efficient, reliable, and economical
+55 supply of electrical and gas energy within the service area, which will
+56 realize savings for the ratepayers and taxpayers in the service area and
+
+A. 2127--A 20
+1 further protect the interests of ratepayers and the economy in the
+2 service area.
+3 § 1022-j. Deposit and investment of moneys of the authority. 1. All
+4 moneys of the authority, from whatever source derived, except as other-
+5 wise authorized or provided in this title, shall upon receipt be depos-
+6 ited forthwith in a bank or banks designated by the trustees, to be
+7 selected in accordance with such standards as the trustees shall set
+8 forth in the by-laws or investment guidelines of the authority, which
+9 standards shall take into account the creditworthiness and capital posi-
+10 tion of the depositary bank or banks. The moneys in such accounts may be
+11 invested in obligations of the state or the United States, or guaranteed
+12 by either in accordance with practices that the trustees shall set forth
+13 in the by-laws or investment guidelines of the authority. The moneys in
+14 such accounts shall be withdrawn on the order of such person or persons
+15 as the directors shall authorize in the by-laws of the authority and
+16 shall be applied to the use of the authority as the trustees shall
+17 authorize in the by-laws of the authority. All deposits of such moneys
+18 shall be secured in accordance with section twenty-nine hundred twenty-
+19 five of this chapter. The state comptroller and such comptroller's
+20 legally authorized representatives are authorized and empowered from
+21 time to time to examine the accounts and books of the authority, includ-
+22 ing its receipts, disbursements, contracts, leases, sinking funds,
+23 investments and any other records and papers relating to its financial
+24 standing; the authority shall not be required to pay a fee for any such
+25 examination.
+26 2. The authority shall have power to contract with holders of any of
+27 its bonds or notes or other obligations, or any trustee therefor, as to
+28 the custody, collection, securing, investment and payment of any moneys
+29 of the authority and of any moneys held in trust or otherwise for the
+30 payment of bonds or notes or other obligations, and to carry out any
+31 such contract. Moneys held in trust or otherwise for the payment of
+32 bonds or notes or other obligations or in any way to secure bonds or
+33 notes or obligations and deposits of such moneys shall be secured in
+34 full in direct obligations of the federal government the payment of
+35 which is guaranteed by the United States of America. Such investments
+36 shall be held on deposit only in banks having a minimum credit rating
+37 and a minimum accumulated capital, as the trustees shall specify in the
+38 by-laws or investment guidelines of the authority.
+39 3. Subject to agreements with noteholders and bondholders or any trus-
+40 tee therefor, the authority shall prescribe a uniform system of accounts
+41 in accordance with generally accepted accounting principles.
+42 4. The trustees shall adopt investment guidelines and standards to
+43 implement the foregoing provisions of this section, which guidelines and
+44 standards shall be reviewed annually by the trustees and shall be made
+45 available to state and municipal officials and to the public.
+46 5. The Hudson Valley power authority is a public entity and the
+47 management of its financial resources shall be conducted by a bank that
+48 is accountable to the public in ways that are not possible with private
+49 financial institutions. Subsequent to the passage of the "New York
+50 public banking act" or similar legislation to allow for the creation of
+51 local public banks and the chartering of a public bank in the service
+52 territory, the Hudson Valley power authority shall transfer all finan-
+53 cial assets into accounts held by such an institution as soon as is
+54 practicable.
+55 § 1022-k. Conflicts of interest. Eligibility for appointment as a
+56 trustee, officer or employee of the authority shall be subject to the
+
+A. 2127--A 21
+1 provisions of section twenty-eight hundred twenty-five of this chapter.
+2 In addition to the requirements of such section:
+3 1. If any trustee, officer or employee of the authority shall have an
+4 interest, either direct or indirect, in any contract to which the
+5 authority is or is to be a party, such interest shall be disclosed to
+6 the authority in writing and shall be set forth in the minutes of the
+7 authority. The trustee, officer or employee having such interest shall
+8 not participate in any action by the authority with respect to such
+9 contract.
+10 2. No trustee, officer or employee of the authority shall be deemed to
+11 have such an interest solely by reason of the ownership of two percent
+12 or less of the securities of a corporation which is or is to be a party
+13 to a contract with the authority, including without limitation the hold-
+14 ing company of any banking institution in which the funds of the author-
+15 ity are, or are to be deposited, or which is or is to be acting as trus-
+16 tee or paying agent under any bond or note resolution, trust indenture
+17 or similar instrument to which the authority is a party.
+18 3. Nothing in this section shall be deemed or construed to limit the
+19 right of any trustee, officer or employee of the authority to acquire an
+20 interest in the securities of the authority.
+21 § 1022-l. Sale of surplus power. Whenever any electric power which the
+22 authority may acquire creates a surplus over the amount of electric
+23 power required by the residents of the service area, the authority may
+24 sell such surplus in territory outside the service area to persons, or
+25 public or private corporations. In acquiring any facility or property
+26 which also serves any municipality or territory outside the service
+27 area, the authority, if it deems it advantageous and economical so to
+28 do, may, with the consent of the trustees, serve any such municipality
+29 or territory or sell electric power to persons, or public or private
+30 corporations in such territory or to such municipality.
+31 § 1022-m. Audit and annual reports. 1. The accounts of the authority
+32 shall be subject to the supervision of the comptroller and an annual
+33 audit shall be performed by an independent certified public accountant
+34 selected by the trustees and shall be made available to the munici-
+35 palities served by the authority and to the public.
+36 2. The authority shall submit a detailed annual report pursuant to and
+37 as specified in section twenty-eight hundred of this chapter, and a copy
+38 of such report shall be filed with the county executives of the counties
+39 within the service area, and with the mayors and supervisors of the
+40 municipalities within the service area and shall be made available to
+41 the municipalities served by the authority and to the public. Nothing in
+42 this section shall be deemed to exempt the authority from any rule or
+43 regulation, including this chapter.
+44 § 1022-n. Bonds, notes and other obligations of the authority. 1. The
+45 authority shall have power and is hereby authorized from time to time to
+46 issue its bonds, notes or other obligations for the purpose of financing
+47 any capital project authorized by this title, including but not limited
+48 to, the acquisition of any real or personal property or facilities
+49 deemed necessary by the authority, development and professional
+50 expenses, and funding any capital or other reserve funds established in
+51 connection with the authority's operations or issuances, in such princi-
+52 pal amount as the trustees shall determine necessary to perform its
+53 corporate duties and further its purposes as authorized in this title.
+54 The maximum maturity of any such bond shall not exceed thirty years from
+55 its date of issuance. The maximum maturity of any such note or other
+56 obligation shall not exceed five years from its date of issuance.
+
+A. 2127--A 22
+1 2. Except as may be otherwise expressly provided by the authority, the
+2 issuance of bonds, notes or other obligations, shall be general obli-
+3 gations of the authority payable out of any moneys or revenues of the
+4 authority, subject only to any agreements with the holders of particular
+5 bonds, notes or other obligations pledging any particular moneys or
+6 revenues.
+7 3. The authority shall have power from time to time, whenever it deems
+8 refunding expedient, to refund any bonds, notes or other obligations by
+9 the issuance of new bonds, notes or other obligations, whether the
+10 bonds, notes or other obligations to be refunded have or have not
+11 matured, and may issue bonds, notes or other obligations partly to
+12 refund bonds, notes or other obligations then outstanding and partly for
+13 any other purpose described in this section. Refunding bonds, notes or
+14 other obligations may be exchanged for the bonds, notes or other obli-
+15 gations to be refunded, with such cash adjustments as may be agreed, or
+16 may be sold with the proceeds applied to the purchase or payment of the
+17 bonds to be refunded.
+18 4. Bonds may be issued either in a series with multiple discrete matu-
+19 rity dates or as term bonds with a single maturity date. The bonds,
+20 notes or other obligations shall be authorized by resolution of the
+21 trustees and shall bear such date or dates, mature at such time or
+22 times, bear interest at such rate or rates, payable annually or semi-an-
+23 nually, be in such denominations, be in such form, carry such registra-
+24 tion privileges, be executed in such manner, be payable in lawful money
+25 of the United States of America at such place or places, and be subject
+26 to such terms of redemption, as such resolution or resolutions may
+27 provide. In the event that term bonds, notes or other obligations are
+28 issued, the resolution authorizing the same may make such provisions for
+29 the establishment and management of adequate sinking funds for the
+30 payment thereof, as the authority may deem necessary.
+31 5. The bonds, notes or other obligations of the authority may be sold
+32 at public or private sale for such price or prices as the authority
+33 shall determine. For a private sale of its securities, the authority
+34 shall obtain the written approval of the terms of such sale from the
+35 comptroller if such sale is to a party other than the comptroller, or
+36 from the director of the budget where such sale is to the comptroller,
+37 in either case prior to closing the issuance transaction.
+38 6. Any resolution authorizing any issuance of bonds, notes or other
+39 obligations may contain provisions, which shall be a part of the
+40 contract between the authority and the holders of the issued securities,
+41 as to:
+42 (a) pledging all or any part of the revenues of the authority or its
+43 projects or any revenue producing contract or contracts made by the
+44 authority with any individual, partnership, limited liability company,
+45 corporation or association to secure the payment of the bonds, notes or
+46 other obligations, subject to such agreements with holders of securities
+47 of the authority;
+48 (b) pledging, assigning or creating a lien on all or any part of
+49 assets of the authority, including mortgages and obligations security
+50 mortgages, to secure the payment of the bonds, subject to such agree-
+51 ments with holders of securities of the authority;
+52 (c) the setting aside of reserves or sinking funds, and the regulation
+53 and disposition thereof;
+54 (d) establishment of special funds for deposit of moneys received from
+55 the proceeds of the issuance of securities as the trustees shall deter-
+
+A. 2127--A 23
+1 mine, consistent with the authorizing resolution and the provisions of
+2 this title;
+3 (e) limitations on the purpose to which the proceeds of sale of any
+4 issuance of bonds, notes or other obligations then or thereafter to be
+5 issued may be applied and pledging such proceeds to secure the payment
+6 of the bonds, notes or other obligations;
+7 (f) limitations of the issuance of additional bonds, notes or other
+8 obligations; the terms upon which additional bonds, notes or other obli-
+9 gations may be issued and secured; and the refunding of outstanding
+10 bonds, notes or other obligations;
+11 (g) the procedure, if any, by which the terms of any contract with
+12 bondholders may be amended or abrogated, the amount of bonds the holders
+13 of which must consent thereto, and the manner in which such consent may
+14 be given;
+15 (h) providing for the appointment and powers of a trustee for holders
+16 of securities, and the rights, powers and duties of such trustee as the
+17 directors may determine;
+18 (i) limitations on the amount of moneys derived from a project to be
+19 expended for operating, administrative or other expenses of the authori-
+20 ty;
+21 (j) defining the acts or omissions to act which shall constitute a
+22 default in the duties of the authority to holders of its obligations and
+23 providing the rights and remedies of such holders in the event of a
+24 default, provided, however, that such rights and remedies shall not be
+25 inconsistent with the laws of the state and any other provisions of this
+26 title; and provided, further, however, that nothing contained in this
+27 title shall be deemed to restrict the right of the state or of any muni-
+28 cipality to amend, modify or otherwise alter statutes, local laws, ordi-
+29 nances, resolutions or agreements imposing or relating to taxes or fees
+30 or appropriations relating thereto; and there shall not be included in
+31 any resolution or contract or agreement with the holders of the bonds,
+32 notes or other obligations authorized by this title any provision which
+33 provides that a default shall occur as a result of the state or of a
+34 municipality exercising its right to amend, modify or otherwise alter
+35 laws, ordinances, resolutions or agreements imposing or relating to
+36 taxes or fees or appropriations relating thereto; and
+37 (k) any other provisions not inconsistent with those enumerated in
+38 this subdivision and necessary to effect its issuances of bonds, notes
+39 or other obligations and the rights of the holders of its securities, or
+40 otherwise in furtherance of its corporate purposes.
+41 7. Notwithstanding any other provision of this title, any such resol-
+42 ution or resolutions shall contain a covenant by the authority that it
+43 will at all times maintain rates, fees or charges sufficient to pay, and
+44 that any contracts entered into by the authority for the sale or
+45 distribution of power shall contain rates, fees or charges sufficient to
+46 pay the costs of operation and maintenance of the project, the principal
+47 of and interest on any obligations issued pursuant to such resolution as
+48 the same severally become due and payable, and to maintain any debt
+49 service coverage ratios and any reserves required by the terms of such
+50 resolution or resolutions.
+51 8. It is the intent of this title that any pledge of revenues or other
+52 moneys or of a revenue producing contract or contracts made by the
+53 authority shall be valid and binding from the time when the pledge is
+54 made; that the revenues or other moneys or proceeds of any contract or
+55 contracts so pledged and thereafter received by the authority shall
+56 immediately be subject to the lien of such pledge without any physical
+
+A. 2127--A 24
+1 delivery thereof or further act; and that the lien of any such pledge
+2 shall be valid and binding as against all parties having claims of any
+3 kind in tort, contract or otherwise against the authority irrespective
+4 of whether such parties have notice thereof. Neither the resolution nor
+5 any other instrument by which a pledge is created need be recorded.
+6 9. Neither the trustees of the authority nor any person executing the
+7 bonds, notes or other obligations shall be liable personally on the
+8 bonds, notes or other obligations or be subject to any personal liabil-
+9 ity or accountability by reason of the issuance thereof.
+10 10. The authority shall have the power out of any funds available
+11 therefor to purchase bonds, notes or other obligations. The authority
+12 may hold, pledge, cancel or resell such bonds, notes or other obli-
+13 gations, subject to and in accordance with agreements with bondholders.
+14 11. Any bonds, notes or other obligations issued by the authority are
+15 hereby made securities in which all public officers and bodies of this
+16 state and all municipalities and municipal subdivisions, all insurance
+17 companies and associations and other persons carrying on an insurance
+18 business, all banks, bankers, trust companies, savings banks and savings
+19 associations, including savings and loan associations, building and loan
+20 associations, investment companies and other persons carrying on a bank-
+21 ing business, and all other persons whatsoever who are authorized to
+22 invest in bonds, notes or other obligations of the state, may properly
+23 and legally invest funds including capital in their control or belonging
+24 to them; subject to the provisions of any other general or special law
+25 to the contrary.
+26 12. The authority is authorized to obtain from any department or agen-
+27 cy of the United States of America or the state or any nongovernmental
+28 insurer or financial institution any insurance, guaranty or other credit
+29 support device, to the extent available, as to, or for the payment or
+30 repayment of interest or principal, or both, or any part thereof, on any
+31 bonds, notes or other obligations issued by the authority and to enter
+32 into any agreement or contract with respect to any such insurance or
+33 guaranty, except to the extent that the same would in any way impair or
+34 interfere with the ability of the authority to perform and fulfill the
+35 terms of any agreement made with the holders of outstanding bonds, notes
+36 or other obligations of the authority.
+37 13. In addition to the powers conferred in this section upon the
+38 authority to secure its bonds, notes or other obligations, the authority
+39 shall have the power in connection with the issuance of bonds, notes or
+40 other obligations to enter into such agreements as the authority may
+41 deem necessary, convenient or desirable concerning the use or disposi-
+42 tion of its revenues or other moneys or property, and for the acquisi-
+43 tion, alteration or disposition of its property, real and personal,
+44 including the mortgaging of any of its properties and the entrusting,
+45 pledging or creation of any other security interest in any such reven-
+46 ues, moneys or properties and the doing of any act, including refraining
+47 from doing any act, which the authority would have the right to do in
+48 the absence of such agreements. The authority shall have the power to
+49 enter into amendments of any such agreements within the powers granted
+50 to the authority by this title and to perform such agreements. The
+51 provisions of any such agreements may be made a part of the contract
+52 with the holders of bonds, notes or other obligations of the authority.
+53 14. All bonds, notes and other obligations issued by the authority
+54 under the provisions of this title are hereby declared to have all the
+55 qualities and incidents of negotiable instruments under the applicable
+56 laws of the state.
+
+A. 2127--A 25
+1 § 1022-o. State and municipalities not liable on bonds or notes or
+2 other obligations. The securities of the authority shall not be a debt
+3 of the state or of any municipality, and neither the state nor any muni-
+4 cipality shall be liable thereon. The authority shall not have the power
+5 to pledge or restrict the credit, the revenues or the taxing power of
+6 the state or of any municipality, and neither the credit, the revenues
+7 nor the taxing power of the state or of any municipality shall be or
+8 shall be deemed to be pledged to the payment of any securities of the
+9 authority. Each evidence of indebtedness of the authority, including the
+10 securities of the authority, shall contain a clear and explicit state-
+11 ment of the provisions of this section. Nothing in this title shall be
+12 deemed to obligate the state or any municipality to make any payments or
+13 impose any taxes to satisfy the debt service obligations of the authori-
+14 ty.
+15 § 1022-p. Agreement of the state. The state does hereby pledge to and
+16 agree with the holders of any bonds, notes or other obligations issued
+17 by the authority under this title, that the state will not limit or
+18 alter the rights hereby vested in the authority to establish and collect
+19 the revenues and other charges referred to in this title and to fulfill
+20 the terms of any agreements made with or for the benefit of the holders
+21 of the securities, or in any way impair the rights and remedies of the
+22 bondholders until such securities are fully met and discharged. The
+23 authority is authorized to include this pledge of the state in all
+24 agreements by the authority with the holders of its securities. Nothing
+25 contained in this title shall be deemed to restrict any right of the
+26 state or municipality to amend, modify, repeal or otherwise alter stat-
+27 utes imposing or relating to taxes or fees, or appropriations relating
+28 thereto. The authority shall not include within any resolution, contract
+29 or agreement with holders of the bonds, notes or other obligations
+30 issued under this article any provision which provides that a default
+31 occurs as a result of the state or of a municipality exercising its
+32 right to amend, modify, repeal or otherwise alter any statute imposing
+33 or relating to taxes, fees, or appropriations relating thereto.
+34 § 1022-q. Exemption of the authority from taxation. 1. It is hereby
+35 found and declared that the operation of the authority is primarily for
+36 the benefit of the people of the participating municipalities, counties
+37 and the state, for the improvement of their health, welfare and prosper-
+38 ity, and is a public purpose, and the authority shall be regarded as
+39 performing an essential governmental function in carrying out the
+40 provisions of this title.
+41 2. The authority shall be required to pay no taxes nor assessments
+42 upon any of the property acquired or controlled by it or upon its activ-
+43 ities in the operation and maintenance thereof or upon income derived
+44 therefrom, provided that nothing herein shall prevent the authority from
+45 entering into agreements to make payments in lieu of taxes.
+46 3. The authority shall make payments in lieu of taxes to munici-
+47 palities and school districts equal to the taxes and assessments which
+48 would have been received from year to year by such jurisdiction.
+49 4. The authority shall also make payments in lieu of taxes for those
+50 taxes which would otherwise be imposed upon a utility corporation pursu-
+51 ant to: (a) section one hundred eighty-six-a and former section one
+52 hundred eighty-six of the tax law as such sections were in effect on
+53 December thirty-first, nineteen hundred ninety-nine; (b) any taxes
+54 imposed by a city within the authority's service area pursuant to the
+55 authorization granted by section twenty-b of the general city law; and
+
+A. 2127--A 26
+1 (c) any taxes imposed by a village within the authority's service area
+2 pursuant to authorization granted by section 5-530 of the village law.
+3 5. Notwithstanding the exemption in subdivision two of this section,
+4 the authority shall also be subject to the assessments imposed pursuant
+5 to section eighteen-a of the public service law.
+6 6. The securities issued by the authority, and the income therefrom
+7 shall, at all times, be free from taxation, except for estate and gift
+8 taxes.
+9 7. Nothing in this title shall relieve the authority from its obli-
+10 gations to register for sales tax purposes, collect state or local sales
+11 and compensating use taxes imposed by or pursuant to the authority of
+12 articles twenty-eight and twenty-nine of the tax law, and otherwise
+13 comply with those articles on its sale of property or services.
+14 § 1022-r. Actions against the authority. 1. Any action, suit or
+15 proceeding to which the authority may be a party in which any question
+16 arises as to the validity of this title or the valuation of stock or
+17 assets acquired by the authority by the exercise of the power of eminent
+18 domain shall be preferred over all other civil causes in all courts of
+19 the state, except election matters, and shall be heard and determined in
+20 preference to all other civil business pending therein, except election
+21 matters, irrespective of position on the calendar. The same preference
+22 shall be granted upon application of counsel to the authority in any
+23 action or proceeding questioning the validity of this title or the valu-
+24 ation of stock or assets acquired by the authority by the exercise of
+25 the power of eminent domain in which such counsel may be allowed to
+26 intervene. The venue of any such action or proceeding shall be laid in
+27 the supreme court pursuant to article five of the civil practice law and
+28 rules.
+29 2. In the event any party shall appeal an award of compensation for
+30 the taking by the authority of stock or assets, such party shall post a
+31 bond in such amount, if any, as the supreme court shall deem appropriate
+32 to adequately protect the interests of the other party under all circum-
+33 stances.
+34 3. An action against the authority founded on tort shall be commenced
+35 in compliance with all the requirements of section fifty-e of the gener-
+36 al municipal law, except that an action against the authority for wrong-
+37 ful death shall be commenced in accordance with the provisions of title
+38 eleven of article nine of this chapter.
+39 § 1022-s. Equal employment opportunity. All contracts entered into by
+40 the authority pursuant to this title of whatever nature and all docu-
+41 ments soliciting bids or proposals therefor shall contain or make refer-
+42 ence to the following provision:
+43 The contractor shall not discriminate against employees or applicants
+44 for employment because of race, creed, color, national origin, sex, age,
+45 disability or marital status, and will undertake or continue existing
+46 programs of affirmative action to ensure that minority group persons and
+47 women are afforded equal opportunity without discrimination. Such
+48 programs shall include, but not be limited to, recruitment, employment,
+49 job assignment, promotion, upgrading, demotion, transfer, layoff, termi-
+50 nation, rates of pay or other forms of compensation, and selection for
+51 training and retraining, including apprenticeship and on-the-job train-
+52 ing.
+53 The HVPA shall diligently follow article fifteen-A of the executive
+54 law to promote contracting with minority- and women-owned business
+55 enterprises (MWBE).
+
+A. 2127--A 27
+1 § 1022-t. Limitation of liability; indemnification. 1. The trustees,
+2 officers and employees of the authority, while acting within the scope
+3 of their authority as trustees, officers or employees, shall not be
+4 subject to any personal or civil liability resulting from the exercise,
+5 carrying out or advocacy of any of the authority's purposes or power
+6 unless the conduct of the trustees, officers or employees is finally
+7 determined by a court of competent jurisdiction to constitute inten-
+8 tional wrongdoing or recklessness.
+9 2. The provisions of section eighteen of the public officers law shall
+10 apply to trustees, officers and employees of the authority in connection
+11 with any and all claims, demands, suits, actions or proceedings which
+12 may be made or brought against any of them arising out of any determi-
+13 nations made or actions taken or omitted to be taken in compliance with
+14 any actions taken pursuant to the powers of this title.
+15 3. As used in this section, the terms "trustee", "officer" and
+16 "employee" shall include a former trustee, officer or employee and such
+17 trustee's, officer's or employee's estate or judicially appointed
+18 personal representative.
+19 4. Nothing in this section shall limit the obligations of a "trustee",
+20 "officer", or "employee" of the authority or of a subsidiary of the
+21 authority as a "person required to collect tax", as such term is defined
+22 in article twenty-eight of the tax law, if such trustee, officer or
+23 employee is, or was, under a duty to act for the authority or subsid-
+24 iary, or both, as the case may be, in complying with any requirement of
+25 article twenty-eight or related provision of article twenty-nine of the
+26 tax law.
+27 § 1022-u. Public service law generally not applicable to the authori-
+28 ty; inconsistent provisions in certain other acts superseded. 1. The
+29 rates, services and practices relating to the electricity generated by
+30 facilities owned or operated by the authority shall not be subject to
+31 the provisions of the public service law or to regulation by, or the
+32 jurisdiction of, the public service commission or the office of renewa-
+33 ble energy siting, except to the extent that:
+34 (a) the commission has promulgated regulations to contribute to
+35 achieving the statewide greenhouse gas emissions limits established in
+36 article seventy-five of the environmental conservation law;
+37 (b) article seven of the public service law applies to the siting and
+38 operation of a major utility transmission facility as defined therein;
+39 and
+40 (c) section eighteen-a of the public service law provides for assess-
+41 ment for certain costs, property or operations.
+42 2. The issuance by the authority of its obligations to acquire securi-
+43 ties or assets of a utility shall be deemed not to be "state action"
+44 within the meaning of the state environmental quality review act, and
+45 such act shall not be applicable in any respect to such acquisition or
+46 any action of the authority to effect such acquisition.
+47 3. In the event that an audit indicates a finding of fraud, abuse, or
+48 mismanagement by a former service provider of the authority, and upon a
+49 finding by the public service commission that reasonable cause exists
+50 for the basis of such indication, the commission may order that any
+51 recommendations contained in the audit be implemented. The public
+52 service commission may also provide in their order, the date in which
+53 any recommendation must be fully implemented. Failure to comply with any
+54 such order can result in the imposition of a civil penalty by the public
+55 service commission against the former service provider or revocation of
+56 the former service provider's authority to operate within the state.
+
+A. 2127--A 28
+1 § 1022-v. Authority subject to certain provisions contained in the
+2 state finance law, the public service law, the social services law and
+3 the general municipal law. All contracts of the authority shall be
+4 subject to the provisions of the state finance law relating to contracts
+5 made by the state. The authority shall also establish rules and regu-
+6 lations with respect to providing to its residential gas and electric
+7 utility customers those rights and protections provided in article two
+8 and sections one hundred seventeen and one hundred eighteen of the
+9 public service law and section one hundred thirty-one-s of the social
+10 services law. The authority shall conform to any safety standards
+11 regarding manual lockable disconnect switches for solar electric gener-
+12 ating equipment established by the public service commission pursuant to
+13 subparagraph (ii) of paragraph (a) of subdivision five and subparagraph
+14 (ii) of paragraph (a) of subdivision five-a of section sixty-six-j of
+15 the public service law. The authority shall let contracts for
+16 construction or purchase of supplies, materials, or equipment pursuant
+17 to section one hundred three and paragraph (e) of subdivision four of
+18 section one hundred twenty-w of the general municipal law.
+19 § 1022-w. Website. The authority shall make accessible to the public,
+20 via its official or shared internet website, documentation pertaining to
+21 its mission, current activities, most recent annual financial reports,
+22 current year budget and its most recent independent audit report unless
+23 such information is covered by subdivision two of section eighty-seven
+24 of the public officers law.
+25 § 1022-x. Periodic review by the legislature. Beginning two years
+26 after the effective date of this section, and not more than every ten
+27 years thereafter, the legislature of the state of New York shall conduct
+28 a comprehensive review, of the structure, activities and operations of
+29 the authority, and the authority shall provide such records, reports and
+30 testimony as the legislature may request to assist in the conduct of
+31 this review.
+32 § 1022-y. Hudson Valley power authority observatory. 1. A not-for-pro-
+33 fit corporation known as the Hudson Valley power authority observatory
+34 shall be established under section one thousand four hundred thirteen of
+35 the not-for-profit corporation law by the inaugural statutory members
+36 and charged with the duties and having the powers provided in this
+37 title. The observatory shall be a special not-for-profit corporation as,
+38 a political subdivision of the state, exercising governmental and public
+39 powers, perpetual in duration, capable of suing and being sued and
+40 having a seal, and which shall have the powers and duties enumerated in
+41 this title, together with such others as may be conferred upon it by
+42 law.
+43 2. The purpose of the observatory is to operate as a quasi-governmen-
+44 tal civil society organization to help the authority achieve its goals
+45 by engaging in community participation, transparency, and local benefit
+46 sharing. The observatory's primary functions are to monitor the utility,
+47 conduct research, and support local projects.
+48 3. The governing board of the observatory shall consist of fifteen
+49 members all of whom shall be residents of the service area. Jointly,
+50 the temporary president of the senate and the speaker of the assembly,
+51 after consultation with state legislators representing the HVPA service
+52 area and elected county and municipal leaders shall appoint eleven
+53 members (members one through eleven). Five of these eleven members shall
+54 have one of the following areas of focus or expertise: environmental
+55 justice, consumer protection, electrification, energy efficiency, and
+56 local governments. The remaining six members shall have expertise from
+
+A. 2127--A 29
+1 one of the relevant sectors as defined in section one thousand twenty-
+2 two-a of this title. In selecting between similarly qualified potential
+3 members, preference shall be given to potential members from counties
+4 that are not yet represented on the board. Jointly, the temporary presi-
+5 dent of the senate and the speaker of the assembly shall consult academ-
+6 ic institutions that are partners to the observatory as well as state
+7 legislators representing the HVPA service area and appoint two academic
+8 members (members twelve and thirteen). If the temporary president of the
+9 senate and the speaker of the assembly are unable to fill a vacancy
+10 after ninety days, the existing governing board of the observatory may
+11 appoint a member. IBEW Local 320 will select two labor member represen-
+12 tatives (members fourteen and fifteen). Members shall serve staggered
+13 four-year terms, except during the first term of appointments upon the
+14 effective date of this title. Members one, five, and nine shall be
+15 appointed for one year; members two, six, ten, and thirteen shall be
+16 appointed for two years; members three, seven, eleven, and fourteen
+17 shall be appointed for three years; and members four, eight,
+18 twelve, and fifteen shall be appointed for four years. This will allow
+19 for staggered appointments to ensure a degree of continuity of committee
+20 membership. The chair of the observatory's governing board shall be
+21 selected by a vote of the members of the governing board.
+22 4. The members shall serve with compensation and shall be entitled to
+23 reimbursement of their actual and necessary expenses incurred in the
+24 performance of their official duties, as may be authorized by the
+25 members, in each case upon appropriate documentation by the submitting
+26 member. The level of compensation will be the value of two course
+27 releases as determined by the academic institution of any members
+28 employed by a college or university, and the members will set the cash
+29 equivalent of a course release for non-academic members on an annual
+30 basis. No member or any entity, the majority of which is owned or
+31 controlled by any member, shall receive any additional compensation from
+32 the authority or be employed by the authority in any other capacity by
+33 whatever means.
+34 5. A majority of the appointed voting membership shall constitute a
+35 quorum for the transaction of business, and the affirmative vote of a
+36 majority of members at a meeting shall be necessary to the validity of
+37 any resolution, order or determination. The members, in by-laws or by
+38 resolution, may allow for attendance at a meeting of the governing board
+39 by speaker phone or any other electronic means by which all meeting
+40 participants can hear one another.
+41 6. The members shall appoint an executive committee of not less than
+42 five members and shall delegate such duties and responsibilities of the
+43 members to the executive committee as it may determine from time to
+44 time. In addition to the executive committee, there will be a monitor-
+45 ing council, research council, and local projects council. The monitor-
+46 ing council shall study the utility as a traditional independent watch-
+47 dog and deliver comments or make recommendations to the Hudson Valley
+48 power authority's board of trustees. The research council shall review
+49 the authority's operations in terms of reliability, affordability,
+50 climate resilience, and environmental justice. The local projects coun-
+51 cil shall support communities in their own efforts to create or imple-
+52 ment energy projects and partnerships independent of the authority. Each
+53 year, the authority will transfer a portion of its revenue into communi-
+54 ty-controlled trust funds. The local projects council will run a parti-
+55 cipatory budgeting process to democratically decide on community benefit
+56 projects the fund can be spent towards. Local elected officials will
+
+A. 2127--A 30
+1 play a critical role in helping shape the process. The members may
+2 appoint such additional committees with such duties and responsibilities
+3 as they may determine from time to time.
+4 7. The members from time to time shall hire, without regard to any
+5 personnel or civil service law, rule or regulation of the state, such
+6 officers and employees, including an executive director and such engi-
+7 neering, management and legal officers, and other professional employ-
+8 ees, including but not limited to accounting, planning, construction,
+9 marketing, finance, appraisal, banking and trustee services, trans-
+10 mission and distribution, energy management, information technology,
+11 cyber security, power supply, human resources, procurement, treasury,
+12 energy efficiency, customer service and any other area of utility oper-
+13 ations, as the members may require for the performance of their duties
+14 and shall prescribe the duties and compensation of each such officer and
+15 employee. Such compensation shall be reasonable and commensurate to the
+16 duties of the position of such officer or employee.
+17 8. The observatory and its non-profit existence shall continue until
+18 terminated by law once incorporated.
+19 9. In the event that the Hudson Valley power authority does not
+20 commence delivering electric power within ten years of the effective
+21 date of this title, the observatory shall cease to exist and the
+22 provisions of this title shall be of no further force and effect.
+23 § 1022-z. Severability. The provisions of this title are severable,
+24 and if any clause, sentence, paragraph, section or part of this title,
+25 or the application thereof to any person or circumstance, shall be
+26 adjudged by any court of competent jurisdiction to be invalid or unen-
+27 forceable, such judgment shall not affect, impair or invalidate the
+28 remainder of this title or the application of such provision to any
+29 other person or circumstance, but shall be confined in its operation to
+30 the clause, sentence, paragraph, section or part thereof or person or
+31 circumstance directly involved in the controversy in which such judgment
+32 shall have been rendered.
+33 § 2. Subdivision 1 of section 51 of the public authorities law is
+34 amended by adding a new paragraph o to read as follows:
+35 o. Hudson Valley Power Authority
+36 § 3. Subdivision 6 of section 1005 of the public authorities law, as
+37 amended by chapter 294 of the laws of 1968, the opening paragraph as
+38 amended by section 18 of part CC of chapter 60 of the laws of 2011,
+39 paragraph d as amended, paragraph e as added and paragraph f as relet-
+40 tered by chapter 369 of the laws of 1974, is amended to read as follows:
+41 6. To develop, maintain, manage and operate its projects other than
+42 the Niagara and Saint Lawrence hydroelectric projects so as (i) to
+43 provide an adequate supply of energy for optimum utilization of its
+44 hydroelectric projects, (ii) to attract and expand high load factor
+45 industry, (iii) to [provide for the additional needs of its municipal
+46 electric and rural electric cooperative customers] operate for the bene-
+47 fit of the general public and, in disposing of electric energy generated
+48 at these facilities, to give preference at all times to municipalities,
+49 other political subdivisions of the state, and cooperatives, (iv) to
+50 provide a supply of power and energy for use in the recharge New York
+51 power program as recharge New York market power, and (v) to assist in
+52 maintaining an adequate, dependable electric power supply for the state.
+53 An application by any municipality, other political subdivision of the
+54 state, or cooperative for an allocation of electric energy shall not be
+55 denied, or another application competing or in conflict therewith be
+56 granted, to any private corporation, company, agency, or person, on the
+
+A. 2127--A 31
+1 ground that any proposed bond or other security issue of any such public
+2 body or cooperative, the sale of which is necessary to enable such
+3 prospective purchaser to enter into the public business of selling and
+4 distributing the electric energy proposed to be purchased, has not been
+5 authorized or marketed, until after a reasonable time, to be determined
+6 by the administrator, has been afforded such public body or cooperative
+7 to have such bond or other security issue authorized or marketed.
+8 It is declared to be the policy of the legislature, as expressed in
+9 this chapter, to preserve the said preferential status of munici-
+10 palities, other political subdivisions of the state, and cooperatives
+11 herein referred to, and to give to the people of the state within
+12 economic transmission distance of the authority's facilities reasonable
+13 opportunity and time to hold any election or elections or take any
+14 action necessary to create such political subdivisions of the state and
+15 cooperatives as the laws of the state authorize and permit, and to
+16 afford such political subdivisions of the state or cooperatives reason-
+17 able time and opportunity to take any action necessary to authorize the
+18 issuance of bonds or to arrange other financing necessary to construct
+19 or acquire necessary and desirable electric distribution facilities, and
+20 in all other respects legally to become qualified purchasers and
+21 distributors of electric energy available under this chapter.
+22 Contracts for the sale, transmission and distribution of power and
+23 energy generated by such projects shall provide for the effectuation of
+24 the policy set forth in this title relating to such projects and shall
+25 provide:
+26 a. Payment of all operating and maintenance expenses of the projects.
+27 b. Interest on and amortization and reserve charges sufficient within
+28 fifty years of the date of issuance to retire the bonds of the authority
+29 issued for the projects.
+30 c. For the cancellation and termination of any such contract upon
+31 violation of the terms thereof by the purchasing, transmitting or
+32 distributing public agency or company, or any subsidiary thereof.
+33 d. That the rates, services and practices of the purchasing, transmit-
+34 ting and/or distributing public agencies and rural electric cooperatives
+35 in respect to the power and energy from such projects shall be governed
+36 by the provisions and principles established in the contract, and not by
+37 regulations of the public service commission or by general principles of
+38 public service law regulating rates, services and practices and that in
+39 the event any such public agencies or cooperatives which purchase power
+40 from the authority shall sell any such power for resale, such sale for
+41 resale shall be made at rates no higher than those at which the power
+42 was purchased from the authority.
+43 e. In the case of a contract with an electric corporation entered into
+44 on or after May first, nineteen hundred seventy-four (i) for assurances
+45 by the electric corporation of prompt and timely payment of all bills
+46 rendered by the authority and that failure to make such prompt and time-
+47 ly payment shall be grounds for immediate termination of the contract,
+48 and (ii) that in the event the contract is so terminated, the electric
+49 company will wheel to such purchasers as the authority may direct the
+50 power and energy that would have been sold to the electric company had
+51 the contract not been terminated.
+52 f. Grant reasonable rate discounts to municipalities, other political
+53 subdivisions of the state, and cooperatives in a manner not inconsistent
+54 with the provisions and policy of this title.
+55 g. In order to foster a close relationship between public power enti-
+56 ties, specifically between the Hudson Valley power authority and the New
+
+A. 2127--A 32
+1 York power authority, the latter is tasked with building, owning, and
+2 operating new transmission for the former under certain circumstances.
+3 Specifically, if the Hudson Valley power authority requests that new
+4 transmission be built by the New York power authority because it would
+5 be cheaper or more efficient than building it itself, the New York power
+6 authority shall not deny any reasonable request.
+7 h. Such other terms not inconsistent with the provisions and policy of
+8 this title as the authority may deem advisable.
+9 § 4. The not-for-profit corporation law is amended by adding a new
+10 section 1413 to read as follows:
+11 § 1413. Energy observatory corporations.
+12 (a) Definitions. An energy observatory corporation is a corporation
+13 formed under or by a general or special law for studying and enabling
+14 effective community governance of power authorities.
+15 (b) Type of corporation. An energy observation corporation is a non-
+16 charitable corporation under this chapter.
+17 (c) Corporate name. An energy observatory corporation shall be called
+18 the name of the authority it monitors and studies with "observatory"
+19 appended to it at the end. No other corporation shall have the same
+20 name.
+21 (d) Governing board. An energy observatory corporation shall be
+22 managed by its governing board. The number of members shall not be less
+23 than five and shall not be greater than twenty. The members should have
+24 a diversity of experience from the following relevant sectors: environ-
+25 mental justice, consumer protection, indigenous nation rights, community
+26 renewable energy, electrification, energy efficiency, workplace issues,
+27 and local government.
+28 (e) Funding of the observatory corporation:
+29 (1) An observatory corporation shall be funded through a monthly fee
+30 of each ratepayer served by the authority. The observatory shall be set
+31 up with a one-time donation of not less than five hundred thousand
+32 dollars from the authority.
+33 (2) An observatory corporation shall not issue bonds, stocks, or other
+34 security interests or incur a debt to a bank or other financial institu-
+35 tion of any duration.
+36 (3) An observatory corporation shall only place cash reserves or
+37 surplus in a checking or savings account at a depository institution.
+38 (f) Restrictions on the formation of corporations. There shall be but
+39 one energy observation corporation per authority.
+40 (g) Staff. An energy observatory corporation shall employ an executive
+41 director, staff, and such other agents and employees, permanent or
+42 temporary, as it may require, and may determine the qualifications and
+43 fix the compensation and benefits of such persons.
+44 (h) Public assemblies. The board and executive director shall hold
+45 semi-annual assemblies to ensure public participation, transparency and
+46 accountability.
+47 § 5. This act shall take effect on the one hundred eightieth day after
+48 it shall have become a law. Effective immediately, the addition, amend-
+49 ment and/or repeal of any rule or regulation necessary for the implemen-
+50 tation of this act on its effective date are authorized to be made and
+51 completed on or before such effective date.

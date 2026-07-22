@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - S8712A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8712--A
+IN SENATE
+January 7, 2026
+___________
+Introduced by Sens. HINCHEY, FAHY -- read twice and ordered printed, and
+when printed to be committed to the Committee on Energy and Telecommu-
+nications -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the public service law, in relation to the siting,
+design, construction and operation of major renewable energy facili-
+ties and to applications therefor; and providing for the repeal of
+certain provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 137 of the public service law is amended by adding
+2 two new subdivisions 14 and 15 to read as follows:
+3 14. "Agrivoltaics" shall mean the simultaneous use of areas of land
+4 for both solar power generation and agriculture through a ground-mounted
+5 photovoltaic solar energy system constructed, installed, and operated to
+6 achieve integrated and simultaneous production of both solar energy and
+7 marketable agricultural products and activities by an agricultural
+8 producer, provided that such use:
+9 (a) is constructed, installed, and operated to achieve integrated and
+10 simultaneous production of both solar energy and marketable agricultural
+11 products consistent with commercial agricultural production, as soon as
+12 agronomically feasible and continuing until decommissioning, on land
+13 beneath or between rows of solar panels;
+14 (b) has been intentionally planned and designed with agricultural
+15 producers or experts;
+16 (c) has provisions for decommissioning to protect the land's agricul-
+17 tural resources and utility; and
+18 (d) does not significantly displace farming activity.
+19 15. "Agricultural products and activities" shall include: (a) crop
+20 production; (b) animal husbandry; and (c) livestock grazing or cattle
+21 grazing; provided, however, that agricultural products and activities
+22 shall not include sheep grazing as the sole farming activity except
+23 where the land utilized is currently utilized exclusively for such
+24 purpose; and provided further, however, that agricultural products and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14269-03-6
+
+S. 8712--A 2
+1 activities shall not include pollinator habitats, apiaries, or both as
+2 the sole farming activities.
+3 § 2. Subdivision 1 of section 138 of the public service law is amended
+4 by adding a new paragraph (d) to read as follows:
+5 (d) In its review of applications for permits pursuant to this arti-
+6 cle, ORES shall give priority to previously developed sites and existing
+7 or abandoned commercial sites, including without limitation brownfields,
+8 landfills, former commercial or industrial sites, dormant electric
+9 generating sites, parking lots as defined in section one hundred twen-
+10 ty-nine-b of the vehicle and traffic law, warehouse distribution centers
+11 as defined in section seven hundred eighty of the labor law, correction-
+12 al facilities as defined in article one of the corrections law, retail
+13 establishments of greater than twenty-five thousand square feet, road-
+14 side rest areas pursuant to section twenty of the highway law, and
+15 otherwise underutilized sites.
+16 § 3. Subdivision 4 of section 138 of the public service law, as added
+17 by section 11 of part O of chapter 58 of the laws of 2024, is amended to
+18 read as follows:
+19 4. The uniform standards and conditions established pursuant to this
+20 section shall be designed to avoid, minimize, or mitigate to the maximum
+21 extent practicable, potential significant adverse impacts to land used
+22 in agricultural production, with additional consideration for land with-
+23 in an agricultural district or land that contains mineral soil groups
+24 [1-4] 1-7. In its review of an application for a permit pursuant to this
+25 article, ORES, in consultation with the department of agriculture and
+26 markets, shall ensure that a critical mass of farmland within the desig-
+27 nated region is not threatened and ensure that solar development shall
+28 not greatly hinder the amount of farmland within New York state and/or
+29 be a potential threat to the state's food security. The department of
+30 agriculture and markets shall determine the definition of a critical
+31 mass of farmland for a given region and determine when it is threatened.
+32 Two years after the effective date of the chapter of the laws of two
+33 thousand twenty-six that amended this subdivision, the office, in
+34 conjunction with the public service commission and the department of
+35 agriculture and markets, shall reevaluate the efficacy of this subdivi-
+36 sion and propose recommendations to the legislature, including but not
+37 limited to, the consideration of new pertinent technology and/or infor-
+38 mation. The provisions of this subdivision shall not apply in the
+39 consideration of any permits for siting, design, construction, or opera-
+40 tion of a major renewable energy facility for which a completed applica-
+41 tion has been received by the office of renewable energy siting and
+42 electric transmissions prior to the adoption of amended uniform stand-
+43 ards and conditions consistent with this subdivision.
+44 § 4. The public service law is amended by adding a new section 149 to
+45 read as follows:
+46 § 149. Rules and regulations. ORES shall establish and/or amend rules
+47 and regulations pertaining to the standards related to siting major
+48 renewable energy facilities to include the following:
+49 1. the definition of prime farmland as defined in part 622.04 of the
+50 USDA handbook and the definitions of unique farmland, specific charac-
+51 teristics of unique farmland, additional farmland of statewide impor-
+52 tance, and additional farmland of local importance as such terms are
+53 defined in 7 CFR § 657.5.
+54 2. preapplication procedures which require applicants to:
+55 (a) submit a report delineating the impacts to prime agricultural land
+56 and prime soils, unique farmland and farmland of statewide and local
+
+S. 8712--A 3
+1 importance, including mineral soil groups 1-7 as defined by the depart-
+2 ment of agriculture and markets;
+3 (b) submit a cumulative impact study as to how the use of farmland for
+4 solar siting will impact the regional food economy and regional overall
+5 farmland protection plan;
+6 (c) ensure that a critical mass of farmland within the designated
+7 region is not threatened, as determined by the department of agriculture
+8 and markets. Two years after the effective date of this section, the
+9 office, in conjunction with the public service commission and the
+10 department of agriculture and markets, shall reevaluate the efficacy of
+11 this subdivision and propose recommendations to the legislature, includ-
+12 ing but not limited to, the consideration of new pertinent technology
+13 and/or information; and
+14 (d) submit an affidavit of financial solvency, including financial
+15 statements.
+16 3. application procedures for major renewable energy facility siting
+17 permits. Such procedures shall require that each application for such
+18 permits include:
+19 (a) the submission of a cumulative impact statement within the study
+20 area which includes the following criteria:
+21 (i) categories based on solar array size, specifying the array capaci-
+22 ty and how much power or electricity is expected to be generated,
+23 on-site or associated electric load, and the land use footprint, includ-
+24 ing the acreage of land underlying the array;
+25 (ii) customer type by identifying the end-use entity consuming the
+26 electricity or receiving the electric credits generated by the project
+27 and how such end-user is classified in utilities' established electric
+28 rate structures for different customer classes, including residential,
+29 commercial, industrial, agricultural or low-income;
+30 (iii) categories based on solar array location, specifying whether
+31 solar arrays are roof-mounted, and designating preferred sites for solar
+32 development and ineligible sites; and
+33 (iv) categories based on solar array design, including specifying
+34 whether such solar array utilizes dual use or agrivoltaics; and
+35 (b) for major renewable energy facilities sited on prime soils or
+36 farmlands, the submission by the applicant of decommissioning plans for
+37 arrays on agricultural land and decommissioning bonds for commercial-
+38 scale projects. Such application procedures shall require the applicant
+39 to:
+40 (i) include a decommissioning plan in the application;
+41 (ii) show substantial evidence that all structures and materials will
+42 be removed upon decommissioning of such facility and ensure that soils
+43 will be capable of agricultural production; and
+44 (iii) obtain a form of insurance, including but not limited to decom-
+45 missioning surety bonds, to secure all or a part of decommissioning
+46 costs required at the conclusion of the lease and submit proof of such
+47 insurance to ORES.
+48 4. the submission of a farmland conservation fee of one percent of the
+49 price per acre of prime soil or prime farmland on which solar is devel-
+50 oped. Such farmland conservation fee shall be deposited in the agricul-
+51 tural and farmland viability protection fund established pursuant to
+52 section ninety-nine-pp of the state finance law, as added by chapter 652
+53 of the laws of 2022; provided, however, that if the project is an agri-
+54 voltaics project, the applicant shall not be required to submit the
+55 farmland conservation fee.
+
+S. 8712--A 4
+1 5. farmland protection. Such rules and regulations shall require ORES
+2 to consider the regional impacts, based on the economic development
+3 council region pursuant to section two hundred thirty of the economic
+4 development law, on farmland preservation, local food supply chains, and
+5 statewide food security; provided, however, that the office shall ensure
+6 that a critical mass of farmland within the designated region is not
+7 threatened, as determined by the department of agriculture and markets.
+8 Two years after the effective date of this section, the office, in
+9 conjunction with the public service commission and the department of
+10 agriculture and markets, shall reevaluate the efficacy of this subdivi-
+11 sion and propose recommendations to the legislature, including but not
+12 limited to, the consideration of new pertinent technology and/or infor-
+13 mation.
+14 § 5. This act shall take effect immediately; provided, however, that
+15 the amendments to article 8 of the public service law made by sections
+16 one, two, three and four of this act shall not affect the repeal of such
+17 article and shall be deemed repealed therewith.

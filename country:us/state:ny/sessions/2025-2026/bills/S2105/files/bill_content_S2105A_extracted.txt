@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - S2105A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2105--A
+2025-2026 Regular Sessions
+IN SENATE
+January 15, 2025
+___________
+Introduced by Sen. COONEY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Insurance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the insurance law and the public health law, in relation
+to the use of virtual credit cards by insurers and certain health care
+plans
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 3217-b of the insurance law is amended by adding a
+2 new subsection (p) to read as follows:
+3 (p)(1) An insurer may pay a claim for reimbursement made by a provider
+4 using a credit card, virtual credit card, or electronic funds transfer
+5 payment method that imposes on the provider a specifically identified
+6 fee or similar dedicated charge to process the payment if in advance of
+7 using such reimbursement method:
+8 (A) The insurer notifies the provider of the potential fees or other
+9 charges associated with the use of the credit card, virtual credit card,
+10 or electronic funds transfer payment;
+11 (B) The insurer offers the provider an alternative payment method that
+12 does not impose fees or similar charges on the provider; and
+13 (C) The provider or a designee of the provider elects to accept
+14 payment of the claim using the credit card, virtual credit card, or
+15 electronic funds transfer payment method.
+16 (2) A decision pursuant to paragraph one of this subsection shall
+17 remain in effect until the provider notifies the insurer, in writing, of
+18 a change in the designated payment type.
+19 (3) If an insurer contracts with a vendor to process payments of
+20 providers' claims, the insurer shall require the vendor to comply with
+21 the provisions of paragraph one of this subsection.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03607-05-5
+
+S. 2105--A 2
+1 (4) No policy or contract issued, renewed, modified, altered or
+2 amended after the effective date of this section shall contain
+3 provisions allowing for waiver of the notice requirements contained in
+4 this subsection.
+5 (5) For any contract that is in effect on or before the effective date
+6 of this subsection or that is entered into, amended or renewed on or
+7 after the effective date of this subsection, an insurer that initiates a
+8 payment to a provider using, or changes the payment method to, a health
+9 care electronic funds transfers and remittance advice transaction shall
+10 not charge a fee solely to transmit the payment to the provider unless
+11 the provider consents to the fee.
+12 (6) For purposes of this subsection, the following terms shall have
+13 the following meanings:
+14 (A) "Provider" shall mean a health care professional or a group of
+15 health care professionals licensed pursuant to title eight of the educa-
+16 tion law that has a participating provider contract with an insurer to
+17 provide health care services to an insured.
+18 (B) "Virtual credit card" shall mean a single-use series of numbers
+19 linked to a fixed dollar amount and provided by an insurer to a provider
+20 for the purpose of paying a claim for health care services performed by
+21 the provider.
+22 § 2. Section 4325 of the insurance law is amended by adding a new
+23 subsection (p) to read as follows:
+24 (p) (1) A corporation organized under this article may pay a claim for
+25 reimbursement made by a provider using a credit card, virtual credit
+26 card, or electronic funds transfer payment method that imposes on the
+27 provider a specifically identified fee or similar charge dedicated to
+28 process the payment if in advance of using such reimbursement method:
+29 (A) The corporation notifies the provider of the potential fees or
+30 other charges associated with the use of the credit card, virtual credit
+31 card, or electronic funds transfer payment;
+32 (B) The corporation offers the provider an alternative payment method
+33 that does not impose fees or similar charges on the provider; and
+34 (C) The provider or a designee of the provider elects to accept
+35 payment of the claim using the credit card, virtual credit card, or
+36 electronic funds transfer payment method.
+37 (2) A decision pursuant to paragraph one of this subsection shall
+38 remain in effect until the provider notifies the corporation, in writ-
+39 ing, of a change to the designated payment type.
+40 (3) If a corporation contracts with a vendor to process payments of
+41 providers' claims, the insurer shall require the vendor to comply with
+42 the provisions of paragraph one of this subsection.
+43 (4) No policy or contract issued, renewed, modified, altered or
+44 amended after the effective date of this section shall contain
+45 provisions allowing for waiver of the notice requirements contained in
+46 this subsection.
+47 (5) For any contract that is in effect on or before the effective date
+48 of this subsection or that is entered into, amended or renewed on or
+49 after the effective date of this subsection, a corporation that initi-
+50 ates a payment to a provider using, or changes the payment method to, a
+51 health care electronic funds transfers and remittance advice transaction
+52 shall not charge a fee solely to transmit the payment to the provider
+53 unless the provider elects to accept payment in accordance with subpara-
+54 graph (B) of paragraph one of this subsection.
+55 (6) For purposes of this subsection, the following terms shall have
+56 the following meanings:
+
+S. 2105--A 3
+1 (A) "Provider" shall mean a health care professional or a group of
+2 health care professionals licensed pursuant to title eight of the educa-
+3 tion law that has a participating provider contract with a corporation
+4 to provide health care services to an insured.
+5 (B) "Virtual credit card" shall mean a single-use series of numbers
+6 linked to a fixed dollar amount and provided by a corporation organized
+7 under this article to a provider for the purpose of paying a claim for
+8 health care services performed by the provider.
+9 § 3. Section 4406-c of the public health law is amended by adding a
+10 new subdivision 14 to read as follows:
+11 14. (a) A health care plan may pay a claim for reimbursement made by a
+12 provider using a credit card, virtual credit card, or electronic funds
+13 transfer payment method that imposes on the provider a specifically
+14 identified fee or similar dedicated charge to process the payment if in
+15 advance of using such reimbursement method:
+16 (i) The health care plan notifies the provider of the potential fees
+17 or other charges associated with the use of the credit card, virtual
+18 credit card, or electronic funds transfer payment;
+19 (ii) The health care plan offers the provider an alternative payment
+20 method that does not impose fees or similar charges on the provider; and
+21 (iii) The provider or a designee of the provider elects to accept
+22 payment of the claim using the credit card, virtual credit card, or
+23 electronic funds transfer payment method.
+24 (b) A decision pursuant to paragraph (a) of this subdivision shall
+25 remain in effect until the provider notifies the health care plan, in
+26 writing, of a change to the designated payment type.
+27 (c) If a health care plan contracts with a vendor to process payments
+28 of providers' claims, the health care plan shall require the vendor to
+29 comply with the provisions of paragraph (a) of this subdivision.
+30 (d) No policy or contract issued, renewed, modified, altered or
+31 amended after the effective date of this section shall contain
+32 provisions allowing for waiver of the notice requirements contained in
+33 this subdivision.
+34 (e) For any contract that is in effect on or before the effective date
+35 of this subdivision or that is entered into, amended or renewed on or
+36 after the effective date of this subdivision, a health care plan that
+37 initiates a payment to a provider using, or changes the payment method
+38 to, a health care electronic funds transfers and remittance advice tran-
+39 saction shall not charge a fee solely to transmit the payment to the
+40 provider unless the provider elects to accept payment in accordance with
+41 subparagraph (ii) of paragraph (a) of this subdivision.
+42 (f) For purposes of this section, the following definitions shall
+43 apply:
+44 (i) "Provider" shall mean a health care professional or a group of
+45 health care professionals licensed pursuant to title eight of the educa-
+46 tion law that has a participating provider contract with a health care
+47 plan to provide health care services to an enrollee.
+48 (ii) "Virtual credit card" shall mean a single-use series of numbers
+49 linked to a fixed dollar amount and provided by a health care plan to a
+50 provider for the purpose of paying a claim for health care services
+51 performed by the provider.
+52 § 4. This act shall take effect on the one hundred eightieth day after
+53 it shall have become a law and shall apply to policies and contracts
+54 issued, renewed, modified, altered or amended on and after such date.

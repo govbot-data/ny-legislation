@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - A8872A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8872--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 9, 2025
+___________
+Introduced by M. of A. SOLAGES -- read once and referred to the Commit-
+tee on Transportation -- recommitted to the Committee on Transporta-
+tion in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the vehicle and traffic law and the transportation law,
+in relation to creating a plan to increase the availability of wheel-
+chair accessible vehicles in New York state outside of the city of New
+York
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative intent. This Legislature finds that no uniform
+2 regulations exist across New York state outside of New York city which
+3 define wheelchair accessible vehicles. Despite the need for mobility
+4 services for the disabled population, substantive information on wheel-
+5 chair accessible vehicle standards and the number of such vehicles
+6 available does not exist in each county across New York state outside of
+7 New York City.
+8 As such, this Legislature finds that defining a wheelchair accessible
+9 vehicle, creating a plan for wheelchair accessible vehicles, creating
+10 benchmarks and granting support for counties across New York state other
+11 than New York City, would allow for local authorities to make informed
+12 policies to increase mobility transportation options for individuals who
+13 are reliant on the use of a wheelchair accessible vehicle.
+14 § 2. The vehicle and traffic law is amended by adding a new section
+15 159-b to read as follows:
+16 § 159-b. "Wheelchair accessible vehicle". A vehicle, including a taxi-
+17 cab, that has been inspected and approved by the municipal or local
+18 authorizing body as possessing all of the following requirements:
+19 1. Mobility and accessibility
+20 (a) The lift/ramp width shall be thirty inches minimum.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11778-06-6
+
+A. 8872--A 2
+1 (b) The design load of the lift/ramp shall be at least six hundred
+2 pounds.
+3 (c) Controls for the lift/ramp shall be interlocked with the vehicle
+4 to ensure that the vehicle cannot be moved while the lift/ramp is in
+5 operation.
+6 (d) Controls for the lift/ramp shall be of the momentary contact type
+7 requiring continuous manual pressure to operate.
+8 (e) The lift/ramp shall be equipped with an emergency deployment meth-
+9 od in the event of power or mechanical failure.
+10 (f) The installation of a lift/ramp shall include provisions to
+11 prevent the lift/ramp from falling or folding any faster than twelve
+12 inches/second in the event of any failure of the load-carrying compo-
+13 nent.
+14 (g) The lift/ramp platform shall be equipped with handrails on two
+15 sides, a minimum of eight inches long and thirty inches above the plat-
+16 form and move in tandem with the lift/ramp.
+17 (h) The lift/ramp platform shall have barriers at least two inches or
+18 higher to prevent mobility aid wheels from slipping off.
+19 (i) Lift/platform surfaces shall be continuous and slip resistant and
+20 accommodate four-wheel and three-wheel mobility aids.
+21 (j) The transition from roadway or sidewalk and the transition from
+22 vehicle floor to the ramp may be vertical without edge treatment up to
+23 one-quarter inch.
+24 (k) Ramps shall have the least slope practical and may not exceed a
+25 one to four ratio when deployed to ground level.
+26 (l) The lift/ramp attachment shall be firmly attached to the vehicle
+27 so that it is not subject to displacement when loading or unloading a
+28 heavy mobility aid and the gap between the vehicle and ramp may not
+29 exceed five-eighths of an inch.
+30 (m) The lift/ramp shall be usable in all weather conditions.
+31 2. Doors, steps and thresholds
+32 (a) For vehicles twenty-two feet in length or less, the overhead
+33 clearance between the top of the door opening. The raised lift platform
+34 or highest point of the ramp shall be a minimum of fifty-nine inches.
+35 (b) Vehicle doorways in which a lift/ramp is installed shall have a
+36 light above or beside each passenger access door to illuminate the load-
+37 ing equipment. Such light shall be constantly lit during the loading or
+38 unloading of passengers. The light shall be shielded to protect the eyes
+39 of entering and exiting passengers.
+40 3. Interior compartment
+41 (a) Floor areas where people walk and securement locations shall have
+42 slip-resistant surfaces.
+43 (b) A minimum clear floor area of thirty inches by forty-eight inches
+44 shall be provided for each wheelchair position.
+45 (c) Regarding seating configuration, vehicles twenty-two feet in
+46 length or less shall provide forward/rear seating only.
+47 (d) Ramp stowage shall be accomplished in a manner as not to pose a
+48 hazard to passengers or impinge on a passenger's mobility aid.
+49 (e) Interior handrails and stanchions shall permit sufficient turning
+50 and maneuvering space for mobility aids including wheelchairs to reach
+51 securement location from lift/ramp.
+52 (f) Handrails and stanchions shall be provided in the entrance to the
+53 vehicle in a configuration which allows people to grasp the assists from
+54 outside the vehicle while starting to board, and to continue using the
+55 assists throughout the boarding process.
+56 4. Secure systems
+
+A. 8872--A 3
+1 (a) A vehicle shall possess a wheelchair securement system that is
+2 able to securely anchor the wheelchair into the vehicle, or able to
+3 encompass both the occupant and the wheelchair to ensure they are
+4 securely anchored into the vehicle.
+5 (b) For each mobility aid securement device, a passenger seat belt and
+6 shoulder harness shall be provided for use by mobility aid users. Such
+7 seat belts shall be in addition to a device which secures the mobility
+8 aid itself.
+9 (c) Securement systems shall be stowed in a way so as not to pose a
+10 hazard to passengers when not in use.
+11 § 3. The vehicle and traffic law is amended by adding a new section
+12 224-b to read as follows:
+13 § 224-b. Wheelchair accessible vehicle availability plan. 1. The
+14 commissioner shall create a plan relating to the availability of wheel-
+15 chair accessible vehicles in every county of the state outside the city
+16 of New York. Each such county shall provide the department with relevant
+17 data necessary to complete such plan. The scope of the plan shall
+18 include:
+19 (a) the number of for-hire operators within each county;
+20 (b) the size of the fleet of each for-hire company or operator;
+21 (c) the number of wheelchair accessible vehicles in each fleet;
+22 (d) the catchment areas of such for-hire companies or operators; and
+23 (e) any county policies or laws governing the availability or licens-
+24 ing of wheelchair accessible vehicles.
+25 2. All information compiled pursuant to this section shall be assem-
+26 bled and integrated into a statewide mapping platform to identify areas
+27 with insufficient availability of wheelchair accessible vehicles. Such
+28 information shall be made publicly available on the department's
+29 website.
+30 3. Upon completion of the plan, the department, in consultation with
+31 the office for people with developmental disabilities and the department
+32 of health, shall assess county-level data and establish benchmarks based
+33 on United States census bureau American community survey data on ambula-
+34 tory disabilities. Such benchmarks shall be included in the plan, along
+35 with recommendations for grant programs and tax incentives to encourage
+36 engagement in an effort to provide transportation options to expand the
+37 availability of wheelchair accessible vehicles. The plan should also
+38 include identification of pre-existing fiscal resources which are avail-
+39 able to transportation network companies, other for-hire entities, and
+40 individuals who possess qualifying wheelchair accessible vehicles.
+41 4. If the department determines that a county lacks adequate resources
+42 to meet the needs of individuals requiring wheelchair accessible vehi-
+43 cles, the department shall, in consultation with: (a) the county or any
+44 other relevant governmental entity, (b) transportation network compa-
+45 nies, (c) other for-hire entities, and (d) individuals who possess
+46 wheelchair accessible vehicles, create a plan to meet the benchmarks
+47 established pursuant to subdivision three of this section. The commis-
+48 sioner shall then publish the findings, and subsequent plan, on the
+49 department's website and provide notice to each affected county.
+50 § 4. The closing paragraph of section 151 of the transportation law,
+51 as amended by section 8 of part G of chapter 58 of the laws of 2012, is
+52 amended and a new subdivision 13 is added to read as follows:
+53 13. As a for-hire or livery service, except as specified for wheel-
+54 chair accessible vehicles pursuant to section two hundred twenty-four-b
+55 of the vehicle and traffic law, which is pursuant to the jurisdiction or
+56 regulatory control of a municipality, other than a city with a popu-
+
+A. 8872--A 4
+1 lation over one million, authorized to adopt an ordinance relating to
+2 both registration and licensing pursuant to subdivision one of section
+3 one hundred eighty-one of the general municipal law, when such service
+4 is available to the general public on a prearranged or demand-response
+5 basis over a non-specified or irregular route with the point or points
+6 of pick-up and discharge determined by the passenger. For the purpose of
+7 this subdivision, wheelchair accessible vehicles shall be defined pursu-
+8 ant to section one hundred fifty-nine-b of the vehicle and traffic law.
+9 For the purposes of this article, the term "sedan" or "sedans" as used
+10 [herein] in this section shall include private passenger automobiles,
+11 but shall not include commercial motor vehicles with a seating capacity
+12 of eleven persons or more including the driver, or commercially operated
+13 wheelchair accessible vehicles pursuant to subdivision thirteen of this
+14 section.
+15 § 5. This act shall take effect on the ninetieth day after it shall
+16 have become a law.
