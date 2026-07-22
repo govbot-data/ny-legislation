@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - A9588B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9588--B
+IN ASSEMBLY
+January 21, 2026
+___________
+Introduced by M. of A. TORRES, LEVENBERG, HEVESI, HYNDMAN -- read once
+and referred to the Committee on Banks -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- again reported from said committee with amendments, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to prohibiting certain
+financial institutions from charging fees based on the frequency of
+mortgage payments or changing such payment schedule
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new section 9-aa to
+2 read as follows:
+3 § 9-aa. Fees for certain mortgage payments prohibited. 1. For the
+4 purposes of this section, the following terms shall have the following
+5 meanings:
+6 (a) "Mortgage payment servicer" shall mean a mortgage loan servicer as
+7 defined in section five hundred ninety of this chapter, any banking
+8 organization, a licensed mortgage banker pursuant to article twelve-D of
+9 this chapter, an interstate branch established pursuant to article
+10 five-C of this chapter, or other person or entity, to the extent such
+11 person or entity, directly or indirectly, services, administers, or
+12 processes payments on a mortgage loan. Such term shall not include any
+13 national bank, federal savings bank, federal savings and loan asso-
+14 ciation, federal credit union, or any entity chartered or licensed by
+15 the United States;
+16 (b) "Monthly" shall mean once per calendar month;
+17 (c) "Semi-monthly" shall mean twice per calendar month; and
+18 (d) "Biweekly" shall mean once every fourteen days.
+19 2. (a) Notwithstanding any other provision of law or rule or regu-
+20 lation to the contrary, no mortgage payment servicer shall, directly or
+21 indirectly, charge a fee or other charge to a mortgagor for making
+22 payments on a mortgage loan on a monthly, semi-monthly, or biweekly
+23 schedule.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13935-05-6
+
+A. 9588--B 2
+1 (b) Such prohibited fees or other charges shall include, but not be
+2 limited to:
+3 (i) additional costs, payments, fees, penalties, or premiums for
+4 changing between monthly, semi-monthly, and biweekly mortgage payment
+5 plans; and
+6 (ii) payment of an additional principal or interest payment on a mort-
+7 gage, or any part thereof, as a condition for changing a mortgage
+8 payment schedule, except to the extent necessary to align the mortgage
+9 with the new payment schedule.
+10 3. (a) No mortgage payment servicer shall prohibit a mortgagor from
+11 electing to pay a mortgage on a monthly, semi-monthly, or biweekly sche-
+12 dule. A mortgage payment servicer shall permit a mortgagor to change the
+13 frequency of such mortgagor's mortgage payments among such payment sche-
+14 dules.
+15 (b) A mortgage payment servicer may require reasonable adjustments
+16 that are necessary to implement a change in payment schedule, including
+17 adjustments to align payment due dates or escrow obligations; provided
+18 that such adjustments are not used to evade or unreasonably restrict the
+19 requirements of this section.
+20 4. (a) Notwithstanding any other provision of law or rule or regu-
+21 lation to the contrary, each mortgage payment servicer shall, upon
+22 request of a mortgagor, provide such mortgagor with an amortization
+23 schedule and an estimate of potential interest savings if such mortgagor
+24 were to choose a monthly, semi-monthly, or biweekly mortgage payment
+25 schedule and information on how to change to a different payment sched-
+26 ule.
+27 (b) (i) The superintendent shall prescribe by regulation a standard-
+28 ized written notice to be provided to mortgagors informing them of their
+29 rights under this section, including, but not limited to, the right to
+30 elect and change the frequency of mortgage payments among monthly, semi-
+31 monthly, and biweekly payment schedules, and the prohibition on fees or
+32 other charges for such election or change.
+33 (ii) Each mortgage payment servicer shall provide such notice to a
+34 mortgagor at the time a mortgage is originated or first serviced by such
+35 mortgage payment servicer and upon request of a mortgagor.
+36 (iii) The superintendent may prescribe the form, manner, and timing of
+37 such notice, including whether such notice may be provided electron-
+38 ically.
+39 5. If any provision of this section or its application to any person
+40 or circumstance is held invalid, the invalidity does not affect other
+41 provisions or application of this section which can be given effect
+42 without the invalid provision or application, and to this end the
+43 provisions of this section are severable.
+44 6. Nothing in this section shall be construed to require any person or
+45 entity to act in a manner inconsistent with federal law or regulation,
+46 and to the extent of any conflict, federal law shall control.
+47 7. A violation of this section shall constitute a violation of this
+48 chapter and shall be subject to all penalties and remedies available to
+49 the superintendent pursuant to this chapter and any other applicable
+50 law.
+51 § 2. This act shall take effect on the one hundred eightieth day after
+52 it shall have become a law and shall apply to mortgage loans serviced on
+53 or after such effective date.

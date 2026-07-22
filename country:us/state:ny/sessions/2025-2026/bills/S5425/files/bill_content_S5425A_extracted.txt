@@ -1,0 +1,239 @@
+Title: 
+Official Title: 
+Source: versions - S5425A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5425--A
+2025-2026 Regular Sessions
+IN SENATE
+February 21, 2025
+___________
+Introduced by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+when printed to be committed to the Committee on Judiciary -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the civil practice law and rules, in relation to arbi-
+tration agreements
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 75 of the civil practice law and rules is amended
+2 by adding a new section 7500 to read as follows:
+3 § 7500. Definitions. As used in this article:
+4 (a) "Arbitration" means a form of dispute resolution that is an alter-
+5 native to litigation, in which the parties agree to be bound by the
+6 determination of a neutral third party arbitrator.
+7 (b) "Neutral third party arbitrator" means an arbitrator or panel of
+8 arbitrators each of whom does not have an undisclosed known, direct or
+9 material interest, including a financial or personal interest in the
+10 outcome of the arbitration proceeding, or a known, existing or past
+11 relationship with any of the parties to the agreement to arbitrate or
+12 the arbitration proceeding, their counsel or representatives, a witness,
+13 or another arbitrator.
+14 (c) "Employment" means a relationship between an employer and an
+15 employee as defined in section three of the Fair Labor Standards Act of
+16 1938 (29 U.S.C. § 203).
+17 (d) "Consumer" means a natural person residing in this state.
+18 (e) "Consumer goods" means goods, wares, paid merchandise or services
+19 purchased or paid for by a consumer, the intended use or benefit of
+20 which is intended for the personal, family or household purposes of such
+21 consumer.
+22 § 2. Section 7501 of the civil practice law and rules, as amended by
+23 chapter 532 of the laws of 1963, is amended to read as follows:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD07891-02-5
+
+S. 5425--A 2
+1 § 7501. Effect of arbitration agreement. A written agreement to
+2 submit any controversy thereafter arising or any existing controversy to
+3 arbitration is enforceable without regard to the justiciable character
+4 of the controversy and confers jurisdiction on the courts of the state
+5 to enforce it and to enter judgment on an award; provided, however, that
+6 any portion of an agreement or contract requiring the controversy
+7 concerning employment or the providing of consumer goods be submitted to
+8 an arbitrator or arbitration organization that is not a neutral third
+9 party arbitrator, shall be deemed void. The requirement that the
+10 controversy be heard by a neutral third party arbitrator may not be
+11 waived by a party prior to the service on such party of a demand for
+12 arbitration. Upon disclosure pursuant to section seventy-five hundred
+13 five-a of this article, a party shall be deemed to have waived any
+14 objection to the arbitrator or composition of any arbitration panel, by
+15 failing to raise same prior to the commencement of the arbitration hear-
+16 ing. In determining any matter arising under this article, the court
+17 shall not consider whether the claim with respect to which arbitration
+18 is sought is tenable, or otherwise pass upon the merits of the dispute.
+19 Arbitration of any employment or consumer dispute shall be conducted
+20 by a neutral third party arbitrator. Appointment of any arbitrator
+21 shall reasonably ensure the personal objectivity of the arbitrator and
+22 the right of each party to present its case, to be in attendance during
+23 any presentation made by the other party and to rebut or refute such
+24 presentation.
+25 § 3. The civil practice law and rules is amended by adding a new
+26 section 7505-a to read as follows:
+27 § 7505-a. Disclosure by arbitrator. (a) Before accepting appointment,
+28 an individual who is requested to serve as an arbitrator, after making a
+29 reasonable inquiry, shall disclose to all parties to the agreement to
+30 arbitrate and the arbitration proceeding, and to any other arbitrators
+31 any known facts that a reasonable person would consider likely to affect
+32 the impartiality of the arbitrator in the arbitration proceeding,
+33 including:
+34 (1) a financial or personal interest in the outcome of the arbitration
+35 proceeding; and
+36 (2) an existing or past relationship with any of the parties to the
+37 agreement to arbitrate or the arbitration proceeding, their counsel or
+38 representatives, a witness, or another arbitrator.
+39 (b) An arbitrator has a continuing obligation to disclose to all
+40 parties to the agreement to arbitrate and the arbitration proceeding,
+41 and to any other arbitrators any facts that the arbitrator learns after
+42 accepting appointment which a reasonable person would consider likely to
+43 affect the impartiality of the arbitrator.
+44 (c) If an arbitrator discloses a fact required by subdivision (a) or
+45 (b) of this section and a party timely objects to the appointment or
+46 continued service of the arbitrator based upon the fact disclosed, the
+47 objection may be a ground for vacating an award made by the arbitrator.
+48 (d) If the arbitrator did not disclose a fact as required by subdivi-
+49 sion (a) or (b) of this section, upon timely objection by a party, the
+50 court may vacate an award based on such non-disclosure.
+51 (e) An arbitrator appointed as a neutral arbitrator who does not
+52 disclose a known, direct and material interest in the outcome of the
+53 arbitration proceeding or a known, existing and substantial relationship
+54 with a party is presumed to act with evident partiality in rendering an
+55 award.
+
+S. 5425--A 3
+1 § 4. Section 7506 of the civil practice law and rules is amended to
+2 read as follows:
+3 § 7506. Hearing. (a) Oath of arbitrator. Before hearing any testimony,
+4 an arbitrator shall be sworn to hear and decide the controversy faith-
+5 fully and fairly by an officer authorized to administer an oath.
+6 (b) Time and place. The arbitrator shall appoint a time and place for
+7 the hearing and notify the parties in writing personally or by regis-
+8 tered or certified mail not less than eight days before the hearing. The
+9 arbitrator may adjourn or postpone the hearing. The court, upon applica-
+10 tion of any party, may direct the arbitrator to proceed promptly with
+11 the hearing and determination of the controversy.
+12 (c) Evidence. The parties are entitled to be heard, to present
+13 evidence and to cross-examine witnesses. Notwithstanding the failure of
+14 a party duly notified to appear, the arbitrator may hear and determine
+15 the controversy upon the evidence produced.
+16 (d) Postponements and adjournments. The arbitrator may for good cause
+17 postpone or adjourn the hearing upon request of a party or upon the
+18 arbitrator's own initiative. If a party to an arbitration intends to
+19 present testimony from a witness at the hearing, absent good cause
+20 shown, the identity of the witness must be given to all parties at least
+21 seven calendar days prior to the hearing.
+22 (e) Representation by attorney. A party has the right to be repres-
+23 ented by an attorney and may claim such right at any time as to any part
+24 of the arbitration or hearings which have not taken place. This right
+25 may not be waived. If a party is represented by an attorney, papers to
+26 be served on the party shall be served upon [his] the party's attorney.
+27 It shall be discretionary with the arbitrator to permit the attendance
+28 of any other persons.
+29 [(e)] (f) Determination by majority. The hearing shall be conducted by
+30 all the arbitrators, but a majority may determine any question and
+31 render an award.
+32 [(f)] (g) Waiver. Except as provided in subdivision [(d)](e), a
+33 requirement of this section may be waived by written consent of the
+34 parties and it is waived if the parties continue with the arbitration
+35 without objection.
+36 § 5. Section 7507 of the civil practice law and rules, as amended by
+37 chapter 952 of the laws of 1981, is amended to read as follows:
+38 § 7507. Award; form; time; delivery. (a) Except as provided in
+39 section 7508, the award shall be in writing, signed and affirmed by the
+40 arbitrator making it within the time fixed by the agreement, or, if the
+41 time is not fixed, within such time as the court orders.
+42 (b) In a matter involving a consumer arbitration or an arbitration
+43 between an employer and an employee, as defined in section three of the
+44 Fair Labor Standards Act of 1938 (29 U.S.C. § 203), where arbitration
+45 was held pursuant to a contract, the award shall state the issues in
+46 dispute and shall contain the arbitrator's findings of fact and conclu-
+47 sions of law. The award shall contain a decision on all issues submitted
+48 to the arbitrator.
+49 (c) The parties may in writing extend the time either before or after
+50 its expiration. A party waives the objection that an award was not made
+51 within the time required unless [he] the party notifies the arbitrator
+52 in writing of [his] the party's objection prior to the delivery of the
+53 award [to him].
+54 (d) The arbitrator shall deliver a copy of the award to each party in
+55 the manner provided in the agreement, or, if no provision is so made,
+56 personally or by registered or certified mail, return receipt requested.
+
+S. 5425--A 4
+1 § 6. Subparagraph (iv) of paragraph 1 of subdivision (b) of section
+2 7511 of the civil practice law and rules is amended and a new subpara-
+3 graph (v) is added to read as follows:
+4 (iv) failure to follow the procedure of this article, unless the party
+5 applying to vacate the award continued with the arbitration with notice
+6 of the defect and without objection[.]; or
+7 (v) the arbitrator evidenced a manifest disregard of the law in
+8 rendering the award.
+9 § 7. The civil practice law and rules is amended by adding two new
+10 sections 7517 and 7518 to read as follows:
+11 § 7517. Prohibited predispute arbitration agreements. (a) Defi-
+12 nitions. (i) The term "consumer dispute" means a dispute between an
+13 individual who seeks or acquires real or personal property, services
+14 (including services relating to securities and other investments),
+15 money, or credit for personal, family or household purposes and the
+16 seller or provider of such property, services, money or credit.
+17 (ii) The term "employment dispute" means a dispute between an employer
+18 and employee arising out of the relationship of employer and employee as
+19 defined in section three of the Fair Labor Standards Act of 1938 (29
+20 U.S.C. § 203).
+21 (iii) The term "predispute arbitration agreement" means any agreement
+22 to arbitrate a dispute that had not yet arisen at the time of the making
+23 of the agreement.
+24 (b) Prohibition. Notwithstanding any other provision of this article,
+25 no predispute arbitration agreement shall be valid or enforceable if it
+26 requires arbitration of an employment dispute or consumer dispute.
+27 § 7518. Prohibited provisions. (a) Prohibition of effect of certain
+28 arbitration clauses or agreements. Mandatory arbitration clauses or
+29 agreements covering consumers and employees are contrary to the estab-
+30 lished public policy of this state. Because employees and consumers are
+31 forced to assent to these agreements as a condition of being an employee
+32 or consumer before any dispute has arisen with the employer or merchant,
+33 these agreements do not offer employees and consumers a meaningful
+34 choice about how to resolve their disputes with the employer or
+35 merchant. In addition, mandatory arbitration agreements prevent employ-
+36 ees and consumers from effectively vindicating their rights under state
+37 law. For these reasons, except when inconsistent with federal law, the
+38 state prohibits the formation and enforcement of mandatory arbitration
+39 agreements in employment and consumer contracts.
+40 (b) Prohibition of arbitration clauses in employment contracts for
+41 workers exempted from the Federal Arbitration Act. A mandatory arbi-
+42 tration agreement within or part of any written contract of employment
+43 of seamen, railroad employees or any other class of workers engaged in
+44 foreign or interstate commerce is unenforceable and void. Any such arbi-
+45 tration agreement shall be considered severable, and all other
+46 provisions of the employment contract shall remain in effect and given
+47 full force.
+48 (c) Prohibition of arbitration clauses that are not governed by feder-
+49 al law. Any mandatory arbitration agreement, or portion thereof, in an
+50 employment or consumer contract is invalid, unenforceable and void, when
+51 the enforceability of such arbitration agreement, or the portion at
+52 issue, is governed by state law. Any such arbitration agreement shall be
+53 considered severable, and all other provisions of the employment
+54 contract shall remain in effect and given full force.
+
+S. 5425--A 5
+1 (d) Exclusion. The provisions of this section shall not apply to
+2 agreements negotiated with any labor union through collective bargain-
+3 ing.
+4 § 8. Enforcement. Any private person and any enforcement agency or
+5 official responsible for enforcing the provisions of this act may bring
+6 suit for injunctive relief against an entity that violates such
+7 provisions, and may recover reasonable attorney fees and other costs if
+8 an injunction or equivalent relief is awarded. Injunctive relief shall
+9 be the only relief available in a suit arising from failure to comply
+10 with this act.
+11 § 9. Severability. If any provision of this act or the application
+12 thereof to any person or circumstance is held invalid, such invalidity
+13 shall not affect other provisions or applications of this act that can
+14 be given effect without the invalid provision or application, and to
+15 that end the provisions of this act are declared to be severable.
+16 § 10. This act shall take effect on the first of January next succeed-
+17 ing the date on which it shall have become a law.

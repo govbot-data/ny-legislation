@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - A1823A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1823--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 14, 2025
+___________
+Introduced by M. of A. ROSENTHAL, SIMONE, GALLAGHER, SEPTIMO -- read
+once and referred to the Committee on Insurance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the insurance law, in relation to bicycle delivery work-
+er insurance personal injury liability insurance
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The insurance law is amended by adding a new section 2354
+2 to read as follows:
+3 § 2354. Bicycle delivery worker insurance personal injury liability
+4 insurance. (a) As used in this section:
+5 (1) "bicycle delivery contractor" means a person, corporation, part-
+6 nership, sole proprietorship, or other entity that is operating in New
+7 York state using a digital network to connect BEA delivery recipients to
+8 bicycle with electric assist delivery workers;
+9 (2) "digital network" means any website, mobile application, or other
+10 internet service offered or utilized by a bicycle delivery contractor
+11 that enables deliveries by bicycle with electric assist delivery work-
+12 ers;
+13 (3) "bicycle with electric assist delivery workers" or "BEA delivery
+14 workers" means an individual who:
+15 (i) receives connections to potential BEA delivery recipients and
+16 related services through a digital network; and
+17 (ii) uses a bicycle with electric assist as defined in section one
+18 hundred two-c of the vehicle and traffic law or an electric scooter as
+19 defined in section one hundred fourteen-e of the vehicle and traffic law
+20 to offer or provide a prearranged delivery to BEA delivery recipients
+21 through a digital network in exchange for compensation or payment of a
+22 fee;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00726-07-5
+
+A. 1823--A 2
+1 (4) "bicycle with electric assist delivery recipients" or "BEA deliv-
+2 ery recipients" means a person or persons who use a digital network to
+3 connect with a BEA delivery worker who provides delivery of food or
+4 other items to points chosen by the BEA delivery recipient; and
+5 (5) "bicycle delivery contractor prearranged trip" or "trip" means the
+6 provision of delivery by a BEA delivery worker provided through the use
+7 of a digital network:
+8 (i) beginning when a BEA delivery worker accepts a BEA delivery recip-
+9 ient's request for a delivery through a digital network;
+10 (ii) continuing while the BEA delivery worker transports the requested
+11 items on a bicycle with electric assist; and
+12 (iii) ending when the last requested item is dropped off from the
+13 bicycle with electric assist and marked as completed by a BEA delivery
+14 worker on the digital network.
+15 (b) (i) All bicycle delivery contractors must provide personal injury
+16 liability insurance as defined in paragraph thirteen of subsection (a)
+17 of section one thousand one hundred thirteen of this chapter to compen-
+18 sate persons injured by a BEA delivery worker while such worker is
+19 undergoing a trip, at no more than twenty thousand dollars per incident
+20 involving a BEA delivery worker.
+21 (ii) Insurance purchased through this policy will be primary over
+22 other applicable insurance policies and shall not include no-fault
+23 coverage.
+24 (iii) The insurance policy must be written by an insurer licensed to
+25 write insurance in this state or procured by a duly licensed excess line
+26 broker pursuant to section two thousand one hundred eighteen of this
+27 chapter.
+28 (c) All bicycle delivery contractors must provide notice to BEA deliv-
+29 ery workers that they provide personal injury liability insurance. A
+30 bicycle delivery contractor must also post this notice on its website in
+31 a prominent place and provide contact information for the department.
+32 (d) The superintendent is authorized to promulgate such rules and
+33 regulations to implement this section, including regulations to address
+34 insurance coverage under this section when a BEA delivery worker uses
+35 multiple digital networks simultaneously.
+36 § 2. This act shall take effect on the one hundred eightieth day after
+37 it shall have become a law.

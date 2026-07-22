@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - A3649A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3649--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 29, 2025
+___________
+Introduced by M. of A. TAYLOR, ALVAREZ, McDONALD, ROMERO, McDONOUGH,
+K. BROWN, MANKTELOW -- read once and referred to the Committee on
+Election Law -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the election law and the vehicle and traffic law, in
+relation to joining multistate voter list maintenance organizations
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings and intent. As the official record of
+2 all eligible voters in a state, a state's voter registration rolls are
+3 the foundation of free, fair, and accurate elections. Illegal voting is
+4 exceedingly rare but maintaining accurate voter rolls reduces the oppor-
+5 tunity for such behavior and it helps build confidence in election
+6 outcomes. However, keeping voter rolls up to date is a challenge
+7 because, every day, voters move or die. Voters do not always remember to
+8 update their registration when they move. These challenges are especial-
+9 ly acute in states with large and highly mobile populations. Partic-
+10 ipation in a multistate voter list maintenance organization can improve
+11 the accuracy of New York's voter registration rolls. A multistate voter
+12 list maintenance organization is a coordinating entity between states
+13 that aids them in identifying voters who may no longer be eligible to
+14 vote, who have moved, or who have died. A voter list maintenance organ-
+15 ization may also offer other information useful to improving voter
+16 registration or enhancing the integrity of election administration.
+17 § 2. Article 5 of the election law is amended by adding a new title 10
+18 to read as follows:
+19 TITLE X
+20 MULTISTATE VOTER LIST MAINTENANCE ORGANIZATION MEMBERSHIP AUTHORIZATION
+21 Section 5-1000. Joining a multistate voter list maintenance organiza-
+22 tion.
+23 5-1001. Designating a member representative.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03193-04-5
+
+A. 3649--A 2
+1 5-1002. Authorization to share registration records with multi-
+2 state voter list maintenance organization.
+3 5-1003. Use of information from a multistate voter list mainte-
+4 nance organization.
+5 5-1004. Withdrawal from a multistate voter list maintenance
+6 organization.
+7 § 5-1000. Joining a multistate voter list maintenance organization.
+8 The state board of elections shall join the state as a member in one or
+9 more multistate voter list maintenance organizations including, but not
+10 limited to, the electronic registration information center or its
+11 successor. The state board of elections shall expend funds for member-
+12 ship fees, dues and other expenses related to such membership.
+13 § 5-1001. Designating a member representative. The state board of
+14 elections shall designate the chief election official of the state of
+15 New York as the representative to the board of directors of any multi-
+16 state voter list maintenance organization that the state is a member of
+17 including, but not limited to, the electronic registration information
+18 center or its successor.
+19 § 5-1002. Authorization to share registration records with multistate
+20 voter list maintenance organization. 1. Notwithstanding any other
+21 provision of law, the member representative designated under section
+22 5-1001 of this title may provide to the multistate voter list mainte-
+23 nance organization that they are a member of the following information
+24 from the statewide voter registration list as defined in section 5-614
+25 of this article:
+26 (a) all name fields;
+27 (b) all address fields;
+28 (c) date of birth;
+29 (d) state voter identification number;
+30 (e) voter's last registration date;
+31 (f) activity dates as defined by the multistate voter list maintenance
+32 organization; and
+33 (g) voter history.
+34 2. The member representative designated under section 5-1001 of this
+35 title may also provide any information to the multistate voter list
+36 maintenance organization provided to such member representative from the
+37 department of motor vehicles pursuant to section two hundred nineteen-a
+38 of the vehicle and traffic law.
+39 3. The state board of elections shall not provide any information on
+40 any person in the confidential voter program pursuant to section 5-508
+41 of this article for any purpose under this title. Nothing in this title
+42 shall be construed to require the department of motor vehicles to
+43 provide any information on any person in such program.
+44 4. The state board of elections is authorized to promulgate any rule
+45 or regulation necessary to effectuate the provisions of this title.
+46 § 5-1003. Use of information from a multistate voter list maintenance
+47 organization. 1. Notwithstanding any provision of law to the contrary,
+48 the state board of elections shall use any information provided by a
+49 multistate voter list maintenance organization that the state has joined
+50 pursuant to section 5-1001 of this title, including but not limited to,
+51 the use of such information in list maintenance activities performed
+52 pursuant to section 5-614 of this article.
+53 2. To avoid inadvertent or accidental registration of persons ineligi-
+54 ble to register to vote, any mailing to any potentially eligible but
+55 unregistered person shall state the voter registration criteria, includ-
+56 ing but not limited to, any citizenship requirements.
+
+A. 3649--A 3
+1 § 5-1004. Withdrawal from a multistate voter list maintenance organ-
+2 ization. Withdrawal of the state from a multistate voter list mainte-
+3 nance organization shall require an affirmative vote of the state board
+4 of elections commissioners pursuant to subdivision four of section 3-100
+5 of this chapter.
+6 § 3. The vehicle and traffic law is amended by adding a new section
+7 219-a to read as follows:
+8 § 219-a. State membership in a multistate voter list maintenance
+9 organization. 1. Notwithstanding any other provision of law to the
+10 contrary, the commissioner is authorized to provide to the state's
+11 representative to a multistate voter list maintenance organization,
+12 designated under section 5-1001 of the election law, the following
+13 information: (a) all name fields; (b) all address fields; (c) DMV ID
+14 number; (d) last four digits of the DMV ID holder's social security
+15 number; (e) date of birth; (f) current record status; (g) phone number;
+16 and (h) email address, provided that the conditions and terms of member-
+17 ship are consistent with the provisions of this chapter and title ten of
+18 article five of the election law pertaining to such membership or recip-
+19 rocal recognition of vehicle registrations.
+20 2. The commissioner shall not knowingly provide any information pursu-
+21 ant to this section of persons who are not citizens.
+22 § 4. New York state shall join a multistate voter list maintenance
+23 organization promptly after the effective date of this act and shall
+24 complete its registration with a multistate voter list maintenance
+25 organization on or before July 31, 2026.
+26 § 5. This act shall take effect immediately.
