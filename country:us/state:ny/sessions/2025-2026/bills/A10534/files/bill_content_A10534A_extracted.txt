@@ -1,0 +1,100 @@
+Title: 
+Official Title: 
+Source: versions - A10534A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10534--A
+IN ASSEMBLY
+March 6, 2026
+___________
+Introduced by M. of A. BURDICK -- read once and referred to the Commit-
+tee on Energy -- committee discharged, bill amended, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the public service law, in relation to establishing a
+standardized rate application template
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings and intent. The legislature finds that
+2 rate increase applications filed by gas and electric utilities before
+3 the New York state public service commission vary widely in format, and
+4 explanatory detail. This lack of uniformity impedes meaningful review
+5 by regulators, intervenors, and the public, and makes comparison across
+6 rate cases difficult.
+7 The legislature therefore declares that it is in the public interest
+8 to require standardized, transparent, and clearly explained rate
+9 increase filings in order to promote accountability, comparability, and
+10 informed decision making.
+11 § 2. The public service law is amended by adding a new section 27-a to
+12 read as follows:
+13 § 27-a. Standardized utility rate case filings. 1. Definitions. For
+14 the purposes of this section, the following terms shall have the follow-
+15 ing meanings:
+16 (a) "Rate filing" means any petition, filing, or submission seeking
+17 approval of a major change in rates and charges as defined in subdivi-
+18 sion twelve of section sixty-six of this chapter.
+19 (b) "Utility" means any electric, gas, or steam corporation subject to
+20 rate regulation pursuant to this chapter.
+21 2. Standardized rate application template. (a) The commission shall,
+22 by rule establish a standardized rate application template to be used by
+23 all utilities making a rate filing.
+24 (b) The standardized template shall require uniform presentation of
+25 information, including, but not limited to:
+26 (i) an executive summary of the proposed rate increase and total
+27 revenue request;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15085-04-6
+
+A. 10534--A 2
+1 (ii) the projected bill impacts by customer class;
+2 (iii) a detailed breakdown of operating expenses, capital expendi-
+3 tures, and rate base components;
+4 (iv) historical and forecasted test year data presented in a consist-
+5 ent format;
+6 (v) a side-by-side comparison of current rates and proposed rates; and
+7 (vi) any additional schedules or exhibits the commission deems neces-
+8 sary for complete review.
+9 (c) All rate filings shall be submitted using the standardized
+10 template, except those initiated pursuant to section seventy-one or
+11 seventy-two of this chapter.
+12 3. Explanation of calculations and assumptions. (a) Each rate filing
+13 made by a utility shall include a clear and comprehensive explanation of
+14 all calculations used for key elements of the rate filing including but
+15 not limited to:
+16 (i) revenue requirement calculations;
+17 (ii) cost of capital calculations;
+18 (iii) depreciation, amortization, and plant-in-service calculations;
+19 (iv) allocation of costs among customer classes; and
+20 (v) forecasting assumptions used in test year analyses.
+21 (b) Comprehensive explanations shall include:
+22 (i) identification of all formulas and mathematical methodologies
+23 employed;
+24 (ii) the source of all data inputs;
+25 (iii) all material assumptions underlying forecasts and projections;
+26 and
+27 (iv)_an explanation of any changes from methodologies or assumptions
+28 used in the utility's prior rate case.
+29 (c) Supporting schedules and workpapers shall be provided in a format,
+30 prescribed by the commission, that allows department staff, intervenors,
+31 and the public to replicate and verify the calculations.
+32 4. Completeness review and enforcement. (a) The commission may deter-
+33 mine that a rate filing is incomplete if it fails to comply with the
+34 standardized template or methodology requirements established pursuant
+35 to this section.
+36 (b) The commission may reject, suspend, or require amendment of any
+37 noncompliant filing until such deficiencies are cured.
+38 5. Public availability. All rate filings, including explanatory mate-
+39 rials and calculation workpapers, shall be made publicly available on
+40 the department's website, subject to provisions governing confidential
+41 or proprietary information.
+42 6. Rulemaking authority. The commission is authorized to promulgate
+43 rules and issue orders necessary to implement and enforce the provisions
+44 of this section.
+45 § 3. This act shall take effect one year after it shall have become a
+46 law and shall apply to all rate applications filed on or after such
+47 date.

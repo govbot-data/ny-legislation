@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - S5781B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5781--B
+2025-2026 Regular Sessions
+IN SENATE
+February 28, 2025
+___________
+Introduced by Sens. HARCKHAM, ADDABBO, BAILEY, BRISPORT, BROUK, COONEY,
+GOUNARDES, HINCHEY, JACKSON, KAVANAGH, KRUEGER, LIU, MARTINS, MAY,
+MAYER, MYRIE, PALUMBO, RAMOS, ROLISON, C. RYAN, SALAZAR, SEPULVEDA,
+SERRANO, SKOUFIS, STAVISKY, WEBB -- read twice and ordered printed,
+and when printed to be committed to the Committee on Housing,
+Construction and Community Development -- reported favorably from said
+committee and committed to the Committee on Finance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- recommitted to the Committee on Housing,
+Construction and Community Development in accordance with Senate Rule
+6, sec. 8 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the executive law, in relation to residential solar and
+energy storage permitting
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraphs i and j of subdivision 1 of section 381 of the
+2 executive law, paragraph i as amended and paragraph j as added by
+3 section 3 of part T of chapter 57 of the laws of 2023, are amended and a
+4 new paragraph k is added to read as follows:
+5 i. standards and procedures for measuring the rate of compliance with
+6 the state energy conservation construction code, and provisions requir-
+7 ing that such rate of compliance be measured on an annual basis; [and]
+8 j. procedures requiring the documentation of compliance with regu-
+9 lations adopted pursuant to section thirteen hundred seventy-seven of
+10 the public health law as a condition to issuance of a certificate of
+11 occupancy or certificate of compliance following a periodic fire safety
+12 and property maintenance inspection for multiple dwellings[.]; and
+13 k. (i) standards and procedures requiring:
+14 (A) any authority having jurisdiction over a population exceeding five
+15 thousand residents to adopt a residential automated solar permitting
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06584-06-6
+
+S. 5781--B 2
+1 platform by June thirtieth, two thousand twenty-seven, if such a plat-
+2 form without any initial fee or subscription fee to the authority having
+3 jurisdiction is available. The authority having jurisdiction shall
+4 anticipate that the residential automated solar permitting platform will
+5 have the capability to process at least seventy-five percent of residen-
+6 tial solar applications for existing construction submitted to authori-
+7 ties having jurisdiction in the state.
+8 (B) (1) authorities having jurisdiction to submit compliance reports
+9 to the department within sixty days of achieving compliance with clause
+10 (A) of this subparagraph, which shall include, but not be limited to:
+11 (I) the date of compliance;
+12 (II) the software or a combination of software used for compliance;
+13 (III) confirmation that the authority having jurisdiction is using a
+14 residential automated solar permitting platform to instantly issue
+15 permits and permit revisions for residential solar photovoltaic systems;
+16 and
+17 (IV) an explanation for why the authority having jurisdiction antic-
+18 ipates the residential automated solar permitting platform has the capa-
+19 bility to process at least seventy-five percent of the residential solar
+20 photovoltaic permit applications on existing construction submitted to
+21 authorities having jurisdiction in the state. This explanation may be
+22 based on, but is not necessarily limited to, statements from the soft-
+23 ware provider of the residential automated solar permitting platform.
+24 (2) The department may establish guidelines for the reports pursuant
+25 to item one of this clause.
+26 (3) The department may determine the accuracy of the authority having
+27 jurisdiction's report of compliance pursuant to clause one of this
+28 subparagraph. The department may also make such findings publicly avail-
+29 able and may take necessary actions to enforce compliance with clause
+30 (A) of this subparagraph based on such findings.
+31 (C) (1) authorities having jurisdiction to submit annual reports to
+32 the department on the usage of the residential automated solar permit-
+33 ting platform. Between April first, two thousand twenty-eight and April
+34 first, two thousand thirty-seven, each authority having jurisdiction
+35 shall submit such reports annually by April first covering the previous
+36 calendar year. The department may establish guidelines for these
+37 reports. Such reports shall include the following:
+38 (I) the number of permits issued through the residential automated
+39 solar permitting platform and relevant characteristics of those systems;
+40 (II) the number of residential photovoltaic solar permits issued by
+41 means other than the residential automated solar permitting platform and
+42 relevant characteristics of those systems;
+43 (III) the software or combination of software used for compliance;
+44 (IV) confirmation that the authority having jurisdiction is using a
+45 residential automated solar permitting platform to issue permits
+46 instantly and issue permit revisions instantly for residential solar
+47 photovoltaic systems; and
+48 (V) a plan to increase usage of the residential automated solar
+49 permitting platform if fewer than seventy-five percent of residential
+50 solar photovoltaic permits are issued through the automated permitting
+51 platform on existing construction.
+52 (2) The department may determine the accuracy of the authority having
+53 jurisdiction's annual report pursuant to item one of this clause. The
+54 department may also make such findings publicly available and may take
+55 necessary actions to enforce compliance with clause (A) of this subpara-
+56 graph based on such findings.
+
+S. 5781--B 3
+1 (D) authorities having jurisdiction over a population exceeding five
+2 thousand residents to provide an option for remote inspections via
+3 recorded video or photo that can be submitted electronically for
+4 projects permitted by the residential automated solar permitting plat-
+5 form. Such inspections shall be offered at no greater cost and with no
+6 greater delay than in-person inspections.
+7 (ii) An authority having jurisdiction that does not require a permit
+8 for residential photovoltaic solar systems is exempt from the require-
+9 ments of this paragraph.
+10 (iii) As used in this paragraph, the following terms shall have the
+11 following meanings:
+12 (A) "Department" means the New York state energy research and develop-
+13 ment authority.
+14 (B) "Residential automated solar permitting platform" means software
+15 or a combination of software designed to automate plan review, generate
+16 code-compliant approvals, accept online payments for permitting fees, if
+17 applicable, and instantly issue permits and permit revisions for resi-
+18 dential photovoltaic systems upon online submission of a code-compliant
+19 application and payment of any required fees. Such platform shall be
+20 available for residential photovoltaic systems up to the maximum capaci-
+21 ty allowed with a two hundred amp main service disconnect, installed in
+22 accordance with the residential code of New York state, as updated, that
+23 may also include an energy storage system up to the maximum capacity
+24 allowed under the residential code of New York state, a main panel
+25 upgrade, and/or a main breaker derate.
+26 (C) "Authority having jurisdiction" shall refer to any city, town,
+27 village, county, or other governmental unit or agency responsible for
+28 the administration and enforcement of the uniform fire prevention and
+29 building code and the state energy conservation construction code, as
+30 defined in 19 NYCRR, section 1203.1, as updated.
+31 § 2. This act shall take effect immediately.

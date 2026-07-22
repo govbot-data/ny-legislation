@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - S8102A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8102--A
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sen. GOUNARDES -- read twice and ordered printed, and when
+printed to be committed to the Committee on Consumer Protection --
+recommitted to the Committee on Consumer Protection in accordance with
+Senate Rule 6, sec. 8 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to device-level
+age assurance
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 45-B to read as follows:
+3 ARTICLE 45-B
+4 DEVICE-LEVEL AGE ASSURANCE
+5 Section 1540. Definitions.
+6 1541. Obligations for covered manufacturers.
+7 1542. Obligations for covered developers.
+8 1543. Nondiscrimination.
+9 1544. Data security.
+10 1545. Rulemaking authority.
+11 1546. Scope.
+12 1547. Enforcement.
+13 § 1540. Definitions. For the purposes of this article, the following
+14 terms shall have the following meanings:
+15 1. "Age assurance" shall mean any method to reasonably determine the
+16 age category of a user, using methods that reasonably prevent against
+17 circumvention. Such method may include a method that meets the require-
+18 ments of article forty-five of this chapter, or may be a method that is
+19 identified pursuant to new regulations promulgated by the attorney
+20 general consistent with section fifteen hundred forty-five of this arti-
+21 cle.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13065-07-6
+
+S. 8102--A 2
+1 2. "Age category" shall mean data that a user is (a) under the age of
+2 thirteen years; (b) at least thirteen but under sixteen years; (c) at
+3 least sixteen but under eighteen years; or (d) at least eighteen years.
+4 3. "Application programming interface" or "API" shall mean a system
+5 that allows two or more software systems to communicate and exchange
+6 information, features, and functionality.
+7 4. "Application store" shall mean a publicly available website, soft-
+8 ware application, or online service that distributes third party plat-
+9 forms' software applications to an internet-enabled device.
+10 5. "Covered developer" shall mean a person who owns or controls a
+11 website, online service, online application, mobile application, or
+12 portion thereof that is accessed by a user in the state of New York.
+13 6. "Covered manufacturer" shall mean a manufacturer of an internet-en-
+14 abled device, an operating system provider, or an application store.
+15 7. "Covered minor" shall mean a user of an internet-enabled device who
+16 a covered manufacturer has determined via one or more commercially
+17 reasonable age assurance methods to be under the age of eighteen.
+18 8. "Internet-enabled device" shall mean and include any desktop,
+19 laptop, smartphone, tablet, or other device capable of connecting to the
+20 internet and enabling the user to access content on the internet,
+21 including a social media platform.
+22 9. "Operating system" shall mean the system software that manages the
+23 hardware of an internet-enabled device and allows programs and applica-
+24 tions to run on such device.
+25 10. "Operating system provider" shall mean any person, partnership,
+26 association, firm, business, or other legal entity, or any member there-
+27 of, who develops, distributes, and/or maintains an internet-enabled
+28 device's operating system, including but not limited to the design,
+29 programming, or supply of operating systems for internet-enabled
+30 devices.
+31 11. "Social media platform" shall have the same meaning as in subdivi-
+32 sion five of section eleven hundred of this chapter.
+33 § 1541. Obligations for covered manufacturers. 1. Upon activation of
+34 an internet-enabled device after the effective date of this article, a
+35 covered manufacturer shall conduct age assurance to determine a user's
+36 age category at the point of such activation. For devices that were
+37 activated prior to the effective date of this article, however, such
+38 covered manufacturer shall conduct the age assurance described herein on
+39 or before such effective date.
+40 2. A covered manufacturer shall provide a covered developer with a
+41 digital signal indicating the age category of a user via a real-time
+42 application programming interface (API) upon receiving a request for
+43 such signal from such developer.
+44 3. A covered manufacturer shall ensure that, for any internet-enabled
+45 devices sold after the effective date of this article, the requirements
+46 of this section are included in any operating system and application
+47 store updates by default after such effective date.
+48 § 1542. Obligations for covered developers. 1. All covered developers
+49 shall request an age category signal for a user from a covered manufac-
+50 turer when such user downloads and launches such developer's website,
+51 service, or application.
+52 2. If the signal indicates that a user is a covered minor, then such
+53 covered developer shall treat such signal as an authoritative indicator
+54 of such user's age for the purposes of compliance with any applicable
+55 law and the covered developer shall be deemed to have actual knowledge
+56 that a user is a covered minor across all platforms and points of access
+
+S. 8102--A 3
+1 of the website, service, or application; provided, however, that a
+2 covered developer shall not willfully disregard clear and convincing
+3 information otherwise available to the developer that indicates a user's
+4 age is different than that indicated by the age category signal provided
+5 by a covered manufacturer.
+6 § 1543. Nondiscrimination. 1. A covered manufacturer shall impose at
+7 least the same restrictions and obligations on its own websites, appli-
+8 cations, and online services as it imposes on the websites, applica-
+9 tions, and online services of third parties.
+10 2. A covered manufacturer shall not withhold, degrade, lower the qual-
+11 ity, or increase the price of any product, service, or feature to a user
+12 due to the provisions of this article, other than as necessary for
+13 compliance with the provisions of this article.
+14 § 1544. Data security. 1. A covered manufacturer or covered developer
+15 shall delete all information collected for the purposes of this article
+16 after such purpose has been achieved, except where necessary for compli-
+17 ance with applicable provisions of law or regulation.
+18 2. All digital signals transmitted pursuant to sections fifteen
+19 hundred forty-one and fifteen hundred forty-two of this article shall be
+20 encrypted to ensure data integrity and security.
+21 § 1545. Rulemaking authority. The attorney general may promulgate such
+22 rules and regulations as are necessary to effectuate and enforce the
+23 provisions of this article.
+24 § 1546. Scope. This article shall apply to conduct that occurs in
+25 whole or in part in New York. For purposes of this article, conduct
+26 takes place wholly outside of New York when an internet-enabled device,
+27 an operating system provider, or an application store is accessed by a
+28 user who is physically located outside of New York.
+29 § 1547. Enforcement. 1. Whenever it appears to the attorney general,
+30 either upon complaint or otherwise, that any person, within or outside
+31 the state, has engaged in or is about to engage in any of the acts or
+32 practices stated to be unlawful in this article, the attorney general
+33 may bring an action or special proceeding in the name and on behalf of
+34 the people of the state of New York to enjoin any violation of this
+35 article, to obtain restitution of any moneys or property obtained
+36 directly or indirectly by any such violation, to obtain disgorgement of
+37 any profits or gains obtained directly or indirectly by any such
+38 violation, including but not limited to the destruction of unlawfully
+39 obtained data, to obtain damages caused directly or indirectly by any
+40 such violation, to obtain civil penalties of up to ten thousand dollars
+41 per violation, and to obtain any such other and further relief as the
+42 court may deem proper, including preliminary relief.
+43 2. Nothing in this article shall be construed as providing the basis
+44 for, or be subject to, a private right of action to violations of this
+45 article or under any other law.
+46 3. The attorney general shall maintain a website to receive
+47 complaints, information, or referrals from members of the public
+48 concerning a covered manufacturer's alleged compliance or noncompliance
+49 with the provisions of this article.
+50 § 2. Subdivision 1 of section 899-ii of the general business law, as
+51 added by chapter 121 of the laws of 2024, is amended to read as follows:
+52 1. For the purposes of this article, an operator shall treat a user as
+53 a covered user if the user's device communicates or signals that the
+54 user is or shall be treated as a minor, including through a browser
+55 plug-in or privacy setting, device setting, or other mechanism that
+56 complies with regulations promulgated by the attorney general, including
+
+S. 8102--A 4
+1 but not limited to the digital signals created in article forty-five-B
+2 of this chapter.
+3 § 3. If any clause, sentence, paragraph, subdivision, section or part
+4 of this act shall be adjudged by any court of competent jurisdiction to
+5 be invalid, such judgment shall not affect, impair, or invalidate the
+6 remainder thereof, but shall be confined in its operation to the clause,
+7 sentence, paragraph, subdivision, section or part thereof directly
+8 involved in the controversy in which such judgment shall have been
+9 rendered. It is hereby declared to be the intent of the legislature that
+10 this act would have been enacted even if such invalid provisions had not
+11 been included herein.
+12 § 4. This act shall take effect one year after it shall have become a
+13 law. Effective immediately, the addition, amendment and/or repeal of any
+14 rule or regulation necessary for the implementation of this act on its
+15 effective date are authorized to be made and completed on or before such
+16 effective date.

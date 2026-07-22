@@ -1,0 +1,429 @@
+Title: 
+Official Title: 
+Source: versions - A4922C
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4922--C
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 10, 2025
+___________
+Introduced by M. of A. LEVENBERG, SIMON, FORREST, EACHUS, SIMONE,
+BURDICK, SHIMSKY, HEVESI -- read once and referred to the Committee on
+Consumer Affairs and Protection -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee --
+reported and referred to the Committee on Codes -- recommitted to the
+Committee on Codes in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee -- again reported from said committee
+with amendments, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the general business law and the civil practice law and
+rules, in relation to protecting private education loan borrowers and
+cosigners
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 42-A to read as follows:
+3 ARTICLE 42-A
+4 PRIVATE EDUCATION LOAN PROTECTIONS
+5 Section 1200. Definitions.
+6 1201. Applicability.
+7 1202. Exempt organizations.
+8 1203. Provisions applicable to cosigners.
+9 1204. Prohibition on acceleration of payments on private educa-
+10 tion loans.
+11 1205. Required communications from creditors and debt collec-
+12 tors.
+13 1206. Required information to be provided by creditors and debt
+14 collectors.
+15 1207. Enforcement.
+16 1208. Rules and regulations.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08810-06-6
+
+A. 4922--C 2
+1 1209. Penalties.
+2 § 1200. Definitions. As used in this article:
+3 1. "Private education loan" or "loan" means an extension of credit
+4 that:
+5 (a) is not made, insured, or guaranteed under title IV of the Higher
+6 Education Act of 1965 (20 U.S.C. 1070 et seq.);
+7 (b) is extended to a consumer expressly, in whole or in part, for
+8 higher education expenses, regardless of whether the loan is provided by
+9 the educational institution that the student attends;
+10 (c) does not include open-end credit or any loan that is secured by
+11 real property or a dwelling; and
+12 (d) does not include an extension of credit in which the covered
+13 educational institution is the creditor if:
+14 (i) the term of the extension of credit is ninety days or less; or
+15 (ii) an interest rate or finance charge will not be applied to the
+16 credit balance and the term of the extension of credit is one year or
+17 less, even if the credit is payable in more than four installments.
+18 2. "Private education lender" or "lender" except as exempted under
+19 this article, means:
+20 (a) any person or entity engaged in the business of securing, making,
+21 or extending private education loans; or
+22 (b) any holder of a private education loan.
+23 3. "Borrower" or "private education loan borrower" means a person who
+24 has received or agreed to pay a private education loan for such person's
+25 own educational expenses.
+26 4. "Cosigner" (a) means:
+27 (i) any individual who is liable for the obligation of another without
+28 compensation, regardless of how designated in the contract or instrument
+29 with respect to that obligation, including an obligation under a private
+30 education loan extended to consolidate a borrower's pre-existing private
+31 education loans; and
+32 (ii) includes any person the signature of which is requested as condi-
+33 tion to grant credit or to forbear on collection;
+34 (b) does not include a spouse of an individual described in subpara-
+35 graph (i) of paragraph (a) of this subdivision, the signature of whom is
+36 needed to perfect the security interest in a loan.
+37 5. "Original creditor" means the private education lender identified
+38 in a promissory note, loan agreement, or loan contract entered into with
+39 a private education loan borrower or cosigner.
+40 6. "Creditor" means:
+41 (a) the original creditor, where ownership of a private education loan
+42 debt has not been sold, assigned, or transferred;
+43 (b) the person or entity that owned the private education loan debt at
+44 the time the debt became delinquent or defaulted, even if that person or
+45 entity did not originate the private education loan, and where such a
+46 debt has not subsequently been sold, transferred or assigned; or
+47 (c) a person or entity that purchased a delinquent or defaulted
+48 private education loan debt for collection purposes, whether it collects
+49 the debt itself, hires a third party for collection, or hires an attor-
+50 ney for collection litigation.
+51 7. "Debt collector" means any person who regularly collects or
+52 attempts to collect, directly or indirectly, consumer debts originally
+53 owed or due or asserted to be owed or due another. The term does not
+54 include any officer or employee of a creditor who, in the name of the
+55 creditor, collects debts for such creditor, but it does include any
+56 creditor who, in the process of collecting its own debts, uses any name
+
+A. 4922--C 3
+1 other than its own which would indicate that a third person is collect-
+2 ing or attempting to collect such debts.
+3 8. "Higher education expense" means any expense arising from higher
+4 education, as defined in section two of the education law, regardless of
+5 whether the higher education institution is accredited within New York
+6 state.
+7 § 1201. Applicability. 1. Any person or entity that enters into a
+8 contract or subcontract with a private education lender or servicer to
+9 perform the servicing of a private education loan must fulfill the obli-
+10 gations of the private education lender under this article.
+11 2. Any private education lender as described in subdivision two of
+12 section twelve hundred of this article be jointly and severally liable
+13 for the actions of the entity or person in fulfilling the obligations of
+14 the private education lender or servicer under this article.
+15 § 1202. Exempt organizations. The following shall be exempt from the
+16 provisions of this article only to the extent that state regulation is
+17 preempted by federal law:
+18 1. Any banking organization, foreign banking corporation, national
+19 bank, federal savings association, federal credit union, or any bank,
+20 trust company, savings bank, savings and loan association, or credit
+21 union organized under the laws of any other state; and
+22 2. Any subsidiary of such entities set forth in subdivision one of
+23 this section.
+24 § 1203. Provisions applicable to cosigners. 1. (a) Prior to the origi-
+25 nation of a private education loan, the private education lender shall
+26 provide to all cosigner applicants information about the rights and
+27 responsibilities of the cosigner of the loan, including:
+28 (i) information about how the private education lender will furnish
+29 information about the cosigner's private education loan obligation to
+30 credit reporting agencies;
+31 (ii) information about how the cosigner will be notified if the
+32 private education loan becomes delinquent, including how the cosigner
+33 can cure the delinquency in order to avoid negative credit furnishing
+34 and loss of cosigner release eligibility; and
+35 (iii) information about eligibility for release of the cosigner's
+36 obligation on the private education loan, including number of on-time
+37 payments and any other criteria required to approve the release of
+38 cosigner from the loan obligation.
+39 (b) Lenders shall send borrowers and cosigners annual written notices
+40 containing information about cosigner release, including criteria the
+41 lender requires to approve the release of cosigner from the loan obli-
+42 gation and the process for applying for cosigner release.
+43 (c) Once the borrower has met the applicable consecutive on-time
+44 payment requirement to be eligible for cosigner release, the lender
+45 shall send the borrower and cosigner a written notification by U.S. mail
+46 and by electronic mail, where a borrower has elected to receive elec-
+47 tronic communications from the lender, informing the borrower and cosig-
+48 ner that such person has met the applicable consecutive, on-time
+49 payments requirement to be eligible for cosigner release. The notifica-
+50 tion shall also include information about any additional criteria to
+51 qualify for cosigner release, and the procedure to apply for cosigner
+52 release.
+53 (d) Lenders shall provide written notice within fifteen days to any
+54 borrower who applies for cosigner release, but whose application is
+55 incomplete. The written notice must include a description of the infor-
+
+A. 4922--C 4
+1 mation needed to consider the application complete and the date by which
+2 the applicant should furnish the missing information.
+3 (e) After a borrower submits a complete application for cosigner
+4 release, within thirty days, the lender shall send the borrower and
+5 cosigner a written notice that informs the borrower and cosigner whether
+6 the cosigner release application has been approved or denied. If the
+7 lender denies a request for cosigner release, the lender shall inform
+8 the borrower of such person's right to request all documents and infor-
+9 mation used in the determination, including the credit score threshold
+10 used by the lender, the borrower's consumer report, the borrower's cred-
+11 it score, and any other documents specific to the borrower. The lender
+12 must also provide any adverse action notices required under applicable
+13 federal law if the denial is based in whole or in part on any informa-
+14 tion contained in a consumer report.
+15 2. (a) In response to any written or oral request for cosigner
+16 release, lenders shall send the information described in paragraph (b)
+17 of subdivision one of this section.
+18 (b) Lenders shall not impose any restrictions that may permanently bar
+19 a borrower from qualifying for cosigner release, including restricting
+20 the number of times a borrower may apply for cosigner release.
+21 (c) Lenders shall not impose any negative consequences on any borrower
+22 or cosigner during the sixty days following the issuance of the notice
+23 required under paragraph (d) of subdivision one of this section, or
+24 until the lender makes a final determination about a borrower's cosigner
+25 release application. For the purpose of this paragraph, "negative conse-
+26 quences" includes, but is not limited to, the imposition of additional
+27 eligibility criteria, negative credit reporting, lost eligibility for
+28 cosigner release, late fees, interest capitalization, or other financial
+29 injury.
+30 (d) Lenders shall not require greater than twelve consecutive, on-time
+31 payments as criteria to apply for cosigner release. Any borrower who has
+32 paid the equivalent of twelve months of principal and interest payments
+33 within any twelve-month period will be considered to have satisfied the
+34 consecutive, on-time payment requirement, even if the borrower has not
+35 made payments monthly during the twelve-month period.
+36 (e) If a borrower or cosigner requests a change that restarts the
+37 count of consecutive, on-time payments required for cosigner release,
+38 the lender shall notify the borrower and cosigner in writing within ten
+39 days of the impact of such an arrangement and provide the borrower or
+40 cosigner the right to withdraw or reverse the request to avoid such
+41 impact.
+42 (f) The borrower has the right to request an appeal of a lender's
+43 determination to deny the cosigner release application within ninety
+44 days of receiving the lender's determination, and the lender shall
+45 permit such borrower to submit additional documentation evidencing that
+46 the borrower has the ability, willingness, and stability to handle such
+47 person's payment obligations. The borrower may request review of the
+48 cosigner release determination by another employee. The lender shall
+49 inform the borrower of this right in a clear and conspicuous manner on
+50 the notice denying the cosigner release application.
+51 (g) A lender must establish and maintain a comprehensive record
+52 management system reasonably designed to ensure the accuracy, integrity,
+53 and completeness of data and other information about cosigner release
+54 applications. This system shall include the number of cosigner release
+55 applications received, the approval and denial rate, and the primary
+56 reasons for any denial.
+
+A. 4922--C 5
+1 (h) If a cosigner becomes totally and permanently disabled, as deter-
+2 mined by any federal agency, state agency, or physician or doctor of
+3 osteopathy legally authorized to practice in the state in which the
+4 cosigner resides, the lender shall release the cosigner from the
+5 cosigner's obligation to repay the loan upon receiving a notification of
+6 the cosigner's total and permanent disability. The lender shall not
+7 require a new cosigner to be added to the loan after the original cosig-
+8 ner has been released from the loan.
+9 (i) If the borrower dies, the lender shall release the cosigner from
+10 the cosigner's obligation to repay the loan upon receiving notification
+11 of the borrower's death.
+12 3. (a) A lender shall provide a cosigner of a private education loan
+13 with access to all documents or records related to the cosigned private
+14 education loan that are available to the borrower;
+15 (b) If a lender provides electronic access to documents and records
+16 for a borrower, it shall provide equivalent electronic access to the
+17 cosigner; and
+18 (c) Upon receiving notice from the borrower or cosigner, the lender
+19 shall redact the contact information of the other party.
+20 § 1204. Prohibition on acceleration of payments on private education
+21 loans. 1. Except as provided in subdivision two of this section, a
+22 private education loan executed after the effective date of this article
+23 may not include a provision that permits the private education lender to
+24 accelerate, in whole or in part, payments on the private education loan.
+25 2. A private education loan may include a provision that permits
+26 acceleration of the loan in cases of payment default.
+27 3. A lender shall not place any loan or account into default or accel-
+28 erate a loan for any reason, other than for failure to pay.
+29 4. (a) In the event of the death of a cosigner, a lender shall not
+30 attempt to collect against the cosigner's estate, other than for failure
+31 to pay.
+32 (b) Upon receiving notification of the death or bankruptcy of a cosig-
+33 ner, when the loan is not more than sixty days delinquent at the time of
+34 the notification, a lender shall not change any terms or benefits under
+35 the promissory note, repayment schedule, repayment terms, or monthly
+36 payment amount or any other provision associated with the loan.
+37 (c) A lender shall not place any loan or account into default or
+38 accelerate a loan for any reason, other than for failure to pay.
+39 § 1205. Required communications from creditors and debt collectors.
+40 In addition to any other information required under applicable federal
+41 or state law, a creditor or debt collector shall provide, in writing, in
+42 the first debt collection communication with the private education loan
+43 borrower or cosigner, or within five days thereafter, and at any other
+44 time the borrower or cosigner requests such documentation:
+45 1. The name of the current owner of the private education loan debt;
+46 2. The original creditor's name at the time of origination and, if
+47 different, at the time of sale of the loan, if applicable;
+48 3. The original creditor's account number used to identify the private
+49 education loan debt at the time of sale, if applicable;
+50 4. The total outstanding amount owed at the time of default or the
+51 amount due to bring the loan current if the loan is delinquent, but not
+52 yet in default;
+53 5. A schedule of all transactions credited or debited to the private
+54 education loan account;
+55 6. A copy of all pages of the contract, application or other documents
+56 stating all terms and conditions applicable to the private education
+
+A. 4922--C 6
+1 loan and evidencing the private education loan borrower's or cosigner's
+2 liability for the private education loan; and
+3 7. A clear and conspicuous statement disclosing that the borrower or
+4 cosigner has a right to request all information possessed by the credi-
+5 tor related to the private education loan debt, including, but not
+6 limited to the information included in section twelve hundred six of
+7 this article.
+8 § 1206. Required information to be provided by creditors and debt
+9 collectors. 1. A creditor or debt collector may not collect or attempt
+10 to collect a private education loan debt unless the creditor or debt
+11 collector possesses the following:
+12 (a) The name of the owner of the private education loan;
+13 (b) The original creditor's name at the time of sale of the loan or
+14 default, if applicable;
+15 (c) The original creditor's account number used to identify the
+16 private education loan at the time of sale or default, if the original
+17 creditor used an account number to identify the private education loan
+18 at the time of sale or default;
+19 (d) The amount due at the time of sale, or at default, or, if the loan
+20 is delinquent, to bring the loan current;
+21 (e) A schedule of all transactions credited or debited to the private
+22 education loan account;
+23 (f) An itemization of interest and fees, if any, claimed to be owed
+24 and whether those were imposed by the original creditor or any subse-
+25 quent owners of the private education loan;
+26 (g) The date that the private education loan was incurred;
+27 (h) A billing statement or other account record indicating the date of
+28 the first partial payment and/or the first day that a payment was
+29 missed, whichever is earlier;
+30 (i) A billing statement or other account record indicating the date of
+31 the last payment made by the borrower or cosigner, if applicable;
+32 (j) Any payments, settlement, or financial remuneration of any kind
+33 paid to the creditor by a guarantor, cosigner, or surety, and the amount
+34 of payment received;
+35 (k) A copy of the self-certification form and any other "needs analy-
+36 sis" conducted by the original creditor prior to origination of the
+37 loan;
+38 (l) A log of all collection attempts made in the previous twelve
+39 months including date and time of all calls and written communications;
+40 (m) Copies of all written settlement offers sent in the last twelve
+41 months, or, in the alternative, a statement that the creditor has not
+42 attempted to settle or otherwise renegotiate the debt prior to suit;
+43 (n) Copies of all collection letters sent to the borrower and cosigner
+44 since inception of the loan;
+45 (o) Documentation establishing that the creditor is the owner of the
+46 specific individual private education loan at issue. If the private
+47 education loan was assigned more than once, the creditor must possess
+48 each assignment or other writing evidencing the transfer of ownership of
+49 the specific individual private education loan to establish an unbroken
+50 chain of ownership, beginning with the original creditor to the first
+51 subsequent creditor and each additional creditor. Each assignment or
+52 other writing evidencing transfer of ownership or the right to collect
+53 must contain the original creditor's account number (redacted for secu-
+54 rity purposes to show only the last four digits) of the private educa-
+55 tion loan purchased or otherwise assigned, the date of purchase and
+56 assignment, and must clearly show the borrower's, and if applicable,
+
+A. 4922--C 7
+1 cosigner's correct name associated with the original account number. The
+2 assignment or other writing attached shall be that by which the creditor
+3 or other assignee acquired the private education loan, not a document
+4 prepared for litigation or collection purposes;
+5 (p) A copy of all pages of the contract, application or other docu-
+6 ments evidencing the private education loan borrower's, and if applica-
+7 ble, cosigner's liability for the private education loan, stating all
+8 terms and conditions applicable to the private education loan; and
+9 (q) A signed affidavit or affidavits from each of the previous owners
+10 of the private education loan regarding when the previous owner acceler-
+11 ated the loan from delinquency status to default status, or if applica-
+12 ble, a statement that no such acceleration occurred.
+13 2. Upon written or oral request from a borrower or cosigner for any
+14 information that a creditor or debt collector is required to possess
+15 pursuant to subdivision one of this section, a creditor or debt collec-
+16 tor shall send the requested information to the borrower or cosigner
+17 within fifteen days of receipt of the request.
+18 § 1207. Enforcement. 1. All private education lenders, creditors and
+19 debt collectors shall comply with the provisions of this article.
+20 2. No private education lenders, creditors or debt collectors shall
+21 engage in unfair, deceptive, or abusive acts or practices.
+22 3. The attorney general may bring an action in the name of the people
+23 of the state to restrain or prevent any violation of this article or any
+24 continuance of any such violation and to obtain restitution of any
+25 moneys or property obtained directly or indirectly by any such
+26 violation, as well as reasonable attorneys' fees.
+27 4. Nothing in this article shall limit any statutory or common law
+28 right of any person to bring any action in any court for any act, or the
+29 right of the state to punish any person for any violation of any law.
+30 § 1208. Rules and regulations. 1. In addition to such powers as may
+31 otherwise be prescribed by this chapter, the superintendent of financial
+32 services is hereby authorized and empowered to promulgate such rules and
+33 regulations as may in the judgment of the superintendent of financial
+34 services be consistent with the purposes of this article, or appropriate
+35 for the effective administration of this article, including, but not
+36 limited to:
+37 (a) such rules and regulations in connection with the activities of
+38 private education lenders, creditors, and debt collectors as may be
+39 necessary and appropriate for the protection of borrowers in this state;
+40 (b) such rules and regulations as may be necessary and appropriate to
+41 define unfair, deceptive or abusive acts or practices in connection with
+42 the activities of private education lenders, creditors, and debt collec-
+43 tors;
+44 (c) such rules and regulations as may define the terms used in this
+45 article and as may be necessary and appropriate to interpret and imple-
+46 ment the provisions of this article; and
+47 (d) such rules and regulations as may be necessary for the enforcement
+48 of this article.
+49 2. The superintendent of financial services is hereby authorized and
+50 empowered to make such specific rulings, demands and findings as the
+51 superintendent may deem necessary for the proper conduct of the private
+52 education loan industry.
+53 § 1209. Penalties. In addition to such penalties as may otherwise be
+54 applicable by law, including but not limited to the penalties available
+55 under section forty-four of the banking law, the superintendent of
+56 financial services may, after notice and a hearing, or upon a finding of
+
+A. 4922--C 8
+1 a violation of this article in a civil action brought by the attorney
+2 general, require any person found violating the provisions of this arti-
+3 cle or the rules or regulations promulgated hereunder to pay to the
+4 people of this state a penalty for each violation of this article or any
+5 regulation or policy promulgated hereunder a sum not to exceed the
+6 greater of (i) ten thousand dollars for each offense; (ii) a multiple of
+7 two times the aggregate damages attributable to the violation; or (iii)
+8 a multiple of two times the aggregate economic gain attributable to the
+9 violation.
+10 § 2. Subdivision (q-1) of section 105 of the civil practice law and
+11 rules, as added by chapter 593 of the laws of 2021, is amended to read
+12 as follows:
+13 (q-1) Original creditor. The term "original creditor" means the entity
+14 that owned a consumer credit account at the date of default giving rise
+15 to a cause of action; except that if the consumer credit account is a
+16 private education loan, as defined in subdivision one of section twelve
+17 hundred of the general business law, "original creditor" means the
+18 private education lender identified in a promissory note, loan agree-
+19 ment, or loan contract entered into with a private education loan
+20 borrower or cosigner.
+21 § 3. Severability. If any clause, sentence, paragraph, subdivision,
+22 section or part of this act shall be adjudged by any court of competent
+23 jurisdiction to be invalid, such judgment shall not affect, impair, or
+24 invalidate the remainder thereof, but shall be confined in its operation
+25 to the clause, sentence, paragraph, subdivision, section or part thereof
+26 directly involved in the controversy in which such judgment shall have
+27 been rendered. It is hereby declared to be the intent of the legislature
+28 that this act would have been enacted even if such invalid provisions
+29 had not been included herein.
+30 § 4. This act shall take effect on the one hundred eightieth day after
+31 it shall have become a law.

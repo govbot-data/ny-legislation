@@ -1,0 +1,466 @@
+Title: 
+Official Title: 
+Source: versions - S2282A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2282--A
+2025-2026 Regular Sessions
+IN SENATE
+January 16, 2025
+___________
+Introduced by Sens. HELMING, BORRELLO, CHAN, GALLIVAN, MURRAY, OBERACK-
+ER, O'MARA, ORTT, WALCZYK -- read twice and ordered printed, and when
+printed to be committed to the Committee on Codes -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the executive law and the criminal procedure law, in
+relation to enacting the "pretrial risk overview for threat evalu-
+ation, custody, and treatment (PROTECT) act" and establishing a risk
+assessment instrument to evaluate certain defendants; and to repeal
+certain provisions of the criminal procedure law relating thereto
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings and intent. The legislature finds that
+2 localities throughout New York State have struggled to prevent the pre-
+3 trial release of individuals who pose a threat to themselves and their
+4 communities. Moreover, many municipalities outside of New York City lack
+5 adequate funding and resources to develop and appropriate plans and
+6 invest in necessary technology, such as GPS monitoring, for successful
+7 monitoring of criminal defendants who have been released into the commu-
+8 nity pending trial. We also find that the current system for determining
+9 remand, coupled with this lack of resources, has enabled individuals to
+10 reoffend during their period of pre-trial release. As a result, we have
+11 seen an increase in crime and a growing concern about public safety
+12 throughout our state. In response, the legislature seeks to create a
+13 system that balances reasonable fairness for criminal defendants and the
+14 need to protect the public from dangerous offenders. This proposal would
+15 create a risk assessment instrument to determine the danger an individ-
+16 ual poses to themselves and the community. By using this instrument,
+17 courts can make decisions regarding remand which are unrelated to an
+18 individual's ability to afford bail, accomplishing the stated goals of
+19 previous reforms while also ensuring public safety. This proposal
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04400-03-5
+
+S. 2282--A 2
+1 further addresses the threat posed by repeat offenders by ensuring that
+2 individuals arrested for a new serious offense after being released
+3 remain in custody pending trial. We also find that it is crucial that
+4 individuals with serious mental illnesses are quickly evaluated and
+5 provided treatment rather than being incarcerated without access to
+6 necessary support. Accordingly, this proposal encourages courts to
+7 utilize existing statute to refer individuals in need of mental health
+8 treatment to the appropriate venue.
+9 § 2. Short title. This act shall be known and may be cited as the
+10 "pretrial risk overview for threat evaluation, custody, and treatment
+11 (PROTECT) act".
+12 § 3. The executive law is amended by adding a new section 845-f to
+13 read as follows:
+14 § 845-f. Risk assessment instrument. 1. The division shall create a
+15 risk assessment instrument to be used by all courts in the state to aid
+16 judges in determining whether to release or detain a principal, where
+17 and when release is appropriate, and, where applicable, necessary condi-
+18 tions that should be imposed as part of such release. Such instrument
+19 shall be developed based on empirical data and risk factors relevant to
+20 the danger that the principal poses to themself, another person, or the
+21 community as a whole, and the likelihood that such principal may attempt
+22 to evade or obstruct the criminal justice process. Such tool shall
+23 incorporate the following factors, including but not limited to:
+24 (a) The nature of the charge and whether it involves allegations of
+25 causing or threatening harm to another person or persons;
+26 (b) The principal's criminal history, with emphasis on previous
+27 convictions for violent felonies, escape, bail jumping, witness tamper-
+28 ing and witness intimidation, and any history of failing to appear in
+29 court or failing to comply with court orders. Such criminal history
+30 shall include, but not be limited to, criminal convictions, juvenile
+31 delinquent and youthful offender adjudications;
+32 (c) The principal's history of use or possession of firearms or access
+33 to deadly weapons or dangerous instruments, as defined in section 10.00
+34 of the penal law;
+35 (d) The principal's known associations with criminal street gangs as
+36 defined in section 10-170 of the administrative code of the city of New
+37 York or a criminal enterprise, as defined in section 460.10 of the penal
+38 law;
+39 (e) Any history of threats or intimidation to witnesses in prior crim-
+40 inal proceedings; and
+41 (f) The extent of the principal's history within the jurisdiction
+42 where the criminal charges are pending, and the extent of ties, includ-
+43 ing family ties, outside the state of New York.
+44 2. Nothing in this section shall prohibit the division from incorpo-
+45 rating any other factors which may aid in determining whether a princi-
+46 pal poses a risk of flight or a safety risk.
+47 3. Such instrument shall include a recommendation as to whether a
+48 principal should be detained, released on bail, or released on non-mone-
+49 tary conditions as well as a recommendation as to which non-monetary
+50 conditions should be imposed.
+51 § 4. The criminal procedure law is amended by adding a new section
+52 510.16 to read as follows:
+53 § 510.16 Completion of risk assessment instrument.
+54 1. The court shall order the completion of a risk assessment instru-
+55 ment created by the division of criminal justice services pursuant to
+56 section eight hundred forty-seven-f of the executive law for all princi-
+
+S. 2282--A 3
+1 pals who are charged with a felony or class A misdemeanor. Once a prin-
+2 cipal is arraigned on a felony or class A misdemeanor, the court shall
+3 direct the applicable pretrial services agency to complete a risk
+4 assessment instrument. The court shall order the detention of a princi-
+5 pal pending the completion of such risk assessment instrument. Absent
+6 extraordinary circumstances, the court shall make a decision on
+7 detention within forty-eight hours.
+8 2. No court may release a principal charged with a felony or a class A
+9 misdemeanor unless and until it has had an opportunity to review and
+10 consider a completed risk assessment instrument.
+11 § 5. Subdivision 1 of section 510.10 of the criminal procedure law, as
+12 amended by section 1 of subpart C of part UU of chapter 56 of the laws
+13 of 2022, the opening paragraph as amended by section 2 of subpart A of
+14 part VV of chapter 56 of the laws of 2023, is amended to read as
+15 follows:
+16 1. When a principal, whose future court attendance at a criminal
+17 action or proceeding is or may be required, comes under the control of a
+18 court, such court shall impose a securing order in accordance with this
+19 title. Except as otherwise required by law, the court shall make an
+20 individualized determination as to whether the principal poses a risk of
+21 flight to avoid prosecution and/or a risk to the safety and security of
+22 the community, themself, or another person, consider the kind and degree
+23 of control or restriction necessary to reasonably assure the principal's
+24 return to court, and select a securing order consistent with its deter-
+25 mination under this subdivision. The court shall explain the basis for
+26 its determination and its choice of securing order on the record or in
+27 writing. In making a determination under this subdivision, the court
+28 must consider and take into account the risk assessment instrument, the
+29 recommendation of the pretrial services agencies, the arguments of the
+30 prosecutor and principal and available information about the principal,
+31 including:
+32 (a) The principal's character, reputation, habits, mental condition,
+33 activities and history;
+34 (b) If the principal is a defendant, the charges facing the principal
+35 and the weight of the evidence against such principal in the pending
+36 criminal action;
+37 (c) The principal's criminal conviction record if any;
+38 (d) The principal's record of previous adjudication as a juvenile
+39 delinquent, as retained pursuant to section 354.1 of the family court
+40 act, or, of pending cases where fingerprints are retained pursuant to
+41 section 306.1 of such act, or a youthful offender, if any;
+42 (e) The principal's previous record with respect to flight to avoid
+43 criminal prosecution and lack of compliance with court orders;
+44 (f) [If monetary bail is authorized, according to the restrictions set
+45 forth in this title, the principal's individual financial circumstances,
+46 and, in cases where bail is authorized, the principal's ability to post
+47 bail without posing undue hardship, as well as his or her ability to
+48 obtain a secured, unsecured, or partially secured bond;
+49 (g)] Any violation by the principal of an order of protection issued
+50 by any court;
+51 [(h)] (g) The principal's history of use or possession of a firearm;
+52 [(i)] (h) Whether the charge is alleged to have caused serious harm to
+53 an individual or group of individuals; [and
+54 (j)] (i) If the principal is a defendant, in the case of an applica-
+55 tion for a securing order pending appeal, the merit or lack of merit of
+56 the appeal[.];
+
+S. 2282--A 4
+1 (j) Whether the principal has any known associations with criminal
+2 street gangs or criminal enterprises;
+3 (k) The principal's ties to the jurisdiction where the court sits and
+4 whether the principal has any ties outside the state of New York; and
+5 (l) The charges facing the principal and the weight of the evidence
+6 against such principal in the pending criminal action.
+7 § 6. Subdivision 4 of section 510.10 of the criminal procedure law is
+8 REPEALED and two new subdivisions 4 and 7 are added to read as follows:
+9 4. Where a principal is arrested on a new offense of a felony or class
+10 A misdemeanor which was committed after being released pending trial, or
+11 being issued an appearance ticket, such principal shall be committed to
+12 the custody of the sheriff until appearing before a judge for arraign-
+13 ment. Upon arraignment, the court shall remand the principal to the
+14 custody of the sheriff unless and until the judge, after reviewing all
+15 relevant information, including the risk assessment instrument created
+16 pursuant to section 510.16 of this title, determines that the risk that
+17 the principal will reoffend has been mitigated with appropriate condi-
+18 tions of release. Should the court determine that such risk cannot be
+19 mitigated with any reasonable conditions of release, the court shall
+20 order that the principal remain in the custody of the sheriff during the
+21 pendency of the proceeding.
+22 7. Nothing in this section shall prohibit the court from directing
+23 that a defendant who presents an immediate risk of serious harm to them-
+24 self or others be transported to a hospital for a psychiatric assessment
+25 and appropriate treatment pursuant to paragraph (b) of subdivision
+26 three-c of section 500.10 of this title.
+27 § 7. Subdivisions 3 and 5 of section 510.10 of the criminal procedure
+28 law, subdivision 3 as amended by section 2 of subpart A of part VV of
+29 chapter 56 of the laws of 2023 and subdivision 5 as added by section 2
+30 of part JJJ of chapter 59 of the laws of 2019, is amended to read as
+31 follows:
+32 3. [In cases other than as described in subdivision four of this
+33 section, the] The court [shall] may commit the principal to the custody
+34 of the sheriff, fix bail, release the principal pending trial on the
+35 principal's own recognizance, [unless the court finds on the record or
+36 in writing that release on the principal's own recognizance will not
+37 reasonably assure the principal's return to court. In such instances,
+38 the court shall] or release the principal under non-monetary conditions
+39 as provided for in subdivision three-a of section 500.10 of this title
+40 that will reasonably assure the principal's return to court. The court
+41 shall explain its choice of securing order on the record or in writing.
+42 5. Notwithstanding the provisions of [subdivisions] subdivision three
+43 [and four] of this section, with respect to any charge for which bail or
+44 remand is not ordered, and for which the court would not or could not
+45 otherwise require bail or remand, a defendant may, at any time, request
+46 that the court set bail in a nominal amount requested by the defendant
+47 in the form specified in paragraph (a) of subdivision one of section
+48 520.10 of this title; if the court is satisfied that the request is
+49 voluntary, the court shall set such bail in such amount.
+50 § 8. Subparagraphs (ix), (x) and (xi) of paragraph (b) of subdivision
+51 1 of section 150.20 of the criminal procedure law, as added by section 1
+52 of subpart B of part UU of chapter 56 of the laws of 2022, are amended
+53 to read as follows:
+54 (ix) the person is eighteen years of age or older and charged with
+55 criminal possession of a weapon on school grounds as defined in section
+56 265.01-a of the penal law; or
+
+S. 2282--A 5
+1 (x) the person is eighteen years of age or older and charged with a
+2 hate crime as defined in section 485.05 of the penal law[; or
+3 (xi) the offense is a qualifying offense pursuant to paragraph (t) of
+4 subdivision four of section 510.10 of this chapter, or pursuant to para-
+5 graph (t) of subdivision four of section 530.40 of this chapter].
+6 § 9. Subdivision 1 of section 530.20 of the criminal procedure law, as
+7 amended by section 16 of part JJJ of chapter 59 of the laws of 2019,
+8 paragraph (a) and the opening paragraph of paragraph (b) as amended by
+9 section 6 of subpart A of part VV of chapter 56 of the laws of 2023,
+10 paragraph (b) as amended by section 3 of part UU of chapter 56 of the
+11 laws of 2020, subparagraphs (xix) and (xx) of paragraph (b) as amended
+12 and subparagraph (xxi) of paragraph (b) as added by section 4 of subpart
+13 C of part UU of chapter 56 of the laws of 2022, is amended to read as
+14 follows:
+15 1. (a) [In cases other than as described in paragraph (b) of this
+16 subdivision, the] The court shall commit the principal to the custody of
+17 the sheriff, fix bail, release the principal pending trial on the prin-
+18 cipal's own recognizance or release the principal pending trial under
+19 non-monetary conditions, the determination for which shall be made in
+20 accordance with subdivision one of section 510.10 of this title. The
+21 court shall explain the basis for its determination and choice of secur-
+22 ing order on the record or in writing.
+23 (b) [Where the principal stands charged with a qualifying offense, the
+24 court, unless otherwise prohibited by law, may in its discretion release
+25 the principal pending trial on the principal's own recognizance or under
+26 non-monetary conditions, fix bail, order non-monetary conditions in
+27 conjunction with fixing bail, or, where the defendant is charged with a
+28 qualifying offense which is a felony, the court may commit the principal
+29 to the custody of the sheriff. The court shall explain its choice of
+30 securing order on the record or in writing. A principal stands charged
+31 with a qualifying offense when he or she stands charged with:
+32 (i) a felony enumerated in section 70.02 of the penal law, other than
+33 robbery in the second degree as defined in subdivision one of section
+34 160.10 of the penal law, provided, however, that burglary in the second
+35 degree as defined in subdivision two of section 140.25 of the penal law
+36 shall be a qualifying offense only where the defendant is charged with
+37 entering the living area of the dwelling;
+38 (ii) a crime involving witness intimidation under section 215.15 of
+39 the penal law;
+40 (iii) a crime involving witness tampering under section 215.11, 215.12
+41 or 215.13 of the penal law;
+42 (iv) a class A felony defined in the penal law, provided, that for
+43 class A felonies under article two hundred twenty of such law, only
+44 class A-I felonies shall be a qualifying offense;
+45 (v) a sex trafficking offense defined in section 230.34 or 230.34-a of
+46 the penal law, or a felony sex offense defined in section 70.80 of the
+47 penal law or a crime involving incest as defined in section 255.25,
+48 255.26 or 255.27 of such law, or a misdemeanor defined in article one
+49 hundred thirty of such law;
+50 (vi) conspiracy in the second degree as defined in section 105.15 of
+51 the penal law, where the underlying allegation of such charge is that
+52 the defendant conspired to commit a class A felony defined in article
+53 one hundred twenty-five of the penal law;
+54 (vii) money laundering in support of terrorism in the first degree as
+55 defined in section 470.24 of the penal law; money laundering in support
+56 of terrorism in the second degree as defined in section 470.23 of the
+
+S. 2282--A 6
+1 penal law; money laundering in support of terrorism in the third degree
+2 as defined in section 470.22 of the penal law; money laundering in
+3 support of terrorism in the fourth degree as defined in section 470.21
+4 of the penal law; or a felony crime of terrorism as defined in article
+5 four hundred ninety of the penal law, other than the crime defined in
+6 section 490.20 of such law;
+7 (viii) criminal contempt in the second degree as defined in subdivi-
+8 sion three of section 215.50 of the penal law, criminal contempt in the
+9 first degree as defined in subdivision (b), (c) or (d) of section 215.51
+10 of the penal law or aggravated criminal contempt as defined in section
+11 215.52 of the penal law, and the underlying allegation of such charge of
+12 criminal contempt in the second degree, criminal contempt in the first
+13 degree or aggravated criminal contempt is that the defendant violated a
+14 duly served order of protection where the protected party is a member of
+15 the defendant's same family or household as defined in subdivision one
+16 of section 530.11 of this article;
+17 (ix) facilitating a sexual performance by a child with a controlled
+18 substance or alcohol as defined in section 263.30 of the penal law, use
+19 of a child in a sexual performance as defined in section 263.05 of the
+20 penal law or luring a child as defined in subdivision one of section
+21 120.70 of the penal law, promoting an obscene sexual performance by a
+22 child as defined in section 263.10 of the penal law or promoting a sexu-
+23 al performance by a child as defined in section 263.15 of the penal law;
+24 (x) any crime that is alleged to have caused the death of another
+25 person;
+26 (xi) criminal obstruction of breathing or blood circulation as defined
+27 in section 121.11 of the penal law, strangulation in the second degree
+28 as defined in section 121.12 of the penal law or unlawful imprisonment
+29 in the first degree as defined in section 135.10 of the penal law, and
+30 is alleged to have committed the offense against a member of the defend-
+31 ant's same family or household as defined in subdivision one of section
+32 530.11 of this article;
+33 (xii) aggravated vehicular assault as defined in section 120.04-a of
+34 the penal law or vehicular assault in the first degree as defined in
+35 section 120.04 of the penal law;
+36 (xiii) assault in the third degree as defined in section 120.00 of the
+37 penal law or arson in the third degree as defined in section 150.10 of
+38 the penal law, when such crime is charged as a hate crime as defined in
+39 section 485.05 of the penal law;
+40 (xiv) aggravated assault upon a person less than eleven years old as
+41 defined in section 120.12 of the penal law or criminal possession of a
+42 weapon on school grounds as defined in section 265.01-a of the penal
+43 law;
+44 (xv) grand larceny in the first degree as defined in section 155.42 of
+45 the penal law, enterprise corruption as defined in section 460.20 of the
+46 penal law, or money laundering in the first degree as defined in section
+47 470.20 of the penal law;
+48 (xvi) failure to register as a sex offender pursuant to section one
+49 hundred sixty-eight-t of the correction law or endangering the welfare
+50 of a child as defined in subdivision one of section 260.10 of the penal
+51 law, where the defendant is required to maintain registration under
+52 article six-C of the correction law and designated a level three offen-
+53 der pursuant to subdivision six of section one hundred sixty-eight-l of
+54 the correction law;
+
+S. 2282--A 7
+1 (xvii) a crime involving bail jumping under section 215.55, 215.56 or
+2 215.57 of the penal law, or a crime involving escaping from custody
+3 under section 205.05, 205.10 or 205.15 of the penal law;
+4 (xviii) any felony offense committed by the principal while serving a
+5 sentence of probation or while released to post release supervision;
+6 (xix) a felony, where the defendant qualifies for sentencing on such
+7 charge as a persistent felony offender pursuant to section 70.10 of the
+8 penal law;
+9 (xx) any felony or class A misdemeanor involving harm to an identifi-
+10 able person or property, or any charge of criminal possession of a
+11 firearm as defined in section 265.01-b of the penal law where such
+12 charge arose from conduct occurring while the defendant was released on
+13 his or her own recognizance, released under conditions, or had yet to be
+14 arraigned after the issuance of a desk appearance ticket for a separate
+15 felony or class A misdemeanor involving harm to an identifiable person
+16 or property, provided, however, that the prosecutor must show reasonable
+17 cause to believe that the defendant committed the instant crime and any
+18 underlying crime. For the purposes of this subparagraph, any of the
+19 underlying crimes need not be a qualifying offense as defined in this
+20 subdivision. For the purposes of this paragraph, "harm to an identifi-
+21 able person or property" shall include but not be limited to theft of or
+22 damage to property. However, based upon a review of the facts alleged in
+23 the accusatory instrument, if the court determines that such theft is
+24 negligible and does not appear to be in furtherance of other criminal
+25 activity, the principal shall be released on his or her own recognizance
+26 or under appropriate non-monetary conditions; or
+27 (xxi) criminal possession of a weapon in the third degree as defined
+28 in subdivision three of section 265.02 of the penal law or criminal sale
+29 of a firearm to a minor as defined in section 265.16 of the penal law.
+30 (d)] Notwithstanding the provisions of [paragraphs] paragraph (a) [and
+31 (b)] of this subdivision, with respect to any charge for which bail or
+32 remand is not ordered, and for which the court would not or could not
+33 otherwise require bail or remand, a defendant may, at any time, request
+34 that the court set bail in a nominal amount requested by the defendant
+35 in the form specified in paragraph (a) of subdivision one of section
+36 520.10 of this title; if the court is satisfied that the request is
+37 voluntary, the court shall set such bail in such amount.
+38 § 10. Section 530.20 of the criminal procedure law is amended by
+39 adding two new subdivisions 3 and 4 to read as follows:
+40 3. Where a principal is arrested on a new offense of a felony or class
+41 A misdemeanor which was committed after being released pending trial, or
+42 being issued an appearance ticket, such principal shall be committed to
+43 the custody of the sheriff until appearing before a judge for arraign-
+44 ment. Upon arraignment, the court shall remand the principal to the
+45 custody of the sheriff unless and until the judge, after reviewing all
+46 relevant information, including the risk assessment instrument created
+47 pursuant to section 510.16 of this title, determines that the risk that
+48 the principal will reoffend has been mitigated with appropriate condi-
+49 tions of release. Should the court determine that such risk cannot be
+50 mitigated with any reasonable conditions of release, the court shall
+51 order that the principal remain in the custody of the sheriff during the
+52 pendency of the proceeding.
+53 4. Nothing in this section shall prohibit the court from directing
+54 that a defendant who presents an immediate risk of serious harm to them-
+55 self or others be transported to a hospital for a psychiatric assessment
+
+S. 2282--A 8
+1 and appropriate treatment pursuant to paragraph (b) of subdivision
+2 three-c of section 500.10 of this title.
+3 § 11. Subdivision 4 of section 530.40 of the criminal procedure law is
+4 REPEALED and two new subdivisions 4 and 8 are added to read as follows:
+5 4. Where a principal is arrested on a new offense of a felony or class
+6 A misdemeanor which was committed after being released pending trial, or
+7 being issued an appearance ticket, such principal shall be committed to
+8 the custody of the sheriff until appearing before a judge for arraign-
+9 ment. Upon arraignment, the court shall remand the principal to the
+10 custody of the sheriff unless and until the judge, after reviewing all
+11 relevant information, including the risk assessment instrument created
+12 pursuant to section 510.16 of this title, determines that the risk that
+13 the principal will reoffend has been mitigated with appropriate condi-
+14 tions of release. Should the court determine that such risk cannot be
+15 mitigated with any reasonable conditions of release, the court shall
+16 order that the principal remain in the custody of the sheriff during the
+17 pendency of the proceeding.
+18 8. Nothing in this section shall prohibit the court from directing
+19 that a defendant who presents an immediate risk of serious harm to them-
+20 self or others be transported to a hospital for a psychiatric assessment
+21 and appropriate treatment pursuant to paragraph (b) of subdivision
+22 three-c of section 500.10 of this title.
+23 § 12. Subdivisions 2, 5, 6 and 7 of section 530.40 of the criminal
+24 procedure law, subdivision 5 as added and subdivisions 2, 6 and 7 as
+25 amended by section 18 of part JJJ of chapter 59 of the laws of 2019, are
+26 amended to read as follows:
+27 2. [When the defendant is charged with a felony, the] The court may[,
+28 unless otherwise provided by law in its discretion,] order recognizance,
+29 release under non-monetary conditions or, [where authorized,] bail. In
+30 any such case in which an indictment (a) has resulted from an order of a
+31 local criminal court holding the defendant for the action of the grand
+32 jury, or (b) was filed at a time when a felony complaint charging the
+33 same conduct was pending in a local criminal court, and in which such
+34 local criminal court or a superior court judge has issued an order of
+35 recognizance, release under non-monetary conditions or, where author-
+36 ized, bail which is still effective, the superior court's order may be
+37 in the form of a direction continuing the effectiveness of the previous
+38 order.
+39 5. Notwithstanding the provisions of [subdivisions] subdivision three
+40 [and four] of this section, with respect to any charge for which bail or
+41 remand is not ordered, and for which the court would not or could not
+42 otherwise require bail or remand, a defendant may, at any time, request
+43 that the court set bail in a nominal amount requested by the defendant
+44 in the form specified in paragraph (a) of subdivision one of section
+45 520.10 of this title; if the court is satisfied that the request is
+46 voluntary, the court shall set such bail in such amount.
+47 6. Notwithstanding the provisions of subdivisions two[,] and three
+48 [and four] of this section, a superior court may not order recognizance,
+49 release under non-monetary conditions or, where authorized, bail, or
+50 permit a defendant to remain at liberty pursuant to an existing order,
+51 after the defendant has been convicted of either: (a) a class A felony
+52 or (b) any class B or class C felony as defined in article one hundred
+53 thirty of the penal law committed or attempted to be committed by a
+54 person eighteen years of age or older against a person less than eigh-
+55 teen years of age. In either case the court must commit or remand the
+56 defendant to the custody of the sheriff.
+
+S. 2282--A 9
+1 7. Notwithstanding the provisions of subdivisions two[,] and three
+2 [and four] of this section, a superior court may not order recognizance,
+3 release under non-monetary conditions or, where authorized, bail when
+4 the defendant is charged with a felony unless and until the district
+5 attorney has had an opportunity to be heard in the matter and such court
+6 and counsel for the defendant have been furnished with a report as
+7 described in subparagraph (ii) of paragraph (b) of subdivision two of
+8 section 530.20 of this article.
+9 § 13. This act shall take effect immediately; provided, however, that
+10 the provisions of sections four, five, six, seven, eight, nine, ten,
+11 eleven and twelve of this act shall take effect on the one hundred twen-
+12 tieth day after it shall have become a law.

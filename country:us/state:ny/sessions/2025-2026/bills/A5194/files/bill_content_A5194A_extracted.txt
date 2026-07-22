@@ -1,0 +1,236 @@
+Title: 
+Official Title: 
+Source: versions - A5194A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5194--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 12, 2025
+___________
+Introduced by M. of A. REYES, LUPARDO, DAVILA, GALLAGHER, JACKSON,
+LEMONDES, MEEKS, SEAWRIGHT, SIMON, DINOWITZ, ZINERMAN, FORREST -- read
+once and referred to the Committee on Health -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the public health law, in relation to including rescue
+inhaler prescriptions for asthma and other chronic respiratory
+diseases for individuals under age nineteen in the statewide immuniza-
+tion information system
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraphs (a) and (c) of subdivision 1, paragraphs (b),
+2 (c) and (d) of subdivision 2, paragraph (a) of subdivision 3, paragraphs
+3 (b), (c) and (d) of subdivision 8, and subdivisions 10 and 11 of section
+4 2168 of the public health law, paragraphs (a) and (c) of subdivision 1,
+5 paragraphs (b), (c) and (d) of subdivision 2, and subdivision 10 as
+6 amended by section 7 of part A of chapter 58 of the laws of 2009, para-
+7 graph (a) of subdivision 3 as amended by section 2-a of part DD of chap-
+8 ter 57 of the laws of 2018, paragraphs (b) and (c) of subdivision 8 and
+9 subdivision 11 as amended by chapter 829 of the laws of 2022, and para-
+10 graph (d) of subdivision 8 as amended by chapter 532 of the laws of 2022
+11 and subparagraph (i) of paragraph (d) as separately amended by chapter
+12 44 of the laws of 2022, are amended and a new paragraph (i) of subdivi-
+13 sion 2 is added to read as follows:
+14 (a) collect reports of immunizations and thus reduce the incidence of
+15 illness, disability and death due to vaccine preventable diseases [and],
+16 collect results of blood lead analyses performed by physician office
+17 laboratories to provide to the statewide registry of lead levels of
+18 children established pursuant to section thirteen hundred seventy-a of
+19 this chapter, and collect reports of rescue inhaler prescriptions;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06591-03-5
+
+A. 5194--A 2
+1 (c) make available to an individual, or parents, guardians, or other
+2 person in a custodial relation to a child or, to local health districts,
+3 local social services districts responsible for the care and custody of
+4 children, health care providers and their designees, schools, WIC
+5 programs, and third party payers the immunization status of children,
+6 blood lead analysis report and any rescue inhaler prescription; and
+7 (b) The term "statewide immunization information system" or "system"
+8 shall mean a statewide-computerized database maintained by the depart-
+9 ment capable of collecting, storing, and disclosing the electronic and
+10 paper records of vaccinations received, blood lead analysis as defined
+11 in section thirteen hundred seventy-a of this chapter, and rescue inhal-
+12 er prescriptions by persons under nineteen years of age.
+13 (c) The term "citywide immunization registry" shall mean the computer-
+14 ized database maintained by the city of New York department of health
+15 and mental hygiene capable of collecting, storing, and disclosing the
+16 electronic and paper records of vaccinations received and rescue inhaler
+17 prescriptions by persons less than nineteen years of age. The term
+18 "citywide immunization registry" shall not include the childhood blood
+19 lead registry established pursuant to the health code of the city of New
+20 York. For the purposes of this section the term New York city department
+21 of health and mental hygiene, shall mean such agency or any successor
+22 agency responsible for the citywide immunization registry.
+23 (d) The term "health care provider" shall mean any person authorized
+24 by law to order an immunization [or], analysis of a blood sample for
+25 lead, or prescribe a rescue inhaler or any health care facility licensed
+26 under article twenty-eight of this chapter or any certified home health
+27 agency established under section thirty-six hundred six of this chapter;
+28 with respect to a person seeking or receiving a health care service from
+29 the health care provider.
+30 (i) The term "rescue inhaler" shall mean a rescue inhaler treatment
+31 device as defined in paragraph (b) of subdivision one of section three
+32 thousand-e of this chapter that has been prescribed by a health care
+33 provider for an individual with asthma or other chronic respiratory
+34 disease that is under age nineteen.
+35 (a) (i) Any health care provider who administers any vaccine to a
+36 person less than nineteen years of age or, on or after September first,
+37 two thousand nine, conducts a blood lead analysis of a sample obtained
+38 from a person under eighteen years of age in accordance with paragraph
+39 (h) of subdivision two of this section, or on or after January first,
+40 two thousand twenty-five prescribes a rescue inhaler to a person less
+41 than nineteen years of age, provided that the first renewal of an ongo-
+42 ing prescription in effect prior to such date shall be considered a new
+43 prescription for the purposes of this section; and immunizations
+44 received by a person less than nineteen years of age in the past if not
+45 already reported, shall report all such immunizations [and], the results
+46 of any blood lead analysis, and any prescription for a rescue inhaler to
+47 the department in a format prescribed by the commissioner within four-
+48 teen days of administration of such immunizations [or], of obtaining the
+49 results of any such blood lead analysis, or of prescribing such rescue
+50 inhaler. Health care providers administering immunizations, or
+51 prescribing a rescue inhaler to persons less than nineteen years of age
+52 in the city of New York shall report, in a format prescribed by the city
+53 of New York commissioner of health and mental hygiene, all such immuni-
+54 zations to the citywide immunization registry. Health care providers who
+55 conduct a blood lead analysis on a person under eighteen years of age
+56 and who report the results of such analysis or prescription to the city
+
+A. 5194--A 3
+1 of New York commissioner of health and mental hygiene pursuant to New
+2 York city reporting requirements shall be exempt from this requirement
+3 for reporting blood lead analysis results and prescription for rescue
+4 inhaler to the state commissioner of health; provided, however, blood
+5 lead analysis data collected from physician office laboratories by the
+6 commissioner of health and mental hygiene of the city of New York pursu-
+7 ant to the health code of the city of New York shall be provided to the
+8 department in a format prescribed by the commissioner.
+9 (ii) A pharmacist who administers a vaccine pursuant to subdivision
+10 two of section sixty-eight hundred one of the education law, to a person
+11 less than nineteen years of age, shall report all such immunizations to
+12 the department in a format prescribed by the commissioner within four-
+13 teen days of administration of such immunizations. Pharmacists adminis-
+14 tering immunizations pursuant to subdivision two of section sixty-eight
+15 hundred one of the education law to persons less than nineteen years of
+16 age in the city of New York shall report, in a format prescribed by the
+17 city of New York commissioner of health and mental hygiene, all such
+18 immunizations to the citywide immunization registry.
+19 (b) (i) The commissioner may use the statewide immunization informa-
+20 tion system [and], the blood lead analysis, and rescue inhaler informa-
+21 tion in such system for purposes of outreach, quality improvement and
+22 accountability, including professional responsibility proceedings of the
+23 office of professional medical conduct and the state education depart-
+24 ment, research, epidemiological studies and disease control, and to
+25 obtain blood lead test results from physician office laboratories for
+26 the statewide registry of lead levels of children established pursuant
+27 to subdivision two of section thirteen hundred seventy-a of this chap-
+28 ter; (ii) the commissioner of health and mental hygiene for the city of
+29 New York may use the immunization registry [and], the blood lead analy-
+30 sis, and rescue inhaler information in such system for purposes of
+31 outreach, quality improvement and accountability, research, epidemiolog-
+32 ical studies and disease control; (iii) local health departments shall
+33 have access to the immunization information system [and], the blood lead
+34 analysis, and rescue inhaler information in such system for purposes of
+35 outreach, quality improvement and accountability, epidemiological
+36 studies and disease control within their county; and
+37 (c) health care providers and their designees, registered professional
+38 nurses, and pharmacists authorized to administer immunizations pursuant
+39 to subdivision two of section sixty-eight hundred one of the education
+40 law shall have access to the statewide immunization information system
+41 [and], the blood lead analysis, and rescue inhaler information in such
+42 system only for purposes of submission of information about vaccinations
+43 received by a specific registrant, determination of the immunization
+44 status of a specific registrant, determination of the blood lead testing
+45 status of a specific registrant, submission of the results from a blood
+46 lead analysis of a sample obtained from a specific registrant in accord-
+47 ance with paragraph (h) of subdivision two of this section, determi-
+48 nation of the asthma or other chronic respiratory disease diagnosis of a
+49 specific registrant, submission of information about prescriptions for a
+50 rescue inhaler review of practice coverage, generation of reminder
+51 notices, quality improvement and accountability, including professional
+52 responsibility proceedings of the office of professional medical conduct
+53 and the state education department, and printing a copy of the immuniza-
+54 tion [or] record, lead testing record, or rescue inhaler prescription
+55 for the registrant's medical record, for the registrant's parent or
+
+A. 5194--A 4
+1 guardian, or other person in parental or custodial relation to a child,
+2 or for a registrant upon reaching eighteen years of age.
+3 (d) The following authorized users shall have access to the statewide
+4 immunization information system [and], the blood lead analysis, and
+5 rescue inhaler information in such system and the citywide immunization
+6 registry for the purposes stated in this paragraph: (i) schools for the
+7 purpose of verifying immunization status for eligibility for admission,
+8 for the purpose of knowing a student or child care or preschool child
+9 has been diagnosed with asthma or other chronic respiratory disease for
+10 which a rescue inhaler was prescribed, for the purpose of confirming a
+11 student has been screened for lead when enrolling in child care, pre-
+12 school, pre-kindergarten or kindergarten, and for the provision of
+13 appropriate educational materials developed by the department pursuant
+14 to section thirteen hundred seventy-a of this chapter on the dangers of
+15 lead exposure, and the health risks associated with elevated blood lead
+16 levels to the parents or legal guardians of the student with an elevated
+17 blood lead level, as such term is defined in subdivision six of section
+18 thirteen hundred seventy of this chapter, as well as information on
+19 programs that may be available to the student and the parents or legal
+20 guardians of the student. For each school that has the technical ability
+21 to batch download sets of immunization records, the department shall
+22 make available such sets of immunization records of only those children
+23 submitted by the school for which the school has obtained a certificate
+24 of immunization or for which the school has responsibility to verify the
+25 immunization status for school attendance purposes under section twen-
+26 ty-one hundred sixty-four of this article. Schools shall properly safe-
+27 guard such information for use only as authorized by this section; (ii)
+28 colleges for verifying immunization status for eligibility for admis-
+29 sion; (iii) professional and technical schools for verifying immuniza-
+30 tion status for eligibility for admission; (iv) children's overnight
+31 camps and summer day camps for verifying immunization status of children
+32 attending camp and for the purpose of knowing a student has been diag-
+33 nosed with asthma or other chronic respiratory disease for which a
+34 rescue inhaler was prescribed; (v) third party payer for performing
+35 quality assurance, accountability and outreach, relating to enrollees
+36 covered by the third party payer; (vi) commissioners of local social
+37 services districts with regard to a child in [his/her] their legal
+38 custody; (vii) the commissioner of the office of children and family
+39 services with regard to children in their legal custody, and for quality
+40 assurance and accountability of commissioners of local social services
+41 districts, care and treatment of children in the custody of commission-
+42 ers of local social services districts; and (viii) WIC programs for the
+43 purposes of verifying immunization and lead testing status for those
+44 seeking or receiving services.
+45 10. The person to whom any immunization record relates, or [his or
+46 her] their parent, or guardian, or other person in parental or custodial
+47 relation to such person may request a copy of an immunization [or]
+48 record, lead testing record or rescue inhaler prescription from the
+49 registrant's healthcare provider, the statewide immunization information
+50 system or the citywide immunization registry according to procedures
+51 established by the commissioner or, in the case of the citywide immuni-
+52 zation registry, by the city of New York commissioner of the department
+53 of health and mental hygiene.
+54 11. The commissioner, or in the city of New York, the commissioner of
+55 the department of health and mental hygiene, may provide registrant
+56 specific immunization [and] records, lead test records, and rescue
+
+A. 5194--A 5
+1 inhaler prescriptions to the federal centers for disease control and
+2 prevention or its successor agency, to other state or city registries
+3 and registries maintained by the Indian Health Service and tribal
+4 nations recognized by the state or the United States pursuant to a writ-
+5 ten agreement requiring that the other registry conform to national
+6 standards for maintaining the integrity of the data and that the data
+7 will only be used for purposes consistent with the provisions of this
+8 section and provided that disclosure of identifiable registrant informa-
+9 tion shall be limited to the minimum amount necessary to accomplish the
+10 purposes consistent with the provisions of this section as determined by
+11 the commissioner, or in the city of New York, the commissioner of the
+12 department of health and mental hygiene.
+13 § 2. This act shall take effect immediately.

@@ -1,0 +1,485 @@
+Title: 
+Official Title: 
+Source: versions - A4631B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4631--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 4, 2025
+___________
+Introduced by M. of A. KELLES, EPSTEIN, SIMON, HEVESI, GONZALEZ-ROJAS,
+FORREST, WEPRIN, REYES, STECK, SEAWRIGHT, MITAYNES, GALLAGHER, RAGA,
+SIMONE, SHRESTHA, CUNNINGHAM, BORES, OTIS, LEVENBERG, R. CARROLL,
+STERN, ROSENTHAL, RAJKUMAR, KIM, ANDERSON, GLICK, LUNSFORD, BARRETT,
+MAMDANI, DINOWITZ, SANTABARBARA, JACOBSON, TAYLOR, CLARK, PAULIN,
+BICHOTTE HERMELYN, LAVINE, SLATER, EACHUS, DE LOS SANTOS, CONRAD,
+CRUZ, BENEDETTO, JACKSON, STIRPE, MEEKS, LUPARDO, McMAHON, LEE,
+BURDICK, COLTON, ALVAREZ, DAVILA, BENDETT, K. BROWN, BLUMENCRANZ,
+BEEPHAN, ROMERO, VALDEZ -- read once and referred to the Committee on
+Consumer Affairs and Protection -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee --
+again reported from said committee with amendments, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to requiring fash-
+ion sellers to be accountable to environmental standards and estab-
+lishing the interstate fashion environment accountability act; and to
+amend the state finance law, in relation to establishing a fashion
+remediation fund
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "fashion environmental accountability act".
+3 § 2. The general business law is amended by adding a new section 399-
+4 mm to read as follows:
+5 § 399-mm. Fashion environmental accountability act. 1. Definitions.
+6 As used in this section, the following terms shall have the following
+7 meanings:
+8 (a) "Doing business in this state" shall mean actively engaging in any
+9 transaction for the purpose of financial or pecuniary gain or profit.
+10 (b) "Gross receipts" shall mean the gross amounts realized, otherwise
+11 known as the sum of money and the fair market value of other property or
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01707-07-5
+
+A. 4631--B 2
+1 services received, on the sale or exchange of property, the performance
+2 of services, or the use of property or capital, including rents, royal-
+3 ties, interest, and dividends, in a transaction that produces business
+4 income, in which the income, gain, or loss is recognized, or would be
+5 recognized if the transaction were in the United States, under the
+6 Internal Revenue Code, as applicable for purposes of this section.
+7 Amounts realized on the sale or exchange of property shall not be
+8 reduced by the cost of goods sold or the basis of property sold. Gross
+9 receipts, even if business income, shall not include the following
+10 items:
+11 (i) repayment, maturity, or redemption of the principal of a loan,
+12 bond, mutual fund, certificate of deposit, or similar marketable instru-
+13 ment;
+14 (ii) the principal amount received under a repurchase agreement or
+15 other transaction properly characterized as a loan;
+16 (iii) proceeds from issuance of the taxpayer's own stock or from sale
+17 of treasury stock;
+18 (iv) damages and other amounts received as the result of litigation;
+19 (v) property acquired by an agent on behalf of another;
+20 (vi) tax refunds and other tax benefit recoveries;
+21 (vii) pension reversions;
+22 (viii) contributions to capital, except for sales of securities by
+23 securities dealers;
+24 (ix) income from discharge of indebtedness;
+25 (x) amounts realized from exchanges of inventory that are not recog-
+26 nized under the Internal Revenue Code;
+27 (xi) amounts received from transactions in intangible assets held in
+28 connection with a treasury function of the taxpayer's unitary business
+29 and the gross receipts and overall net gains from the maturity, redemp-
+30 tion, sale, exchange, or other disposition of those intangible assets;
+31 and
+32 (xii) amounts received from hedging transactions involving intangible
+33 assets. A "hedging transaction" means a transaction related to the
+34 taxpayer's trading function involving futures and options transactions
+35 for the purpose of hedging price risk of the products or commodities
+36 consumed, produced, or sold by the taxpayer.
+37 (c) "Fashion seller" shall mean a business entity which sells articles
+38 of wearing apparel, footwear, or fashion bags that together exceed one
+39 hundred million dollars in annual gross receipts, but shall not include
+40 the sale of used wearing apparel, footwear, or fashion bags, nor shall
+41 it include multi-brand retailers, except where:
+42 (i) the apparel, footwear, and fashion bag private labels of those
+43 companies together exceed one hundred million dollars in global revenue;
+44 or
+45 (ii) the business primarily operates as an online platform or market-
+46 place facilitating the sale of third-party goods in the categories of
+47 apparel, footwear, or fashion bags, and at least fifty percent of the
+48 platform's total sales volume comes from these categories, even if the
+49 platform itself does not own the brands.
+50 (d) "Article of wearing apparel" shall mean any costume or article of
+51 clothing worn or intended to be worn by individuals.
+52 (e) "Footwear" shall mean any covering worn or intended to be worn on
+53 the foot.
+54 (f) "Fashion bag" shall mean flexible packaging made of textiles,
+55 leather or other animal products, woven material or other similar mate-
+56 rials intended for repeated use.
+
+A. 4631--B 3
+1 (g) "Due diligence" shall mean the comprehensive process companies
+2 shall carry out to identify, cease, prevent, mitigate, account for, and
+3 remediate actual and potential adverse impacts to the environment in
+4 their own operations and in their supply chain, in compliance with, at a
+5 minimum, the standards outlined in the most recent Organisation for
+6 Economic Co-operation and Development Guidelines for Multinational
+7 Enterprises, and the most recent Organisation for Economic Co-operation
+8 and Development Due Diligence Guidance for Responsible Supply Chains in
+9 the Garment and Footwear Sector.
+10 (h) "Due diligence report" shall mean the document prepared by the
+11 company to communicate all relevant information concerning the exist-
+12 ence, implementation and outcomes of due diligence in order to comply
+13 with the requirements of this section, and to comply with any rules or
+14 regulations established pursuant to this section.
+15 (i) "Risk-based approach" shall mean commensurate to the likelihood
+16 and severity of the harm. The fashion seller shall prioritize the order
+17 in which it takes action based on the likelihood and severity of harm.
+18 Severity of impacts shall be determined according to their scale or
+19 gravity, scope, and irremediable character.
+20 (j) "Supply chain tiers" shall mean a four tier system defined as the
+21 following:
+22 (i) "Tier one" shall mean suppliers who produce finished goods for
+23 fashion sellers, including suppliers' subcontractors, who provide the
+24 following services, including but not limited to sewing and embroider-
+25 ing;
+26 (ii) "Tier two" shall mean suppliers to tier one, including subcon-
+27 tractors, who provide the following services or goods, including but not
+28 limited to knitting, weaving, washing, dyeing, finishing, printing for
+29 finished goods, and components and materials for finished goods when
+30 they are stand-alone operations and not integrated with tier one. Compo-
+31 nents shall mean materials used to build a product, including but not
+32 limited to buttons, zippers, rubber soles, down, and fusibles;
+33 (iii) "Tier three" shall mean suppliers to tier two suppliers, includ-
+34 ing subcontractors, who process raw materials, such as spinning; and
+35 (iv) "Tier four" shall mean companies, including subcontractors, that
+36 provide raw materials to tier three.
+37 (k) "Independently verified" shall mean audited by a verification body
+38 accredited by the department of state as described in subdivision five
+39 of this section.
+40 (l) "Open data principles" shall mean data that can be freely used,
+41 reused and redistributed by anyone. Such data shall be findable or easi-
+42 ly discoverable on a website or within a database, accessible or avail-
+43 able in a machine readable, convenient, modifiable form and published as
+44 a whole, complete dataset, interoperable or able to be mixed with
+45 different datasets, and reusable or provided under an open license that
+46 permits reuse and redistribution, including the intermixing with other
+47 datasets.
+48 (m) "Employee" shall mean all workers, whether full-time or part-time,
+49 permanent or fixed-term, directly contracted or hired indirectly through
+50 an agency or other intermediary.
+51 2. Due diligence. (a) Every fashion seller shall effectively carry out
+52 environmental due diligence for the portions of their business related
+53 to wearing apparel, footwear or fashion bags, including wearing apparel,
+54 footwear or fashion bags produced as a private label, which shall
+55 include:
+56 (i) supply chain mapping:
+
+A. 4631--B 4
+1 (1) companies taking a risk-based approach and implementing good faith
+2 efforts to map suppliers across tier one through tier four of
+3 production.
+4 (2) disclosure of suppliers of the production supply chain including:
+5 the name, parent company and product type, filed by the following:
+6 (A) Tier one suppliers shall be disclosed within twelve months of the
+7 effective date of this section, and shall contain a minimum of eighty-
+8 five percent of suppliers by volume.
+9 (B) Tier two suppliers shall be disclosed within two years of the
+10 effective date of this section, and shall contain a minimum of seventy-
+11 five percent of suppliers by volume.
+12 (C) Tier three suppliers shall be disclosed within four years of the
+13 effective date of this section and shall contain a minimum of fifty
+14 percent of suppliers by volume or dollar value.
+15 (D) Tier four suppliers shall be disclosed within six years of the
+16 effective date of this section and shall contain a minimum of fifty
+17 percent of suppliers by volume or dollar value.
+18 (ii) in carrying out effective due diligence, fashion sellers shall be
+19 in compliance with the Organisation for Economic Co-operation and Devel-
+20 opment Guidelines for Multinational Enterprises and the Organisation for
+21 Economic Co-operation and Development Due Diligence Guidance for Respon-
+22 sible Supply Chains in the Garment and Footwear Sector, requiring fash-
+23 ion sellers to, at a minimum:
+24 (1) embed responsible business conduct into the company's policies and
+25 management systems;
+26 (2) identify areas of significant risks in the contexts of its own
+27 activities and business and supply chain relationships;
+28 (3) identify, prioritize, and assess the significant potential and
+29 actual adverse impacts of those risks;
+30 (4) cease, prevent or mitigate those risks. This shall include, but
+31 not be limited to:
+32 (A) incentivizing improved supplier performance on environmental
+33 impact by embedding responsible purchasing practices in its supply chain
+34 relationships and contracts, including but not limited to contract
+35 renewals, longer term contracts, price premiums, providing reasonable
+36 assistance to suppliers so that they can meet applicable environmental
+37 standards including but not limited to meeting the carbon emission
+38 reduction targets set out in this act, and developing pricing models
+39 that account for the cost investments.
+40 (B) establishing quantitative baseline and reduction targets on green-
+41 house gas emissions. Greenhouse gas emissions inventory shall be
+42 reported annually, starting in two thousand twenty-seven for emissions
+43 in the prior fiscal year; include absolute figures; and conform with the
+44 rules and regulations made by the department of state in consultation
+45 with the department of environmental conservation based on the account-
+46 ing and reporting requirements of the most recent Greenhouse Gas Proto-
+47 col Corporate Accounting and Reporting Standard, Scope Two Guidance,
+48 and, starting in two thousand twenty-eight, the most recent Corporate
+49 Value Chain Scope Three accounting and reporting standard promulgated by
+50 the World Resources Institute and the World Business Council for
+51 Sustainable Development. Greenhouse gas emissions inventory reported in
+52 the due diligence report required pursuant to subdivision three of this
+53 section shall be independently verified no less than once every two
+54 years. Fashion sellers shall not be subject to an administrative penalty
+55 under this section for any misstatements with regard to scope three
+56 emissions disclosures made with a reasonable basis and disclosed in good
+
+A. 4631--B 5
+1 faith. Greenhouse gas emission reduction targets must be near-term and
+2 long-term, covering scopes one, two and three emissions, and align with
+3 the rules and regulations made by the department of state in consulta-
+4 tion with the department of environmental conservation based on, at a
+5 minimum, Science Based Target initiative's most recent target validation
+6 criteria as promulgated by World Resources Institute, CDP, United
+7 Nations Global Compact and the World Wildlife Fund. Compliance with the
+8 rules and regulations made by the department of state shall not waive
+9 compliance requirements related to greenhouse gas emissions in any other
+10 provision of law. For fashion sellers with global revenue over one
+11 billion dollars, the absolute contraction approach must be used to
+12 calculate scope three emissions. Fashion sellers shall meet targets and
+13 report their compliance on an annual basis in their due diligence
+14 report, as required pursuant to subdivision three of this section. If
+15 found to be out of compliance, fashion sellers shall have eighteen
+16 months to remedy their emissions and return to the necessary reduction
+17 pathway to deliver on their targets. In non-target years, non-compliance
+18 shall mean an increase in absolute emissions in five consecutive years,
+19 for companies over a billion dollars in revenue. In target years, non-
+20 compliance shall mean not reaching the target;
+21 (C) in accordance with internationally recognized methodologies for
+22 chemical management and wastewater testing, requiring fashion sellers
+23 within two years of the effective date of this section, for all signif-
+24 icant tier two dyeing, finishing, printing and garment washing suppli-
+25 ers, to: sample and report on wastewater chemical concentrations and
+26 water usage; report on chemical inventory; and provide evidence that the
+27 supplier is in compliance with local chemical management laws. For
+28 significant suppliers that use indirect wastewater management, fashion
+29 sellers shall report the chemical concentrations of the wastewater
+30 treatment facilities report on the percentage of significant suppliers
+31 that have chemical remediation plans in place and what the fashion sell-
+32 er is doing to remediate. Reports required pursuant to this item shall
+33 be independently verified. Three years after the effective date of this
+34 section, fashion sellers shall be considered out of compliance if their
+35 significant tier two dyeing, finishing, printing and garment suppliers
+36 have not made adequate progress in remediation of wastewater pollution
+37 concentrations and chemical management. For the purposes of this item,
+38 "significant suppliers" shall mean suppliers representing seventy-five
+39 percent of fabric by volume;
+40 (D) utilizing responsible exit or disengagement strategies;
+41 (E) consulting and engaging with impacted and potentially impacted
+42 stakeholders and rights holders and their representatives;
+43 (5) track implementation and results;
+44 (6) provide for or co-operate in remediation in the event of an
+45 adverse impact:
+46 (A) remedies shall seek to restore the affected locations, places or
+47 person or persons, where practicable, to the situation they would have
+48 been in had the adverse impact not occurred and shall enable remediation
+49 that is proportionate to the significance and scale of the adverse
+50 impact; and
+51 (B) remedies shall include, depending on the nature and extent of the
+52 adverse impact, remediation, restitution or financial or non-financial
+53 compensation, including establishing compensation funds for victims or
+54 for future outreach and educational programs, punitive sanctions includ-
+55 ing the dismissals of staff responsible for wrongdoing, and establishing
+56 and undertaking measures to prevent future adverse impacts, which may
+
+A. 4631--B 6
+1 include, but are not limited to the development of internal protocols,
+2 practices and procedures to prevent future adverse impacts.
+3 (b) The due diligence requirements pursuant to this subdivision shall
+4 not be conditional upon the company being effectively involved in the
+5 subsidiary's day-to-day operations or exercising a sufficient degree of
+6 control on companies within its supply chain.
+7 3. Reporting. Every fashion seller shall develop and submit to the
+8 department of state annually, beginning within eighteen months of the
+9 effective date of this section, a due diligence report.
+10 (a) Such report, excluding the information required in clause two of
+11 subparagraph (i) of paragraph (a) of subdivision two of this section,
+12 shall also be made publicly available on the fashion seller's website in
+13 a machine readable and reusable format, published in line with open data
+14 principles through a clear and easily discoverable link to the required
+15 information. In the event the fashion seller does not have an internet
+16 website, the company shall provide a written disclosure to any person
+17 who has requested information within thirty days of receiving a request.
+18 Such report shall also include the fashion seller's annual volume of
+19 material produced, including breakdown by material type.
+20 (b) Such report shall contain annual activities and financial spending
+21 to support supply chain due diligence.
+22 (c) The department of state shall identify and notify fashion sellers
+23 that have failed to file a due diligence report that they have thirty
+24 days to file such report before being placed on a public non-compliant
+25 list and that they may be referred to the attorney general for investi-
+26 gation.
+27 (d) The department of state shall review the due diligence reports for
+28 completeness.
+29 (e) Fashion sellers shall have twelve months from the introduction of
+30 any updated guidance documents to integrate such guidance into the next
+31 annual due diligence report.
+32 (f) The department of state shall establish a standardized due dili-
+33 gence report format model and publish such model due diligence report
+34 online for use by fashion sellers in compliance with this section.
+35 4. Regulations. (a) The department of state shall, in consultation
+36 with the department of environmental conservation, promulgate all rules
+37 and regulations necessary to implement the provisions of this section
+38 within six months from the effective date of this section.
+39 (b) The department of state, in consultation with the department of
+40 environmental conservation, shall also develop and disseminate educa-
+41 tional materials to fashion sellers, including providing alerts on time
+42 sensitive issues, emerging issues, and high-risk country situations, and
+43 assisting fashion sellers in improving the quality of their due dili-
+44 gence processes.
+45 (c) The department of state shall develop regulations regarding the
+46 information required to be reported by fashion sellers in the due dili-
+47 gence report in item (C) of clause four of subparagraph (ii) of para-
+48 graph (a) of subdivision two of this section. Such regulations shall be
+49 developed in consultation with the department of environmental conserva-
+50 tion.
+51 (d) The department of state shall develop regulations on reporting
+52 requirements that minimize duplication of effort and allows a fashion
+53 seller to submit a due diligence report to the department of state that
+54 is prepared to meet other national and international reporting require-
+55 ments, including any reports required by the federal government, as long
+
+A. 4631--B 7
+1 as such reports satisfy all of the requirements of subdivision two of
+2 this section.
+3 5. Verification. (a) The department of state shall, in consultation
+4 with the department of environmental conservation, develop a process for
+5 accrediting verification bodies authorized to provide verification
+6 services for the purposes of this section, including which requirements
+7 the entity is authorized to verify.
+8 (b) Such process shall at a minimum consider:
+9 (i) the demonstrated qualifications of verification staff, including
+10 their education, experience, and professional licenses. Verification
+11 bodies must employ and retain at least five total full-time staff with
+12 expertise in the requirements they seek to verify under this section;
+13 (ii) any judicial proceedings, enforcement actions, or administrative
+14 actions filed against the body within the previous five years; and
+15 (iii) the policies and mechanisms in place to prevent conflicts of
+16 interest and to identify and resolve potential conflict of interest
+17 situations if they arise. The department shall require applicants to
+18 submit the following information, at a minimum:
+19 (1) identification of services provided by the verification body, the
+20 industries that the body serves, and the locations where those services
+21 are provided;
+22 (2) a detailed organizational chart that includes the verification
+23 body, its management structure, and any related entities; and
+24 (3) the verification body's internal conflict of interest policy that
+25 identifies activities and limits to monetary or non-monetary gifts that
+26 apply to all employees and procedures to monitor conflicts of interest.
+27 (c) Verification bodies shall not be authorized to provide services to
+28 a company where a conflict of interest exists. A conflict of interest
+29 shall include:
+30 (i) where the verification body and reporting entity share any manage-
+31 ment staff or board of directors membership, or any of the senior
+32 management staff of the reporting entity have been employed by the
+33 verification body, or vice versa, within the previous five years;
+34 (ii) any employee of the verification body, or any employee of a
+35 related entity, or a subcontractor who is a member of the verification
+36 team has provided the reporting entity with services related to the
+37 areas of verification, or any services designated by the department of
+38 state, within the previous five years;
+39 (iii) any staff member of the verification body provides any type of
+40 non-monetary incentive to a reporting entity to secure a verification
+41 services contract; and
+42 (iv) any additional criteria provided by the department of state.
+43 (d) Verification bodies that have been accredited by the department of
+44 state shall notify the department within thirty days if they no longer
+45 meet the verification requirements set forth by this section.
+46 6. Monitoring and enforcement. (a) The requirements imposed on fashion
+47 sellers by this section shall be monitored, investigated, and enforced
+48 by the attorney general or an administrator designated by the attorney
+49 general to bring civil proceedings for an injunction, or fines for mone-
+50 tary damages as described in this section, or civil performance of a
+51 statutory duty. Fashion sellers shall be deemed non-compliant with this
+52 section if they fail to conduct effective due diligence pursuant to
+53 subdivision two of this section or fail to file a due diligence report
+54 pursuant to subdivision three of this section.
+55 (b) The department of state shall identify and notify fashion sellers
+56 that have failed to file a complete due diligence report in accordance
+
+A. 4631--B 8
+1 with the rules and regulations promulgated by the department of state in
+2 consultation with the department of environmental conservation. If such
+3 fashion sellers fail to file a complete report, after a period of three
+4 months, the department of state shall refer fashion sellers to the
+5 attorney general for enforcement for failure to file a complete report.
+6 (c) The department of environmental conservation shall review and
+7 certify effective due diligence for environmental matters in the due
+8 diligence report and identify fashion sellers for referral to the attor-
+9 ney general for any failures.
+10 (d) The department of state shall compile and maintain a list of non-
+11 compliant fashion sellers on the department's website. The department of
+12 state shall refer to the attorney general for investigation any fashion
+13 seller who fails to file a due diligence report or fails to conduct
+14 effective due diligence, once any grace period lapses and the fashion
+15 seller remains in non-compliance.
+16 (e) Fashion sellers found to have failed to conduct effective due
+17 diligence pursuant to subdivision two of this section or failed to file
+18 a complete due diligence report pursuant to subdivision three of this
+19 section, after the attorney general, or the attorney general's desig-
+20 nated administrator, as applicable, has provided notice of non-compli-
+21 ance, and after a three-month period to meet obligations under this
+22 section has lapsed, may be assessed a civil penalty not to exceed
+23 fifteen thousand dollars per violation per day. Such fines shall be
+24 deposited in the community benefit fund established by section ninety-
+25 seven-ccc of the state finance law.
+26 (f) The attorney general, or the attorney general's designated admin-
+27 istrator shall use a risk-based approach in enforcement and shall
+28 publish enforcement guidelines.
+29 (g) Any person may report a violation of this section to the attorney
+30 general's office.
+31 § 3. The state finance law is amended by adding a new section 97-ccc
+32 to read as follows:
+33 § 97-ccc. Fashion remediation fund. 1. There is hereby established in
+34 the joint custody of the comptroller, the commissioner of taxation and
+35 finance, and the commissioner of environmental conservation a special
+36 fund to be known as the fashion remediation fund.
+37 2. Such fund shall consist of all moneys deposited pursuant to para-
+38 graph (e) of subdivision six of section three hundred ninety-nine-mm of
+39 the general business law.
+40 3. The moneys in the fund shall be expended by the comptroller for the
+41 purpose of implementing one or more environmental benefit projects or
+42 environmental remediation projects that directly and verifiably benefit
+43 the workers and communities directly impacted, to the extent practica-
+44 ble, at the location the injury has occurred.
+45 4. On or before the first day of February each year, the comptroller
+46 shall certify to the temporary president of the senate, and the speaker
+47 of the assembly, the amount of money deposited by source in the fund
+48 during the preceding calendar year, as well as all disbursements from
+49 the fund during the preceding calendar year.
+50 5. Moneys shall be payable from the fund on the audit and warrant of
+51 the comptroller on vouchers certified and approved by the commissioner
+52 of environmental conservation as applicable.
+53 § 4. The attorney general shall certify to the governor that the
+54 office of the attorney general is prepared to execute the duties
+55 assigned in subdivision 6 of section 399-mm of the general business law
+56 within one year following the effective date of this act. If, after the
+
+A. 4631--B 9
+1 expiration of one year, the attorney general requires more time to
+2 certify that the office of the attorney general is prepared to execute
+3 such duties, the attorney general may, for good cause shown, apply to
+4 the governor for an extension of time. The governor may grant or deny an
+5 extension of up to one year according to their discretion.
+6 § 5. Severability. If any word, phrase, clause, sentence, paragraph,
+7 section, or part of this act shall be adjudged by any court of competent
+8 jurisdiction to be invalid, such judgment shall not affect, impair, or
+9 invalidate the remainder thereof, but shall be confined in its operation
+10 to the word, phrase, clause, sentence, paragraph, section, or part ther-
+11 eof directly involved in the controversy in which such judgment shall
+12 have been rendered.
+13 § 6. The department of state, in consultation with the department of
+14 environmental conservation, shall promulgate rules and regulations
+15 necessary for the implementation of this act within one hundred eighty
+16 days of the effective date of this act.
+17 § 7. This act shall take effect immediately; provided, however, that
+18 sections one through three of this act shall take effect one year after
+19 they shall have become a law; provided further, however, that subdivi-
+20 sion 6 of section 399-mm of the general business law as added by section
+21 two of this act shall take effect one year after the attorney general
+22 certifies that the office of the attorney general is prepared to execute
+23 the duties assigned in such subdivision. The attorney general shall
+24 notify the legislative bill drafting commission upon the occurrence of
+25 such certification in order that the commission may maintain an accurate
+26 and timely effective data base of the official text of the laws of the
+27 state of New York in furtherance of effectuating the provisions of
+28 section 44 of the legislative law and section 70-b of the public offi-
+29 cers law.

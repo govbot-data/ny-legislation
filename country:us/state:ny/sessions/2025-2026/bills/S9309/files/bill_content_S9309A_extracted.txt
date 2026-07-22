@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - S9309A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9309--A
+IN SENATE
+February 27, 2026
+___________
+Introduced by Sens. BRISPORT, SALAZAR -- read twice and ordered printed,
+and when printed to be committed to the Committee on Banks -- reported
+favorably from said committee and committed to the Committee on Judi-
+ciary -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to enacting the "deed
+protection act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "deed protection act".
+3 § 2. The banking law is amended by adding a new section 595-d to read
+4 as follows:
+5 § 595-d. Foreclosure dependent on fraudulent title prohibited. 1. No
+6 mortgage banker or mortgage loan servicer shall commence, maintain, or
+7 proceed with a foreclosure action on a mortgage loan where such mortgage
+8 banker or mortgage loan servicer knows or has reason to know that the
+9 mortgage securing such loan is dependent on a deed, conveyance, or other
+10 instrument affecting title to residential real property that was
+11 procured by fraud, forgery, or other unlawful means, such that the mort-
+12 gagor did not obtain a valid interest in the property.
+13 2. Prior to commencing a foreclosure action, a mortgage banker or
+14 mortgage loan servicer shall conduct a reasonable review of the mortgage
+15 loan and available records to determine whether there is a reasonable
+16 basis to believe that such mortgage loan is secured by a valid and
+17 enforceable interest in the mortgaged residential real property.
+18 3. Nothing in this section shall be construed to limit or impair any
+19 right or remedy available at law or in equity relating to fraud,
+20 forgery, or other unlawful acts affecting title to residential real
+21 property.
+22 4. A violation of this section shall constitute a violation of this
+23 article.
+24 § 3. This act shall take effect immediately.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14344-06-6
