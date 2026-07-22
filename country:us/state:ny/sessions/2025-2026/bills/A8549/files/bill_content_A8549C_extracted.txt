@@ -1,0 +1,341 @@
+Title: 
+Official Title: 
+Source: versions - A8549C
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8549--C
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 20, 2025
+___________
+Introduced by M. of A. LAVINE, TAYLOR -- read once and referred to the
+Committee on Banks -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- recommitted
+to the Committee on Banks in accordance with Assembly Rule 3, sec. 2
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee -- reported and referred to the
+Committee on Codes -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to the establishment and
+administration of joint accounts
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 675 of the banking law is amended by adding a new
+2 subdivision (d) to read as follows:
+3 (d) The provisions of this section shall not apply to accounts estab-
+4 lished primarily for personal, household or family purposes after the
+5 effective date of section six hundred seventy-five-a of this article or
+6 modified on or after such effective date by the addition of another
+7 person; provided, however, that the designation or revocation of author-
+8 ity under a power of attorney shall not be deemed a modification for
+9 purposes of this subdivision.
+10 § 2. Section 678 of the banking law is amended by adding a new subdi-
+11 vision 3 to read as follows:
+12 3. The provisions of this section shall not apply to accounts estab-
+13 lished primarily for personal, household or family purposes after the
+14 effective date of section six hundred seventy-five-a of this article or
+15 modified on or after such effective date by the addition of another
+16 person; provided, however, that the designation or revocation of author-
+17 ity under a power of attorney shall not be deemed a modification for
+18 purposes of this subdivision.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11949-12-6
+
+A. 8549--C 2
+1 § 3. The banking law is amended by adding a new section 675-a to read
+2 as follows:
+3 § 675-a. Accounts involving multiple persons. 1. Definitions. For the
+4 purposes of this section, the following terms shall have the following
+5 meanings:
+6 (a) "Account" means a consumer transaction account between one or more
+7 account owners and a state depository institution or other financial
+8 institution, pursuant to which funds or other property are deposited or
+9 held.
+10 (b) "Account agreement" means a record, including any contract, signa-
+11 ture card, convenience signer designation, joint account attestation, or
+12 other document, that establishes or governs the terms and conditions of
+13 an account.
+14 (c) "Account owner" means a natural person who, pursuant to the
+15 account agreement, is identified as an account owner, and does not
+16 include a person authorized only to transact on the account as an agent
+17 or convenience signer.
+18 (d) "Convenience signer" means a person designated by the account
+19 owner or owners in a convenience signer designation to transact on an
+20 account without any ownership interest or right of survivorship in such
+21 account, and who may only act on behalf of such account owner or owners.
+22 (i) In addition to transacting on behalf of an account owner, a
+23 convenience signer may exercise authority with respect to an account as
+24 may be authorized by the account agreement and policies and procedures
+25 of a financial institution maintaining such account, including authority
+26 incidental to transacting on the account, provided that no such authori-
+27 ty shall confer any ownership or beneficial interest in the sums on
+28 deposit.
+29 (ii) The authority of a person designated as an attorney-in-fact for
+30 an account owner under a power of attorney shall take precedence over
+31 and supersede the authority of a convenience signer; such attorney-in-
+32 fact shall have the authority to remove a convenience signer desig-
+33 nation.
+34 (e) (i) "Convenience signer designation" means a provision in an
+35 account agreement, pursuant to which the account owner or owners may
+36 agree to authorize one or more persons to act as convenience signers
+37 with respect to the account, in substantially the following form:
+38 "The account owner or owners may choose to name one or more "conven-
+39 ience signers" to make transactions on their behalf.
+40 A convenience signer:
+41 1. May deposit or withdraw money for the benefit of an account owner;
+42 2. Does not own the account or the money in the account;
+43 3. Has no right to receive the money if an account owner dies; and
+44 4. May be removed by an account owner at any time.
+45 If you want to name one or more convenience signers, please list them
+46 here:"
+47 (ii) A convenience signer designation shall constitute a single,
+48 uniform designation applicable to all account owners.
+49 (f) "State depository institution" means a banking organization, a
+50 foreign banking corporation licensed by the superintendent to transact
+51 business in this state, or an out-of-state state bank that opens or
+52 occupies a branch in this state pursuant to article five-C of this chap-
+53 ter.
+54 (g) "Joint account" means an account in the name of two or more
+55 account owners.
+
+A. 8549--C 3
+1 (h) "Net contribution" means the sum of the deposits made by or on
+2 behalf of an account owner to an account, less withdrawals made by or on
+3 behalf of such account owner that have not been paid to or applied for
+4 the benefit of another account owner from such account, and a propor-
+5 tionate amount of any charges deducted from such account, plus a propor-
+6 tionate amount of any interest or dividends earned, whether or not
+7 included in the current balance.
+8 (i) "Payment or transfer" means any withdrawal, disbursement, debit,
+9 or other disposition of sums on deposit.
+10 (j) "Personal use" means use by one or more natural persons primarily
+11 for personal, family or household purposes and shall not include: (i)
+12 use in connection with a partnership, joint venture, or other organiza-
+13 tion for a business purpose; (ii) use by one or more persons acting in
+14 an agency capacity or as a trustee for a corporation, unincorporated
+15 association, or charitable or civic organization; or (iii) use in
+16 connection with a fiduciary or trust relationship in which such fiduci-
+17 ary or trust relationship is established other than by the account
+18 agreement.
+19 (k) "Personal representative" means a personal representative as
+20 defined by section 1-2.13 of the estates, powers, and trusts law.
+21 (l) "Sums on deposit" means the balance payable on an account, includ-
+22 ing interest and dividends earned but not yet credited to the account.
+23 (m) "Joint account attestation" means a provision in an account agree-
+24 ment for a joint account whereby all account owners shall, by signature,
+25 acknowledge their rights to such joint account in substantially the
+26 following form:
+27 "By signing below, we each confirm that we are joint owners of this
+28 account. We understand and agree to the following:
+29 1. Any of us may withdraw or spend money from this account at any
+30 time, regardless of who deposited the money;
+31 2. However, each of us generally owns the money we deposit into this
+32 account, minus the money we withdraw;
+33 3. If one of us dies, the money in this account will pass to the
+34 surviving joint owner or owners; and
+35 4. In a dispute about ownership of the money in this account, a court
+36 may consider this document as evidence of our intentions.
+37 Name all joint owners:"
+38 2. Account agreements; convenience signers; reliance; competing
+39 claims; liability. (a) After the effective date of this section, when a
+40 deposit of funds or other property is made in or with any state deposi-
+41 tory institution in an account for personal use, established in the name
+42 of one or more account owners, or modified by the addition of one or
+43 more account owners or convenience signers, such state depository insti-
+44 tution shall establish an account agreement, which shall include, at
+45 minimum:
+46 (i) a clear and conspicuous option for one or more account owners to
+47 designate a convenience signer in a convenience signer designation that
+48 shall be executed by each such account owner and acknowledged by each
+49 such convenience signer; and
+50 (ii) where such account is established in the name of more than one
+51 account owner or modified by the addition of one or more account owners,
+52 a joint account attestation that shall be executed by each such account
+53 owner.
+54 (b) An account agreement, including a convenience signer designation
+55 or joint account attestation, may be established electronically pursuant
+56 to regulations promulgated by the superintendent.
+
+A. 8549--C 4
+1 (c) A convenience signer designation may be revoked upon request by
+2 any account owner at any time.
+3 (d) A state depository institution shall maintain an account agreement
+4 required by this section for as long as such account remains open and
+5 for a period of six years after it is closed.
+6 (e) A state depository institution may rely in good faith on an
+7 account agreement, including the joint account attestation and conven-
+8 ience signer designation, and shall not be required to determine the net
+9 contributions or respective ownership interests of account owners in a
+10 joint account.
+11 (f) Payment or transfer by a state depository institution to any
+12 account owner or convenience signer named on an account pursuant to an
+13 account agreement that complies with the requirements of this section
+14 shall discharge such state depository institution from liability to the
+15 extent of such payment or transfer, whether or not such payment or
+16 transfer is consistent with the ownership interests in the sums on
+17 deposit as between account owners or any other persons claiming an
+18 interest therein.
+19 (g) Upon receipt of written notice from an account owner or from the
+20 personal representative of a deceased account owner's estate directing
+21 that payment or transfer shall not be permitted, or upon service of a
+22 restraining order, injunction, or other lawful order or process issued
+23 by a court or other authority of competent jurisdiction prohibiting
+24 payment or transfer, a state depository institution may, in good faith,
+25 refuse, without liability, to make any further payment or transfer from
+26 an account pending resolution of the dispute, order, or process.
+27 (h) Nothing in this section shall be construed:
+28 (i) to require a state depository institution to investigate or verify
+29 an account owner's intent beyond the face of the account agreement;
+30 (ii) to require a state depository institution to determine the valid-
+31 ity or priority of competing claims to the sums on deposit;
+32 (iii) to require any officer, employee, or agent of a state depository
+33 institution to provide legal, tax, or estate planning advice to an
+34 account owner or any other person;
+35 (iv) to alter, limit or impair the rights or remedies of account
+36 owners or other persons to resolve disputes between themselves, includ-
+37 ing disputes concerning the ownership of the sums on deposit or any
+38 payment or transfer made from an account, or any right or remedy that an
+39 account owner or other person may have against another account owner or
+40 other person with respect thereto;
+41 (v) to alter, limit or impair the right of a state depository institu-
+42 tion to exercise a lawful right of setoff; or
+43 (vi) to validate or authorize any payment or transfer that is other-
+44 wise unlawful, or to alter, limit or impair any right or remedy avail-
+45 able under law with respect to payment or transfer resulting from fraud,
+46 undue influence, elder abuse, or lack of authority.
+47 (i) No officer, employee, or agent of a state depository institution
+48 shall be personally liable for any act or omission taken in good faith
+49 and in the ordinary course of such person's duties in connection with
+50 the establishment, execution, explanation, maintenance, or implementa-
+51 tion of an account agreement pursuant to this section.
+52 (j) A state depository institution that fails to make commercially
+53 reasonable efforts to establish, execute, or maintain an account agree-
+54 ment pursuant to this section shall be deemed to have violated this
+55 chapter and may be subject to civil penalties, corrective action, or
+56 other enforcement measures imposed by the superintendent.
+
+A. 8549--C 5
+1 3. Joint accounts and convenience signers. (a) This subdivision shall
+2 apply to accounts established for personal use on or after the effective
+3 date of this section or modified by the addition of an account owner or
+4 convenience signer on or after such effective date.
+5 (b) Joint accounts and accounts with a single account owner may
+6 include one or more convenience signers, as designated by all account
+7 owners; provided however, any account owner may remove any convenience
+8 signer from an account at any time.
+9 (c) The authority of a convenience signer shall, unless otherwise
+10 specified in an account agreement, be presumed to survive the disability
+11 or incapacity of an account owner.
+12 (d) Death of the last surviving account owner shall terminate the
+13 authority of a convenience signer.
+14 (e) During the lifetime of an account owner, ownership interests in
+15 the sums on deposit in a joint account shall be presumed to be according
+16 to such account owner's net contribution; provided however, as between
+17 married account owners, in the absence of proof otherwise, the net
+18 contribution of each is presumed to be an equal amount.
+19 (f) The determination of ownership interests by net contribution shall
+20 be presumed to apply only during the lifetime of account owners and not
+21 affect the operation of survivorship upon the death of an account owner.
+22 (g) No account owner shall be presumed to have made a present gift of
+23 sums on deposit to another account owner solely by reason of establish-
+24 ing, maintaining, or depositing funds into a joint account.
+25 (h) The authority of an account owner to withdraw funds from a joint
+26 account shall not determine ownership interests in the sums on deposit,
+27 and any sums on deposit in a joint account may be paid or withdrawn, in
+28 whole or in part, by any account owner in accordance with the terms of
+29 the account agreement, without regard to the beneficial ownership of
+30 such sums on deposit as between the account owners.
+31 (i) Upon the death of an account owner, the deceased account owner's
+32 interest in the sums on deposit in a joint account immediately prior to
+33 death shall be presumed to pass by right of survivorship and vest in the
+34 surviving account owner or owners, and shall not be presumed to become
+35 part of such deceased account owner's estate, except as otherwise
+36 provided by law.
+37 (j) Title to the sums on deposit after the death of an account owner
+38 shall be presumed to vest in the surviving account owner or owners in
+39 equal shares, regardless of the source of the property on deposit or
+40 when such property was deposited, to the extent permitted by applicable
+41 law.
+42 (k) Nothing in this subdivision shall be construed to alter, limit or
+43 impair the rights of a beneficiary to proceeds of a life insurance poli-
+44 cy, annuity contract, retirement account, or other non-probate transfer
+45 payable to such beneficiary pursuant to applicable law and deposited
+46 into a joint account.
+47 (l) Failure to maintain or produce an account agreement or joint
+48 account attestation shall not, by itself, defeat the right of survivor-
+49 ship where the account was established in the names of two or more
+50 account owners.
+51 (m) Any payment or transfer in a joint account made by a surviving
+52 account owner after the death of another account owner shall not be
+53 subject to the rights of such deceased account owner's estate, and noth-
+54 ing in this section shall be construed to alter, limit or impair a
+55 surviving account owner's ownership interest in the sums on deposit
+
+A. 8549--C 6
+1 arising by right of survivorship in a joint account, except as otherwise
+2 provided by law.
+3 (n) A transfer resulting from the application of this section shall be
+4 effective by operation of law and shall not be testamentary or subject
+5 to estate administration.
+6 (o) The rules governing ownership and survivorship pursuant to this
+7 section may be rebutted only by clear and convincing evidence of a
+8 different intent.
+9 4. Regulations of the superintendent. (a) The superintendent shall
+10 promulgate, and may from time to time amend, rules and regulations as
+11 necessary to implement this section, including rules and regulations
+12 requiring that account owners and convenience signers be provided with
+13 clear information regarding the terms and conditions of accounts, the
+14 legal relationship among account owners and convenience signers and the
+15 role of a state depository institution or other financial institution
+16 with respect to such accounts.
+17 (b) Any rule or regulation promulgated pursuant to section six hundred
+18 seventy-five or six hundred seventy-eight of the banking law, as such
+19 sections existed immediately prior to the effective date of this
+20 section, shall continue in full force and effect with respect to
+21 accounts governed by such sections unless or until such accounts become
+22 subject to this section, and the superintendent may amend, repeal, or
+23 promulgate such rules and regulations as necessary for the continued
+24 administration of such accounts.
+25 5. Federal preemption. This section shall not apply to the extent that
+26 it is preempted by federal law. Nothing in this section shall be
+27 construed to require any act prohibited, or prohibit any act required,
+28 by federal law.
+29 6. Severability. If any clause, sentence, paragraph or subdivision of
+30 this section shall be adjudged by any court of competent jurisdiction to
+31 be invalid, such judgment shall not affect, impair, or invalidate the
+32 remainder thereof, but shall be confined in its operation to the clause,
+33 sentence, paragraph or subdivision thereof directly involved in the
+34 controversy in which such judgment shall have been rendered. It is here-
+35 by declared to be the intent of the legislature that this section would
+36 have been enacted even if such invalid provisions had not been included
+37 herein.
+38 § 4. The superintendent of financial services shall promulgate rules
+39 and regulations necessary to implement the provisions of sections one,
+40 two and three of this act no later than one year after this section
+41 shall have become a law.
+42 § 5. This act shall take effect immediately; provided, however, that:
+43 (a) sections one, two and three of this act shall take effect on the
+44 earlier of:
+45 (i) the one hundred eightieth day after the superintendent of finan-
+46 cial services has promulgated the rules and regulations required under
+47 section four of this act; or
+48 (ii) eighteen months after the effective date of this act;
+49 (b) the superintendent of financial services shall notify the legisla-
+50 tive bill drafting commission upon the occurrence of the promulgation of
+51 the rules and regulations provided for in section four of this act in
+52 order that the commission may maintain an accurate and timely effective
+53 data base of the official text of the laws of the state of New York in
+54 furtherance of effectuating the provisions of section 44 of the legisla-
+55 tive law and section 70-b of the public officers law; and
+
+A. 8549--C 7
+1 (c) effective immediately, the addition, amendment and/or repeal of
+2 any rule or regulation necessary for the implementation of sections one,
+3 two and three of this act on their effective date are authorized to be
+4 made and completed on or before such effective date.

@@ -1,0 +1,864 @@
+Title: 
+Official Title: 
+Source: versions - A10366A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10366--A
+IN ASSEMBLY
+March 2, 2026
+___________
+Introduced by M. of A. HUNTER, WOERNER, STIRPE, BARRETT, BURKE, CONRAD,
+RIVERA, McMAHON, SAYEGH, SHRESTHA, LUPARDO, SANTABARBARA, SHIMSKY --
+read once and referred to the Committee on Tourism, Parks, Arts and
+Sports Development -- reported and referred to the Committee on Ways
+and Means -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the tax law and the parks, recreation and historic pres-
+ervation law, in relation to establishing the large projects historic
+rehabilitation tax credit and the "white elephant" housing historic
+rehabilitation projects tax credit program
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Subsection (oo) of section 606 of the tax law, as amended
+2 by section 2 of part E of chapter 59 of the laws of 2025, is amended to
+3 read as follows:
+4 (oo) Credit for rehabilitation of historic properties. (1) (A) For
+5 taxable years beginning on or after January first, two thousand ten and
+6 before January first, two thousand [thirty] thirty-seven, a taxpayer, or
+7 a transferee of such a taxpayer as described in paragraph seven of this
+8 subsection, shall be allowed a credit as hereinafter provided, against
+9 the tax imposed by this article, in an amount equal to:
+10 (i) one hundred percent of the amount of credit allowed the taxpayer
+11 with respect to a certified historic structure, and one hundred fifty
+12 percent of the amount of credit allowed the taxpayer with respect to a
+13 certified historic structure that is a small project, under internal
+14 revenue code section 47(c)(3), determined without regard to ratably
+15 allocating the credit over a five year period as required by subsection
+16 (a) of such section 47; and
+17 (ii) one hundred percent of the amount of credit allowed the taxpayer
+18 with respect to a certified historic structure that is a white elephant
+19 project, under internal revenue code section 47(c)(3), with respect to a
+20 certified historic structure located within the state. Provided, howev-
+21 er, the credit shall not exceed five million dollars, unless such credit
+22 is allowed with respect to a certified historic structure that is a
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10242-07-6
+
+A. 10366--A 2
+1 white elephant project, in which case, the credit shall not exceed
+2 fifteen million dollars. Provided, further, that whenever the commis-
+3 sioner of parks, recreation and historic preservation receives an appli-
+4 cation for a white elephant project from an applicant for which such
+5 commissioner has previously certified credit for an eligible white
+6 elephant project, the commissioner of parks, recreation and historic
+7 preservation may deem such subsequent application to be phase II of the
+8 original eligible project if such commissioner determines that the two
+9 projects are reasonably related, as determined by such commissioner; the
+10 previous project qualified as an eligible white elephant project with
+11 seventy-five million dollars or less of qualified rehabilitation expend-
+12 itures; and the phase II application has been submitted within five
+13 years of such commissioner's previous certification of credit for the
+14 previously eligible white elephant project.
+15 (B) For taxable years beginning on or after January first, two thou-
+16 sand [thirty] thirty-seven, a taxpayer, or a transferee of such a
+17 taxpayer as described in paragraph seven of this subsection, shall be
+18 allowed a credit as hereinafter provided, against the tax imposed by
+19 this article, in an amount equal to thirty percent of the amount of
+20 credit allowed the taxpayer with respect to a certified historic struc-
+21 ture under internal revenue code section 47(c)(3), determined without
+22 regard to ratably allocating the credit over a five year period as
+23 required by subsection (a) of such section 47, with respect to a certi-
+24 fied historic structure located within the state; provided, however, the
+25 credit shall not exceed one hundred thousand dollars, unless such credit
+26 is allowed with respect to a certified historic structure that is a
+27 white elephant project, in which case, the credit shall not exceed three
+28 hundred thousand dollars.
+29 [(B)] (C) If the taxpayer or transferee is a partner in a partnership
+30 or a shareholder of a New York S corporation, then the credit cap
+31 imposed in [subparagraph] subparagraphs (A) and (B) of this paragraph
+32 shall be applied at the entity level, so that the aggregate credit
+33 allowed to all the partners or shareholders of each such entity in the
+34 taxable year does not exceed the credit cap that is applicable in that
+35 taxable year.
+36 (2) Tax credits allowed pursuant to this subsection shall be allowed
+37 in the taxable year that the qualified rehabilitation is placed in
+38 service under section 167 of the federal internal revenue code.
+39 (3) If the taxpayer is allowed a credit pursuant to section 47 of the
+40 internal revenue code with respect to a qualified rehabilitation that is
+41 also the subject of the credit allowed by this subsection and that cred-
+42 it pursuant to such section 47 is recaptured pursuant to subsection (a)
+43 of section 50 of the internal revenue code, a portion of the credit
+44 allowed under this subsection must be added back by the taxpayer or
+45 transferee in the same taxable year and in the same proportion as the
+46 federal recapture.
+47 (4) If the amount of the credit allowed under this subsection for any
+48 taxable year shall exceed the taxpayer's tax for such year, the excess
+49 shall be treated as an overpayment of tax to be credited or refunded in
+50 accordance with the provisions of section six hundred eighty-six of this
+51 article, provided, however, that no interest shall be paid thereon.
+52 (5) To be eligible for the credit allowable under this subsection the
+53 rehabilitation project shall be in whole or in part located within a
+54 census tract which is identified as being at or below one hundred
+55 percent of the state median family income as calculated as of April
+56 first of each year using the most recent five year estimate from the
+
+A. 10366--A 3
+1 American community survey published by the United States Census bureau.
+2 If there is a change in the most recent five year estimate, a census
+3 tract that qualified for eligibility under this program before informa-
+4 tion about the change was released will remain eligible for a credit
+5 under this subsection for an additional two calendar years. The eligi-
+6 bility restrictions set forth in this paragraph shall not be applicable
+7 if:
+8 (A) a qualified rehabilitation project is undertaken within a state
+9 park, state historic site, or other land owned by the state, that is
+10 under the jurisdiction of the office of parks, recreation and historic
+11 preservation; [or]
+12 (B) a qualified rehabilitation project is undertaken for the provision
+13 of affordable housing and the taxpayer has entered into a regulatory
+14 agreement with any state or federal agency or authority, or any other
+15 government entity that is authorized to engage in the financing,
+16 construction or oversight of affordable housing within such entity's
+17 jurisdiction, and where such regulatory agreement sets forth affordabil-
+18 ity requirements applicable for a period of not less than thirty years
+19 and that is binding on all successors of the taxpayer; or
+20 (C) a qualified white elephant rehabilitation project is undertaken
+21 that is also a qualified low-income housing project under article two-A
+22 of the public housing law.
+23 (6) [For purposes of this subsection the term "small] As used in this
+24 subsection, the following terms shall have the following meanings:
+25 (A) "Small project" means qualified rehabilitation expenditures total-
+26 ing two million five hundred thousand dollars or less[.];
+27 (B) "White elephant project" means qualified rehabilitation expendi-
+28 tures totaling fifty million dollars or more with respect to a certified
+29 historic structure that has been vacant, as determined by local code
+30 enforcement or other reasonable means, for at least ten of fifteen
+31 consecutive years preceding the date of the taxpayer's application for
+32 the rehabilitation credit; and
+33 (C) "Phase II housing project" means a white elephant housing project
+34 which the commissioner determines (i) is reasonably related to a prior
+35 eligible white elephant project or eligible white elephant housing
+36 project by the same applicant, (ii) such prior project qualified as
+37 eligible with seventy-five million dollars or less of qualified rehabil-
+38 itation expenditures, and (iii) the phase II application has been
+39 submitted within five years of the commissioner's previous allowance of
+40 credit for the prior eligible white elephant project or eligible white
+41 elephant housing project.
+42 (7)(A) A taxpayer allowed a credit pursuant to this subsection may
+43 transfer the credit, in whole or in part, to another person or entity,
+44 who shall be referred to as the transferee, without regard to how any
+45 tax credit authorized pursuant to section forty-seven of the internal
+46 revenue code with respect to a qualified rehabilitation project may be
+47 allocated and notwithstanding that such other person or entity owns no
+48 interest in the qualified rehabilitation project or in an entity with an
+49 ownership interest in the qualified rehabilitation project. A transferee
+50 may not transfer any credit, or portion thereof, acquired by transfer.
+51 (B) A taxpayer seeking to transfer a credit allowed pursuant to this
+52 subsection must enter into a transfer contract with the transferee. The
+53 transfer contract must specify:
+54 (i) the building identification numbers for all buildings in the
+55 project;
+56 (ii) the date each building was placed into service;
+
+A. 10366--A 4
+1 (iii) the schedule of years for which the transfer credit may be
+2 claimed and the amount of credit previously claimed;
+3 (iv) the amount of consideration received by the taxpayer for the
+4 transfer credit; and
+5 (v) the amount of credit being transferred.
+6 (C) No transfer shall be effective unless the taxpayer allowed a cred-
+7 it pursuant to this subsection and seeking to transfer the credit files
+8 a transfer application with the commissioner of parks, recreation and
+9 historic preservation prior to the transfer and such transfer applica-
+10 tion is approved. The transfer application shall include the name and
+11 federal identification numbers of the taxpayer and each proposed trans-
+12 feree, the amount of credit proposed to be transferred to each proposed
+13 transferee, a copy of the transfer contract, and such other information
+14 as the commissioner or the commissioner of parks, recreation and histor-
+15 ic preservation may require. The commissioner of parks, recreation and
+16 historic preservation shall approve or deny each transfer application
+17 and, if an application is denied, shall issue a written determination to
+18 the taxpayer. If the transfer is approved, the commissioner of parks,
+19 recreation and historic preservation shall issue a transfer approval
+20 certificate that provides the name of the transferor and all transfer-
+21 ees, the amount of credit being transferred and such other information
+22 as the commissioner of parks, recreation and historic preservation and
+23 the commissioner deem necessary. A copy of the transfer approval certif-
+24 icate must be attached to each transferee's tax return. The commission-
+25 er of parks, recreation and historic preservation, in consultation with
+26 the commissioner, may establish such other procedures and standards
+27 deemed necessary for the transferability of credits allowed under this
+28 subsection.
+29 (D) The commissioner of parks, recreation and historic preservation
+30 shall forward copies of all transfer applications and attachments there-
+31 to and approval certificates to the commissioner within thirty days
+32 after the transfer is approved.
+33 (E) A taxpayer allowed a credit pursuant to section forty-seven of the
+34 internal revenue code with respect to a qualified rehabilitation that is
+35 also the subject of the credit allowed by this subsection shall remain
+36 solely liable for all obligations and liabilities imposed on the taxpay-
+37 er with respect to the credit allowed by this subsection, none of which
+38 shall apply to a party to whom the credit has been subsequently trans-
+39 ferred.
+40 (8) The allocation of the credit established by this subsection may be
+41 made without regard to and in a separate manner from any federal reha-
+42 bilitation credit that may be allocated with respect to a qualified
+43 white elephant project.
+44 (9) The commissioner shall report annually, on or before the first day
+45 of November, on the aggregate amount of credits claimed and awarded
+46 pursuant to this subsection on returns filed during the preceding calen-
+47 dar year. Such report shall be provided to the governor, temporary pres-
+48 ident of the senate, speaker of the assembly, chair of the senate
+49 finance committee and chair of the assembly ways and means committee and
+50 shall be made publicly available on the department's website.
+51 § 2. Subdivision 26 of section 210-B of the tax law, as amended by
+52 section 1 of part E of chapter 59 of the laws of 2025, is amended to
+53 read as follows:
+54 26. Credit for rehabilitation of historic properties. (a) Application
+55 of credit. (i) For taxable years beginning on or after January first,
+56 two thousand ten, and before January first, two thousand [thirty] thir-
+
+A. 10366--A 5
+1 ty-seven, a taxpayer, or a transferee of such a taxpayer as described in
+2 paragraph (g) of this subdivision, shall be allowed a credit as herein-
+3 after provided, against the tax imposed by this article, in an amount
+4 equal to:
+5 (A) one hundred percent of the amount of credit allowed the taxpayer
+6 for the same taxable year with respect to a certified historic struc-
+7 ture, and one hundred fifty percent of the amount of credit allowed the
+8 taxpayer with respect to a certified historic structure that is a small
+9 project, under internal revenue code section 47(c)(3), determined with-
+10 out regard to ratably allocating the credit over a five year period as
+11 required by subsection (a) of such section 47; and
+12 (B) one hundred percent of the amount of credit allowed the taxpayer
+13 with respect to a certified historic structure that is a white elephant
+14 project, under internal revenue code section 47(c)(3), with respect to a
+15 certified historic structure located within the state. Provided, howev-
+16 er, the credit shall not exceed five million dollars, unless such credit
+17 is allowed with respect to a certified historic structure that is a
+18 white elephant project, in which case, the credit shall not exceed
+19 fifteen million dollars. Provided, further, that whenever the commis-
+20 sioner of parks, recreation and historic preservation receives an appli-
+21 cation for a white elephant project from an applicant for which such
+22 commissioner has previously certified credit for an eligible white
+23 elephant project, the commissioner of parks, recreation and historic
+24 preservation may deem such subsequent application to be phase II of the
+25 original eligible project if such commissioner determines that the two
+26 projects are reasonably related, as determined by such commissioner; the
+27 previous project qualified as an eligible white elephant project with
+28 seventy-five million dollars or less of qualified rehabilitation expend-
+29 itures; and the phase II application has been submitted within five
+30 years of such commissioner's previous certification of credit for the
+31 previously eligible white elephant project.
+32 (ii) For taxable years beginning on or after January first, two thou-
+33 sand [thirty] thirty-seven, a taxpayer, or a transferee of such a
+34 taxpayer as described in paragraph (g) of this subdivision, shall be
+35 allowed a credit as hereinafter provided, against the tax imposed by
+36 this article, in an amount equal to thirty percent of the amount of
+37 credit allowed the taxpayer for the same taxable year determined without
+38 regard to ratably allocating the credit over a five year period as
+39 required by subsection (a) of section 47 of the internal revenue code,
+40 with respect to a certified historic structure under subsection (c)(3)
+41 of section 47 of the internal revenue code with respect to a certified
+42 historic structure located within the state. Provided, however, the
+43 credit shall not exceed one hundred thousand dollars, unless such credit
+44 is allowed with respect to a certified historic structure that is a
+45 white elephant project, in which case, the credit shall not exceed three
+46 hundred thousand dollars.
+47 [(a-1)] (iii) If the taxpayer or transferee is a partner in a partner-
+48 ship or a shareholder in a New York S corporation, then the credit caps
+49 imposed in [paragraph (a)] subparagraphs (i) and (ii) of this [subdivi-
+50 sion] paragraph shall be applied at the entity level, so that the aggre-
+51 gate credit allowed to all the partners or shareholders of each such
+52 entity in the taxable year does not exceed the credit cap that is appli-
+53 cable in that taxable year.
+54 (b) Tax credits allowed pursuant to this subdivision shall be allowed
+55 in the taxable year that the qualified rehabilitation is placed in
+56 service under section 167 of the federal internal revenue code.
+
+A. 10366--A 6
+1 (c) If the taxpayer is allowed a credit pursuant to section 47 of the
+2 internal revenue code with respect to a qualified rehabilitation that is
+3 also the subject of the credit allowed by this subdivision and that
+4 credit pursuant to such section 47 is recaptured pursuant to subsection
+5 (a) of section 50 of the internal revenue code, a portion of the credit
+6 allowed under this subdivision must be added back by the taxpayer or
+7 transferee in the same taxable year and in the same proportion as the
+8 federal credit.
+9 (d) The credit allowed under this subdivision for any taxable year
+10 shall not reduce the tax due for such year to less than the amount
+11 prescribed in paragraph (d) of subdivision one of section two hundred
+12 ten of this article. However, if the amount of the credit allowed under
+13 this subdivision for any taxable year reduces the tax to such amount or
+14 if the taxpayer otherwise pays tax based on the fixed dollar minimum
+15 amount, any amount of credit thus not deductible in such taxable year
+16 shall be treated as an overpayment of tax to be recredited or refunded
+17 in accordance with the provisions of section one thousand eighty-six of
+18 this chapter. Provided, however, the provisions of subsection (c) of
+19 section one thousand eighty-eight of this chapter notwithstanding, no
+20 interest shall be paid thereon.
+21 (e) To be eligible for the credit allowable under this subdivision,
+22 the rehabilitation project shall be in whole or in part located within a
+23 census tract which is identified as being at or below one hundred
+24 percent of the state median family income as calculated as of April
+25 first of each year using the most recent five year estimate from the
+26 American community survey published by the United States Census bureau.
+27 If there is a change in the most recent five year estimate, a census
+28 tract that qualified for eligibility under this program before informa-
+29 tion about the change was released will remain eligible for a credit
+30 under this subdivision for an additional two calendar years. The eligi-
+31 bility restrictions set forth in this paragraph shall not be applicable
+32 if:
+33 (i) a qualified rehabilitation project is undertaken within a state
+34 park, state historic site, or other land owned by the state, that is
+35 under the jurisdiction of the office of parks, recreation and historic
+36 preservation; [or]
+37 (ii) a qualified rehabilitation project is undertaken for the
+38 provision of affordable housing and the taxpayer has entered into a
+39 regulatory agreement with any state or federal agency or authority, or
+40 any other government entity that is authorized to engage in the financ-
+41 ing, construction or oversight of affordable housing within such enti-
+42 ty's jurisdiction, and where such regulatory agreement sets forth
+43 affordability requirements applicable for a period of not less than
+44 thirty years and that is binding on all successors of the taxpayer; or
+45 (iii) a qualified white elephant rehabilitation project is undertaken
+46 that is also a qualified low-income housing project under article two-A
+47 of the public housing law.
+48 (f) [For purposes of this subdivision "small] Definitions. As used in
+49 this subdivision, the following terms shall have the following meanings:
+50 (i) "Small project" means qualified rehabilitation expenditures total-
+51 ing two million five hundred thousand dollars or less[.];
+52 (ii) "White elephant project" means qualified rehabilitation expendi-
+53 tures totaling fifty million dollars or more with respect to a certified
+54 historic structure that has been vacant, as determined by local code
+55 enforcement or other reasonable means, for at least ten of fifteen
+
+A. 10366--A 7
+1 consecutive years preceding the date of the taxpayer's application for
+2 the rehabilitation credit; and
+3 (iii) "Phase II housing project" means a white elephant housing
+4 project which the commissioner determines (A) is reasonably related to a
+5 prior eligible white elephant project or eligible white elephant housing
+6 project by the same applicant, (B) such prior project qualified as
+7 eligible with seventy-five million dollars or less of qualified rehabil-
+8 itation expenditures, and (C) the phase II application has been submit-
+9 ted within five years of the commissioner's previous allowance of credit
+10 for the prior eligible white elephant project or eligible white elephant
+11 housing project.
+12 (g)(i) A taxpayer allowed a credit pursuant to this subdivision may
+13 transfer the credit, in whole or in part, to another person or entity,
+14 who shall be referred to as the transferee, without regard to how any
+15 tax credit authorized pursuant to section forty-seven of the internal
+16 revenue code with respect to a qualified rehabilitation project may be
+17 allocated and notwithstanding that such other person or entity owns no
+18 interest in the qualified rehabilitation project or in an entity with an
+19 ownership interest in the qualified rehabilitation project. A transferee
+20 may not transfer any credit, or portion thereof, acquired by transfer.
+21 (ii) A taxpayer seeking to transfer a credit allowed pursuant to this
+22 subdivision must enter into a transfer contract with the transferee. The
+23 transfer contract must specify:
+24 (A) the building identification numbers for all buildings in the
+25 project;
+26 (B) the date each building was placed into service;
+27 (C) the schedule of years for which the transfer credit may be claimed
+28 and the amount of credit previously claimed;
+29 (D) the amount of consideration received by the taxpayer for the
+30 transfer credit; and
+31 (E) the amount of credit being transferred.
+32 (iii) No transfer shall be effective unless the taxpayer allowed a
+33 credit pursuant to this subdivision and seeking to transfer the credit
+34 files a transfer application with the commissioner of parks, recreation
+35 and historic preservation prior to the transfer and such transfer appli-
+36 cation is approved. The transfer application shall include the name and
+37 federal identification numbers of the taxpayer and each proposed trans-
+38 feree, the amount of credit proposed to be transferred to each proposed
+39 transferee, a copy of the transfer contract, and such other information
+40 as the commissioner or the commissioner of parks, recreation and histor-
+41 ic preservation may require. The commissioner of parks, recreation and
+42 historic preservation shall approve or deny each transfer application
+43 and, if an application is denied, shall issue a written determination to
+44 the taxpayer. If the transfer is approved, the commissioner of parks,
+45 recreation and historic preservation shall issue a transfer approval
+46 certificate that provides the name of the transferor and all transfer-
+47 ees, the amount of credit being transferred and such other information
+48 as the commissioner of parks, recreation and historic preservation and
+49 the commissioner deem necessary. A copy of the transfer approval certif-
+50 icate must be attached to each transferee's tax return. The commission-
+51 er of parks, recreation and historic preservation, in consultation with
+52 the commissioner, may establish such other procedures and standards
+53 deemed necessary for the transferability of credits allowed under this
+54 subdivision.
+55 (iv) The commissioner of parks, recreation and historic preservation
+56 shall forward copies of all transfer applications and attachments there-
+
+A. 10366--A 8
+1 to and approval certificates to the commissioner within thirty days
+2 after the transfer is approved.
+3 (v) A taxpayer allowed a credit pursuant to section forty-seven of the
+4 internal revenue code with respect to a qualified rehabilitation that is
+5 also the subject of the credit allowed by this subdivision shall remain
+6 solely liable for all obligations and liabilities imposed on the taxpay-
+7 er with respect to the credit allowed by this subdivision, none of which
+8 shall apply to a party to whom the credit has been subsequently trans-
+9 ferred.
+10 (h) The allocation of the credit established by this subdivision may
+11 be made without regard to and in a separate manner from any federal
+12 rehabilitation credit that may be allocated with respect to a qualified
+13 white elephant project.
+14 (i) The commissioner shall report annually, on or before the first day
+15 of November, on the aggregate amount of credits claimed and awarded
+16 pursuant to this subdivision on returns filed during the preceding
+17 calendar year. Such report shall be provided to the governor, temporary
+18 president of the senate, speaker of the assembly, chair of the senate
+19 finance committee and chair of the assembly ways and means committee and
+20 shall be made publicly available on the department's website.
+21 § 3. Subdivision (y) of section 1511 of the tax law, as amended by
+22 section 3 of part E of chapter 59 of the laws of 2025, is amended to
+23 read as follows:
+24 (y) Credit for rehabilitation of historic properties. (1) (A) For
+25 taxable years beginning on or after January first, two thousand ten and
+26 before January first, two thousand [thirty] thirty-seven, a taxpayer, or
+27 a transferee of such a taxpayer as described in paragraph seven of this
+28 subdivision, shall be allowed a credit as hereinafter provided, against
+29 the tax imposed by this article, in an amount equal to:
+30 (i) one hundred percent of the amount of credit allowed the taxpayer
+31 with respect to a certified historic structure, and one hundred fifty
+32 percent of the amount of credit allowed the taxpayer with respect to a
+33 certified historic structure that is a small project, under internal
+34 revenue code section 47(c)(3), determined without regard to ratably
+35 allocating the credit over a five year period as required by subsection
+36 (a) of such section 47; and
+37 (ii) one hundred percent of the amount of credit allowed the taxpayer
+38 with respect to a certified historic structure that is a white elephant
+39 project, under internal revenue code section 47(c)(3), with respect to a
+40 certified historic structure located within the state. Provided, howev-
+41 er, the credit shall not exceed five million dollars, unless such credit
+42 is allowed with respect to a certified historic structure that is a
+43 white elephant project, in which case, the credit shall not exceed
+44 fifteen million dollars. Provided, further, that whenever the commis-
+45 sioner of parks, recreation and historic preservation receives an appli-
+46 cation for a white elephant project from an applicant for which such
+47 commissioner has previously certified credit for an eligible white
+48 elephant project, the commissioner of parks, recreation and historic
+49 preservation may deem such subsequent application to be phase II of the
+50 original eligible project if such commissioner determines that the two
+51 projects are reasonably related, as determined by such commissioner; the
+52 previous project qualified as an eligible white elephant project with
+53 seventy-five million dollars or less of qualified rehabilitation expend-
+54 itures; and the phase II application has been submitted within five
+55 years of such commissioner's previous certification of credit for the
+56 previously eligible white elephant project.
+
+A. 10366--A 9
+1 (B) For taxable years beginning on or after January first, two thou-
+2 sand [thirty] thirty-seven, a taxpayer, or a transferee of such a
+3 taxpayer as described in paragraph seven of this subdivision, shall be
+4 allowed a credit as hereinafter provided, against the tax imposed by
+5 this article, in an amount equal to thirty percent of the amount of
+6 credit allowed the taxpayer with respect to a certified historic struc-
+7 ture under internal revenue code section 47(c)(3), determined without
+8 regard to ratably allocating the credit over a five year period as
+9 required by subsection (a) of such section 47 with respect to a certi-
+10 fied historic structure located within the state. Provided, however, the
+11 credit shall not exceed one hundred thousand dollars, unless such credit
+12 is allowed with respect to a certified historic structure that is a
+13 white elephant project, in which case, the credit shall not exceed three
+14 hundred thousand dollars.
+15 [(B)] (C) If the taxpayer or transferee is a partner in a partnership,
+16 then the cap imposed in [subparagraph] subparagraphs (A) and (B) of this
+17 paragraph shall be applied at the entity level, so that the aggregate
+18 credit allowed to all the partners of such partnership in the taxable
+19 year does not exceed the credit cap that is applicable in that taxable
+20 year.
+21 (2) Tax credits allowed pursuant to this subsection shall be allowed
+22 in the taxable year that the qualified rehabilitation is placed in
+23 service under section 167 of the federal internal revenue code.
+24 (3) If the taxpayer is allowed a credit pursuant to section 47 of the
+25 internal revenue code with respect to a qualified rehabilitation that is
+26 also the subject of the credit allowed by this subdivision and that
+27 credit pursuant to such section 47 is recaptured pursuant to subsection
+28 (a) of section 50 of the internal revenue code, a portion of the credit
+29 allowed under this subdivision in the taxable year the credit was
+30 claimed must be added back by the taxpayer or transferee in the same
+31 taxable year and in the same proportion as the federal recapture.
+32 (4) The credit allowed under this subdivision for any taxable year
+33 shall not reduce the tax due for such year to less than the minimum
+34 fixed by paragraph four of subdivision (a) of section fifteen hundred
+35 two or section fifteen hundred two-a of this article, whichever is
+36 applicable. However, if the amount of credits allowed under this subdi-
+37 vision for any taxable year reduces the tax to such amount, any amount
+38 of credit thus not deductible in such taxable year shall be treated as
+39 an overpayment of tax to be credited or refunded in accordance with the
+40 provisions of section one thousand eighty-six of this chapter. Provided,
+41 however, the provisions of subsection (c) of section one thousand eight-
+42 y-eight of this chapter notwithstanding, no interest shall be paid ther-
+43 eon.
+44 (5) To be eligible for the credit allowable under this subdivision,
+45 the rehabilitation project shall be in whole or in part located within a
+46 census tract which is identified as being at or below one hundred
+47 percent of the state median family income as calculated as of April
+48 first of each year using the most recent five year estimate from the
+49 American community survey published by the United States Census bureau.
+50 If there is a change in the most recent five year estimate, a census
+51 tract that qualified for eligibility under this program before informa-
+52 tion about the change was released will remain eligible for a credit
+53 under this subdivision for an additional two calendar years. The eligi-
+54 bility restrictions set forth in this paragraph shall not be applicable
+55 if:
+
+A. 10366--A 10
+1 (A) a qualified rehabilitation project is undertaken within a state
+2 park, state historic site, or other land owned by the state, that is
+3 under the jurisdiction of the office of parks, recreation and historic
+4 preservation; [or]
+5 (B) a qualified rehabilitation project is undertaken for the provision
+6 of affordable housing and the taxpayer has entered into a regulatory
+7 agreement with any state or federal agency or authority, or any other
+8 government entity that is authorized to engage in the financing,
+9 construction or oversight of affordable housing within such entity's
+10 jurisdiction, and where such regulatory agreement sets forth affordabil-
+11 ity requirements applicable for a period of not less than thirty years
+12 and that is binding on all successors of the taxpayer; or
+13 (C) a qualified white elephant rehabilitation project is undertaken
+14 that is also a qualified low-income housing project under article two-A
+15 of the public housing law.
+16 (6) [For purposes of this subdivision "small] As used in this
+17 subdivision, the following terms shall have the following meanings:
+18 (A) "Small project" means qualified rehabilitation expenditures total-
+19 ing two million five hundred thousand dollars or less[.];
+20 (B) "White elephant project" means qualified rehabilitation expendi-
+21 tures totaling fifty million dollars or more with respect to a certified
+22 historic structure that has been vacant, as determined by local code
+23 enforcement or other reasonable means, for at least ten of fifteen
+24 consecutive years preceding the date of the taxpayer's application for
+25 the rehabilitation credit; and
+26 (C) "Phase II housing project" means a white elephant housing project
+27 which the commissioner determines (I) is reasonably related to a prior
+28 eligible white elephant project or eligible white elephant housing
+29 project by the same applicant, (II) such prior project qualified as
+30 eligible with seventy-five million dollars or less of qualified rehabil-
+31 itation expenditures, and (III) the phase II application has been
+32 submitted within five years of the commissioner's previous allowance of
+33 credit for the prior eligible white elephant project or eligible white
+34 elephant housing project.
+35 (7)(A) A taxpayer allowed a credit pursuant to this subdivision may
+36 transfer the credit, in whole or in part, to another person or entity,
+37 who shall be referred to as the transferee, without regard to how any
+38 tax credit authorized pursuant to section forty-seven of the internal
+39 revenue code with respect to a qualified rehabilitation project may be
+40 allocated and notwithstanding that such other person or entity owns no
+41 interest in the qualified rehabilitation project or in an entity with an
+42 ownership interest in the qualified rehabilitation project. A transferee
+43 may not transfer any credit, or portion thereof, acquired by transfer.
+44 (B) A taxpayer seeking to transfer a credit allowed pursuant to this
+45 subdivision must enter into a transfer contract with the transferee. The
+46 transfer contract must specify:
+47 (i) the building identification numbers for all buildings in the
+48 project;
+49 (ii) the date each building was placed into service;
+50 (iii) the schedule of years for which the transfer credit may be
+51 claimed and the amount of credit previously claimed;
+52 (iv) the amount of consideration received by the taxpayer for the
+53 transfer credit; and
+54 (v) the amount of credit being transferred.
+55 (C) No transfer shall be effective unless the taxpayer allowed a cred-
+56 it pursuant to this subdivision and seeking to transfer the credit files
+
+A. 10366--A 11
+1 a transfer application with the commissioner of parks, recreation and
+2 historic preservation prior to the transfer and such transfer applica-
+3 tion is approved. The transfer application shall include the name and
+4 federal identification numbers of the taxpayer and each proposed trans-
+5 feree, the amount of credit proposed to be transferred to each proposed
+6 transferee, a copy of the transfer contract, and such other information
+7 as the commissioner or the commissioner of parks, recreation and histor-
+8 ic preservation may require. The commissioner of parks, recreation and
+9 historic preservation shall approve or deny each transfer application
+10 and, if an application is denied, shall issue a written determination to
+11 the taxpayer. If the transfer is approved, the commissioner of parks,
+12 recreation and historic preservation shall issue a transfer approval
+13 certificate that provides the name of the transferor and all transfer-
+14 ees, the amount of credit being transferred and such other information
+15 as the commissioner of parks, recreation and historic preservation and
+16 the commissioner deem necessary. A copy of the transfer approval certif-
+17 icate must be attached to each transferee's tax return. The commission-
+18 er of parks, recreation and historic preservation, in consultation with
+19 the commissioner, may establish such other procedures and standards
+20 deemed necessary for the transferability of credits allowed under this
+21 subdivision.
+22 (D) The commissioner of parks, recreation and historic preservation
+23 shall forward copies of all transfer applications and attachments there-
+24 to and approval certificates to the commissioner within thirty days
+25 after the transfer is approved.
+26 (E) A taxpayer allowed a credit pursuant to section forty-seven of the
+27 internal revenue code with respect to a qualified rehabilitation that is
+28 also the subject of the credit allowed by this subdivision shall remain
+29 solely liable for all obligations and liabilities imposed on the taxpay-
+30 er with respect to the credit allowed by this subdivision, none of which
+31 shall apply to a party to whom the credit has been subsequently trans-
+32 ferred.
+33 (8) The allocation of the credit established by this subdivision
+34 may be made without regard to and in a separate manner from any
+35 federal rehabilitation credit that may be allocated with respect to
+36 a qualified white elephant project.
+37 (9) The commissioner shall report annually, on or before the first day
+38 of November, on the aggregate amount of credits claimed and awarded
+39 pursuant to this subdivision on returns filed during the preceding
+40 calendar year. Such report shall be provided to the governor, temporary
+41 president of the senate, speaker of the assembly, chair of the senate
+42 finance committee and chair of the assembly ways and means committee and
+43 shall be made publicly available on the department's website.
+44 § 4. The parks, recreation and historic preservation law is amended by
+45 adding a new article 14-A to read as follows:
+46 ARTICLE 14-A
+47 WHITE ELEPHANT HOUSING HISTORIC REHABILITATION PROJECTS TAX
+48 CREDIT PROGRAM
+49 Section 14.15 Definitions.
+50 14.16 Allowance of credit, amount and limitations.
+51 14.17 Project monitoring.
+52 14.18 Regulations, coordination with federal rehabilitation
+53 credit provisions.
+54 14.19 Construction wage standards.
+55 § 14.15 Definitions. As used in this article, the following terms
+56 shall have the following meanings:
+
+A. 10366--A 12
+1 1. "Eligibility statement" means a statement issued by the commission-
+2 er, in consultation with the commissioner of the division of community
+3 housing and renewal, certifying that a white elephant housing project is
+4 eligible for white elephant housing project historic rehabilitation
+5 credits under this article and low-income housing tax credits under
+6 article two-A of the public housing law. Such statement shall set forth
+7 the taxable year in which the building is placed in service, the dollar
+8 amount of rehabilitation credit certified by the commissioner to such
+9 building as provided in section 14.16 of this article, the dollar amount
+10 of low-income housing tax credit allocated by the commissioner of commu-
+11 nity housing and renewal to such building as provided in section twen-
+12 ty-two of the public housing law, sufficient information to identify
+13 each such building and the taxpayer or taxpayers with respect to each
+14 such building, whether the project is a phase II housing project, and
+15 such other information as the commissioner, in consultation with the
+16 commissioner of taxation and finance and commissioner of community hous-
+17 ing and renewal, shall prescribe. Such eligibility statement shall be
+18 first issued following the close of the first taxable year, and there-
+19 after, to the extent required by the commissioner of taxation and
+20 finance, following the close of each of the following four taxable
+21 years.
+22 2. "Eligible white elephant project" means a white elephant project as
+23 defined in section two hundred ten-B, six hundred six or one thousand
+24 five hundred eleven of the tax law that qualifies for historic rehabili-
+25 tation tax credit.
+26 3. "Eligible white elephant housing project" means an eligible white
+27 elephant project as defined in this section that also qualifies for
+28 low-income housing tax credit under article two-A of the public housing
+29 law.
+30 4. "Phase II housing project" means a white elephant housing project
+31 which the commissioner determines (a) is reasonably related to a prior
+32 eligible white elephant project or eligible white elephant housing
+33 project by the same applicant, (b) such prior project qualified as
+34 eligible with less than seventy-five million dollars of qualified reha-
+35 bilitation expenditures, and (c) the phase II application has been
+36 submitted within five years of the commissioner's previous allowance of
+37 credit for the prior eligible white elephant project or eligible white
+38 elephant housing project.
+39 5. "Qualified rehabilitation expenditures" shall have the same meaning
+40 as in section 47 of the internal revenue code.
+41 6. "White elephant project" means a project as defined in section two
+42 hundred ten-B, six hundred six or one thousand five hundred eleven of
+43 the tax law.
+44 7. "White elephant housing project" means a white elephant project as
+45 defined in section two hundred ten-B, six hundred six or one thousand
+46 five hundred eleven of the tax law that is also a housing project.
+47 8. References in this article to section 47 of the internal revenue
+48 code shall mean such section as amended from time to time.
+49 § 14.16 Allowance of credit, amount and limitations. 1. A taxpayer
+50 subject to tax under article nine-A, twenty-two, or thirty-three of the
+51 tax law which owns an interest in one or more eligible white elephant
+52 housing projects, or a transferee of such a taxpayer as described in
+53 subdivision two of this section, shall be allowed a credit against such
+54 tax for the amount of white elephant housing project historic rehabili-
+55 tation credit certified by the commissioner to each such structure.
+
+A. 10366--A 13
+1 2. (a) A taxpayer allowed a credit pursuant to this article may trans-
+2 fer the credit, in whole or in part, to another person or entity, who
+3 shall be referred to as the transferee, notwithstanding that such other
+4 person or entity owns no interest in the eligible white elephant housing
+5 project or in an entity with an ownership interest in the eligible white
+6 elephant housing project. Transferees shall be entitled to apply trans-
+7 ferred credit to a tax imposed under article nine-A, twenty-two or thir-
+8 ty-three of the tax law, provided all requirements for claiming the
+9 credit are met. A transferee may not transfer any credit, or portion
+10 thereof, acquired by transfer.
+11 (b) A taxpayer allowed a credit pursuant to this article must enter
+12 into a transfer contract with the transferee. The transfer contract must
+13 specify:
+14 (i) the building identification numbers for all buildings in the white
+15 elephant housing project;
+16 (ii) the date each building was placed into service;
+17 (iii) the five year ownership period for the project;
+18 (iv) the schedule of years for which the transfer credit may be
+19 claimed and the amount of credit previously claimed;
+20 (v) the amount of consideration received by the taxpayer for the
+21 transfer credit; and
+22 (vi) the amount of credit being transferred.
+23 (c) No transfer shall be effective unless the taxpayer allowed a cred-
+24 it pursuant to this article and seeking to transfer the credit files a
+25 transfer statement with the commissioner prior to the transfer and the
+26 commissioner approves such transfer. The transfer statement shall
+27 provide the name and federal identification numbers of the filing
+28 transferor and the taxpayer to whom the filing transferor transferred
+29 the credit, and the amount of credit transferred to each such person or
+30 entity. A copy of the transfer contract shall be attached to the trans-
+31 fer statement. The statement shall also contain such other information
+32 as the commissioner may require. After reviewing the transfer contract
+33 and the transfer statement, the commissioner shall approve or deny the
+34 transfer as provided in this subdivision. If the commissioner approves
+35 the transfer, the commissioner shall issue an approval statement that
+36 provides the name of the transferor and transferee, the amount of credit
+37 being transferred and such other information as the commissioner and the
+38 commissioner of taxation and finance deem necessary. A copy of the
+39 commissioner's approval statement must be attached to the transferee's
+40 tax return. If the commissioner denies the transfer, the commissioner
+41 shall provide the taxpayer a written determination for such denial. The
+42 commissioner, in consultation with the commissioner of taxation and
+43 finance, may establish such other procedures and standards deemed neces-
+44 sary for the transferability of the white elephant housing project
+45 historic rehabilitation credit.
+46 (d) The commissioner shall forward copies of all transfer statements
+47 and attachments thereto and approval statements to the department of
+48 taxation and finance within thirty days after the transfer is approved
+49 by the commissioner.
+50 § 14.17 Project monitoring. The commissioner shall establish such
+51 procedures deemed necessary for monitoring compliance of an eligible
+52 white elephant housing project with the provisions of this article, and
+53 for notifying the commissioner of taxation and finance of any such
+54 noncompliance.
+
+A. 10366--A 14
+1 § 14.18 Regulations, coordination with federal rehabilitation credit
+2 provisions. 1. The commissioner shall promulgate rules and regulations
+3 necessary to administer the provisions of this article.
+4 2. The provisions of section 47 of the internal revenue code shall
+5 apply to the credit under this article, provided however, to the extent
+6 such provisions are inconsistent with this article, the provisions of
+7 this article shall control.
+8 3. The allocation of the credit established by this article may be
+9 made without regard to and in a separate manner from any federal reha-
+10 bilitation credit that may be allocated with respect to an eligible
+11 white elephant housing project.
+12 § 14.19 Construction wage standards. 1. Any project defined in section
+13 14.15 of this article shall be subject to prevailing wage requirements
+14 in accordance with sections two hundred twenty, two hundred twenty-a,
+15 two hundred twenty-b, two hundred twenty-i, two hundred twenty-j, two
+16 hundred twenty-three, and two hundred twenty-four-b of the labor law.
+17 2. Prevailing wage requirements in subdivision one of this section
+18 shall not apply where the construction work is subject to a project
+19 labor agreement, such that it is performed under a pre-hire collective
+20 bargaining agreement between an owner or developer and a bona fide
+21 building and construction trades labor organization which has estab-
+22 lished itself, and/or its affiliates, as the collective bargaining
+23 representative for all persons who will perform work on such a project,
+24 and which provides that only contractors and subcontractors who sign a
+25 pre-negotiated agreement with the labor organization can perform work on
+26 such a project.
+27 § 5. Paragraph 2 of subsection (pp) of section 606 of the tax law, as
+28 amended by section 4 of part RR of chapter 59 of the laws of 2018, is
+29 amended and a new paragraph 13 is added to read as follows:
+30 (2) (A) With respect to any particular residence of a taxpayer, the
+31 credit allowed under paragraph one of this subsection shall not exceed
+32 fifty thousand dollars for taxable years beginning on or after January
+33 first, two thousand ten and before January first, two thousand [twenty-
+34 five] thirty-seven and twenty-five thousand dollars for taxable years
+35 beginning on or after January first, two thousand [twenty-five] thirty-
+36 seven. In the case of a [husband and wife] married couple, the amount of
+37 the credit shall be divided between them equally or in such other manner
+38 as they may both elect. If a taxpayer incurs qualified rehabilitation
+39 expenditures in relation to more than one residence in the same year,
+40 the total amount of credit allowed under paragraph one of this
+41 subsection for all such expenditures shall not exceed fifty thousand
+42 dollars for taxable years beginning on or after January first, two thou-
+43 sand ten and before January first, two thousand [twenty-five] thirty-
+44 seven and twenty-five thousand dollars for taxable years beginning on or
+45 after January first, two thousand [twenty-five] thirty-seven.
+46 (B) For taxable years beginning on or after January first, two thou-
+47 sand ten and before January first, two thousand [twenty-five] thirty-
+48 seven, if the amount of credit allowable under this subsection shall
+49 exceed the taxpayer's tax for such year, and the taxpayer's New York
+50 adjusted gross income for such year does not exceed sixty thousand
+51 dollars, the excess shall be treated as an overpayment of tax to be
+52 credited or refunded in accordance with the provisions of section six
+53 hundred eighty-six of this article, provided, however, that no interest
+54 shall be paid thereon. If the taxpayer's New York adjusted gross income
+55 for such year exceeds sixty thousand dollars, the excess credit that may
+56 be carried over to the following year or years and may be deducted from
+
+A. 10366--A 15
+1 the taxpayer's tax for such year or years. For taxable years beginning
+2 on or after January first, two thousand [twenty-five] thirty-seven, if
+3 the amount of credit allowable under this subsection shall exceed the
+4 taxpayer's tax for such year, the excess may be carried over to the
+5 following year or years and may be deducted from the taxpayer's tax for
+6 such year or years.
+7 (13) The commissioner shall report annually, on or before the first
+8 day of November, on the aggregate amount of credits claimed and awarded
+9 pursuant to this subdivision on returns filed during the preceding
+10 calendar year. Such report shall be provided to the governor, temporary
+11 president of the senate, speaker of the assembly, chair of the senate
+12 finance committee and chair of the assembly ways and means committee,
+13 and shall be made publicly available on the department's website.
+14 § 6. Section 14.05 of the parks, recreation and historic preservation
+15 law is amended by adding a new subdivision 5 to read as follows:
+16 5. (a) The commissioner shall report annually, on or before the first
+17 day of November, on the tax credit projects applied for in accordance
+18 with subdivision twenty-six of section two hundred ten-B, subsection
+19 (oo) of section six hundred six, and subdivision (y) of section fifteen
+20 hundred eleven of the tax law on returns filed during the preceding
+21 calendar year. Such report shall be provided to the governor, temporary
+22 president of the senate, speaker of the assembly, chair of the senate
+23 finance committee and chair of the assembly ways and means committee,
+24 shall be made publicly available on the department's website and shall
+25 include the following information:
+26 (i) the number and value of tax credit projects applied for during the
+27 state fiscal year, organized by municipality and county, and project
+28 size;
+29 (ii) the number and value of tax credit projects certified by the
+30 national park service during the state fiscal year, organized by munici-
+31 pality and county, and project size;
+32 (iii) the total value of credits certified annually for each of the
+33 taxable years beginning on or after January first, two thousand seven to
+34 the present, by municipality and county;
+35 (iv) the number of housing units before and after rehabilitation;
+36 (v) the number of low-moderate housing units before and after rehabil-
+37 itation; and
+38 (vi) the number of projects certified for both federal and state cred-
+39 its, and the number of projects certified for federal credits only.
+40 (b) The commissioner shall report annually, on or before the first day
+41 of November, on the tax credit projects applied for pursuant to
+42 subsection (pp) of section six hundred six of the tax law on returns
+43 filed during the preceding calendar year. Such report shall be provided
+44 to the governor, temporary president of the senate, speaker of the
+45 assembly, chair of the senate finance committee and chair of the assem-
+46 bly ways and means committee, shall be made publicly available on the
+47 office's website and shall include the following information:
+48 (i) the number and value of tax credit projects applied for during the
+49 state fiscal year, organized by municipality and county, and project
+50 size;
+51 (ii) the number and value of tax credit projects certified by the
+52 office during the state fiscal year, organized by municipality and coun-
+53 ty, and project size;
+54 (iii) the total value of credits certified annually for each of the
+55 taxable years beginning on or after January first, two thousand seven to
+56 the present, by municipality and county;
+
+A. 10366--A 16
+1 (iv) the number of housing units before and after rehabilitation; and
+2 (v) the number of projects certified for state credits by the office.
+3 § 7. This act shall take effect immediately and shall apply to taxable
+4 years beginning on or after January 1, 2026.

@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - A10607B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10607--B
+IN ASSEMBLY
+March 13, 2026
+___________
+Introduced by M. of A. TORRES, SIMON -- read once and referred to the
+Committee on Transportation -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee --
+again reported from said committee with amendments, ordered reprinted
+as amended and recommitted to said committee
+AN ACT to amend the highway law, in relation to preventing an increase
+in vehicular lane capacity of highways within certain areas
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "stop high-
+2 way community harm act".
+3 § 2. The legislature finds that parts of the I-95 expressway, partic-
+4 ularly the Cross Bronx Expressway, were borne out of a history of racist
+5 urban planning led by Robert Moses. The Cross Bronx Expressway is
+6 already one of the nation's most toxic, congested roadways, long associ-
+7 ated with racial health disparities like childhood asthma and heart
+8 disease in surrounding communities. Its initial construction decimated
+9 Black and Brown neighborhoods along the corridor while adding signif-
+10 icant highway runoff pollution to the Bronx River and Harlem River, and
+11 contributing to some of the highest rates of asthma and heart disease in
+12 the country. According to a department of transportation study, idling
+13 cars on the Cross Bronx Expressway that have polluted the borough for
+14 decades drive chronic health issues, including Asthma, among Bronx resi-
+15 dents.
+16 The legislature further finds that historic transportation planning
+17 decisions have disproportionately sited highways in and adjacent to
+18 public housing and other environmental justice communities, resulting in
+19 cumulative health and environmental harms. Preventing additional highway
+20 expansion in close proximity to such developments is necessary to reduce
+21 inequities, protect public health, and ensure that state actions do not
+22 perpetuate disproportionate impacts on vulnerable populations.
+23 The legislature further finds that expansion of highway capacity in or
+24 near environmental justice communities, including public housing devel-
+25 opments and areas with elevated asthma rates, has contributed to adverse
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15224-05-6
+
+A. 10607--B 2
+1 public health, safety, and environmental outcomes. It is therefore the
+2 intent of the legislature to prohibit such expansions except in limited
+3 circumstances where a demonstrated and evidence-based safety need cannot
+4 be addressed through alternatives consistent with the state's complete
+5 streets policy.
+6 § 3. The highway law is amended by adding a new section 10-h to read
+7 as follows:
+8 § 10-h. Limitations on highway capacity expansion in sensitive areas.
+9 1. For the purposes of this section, the following terms shall have the
+10 following meanings:
+11 (a) "Environmental justice" shall have the same meaning as defined in
+12 section 48-0103 of the environmental conservation law.
+13 (b) "Environmental justice community" shall be defined by the depart-
+14 ment of environmental conservation and shall include, but not be limited
+15 to, communities bearing disproportionate pollution and climate change
+16 burdens which may be due to the race, color, religion, national origin
+17 or income levels of the members of such community.
+18 (c) "Public housing development" shall mean any housing operated by
+19 the state, a municipality, or a municipal housing authority established
+20 under the public housing law.
+21 (d) "Increase in vehicular lane capacity" shall mean any project that
+22 increases the number of general purpose travel lanes or otherwise
+23 increases the ability of a roadway to carry additional motor vehicle
+24 traffic, including but not limited to:
+25 (i) the addition of new travel lanes;
+26 (ii) the conversion of shoulders, medians, or auxiliary lanes into
+27 travel lanes, whether temporary or permanent;
+28 (iii) the widening or modifying of shoulders or travel lanes where
+29 such widening or modifying facilitates increased vehicle throughput,
+30 operating speeds, or future lane conversion; and
+31 (iv) any design change demonstrated, through accepted transportation
+32 modeling or comparable project data, to increase vehicle miles traveled.
+33 2. The commissioner shall not approve nor shall the state fund or
+34 undertake any projects involving a highway if such project includes the
+35 increase in vehicular lane capacity of such highway where an increase in
+36 vehicular lane capacity would occur within:
+37 (a) two hundred feet of a public housing development;
+38 (b) a zip code with a three-year average asthma emergency department
+39 incidence rate per ten thousand persons of greater than seventy accord-
+40 ing to the department of health; or
+41 (c) an environmental justice community.
+42 3. The commissioner may waive the provisions of subdivision two of
+43 this section for a project only after:
+44 (a) not less than sixty days prior to making any determination,
+45 preparing and publicly publishing a safety and alternatives analysis
+46 which shall include, but not be limited to:
+47 (i) a determination if the project is consistent with section three
+48 hundred thirty-one of this chapter and all federal highway safety
+49 requirements;
+50 (ii) an analysis of not fewer than five years of crash data, including
+51 fatalities, serious injuries, and impacts to pedestrians, cyclists, and
+52 transit users;
+53 (iii) an evaluation of all reasonable alternatives that do not
+54 increase vehicular lane capacity, including but not limited to roadway
+55 redesign, speed management, signal improvements, and transit enhance-
+56 ments;
+
+A. 10607--B 3
+1 (iv) an assessment of induced demand and impacts on vehicle miles
+2 traveled;
+3 (v) an evaluation of the impacts on air quality and public health,
+4 including but not limited to asthma-related outcomes; and
+5 (vi) an assessment of impacts on environmental justice communities.
+6 (b) publicly publishing a report finding that:
+7 (i) there is a specific and documented roadway safety hazard;
+8 (ii) such hazard cannot be addressed through measures consistent with
+9 section three hundred thirty-one of this chapter; and
+10 (iii) the project is necessary to achieve a measurable reduction in
+11 fatalities or serious injuries.
+12 (c) providing for a public comment period of not less than forty-five
+13 days with at least one public hearing occurring in the affected area.
+14 4. No waiver shall be issued or approved under subdivision three of
+15 this section where the project involves the widening or modification of
+16 highway shoulders, unless:
+17 (a) such project is limited to providing emergency access, disabled
+18 vehicle refuge, or safety improvements for vulnerable users;
+19 (b) such shoulder is not designated or operated as a general purpose
+20 travel lane at any time; and
+21 (c) the department demonstrates that such project will not increase
+22 vehicle speeds, traffic volumes, or localized air pollution.
+23 5. The department shall monitor safety outcomes for a period of not
+24 less than three years following completion of any project approved
+25 pursuant to subdivision three of this section and shall publish such
+26 findings publicly.
+27 6. The commissioner shall apply a clear and convincing evidentiary
+28 standard when making determinations under this section.
+29 § 4. This act shall take effect immediately.

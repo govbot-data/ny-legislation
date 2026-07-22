@@ -1,0 +1,322 @@
+Title: 
+Official Title: 
+Source: versions - A8549B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8549--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+May 20, 2025
+___________
+Introduced by M. of A. LAVINE -- read once and referred to the Committee
+on Banks -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee -- recommitted to the
+Committee on Banks in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the banking law, in relation to joint accounts and non-
+survivorship accounts
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 675 of the banking law is amended by adding a new
+2 subdivision (d) to read as follows:
+3 (d) The provisions of this section shall apply only to accounts estab-
+4 lished before the effective date of section six hundred seventy-five-a
+5 of this article and which have not been modified on or after such effec-
+6 tive date by the addition or removal of an account owner or convenience
+7 signer as such terms are defined in section six hundred seventy-five-a
+8 of this article; provided, however, that the designation or revocation
+9 of authority under a power of attorney shall not be deemed a modifica-
+10 tion for purposes of this subdivision.
+11 § 2. Section 678 of the banking law is amended by adding a new subdi-
+12 vision 3 to read as follows:
+13 3. The provisions of this section shall apply only to accounts estab-
+14 lished before the effective date of section six hundred seventy-five-a
+15 of this article and which have not been modified on or after such effec-
+16 tive date by the addition or removal of an account owner or convenience
+17 signer as such terms are defined in section six hundred seventy-five-a
+18 of this article; provided, however, that the designation or revocation
+19 of authority under a power of attorney shall not be deemed a modifica-
+20 tion for purposes of this subdivision.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11949-04-6
+
+A. 8549--B 2
+1 § 3. The banking law is amended by adding a new section 675-a to read
+2 as follows:
+3 § 675-a. Joint accounts and non-survivorship accounts. 1. Defi-
+4 nitions. For the purposes of this section, the following terms shall
+5 have the following meanings:
+6 (a) "Account" means a relationship established pursuant to an account
+7 agreement between one or more account owners and a depository institu-
+8 tion.
+9 (b) "Account agreement" means a record, including any contract, signa-
+10 ture card, or other document, that establishes or governs the terms and
+11 conditions of an account.
+12 (c) "Account owner" means a natural person who, pursuant to the
+13 account agreement, holds a present ownership interest in the sums on
+14 deposit, and does not include a person authorized only to transact on
+15 the account as an agent or convenience signer.
+16 (d) "Convenience signer" means a person designated by the account
+17 owner or owners in a convenience signer designation to transact on an
+18 account without any ownership interest or survivorship rights, acting
+19 only on behalf of such account owner or owners. The authority of a
+20 person designated as an attorney-in-fact for an account owner under a
+21 power of attorney shall take precedence over and supersede the authority
+22 of a convenience signer.
+23 (e) "Convenience signer designation" means a provision in an account
+24 agreement, pursuant to which the account owner or owners may agree to
+25 authorize one or more persons to act as convenience signers with respect
+26 to the account, in substantially the following form:
+27 "The account owner or owners may (but need not) designate one or more
+28 "convenience signers" to make transactions on their behalf. A conven-
+29 ience signer does not own the account and has no right to use the money
+30 for their own personal benefit.
+31 Identify the convenience signer or signers
+32 (optional):_______________________________"
+33 (f) "Depository institution" means a banking organization, a foreign
+34 banking corporation licensed by the superintendent to transact business
+35 in this state, or an out-of-state state bank that opens or occupies a
+36 branch in this state pursuant to article five-C of this chapter.
+37 (g) "Joint account" shall mean a personal account governed by subdivi-
+38 sion five of this section, created when two or more account owners have
+39 designated, or are presumed pursuant to subdivision six of this section
+40 to have designated, that the sums on deposit shall pass by right of
+41 survivorship to the surviving account owner or owners upon the death of
+42 an account owner.
+43 (h) "Net contribution" means the sum of the deposits made by or on
+44 behalf of an account owner on an account, less withdrawals made by or on
+45 behalf of such account owner which have not been paid or applied to the
+46 use of another account owner on such account, and a proportionate amount
+47 of any charges deducted from such account, plus a proportionate amount
+48 of any interest or dividends earned, whether or not included in the
+49 current balance. Such term includes, to the extent permitted by applica-
+50 ble law, any deposit of life insurance proceeds added to an account by
+51 reason of the death of an account owner. Net contribution is relevant
+52 only to the determination of ownership interests in non-survivorship
+53 accounts pursuant to subdivision four of this section.
+54 (i) "Non-survivorship account" means a personal account governed by
+55 subdivision four of this section, created when two or more account
+56 owners have designated, or are presumed pursuant to subdivision six of
+
+A. 8549--B 3
+1 this section to have designated, that the sums on deposit shall not pass
+2 by right of survivorship upon the death of an account owner and shall
+3 instead be disposed of as part of such account owner's estate.
+4 (j) "Payment or transfer" means any withdrawal, disbursement, setoff,
+5 debit, or other disposition of sums on deposit.
+6 (k) "Personal account" means an account between one or more natural
+7 persons and a depository institution established for personal or house-
+8 hold use and shall not include: (i) an account established for a part-
+9 nership, joint venture, or other organization for a business purpose;
+10 (ii) an account controlled by one or more persons in an agency capacity
+11 or as a trustee for a corporation, unincorporated association, or chari-
+12 table or civic organization; or (iii) a fiduciary or trust account in
+13 which the fiduciary relationship is established other than by the
+14 account agreement.
+15 (l) "Personal representative" means a personal representative as
+16 defined by section 1-2.13 of the estates, powers, and trusts law.
+17 (m) "Sums on deposit" means the balance payable on an account, includ-
+18 ing interest and dividends earned, whether or not included in the
+19 current balance, and to the extent permitted by applicable law, any
+20 deposit of life insurance proceeds added to the account by reason of the
+21 death of an account owner.
+22 (n) "Survivorship designation" means a provision governing the dispo-
+23 sition of the sums on deposit upon the death of an account owner in
+24 substantially the following form:
+25 "All account owners must agree to the same choice below.
+26 If an account owner dies, what happens to their share of the money in
+27 this account (select one):
+28 ___ The deceased account owner's share becomes part of their estate.
+29 ___ The deceased account owner's share goes to the surviving account
+30 owner or owners on this account, in equal shares."
+31 2. Account agreement; payment during lifetime; liability. (a) When a
+32 deposit of cash, securities or other property is made in or with any
+33 depository institution in a personal account, established in the name of
+34 more than one person or modified by adding or removing an account owner
+35 or convenience signer after the effective date of this section, such
+36 depository institution shall establish an account agreement, which shall
+37 include, at minimum, a survivorship designation and a convenience signer
+38 designation.
+39 (b) A depository institution shall execute and maintain an account
+40 agreement required by this section for as long as such account remains
+41 open and for a period of six years after it is closed.
+42 (c) During the lifetime of all account owners, ownership interests in
+43 the sums on deposit shall be governed by the account agreement.
+44 (d) Upon the death of an account owner during the lifetime of another
+45 account owner on the account, the depository institution shall dispose
+46 of the sums on deposit pursuant to the account agreement.
+47 (e) The survivorship designation and convenience signer designation
+48 shall constitute a single, uniform designation applicable to all account
+49 owners, and shall be executed by each such account owner.
+50 (f) Payment or transfer by a depository institution to any account
+51 owner or convenience signer named on a joint account or non-survivorship
+52 account pursuant to the account agreement shall discharge such deposito-
+53 ry institution from liability to the extent of such payment or transfer;
+54 provided, however, that a depository institution that fails to properly
+55 establish or maintain the account agreement, including by omitting or
+56 failing to properly execute or maintain the survivorship designation or
+
+A. 8549--B 4
+1 convenience signer designation as required by this section, shall not be
+2 discharged of liability to the extent of such payment or transfer.
+3 (g) Nothing in this section shall be construed to require a depository
+4 institution to investigate or verify an account owner's intent beyond
+5 the face of the account agreement, or to require any officer, employee,
+6 or agent thereof to provide legal, tax, or estate planning advice to an
+7 account owner or any other person.
+8 (h) No officer, employee, or agent of a depository institution shall
+9 be personally liable for any act or omission taken in good faith and in
+10 the ordinary course of such person's duties in connection with the
+11 establishment, explanation, maintenance, or implementation of an account
+12 agreement under this section, including with respect to the execution or
+13 maintenance of an account agreement, provided that such officer, employ-
+14 ee, or agent did not engage in willful misconduct.
+15 (i) Failure to properly establish, execute, or maintain an account
+16 agreement pursuant to this section shall constitute a violation of this
+17 article and may be subject to civil penalties, corrective action, or
+18 other enforcement measures imposed by the superintendent.
+19 3. Notice; competing claims; court orders. (a) Payment or transfer
+20 made pursuant to the account agreement shall discharge a depository
+21 institution of liability to the extent of such payment or transfer,
+22 whether or not such payment or transfer is consistent with the ownership
+23 interests in the sums on deposit as between account owners or any other
+24 persons claiming an interest therein, unless and until such depository
+25 institution receives:
+26 (i) written notice from an account owner or from the personal repre-
+27 sentative of a deceased account owner's estate directing that payment or
+28 transfer pursuant to the account agreement should not be permitted, and
+29 the depository institution has had a reasonable opportunity to act on
+30 such notice; or
+31 (ii) service of a restraining order, injunction, or other appropriate
+32 process issued by a court of competent jurisdiction prohibiting payment
+33 or transfer.
+34 (b) Upon receipt of written notice or service of process pursuant to
+35 this subdivision, a depository institution may in good faith refuse,
+36 without liability, to make further payment or transfer pursuant to the
+37 account agreement and may require the acknowledgment or consent of all
+38 account owners on the account as a condition of making any subsequent
+39 payment or transfer.
+40 (c) Except as provided in this section or by other applicable law, no
+41 other information or communication available to a depository institution
+42 shall affect its right to protection under this section.
+43 (d) Nothing in this section shall be construed to require a depository
+44 institution to determine the validity or priority of claims to the sums
+45 on deposit.
+46 (e) Protection of a depository institution under this section shall
+47 not affect the rights of account owners or other persons to resolve
+48 disputes between themselves, including disputes concerning the ownership
+49 or payment or transfer of the sums on deposit.
+50 (f) Nothing in this section shall be construed to alter, limit, or
+51 impair any right or remedy that an account owner or other person may
+52 have against another account owner or other person with respect to the
+53 sums on deposit or any payment or transfer made from an account.
+54 (g) Nothing in this section shall be construed to validate or author-
+55 ize any payment or transfer that is otherwise unlawful, or to limit or
+56 impair any remedy available under law with respect to a payment or
+
+A. 8549--B 5
+1 transfer resulting from fraud, undue influence, elder abuse, or lack of
+2 authority.
+3 4. Non-survivorship accounts. (a) Where the account owners have desig-
+4 nated, or it is presumed pursuant to subdivision six of this section,
+5 that the sums on deposit shall be disposed of as part of an account
+6 owner's estate upon death, the account is a non-survivorship account,
+7 and title to an account owner's net contribution to the sums on deposit
+8 shall remain solely in such account owner during life and shall be
+9 disposed of as part of such account owner's estate upon death.
+10 (b) (i) Upon receipt of written notice of an account owner's death,
+11 and prior to receipt of written notice from an account owner or the
+12 personal representative of a deceased account owner stating that payment
+13 or transfer pursuant to the account agreement shall not be permitted, or
+14 service upon a depository institution of a restraining order, injunc-
+15 tion, or other appropriate process issued by a court of competent juris-
+16 diction prohibiting payment, payment or transfer made to a personal
+17 representative of an account owner's estate pursuant to the account
+18 agreement shall discharge such depository institution from liability to
+19 the extent of such payment or transfer.
+20 (ii) Any payment or transfer made by a surviving account owner after
+21 the death of another account owner shall be subject to the rights of
+22 such deceased account owner's estate, and nothing in this section shall
+23 be construed to confer upon a surviving account owner any ownership
+24 interest in a deceased account owner's net contribution to the sums on
+25 deposit in a non-survivorship account, except as otherwise provided by
+26 law.
+27 5. Joint accounts. (a) Where all account owners have designated, or it
+28 is presumed pursuant to subdivision six of this section, that the sums
+29 on deposit shall pass to the other account owner or owners by right of
+30 survivorship, the account shall be a joint account, and such account
+31 owners' title to the sums on deposit shall be a joint tenancy with the
+32 right of survivorship.
+33 (b) (i) Title to the sums on deposit after the death of an account
+34 owner shall be in the surviving account owner or owners in equal shares,
+35 regardless of the source of the property on deposit or when such proper-
+36 ty was deposited, and payment or transfer to the other surviving account
+37 owner or owners of any or all of the sums on deposit shall discharge the
+38 depository institution from liability to the extent of such payment or
+39 transfer.
+40 (ii) Any payment or transfer in a joint account made by a surviving
+41 account owner after the death of another account owner shall not be
+42 subject to the rights of such deceased account owner's estate, and noth-
+43 ing in this section shall be construed to limit or impair a surviving
+44 account owner's ownership interest in the sums on deposit arising by
+45 right of survivorship in a joint account, except as otherwise provided
+46 by law.
+47 (c) A transfer resulting from the application of this section shall be
+48 effective by reason of the account agreement and by operation of law
+49 pursuant to this section and shall not be testamentary or subject to
+50 estate administration.
+51 6. Presumptions. If an account agreement does not include a properly
+52 executed survivorship designation as required by this section, or if
+53 such survivorship designation is not maintained in accordance with this
+54 section or contains conflicting or incomplete provisions, the account
+55 shall be presumed to be a non-survivorship account, unless clear and
+56 convincing evidence establishes that the account owners intended to
+
+A. 8549--B 6
+1 create a right of survivorship; provided, however, that if the only
+2 account owners on such account are spouses, the account shall be
+3 presumed to be a joint account, unless clear and convincing evidence
+4 establishes a contrary intent.
+5 7. Regulations of the superintendent. The superintendent shall promul-
+6 gate, and may from time to time amend, rules and regulations as neces-
+7 sary to implement this section, including rules requiring that account
+8 owners of joint accounts and non-survivorship accounts be provided with
+9 clear information regarding the terms and conditions of such accounts,
+10 the legal relationship among account owners and the role of the deposi-
+11 tory institution with respect to such accounts.
+12 8. Severability. If any clause, sentence, paragraph or subdivision of
+13 this section shall be adjudged by any court of competent jurisdiction to
+14 be invalid, such judgment shall not affect, impair, or invalidate the
+15 remainder thereof, but shall be confined in its operation to the clause,
+16 sentence, paragraph or subdivision thereof directly involved in the
+17 controversy in which such judgment shall have been rendered. It is here-
+18 by declared to be the intent of the legislature that this section would
+19 have been enacted even if such invalid provisions had not been included
+20 herein.
+21 § 4. The superintendent of financial services shall promulgate rules
+22 and regulations necessary to implement the provisions of sections one,
+23 two and three of this act no later than one year after this section
+24 shall have become a law.
+25 § 5. This act shall take effect immediately; provided, however, that:
+26 (a) sections one, two and three of this act shall take effect on the
+27 one hundred eightieth day after the superintendent of financial services
+28 has promulgated the rules and regulations required under section four of
+29 this act;
+30 (b) the superintendent of financial services shall notify the legisla-
+31 tive bill drafting commission upon the occurrence of the promulgation of
+32 the rules and regulations provided for in section four of this act in
+33 order that the commission may maintain an accurate and timely effective
+34 data base of the official text of the laws of the state of New York in
+35 furtherance of effectuating the provisions of section 44 of the legisla-
+36 tive law and section 70-b of the public officers law; and
+37 (c) effective immediately, the addition, amendment and/or repeal of
+38 any rule or regulation necessary for the implementation of sections one,
+39 two and three of this act on their effective date are authorized to be
+40 made and completed on or before such effective date.

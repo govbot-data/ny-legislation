@@ -1,0 +1,281 @@
+Title: 
+Official Title: 
+Source: versions - S8878A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8878--A
+IN SENATE
+January 13, 2026
+___________
+Introduced by Sen. RIVERA -- read twice and ordered printed, and when
+printed to be committed to the Committee on Budget and Revenue --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the tax law and the agriculture and markets law, in
+relation to enacting the "New York state food rescue tax credit act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York state food rescue tax credit act".
+3 § 2. Legislative findings and intent. The legislature finds and
+4 declares that:
+5 1. New York generates over four million tons of food waste each year,
+6 a significant portion of which is edible and suitable for donation.
+7 2. Food rescue and recovery operations provide critical health,
+8 economic, environmental, and social benefits, including reductions in
+9 landfill waste, greenhouse gas emissions, and disposal costs.
+10 3. Targeted tax incentives, combined with standardized operational
+11 practices, transparent reporting systems, and nutritional quality safe-
+12 guards, will strengthen New York's food rescue ecosystem, improve
+13 program integrity, and ensure equitable utilization of state resources.
+14 4. Existing programs, including Nourish New York and the Hunger
+15 Prevention and Nutrition Assistance Program (HPNAP), provide important
+16 benefits and serve critical roles within the state's food assistance
+17 framework; however, such programs do not sufficiently address overall
+18 food demand, do not directly reduce food waste or advance positive envi-
+19 ronmental outcomes, provide limited statewide data collection capabili-
+20 ties, and are primarily available only to a defined subset of eligible
+21 organizations.
+22 5. Current tax law favors disposal over donation, as deductions for
+23 waste disposal are often more financially advantageous than charitable
+24 incentives for food donation.
+25 6. Food insecurity affects more than 11 percent of New York house-
+26 holds, a rate that has grown in recent years and is expected to rise
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14136-06-6
+
+S. 8878--A 2
+1 further due to federal reductions in SNAP benefits and potential
+2 disruptions in federal nutrition programs.
+3 7. It is therefore the intent of the legislature to establish a
+4 refundable and transferable state tax credit to encourage businesses of
+5 all sizes to donate surplus food and to offset the costs of storage,
+6 transportation, and distribution.
+7 8. This credit will strengthen New York's food assistance network,
+8 reduce landfill waste and methane emissions, and ensure that nutritious
+9 food reaches families in need instead of being discarded.
+10 § 3. Section 210-B of the tax law is amended by adding a new subdivi-
+11 sion 63 to read as follows:
+12 63. Food rescue tax credit. (a) Definitions. For the purposes of this
+13 subdivision, the following terms shall have the following meanings:
+14 (i) "Eligible nonprofit food assistance organization" means a nonpro-
+15 fit entity recognized under section 501(c)(3) of the United States
+16 internal revenue code, or similarly recognized organization, that
+17 engages primarily in food rescue, recovery, or distribution to individ-
+18 uals or families in need.
+19 (ii) "Eligible taxpayer" includes food businesses, farmers, manufac-
+20 turers, distributors, wholesalers, retailers, and any other business
+21 entity engaged in the sale, manufacture, or distribution of food within
+22 New York state.
+23 (iii) "Eligible food" means food fit for human consumption at the time
+24 of donation and compliant with applicable federal, state, and local food
+25 safety laws.
+26 (iv) "Good food nutrition standards" means nutrition and food quality
+27 standards established, adopted, or recognized by the department of agri-
+28 culture and markets consistent with federal and state dietary guidance
+29 and public health objectives, including but not limited to:
+30 (A) foods fit for human consumption and compliant with applicable food
+31 safety laws;
+32 (B) foods aligned with science-based dietary guidance issued by:
+33 (1) the United States department of agriculture;
+34 (2) the United States department of health and human services; or
+35 (3) the department of health;
+36 (C) foods supporting positive public health outcomes, including
+37 nutrient-dense foods, fruits, vegetables, whole grains, and lean prote-
+38 ins; and
+39 (D) additional criteria established by rule or guidance.
+40 (v) "Qualified food donation" means any eligible food meeting good
+41 food nutrition standards, including perishable and prepared foods,
+42 donated in compliance with applicable state and federal food safety laws
+43 as certified, measured, and accepted by a New York state charitable
+44 organization in good standing as defined by article seven-A of the exec-
+45 utive law.
+46 (b) Allowance of credit. An eligible taxpayer subject to tax under
+47 this article shall be allowed a credit against such tax in an amount
+48 equal to:
+49 (i) sixty-five percent of the fair market value of qualified food
+50 donations made during the taxable year to an eligible nonprofit food
+51 assistance organization; and
+52 (ii) one hundred percent of documented transportation and storage
+53 expenses directly attributable to such donations.
+54 (c) Refundability and transferability. If the amount of credit allow-
+55 able under this subdivision exceeds the eligible taxpayer's tax liabil-
+56 ity for the taxable year, the excess shall be refundable. Alternatively,
+
+S. 8878--A 3
+1 an eligible taxpayer may transfer or assign the unused portion of such
+2 credit to another eligible taxpayer, subject to regulations promulgated
+3 by the commissioner.
+4 (d) Limitations. (i) The aggregate amount of credits allowed under
+5 this subdivision for all eligible taxpayers in any fiscal year shall not
+6 exceed seventy-five million dollars statewide, unless increased by
+7 appropriation.
+8 (ii) No individual eligible taxpayer may claim more than one million
+9 five hundred thousand dollars in total credit pursuant to this subdivi-
+10 sion in any taxable year.
+11 (iii) The commissioner shall adopt rules and regulations governing
+12 documentation, substantiation, transfer and application procedures to
+13 ensure program integrity.
+14 (iv) The department shall coordinate with the department of agricul-
+15 ture and markets to verify the eligibility of nonprofit food recipients
+16 and ensure donated food meets safety and quality standards.
+17 (e) Quality certification and substantiation. (i) A taxpayer claiming
+18 the credit established pursuant to this subdivision shall obtain a food
+19 donation quality certification form completed by the receiving eligible
+20 nonprofit food assistance organization.
+21 (ii) The commissioner, in consultation with the department of agricul-
+22 ture and markets, shall prescribe such form, which shall include but not
+23 be limited to:
+24 (A) total poundage of food received;
+25 (B) poundage fit for human consumption;
+26 (C) poundage meeting good food nutrition standards;
+27 (D) poundage diverted to composting or waste diversion methods;
+28 (E) poundage diverted for animal feed, where applicable; and
+29 (F) any additional required data elements specified by the commission-
+30 er.
+31 (iii) The certification shall be signed under penalties of perjury by
+32 an authorized representative of the receiving entity.
+33 (iv) A taxpayer shall retain such documentation as a condition of
+34 claiming the credit pursuant to this subdivision.
+35 (v) Relevant agencies, as specified by the commissioner, in consulta-
+36 tion with the department of agriculture, may utilize collected data for
+37 audit, compliance, reporting, and program evaluation.
+38 § 4. Section 606 of the tax law is amended by adding a new subsection
+39 (www) to read as follows:
+40 (www) Food rescue tax credit. (1) Definitions. For the purposes of
+41 this subsection, the following terms shall have the following meanings:
+42 (A) "Eligible nonprofit food assistance organization" means a nonpro-
+43 fit entity recognized under section 501(c)(3) of the United States
+44 internal revenue code, or similarly recognized organization, in good
+45 standing with the state of New York's charities bureau, that engages
+46 primarily in food rescue, recovery, or distribution to individuals or
+47 families in need.
+48 (B) "Eligible taxpayer" includes food businesses, farmers, manufactur-
+49 ers, distributors, wholesalers, retailers, and any other business entity
+50 engaged in the sale, manufacture, or distribution of food within New
+51 York state.
+52 (C) "Eligible food" means food fit for human consumption at the time
+53 of donation and compliant with applicable federal, state, and local food
+54 safety laws.
+55 (D) "Good food nutrition standards" means nutrition and food quality
+56 standards established, adopted, or recognized by the department of agri-
+
+S. 8878--A 4
+1 culture and markets consistent with federal and state dietary guidance
+2 and public health objectives, including but not limited to:
+3 (i) foods fit for human consumption and compliant with applicable food
+4 safety laws;
+5 (ii) foods aligned with science-based dietary guidance issued by:
+6 (1) the United States department of agriculture;
+7 (2) the United States department of health and human services; or
+8 (3) the department of health;
+9 (iii) foods supporting positive public health outcomes, including
+10 nutrient-dense foods, fruits, vegetables, whole grains, and lean prote-
+11 ins; and
+12 (iv) additional criteria established by rule or guidance.
+13 (E) "Qualified food donation" means eligible food meeting good food
+14 nutrition standards, including perishable and prepared foods, donated in
+15 compliance with applicable state and federal food safety laws as certi-
+16 fied, measured, and accepted by a New York state charitable organization
+17 in good standing as defined by article seven-A of the executive law.
+18 (2) Allowance of credit. An eligible taxpayer subject to tax under
+19 this article shall be allowed a credit against such tax in an amount
+20 equal to:
+21 (A) sixty-five percent of the fair market value of qualified food
+22 donations made during the taxable year to an eligible nonprofit food
+23 assistance organization; and
+24 (B) one hundred percent of documented transportation and storage
+25 expenses directly attributable to such donations.
+26 (3) Refundability and transferability. If the amount of credit allow-
+27 able under this subsection exceeds the eligible taxpayer's tax liability
+28 for the taxable year, the excess shall be refundable. Alternatively, an
+29 eligible taxpayer may transfer or assign the unused portion of such
+30 credit to another eligible taxpayer, subject to regulations promulgated
+31 by the commissioner.
+32 (4) Limitations. (A) The aggregate amount of credits allowed under
+33 this subsection for all eligible taxpayers in any fiscal year shall not
+34 exceed seventy-five million dollars statewide, unless increased by
+35 appropriation.
+36 (B) No individual eligible taxpayer may claim more than one million
+37 five hundred thousand dollars in total credit pursuant to this
+38 subsection in any taxable year.
+39 (C) The commissioner shall adopt rules and regulations governing
+40 documentation, substantiation, transfer and application procedures to
+41 ensure program integrity.
+42 (D) The department shall coordinate with the department of agriculture
+43 and markets to verify the eligibility of nonprofit food recipients and
+44 ensure donated food meets safety and quality standards.
+45 (5) Partnerships and S corporations. In the case of a partnership or S
+46 corporation, the credit provided for under this subsection shall be
+47 passed through to partners, members, or shareholders in proportion to
+48 their ownership interests in the entity.
+49 (6) Quality certification and substantiation. (A) A taxpayer claiming
+50 the credit established pursuant to this subsection shall obtain a food
+51 donation quality certification form completed by the receiving eligible
+52 food rescue organization or qualified food recovery partner.
+53 (B) The commissioner, in consultation with the department of agricul-
+54 ture and markets, shall prescribe such form, which shall include but not
+55 be limited to:
+56 (i) total poundage of food received;
+
+S. 8878--A 5
+1 (ii) poundage fit for human consumption;
+2 (iii) poundage meeting good food nutrition standards;
+3 (iv) poundage diverted to composting or waste diversion methods;
+4 (v) poundage diverted for animal feed, where applicable; and
+5 (vi) any additional required data elements specified by the commis-
+6 sioner.
+7 (C) The certification shall be signed under penalties of perjury by an
+8 authorized representative of the receiving entity.
+9 (D) A taxpayer shall retain such documentation as a condition of
+10 claiming the credit pursuant to this subsection.
+11 (E) Relevant agencies, as specified by the commissioner, in consulta-
+12 tion with the department of agriculture, may utilize collected data for
+13 audit, compliance, reporting, and program evaluation.
+14 § 5. The agriculture and markets law is amended by adding two new
+15 sections 29 and 30 to read as follows:
+16 § 29. Statewide food rescue training program. The commissioner, in
+17 consultation with the department of taxation and finance, subject to an
+18 appropriation therefor, shall procure professional services to develop a
+19 standardized statewide food rescue training program. The program shall
+20 include standardized operational procedures, logistics practices, food
+21 safety protocols, outreach methodologies, and data reporting standards.
+22 Requests for proposals shall prioritize entities or coalitions with
+23 demonstrated food rescue expertise.
+24 § 30. Statewide food rescue data dashboard. The department, in consul-
+25 tation with the department of taxation and finance, subject to an appro-
+26 priation therefor, shall procure professional services to design, devel-
+27 op, and maintain a statewide food rescue data dashboard. The dashboard
+28 shall track key metrics including pounds of food rescued, estimated
+29 value, utilization of the tax credit established pursuant to subdivision
+30 sixty-three of section two hundred ten-B of the tax law, emissions
+31 diverted, water savings, and related indicators. Access shall be
+32 provided to organizations authorized by the department and government
+33 entities subject to applicable privacy protections.
+34 § 6. The department of taxation and finance, in consultation with the
+35 department of agriculture and markets, shall:
+36 1. establish a standardized electronic reporting platform for busi-
+37 nesses and eligible nonprofits to record accepted and usable donations,
+38 transportation, and storage expenses eligible for the credit;
+39 2. publish annual reports to the governor and the legislature includ-
+40 ing:
+41 (a) the total number of taxpayers claiming the credit;
+42 (b) total food rescue tax credits claimed and amount refunded;
+43 (c) pounds of food diverted from waste;
+44 (d) estimated number of meals provided; and
+45 (e) environmental and economic benefits achieved; and
+46 3. develop an outreach and guidance program to inform eligible busi-
+47 nesses and organizations of the availability of the food rescue tax
+48 credit.
+49 § 7. This act shall take effect on the first of January next succeed-
+50 ing the date upon which it shall have become a law and shall apply to
+51 taxable years beginning on or after such date. Effective immediately,
+52 the addition, amendment and/or repeal of any rule or regulation neces-
+53 sary for the implementation of this act on its effective date are
+54 authorized to be made and completed on or before such effective date.

@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - A10607A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10607--A
+IN ASSEMBLY
+March 13, 2026
+___________
+Introduced by M. of A. TORRES -- read once and referred to the Committee
+on Transportation -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the highway law, in relation to preventing an increase
+in vehicular lane capacity of highways within certain areas
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "stop high-
+2 way community harm act".
+3 § 2. The legislature finds that parts of the I-95 expressway, partic-
+4 ularly the Cross Bronx Expressway, were borne out of a history of racist
+5 urban planning led by Robert Moses. The Cross Bronx Expressway is
+6 already one of the nation's most toxic, congested roadways, long associ-
+7 ated with racial health disparities like childhood asthma and heart
+8 disease in surrounding communities. Its initial construction decimated
+9 Black and Brown neighborhoods along the corridor while adding signif-
+10 icant highway runoff pollution to the Bronx River and Harlem River, and
+11 contributing to some of the highest rates of asthma and heart disease in
+12 the country. According to a department of transportation study, idling
+13 cars on the Cross Bronx Expressway that have polluted the borough for
+14 decades drive chronic health issues, including Asthma, among Bronx resi-
+15 dents.
+16 The legislature further finds that historic transportation planning
+17 decisions have disproportionately sited highways in and adjacent to
+18 public housing and other environmental justice communities, resulting in
+19 cumulative health and environmental harms. Preventing additional highway
+20 expansion in close proximity to such developments is necessary to reduce
+21 inequities, protect public health, and ensure that state actions do not
+22 perpetuate disproportionate impacts on vulnerable populations.
+23 The legislature further finds that expansion of highway capacity in or
+24 near environmental justice communities, including public housing devel-
+25 opments and areas with elevated asthma rates, has contributed to adverse
+26 public health, safety, and environmental outcomes. It is therefore the
+27 intent of the legislature to prohibit such expansions except in limited
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15224-02-6
+
+A. 10607--A 2
+1 circumstances where a demonstrated and evidence-based safety need cannot
+2 be addressed through alternatives consistent with the state's complete
+3 streets policy.
+4 § 3. The highway law is amended by adding a new section 10-h to read
+5 as follows:
+6 § 10-h. Limitations on highway capacity expansion in sensitive areas.
+7 1. For the purposes of this section, the following terms shall have the
+8 following meanings:
+9 (a) "Environmental justice" shall have the same meaning as defined in
+10 section 48-0103 of the environmental conservation law.
+11 (b) "Environmental justice community" shall be defined by the depart-
+12 ment of environmental conservation and shall include, but not be limited
+13 to, communities bearing disproportionate pollution and climate change
+14 burdens which may be due to the race, color, religion, national origin
+15 or income levels of the members of such community.
+16 (c) "Public housing development" shall mean any housing operated by
+17 the state, a municipality, or a municipal housing authority established
+18 under the public housing law.
+19 (d) "Increase in vehicular lane capacity" shall mean any project that
+20 increases the number of general purpose travel lanes or otherwise
+21 increases the ability of a roadway to carry additional motor vehicle
+22 traffic, including but not limited to:
+23 (i) the addition of new travel lanes;
+24 (ii) the conversion of shoulders, medians, or auxiliary lanes into
+25 travel lanes, whether temporary or permanent;
+26 (iii) the widening or modifying of shoulders or travel lanes where
+27 such widening or modifying facilitates increased vehicle throughput,
+28 operating speeds, or future lane conversion; and
+29 (iv) any design change demonstrated, through accepted transportation
+30 modeling or comparable project data, to increase vehicle miles traveled.
+31 2. The commissioner shall not approve nor shall the state fund or
+32 undertake any projects involving a highway if such project includes the
+33 increase in vehicular lane capacity of such highway where an increase in
+34 vehicular lane capacity would occur within:
+35 (a) two hundred feet of a public housing development;
+36 (b) a zip code with a three-year average asthma emergency department
+37 incidence rate per ten thousand persons of greater than seventy accord-
+38 ing to the department of health; or
+39 (c) an environmental justice community.
+40 3. The commissioner may waive the provisions of subdivision two of
+41 this section for a project only after:
+42 (a) not less than sixty days prior to making any determination,
+43 preparing and publicly publishing a safety and alternatives analysis
+44 which shall include, but not be limited to:
+45 (i) a determination if the project is consistent with section three
+46 hundred thirty-one of this chapter and all federal highway safety
+47 requirements;
+48 (ii) an analysis of not fewer than five years of crash data, including
+49 fatalities, serious injuries, and impacts to pedestrians, cyclists, and
+50 transit users;
+51 (iii) an evaluation of all reasonable alternatives that do not
+52 increase vehicular lane capacity, including but not limited to roadway
+53 redesign, speed management, signal improvements, and transit enhance-
+54 ments;
+55 (iv) an assessment of induced demand and impacts on vehicle miles
+56 traveled;
+
+A. 10607--A 3
+1 (v) an evaluation of the impacts on air quality and public health,
+2 including but not limited to asthma-related outcomes; and
+3 (vi) an assessment of impacts on environmental justice communities.
+4 (b) publicly publishing a report finding that:
+5 (i) there is a specific and documented roadway safety hazard;
+6 (ii) such hazard cannot be addressed through measures consistent with
+7 section three hundred thirty-one of this chapter; and
+8 (iii) the project is necessary to achieve a measurable reduction in
+9 fatalities or serious injuries.
+10 (c) providing for a public comment period of not less than forty-five
+11 days with at least one public hearing occurring in the affected area.
+12 4. No waiver shall be issued or approved under subdivision three of
+13 this section where the project involves the widening or modification of
+14 highway shoulders, unless:
+15 (a) such project is limited to providing emergency access, disabled
+16 vehicle refuge, or safety improvements for vulnerable users;
+17 (b) such shoulder is not designated or operated as a general purpose
+18 travel lane at any time; and
+19 (c) the department demonstrates that such project will not increase
+20 vehicle speeds, traffic volumes, or localized air pollution.
+21 5. The department shall monitor safety outcomes for a period of not
+22 less than three years following completion of any project approved
+23 pursuant to subdivision three of this section and shall publish such
+24 findings publicly.
+25 6. The commissioner shall apply a clear and convincing evidentiary
+26 standard when making determinations under this section.
+27 § 3. This act shall take effect immediately.

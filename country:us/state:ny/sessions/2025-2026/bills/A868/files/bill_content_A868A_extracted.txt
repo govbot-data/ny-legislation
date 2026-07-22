@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - A868A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+868--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. ROSENTHAL -- read once and referred to the
+Committee on People with Disabilities -- reference changed to the
+Committee on Social Services -- recommitted to the Committee on Social
+Services in accordance with Assembly Rule 3, sec. 2 -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the social services law, in relation to requiring super-
+vising state and city agencies to provide an informational notice to
+supportive housing tenants
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The social services law is amended by adding a new section
+2 131-cc to read as follows:
+3 § 131-cc. Supportive housing tenants; required informational notice.
+4 1. For purposes of this section, the following terms shall have the
+5 following meanings:
+6 (a) "Dwelling unit" shall mean any building or structure or portion
+7 thereof which is occupied in whole or in part as the home, residence or
+8 sleeping place of one or more individuals.
+9 (b) "Supervising agencies" shall mean the office of mental health,
+10 which may coordinate with the New York state office of temporary and
+11 disability assistance, the New York state department of health, the New
+12 York state office of addiction services and supports, the New York state
+13 office for people with developmental disabilities, the New York city
+14 department of health and mental hygiene, New York city department of
+15 housing preservation and development, the New York city HIV/AIDS
+16 services administration, and the New York city human resources adminis-
+17 tration to draft the notice.
+18 (c) "Supportive housing" means affordable, permanent, or transitional
+19 housing with support services for tenants.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02512-04-6
+
+A. 868--A 2
+1 (d) "Tenant" means an individual occupying, or intending to occupy, a
+2 dwelling unit for thirty consecutive days or more.
+3 (e) "Supportive housing tenant" means any tenant residing in a dwell-
+4 ing unit that is funded, in whole or in part, pursuant to a contract
+5 with any city or state agency to provide supportive housing and/or
+6 services. Such definition shall include tenants occupying apartments
+7 leased by a non-governmental agency pursuant to a supportive housing
+8 contract, and to both licensed and unlicensed programs.
+9 2. Supervising agencies shall be required to provide every supportive
+10 housing tenant or potential tenant at the time of an applicant interview
+11 to obtain housing, at the signing of an initial lease, at each lease
+12 renewal and upon request at any time, a notice of tenant rights approved
+13 by such supervising agency using plain and simple language. Such notice
+14 shall be made available in English and in the primary language spoken by
+15 the tenant or potential tenant. Any supportive housing landlord or
+16 supervising agency initiating an eviction proceeding shall be required
+17 to serve such notice to any tenant or occupant with any notification of
+18 eviction, notice of termination, notice to cure, or notification of
+19 termination of assistance. Such notice shall include, but not be limited
+20 to, the following information:
+21 (a) whether the dwelling unit is subject to state rent stabilization
+22 laws or protections under article six-A of the real property law and if
+23 not, the reason for exemption from such laws. For dwelling units that
+24 are subject to state rent stabilization laws, such notice shall also
+25 provide information on how to obtain a rent history from the division of
+26 housing and community renewal;
+27 (b) whether the dwelling unit is located in a building that is in
+28 receipt of a tax exemption or abatement, including but not limited to
+29 abatements or exemptions pursuant to sections four hundred twenty-one-a
+30 or four hundred twenty-one-g of the real property tax law. If the build-
+31 ing is in receipt of an exemption or abatement, the notice shall include
+32 the abatement or exemption start and end dates;
+33 (c) that a tenant's eviction must be sought through a court proceeding
+34 when required by section seven hundred eleven or seven hundred thirteen
+35 of the real property actions and proceedings law, and that a tenant may
+36 bring special proceedings pursuant to article seven of the real property
+37 actions and proceedings law if they are unlawfully evicted and any rele-
+38 vant phone numbers that a tenant may contact for legal advice and possi-
+39 ble legal representation;
+40 (d) the tenant's right to enforce any applicable housing maintenance
+41 codes, information concerning how to report violations of such codes to
+42 the local housing agency and to the building owner, and name and contact
+43 information for the person or people responsible for maintaining appli-
+44 cable housing maintenance code standards and responding to emergencies;
+45 (e) the tenant's right to request reasonable accommodations and the
+46 process for requesting such accommodations, the right to be protected
+47 against discrimination pursuant to article fifteen of the executive law
+48 and any other applicable federal, state and local laws and the procedure
+49 for reporting cases of discrimination to the New York state division of
+50 human rights;
+51 (f) the tenant's right to receipts for payments made in exchange for
+52 occupancy pursuant to section two hundred thirty-five-e of the real
+53 property law and the tenant's right to receive a copy on the overlease
+54 if such housing provider is subleasing in addition to the sublease;
+55 (g) the tenant's right to live with family and/or one additional occu-
+56 pant in a dwelling unit pursuant to section two hundred thirty-five-f of
+
+A. 868--A 3
+1 the real property law, the tenant's right to form, join or participate
+2 in a tenant group pursuant to section two hundred thirty of the real
+3 property law;
+4 (h) whether the dwelling unit is subject to 14 NYCRR section 595, and
+5 if so, the tenant's rights pursuant to such section;
+6 (i) the tenant's right to be free from harassment, and what consti-
+7 tutes as tenant harassment under section two hundred thirty-five-d of
+8 the real property law;
+9 (j) the building's regulatory scheme, including:
+10 (i) each funding stream used to provide social services, subsidize
+11 rents, or underwrite the development of the dwelling unit or property
+12 and the contact information for the agency affiliated with such funding
+13 stream;
+14 (ii) the name or names of the program or programs pursuant to which
+15 the tenant is occupying the dwelling unit;
+16 (iii) the name of the supervising agency administering the program
+17 and/or providing services or assistance pursuant to subparagraphs (i)
+18 and (ii) of this paragraph;
+19 (iv) the grievance policy or procedure to register and hear tenant
+20 complaints;
+21 (v) any applicable state, local or federal regulations;
+22 (vi) contact information for the supervising agency pursuant to
+23 subparagraph (iii) of this paragraph;
+24 (vii) the total rent, tenant rent and agency subsidy amounts; and
+25 (viii) the manner in which rent shall be paid;
+26 (k) the tenant's right to be provided access to legal services if
+27 facing eviction in housing court and all other relevant tenant's rights
+28 and procedures and agency resources for eviction prevention;
+29 (l) any additional information related to tenant's rights provided in
+30 writing or relayed orally to a supportive housing applicant during an
+31 interview with such supervising agencies; and
+32 (m) contact information for the appropriate supervising agencies for
+33 tenants to submit complaints including violations of this section.
+34 3. Supervising agencies shall draft the notice required pursuant to
+35 subdivision two of this section within sixty days of the effective date
+36 of this section.
+37 4. Supervising agencies shall receive, investigate, and respond to
+38 complaints concerning violations of this section. All complaints and
+39 responses received by any supervising agencies shall be compiled and
+40 posted on the office of mental health's website and shall include the
+41 date the complaint was submitted, any results of the complaint, and the
+42 date of the conclusion of any investigation resulting from the
+43 complaint. All complaints and responses shall be posted on the office
+44 of mental health's website within thirty days.
+45 5. The office of mental health, in collaboration with supervising
+46 agencies, shall create an online portal and telephone hotline where
+47 tenants can request an additional copy of such tenant's bill of rights
+48 at any time.
+49 § 2. The real property law is amended by adding a new section 231-d to
+50 read as follows:
+51 § 231-d. Supportive housing bill of rights notice. 1. Any landlord, as
+52 defined in subdivision two of section two hundred eleven of this chap-
+53 ter, of a supportive housing building as defined by section one hundred
+54 thirty-one-cc of the social services law, shall append to or incorporate
+55 any initial lease, renewal lease, notice required pursuant to paragraph
+56 (a) of subdivision one of section two hundred twenty-six-c of this arti-
+
+A. 868--A 4
+1 cle, notice required pursuant to subdivision two of section seven
+2 hundred eleven of the real property actions and proceedings law, or
+3 petition pursuant to section seven hundred forty-one of the real proper-
+4 ty actions and proceedings law, the notice as described in section one
+5 hundred thirty-one-cc of the social services law and approved by the
+6 pertinent supervising agency as described in that section.
+7 § 3. This act shall take effect on the one hundred twentieth day after
+8 it shall have become a law.

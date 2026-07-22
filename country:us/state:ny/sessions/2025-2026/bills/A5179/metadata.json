@@ -124,6 +124,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:52Z"
+    "logs_latest_update": "2026-07-21T18:58:52Z",
+    "text_extraction_latest_update": "2026-07-22T17:33:25.953445Z"
   }
 }

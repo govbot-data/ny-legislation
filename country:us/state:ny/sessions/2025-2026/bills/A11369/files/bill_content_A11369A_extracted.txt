@@ -1,0 +1,362 @@
+Title: 
+Official Title: 
+Source: versions - A11369A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+11369--A
+IN ASSEMBLY
+May 14, 2026
+___________
+Introduced by COMMITTEE ON RULES -- (at request of M. of A. Glick, Otis)
+-- read once and referred to the Committee on Environmental Conserva-
+tion -- reported and referred to the Committee on Codes -- reported
+and referred to the Committee on Rules -- Rules Committee discharged,
+bill amended, ordered reprinted as amended and recommitted to the
+Committee on Rules
+AN ACT to amend the environmental conservation law, in relation to
+enacting the "extended producer responsibility for artificial turf act
+of 2026"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "extended producer responsibility for artificial turf act of 2026".
+3 § 2. The title heading of title 33 of article 27 of the environmental
+4 conservation law, as amended by chapter 206 of the laws of 2025, is
+5 amended to read as follows:
+6 EXTENDED PRODUCER RESPONSIBILITY FOR
+7 CARPET AND ARTIFICIAL TURF
+8 § 3. Section 27-3301 of the environmental conservation law, as added
+9 by chapter 795 of the laws of 2022, the opening paragraph and subdivi-
+10 sion 3-a as added and subdivisions 2, 3, and 10 as amended by chapter 82
+11 of the laws of 2023, is amended to read as follows:
+12 § 27-3301. Definitions.
+13 For the purposes of this title, the following terms shall have the
+14 following meanings:
+15 1. "Artificial turf" means natural and synthetic materials developed
+16 to resemble natural grass, grass, sod, or lawn, and includes any shock
+17 attenuation layer, infill, or padding.
+18 2. "Brand" means a name, symbol, word, or mark that attributes [the] a
+19 product to the owner or licensee of the brand as the producer.
+20 [2.] 3. "Carpet" means a manufactured article that is (a) used by a
+21 consumer, (b) affixed or placed on the floor or building walking surface
+22 as a decorative or functional building interior or exterior feature, and
+23 (c) primarily constructed of a top surface of synthetic or natural face
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15742-05-6
+
+A. 11369--A 2
+1 fibers or yarns or tufts attached to a backing system made of synthetic
+2 or natural materials. "Carpet" includes, but is not limited to, a
+3 commercial or residential broadloom carpet, modular carpet tiles, [arti-
+4 ficial turf,] a pad or underlayment used in conjunction with a carpet.
+5 "Carpet" does not include handmade rugs, area rugs, or mats.
+6 [3.] 4. "Closed loop recycling" means recycling in which materials
+7 that are reclaimed are returned to the original process or processes in
+8 which they were generated and they are reused in the production process.
+9 [3-a. "Carpet collection] 5. "Collection program" or "program" means a
+10 program financed and implemented by producers, either individually, or
+11 through a representative organization, that provides for, but is not
+12 limited to, the collection, transportation, reuse, recycling, proper
+13 end-of-life management, or an appropriate combination thereof, of
+14 discarded carpet or artificial turf.
+15 [4.] 6. "Collection site" means (a) a permanent location in the state
+16 at which discarded carpet or artificial turf may be returned by a
+17 consumer[. Collection]; or (b) a mobile collection unit, such as a truck
+18 and trailer, a roll-off truck, or a roll-off container that is
+19 dispatched to a specific site located in the state in order to collect
+20 discarded artificial turf. Carpet collection sites shall accept all
+21 types of carpet, as defined by this title, regardless of brand and arti-
+22 ficial turf collection sites shall accept all types of artificial turf,
+23 as defined by this title, regardless of brand.
+24 [5.] 7. "Consumer" means a person located in the state who purchases,
+25 owns, leases, or uses carpet or artificial turf, including but not
+26 limited to an individual, a business, corporation, limited partnership,
+27 not-for-profit corporation, the state, a public corporation, public
+28 school, school district, private or parochial school, or board of coop-
+29 erative educational services or governmental entity.
+30 [6.] 8. "Discarded artificial turf" means artificial turf that a
+31 consumer has used and disposed of in the state and is no longer used for
+32 its manufactured purpose.
+33 9. "Discarded carpet" means carpet that a consumer has used and
+34 disposed of in the state and is no longer used for its manufactured
+35 purpose.
+36 [7.] 10. "Energy recovery" means the process by which all or a portion
+37 of solid waste materials are processed or combusted in order to utilize
+38 the heat content or other forms of energy derived from such solid waste
+39 materials.
+40 11. "Infill" means loose material installed within and between the
+41 fibers of an artificial turf system to provide ballast, stability, and
+42 impact attenuation. Infill materials may include sand, rubber, polymeric
+43 materials, organic materials, or other engineered or natural materials.
+44 [8.] 12. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS
+45 substances" means a class of fluorinated organic chemicals containing at
+46 least one fully fluorinated carbon atom.
+47 [9.] 13. "Producer" means any person who manufactures carpet or arti-
+48 ficial turf that is sold, offered for sale, or distributed in the state
+49 under the manufacturer's own name or brand. "Producer" includes:
+50 (a) the owner of a trademark or brand under which carpet or artificial
+51 turf is sold, offered for sale, or distributed in this state, whether or
+52 not such trademark or brand is registered in the state; and
+53 (b) any person who imports a carpet or artificial turf into the United
+54 States that is sold or offered for sale in the state and that is manu-
+55 factured by a person who does not have a presence in the United States.
+
+A. 11369--A 3
+1 [10.] 14. "Recycling" means to separate, dismantle or process the
+2 materials, components or commodities contained in discarded carpet or
+3 discarded artificial turf for the purpose of preparing the materials,
+4 components, or commodities for use or reuse in new products or compo-
+5 nents. "Recycling" does not include: (a) energy recovery or energy
+6 generation by any means, including but not limited to, combustion,
+7 incineration, pyrolysis, gasification, solvolysis, waste to fuel or any
+8 chemical conversion process; or (b) landfill disposal of discarded
+9 carpet, discarded artificial turf, or discarded product component mate-
+10 rials.
+11 [11.] 15. "Recycling rate" means the percentage of discarded carpet or
+12 discarded artificial turf that is managed through recycling or reuse, as
+13 defined by this title, and is computed by dividing the amount of recy-
+14 cled output derived from collected carpet or collected artificial turf,
+15 plus any pounds sent for reuse by the estimated total amount of
+16 discarded carpet or discarded artificial turf generated during a program
+17 year.
+18 [12.] 16. "Representative organization" means a not-for-profit organ-
+19 ization established by a producer or group of producers to implement the
+20 [carpet] collection program.
+21 [13.] 17. "Retailer" means any person who sells or offers for sale
+22 carpet or artificial turf to a consumer in the state.
+23 [14.] 18. "Reuse" means the return of a product into the economic
+24 stream for use in the same kind of application as the product was
+25 originally intended to be used, without a change in the product's iden-
+26 tity.
+27 [15.] 19. "Sell" or "sale" means any transfer for consideration of
+28 title or the right to use, from a manufacturer or retailer to a person,
+29 including, but not limited to, transactions conducted through retail
+30 sales outlets, catalogs, mail, the telephone, the internet, or any elec-
+31 tronic means; this does not include samples, donations, and reuse.
+32 § 4. Subdivisions 1, 2 and 4 of section 27-3303 of the environmental
+33 conservation law, subdivisions 1 and 4 as amended by chapter 82 of the
+34 laws of 2023, and subdivision 2 as added by chapter 795 of the laws of
+35 2022, are amended to read as follows:
+36 1. No later than December thirty-first, two thousand twenty-five, a
+37 producer, either individually or cooperatively with one or more produc-
+38 ers, or a representative organization shall submit to the department for
+39 the department's approval a plan for the establishment of a [carpet]
+40 collection program that meets the collection requirements described in
+41 this section.
+42 2. A producer may satisfy the [carpet] collection program requirement
+43 of this section by agreeing to participate collectively with other
+44 producers. Any such collective [carpet] collection program shall notify
+45 the department.
+46 4. The plan submitted by the producer or representative organization
+47 to the department under this section shall, at a minimum:
+48 (a) provide a list of each participating producer and [brands] brand
+49 covered by the program;
+50 (b) provide information on the products covered by the program;
+51 (c) describe how the producer or representative organization will
+52 collect, transport, recycle, and process carpet or artificial turf;
+53 (d) describe how the program will provide for collection of carpet or
+54 artificial turf in the state, free of cost and in a manner convenient to
+55 consumers and [carpet] installers, including how the program will
+56 achieve, at a minimum, a convenience standard which ensures that: (i)
+
+A. 11369--A 4
+1 for carpet, all counties of the state and all municipalities which have
+2 a population of ten thousand or greater have at least one permanent
+3 collection site and one additional permanent collection site for every
+4 thirty thousand people located in those areas, that accepts carpet from
+5 consumers during normal business hours; provided, however, with respect
+6 to a city having a population of one million or more, after consultation
+7 with the department of sanitation of such city, the department may
+8 otherwise establish an alternative convenience standard; and (ii) for
+9 artificial turf, a producer or representative organization utilizes
+10 mobile collection units that are readily available to consumers and, to
+11 the extent necessary to provide convenience for consumers in all coun-
+12 ties of the state, permanent collection sites. Producers and represen-
+13 tative organizations utilizing mobile collection units shall ensure
+14 that: (A) discarded artificial turf is shipped directly to the desig-
+15 nated facility, and (B) such shipment is verified through chain of
+16 custody documentation. The producer or representative organization may
+17 coordinate the program with existing municipal waste collection infras-
+18 tructure as is mutually agreeable. Convenience standards shall be evalu-
+19 ated by the department periodically and the department may require addi-
+20 tional permanent collection locations for carpet or artificial turf to
+21 ensure adequate consumer convenience;
+22 (e) describe in detail education and outreach efforts to inform
+23 consumers, [carpet] installers and others engaged in the management of
+24 discarded carpet or discarded artificial turf about the program includ-
+25 ing, at a minimum, an internet website and a toll-free telephone number
+26 and written information included at the time of sale of carpet or arti-
+27 ficial turf that provides sufficient information to allow a consumer to
+28 learn how to return such carpet or artificial turf for disposal, recycl-
+29 ing or reuse;
+30 (f) describe the methods to be used to reuse or recycle discarded
+31 carpet or artificial turf;
+32 (g) describe the methods to be used to manage or dispose of discarded
+33 carpet or discarded artificial turf that cannot be recycled or reused;
+34 (h) describe how the program will meet annual performance goals, as
+35 determined by the department, provided that at a minimum, the program
+36 shall achieve the following recycling rates:
+37 (i) a thirty percent recycling rate for carpets or artificial turf,
+38 excluding infill, of which ten percent shall be closed-loop recycling by
+39 five years after the plan is approved by the department pursuant to
+40 section 27-3309 of this title;
+41 (ii) a fifty percent recycling rate for carpets or artificial turf,
+42 excluding infill, of which twenty percent shall be closed-loop recycling
+43 by ten years after the plan is approved by the department pursuant to
+44 section 27-3309 of this title; [and]
+45 (iii) a seventy-five percent recycling rate for carpets or artificial
+46 turf, excluding infill, of which forty percent shall be closed-loop
+47 recycling by fifteen years after the plan is approved by the department
+48 pursuant to section 27-3309 of this title;
+49 (iv) a forty percent recycling rate for infill, which may also be met
+50 through composting for organic infill and reuse, by five years after the
+51 plan is approved by the department pursuant to section 27-3309 of this
+52 title;
+53 (v) a sixty percent recycling rate for infill, which may also be met
+54 through composting for organic infill and reuse, by ten years after the
+55 plan is approved by the department pursuant to section 27-3309 of this
+56 title; and
+
+A. 11369--A 5
+1 (vi) an eighty percent recycling rate for infill, which may also be
+2 met through composting for organic infill and reuse, by fifteen years
+3 after the plan is approved by the department pursuant to section 27-3309
+4 of this title;
+5 (i) describe what, if any, incentives will be used to encourage
+6 retailer participation;
+7 (j) describe the outreach and education methods that will be used to
+8 encourage municipal landfill and transfer station participation;
+9 (k) describe the sources of data and methodology for estimating the
+10 amount of carpet or artificial turf discarded in the state annually;
+11 [and]
+12 (l) describe, for artificial turf, how such producer or representative
+13 organization will satisfy section 27-3313 of this title; and
+14 (m) any other information as specified by the department.
+15 § 5. Subdivisions 1, 2, 5, 6, and paragraphs (a) and (c) of subdivi-
+16 sion 7 of section 27-3305 of the environmental conservation law, as
+17 amended by chapter 82 of the laws of 2023, are amended to read as
+18 follows:
+19 1. Beginning not later than July first, two thousand twenty-six, the
+20 producer or representative organization shall implement the [carpet]
+21 collection program utilizing collection sites established pursuant to
+22 paragraph (d) of subdivision four of section 27-3303 of this title.
+23 2. A producer shall not sell, or offer for sale, carpet or artificial
+24 turf to any person in the state unless the producer is implementing or
+25 participating under an approved plan.
+26 5. A producer or representative organization shall be responsible for
+27 all costs associated with the implementation of the [carpet] collection
+28 program, including but not limited to the cost of collection. A produc-
+29 er, producers or representative organization shall pay costs incurred by
+30 the department in the administration and enforcement of this title.
+31 Exclusive of fines and penalties, the department shall only be reim-
+32 bursed its actual cost of administration and enforcement.
+33 6. Any person who becomes a producer on or after December thirty-
+34 first, two thousand twenty-five shall submit a plan to the department,
+35 or notify the department that it has joined an existing plan, prior to
+36 selling or offering for sale in the state any carpet or artificial turf,
+37 and shall comply with the requirements of this title.
+38 (a) a detailed description of the methods used to collect, transport,
+39 and process carpet or artificial turf in the state, including detailing
+40 collection methods made available to consumers and an evaluation of the
+41 program's collection convenience;
+42 (c) the weight of all of the producer's carpet or artificial turf
+43 collected in the state by method of disposition, including reuse, recy-
+44 cling and other methods of processing or disposal;
+45 § 6. Section 27-3307 of the environmental conservation law, as amended
+46 by chapter 82 of the laws of 2023, is amended to read as follows:
+47 § 27-3307. Retailer requirements.
+48 1. Beginning July first, two thousand twenty-six, no retailer may sell
+49 or offer for sale carpet or artificial turf in the state unless the
+50 producer of such carpet or artificial turf is participating in a
+51 [carpet] collection program. A retailer shall be in compliance with this
+52 section if, on the date the carpet or artificial turf was offered for
+53 sale, the producer is listed on the department's website as implementing
+54 or participating in an approved program or if the carpet or artificial
+55 turf brand is listed on the department's website as being included in
+56 the program.
+
+A. 11369--A 6
+1 2. Any retailer may participate, on a voluntary basis, as a designated
+2 collection site pursuant to a [carpet] collection program and in accord-
+3 ance with all applicable laws and regulations.
+4 § 7. Paragraphs (a) and (b) of subdivision 5 and subdivision 6 of
+5 section 27-3309 of the environmental conservation law, paragraphs (a)
+6 and (b) of subdivision 5 as amended by chapter 82 of the laws of 2023
+7 and subdivision 6 as added by chapter 795 of the laws of 2022, are
+8 amended to read as follows:
+9 (a) the stream of carpet or artificial turf in the state;
+10 (b) disposal, recycling and reuse rates in the state for carpet or
+11 artificial turf;
+12 6. Starting four years after the plan is approved by the department
+13 pursuant to this section, the department shall impose a penalty of twen-
+14 ty-five cents per pound to be assessed on the producer or representative
+15 organization for the number of additional pounds of carpet or artificial
+16 turf that would have needed to be recycled through the program to
+17 achieve the performance goals specified in the approved stewardship
+18 plan. All penalties collected pursuant to this section shall be paid
+19 over to the commissioner for deposit to the environmental protection
+20 fund established pursuant to section ninety-two-s of the state finance
+21 law.
+22 § 8. The section heading, subdivision 1, and paragraphs (a), (b), (c),
+23 (d), (e) and (f) of subdivision 2 of section 27-3311 of the environ-
+24 mental conservation law, as added by chapter 795 of the laws of 2022,
+25 are amended to read as follows:
+26 Carpet and artificial turf stewardship advisory board.
+27 1. There is hereby established within the department the carpet and
+28 artificial turf stewardship advisory board to make recommendations to
+29 the commissioner regarding producer plans required by this title.
+30 (a) one representative of carpet or artificial turf producers;
+31 (b) two representatives of carpet or artificial turf retailers;
+32 (c) one representative of carpet or artificial turf recyclers;
+33 (d) two representatives of carpet or artificial turf collectors;
+34 (e) one representative of a company that utilizes discarded carpet or
+35 artificial turf to manufacture a new product;
+36 (f) one representative of a carpet or artificial turf installer asso-
+37 ciation;
+38 § 9. Section 27-3313 of the environmental conservation law, as amended
+39 by chapter 82 of the laws of 2023, is amended to read as follows:
+40 § 27-3313. Labeling and design requirements.
+41 1. On and after one year after the plan is approved by the department
+42 pursuant to section 27-3309 of this title, carpet or artificial turf
+43 sold or offered for sale in the state shall be accompanied by the
+44 following identifying information:
+45 (a) Name of the producer and contact information; and
+46 (b) Carpet or artificial turf material, composition, and type of
+47 construction.
+48 2. On and after December thirty-first, two thousand twenty-six, no
+49 carpet or artificial turf sold or offered for sale in the state shall
+50 contain or be treated with PFAS substances for any purpose.
+51 § 10. The opening paragraph of section 27-3315 of the environmental
+52 conservation law, as added by chapter 795 of the laws of 2022, is
+53 amended to read as follows:
+54 All carpet and artificial turf sold in the state shall be manufactured
+55 with the following minimum amounts from post-consumer sources:
+
+A. 11369--A 7
+1 § 11. Section 27-3319 of the environmental conservation law, as added
+2 by chapter 206 of the laws of 2025, is amended to read as follows:
+3 § 27-3319. Limits on liability for antitrust, restraint of trade, or
+4 unfair trade practices.
+5 1. A producer, representative organization, or retailer shall not be
+6 liable for any claim of a violation of antitrust, restraint of trade, or
+7 unfair trade practice laws arising from the performance of an action
+8 required to be undertaken by this title or which is necessary to imple-
+9 ment or participate under a producer plan approved by the department,
+10 solely to increase the collection and recycling of carpet or artificial
+11 turf, which affects the types and quantities being collected and recy-
+12 cled or the cost and structure of such collection program that the
+13 producer, representative organization, or retailer is participating in
+14 pursuant to this title.
+15 2. Provided, however, subdivision one of this section shall not apply
+16 to any agreement establishing or affecting the price of carpet or arti-
+17 ficial turf, except, as necessary, to fulfill producer responsibility
+18 under subdivision five of section 27-3305 of this title, the output or
+19 production of carpet or artificial turf, or restricting the geographic
+20 area or customers to which carpet or artificial turf will be sold.
+21 § 12. This act shall take effect immediately.

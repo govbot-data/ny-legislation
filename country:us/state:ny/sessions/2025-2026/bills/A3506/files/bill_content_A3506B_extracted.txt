@@ -1,0 +1,752 @@
+Title: 
+Official Title: 
+Source: versions - A3506B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3506--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 28, 2025
+___________
+Introduced by M. of A. REYES, R. CARROLL, ROSENTHAL, WEPRIN, SIMON,
+FORREST, CRUZ, ANDERSON, CLARK, DINOWITZ, MITAYNES, OTIS, KELLES,
+GALLAGHER, GONZALEZ-ROJAS, SEAWRIGHT, HEVESI, JACOBSON, BURDICK,
+LAVINE, JACKSON, MEEKS, VANEL, WALKER, RAMOS, GLICK, DAVILA, BRONSON,
+TAPIA, PAULIN, LUNSFORD, DE LOS SANTOS, CUNNINGHAM, KIM, RIVERA,
+SHRESTHA, HYNDMAN, RAGA, LEVENBERG, SEPTIMO, ALVAREZ, SHIMSKY, BENE-
+DETTO, ZACCARO, GIBBS, BICHOTTE HERMELYN, LEE, CHANDLER-WATERMAN,
+ROMERO, LASHER, VALDEZ, TAYLOR, BORES, TORRES, SIMONE, BURROUGHS,
+STIRPE, SOLAGES, DAIS, LUPARDO, SCHIAVONI, WRIGHT, McDONALD,
+P. CARROLL, BARRETT, MAGNARELLI, HOOKS, RAJKUMAR, DILAN, LUCAS, HUNT-
+ER, CASHMAN, MORENO, ZINERMAN, POWERS -- read once and referred to the
+Committee on Codes -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- recommitted
+to the Committee on Codes in accordance with Assembly Rule 3, sec. 2
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the criminal procedure law, the executive law, the
+general municipal law, the education law, the correction law and the
+public officers law, in relation to prohibiting and regulating the
+discovery and disclosure of immigration status; and to repeal certain
+provisions of the correction law relating thereto
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 1.20 of the criminal procedure law is amended by
+2 adding five new subdivisions 46, 47, 48, 49 and 50 to read as follows:
+3 46. "Immigration authorities" means any officer, employee, or govern-
+4 ment employee who is responsible for enforcement of the federal Immi-
+5 gration and Nationality Act, including any officer or agent of United
+6 States Immigration and Customs Enforcement or United States Customs and
+7 Border Protection.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05168-07-6
+
+A. 3506--B 2
+1 47. "Immigration enforcement" means the enforcement of any civil
+2 provision of the federal Immigration and Nationality Act or any
+3 provision of law that penalizes a person's presence in, entry into, or
+4 reentry into the United States.
+5 48. "Immigration law" means any civil provision of the federal Immi-
+6 gration and Nationality Act and any provision of law that penalizes a
+7 person's presence in, entry into, or reentry into the United States.
+8 49. "Immigration detainer" means any document, form, or other communi-
+9 cation requesting or directing that a police officer, peace officer, or
+10 government entity detain or maintain custody of an individual, for any
+11 period of time, for pickup by or transfer to immigration authorities.
+12 50. "Civil immigration warrant" means any warrant for a violation of
+13 civil immigration law that is not issued by a judge appointed pursuant
+14 to Article III of the United States constitution or a federal magistrate
+15 judge appointed pursuant to 28 USC § 631, and includes any warrant
+16 entered into the national crime information center database.
+17 § 2. The criminal procedure law is amended by adding a new article 145
+18 to read as follows:
+19 ARTICLE 145
+20 PROCEDURES FOR POLICE OFFICERS, PEACE OFFICERS, AND SCHOOL RESOURCE
+21 OFFICERS PERTAINING TO IMMIGRATION ENFORCEMENT
+22 Section 145.05 Duties of police officers, peace officers, and school
+23 resource officers; immigration.
+24 145.10 Direction by immigration authorities.
+25 145.15 Immigration detainer; questioning, investigation or
+26 interrogation prohibited.
+27 145.20 Inquiry into and collection of information about citi-
+28 zenship or immigration status prohibited.
+29 145.25 Notification of immigration authorities prohibited.
+30 145.30 Transfer of custody to immigration authorities.
+31 145.35 Entry of immigration status into a database.
+32 145.40 Immigration authorities as interpreters prohibited.
+33 145.45 Written consent for interview.
+34 145.50 Receipt of information regarding citizenship.
+35 145.55 Compliance with court orders and judicial warrants.
+36 145.60 Application of laws.
+37 § 145.05 Duties of police officers, peace officers, and school resource
+38 officers; immigration.
+39 The duties and authority of police officers, peace officers, and
+40 school resource officers shall not include authority to engage in immi-
+41 gration enforcement. Police officers, peace officers, and school
+42 resource officers shall not use public resources for immigration
+43 enforcement.
+44 § 145.10 Direction by immigration authorities.
+45 No police officer, peace officer, or school resource officer shall be
+46 subject to the direction or supervision of immigration authorities. No
+47 police officer, peace officer, or school resource officer shall partic-
+48 ipate in or be subject to any agreement for the purpose of immigration
+49 enforcement.
+50 § 145.15 Immigration detainer; questioning, investigation or interro-
+51 gation prohibited.
+52 No police officer, peace officer, or school resource officer shall
+53 question, investigate, or interrogate an individual solely on the basis
+54 of an immigration detainer, a civil immigration warrant, or an actual or
+55 suspected violation of immigration law.
+
+A. 3506--B 3
+1 § 145.20 Inquiry into and collection of information about citizenship or
+2 immigration status prohibited.
+3 1. No police officer, peace officer, or school resource officer shall
+4 inquire about a person's citizenship, immigration status, nationality,
+5 or country of origin, unless required by law or necessary to administer
+6 a public program or benefit sought by that person.
+7 2. No police officer, peace officer, or school resource officer shall
+8 collect information regarding citizenship, immigration status, national-
+9 ity, or country of origin, unless required by law or necessary to admin-
+10 ister a public program or benefit sought by that person.
+11 § 145.25 Notification of immigration authorities prohibited.
+12 No police officer, peace officer, or school resource officer shall
+13 notify or otherwise communicate with immigration authorities regarding:
+14 (i) the date, time, or location that an individual will be released from
+15 custody; (ii) the time, date, or location of an individual's court
+16 appearance; or (iii) any other information available to police officers,
+17 peace officers, or school resource officers through or as a result of
+18 such employment as a police officer, peace officer, or school resource
+19 officer.
+20 § 145.30 Transfer of custody to immigration authorities.
+21 No police officer, peace officer, or school resource officer shall
+22 transfer or facilitate the transfer of individuals in their custody to
+23 the custody of immigration authorities absent a valid court order or
+24 judicial warrant issued by an independent judge appointed pursuant to
+25 Article III of the United States constitution or federal magistrate
+26 judge appointed pursuant to 28 USC § 631 commanding the arrest of such
+27 individual.
+28 § 145.35 Entry of immigration status into a database.
+29 No police officer, peace officer, or school resource officer shall
+30 enter a person's immigration status into any database maintained by any
+31 government entity unless required or necessary to administer a public
+32 program or benefit sought by such person.
+33 § 145.40 Immigration authorities as interpreters prohibited.
+34 No police officer, peace officer, or school resource officer shall use
+35 immigration authorities as interpreters for law enforcement matters
+36 relating to individuals being interviewed, interrogated, investigated,
+37 or taken into custody.
+38 § 145.45 Written consent for interview.
+39 1. In any instance in which immigration authorities are permitted
+40 access to an individual in the custody of a police officer, peace offi-
+41 cer, or school resource officer for the purpose of being interviewed,
+42 the officer shall provide the individual with a written consent form
+43 that explains the purpose of the interview, that the interview is volun-
+44 tary, and that they may decline to be interviewed or may choose to be
+45 interviewed with their attorney present. The written consent form shall
+46 be provided in English, Spanish, and the five most widely spoken
+47 languages in the county where the officer's agency or department is
+48 located.
+49 2. After providing an individual in custody with a written consent
+50 form pursuant to subdivision one of this section, an officer shall keep
+51 a written record of whether the individual declined an interview,
+52 consented to an interview, or asked for an attorney to be present at the
+53 interview, and whether an interview occurred. The office or agency
+54 employing such officer shall maintain all such written records and shall
+55 compile an annual summary identifying the number of requests for inter-
+56 views received and whether each individual declined the interview,
+
+A. 3506--B 4
+1 consented to the interview, or asked for an attorney to be present at
+2 the interview, and how many interviews occurred. Such summary shall not
+3 include the personally identifiable information of any individual in
+4 custody, and shall be a public record.
+5 § 145.50 Receipt of information regarding citizenship.
+6 The provisions of this article shall not prohibit police officers,
+7 peace officers, or school resource officers from sending or receiving
+8 information regarding an individual's citizenship or immigration status
+9 to or from any local, state, or federal agency.
+10 § 145.55 Compliance with court orders and judicial warrants.
+11 The provisions of this article shall not prohibit officers from
+12 complying with valid court orders or judicial warrants issued by an
+13 independent judge appointed pursuant to Article III of the United States
+14 constitution or federal magistrate judge appointed pursuant to 28 USC §
+15 631.
+16 § 145.60 Application of laws.
+17 The provisions of this article shall apply notwithstanding any other
+18 provisions of state or local law and shall not be construed to in any
+19 way expand the authority of state and local law enforcement officers to
+20 participate in immigration enforcement.
+21 § 3. The executive law is amended by adding a new section 256-b to
+22 read as follows:
+23 § 256-b. Duties of local probation departments regarding immigration
+24 enforcement. 1. For the purposes of this section, the terms "immi-
+25 gration authorities", "immigration enforcement", "immigration law",
+26 "immigration detainer" and "civil immigration warrant" shall have the
+27 same meaning as defined in section 1.20 of the criminal procedure law.
+28 2. No probation agency or department, nor any employee thereof, shall
+29 inquire about a person's citizenship, immigration status, nationality,
+30 or country of origin, unless required by law or necessary to administer
+31 a public program or benefit sought by such person.
+32 3. No probation agency or department, nor any employee thereof, shall
+33 communicate with immigration authorities regarding a person presently or
+34 formerly under the supervision of such agency or department or disclose
+35 to immigration authorities information gained in the course of employ-
+36 ment or available as a result of employment with such agency or depart-
+37 ment.
+38 4. No probation agency or department, nor any employee thereof, shall
+39 collect information about a person's citizenship, immigration status,
+40 nationality, or country of origin, unless required by law or necessary
+41 to administer a public program or benefit sought by such person.
+42 5. No probation agency or department, nor any employee thereof, shall
+43 question, investigate, or interrogate an individual solely on the basis
+44 of an immigration detainer, a civil immigration warrant, or an actual or
+45 suspected violation of immigration law.
+46 6. No probation agency or department, nor any employee thereof, shall
+47 permit non-local civil law enforcement agencies to access non-public
+48 areas of property or facilities under the control of such agency or
+49 department unless presented with a judicial warrant signed by a judge or
+50 independent magistrate authorizing a search or seeking the arrest of an
+51 individual present at the time the judicial warrant is presented.
+52 7. In any instance in which immigration authorities are permitted
+53 access to an individual under the supervision of a probation agency or
+54 department for the purpose of being interviewed, the probation agency or
+55 department shall provide the individual with a written consent form that
+56 explains the purpose of the interview, that the interview is voluntary,
+
+A. 3506--B 5
+1 and that they may decline to be interviewed or may choose to be inter-
+2 viewed with their attorney present. The written consent form shall be
+3 provided in English, Spanish, and the five most widely spoken languages
+4 in the county where the officer's agency or department is located.
+5 8. No probation agency or department, nor any employee thereof, shall
+6 enter a person's immigration status into any database maintained by any
+7 government entity unless required or necessary to administer a public
+8 program or benefit sought by such person.
+9 9. No probation agency or department, nor any employee thereof, shall
+10 investigate a person's immigration status or immigration history.
+11 10. No probation agency or department, nor any employee thereof, shall
+12 include a person's immigration status or immigration history in court-
+13 ordered reports.
+14 11. No probation agency or department, nor any employee thereof, shall
+15 use immigration authorities as interpreters for law enforcement matters
+16 relating to individuals under the supervision of such agency or depart-
+17 ment.
+18 12. The provisions of this section shall not prohibit employees of
+19 probation agencies or departments from sending or receiving information
+20 regarding an individual's citizenship or immigration status to or from
+21 any local, state, or federal agency.
+22 13. The provisions of this section shall not prohibit probation
+23 departments or their employees from complying with valid court orders or
+24 judicial warrants issued by an independent judge appointed pursuant to
+25 Article III of the United States constitution or federal magistrate
+26 judge appointed pursuant to 28 USC § 631.
+27 14. The provisions of this section shall apply notwithstanding any
+28 other provisions of state or local law and shall not be construed to in
+29 any way expand the authority of state and local law enforcement officers
+30 to participate in immigration enforcement.
+31 § 4. The executive law is amended by adding a new article 15-AA to
+32 read as follows:
+33 ARTICLE 15-AA
+34 RESTRICTIONS ON IMMIGRATION ENFORCEMENT BY STATE EMPLOYEES
+35 Section 319. Definitions.
+36 319-a. Restrictions on immigration enforcement by state employ-
+37 ees.
+38 § 319. Definitions. As used in this article, the following terms shall
+39 have the following meanings:
+40 1. "State entity" means: any agency under the executive authority of
+41 the governor; any agency for which the governor appoints the commission-
+42 er or highest ranking employee; any public benefit corporation, public
+43 authority, board, or commission for which the governor appoints the
+44 chief executive or a majority of the board members; any division,
+45 department, or office regulated under this chapter; the department of
+46 education and any public school district or charter school, division,
+47 office, or institution under the supervision of the department of educa-
+48 tion; all offices defined in article one of the public officers law; the
+49 department of civil service or any of its civil divisions as defined in
+50 article one of the civil service law; and any contractor while perform-
+51 ing services on behalf of the state.
+52 2. "State employee" means any individual employed by: any agency under
+53 the executive authority of the governor; any agency for which the gover-
+54 nor appoints the commissioner or highest ranking employee; any public
+55 benefit corporation, public authority, board, or commission for which
+56 the governor appoints the chief executive or a majority of the board
+
+A. 3506--B 6
+1 members; any division, department, or office regulated under this chap-
+2 ter; the department of education and any public school district or char-
+3 ter school, division, office, or institution under the supervision of
+4 the department of education; all offices defined in article one of the
+5 public officers law; the department of civil service or any of its civil
+6 divisions as defined in article one of the civil service law; or any
+7 contractor while performing services on behalf of the state.
+8 3. For the purposes of this section, the terms "immigration authori-
+9 ties", "immigration enforcement", "immigration law", "immigration
+10 detainer" and "civil immigration warrant" shall have the same meaning as
+11 defined in section 1.20 of the criminal procedure law.
+12 § 319-a. Restrictions on immigration enforcement by state employees.
+13 1. No state employee shall use state resources, including but not limit-
+14 ed to time spent while on duty or any state property, for immigration
+15 enforcement purposes.
+16 2. No state entity or state employee shall disclose to immigration
+17 authorities an individual's personally identifiable information, includ-
+18 ing, but not limited to, a person's name, social security number, phys-
+19 ical description, home address, telephone number, financial information,
+20 medical information, place of employment or education.
+21 3. No state entity or state employee shall inquire about a person's
+22 citizenship, immigration status, nationality, or country of origin,
+23 unless required by law or necessary to administer a public program or
+24 benefit sought by that person.
+25 4. No state entity or state employee shall collect information about a
+26 person's citizenship, immigration status, nationality, or country of
+27 origin, unless required by law or necessary to administer a public
+28 program or benefit sought by such person.
+29 5. No state entity or state employee shall question, investigate, or
+30 interrogate an individual solely on the basis of an immigration detain-
+31 er, a civil immigration warrant, or an actual or suspected violation of
+32 immigration law.
+33 6. No state entity or state employee shall permit non-local civil law
+34 enforcement agencies to access non-public areas of property or facili-
+35 ties owned by or under the control of the state unless presented with a
+36 judicial warrant signed by a judge or independent magistrate authorizing
+37 a search or seeking the arrest of an individual present at the time the
+38 judicial warrant is presented.
+39 7. No state entity or state employee shall enter a person's immi-
+40 gration status into any database maintained by any state entity unless
+41 required or necessary to administer a public program or benefit sought
+42 by that person.
+43 8. No state entity or state employee shall use immigration authorities
+44 as interpreters for law enforcement matters relating to individuals such
+45 entities or employees interact with as part of their employment duties.
+46 9. All requests for assistance made by immigration authorities to
+47 state entities or state employees acting in the course of their duties
+48 and all other communications between state employees and immigration
+49 authorities shall be recorded. Each state entity whose employees are
+50 subject to this section shall issue an annual report listing the number
+51 of such requests or communications and stating the content and outcome
+52 of each request or communication, which shall be promptly delivered to
+53 the office of the attorney general and which shall be a public record.
+54 10. This section shall not prohibit state employees from sending or
+55 receiving information regarding an individual's citizenship or immi-
+56 gration status to or from any local, state, or federal agency.
+
+A. 3506--B 7
+1 11. The provisions of this article shall not prohibit state employees
+2 from complying with valid court orders or judicial warrants issued by an
+3 independent judge appointed pursuant to Article III of the United States
+4 constitution or federal magistrate judge appointed pursuant to 28 USC §
+5 631.
+6 12. The provisions of this article shall apply notwithstanding any
+7 other provisions of state or local law and shall not be construed to in
+8 any way expand the authority of state employees to participate in immi-
+9 gration enforcement.
+10 § 5. The general municipal law is amended by adding a new article 19-D
+11 to read as follows:
+12 ARTICLE 19-D
+13 DUTIES OF MUNICIPAL CORPORATIONS AND THEIR EMPLOYEES PERTAINING
+14 TO IMMIGRATION ENFORCEMENT
+15 Section 996. Restriction on use of local resources for immigration
+16 enforcement.
+17 § 996. Restriction on use of local resources for immigration enforce-
+18 ment. (a) For the purposes of this section, the terms "immigration
+19 authorities", "immigration enforcement", "immigration law", "immigration
+20 detainer" and "civil immigration warrant" shall have the same meaning as
+21 defined in section 1.20 of the criminal procedure law.
+22 (b) No resources of any municipal corporation shall be utilized for
+23 immigration enforcement. For the purposes of this subdivision, resources
+24 of a municipal corporation shall include, but not be limited to, time
+25 spent by the municipal corporation's employees, officers, contractors,
+26 or subcontractors while on duty and the use of any municipal corpo-
+27 ration's property.
+28 (c) No municipal corporation, nor any employee thereof, shall disclose
+29 to immigration authorities an individual's personally identifiable
+30 information, including but not limited to such person's name, social
+31 security number, physical description, any associated addresses, tele-
+32 phone number, financial information, medical information, or place of
+33 employment or education.
+34 (d) No municipal corporation, nor any employee thereof, shall ques-
+35 tion, investigate, or interrogate an individual on the basis of an immi-
+36 gration detainer, a civil immigration warrant, or an actual or suspected
+37 violation of immigration law.
+38 (e) No municipal corporation, nor any employee thereof, shall inquire
+39 about a person's citizenship, immigration status, nationality, or coun-
+40 try of origin, unless required by law or necessary to administer a
+41 public program or benefit sought by such person.
+42 (f) No municipal corporation nor any employee thereof, shall collect
+43 information about a person's citizenship, immigration status, nationali-
+44 ty, or country of origin, unless required by law or necessary to admin-
+45 ister a public program or benefit sought by such person.
+46 (g) No municipal corporation, nor any employee thereof, shall enter a
+47 person's immigration status into any database maintained by any munici-
+48 pal corporation unless required or necessary to administer a public
+49 program or benefit sought by such person.
+50 (h) No municipal corporation, nor any employee thereof, shall permit
+51 non-local civil law enforcement agencies to access non-public areas of
+52 property or facilities under the control of such municipal corporation
+53 unless presented with a judicial warrant signed by a judge or independ-
+54 ent magistrate authorizing a search or seeking the arrest of an individ-
+55 ual present at the time the judicial warrant is presented.
+
+A. 3506--B 8
+1 (i) No municipal corporation, nor any employee thereof, shall use
+2 immigration authorities as interpreters for law enforcement matters
+3 relating to individuals such corporation or employees interact with as
+4 part of their employment duties.
+5 (j) All requests for assistance made by immigration authorities to law
+6 enforcement agencies within a municipal corporation and all other commu-
+7 nications between law enforcement officers within a municipal corpo-
+8 ration and immigration authorities shall be recorded. Each municipal
+9 corporation shall issue an annual report listing the number of such
+10 requests or communications and stating the content and outcome of each
+11 request or communication, which shall be promptly delivered to the
+12 office of the attorney general and which shall be a public record.
+13 (k) This section shall not prohibit municipal employees from sending
+14 or receiving information regarding an individual's citizenship or immi-
+15 gration status to or from any local, state, or federal agency.
+16 (l) The provisions of this article shall not prohibit municipal corpo-
+17 rations or their employees from complying with valid court orders or
+18 judicial warrants issued by an independent judge appointed pursuant to
+19 Article III of the United States constitution or federal magistrate
+20 judge appointed pursuant to 28 USC § 631, or from complying with valid
+21 writs of habeas corpus ad prosequendum or habeas corpus ad testificandum
+22 issued by a state court with the authority to do so pursuant to sections
+23 580.30 and 650.30 of the criminal procedure law upon application by a
+24 district attorney.
+25 (m) The provisions of this article shall apply notwithstanding any
+26 other provisions of state or local law and shall not be construed to in
+27 any way expand the authority of state and local employees to participate
+28 in immigration enforcement.
+29 § 6. The education law is amended by adding a new article 25 to read
+30 as follows:
+31 ARTICLE 25
+32 DUTIES OF EDUCATIONAL AGENCIES AND THEIR EMPLOYEES AND
+33 CONTRACTORS PERTAINING TO IMMIGRATION ENFORCEMENT
+34 Section 1300. Definitions.
+35 1301. Restriction on collection and disclosure of student data.
+36 1302. Duties of educational agencies and their employees
+37 pertaining to immigration enforcement.
+38 § 1300. Definitions. As used in this article the following terms shall
+39 have the following meanings:
+40 1. "Educational agency" shall have the same definition as in section
+41 two-d of this title and shall also include charter schools subject to
+42 the provisions of article fifty-six of this chapter.
+43 2. "School" shall have the same definition as in section two-d of this
+44 title and shall also include charter schools subject to the provisions
+45 of article fifty-six of this chapter.
+46 3. "Higher education agency" shall mean any college, university, or
+47 postsecondary educational institution within the state university of New
+48 York, city university of New York, and its affiliate senior and communi-
+49 ty colleges, or other institutions receiving state financial assistance
+50 or with tuition assistance program eligible students.
+51 4. "School employee" means any individual employed by an educational
+52 agency.
+53 5. "School safety personnel" means any law enforcement officer or
+54 public or private security personnel, including school resource offi-
+55 cers, employed, contracted, or otherwise retained by an educational
+56 agency.
+
+A. 3506--B 9
+1 6. "Third-party contractor" shall have the same definition as in
+2 section two-d of this title.
+3 7. "Directory information", as applied to student data, means directo-
+4 ry information as defined in section 99.3 of title thirty-four of the
+5 code of federal regulations implementing the family educational rights
+6 and privacy act, section twelve hundred thirty-two-g of title twenty of
+7 the United States code.
+8 8. "Personally identifiable information". as applied to student data,
+9 shall have the same definition as in section two-d of this title.
+10 9. "School property" shall mean school property as defined in section
+11 twenty-eight hundred one of this chapter.
+12 10. "Campus property" shall mean all buildings, structures, facili-
+13 ties, and grounds owned, leased, or operated by a higher education agen-
+14 cy institution, including but not limited to classrooms, administrative
+15 offices, libraries, laboratories, student centers, athletic facilities,
+16 parking areas, and any dormitory, residence hall, apartment, or other
+17 student housing facility owned, leased, or operated by the institution,
+18 whether located on or off campus and accessible only by students, facul-
+19 ty, staff, and personnel employed by the higher education agency.
+20 11. For the purposes of this section, the terms "immigration authori-
+21 ties" or "immigration enforcement" shall have the same meaning as
+22 defined in section 1.20 of the criminal procedure law.
+23 § 1301. Restriction on collection and disclosure of student data. 1.
+24 (a) No educational agency, higher education agency, school employee,
+25 school safety personnel, or third-party contractor shall collect infor-
+26 mation about a person's citizenship, immigration status, nationality, or
+27 country of origin, unless required by law or necessary to administer a
+28 public program or benefit sought by such person.
+29 (b) Within one hundred eighty days of the effective date of this
+30 section, all educational agencies shall review their directory informa-
+31 tion policies to ensure that they do not include information that may
+32 inadvertently disclose a student or parent's immigration status, includ-
+33 ing place of birth, nationality, or passport information, and make any
+34 necessary changes to comply with the provisions of this subdivision.
+35 (c) Within one hundred eighty days of the effective date of this
+36 section, all educational agencies shall review their current data
+37 collection practices to determine whether any information collected by
+38 the district could unnecessarily disclose a student or parent's immi-
+39 gration status and whether collection of the information is required.
+40 2. (a) No educational agency, higher education agency, school employ-
+41 ee, school safety personnel, or third-party contractor shall disclose
+42 either a student's personally identifiable information or information
+43 that either reveals or would tend to reveal a student's immigration
+44 status, including but not limited to, nationality or place of birth, to
+45 immigration authorities.
+46 (b) In the event that immigration authorities request a student's
+47 personally identifiable information, the educational agency shall imme-
+48 diately notify the student's parents or guardians.
+49 (c) All educational agencies shall develop a protocol in the event
+50 that immigration authorities request student data.
+51 (d) All higher education agencies shall develop a protocol in the
+52 event that immigration authorities request student data, including a
+53 student's residential or campus dormitory information.
+54 3. All requests for student data made by immigration authorities to
+55 educational agencies, higher education agencies, school employees,
+56 school safety personnel, or third-party contractors shall be recorded.
+
+A. 3506--B 10
+1 Each educational agency and higher education agency whose employees are
+2 subject to this section shall issue an annual report listing the number
+3 of such requests or communication, which shall be promptly delivered to
+4 the office of the attorney general and the chief privacy officer
+5 appointed pursuant to subdivision two of section two-d of this title.
+6 This annual report shall be a public record.
+7 4. This section shall not prohibit educational agency employees, high-
+8 er educational agency employees, school employees, school safety person-
+9 nel, or third-party contractors from sending or receiving information
+10 regarding an individual's citizenship or immigration status to or from
+11 any local, state, or federal agency.
+12 5. The provisions of this article shall not prohibit educational agen-
+13 cy employees, higher education agency employees, school employees,
+14 school safety personnel, or third-party contractors from complying with
+15 valid court orders or judicial warrants issued by an independent judge
+16 appointed pursuant to article III of the United States constitution or
+17 federal magistrate judge appointed pursuant to 28 USC § 631.
+18 6. Within one hundred eighty days of the effective date of this
+19 section, the commissioner, in consultation with the chief privacy offi-
+20 cer, shall promulgate regulations to enforce this section and develop
+21 one or more model policies for use by educational agencies and higher
+22 education agencies. Such regulations shall include guidelines on devel-
+23 oping a protocol in the event that immigration authorities request a
+24 student's personally identifiable information, training requirements for
+25 higher education agency employees, school employees and school safety
+26 personnel, and any additional requirements for third-party contractors.
+27 Following promulgation of such regulations, each educational agency
+28 shall update its existing data security and privacy policy to ensure
+29 that it is consistent with state and federal law.
+30 7. (a) For the purposes of this section, the duties, protections, and
+31 prohibitions set forth herein shall also apply to institutions of higher
+32 education, including the city university of New York and the state
+33 university of New York. Such institutions shall be deemed educational
+34 agencies under the general supervision of the board of regents and the
+35 commissioner.
+36 (b) No provision in this section shall be construed to diminish or
+37 impair the independent governance authority of the boards of trustees of
+38 the city university of New York or the state university of New York.
+39 (c) The obligations described in this section shall further extend to
+40 all property owned, leased, or operated by such institutions, including
+41 dormitories, residential facilities, and other campus-affiliated or
+42 campus-adjacent areas under their jurisdiction.
+43 § 1302. Duties of educational agencies and their employees pertaining
+44 to immigration enforcement. 1. No educational agency, higher education
+45 agency, school employee, school safety personnel, or third-party
+46 contractor shall inquire about a person's citizenship, immigration
+47 status, nationality, or country of origin, unless required by law or
+48 necessary to administer a public program or benefit sought by such
+49 person, including if the information sought is protected by the attor-
+50 ney-client privilege. No such agency, employee, personnel, or contractor
+51 shall investigate an individual regarding their immigration status.
+52 2. (a) No educational agency, higher education school employee, school
+53 safety personnel, or third-party contractor shall permit non-local civil
+54 law enforcement to access non-public areas of school property and campus
+55 property unless presented with a judicial warrant signed by a judge or
+
+A. 3506--B 11
+1 independent magistrate authorizing a search or seeking the arrest of an
+2 individual present at the time the judicial warrant is presented.
+3 (b) In the event that non-local civil law enforcement seek to detain
+4 or interrogate a student, the educational agency or higher education
+5 agency shall immediately notify the student's parents or guardians or
+6 emergency contact.
+7 (c) All educational agencies and higher education agencies shall
+8 develop a protocol in the event that non-local civil law enforcement
+9 seek to access non-public areas of school property or seek to detain or
+10 interrogate a student in the custody of the school district.
+11 3. All requests for assistance made by immigration authorities to
+12 educational agencies, higher education agencies, school employees,
+13 school safety personnel, or third-party contractors acting in the course
+14 of their duties and all other communications between these parties shall
+15 be recorded. Each educational agency and higher education agency shall
+16 issue an annual report listing the number of each request or communi-
+17 cation and stating the content and outcome of each request or communi-
+18 cation, which shall be promptly delivered to the office of the attorney
+19 general and which shall be a public record.
+20 4. The provisions of this article shall not prohibit state employees
+21 from complying with valid court orders or judicial warrants issued by an
+22 independent judge appointed pursuant to Article III of the United States
+23 constitution or federal magistrate judge appointed pursuant to 28 USC §
+24 631.
+25 5. (a) The commissioner shall promulgate regulations to enforce this
+26 section and develop one or more model policies for use by educational
+27 agencies.
+28 (b) Such regulations shall include guidelines on developing a protocol
+29 in the event that immigration authorities seek to access non-public
+30 areas of school property or seek to detain or interrogate a student in
+31 the custody of the school district.
+32 (c) Such regulations shall include training requirements for school
+33 employees and school safety personnel and any additional requirements
+34 for third-party contractors.
+35 (d) Such regulations shall also establish guidelines for incorporating
+36 policies and procedures to safeguard the rights of undocumented students
+37 into educational agencies' contracts or memoranda of understanding with
+38 law enforcement as required by section twenty-eight hundred one-a of
+39 this chapter.
+40 6. Following the promulgation of the regulations established pursuant
+41 to subdivision five of this section, each educational agency shall adopt
+42 a district policy that complies with state law and regulations. If the
+43 educational agency employs, contracts with, or otherwise retains local
+44 law enforcement or public or private security personnel, it shall also
+45 revise its written contract or memorandum of understanding in accordance
+46 with the commissioner's regulations.
+47 7. (a) The duties, protections, and prohibitions set forth in this
+48 section shall also apply to institutions of higher education, including
+49 the city university of New York and the state university of New York.
+50 Such institutions shall be deemed educational agencies under the general
+51 supervision of the board of regents and the commissioner.
+52 (b) No provision in this section shall be construed to diminish or
+53 impair the independent governance authority of the boards of trustees of
+54 the city university of New York or the state university of New York.
+
+A. 3506--B 12
+1 (c) Such boards shall, however, issue guidance to ensure that institu-
+2 tional policies, protocols, and agreements comply with the provisions of
+3 this section and any regulations promulgated pursuant thereto.
+4 (d) The obligations described in this section shall further extend to
+5 all property owned, leased, or operated by such institutions, including
+6 dormitories, residential facilities, and other campus-affiliated or
+7 campus-adjacent areas under their jurisdiction.
+8 § 7. Subdivision 1 of section 3625 of the education law, as amended by
+9 section 11-a of part A of chapter 56 of the laws of 2022, is amended to
+10 read as follows:
+11 1. Form of transportation contracts. Every contract for transportation
+12 of school children shall be in writing or in an electronic form approved
+13 by the commissioner when available, and before such contract is filed
+14 with the department as required by subdivision two of this section, the
+15 same shall be submitted for approval to the superintendent of schools of
+16 said district and such contract shall not be approved and filed by such
+17 superintendent unless [he or she] they shall first investigate the same
+18 with particular reference to the type of conveyance, the character and
+19 ability of the driver, the routes over which the conveyances shall trav-
+20 el, the time schedule, and such other matters as in the judgement of the
+21 superintendent are necessary for the comfort and protection of the chil-
+22 dren while being transported to and from school. Every such contract for
+23 transportation of children shall contain an agreement upon the part of
+24 the contractor that the vehicle shall come to a full stop before cross-
+25 ing the track or tracks of any railroad and before crossing any state
+26 highway. Such contract shall also contain an agreement upon the part of
+27 the contractor that such contractor will comply with the district's
+28 policies regarding communication and coordination with immigration
+29 authorities as required by article twenty-five of this chapter. Failure
+30 to so comply shall be grounds for termination of the contract.
+31 § 8. Section 500-c of the correction law is amended by adding a new
+32 subdivision 4-a to read as follows:
+33 4-a. (a) The chief administrative officer shall not, by formal agree-
+34 ment or otherwise, allow any officer or employee of a county correction-
+35 al facility to be subject to the direction or supervision of immigration
+36 authorities, as defined in section 1.20 of the criminal procedure law.
+37 (b) The chief administrative officer shall ensure that no officer or
+38 employee of a county correctional facility spends time while on duty or
+39 uses correctional facility resources for immigration enforcement, as
+40 defined in section 1.20 of the criminal procedure law.
+41 (c) All requests for assistance made by immigration authorities to
+42 county jails or their officers acting in the course of their duties and
+43 all other communications between corrections personnel and immigration
+44 authorities shall be recorded. The chief administrative officer shall
+45 produce an annual report listing all such requests and communications
+46 and stating the content and outcome of request or communication, which
+47 shall be promptly delivered to the office of the attorney general and
+48 which shall be a public record.
+49 § 9. Section 147 of the correction law is REPEALED.
+50 § 10. Section 500-f of the correction law is REPEALED.
+51 § 11. Section 621 of the correction law is amended by adding a new
+52 subdivision 3 to read as follows:
+53 3. This section shall not be construed to permit any law enforcement
+54 officer or agency of this state or its subdivisions to participate in or
+55 assist with immigration enforcement, as defined in section 1.20 of the
+56 criminal procedure law. All law enforcement officers or agencies
+
+A. 3506--B 13
+1 furnishing information to agencies of other jurisdictions shall obtain
+2 from the recipient agency a certification that such information will not
+3 be used for immigration enforcement.
+4 § 12. The executive law is amended by adding a new section 63-e to
+5 read as follows:
+6 § 63-e. Immigration status reports and databases. 1. The office of the
+7 attorney general shall review all reports provided to it pursuant to
+8 article fifteen-AA of this chapter, article nineteen-D of the general
+9 municipal law, and article twenty of the correction law and shall
+10 prepare an annual summary of such reports, which shall also identify any
+11 alleged omissions or discrepancies in the reported information and any
+12 information that may indicate a violation of state law. Such summary
+13 shall be a public record.
+14 2. The attorney general shall establish a system to solicit and
+15 receive complaints from the public about improper use of resources by
+16 state or local entities or employees for immigration enforcement and
+17 improper sharing of information by state or local entities or employees
+18 with immigration authorities. The attorney general shall investigate all
+19 such complaints to determine whether a violation of state law occurred,
+20 and may bring civil actions against state or local entities or employees
+21 acting in their official capacity in the name of the people of the state
+22 of New York to obtain appropriate equitable or declaratory relief if the
+23 attorney general determines that a violation of state law occurred.
+24 3. For any databases operated by state and local law enforcement agen-
+25 cies, including databases maintained for the agency by private vendors,
+26 the attorney general shall, by the first of January following the effec-
+27 tive date of this section, in consultation with appropriate stakehold-
+28 ers, publish guidance, audit criteria, and training recommendations
+29 aimed at ensuring that such databases are governed in a manner that
+30 limits the availability of information contained therein, to the fullest
+31 extent practicable and consistent with federal and state law, to anyone
+32 or any entity for the purpose of immigration enforcement. All state and
+33 local law enforcement agencies are encouraged to adopt necessary changes
+34 to database governance policies consistent with such guidance.
+35 § 13. Subdivision 1 of section 17 of the public officers law is
+36 amended by adding a new paragraph (aa) to read as follows:
+37 (aa) For purposes of this section, the term "employee" shall include
+38 all current or former employees of the state, the state university of
+39 New York, the city university of New York; all current or former employ-
+40 ees of any county, city, town, village, municipality, special district,
+41 improvement district, community college, public authority, public bene-
+42 fit corporation, board of cooperative educational services (BOCES),
+43 vocational education and extension board, school district enumerated in
+44 section one of chapter five hundred sixty-six of the laws of nineteen
+45 hundred sixty-seven, public school district, participating employer in
+46 the New York state and local retirement system, participating employer
+47 in the New York state teachers' retirement system, participating employ-
+48 er in the New York city employees' retirement system, participating
+49 employer in the New York city police pension fund, participating employ-
+50 er in the New York city fire pension fund, participating employer in the
+51 teachers' retirement system of New York city, and participating employer
+52 in the New York city board of education retirement system, that is
+53 alleged to have criminally or civilly violated any federal, state, or
+54 local law in connection with or resulting from their compliance with
+55 article one hundred forty-five of the criminal procedure law, section
+56 two hundred fifty-six-b of the executive law, article fifteen-AA of the
+
+A. 3506--B 14
+1 executive law, article nineteen-D of the general municipal law, section
+2 five hundred-c of the correction law, subdivision three of section six
+3 hundred twenty-one of the correction law, or section sixty-three-e of
+4 the executive law, within the scope of their employment or duties,
+5 provided that nothing in this section shall be construed to apply to
+6 acts in violation of the provisions of law referenced in this subdivi-
+7 sion.
+8 § 14. This act shall take effect immediately; provided, however, that
+9 the amendments to section 500-c of the correction law made by section
+10 eight of this act shall not affect the repeal of such section and shall
+11 be deemed repealed therewith.

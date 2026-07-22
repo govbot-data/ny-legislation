@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - S2539B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2539--B
+Cal. No. 412
+2025-2026 Regular Sessions
+IN SENATE
+January 21, 2025
+___________
+Introduced by Sen. MYRIE -- read twice and ordered printed, and when
+printed to be committed to the Committee on Consumer Protection --
+recommitted to the Committee on Consumer Protection in accordance with
+Senate Rule 6, sec. 8 -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- reported
+favorably from said committee, ordered to first and second report,
+ordered to a third reading, amended and ordered reprinted, retaining
+its place in the order of third reading
+AN ACT to amend the general business law, in relation to requiring
+retailers to post warning signs of the tracking of customers through
+electronic devices that track, monitor, and collect biometric informa-
+tion on customers
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new section
+2 390-f to read as follows:
+3 § 390-f. Posting of warning signs by retailers tracking customers
+4 through electronic devices and collecting biometric information of
+5 customers. 1. Any retailer that tracks a customer by use of the custom-
+6 er's cell phone, a store-installed camera or any other electronic device
+7 while the customer is in their establishment shall conspicuously post a
+8 warning sign at each entrance indicating that such retailer performs
+9 such tracking. Such warning sign shall be written in plain language and
+10 also provide information for customers who wish to opt out of the track-
+11 ing and collection of data, if applicable.
+12 2. (a) Any retailer that collects, retains, converts, stores or shares
+13 biometric information of customers shall conspicuously post a warning
+14 sign at each entrance indicating that such retailer collects biometric
+15 information. Such warning sign shall be written in plain language and
+16 describe the type of biometric information being collected and how such
+17 information is used by the retailer. Such warning sign shall also
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD03977-06-6
+
+S. 2539--B 2
+1 provide information for customers who wish to opt out of the collection
+2 of biometric information, if applicable.
+3 (b) It shall be unlawful for a retailer to sell, lease, trade, share
+4 in exchange for anything of value or otherwise profit from the trans-
+5 action of biometric information.
+6 3. The warning signs described by subdivisions one and two of this
+7 section may be posted together as one warning sign at each entrance of
+8 the establishment so long as the requirements set out in subdivisions
+9 one and two of this section are met.
+10 4. Any retailer that violates this section shall be subject to a civil
+11 penalty of not more than one hundred dollars for the first violation,
+12 not more than two hundred fifty dollars for the second violation, and
+13 not more than five hundred dollars for each violation thereafter. The
+14 provisions of subdivision one of this section may be enforced concur-
+15 rently by the director of a municipal consumer affairs office, or by the
+16 town attorney, city corporation counsel, or other lawful designee of a
+17 municipality or local government, and all moneys collected thereunder
+18 shall be retained by such municipality or local government.
+19 5. The provisions of this section shall not apply to cameras and other
+20 technology solely intended for video surveillance to ensure the security
+21 of a store.
+22 6. For purposes of this section, the following terms shall have the
+23 following meanings:
+24 (a) "Electronic device" shall mean any cell phone as defined by para-
+25 graph (b) of this subdivision, personal digital assistant, handheld
+26 device with mobile data access, laptop computer, pager, broadband
+27 personal communication device, two-way messaging device, electronic
+28 game, or portable computing device, or any other electronic device when
+29 used to input, write, send, receive, or read text for present or future
+30 communication.
+31 (b) "Cell phone" shall mean the device used by subscribers and other
+32 users of wireless telephone service to access such service.
+33 (c) "Wireless telephone service" shall mean any two-way real time
+34 voice telecommunications service that is interconnected to a public
+35 switched telephone network and is provided by a commercial mobile radio
+36 service.
+37 (d) "Biometric information" means any measurable physical, physiolog-
+38 ical or behavioral characteristic that is attributable to a person,
+39 including, but not limited to facial characteristics, fingerprint char-
+40 acteristics, hand characteristics, eye characteristics, vocal charac-
+41 teristics, and any other characteristics that can be used to identify a
+42 person including, but not limited to: fingerprints; handprints; retina
+43 and iris patterns; DNA sequence; voice; gait; and facial geometry.
+44 § 2. This act shall take effect on the ninetieth day after it shall
+45 have become a law.

@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - S9097A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9097--A
+Cal. No. 685
+IN SENATE
+February 3, 2026
+___________
+Introduced by Sen. MAY -- read twice and ordered printed, and when
+printed to be committed to the Committee on Internet and Technology --
+reported favorably from said committee, ordered to first and second
+report, ordered to a third reading, amended and ordered reprinted,
+retaining its place in the order of third reading
+AN ACT to amend the general business law, in relation to banned members
+of social referral services
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Paragraph (d) of subdivision 1 of section 394-c of the
+2 general business law, as amended by chapter 13 of the laws of 2025, is
+3 amended and two new paragraphs (h) and (i) are added to read as follows:
+4 (d) "banned member" shall mean the member whose account or profile is
+5 the subject of a fraud ban or content ban.
+6 (h) "content ban" shall mean when a member's account or profile is
+7 barred from an online dating service because, in the judgment of such
+8 online dating service, such member was found to have engaged in or is
+9 substantially likely to have engaged in conduct or share content that
+10 violates law, breaches such online dating service's terms or policies,
+11 or poses a significant risk of harm to users on such online dating
+12 service's platform.
+13 (i) "contract and customer service records" shall include the contract
+14 between a user of a social referral service's platform and such social
+15 referral service, including any contract amendments or ancillary agree-
+16 ments, evidence of such user's acceptance of such contract's terms, such
+17 user's name and contact information, and any notices provided by either
+18 such party including, but not limited to, notices of cancellation,
+19 consent, or withdrawal of consent, customer service records, and/or
+20 purchase and billing records, except that such records shall exclude any
+21 sensitive payment information.
+22 § 2. Subdivision 6 of section 394-c of the general business law, as
+23 amended by chapter 13 of the laws of 2025, is amended to read as
+24 follows:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13219-05-6
+
+S. 9097--A 2
+1 6. (a) Every contract for social referral service shall provide that
+2 at the expiration of the contract or at the expiration of services
+3 rendered by the seller, for any reason, all information and material of
+4 a personal or private nature acquired from a purchaser directly or indi-
+5 rectly including but not limited to answers to tests and questionnaires,
+6 photographs or background information shall be [promptly] returned by
+7 the seller to the purchaser by certified mail or destroyed and deleted
+8 from any electronic storage devices within thirty days, with certif-
+9 ication of destruction or deletion promptly provided to the purchaser
+10 upon request, unless the retention of such information and material is
+11 required [(a)]:
+12 (i) by federal, state, or local laws, rules or regulations [or (b)];
+13 (ii) to comply with a judicial court order; or
+14 (iii) by such social referral service to maintain enforcement of a
+15 fraud ban or content ban.
+16 (b) Information and material retained to effectuate and enforce a
+17 fraud ban or content ban pursuant to subparagraph (iii) of paragraph (a)
+18 of this subdivision shall not be used for any other purpose except for
+19 identifying the purchaser in order to effectuate and enforce such fraud
+20 ban or content ban. Such information and material retained for such
+21 purpose shall be limited to the information and material collected by
+22 the social referral service in order for the purchaser to create an
+23 account and profile. A social referral service may retain contract and
+24 customer service records for a period not to exceed six years, or for a
+25 period for which a purchaser may be authorized to bring action under
+26 section two hundred thirteen of the civil practice law and rules, which-
+27 ever is longer.
+28 § 3. The opening paragraph of paragraph (a) of subdivision 10 of
+29 section 394-c of the general business law, as amended by chapter 13 of
+30 the laws of 2025, is amended to read as follows:
+31 An online dating service shall disclose to all of its New York members
+32 known to have previously received and responded to an on-site message
+33 from a banned member subject to a fraud ban:
+34 § 4. This act shall take effect immediately.

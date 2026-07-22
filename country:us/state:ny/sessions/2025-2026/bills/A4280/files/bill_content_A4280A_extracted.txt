@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - A4280A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4280--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+February 3, 2025
+___________
+Introduced by M. of A. BORES -- read once and referred to the Committee
+on Racing and Wagering -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the racing, pari-mutuel wagering and breeding law, in
+relation to requiring mobile sports wagering operators to establish
+default betting limits on their platforms and to notify authorized
+sports bettors of their ability to opt-out of the default betting
+limits
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "choice in responsible gaming act".
+3 § 2. The racing, pari-mutuel wagering and breeding law is amended by
+4 adding a new section 1367-b to read as follows:
+5 § 1367-b. Mobile sports wagering; default betting limits. 1. For the
+6 purposes of this section, "default betting limit" shall mean a defined,
+7 maximum monetary amount that an authorized sports bettor may wager
+8 through a mobile sports wagering platform over a defined period of time.
+9 2. All mobile sports wagering operators shall implement default
+10 betting limits on their mobile sports wagering platforms. The default
+11 betting limit shall be determined by the commission prior to the effec-
+12 tive date of this section and shall be based on the best practices to
+13 encourage responsible gambling.
+14 3. When an authorized sports bettor registers for a mobile sports
+15 wagering operator's platform, such authorized sport bettor shall be
+16 opted-in to the default betting limit. Authorized sports bettors who are
+17 already registered for the mobile sports wagering platform prior to the
+18 effective date of this section shall also be opted-in to the default
+19 betting limit. All authorized sports bettors shall have the option to
+20 opt-out of the default betting limit.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08417-03-5
+
+A. 4280--A 2
+1 4. The mobile sports wagering operator or platform shall notify
+2 authorized sports bettors of the existence of the default betting limit
+3 and the option to opt-out at the time of registration. For authorized
+4 sports bettors already registered for the mobile sports wagering plat-
+5 form prior to the effective date of this section, such authorized sports
+6 bettors shall be notified that they have been opted-in to the default
+7 betting limit and that they have the option to opt-out.
+8 § 3. Paragraph b of subdivision 16 of section 1367 of the racing,
+9 pari-mutuel wagering and breeding law, as added by section 3 of part Y
+10 of chapter 59 of the laws of 2021, is amended to read as follows:
+11 (b) Any person, firm, corporation, association, agent, or employee who
+12 knowingly violates any procedure implemented under this section, [or]
+13 section thirteen hundred sixty-seven-a of this title, or section thir-
+14 teen hundred sixty-seven-b of this title, shall be liable for a civil
+15 penalty as described in section one hundred sixteen of this chapter
+16 which shall accrue to the state and may be recovered in a civil action
+17 brought by the commission.
+18 § 4. The opening paragraph of subdivision 1 of section 1367 of the
+19 racing, pari-mutuel wagering and breeding law, as amended by section 3
+20 of part Y of chapter 59 of the laws of 2021, is amended to read as
+21 follows:
+22 As used in this section [and in], section thirteen hundred sixty-sev-
+23 en-a and section thirteen hundred sixty-seven-b of this title:
+24 § 5. This act shall take effect on the one hundred eightieth day after
+25 it shall have become a law. Effective immediately, the addition, amend-
+26 ment and/or repeal of any rule or regulation necessary for the implemen-
+27 tation of this act on its effective date are authorized to be made and
+28 completed on or before such effective date.
