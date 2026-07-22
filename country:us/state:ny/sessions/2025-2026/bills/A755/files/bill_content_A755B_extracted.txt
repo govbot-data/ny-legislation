@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - A755B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+755--B
+Cal. No. 30
+2025-2026 Regular Sessions
+IN ASSEMBLY
+(Prefiled)
+January 8, 2025
+___________
+Introduced by M. of A. PAULIN, SAYEGH, ROSENTHAL, SIMONE, OTIS, SANTA-
+BARBARA -- read once and referred to the Committee on Health --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee -- ordered to a third reading, amended
+and ordered reprinted, retaining its place on the order of third read-
+ing
+AN ACT to amend the public health law, in relation to requiring the
+department of health examine heat vulnerability and heat-related
+deaths
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public health law is amended by adding a new section
+2 212 to read as follows:
+3 § 212. Heat vulnerability and heat-related deaths. 1. For the purposes
+4 of this section, the following terms shall have the following meanings:
+5 (a) "Heat-exacerbated death" means a death caused by natural causes
+6 estimated by the department to have resulted from an existing health
+7 condition exacerbated by extreme, or near extreme, heat.
+8 (i) Such estimation shall be determined using one or more statistical
+9 models by the department.
+10 (ii) At least one such model used by the department shall utilize
+11 sensitive statistical methods that assess daily temperature as a contin-
+12 uous variable in relation to daily mortality to estimate heat-exacerbat-
+13 ed deaths, without the use of a qualifying temperature threshold.
+14 (iii) One such model shall utilize sensitive statistical methods that
+15 assess daily temperature as a continuous variable in relation to daily
+16 mortality to estimate heat-exacerbated deaths, without the use of a
+17 qualifying temperature threshold.
+18 (b) "Heat stress death" means a death directly attributed to heat on a
+19 death certificate, or with an underlying or contributing cause of (i)
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00862-05-6
+
+A. 755--B 2
+1 excessive natural heat or (ii) the effects of heat and light, as such
+2 conditions are defined in the most recent edition of the International
+3 Classification of Diseases, published by the World Health Organization.
+4 (c) "Heat vulnerability" means the estimated risk of heat stress
+5 deaths and heat exacerbated deaths occurring in a geographical area
+6 based on social and environmental factors identified by the department.
+7 2. The department shall issue an annual report examining heat vulner-
+8 ability and heat-related deaths in the state. Such report shall include
+9 but not be limited to:
+10 (a) the number of heat stress deaths in the most recent year avail-
+11 able;
+12 (b) the estimation of past heat-exacerbated deaths based on the most
+13 recent available years of data and the smallest interval of time that
+14 yields a reliable estimate;
+15 (c) a description of the relative heat vulnerability of each New York
+16 county;
+17 (d) a description of reported data;
+18 (e) a description of social and environmental factors assessed by the
+19 department to determine heat vulnerability;
+20 (f) a description of methods used to derive heat vulnerability and
+21 estimate heat-exacerbated deaths; and
+22 (g) the aggregate demographic information of heat stress deaths,
+23 including, but not limited to, the age, gender, county and the race or
+24 ethnicity of the decedents.
+25 3. No report required by this section shall contain personal identify-
+26 ing information.
+27 4. The commissioner shall promulgate rules and regulations as may be
+28 necessary to implement the provisions of this section.
+29 5. The commissioner may enter into an agreement with the city of New
+30 York whereby the city department of health and mental hygiene provides
+31 to the state department of health any data and analysis related to such
+32 report.
+33 6. Such report shall be submitted to the temporary president of the
+34 senate, the speaker of the assembly and the governor no later than June
+35 fifteenth, two thousand twenty-seven and annually thereafter. Such
+36 report shall be conspicuously posted on the department's website.
+37 7. Nothing in this section shall prevent the city of New York from
+38 establishing, without an agreement with the commissioner, an annual
+39 report examining heat vulnerability and heat related deaths occurring
+40 within the city of New York.
+41 § 2. This act shall take effect immediately.

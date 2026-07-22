@@ -1,0 +1,274 @@
+Title: 
+Official Title: 
+Source: versions - S7664A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7664--A
+2025-2026 Regular Sessions
+IN SENATE
+April 28, 2025
+___________
+Introduced by Sen. SANDERS -- read twice and ordered printed, and when
+printed to be committed to the Committee on Finance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the executive law, in relation to requiring the
+collection of certain demographic information by state agencies,
+boards, departments and commissions
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative intent. The legislature hereby finds and
+2 declares the following:
+3 (a) Black Americans/African Americans, Afro-Caribbeans and Continental
+4 Africans are an incredibly diverse group. Despite this diversity, the
+5 United States Office of Management and Budget's Statistical Policy
+6 Directive No. 15, entitled Race and Ethnic Standards for Federal Statis-
+7 tics and Administrative Reporting, has combined all the various ethnici-
+8 ties that are a part of those demographics into one "Black/African Amer-
+9 ican" category. This category was used in the 2020 United States Census.
+10 The United States Census Bureau currently reports data for all the
+11 different ethnicities under this category. Moreover, this simplification
+12 extends to other Afro-descendant populations, such as Afro-Latinos from
+13 Central and South America. These individuals can choose to identify as
+14 either "Black/African American" or "Hispanic" according to the direc-
+15 tive's definition. This approach has led to challenges in accurately
+16 representing the unique political and social needs within this broadly
+17 defined category. The majority of this group includes descendants of
+18 individuals who were enslaved and later emancipated in the U.S., while a
+19 smaller portion consists of people who have immigrated to the United
+20 States voluntarily and navigate its immigration laws.
+21 (b) While "Black/African Americans" are often misrepresented as a
+22 homogeneous group, they are an extremely diverse group, with ethnicities
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD08262-07-5
+
+S. 7664--A 2
+1 from over 87 different countries. Although Black American/African Ameri-
+2 can, Afro-Caribbean, Continental African communities and all other afro-
+3 population groups in this state share geographical commonalities, they
+4 also experience diverse social, educational, health, and economic
+5 differences that are unique to their respective communities.
+6 (c) Existing state law requires state demographic data to be collected
+7 for the "Black/African American" ethnic/racial group. However, addi-
+8 tional ethnic groups reported by the United States Census Bureau are not
+9 included that reflect changing demographics and intra-state migration
+10 patterns. Most state agencies are currently not in compliance with
+11 existing state law or have not made the collected data accessible. Data
+12 should be updated on a regular basis and made accessible to the public
+13 so that regional and local governments, elected officials, decision
+14 makers, and other stakeholders can use the information to strategically
+15 target programs for those most in need.
+16 (d) Precedent has been set by the recent passing of chapter 745 of the
+17 laws of 2021, requiring the collection of certain demographic informa-
+18 tion by certain state agencies, boards and commissions within the Asian
+19 American Pacific Islander communities. Precedent was also set on the
+20 2020 US census which disaggregated both Asian and Latino groups. The
+21 United States Census Bureau currently reports data for more than 20
+22 different ethnicities within the "Asian" & "Native Hawaiians and Other
+23 Pacific Islanders" categories alone.
+24 (e) Precedent has also been set when California officially implemented
+25 a policy, effective January 1, 2024, that requires state agencies to
+26 collect demographic data specifically for African American descendants
+27 of persons enslaved in the United States. This initiative is part of the
+28 states ongoing efforts to address reparations and acknowledge the unique
+29 experiences of these individuals. The policy, guided by California
+30 Government Code Section 8310.6, mandates that the State Controller's
+31 Office and the Department of Human Resources collect and report this
+32 data separately from other Black or African American groups, distin-
+33 guishing between those who are descendants of U.S. slavery and those
+34 whose ancestry does not include U.S. enslavement.
+35 (f) On January 26th, 2023, Dr. Karin Orvis, the Chief Statistician of
+36 The United States, made an important announcement. She released a state-
+37 ment titled "Initial Proposals for Revising the Federal Race and Ethnic-
+38 ity Standards." This marks a significant step by the Office of the Chief
+39 Statistician to update the Office of Management and Budget's (OMB)
+40 statistical standards for race and ethnicity data collection and report-
+41 ing across Federal agencies, as outlined in Directive No. 15. Key points
+42 from Dr. Orvis's statement include:
+43 (i) The publication of initial recommended revisions. These were
+44 proposed by an Interagency Technical Working Group.
+45 (ii) A call for public input. Dr. Orvis emphasized the desire to hear
+46 directly from the American public. Feedback from non-governmental stake-
+47 holders and the general public is crucial. It will assist the Working
+48 Group in refining and finalizing its recommendations.
+49 (iii) An invitation for everyone to share their thoughts. Dr. Orvis
+50 encourages individuals to provide personal insights and reactions to the
+51 proposals. This includes thoughts on how the changes may impact differ-
+52 ent communities.
+53 "In the subsequent report from the OMB, titled 'Major Themes From
+54 Initial Public Listening Sessions' on page 6, it is stated, 'Data Disag-
+55 gregation For The Black Or African American Population.' Presenters
+56 supported adding detailed categories within the Black or African Ameri-
+
+S. 7664--A 3
+1 can minimum reporting category to enable identification of descendants
+2 of enslaved Americans. Most presenters requested a new detailed catego-
+3 ry, such as 'American Freedmen' or 'American Descendant of Slavery.'
+4 Disaggregated data could then be used to allocate benefits for programs
+5 or initiatives."
+6 The overwhelming feedback from the American people regarding the
+7 "Black/African American" category was that it was unable to accurately
+8 collect the data necessary to adequately serve the different and diverse
+9 ethnic groups that fall under that single category.
+10 (g) March 28, 2024 - The Office of Management and Budget (OMB) offi-
+11 cially published its updated standards for race and ethnicity, as
+12 outlined in Statistical Policy Directive No. 15, on March 28, 2024.
+13 Federal agencies are now required to begin implementing these changes,
+14 which include the disaggregation of the "Black or African American"
+15 category into more specific identities such as African American, Jamai-
+16 can, Nigerian, Haitian, Ethiopian, and Somali, with an additional write-
+17 in option for identities like Trinidadian and Tobagonian, Ghanaian,
+18 Congolese, and others. African Americans, who were historically classi-
+19 fied as Negro, Colored, or Mulatto, now have their own distinct catego-
+20 ry. This change reflects the diversity within the Black population and
+21 lays the groundwork for future advocacy around lineage-based identifica-
+22 tion for descendants of U.S. slavery. The final deadline for full imple-
+23 mentation and compliance-including integration into the U.S. Census-is
+24 set for March 28, 2029.
+25 (h) In the New York City report titled "How Communities of Interest
+26 Are Evolving in New York City Today: Communities of Interest 2023,"
+27 submitted to the New York City Districting Commission during the tenure
+28 of the late Dr. John Flateau as Executive Director, data were analyzed
+29 by ethnic group, revealing stark differences in various measurable
+30 metrics for each group. Outcomes like those highlighted in the report,
+31 along with their solutions, will continue to be overlooked and unad-
+32 dressed until New York State adopts a similar approach to data compila-
+33 tion.
+34 (i) Given the diversity of languages and cultures, separating data for
+35 the multiple ethnic groups that fall under the Black/African American
+36 category and making the data publicly accessible are critical for
+37 enhancing our state's understanding of the needs and experiences of
+38 these different communities.
+39 § 2. Section 170-e of the executive law, as amended by chapter 123 of
+40 the laws of 2022, is amended to read as follows:
+41 § 170-e. Collection of demographic information. 1. (a) Every state
+42 agency, board, department, or commission that directly collects demo-
+43 graphic data as to the ancestry or ethnic origin of residents of the
+44 state of New York shall use separate collection categories and tabu-
+45 lations for the following Asian and Pacific Islander groups in New York
+46 state:
+47 [(a)] (i) each major Asian group shall include Chinese, Japanese,
+48 Filipino, Korean, Vietnamese, Asian Indian, Bangladeshi, Pakistani, and
+49 all of the ten most populous Asian groups in the most recent five-year
+50 American community survey published by the United States Census Bureau;
+51 and
+52 [(b)] (ii) each major Pacific Islander group shall include Native
+53 Hawaiian, Guamanian and Chamorro, and Samoan; or
+54 [(c)] (iii) collection categories shall include a category for other
+55 Asian or Pacific Island group.
+
+S. 7664--A 4
+1 [2.] (b) Every state agency, board, department, or commission that
+2 directly collects demographic data as to the ancestry or ethnic origin
+3 of residents of the state of New York shall use separate collection
+4 categories and tabulations for the following:
+5 [(a)] (i) the primary language spoken at home; and
+6 [(b)] (ii) the ethnic group or ancestry.
+7 [3.] (c) Upon the release of a new five-year American community survey
+8 published by the United States Census Bureau, every state agency, board,
+9 department or commission shall update their data collection and report-
+10 ing practices as required by this [section] subdivision and shall
+11 continue to collect and report on any demographic group no longer
+12 included in the ten most populous groups until the release of the
+13 following five-year American community survey, at which time state agen-
+14 cies, boards, departments or commissions may cease to collect and report
+15 on such demographic groups provided they remain outside the ten most
+16 populous groups.
+17 [4.] (d) The data collected pursuant to the different collection cate-
+18 gories and tabulations described in paragraph (a) of this subdivision
+19 [one of this section], to the degree that the data quality is suffi-
+20 cient, shall be included in every demographic report on ancestry or
+21 ethnic origins of residents of the state of New York by the state agen-
+22 cy, board, department, or commission published or released on or after
+23 December first, two thousand twenty-three; provided, however, that for
+24 the department of labor, division of criminal justice services, office
+25 of mental health and office of temporary and disability assistance such
+26 requirements shall be effective July first, two thousand twenty-four.
+27 The data shall be made available to the public in accordance with state
+28 and federal law, except for personal identifying information, which
+29 shall be deemed confidential, by posting the data on the internet web
+30 site of the agency, board, department, or commission on or before Decem-
+31 ber first, two thousand twenty-three, and annually thereafter; provided,
+32 however, that for the department of labor, division of criminal justice
+33 services, office of mental health and office of temporary and disability
+34 assistance such requirements shall be effective July first, two thousand
+35 twenty-four. If the data quality is determined to be insufficient for
+36 publication, an explanation of the problem with the data quality shall
+37 be included in any report or publication made available to the public.
+38 This [subdivision] paragraph shall not be construed to prevent any other
+39 state agency from posting data collected pursuant to paragraph (a) of
+40 this subdivision [one of this section] on the agency's internet web
+41 site, in the manner prescribed by this [section] subdivision.
+42 [5.] (e) The requirements of this [section] subdivision shall not
+43 apply to the department of labor, the division of criminal justice
+44 services, the office of mental health or the office of temporary and
+45 disability assistance until two years after this [section] subdivision
+46 shall have become a law.
+47 2. (a) Every state agency, board, department, or commission that
+48 directly or by contract collects demographic data as to the ancestry or
+49 ethnic origin of residents of the state of New York shall use separate
+50 collection categories and tabulations for the following afro groups in
+51 New York state:
+52 (i) "Descendant of a person enslaved in the United States" means an
+53 individual historically classified as American Freedmen, Negro, Colored,
+54 Mulatto, Black, Black-American, and African-American with at least one
+55 ancestor who was enslaved or subject to chattel slavery in the United
+
+S. 7664--A 5
+1 States, were emancipated via the 1863 Emancipation Proclamation and the
+2 Thirteenth Amendment of 1865 and given the status of Freedmen.
+3 (ii) "Continental African" means an individual with ancestry and/or
+4 citizenship from the continent of Africa, including, but not limited to,
+5 one or more of the following countries: Algeria, Angola, Benin, Botswa-
+6 na, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Repub-
+7 lic, Chad, Comoros, Cote d'Ivoire, Democratic Republic of the Congo,
+8 Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon,
+9 Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya,
+10 Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique,
+11 Namibia, Niger, Nigeria, Republic of the Congo, Rwanda, Sao Tome and
+12 Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa,
+13 South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, or
+14 Zimbabwe.
+15 (iii) "Afro-Caribbean" means an individual with ancestry and citizen-
+16 ship from Caribbean countries, including, but not limited to one or more
+17 of the following countries: Belize, Puerto Rico, Cuba, Jamaica, Haiti,
+18 Trinidad and Tobago, Guyana, Barbados, Grenada, St. Croix, St. Kitts,
+19 the Bahamas, and the Dominican Republic, etc.
+20 (iv) "Central and South American Afro-Latino" means an individual with
+21 ancestry and/or citizenship from Central and South American countries,
+22 including, but not limited to one or more of the following countries:
+23 Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua,
+24 Panama, Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French
+25 Guiana (departement of France), Guyana, Paraguay, Peru, Suriname,
+26 Uruguay, or Venezuela.
+27 (v) "Other afro groups" means an individual who identifies as having
+28 African ancestry or ethnic origin but does not identify as one of the
+29 other afro groups defined in this paragraph.
+30 (b) Every state agency, board, department, or commission that directly
+31 or by contract collects demographic data as to the ancestry or ethnic
+32 origin of residents of the state of New York shall use separate
+33 collection categories and tabulations for the following:
+34 (i) The primary language spoken at home; and
+35 (ii) The ethnic group or ancestry.
+36 (c) The data collected pursuant to the different collection categories
+37 and tabulations described in paragraph (a) of this subdivision shall be
+38 included in every demographic report on ancestry or ethnic origins of
+39 residents of the state of New York by the state agency, board, depart-
+40 ment, or commission published or released on or after July first, two
+41 thousand twenty-six. The data shall be made available to the public in
+42 accordance with state and federal law, except for personal identifying
+43 information, which shall be deemed confidential, by posting the data on
+44 the internet web site of the agency, board, department, or commission on
+45 or before July first, two thousand twenty-six and annually thereafter.
+46 This paragraph shall not be construed to prevent any other state agency
+47 from posting data collected pursuant to paragraph (a) of this subdivi-
+48 sion on the agency's internet web site, in the manner prescribed by this
+49 subdivision.
+50 § 3. This act shall take effect on the one hundred twentieth day after
+51 it shall have become a law.

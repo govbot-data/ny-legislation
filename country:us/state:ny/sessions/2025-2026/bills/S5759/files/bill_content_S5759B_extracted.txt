@@ -1,0 +1,378 @@
+Title: 
+Official Title: 
+Source: versions - S5759B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+5759--B
+2025-2026 Regular Sessions
+IN SENATE
+February 28, 2025
+___________
+Introduced by Sens. HARCKHAM, CLEARE, COMRIE, FAHY, HOYLMAN-SIGAL, JACK-
+SON, KAVANAGH, KRUEGER, MAYER, SERRANO, SKOUFIS -- read twice and
+ordered printed, and when printed to be committed to the Committee on
+Environmental Conservation -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee --
+reported favorably from said committee and committed to the Committee
+on Agriculture -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the environmental conservation law, in relation to the
+management of PFAS in biosolids and establishing the New York state
+biosolids task force; to amend the agriculture and markets law and the
+state finance law, in relation to establishing the PFAS agricultural
+response program and the agricultural PFAS response fund; and provid-
+ing for the repeal of certain provisions upon expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Article 27 of the environmental conservation law is amended
+2 by adding a new title 8 to read as follows:
+3 TITLE 8
+4 MANAGEMENT OF PFAS IN BIOSOLIDS
+5 Section 27-0801. Definitions.
+6 27-0803. Moratorium on land application of biosolids.
+7 27-0805. Testing and reporting.
+8 § 27-0801. Definitions.
+9 As used in this title:
+10 1. "Biosolids" means the accumulated semi-solids, solids or liquids
+11 resulting from treatment of wastewaters from publicly or privately owned
+12 or operated sewage treatment plants.
+13 2. "Enterprise budget" means an estimation of the revenue, costs, and
+14 profits for a farm.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10313-12-5
+
+S. 5759--B 2
+1 3. "Monitoring" means sampling of biosolids from wastewater treatment
+2 facilities, soil samples and/or water samples from agricultural land to
+3 determine the concentration of PFAS present.
+4 4. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means a
+5 class of fluorinated organic chemicals containing at least one fully
+6 fluorinated carbon atom.
+7 5. "Permit holder" means a farmer or other landowner authorized to
+8 spread biosolids under a permit granted pursuant to NYCRR 361-2.4.
+9 6. "Previous permit holder" means a permit holder who has a permit
+10 that has expired within the five years previous to the effective date of
+11 this title.
+12 7. "Wastewater treatment facility" means any facility that treats
+13 wastewater, including but not limited to municipal sewage treatment
+14 plants, industrial wastewater treatment plants, and septage treatment
+15 facilities.
+16 § 27-0803. Moratorium on land application of biosolids.
+17 1. For the period commencing on the effective date of this title and
+18 ending five years after such date, a moratorium shall be established on
+19 the land application of:
+20 (a) biosolids generated from a publicly or privately owned or operated
+21 wastewater treatment plant;
+22 (b) compost material that included in its production biosolids gener-
+23 ated from a publicly or privately owned or operated wastewater treatment
+24 plant;
+25 (c) any other product or material that is intended for use as a ferti-
+26 lizer, soil amendment, topsoil replacement or mulch, or for other simi-
+27 lar agricultural purposes including parks, golf courses, or other non-
+28 crop land applications, that is derived from or contains biosolids
+29 generated from a publicly or privately owned or operated wastewater
+30 treatment plant.
+31 2. The moratorium shall apply to all existing permits, renewals, and
+32 new applications.
+33 3. The moratorium shall not apply to:
+34 (a) the disposal or placement at a solid waste landfill of any of the
+35 materials that are prohibited from application, spreading, sale or
+36 distribution by this section; or
+37 (b) the land application of or the sale or distribution of compost
+38 materials or other agricultural products or materials derived from or
+39 containing residuals generated as a result of the processing or culti-
+40 vation of food, food waste, crops or vegetative material, manure,
+41 litter, food processing waste, process wastewater from any animal feed-
+42 ing operation, digestate from such materials, or any other product or
+43 material that is not derived from or does not contain biosolids.
+44 § 27-0805. Testing and reporting.
+45 1. The department shall promulgate rules and regulations which add
+46 perfluoroalkyl and polyfluoroalkyl substances as a parameter of concern
+47 for analysis within NYCRR Part 361.2.4.
+48 (a) Within one year of the effective date of this title, the depart-
+49 ment shall promulgate regulations establishing a perfluoroalkyl and
+50 polyfluoroalkyl substances biosolids testing and reporting program that
+51 shall, at a minimum, do the following:
+52 (i) establish protocols for soil testing, requiring all permit holders
+53 and previous permit holders to test lands where biosolids have been
+54 applied at least quarterly for one year;
+
+S. 5759--B 3
+1 (ii) establish protocols for testing drinking water wells at least
+2 quarterly for one year where such wells are within one half mile of
+3 lands where biosolids have been applied;
+4 (iii) establish protocols for testing surface water at least quarterly
+5 for one year where such surface water is within one mile of lands where
+6 biosolids have been applied;
+7 (b) Regulations promulgated pursuant to this title regarding testing
+8 protocols and the timing of sampling for testing of well water and
+9 surface water shall take into account the effects of rainfall events
+10 and precipitation patterns, as well as weather and temperature changes
+11 in determining the timing of sampling.
+12 (c) Permit holders shall submit the results of such monitoring to the
+13 department quarterly; provided, however, that permit holders shall
+14 submit their first monitoring results within six months from the effec-
+15 tive date of this title.
+16 2. The department shall require all wastewater treatment facilities to
+17 test biosolids for PFAS chemicals quarterly for five years and report
+18 the results to the department.
+19 3. Testing and evaluation of permitted sites shall be conducted using
+20 a PFAS testing method or methods authorized by the department. The
+21 department shall immediately authorize EPA Method 1633A as an approved
+22 testing method. The department shall authorize additional methods that
+23 detect more PFAS as such methods become available and shall require that
+24 the method that detects the largest number of PFAS (at equal or lower
+25 detection limits than EPA Method 1633A) shall be used.
+26 4. The department shall establish and maintain a publicly accessible
+27 database of disaggregated soil, biosolid (differentiating biosolid data
+28 sourced from wastewater treatment facility and from permit holders), and
+29 water testing results within six months of the effective date of this
+30 title. Such database shall use best practices standards for data
+31 collection and dissemination, including standardization and cleaning of
+32 data, and shall make such data available to the public in commonly used
+33 data formats. Data collected from soil or water samples taken from
+34 private lands and wells shall be aggregated by department of environ-
+35 mental conservation region, in a form which excludes specific addresses,
+36 locations, or other personally identifying information. The database
+37 shall also include records for all previously conducted testing of
+38 biosolids for PFAS funded with public monies with New York state.
+39 § 2. The agriculture and markets law is amended by adding a new arti-
+40 cle 11-C to read as follows:
+41 ARTICLE 11-C
+42 SOIL HEALTH AND PFAS AGRICULTURE RESPONSE PROGRAM
+43 § 151-p. PFAS agricultural response program.
+44 § 151-p. PFAS agricultural response program. 1. For the purposes of
+45 this article:
+46 (a) "Biosolids" means the accumulated semi-solids or solids resulting
+47 from treatment of wastewaters from publicly or privately owned or oper-
+48 ated sewage treatment plants.
+49 (b) "Enterprise budget" means an estimation of the revenue, costs and
+50 profits for a farm.
+51 (c) "Monitoring" means sampling of biosolids from soil samples and/or
+52 water samples from agricultural land to determine the concentration of
+53 PFAS present.
+54 (d) "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means a
+55 class of fluorinated organic chemicals containing at least one fully
+56 fluorinated carbon atom.
+
+S. 5759--B 4
+1 2. Within one year of the effective date of this article, the depart-
+2 ment, in consultation with the department of environmental conservation,
+3 shall establish a PFAS agricultural response program to assist farms
+4 found to have levels of PFAS contamination which exceed regulatory stan-
+5 dards established pursuant to title eight of article twenty-seven of the
+6 environmental conservation law.
+7 3. The program shall, at a minimum:
+8 (a) pursuant to an appropriation therefor, provide grants to farmers
+9 and other landowners with land found to exceed the thresholds for PFAS
+10 established pursuant to title eight of article twenty-seven of the envi-
+11 ronmental conservation law for the purpose of short-term income supple-
+12 mentation or replacement, including but not limited to, reimbursing
+13 farmers for the value of crops lost as a result of PFAS contamination;
+14 (b) assist farmers and other landowners with planning and the develop-
+15 ment of enterprise budgets to address land or water found to be contam-
+16 inated by PFAS. Such enterprise budgets may include, but need not be
+17 limited to, costs associated with the implementation of:
+18 (i) alternative cropping systems;
+19 (ii) remediation strategies;
+20 (iii) technological adaptations;
+21 (iv) transitioning to alternative revenue streams, including but not
+22 limited to transitioning to alternative land use systems; and
+23 (v) locating alternative viable farmland;
+24 (c) pursuant to an appropriation therefor, provide grants for the
+25 purchase of transitional equipment and infrastructure for farmers and
+26 other landowners to: (i) support a transition to an alternative cropping
+27 system; and (ii) implement remediation strategies, technological adapta-
+28 tions, or other modifications to the farmer or other landowner's oper-
+29 ations in response to PFAS contamination;
+30 (d) develop best practices to mitigate further PFAS contamination,
+31 including but not limited to, alternative cropping systems; and
+32 (e) provide for testing of agricultural products, livestock, soil and
+33 water of adjacent properties where it is suspected there may be contam-
+34 ination related to the spreading of biosolids, and feedstock produced on
+35 lands where biosolids were spread. During the five-year moratorium on
+36 land application of biosolids pursuant to section 27-0803 of the envi-
+37 ronmental conservation law, the department shall provide notice of such
+38 monitoring and testing to the public, including to adjacent impacted
+39 communities, through public outreach to community members and by posting
+40 information on the department's website.
+41 § 3. The state finance law is amended by adding a new section 95-l to
+42 read as follows:
+43 § 95-l. Agricultural PFAS response fund. 1. There is hereby estab-
+44 lished in the joint custody of the comptroller and the commissioner of
+45 taxation and finance a special fund to be known as the "agricultural
+46 PFAS response fund".
+47 2. Such fund shall consist of monies appropriated, credited, or trans-
+48 ferred thereto from any other fund or source pursuant to law.
+49 3. All monies deposited in the agricultural PFAS response fund shall
+50 be available for the purposes of the PFAS agricultural response program
+51 pursuant to article eleven-C of the agriculture and markets law.
+52 4. Monies shall be payable from the fund on the audit and warrant of
+53 the comptroller on vouchers approved and certified by the commissioner
+54 of the department of agriculture and markets.
+55 § 4. Article 27 of the environmental conservation law is amended by
+56 adding a new title 6 to read as follows:
+
+S. 5759--B 5
+1 TITLE 6
+2 NEW YORK STATE BIOSOLIDS TASK FORCE
+3 Section 27-0601. New York State biosolids task force.
+4 27-0603. Definitions.
+5 27-0605. Task force composition.
+6 27-0607. Powers and duties.
+7 § 27-0601. New York State biosolids task force.
+8 There is hereby established within the department the New York state
+9 biosolids task force to evaluate the risks and benefits of various meth-
+10 ods of biosolids disposal within the state with respect to the risks
+11 posed by PFAS chemicals and to investigate a path forward for New York
+12 state biosolid disposal that is maximally protective of human and
+13 ecosystem health.
+14 § 27-0603. Definitions.
+15 As used in this title:
+16 1. "Biosolids" means the accumulated semi-solids or solids resulting
+17 from treatment of wastewaters from publicly or privately owned or oper-
+18 ated sewage treatment plants.
+19 2. "Enterprise budget" means an estimation of the planning and esti-
+20 mation of revenue, costs, and profits for a farm.
+21 3. "Monitoring" means sampling of biosolids from wastewater treatment
+22 facilities, soil samples and/or groundwater samples from agricultural
+23 land to determine the concentration of PFAS present.
+24 4. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means a
+25 class of fluorinated organic chemicals containing at least one fully
+26 fluorinated carbon atom.
+27 5. "Previous permit holder" means a permit holder who has a permit
+28 that has expired within the five years previous to the effective date of
+29 this article.
+30 6. "Wastewater treatment facility" means any facility that treats
+31 wastewater, including but not limited to municipal sewage treatment
+32 plants, industrial wastewater treatment plants, and septage treatment
+33 facilities.
+34 § 27-0605. Task force composition.
+35 1. The task force shall be composed of thirteen members as follows:
+36 (a) the commissioner, or the commissioner's designee, who shall be the
+37 chair of the task force;
+38 (b) one member from the department;
+39 (c) one member from the department of health;
+40 (d) one member from the department of agriculture and markets;
+41 (e) three members appointed by the governor as follows:
+42 (i) one of whom shall represent wastewater treatment utilities;
+43 (ii) one of whom shall have a background or expertise in solid waste
+44 and organics recycling; and
+45 (iii) one of whom shall have a background or expertise in soil and
+46 crop health and toxic contamination;
+47 (f) two members appointed by the temporary president of the senate,
+48 one of whom shall represent the public and shall have a background or
+49 expertise in PFAS contamination and/or toxicology and health risk
+50 assessment;
+51 (g) two members appointed by the speaker of the assembly, one of whom
+52 shall represent the public and shall have a background or expertise in
+53 PFAS contamination and/or toxicology and health risk assessment;
+54 (h) one member appointed by the minority leader of the senate; and
+55 (i) one member appointed by the minority leader of the assembly.
+
+S. 5759--B 6
+1 2. The members of the task force shall receive no compensation for
+2 their services but shall be allowed their actual and necessary expenses
+3 incurred in the performance of their duties pursuant to this title.
+4 3. The task force shall meet at such times and places as may be deter-
+5 mined by its chair; provided, however, that the task force shall meet at
+6 a minimum of six times per year.
+7 4. A majority of the members of the task force shall constitute a
+8 quorum for the transaction of business. Action may be taken, and motions
+9 and resolutions adopted, at any meeting by the affirmative vote of a
+10 majority of the full membership of the task force.
+11 § 27-0607. Powers and duties.
+12 1. The task force shall:
+13 (a) Review the draft "Sewage Sludge Risk Assessment for Perfluoroocta-
+14 noic Acid (PFOA) CASRN 335-67-1 and Perfluorooctane Sulfonic Acid (PFOS)
+15 CASRN 1763-23-1", dated January two thousand twenty-five, and monitor
+16 comments provided to the United States environmental protection agency
+17 and any revisions to the risk analysis;
+18 (b) Analyze the pathways of human exposure to PFAS and how biosolids
+19 applied to land contribute to such exposure;
+20 (c) Support the department in any regulatory processes related to PFAS
+21 in biosolids, prioritizing efficient processes and applying the best
+22 available science;
+23 (d) Evaluate mitigation strategies to reduce the risk of human,
+24 ecosystem, and wildlife exposure from land application of biosolids;
+25 (e) Review and summarize, including but not limited to the actions of
+26 other states and regional and federal agencies to understand the risks
+27 and consequences of such actions, the use and effects of PFAS and bioso-
+28 lids, including, but not limited to:
+29 (i) Continued land application;
+30 (ii) Allowances for and use of biosolid derived fertilizer products;
+31 (iii) Land application bans;
+32 (iv) Landfilling;
+33 (v) Incineration; and
+34 (vi) Mitigation of PFAS through industrial pretreatment programs and
+35 source identification;
+36 (f) Work with the department to summarize current data and provide
+37 recommendations, including recommendations for where more data may be
+38 required;
+39 (g) Review existing standards for PFAS contamination within soil,
+40 water, air, and biosolids, both in New York and at the federal level;
+41 (h) Review possible PFAS remediation strategies for PFAS contamination
+42 within soil, water, air, and biosolids;
+43 (i) Review and summarize the remaining capacity of landfills and
+44 incineration facilities to accept biosolids. Such review shall consider
+45 the impact across the different regions within the state and environ-
+46 mental justice areas, including the impact of PFAS-rich landfill leac-
+47 hate disposal via wastewater treatment plants;
+48 (j) Review and evaluate alternative methods of and emergent technolo-
+49 gies for managing contaminated biosolids;
+50 (k) Review and evaluate PFAS destroying technologies, including the
+51 risks to human and environmental health, and the current state of
+52 deployment and barriers to the deployment of such technologies;
+53 (l) Determine financial, environmental, and health impacts of differ-
+54 ent pathways for managing biosolids;
+
+S. 5759--B 7
+1 (m) Evaluate the risks, implications, and levels of PFAS in food
+2 products grown on land where biosolids have been applied or livestock
+3 fed crops grown on land where biosolids have been applied;
+4 (n) Where possible, work with other regional authorities to understand
+5 their intent of biosolids management in their jurisdictions to determine
+6 impacts of the limitations of biosolids disposal and end uses;
+7 (o) Conduct a minimum of two public hearings for input annually;
+8 (p) Issue an interim progress report at the end of the first year. The
+9 interim report shall be delivered to the department and the legislature
+10 and be posted publicly on the department's website; and
+11 (q) Issue a final report at the end of the second year. The final
+12 report shall be delivered to the department and the legislature and be
+13 posted publicly on the department's website.
+14 2. The task force shall have the power to:
+15 (a) contract for professional and technical assistance and advice;
+16 (b) conduct scientific and environmental studies.
+17 3. The department, the department of agriculture and markets, and the
+18 department of health shall provide the task force with such facilities,
+19 assistance and data as will enable the task force to carry out its
+20 powers and duties. Additionally, all other agencies of the state or
+21 subdivisions thereof shall, at the request of the chair, provide the
+22 task force with such facilities, assistance, and data as will enable the
+23 task force to carry out its powers and duties.
+24 § 5. This act shall take effect immediately; provided, however, that
+25 sections 27-0801 and 27-0805 of the environmental conservation law as
+26 added by section one of this act and sections two, three, and four of
+27 this act shall take effect on the one hundred eightieth day after it
+28 shall have become a law; provided further, however, that section 27-0803
+29 of the environmental conservation law as added by section one of this
+30 act shall expire five years after such effective date when upon such
+31 date the provisions of such section shall be deemed repealed; provided
+32 further, however, that section four of this act shall expire and be
+33 deemed repealed one hundred twenty days after the New York State bioso-
+34 lids task force has submitted its final report pursuant to section
+35 27-0607 of the environmental conservation law as added by section four
+36 of this act; provided further, however, that the commissioner of envi-
+37 ronmental conservation shall notify the legislative bill drafting
+38 commission upon the submission of the final report pursuant to section
+39 27-0607 of the environmental conservation law as added by section four
+40 of this act in order that the commission may maintain an accurate and
+41 timely effective data base of the official text of the laws of the state
+42 of New York in furtherance of effectuating the provisions of section 44
+43 of the legislative law and section 70-b of the public officers law.

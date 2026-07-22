@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - S8111A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8111--A
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sen. JACKSON -- read twice and ordered printed, and when
+printed to be committed to the Committee on Civil Service and Pensions
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT to amend the retirement and social security law, in relation to
+providing retirement credit to emergency medical technicians and
+advanced emergency medical technicians for a child care leave of
+absence
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Section 609 of the retirement and social security law is
+2 amended by adding a new subdivision i to read as follows:
+3 i. Notwithstanding any other law or code provision that prohibits a
+4 member from receiving retirement credit for any period during which the
+5 member was absent on leave without pay, including but not limited to,
+6 subdivision c of this section, any EMT member, as defined in paragraph
+7 two of subdivision a of section four hundred forty-five-e of this chap-
+8 ter and paragraph one of subdivision a of section six hundred four-e of
+9 this article, as added by chapter five hundred seventy-seven of the laws
+10 of two thousand, who is absent without pay for a child care leave of
+11 absence pursuant to the terms of a collective bargaining agreement
+12 covering the EMT member shall be eligible for credit for such period of
+13 child care leave provided such member files a claim for such service
+14 credit with the pension fund by December thirty-first, two thousand
+15 twenty-five or within ninety days following termination of the child
+16 care leave, whichever is later, and contributes to the pension fund an
+17 amount which such member would have contributed during the period of
+18 such child care leave, together with interest thereon. Service credit
+19 provided pursuant to this subdivision shall not exceed one year of cred-
+20 it for each period of authorized child care leave.
+21 § 2. This act shall take effect immediately.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11193-03-5
+
+S. 8111--A 2
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would permit Emergency Medical
+Technicians of the New York City Employees' Retirement System (NYCERS)
+to apply for and purchase up to one year of service credit for each
+period of authorized unpaid childcare leave.
+ILLUSTRATION - INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($)
+Year One Year of One Year of Service
+Service Purchased Purchased Per Year
+2026 600 600
+2027 600 1,200
+2028 600 1,900
+2029 600 2,500
+2030 600 3,200
+2031 600 3,900
+2032 600 4,600
+2033 600 5,300
+2034 600 6,100
+2035 600 6,900
+2036 600 7,700
+2037 600 8,500
+2038 600 9,300
+2039 600 10,200
+2040 0 10,500
+2041 0 10,900
+2042 0 11,200
+2043 0 11,500
+2044 0 11,900
+2045 0 12,200
+2046 0 12,600
+2047 0 13,000
+2048 0 13,300
+2049 0 13,700
+2050 0 14,200
+Employer contribution impact beyond Fiscal Year 2050 is not shown.
+The potential increases in employer contributions will be allocated to
+New York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met, including future service accrual and pay increases.
+Future new hires are not included in this present value.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2024 ($)
+Present Value (PV) Per Year of Service
+(1) PV of Employer Contributions: 5,100
+(2) PV of Employee Contributions: 5,200
+Total PV of Benefits (1) + (2): 10,300
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+Changes in UAL per incident would be recognized as ongoing gain/loss.
+
+S. 8111--A 3
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+Recognized as Ongoing Gain/Loss Per Year of Service
+Increase (Decrease) in UAL: 5,100
+Number of Payments: 14
+Amortization Payment: 600
+CENSUS DATA: The number of members who will benefit in the future from
+this proposed legislation is unknown. The estimates presented herein are
+based on preliminary census data collected as of June 30, 2024. The
+census data for the potentially impacted population used to develop the
+average costs is summarized below.
+NYCERS
+Active Members
+- Number Count: 4,236
+- Average Age: 36.5
+- Average Service (before purchase): 9.3
+- Average Salary: 74,000
+IMPACT ON MEMBER BENEFITS: Currently, Emergency Medical Technician
+(EMT) members of NYCERS are not able to purchase service credit for
+periods while on authorized unpaid childcare leave.
+Under the proposed legislation, EMT members would be eligible to
+purchase up to one year of service credit for each period of authorized
+unpaid childcare leave, provided that they file a claim within 90 days
+of the termination of such leave (or by December 31, 2025, if later) and
+pay the amount that would have been contributed during such leave, with
+interest.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems.
+The number of members who will benefit from this proposed legislation
+is unknown. The cost of this proposed legislation could vary greatly
+depending on the number of future members who benefit and on their
+length of service, age, and salary history.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+
+S. 8111--A 4
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2025-81 dated June 11,
+2025 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2025
+Legislative Session.

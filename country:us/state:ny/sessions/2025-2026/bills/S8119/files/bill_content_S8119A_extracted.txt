@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - S8119A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8119--A
+2025-2026 Regular Sessions
+IN SENATE
+May 15, 2025
+___________
+Introduced by Sens. PARKER, KAVANAGH, MAY -- read twice and ordered
+printed, and when printed to be committed to the Committee on Local
+Government -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general municipal law, in relation to enacting the
+"community solar opportunity and local approval reform (Community
+SOLAR) act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "community solar opportunity and local approval reform (Community
+3 SOLAR) act".
+4 § 2. The general municipal law is amended by adding a new section 79
+5 to read as follows:
+6 § 79. Community solar opportunity and local approval reform (Community
+7 SOLAR) act. 1. As used in this section:
+8 (a) "distributed generation energy facility" means any solar photovol-
+9 taic system or energy storage system with a nameplate capacity of five
+10 thousand kilowatts AC or less;
+11 (b) "facility owner" means (i) a person or corporate entity with a
+12 direct ownership interest in a distributed generation energy facility,
+13 regardless of whether the person is involved in acquiring the necessary
+14 rights, permits, and approvals or otherwise planning for the
+15 construction and operation of the facility; and (ii) at the time the
+16 facility is being developed, a person who is acting as a developer of
+17 the facility by acquiring the necessary rights, permits, and approvals
+18 or by planning for the construction and operation of the facility,
+19 regardless of whether the person will own or operate the facility;
+20 (c) "non-participating property" means real property that is not a
+21 participating property;
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13087-03-5
+
+S. 8119--A 2
+1 (d) "authority having jurisdiction" means any municipal corporation
+2 with authorization to adopt zoning and permitting regulations governing
+3 the placement, construction, modification and/or operation of a distrib-
+4 uted generation energy facility within its borders. "Authority having
+5 jurisdiction" shall also include any agency of said municipal corpo-
+6 ration with authorization to issue land use approvals such as, inter
+7 alia, site plan approvals, special use permits, use variances, area
+8 variances, and subdivision authorizations;
+9 (e) "non-participating residence" means a residence that is located on
+10 non-participating property and that is existing and occupied on the date
+11 that an application for a permit to develop the distributed generation
+12 energy facility is filed with the authority having jurisdiction;
+13 (f) "occupied community building" means any one or more of the follow-
+14 ing existing buildings occupied on the date that the application for a
+15 permit to develop the distributed generation energy facility is filed
+16 with the authority having jurisdiction: a school, place of worship, day
+17 care facility, public library, or community center;
+18 (g) "participating property" means real property that is the subject
+19 of a written agreement between a facility owner and the owner of the
+20 real property that provides the facility owner an easement, option,
+21 lease, or license to use the real property for the purpose of construct-
+22 ing and/or operating a distributed generation energy facility, or
+23 supporting facilities. "Participating property" also includes real prop-
+24 erty that is owned by a facility owner for the purpose of constructing a
+25 distributed generation energy facility, or supporting facilities;
+26 (h) "participating residence" means a residence that is located on
+27 participating property and that is existing and occupied on the date
+28 that an application for a permit to develop the distributed generation
+29 energy facility is filed with the authority having jurisdiction;
+30 (i) "protected lands" means real property that is:
+31 (i) subject to a permanent conservation right; or
+32 (ii) registered or designated as a nature preserve, buffer, or land
+33 and water reserve; and
+34 (j) "Supporting facilities" means the transmission lines, substations,
+35 access roads, meteorological towers, storage containers, and equipment
+36 associated with the generation and storage of electricity by the
+37 distributed generation energy facility.
+38 2. (a) Notwithstanding any other provision of law, an authority having
+39 jurisdiction shall establish standards for distributed generation energy
+40 facilities. The standards may include all of the requirements specified
+41 in this subdivision but may not include requirements for distributed
+42 generation energy facilities that are more restrictive than specified in
+43 this subdivision.
+44 (b) Any authority having jurisdiction that has elected to establish
+45 standards under this subdivision shall hold a public hearing or hearings
+46 regarding any application or applications submitted to it for land use
+47 approvals to allow a distributed generation energy facility. The public
+48 hearing or hearings shall be held in compliance with the state open
+49 meetings law, any applicable public hearing requirements in the munici-
+50 pal code of authority having jurisdiction, and any other applicable
+51 provisions of law. Said public hearing shall be held within ninety days
+52 after the filing of the application for the distributed generation ener-
+53 gy facility. The authority having jurisdiction shall make its siting and
+54 permitting decisions not more than thirty days after the conclusion of
+55 the public hearing or hearings.
+
+S. 8119--A 3
+1 (c) Any authority having jurisdiction that renders a siting, permit-
+2 ting, variance, or other land use decision regarding a distributed
+3 generation energy facility shall apply the "public utility" standards
+4 for such approvals as set forth in Consolidated Edison Co. v Hoffman, 43
+5 N.Y.2d 598 (1978) and Matter of Cellular Tel. Co. v Rosenberg, 82 N.Y.2d
+6 364 (1993) and as subsequently expanded and applied by the courts of the
+7 state of New York.
+8 (d) An authority having jurisdiction with an existing zoning ordinance
+9 in conflict with this subdivision shall amend such zoning ordinance to
+10 be in compliance with this subdivision within one hundred twenty days
+11 after the effective date of this section.
+12 (e) (i) An authority having jurisdiction may require:
+13 (1) a distributed generation energy facility to be sited as follows,
+14 with setback distances measured from the nearest edge of any component
+15 of the facility:
+16 Setback Description Setback Distance
+17 Occupied community 150 feet from the nearest
+18 buildings and dwellings point on the outside wall
+19 on non-participating of the structure
+20 properties
+21 Boundary lines of None
+22 participating property
+23 Public road rights-of-way 50 feet from the
+24 nearest edge
+25 Boundary lines of non- 50 feet to the nearest point
+26 participating property on the property line of the
+27 non-participating property
+28 Federal jurisdictional Shall be no more restrictive than
+29 wetlands United States Army Corps of
+30 Engineers' most current rules
+31 New York state department Shall be no more restrictive than
+32 of environmental New York state department of
+33 conservation wetlands environmental conservation's
+34 most current rules
+35 (2) a distributed generation energy facility to be sited so that the
+36 facility's perimeter is enclosed by fencing having a height of at least
+37 seven feet and no more than twenty-five feet; and
+38 (3) a distributed generation energy facility to be sited so that no
+39 component of a solar panel has a height of more than twenty feet above
+40 ground when the solar energy facility's arrays are at full tilt.
+41 (ii) An authority having jurisdiction may not set a sound limitation
+42 for any components in a distributed generation energy facility that is
+43 more restrictive than the sound limitations established by the authority
+44 having jurisdiction for any other use or activity.
+45 (iii) An authority having jurisdiction may not place any restriction
+46 on the installation or use of a distributed generation energy facility
+47 unless it adopts an ordinance that complies with this subdivision. An
+48 authority having jurisdiction may not establish siting standards for
+
+S. 8119--A 4
+1 supporting facilities that preclude development of distributed gener-
+2 ation energy facilities. A request filed with an authority having juris-
+3 diction to locate or modify any permit for a distributed generation
+4 energy facility, shall be approved if the request is in compliance with
+5 the standards and conditions imposed in this section, the zoning ordi-
+6 nance adopted consistent with this section, and the conditions imposed
+7 under state and federal statutes and regulations.
+8 (iv) An authority having jurisdiction may not adopt zoning regulations
+9 that limit, permanently or temporarily, the number of distributed gener-
+10 ation energy facilities from being developed or operated in any district
+11 zoned to allow agricultural or industrial uses.
+12 (v) An authority having jurisdiction may not require permit applica-
+13 tion or other fees for a distributed generation energy facility that are
+14 unreasonable. All application fees imposed by the authority having
+15 jurisdiction shall be consistent with fees for projects in the authority
+16 having jurisdiction with similar capital value and cost.
+17 (vi) Except as otherwise provided in this subdivision, an authority
+18 having jurisdiction shall not require standards for construction, decom-
+19 missioning, or deconstruction of a distributed generation energy facili-
+20 ty or related financial assurances that are unreasonable or preclude
+21 development of distributed generation energy facilities. The amount of
+22 any decommissioning payment shall be limited to the cost identified in
+23 the decommissioning or deconstruction plan minus the salvage value of
+24 the project. Decommissioning values should be updated every five years
+25 for the first twenty years of operation and every year thereafter.
+26 (vii) An authority having jurisdiction may not condition approval of a
+27 distributed generation energy facility on a property value guarantee,
+28 may not require a facility owner to pay into a neighboring property
+29 devaluation escrow account, and may not condition approval on the
+30 project entering into a payment in lieu of taxes (PILOT) agreement or a
+31 community benefit agreement.
+32 (viii) An authority having jurisdiction may require reasonable vegeta-
+33 tive screening surrounding a distributed generation energy facility but
+34 may not require earthen berms or similar structures.
+35 (ix) An authority having jurisdiction shall calculate lot coverage for
+36 distributed generation energy facilities based only on the impervious
+37 surfaces associated with the facility. Impervious surfaces include the
+38 foundations of solar panels, access roads, and other structures or
+39 installations that prevent the infiltration of water into the ground.
+40 Solar panels themselves shall not be considered impervious surfaces for
+41 the purposes of lot coverage calculation, provided that the ground
+42 beneath the panels remains pervious and capable of absorbing water.
+43 3. Developers of a distributed generation energy facility shall offer
+44 residents of the host community the right of first refusal to subscribe
+45 to and receive utility bill credits from such project at a discounted
+46 rate. This right of first refusal shall be in effect for the first two
+47 months after subscriptions become available, and shall be offered in all
+48 cases where it does not conflict with the program rules or operating
+49 procedures of utility- federal- or state-administered programs to deliv-
+50 er utility bill savings to low- to moderate-income electricity custom-
+51 ers.
+52 4. (a) Within ninety days of the effective date of this section, the
+53 department of environmental conservation shall develop and promulgate
+54 rules and permit requirements specifically for the siting, construction,
+55 and operation of distributed generation energy facilities on and adja-
+56 cent to wetlands.
+
+S. 8119--A 5
+1 (b) Such rules and permit requirements shall be consistent with and no
+2 more restrictive than the guidelines established by the United States
+3 Army Corps of Engineers for renewable energy projects on and around
+4 wetlands in Nationwide Permit 51 - Land-Based Renewable Energy Gener-
+5 ation Facilities. This includes, but is not limited to, considerations
+6 for wetland delineation, impact minimization, mitigation measures, and
+7 monitoring requirements.
+8 (c) The department of environmental conservation shall ensure that the
+9 rules and permit requirements provide clear guidance on the following:
+10 (i) procedures for obtaining necessary permits for solar installations
+11 on and adjacent to wetlands;
+12 (ii) standards for minimizing adverse impacts on wetland functions and
+13 values; and
+14 (iii) requirements for compensatory mitigation to offset any unavoid-
+15 able impacts to wetlands.
+16 (d) The department of environmental conservation shall consult with
+17 relevant federal, state, and local agencies, as well as stakeholders,
+18 including environmental organizations and the solar energy industry, to
+19 ensure that the rules and permit requirements are comprehensive and
+20 practicable.
+21 (e) The department of environmental conservation shall review and
+22 update these rules and permit requirements periodically to reflect
+23 advancements in technology, changes in federal guidelines, and new
+24 scientific information regarding wetland conservation and solar energy
+25 development.
+26 5. (a) Authorities having jurisdiction with existing solar laws in
+27 compliance with this section may not enact moratoria preventing distrib-
+28 uted generation energy facilities.
+29 (b) Authorities having jurisdiction without existing solar laws in
+30 compliance with this section may enact a single moratorium in order to
+31 develop such a law. The initial moratorium shall not exceed six months.
+32 Authorities may extend the moratorium once for an additional period not
+33 to exceed six months. No further renewals or extensions shall be permit-
+34 ted. Authorities having jurisdiction may seek technical assistance from
+35 the New York state energy research and development authority to ensure
+36 compliance with this section.
+37 6. (a) The department of state shall enforce this section. Such
+38 department shall have the authority to ensure that all local laws and
+39 regulations comply with the provisions of this section.
+40 (b) (i) The department of state shall review local laws and regu-
+41 lations related to the siting and permitting of distributed generation
+42 energy facilities to ensure compliance with this section.
+43 (ii) Beginning one hundred twenty days after the effective date of
+44 this section, the department of state may require municipalities to
+45 submit their local laws and regulations for review and approval. Munici-
+46 palities shall provide such department with any requested documentation
+47 within thirty days of such a request.
+48 (c) The department of state shall have the authority to promulgate
+49 regulations necessary to implement and enforce the provisions of this
+50 section. Such regulations shall be adopted in accordance with the state
+51 administrative procedure act.
+52 § 3. This act shall take effect immediately.
