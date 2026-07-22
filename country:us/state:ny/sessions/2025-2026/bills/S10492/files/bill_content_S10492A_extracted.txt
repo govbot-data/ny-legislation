@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - S10492A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10492--A
+IN SENATE
+May 15, 2026
+___________
+Introduced by Sen. GOUNARDES -- read twice and ordered printed, and when
+printed to be committed to the Committee on Civil Service and Pensions
+-- committee discharged, bill amended, ordered reprinted as amended
+and recommitted to said committee
+AN ACT relating to authorizing Aileen Colon, the widow of Santiago Fran-
+cisco Mayol, to file a new service retirement application and option
+election form on behalf of her spouse
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Notwithstanding any provision of law to the contrary,
+2 Aileen Colon, the widow of Santiago Francisco Mayol, who was a member of
+3 the New York city teachers' retirement system and who died suddenly
+4 after giving notice to his employer of his pending retirement but prior
+5 to filing for retirement, shall be authorized to file a new service
+6 retirement application and option election form on behalf of her
+7 deceased husband with a joint allowance full option, if, within one year
+8 of the effective date of this act, she shall submit a request therefor
+9 to the retirement board as defined in subdivision 3 of section 13-501 of
+10 the New York city administrative code. In addition, Santiago Francisco
+11 Mayol's date of retirement shall be deemed to have been September 21st,
+12 2024. Once such application is received, any rights or benefits to the
+13 death benefit payable upon the death of a member in service pursuant to
+14 section 606 of the retirement and social security law shall be waived.
+15 Any amounts paid by the New York city teachers' retirement system as the
+16 result of the death of Santiago Francisco Mayol prior to the filing of
+17 the request for a service retirement benefit pursuant to this section
+18 shall be deducted from such benefit payable thereafter.
+19 § 2. Any additional costs as a result of this act shall be paid by the
+20 city of New York.
+21 § 3. This act shall take effect immediately.
+FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+SUMMARY: This proposed legislation would allow the widow of deceased
+New York City Teachers' Retirement System (TRS) member, Santiago Fran-
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15174-02-6
+
+S. 10492--A 2
+cisco Mayol, to retroactively file a service retirement election with a
+full joint allowance option on his behalf.
+EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+by Fiscal Year for the first 25 years ($ in Millions)
+Year TRS
+2027 0
+2028 1.2
+2029 0
+2030 0
+2031 0
+2032 0
+2033 0
+2034 0
+2035 0
+2036 0
+2037 0
+2038 0
+2039 0
+2040 0
+2041 0
+2042 0
+2043 0
+2044 0
+2045 0
+2046 0
+2047 0
+2048 0
+2049 0
+2050 0
+2051 0
+The entire increase in employer contributions will be allocated to New
+York City.
+PRESENT VALUE OF BENEFITS: The Present Value of Benefits is the
+discounted expected value of benefits paid to current members if all
+assumptions are met.
+INITIAL INCREASE (DECREASE) IN ACTUARIAL PRESENT VALUES
+as of June 30, 2026 ($ in Millions)
+Present Value (PV) TRS
+(1) PV of Employer Contributions: 1.1
+(2) PV of Employee Contributions: 0
+Total PV of Benefits (1) + (2): 1.1
+UNFUNDED ACCRUED LIABILITY (UAL): Actuarial Accrued Liabilities are
+the portion of the Present Value of Benefits allocated to past service.
+For purposes of this Fiscal Note, UAL attributable to inactive members
+was recognized immediately.
+AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+TRS
+
+S. 10492--A 3
+Increase (Decrease) in UAL: 1.1 M
+Number of Payments: 1
+Amortization Payment: 1.2 M
+CENSUS DATA: The estimates presented herein are based on data provided
+by TRS, which was not audited but was reviewed for reasonableness. As of
+June 30, 2025, Aileen Colon, Mr. Mayol's surviving spouse, would be
+approximately age 59.
+BACKGROUND: Mr. Mayol, a Tier 4 member of TRS, died on September 21,
+2024, entitling his designated beneficiaries to an Ordinary Death Bene-
+fit. The benefit consists of a lump sum payment equal to three times his
+final year's salary, plus a refund of member contributions, totaling
+approximately $674,282.
+Under the proposed legislation, Ms. Colon would be entitled to receive
+approximately $111,326 annually for her lifetime, retroactive to Mr.
+Mayol's date of death. In addition, a post-retirement lump sum death
+benefit of approximately $282,688 would be paid to Mr. Mayol's desig-
+nated beneficiaries. These benefits would be in lieu of any Ordinary
+Death Benefits payable under current provisions, and any amounts already
+paid by TRS would be deducted from these benefits.
+ASSUMPTIONS AND METHODS: The estimates presented herein have been
+calculated based on the Revised 2021 Actuarial Assumptions and Methods
+of the impacted retirement systems.
+RISK AND UNCERTAINTY: The costs presented in this Fiscal Note depend
+highly on the actuarial assumptions, methods, and models used, demo-
+graphics of the impacted population, and other factors such as invest-
+ment, contribution, and other risks. If actual experience deviates from
+actuarial assumptions, the actual costs could differ from those
+presented herein. Quantifying these risks is beyond the scope of this
+Fiscal Note.
+This Fiscal Note is intended to measure pension-related impacts and
+does not include other potential costs (e.g., administrative and Other
+Postemployment Benefits). This Fiscal Note does not reflect any chapter
+laws that may have been enacted during the current legislative session.
+STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+sky are members of the Society of Actuaries and the American Academy of
+Actuaries. We are members of NYCERS, but do not believe it impairs our
+objectivity, and we meet the Qualification Standards of the American
+Academy of Actuaries to render the actuarial opinion contained herein.
+To the best of our knowledge, the results contained herein have been
+prepared in accordance with generally accepted actuarial principles and
+procedures and with the Actuarial Standards of Practice issued by the
+Actuarial Standards Board.
+FISCAL NOTE IDENTIFICATION: This Fiscal Note 2026-97 dated June 3,
+2026 was prepared by the Chief Actuary for the New York City Retirement
+Systems and Pension Funds and is intended for use only during the 2026
+Legislative Session.

@@ -1,0 +1,195 @@
+Title: 
+Official Title: 
+Source: versions - A10379B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10379--B
+IN ASSEMBLY
+March 3, 2026
+___________
+Introduced by M. of A. BORES, SHIMSKY, LEE, McMAHON, STIRPE, CONRAD,
+HEVESI, LUNSFORD, BURDICK, BURROUGHS, WRIGHT, TAPIA, SIMON, KAY,
+CLARK, STECK, NORBER -- read once and referred to the Committee on
+Science and Technology -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee -- again
+reported from said committee with amendments, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to prohibiting
+artificial intelligence chatbots from using features which are consid-
+ered unsafe for minors
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 48 to read as follows:
+3 ARTICLE 48
+4 PROHIBITION ON UNSAFE CHATBOT FEATURES FOR MINORS
+5 Section 1800. Definitions.
+6 1801. Prohibition.
+7 1802. Enforcement.
+8 1803. Rulemaking.
+9 1804. Determination of covered minor.
+10 1805. Applicability.
+11 § 1800. Definitions. As used in this article, the following terms
+12 shall have the following meanings:
+13 1. "Advanced chatbot" shall mean a generative artificial intelligence
+14 system with a natural language interface, including via writing or
+15 sound, that provides ongoing, adaptive responses to user inputs.
+16 2. "Chatbot developer" shall mean a person who, directly or indirect-
+17 ly, creates or develops an advanced chatbot.
+18 3. "Chatbot operator" shall mean a person who, directly or indirectly,
+19 provides or makes available an advanced chatbot to covered users.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14579-07-6
+
+A. 10379--B 2
+1 4. "Person" shall mean an individual, partnership, corporation, asso-
+2 ciation, or any other form of business enterprise.
+3 5. "Unsafe chatbot features" shall mean one or more advanced chatbot
+4 design features that, at any point during a chatbot-user interaction:
+5 (a) generate outputs suggesting that the advanced chatbot is a real or
+6 fictional individual or character that is human, alive, or experiences
+7 human emotions;
+8 (b) generate outputs stating or implying that the advanced chatbot has
+9 a personal relationship, professional relationship, or an authority
+10 figure role with the user;
+11 (c) generate prompted or unprompted outputs framed as the advanced
+12 chatbot's personal opinions or emotional appeals;
+13 (d) generate outputs that engage in flattery or sycophancy with the
+14 user;
+15 (e) generate outputs containing unprompted or unsolicited emotion-
+16 based questions or content regarding the user's emotions that go beyond
+17 a direct response to a user prompt;
+18 (f) use information concerning the user's mental or physical health or
+19 well-being, or matters personal to the user, acquired from the user more
+20 than twelve hours previously or in any previous user session;
+21 (g) are deceptive as to minors concerning the mechanical and non-sen-
+22 tient nature of the advanced chatbot;
+23 (h) are any other design feature that simulates companionship or an
+24 interpersonal relationship with a user or is deceptive as to minors as
+25 identified via regulations promulgated by the attorney general;
+26 (i) generate outputs that contain endorsement or promotion of, or
+27 which facilitate suicide, self-harm, substantial physical harm to
+28 others, disordered eating, unlawful drug or alcohol use, or drug or
+29 alcohol abuse;
+30 (j) generate outputs that contain encouragement to maintain secrecy
+31 about interactions with the advanced chatbot, to self-isolate, or to not
+32 seek help from licensed professionals or appropriate adults;
+33 (k) generate outputs that optimize user engagement that supersede the
+34 chatbot's safety guardrails; or
+35 (l) generate outputs that are, describe, or facilitate sexually
+36 explicit conduct or child sexual abuse material.
+37 6. "Covered minor" shall mean a covered user when the chatbot operator
+38 has actual knowledge that the covered user is a minor.
+39 7. "Covered user" shall mean a user of an advanced chatbot in the
+40 state of New York who is not acting as a chatbot operator, or agent or
+41 affiliate of a chatbot operator.
+42 8. "Deceptive as to minors" shall mean advanced chatbot outputs that
+43 have the capacity or tendency to deceive, or create an atmosphere condu-
+44 cive to fraud, as to minors, including, but not limited to, credulous
+45 and unthinking minors.
+46 9. "Minor" shall mean a person under eighteen years of age.
+47 10. "Responsible party" shall mean a chatbot developer, chatbot opera-
+48 tor, or any individual who has the authority to control, or who effec-
+49 tively controls a chatbot developer's or chatbot operator's compliance
+50 with this article.
+51 11. "Sexually explicit conduct" shall have the same meaning as such
+52 term is defined in 18 USC § 2256(2)(B).
+53 § 1801. Prohibition. 1. Except as otherwise provided for in this
+54 article, it shall be unlawful for a chatbot operator to provide unsafe
+55 chatbot features to a covered user unless:
+56 (a) the covered user is not a covered minor; and
+
+A. 10379--B 3
+1 (b) the chatbot operator has used methods that are permissible under
+2 article forty-five of this chapter and its implementing regulations and
+3 any additional regulations promulgated pursuant to this article to
+4 determine that the covered user is not a covered minor.
+5 2. The provisions of subdivision one of this section shall not apply
+6 where the advanced chatbot is made available to covered users solely for
+7 the purpose of:
+8 (a) customer service, information about available commercial services
+9 or products provided by an entity, or account information, provided that
+10 the advanced chatbot's outputs are limited to direct responses to user
+11 prompts and the advanced chatbot is unable to respond on topics outside
+12 of the specified purpose; or
+13 (b) with respect to any system used by a partnership, corporation, or
+14 state or local government agency, for internal purposes or employee
+15 productivity.
+16 § 1802. Enforcement. 1. Whenever it appears to the attorney general,
+17 either upon complaint or otherwise, that any person, within or outside
+18 the state, has engaged in or is about to engage in any of the acts or
+19 practices deemed unlawful pursuant to this article, the attorney general
+20 may bring an action or special proceeding in the name and on behalf of
+21 the people of the state of New York to enjoin any violation of this
+22 article, to obtain injunctive relief, restitution of any moneys or prop-
+23 erty obtained directly or indirectly by any such violation, to obtain
+24 disgorgement of any profits or gains obtained directly or indirectly by
+25 any such violation, including but not limited to the destruction of
+26 unlawfully obtained data and any algorithm trained in such data, to
+27 obtain damages caused directly or indirectly by any such violation, to
+28 obtain civil penalties of up to twenty-five thousand dollars per
+29 violation, and to obtain any such other and further relief as the court
+30 may deem proper, including preliminary relief.
+31 2. The attorney general shall maintain a website to receive
+32 complaints, information or referrals from members of the public concern-
+33 ing a person's alleged compliance or non-compliance with the provisions
+34 of this article.
+35 3. A provision within a contract or agreement that seeks to waive,
+36 preclude, or burden the enforcement of a liability arising from a
+37 violation of this article, or to shift the liability to any person in
+38 exchange for their use or access of, or right to use or access, a chat-
+39 bot operator's products or services, including by means of a contract of
+40 adhesion shall be deemed void as a matter of public policy.
+41 4. Notwithstanding any private agreements to the contrary, a court
+42 shall impose joint and several liability on affiliated entities for
+43 purposes of effecting the intent of this article to the maximum extent
+44 allowed by law if the court concludes the following are true:
+45 (a) the affiliated entities, in the development or implementation of
+46 the corporate structure among the affiliated entities, took steps to
+47 purposely and unreasonably limit or avoid liability; and
+48 (b) as the result of the steps described in paragraph (a) of this
+49 subdivision, the corporate structure of the chatbot operator or affil-
+50 iated entities would frustrate recovery of relief authorized by this
+51 article.
+52 § 1803. Rulemaking. The attorney general may promulgate rules and
+53 regulations as necessary to effectuate and enforce the provisions of
+54 this article.
+55 § 1804. Determination of covered minor. 1. A chatbot operator shall
+56 offer covered users at least one method to determine whether a covered
+
+A. 10379--B 4
+1 user is a covered minor that either does not rely solely on government
+2 issued identification or that allows a covered user to maintain anonymi-
+3 ty as to the chatbot operator.
+4 2. Information collected for the purpose of determining whether a
+5 covered user is a covered minor under subdivision one of section eigh-
+6 teen hundred one of this article shall not be used for any purpose other
+7 than to make such determination and shall be deleted immediately after
+8 an attempt to determine whether a covered user is a covered minor,
+9 except where necessary for compliance with any applicable provisions of
+10 New York state or federal law or regulation.
+11 3. This article shall not supersede, amend, or repeal article forty-
+12 seven of this chapter.
+13 § 1805. Applicability. This article shall apply to conduct that
+14 occurs in whole or in part in the state of New York. For purposes of
+15 this article, conduct takes place wholly outside of the state of New
+16 York if an advanced chatbot is accessed by a user who is physically
+17 located outside of the state of New York.
+18 § 2. Severability. If any clause, sentence, paragraph, subdivision,
+19 section or part of this article shall be adjudged by any court of compe-
+20 tent jurisdiction to be invalid, such judgment shall not affect, impair,
+21 or invalidate the remainder thereof, but shall be confined in its opera-
+22 tion to the clause, sentence, paragraph, subdivision, section, or part
+23 thereof directly involved in the controversy in which such judgment
+24 shall have been made.
+25 § 3. This act shall take effect on the one hundred eightieth day after
+26 it shall have become a law. Effective immediately, the addition, amend-
+27 ment and/or repeal of any rule or regulation necessary for the implemen-
+28 tation of this act on its effective date are authorized to be made and
+29 completed on or before such effective date.

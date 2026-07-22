@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - A10988A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10988--A
+IN ASSEMBLY
+April 14, 2026
+___________
+Introduced by M. of A. SHRESTHA -- read once and referred to the Commit-
+tee on Corporations, Authorities and Commissions -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the public service law, in relation to directing utility
+corporations to petition the public service commission for approval of
+electric grid utilization metrics
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 4-c to read as follows:
+3 § 4-c. Utility corporation utilization metrics. 1. (a) No later than
+4 October fifteenth, two thousand twenty-six, each utility corporation
+5 shall petition the commission for approval of electric grid utilization
+6 metrics. Such petition shall include an overview of electric grid utili-
+7 zation metrics, including industry standard metrics. Each utility corpo-
+8 ration shall include in such petition an assessment of current electric
+9 distribution and transmission system performance as compared with opti-
+10 mal utilization of existing electric grid assets, including any informa-
+11 tion necessary for the commission to evaluate the efficiency and
+12 performance of electric distribution and transmission system infrastruc-
+13 ture owned and operated by each such utility corporation.
+14 (b) Any electric grid utilization metrics proposed by a utility corpo-
+15 ration under paragraph (a) of this subdivision shall include: (i) the
+16 ratio of distribution system peak load to total distribution electric
+17 grid capacity; (ii) the ratio of current electric load delivered to
+18 total potential deliverable electric load over the distribution system;
+19 (iii) the percentage of kilowatt-hours of electricity lost during the
+20 distribution process or by the distribution system; (iv) an analysis of
+21 constrained circuits on the distribution system; and (v) an evaluation
+22 of the performance of the distribution system at system peaks.
+23 (c) (i) In evaluating petitions made under this subdivision, the
+24 commission shall determine which electric grid utilization metrics shall
+25 be approved, how such metrics may be reasonably applied at the feeder
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15374-03-6
+
+A. 10988--A 2
+1 and substation level, and how such metrics may be reported in future
+2 integrated resource plan filings, and shall include, as deemed appropri-
+3 ate by the commission, a requirement to submit seasonal assessments of
+4 electric grid utilization and implementation of such electric grid
+5 utilization metrics.
+6 (ii) In approving any electric grid utilization metrics under this
+7 paragraph, the commission shall include, as appropriate: (1) a timeline
+8 for each utility corporation to increase electric grid utilization in
+9 accordance with the approved metrics; and (2) a description of the ways
+10 in which such metrics may inform the commission's consideration of
+11 future utility requests for approval of cost recovery for capital
+12 investments.
+13 (iii) In subsequent integrated resource plan filings, each utility
+14 shall include an assessment of current system performance relative to
+15 each proposed metric and may propose new or modified electric grid
+16 utilization metrics for commission approval.
+17 2. (a) The commission shall produce an annual report to the legisla-
+18 ture and the governor on each utility corporation's assessment of rele-
+19 vant grid utilization metrics and performance against such metrics rela-
+20 tive to the requirements of this section, including the timeline
+21 established by the commission for each such utility corporation.
+22 (b) In the report submitted under paragraph (a) of this subdivision,
+23 the commission shall also analyze the potential for each utility corpo-
+24 ration to increase electric grid utilization through the deployment of
+25 non-wires alternatives, including: (i) virtual power plants; (ii) flexi-
+26 ble transmission and transmission static synchronous compensators; (iii)
+27 synchronous condensers; and (iv) power quality monitoring equipment
+28 installed at the point of interconnection for all customers with a meas-
+29 ured or contracted demand of twenty-five megawatts or greater.
+30 (c) In conducting an analysis under paragraph (b) of this subdivision,
+31 the commission may request any information necessary from each utility
+32 corporation to properly evaluate such utility corporation's deployment
+33 of non-wires alternatives or other methods to improve electric grid
+34 utilization.
+35 § 2. This act shall take effect immediately.
