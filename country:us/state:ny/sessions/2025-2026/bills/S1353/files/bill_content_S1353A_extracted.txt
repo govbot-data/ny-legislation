@@ -1,0 +1,395 @@
+Title: 
+Official Title: 
+Source: versions - S1353A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1353--A
+2025-2026 Regular Sessions
+IN SENATE
+January 9, 2025
+___________
+Introduced by Sens. CLEARE, COMRIE, HOYLMAN-SIGAL, JACKSON, MYRIE, SALA-
+ZAR, WEBB -- read twice and ordered printed, and when printed to be
+committed to the Committee on Consumer Protection -- reported favora-
+bly from said committee and committed to the Committee on Judiciary --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the general business law, in relation to establishing a
+right of action for claims arising out of coerced debts
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 29-HHH to read as follows:
+3 ARTICLE 29-HHH
+4 ACTIONS INVOLVING COERCED DEBTS
+5 Section 604-aa. Definitions.
+6 604-bb. Notice of coerced debt.
+7 604-cc. Coerced debt cause of action and affirmative defense.
+8 § 604-aa. Definitions. As used in this article, the following terms
+9 shall have the following meanings:
+10 1. "Action" means any civil judicial proceeding as defined in section
+11 one hundred five of the civil practice law and rules.
+12 2. "Adequate documentation of coerced debt" means documentation that
+13 identifies a particular debt, or a portion thereof, as coerced debt,
+14 describes the circumstances under which such coerced debt was incurred,
+15 and takes the form of any of the following:
+16 (a) a police report;
+17 (b) a federal trade commission identity theft report that identifies a
+18 particular debt, or portion thereof, as a coerced debt;
+19 (c) an order from a court of competent jurisdiction setting forth
+20 findings of coerced debt; or
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD04056-03-5
+
+S. 1353--A 2
+1 (d) a written verification, from a qualified third party to whom the
+2 debtor reported the coerced debt, which shall be satisfied by any sworn
+3 or notarized statement including the required information as well as the
+4 name, mailing address, and email address or telephone number, as appli-
+5 cable, of such qualified third party's employer or, if self-employed, of
+6 such qualified third party.
+7 3. "Coerced debt" is debt incurred as a result of economic abuse,
+8 including but not limited to, by means of fraud, duress, intimidation,
+9 threat, force, coercion, manipulation, or undue influence, the non-con-
+10 sensual use of the debtor's personal information.
+11 4. "Creditor" means any person, firm, corporation or organization to
+12 whom a debt is owed, due, or asserted to be due or owed, or any assignee
+13 for value of said person, firm, corporation or organization, including
+14 any debt collection agency or debt collector as defined by section six
+15 hundred of this chapter; provided, however, that "creditor" shall not
+16 include a person to whom a debt is allegedly owed, due, or asserted to
+17 be due or owed, where the person asserting such claim caused the debt to
+18 arise by engaging in one or more acts of coercion, as identified in
+19 subdivision three of this section, against the debtor.
+20 5. "Debt" means any obligation or alleged obligation of a consumer to
+21 pay money arising out of a transaction in which the money, property,
+22 insurance, rental arrears owed for use and occupancy of a dwelling, or
+23 services which are the subject of such transaction are primarily for
+24 personal, family, or household purposes, whether or not such obligation
+25 has been reduced to a judgment.
+26 6. "Debtor" means any natural person who owes or who is asserted to
+27 owe a debt.
+28 7. "Economic abuse", in the context of intimate relationships or
+29 relationships between family or household members as defined by section
+30 four hundred fifty-nine-a of the social services law, relationships
+31 between victims of human trafficking and traffickers, or relationships
+32 between children, the elderly, or individuals eligible for protective
+33 services under subdivision one of section four hundred seventy-three of
+34 the social services law, and their caregivers, means behavior that is
+35 coercive, deceptive, manipulative, or that controls, restrains, or
+36 sabotages a person's ability to acquire, use, or maintain economic
+37 resources to which they are entitled, including but not limited to using
+38 coercion, fraud, or manipulation to:
+39 (a) restrict a person's access to money, assets, credit, or financial
+40 information;
+41 (b) unfairly use a person's personal information or personal economic
+42 resources, including money, assets, and/or credit; or
+43 (c) exert undue influence over a person's financial and economic
+44 behavior or decisions, including but not limited to forcing default on
+45 joint or other financial obligations, exploiting powers of attorney,
+46 guardianship, or conservatorship, or failing or neglecting to act in the
+47 best interests of a person to whom one has a fiduciary duty.
+48 8. "Personal information" includes, but is not limited to, a name,
+49 address, telephone or mobile phone number, driver registration number or
+50 non-driver identification card number, social security number, email
+51 address, social media profile or screen name, place of employment,
+52 employee identification number, mother's maiden name, financial services
+53 account number or code, savings account number or code, checking account
+54 number or code, debit or credit card number or code, automated teller
+55 machine number or code, electronic serial number, any personal identifi-
+56 cation number or password of a debtor, and a debtor's personal docu-
+
+S. 1353--A 3
+1 ments, including, but not limited to, such debtor's driver's license or
+2 non-driver identification card, passport, permanent resident card, visa,
+3 birth certificate, social security card, and any copies thereof or
+4 information contained therein. "Personal identification number or pass-
+5 word", as used in this subdivision, means any number or alphanumeric
+6 code which may be used alone or in conjunction with any other informa-
+7 tion to assume the identity of another person or access financial
+8 resources or credit information of another person.
+9 9. "Pleading" means any complaint, petition, counterclaim, cross-
+10 claim, interpleader complaint, third-party complaint or any similar
+11 papers asserting a claim and demand for relief required to be filed with
+12 the court pursuant to rule twenty-one hundred two of the civil practice
+13 law and rules, the rules of the chief administrator of the courts, or
+14 any local rule or practice established by the court.
+15 10. "Qualified third party" means any (a) law enforcement officer; (b)
+16 employee of a court of the state; (c) attorney, physician, psychiatrist,
+17 psychologist, social worker, registered nurse, therapist, or clinical
+18 professional counselor licensed to practice in any state; (d) person
+19 employed by or working on behalf of a government or non-profit office,
+20 agency, or service that advises or provides services to persons regard-
+21 ing domestic violence, family violence, human trafficking, or abuse of
+22 children, the elderly, or dependent adults; or (e) member of the clergy
+23 of a church or religious society or denomination.
+24 § 604-bb. Notice of coerced debt. 1. Upon receipt of the following, a
+25 creditor shall cease collection activities until completion of the
+26 review under subdivision three of this section:
+27 (a) adequate documentation of coerced debt; and
+28 (b) the debtor's statement that a particular debt being collected, or
+29 portion thereof, is coerced debt.
+30 2. (a) If a debtor notifies a creditor, either orally or in writing,
+31 that a debt is a coerced debt but does not provide the documentation
+32 required in subdivision one of this section, or such documentation is
+33 insufficient, such creditor shall provide written notice to such debtor
+34 that includes the following text:
+35 "UNDER NEW YORK GENERAL BUSINESS LAW 604-BB, YOU HAVE THE RIGHT TO
+36 DISPUTE DEBT THAT YOU BELIEVE IS COERCED DEBT. A DEBT IS "COERCED" WHEN
+37 IT IS INCURRED IN A CONSUMER'S NAME BECAUSE OF THREATS, INTIMIDATION, OR
+38 FORCE BY ANOTHER PERSON.
+39 TO DISPUTE COERCED DEBT, YOU MUST SUBMIT A "NOTICE OF COERCED DEBT" IN
+40 WRITING. THE "NOTICE OF COERCED DEBT" MUST INCLUDE TWO DOCUMENTS:
+41 1 - A SWORN OR NOTARIZED STATEMENT BY YOU, THE ALLEGED DEBTOR, STATING
+42 THAT A CERTAIN DEBT OR PORTION OF A DEBT BEING COLLECTED IS COERCED
+43 DEBT.
+44 2 - "ADEQUATE DOCUMENTATION OF COERCED DEBT"
+45 TO PROVIDE "ADEQUATE DOCUMENTATION OF COERCED DEBT," YOU ARE REQUIRED
+46 TO PROVIDE ONLY ONE OF THE FOLLOWING DOCUMENTS, BUT YOU MAY PROVIDE MORE
+47 THAN ONE.
+48 1 - A POLICE REPORT
+49 2 - A FEDERAL TRADE COMMISSION IDENTITY THEFT REPORT
+50 3 - A COURT ORDER FINDING THAT THE DEBT WAS COERCED
+51 4 - A NOTARIZED STATEMENT FROM A "QUALIFIED THIRD PARTY" THAT YOU
+52 REPORTED THE COERCED DEBT TO.
+53 EXAMPLES OF "QUALIFIED THIRD PARTIES" INCLUDE SOCIAL WORKERS AND
+54 ATTORNEYS; DOCTORS, NURSES, AND THERAPISTS; EMPLOYEES FROM GOVERNMENT OR
+55 NON-PROFIT AGENCIES THAT WORK WITH SURVIVORS OF VIOLENCE; MEMBERS OF THE
+56 CLERGY; ELECTED OFFICIALS; AND LAW ENFORCEMENT OFFICERS.
+
+S. 1353--A 4
+1 NO MATTER WHICH FORM OF "ADEQUATE DOCUMENTATION OF COERCED DEBT" YOU
+2 PROVIDE, IT MUST IDENTIFY THE PARTICULAR DEBT, STATE THAT IT IS COERCED
+3 DEBT, AND DESCRIBE THE CIRCUMSTANCES THAT CAUSED THE DEBT TO BE
+4 INCURRED.
+5 TO DISPUTE DEBT THAT YOU BELIEVE IS COERCED DEBT, PLEASE SEND THE
+6 REQUIRED DOCUMENTS TO (DESIGNATED ADDRESS). AFTER RECEIVING YOUR NOTICE
+7 OF COERCED DEBT, WE WILL INVESTIGATE YOUR CLAIM AND RESPOND IN WRITING
+8 WITHIN 35 BUSINESS DAYS. FOR MORE INFORMATION, PLEASE CALL (DESIGNATED
+9 PHONE NUMBER)."
+10 (b) If a debtor notifies a creditor in writing that a particular debt
+11 being collected, or portion thereof, is coerced debt, but omits informa-
+12 tion under subdivision one of this section, and if such creditor does
+13 not cease such collection activities, such creditor shall provide writ-
+14 ten notice to such debtor of the additional information that is
+15 required.
+16 3. (a) Within ten business days of receiving the information under
+17 subdivision one of this section, the creditor shall, if such creditor
+18 furnishes adverse information about the debtor to a consumer reporting
+19 agency, notify such consumer reporting agency that the account is
+20 disputed.
+21 (b) Within thirty business days of receiving the information under
+22 subdivision one of this section, the creditor shall complete a review
+23 considering all information provided by the debtor and other information
+24 available to such creditor in such creditor's file. In connection with
+25 such review and communication of the outcome of such review, the credi-
+26 tor shall:
+27 (i) neither directly nor indirectly contact the individual accused of
+28 causing the coerced debt to be incurred;
+29 (ii) use only the contact information the debtor provides with the
+30 information under subdivision one of this section when attempting to
+31 contact such debtor and shall not use any other contact information,
+32 even if associated with the account under review, when attempting to
+33 contact such debtor; and
+34 (iii) not disclose the documents, information, or contact information
+35 the debtor provides with the information under subdivision one of this
+36 section to any other person, including, but not limited to, joint
+37 account holders, without such debtor's express written authorization.
+38 For purposes of this subparagraph, sending documents, information, or
+39 contact information the debtor provides under subdivision one of this
+40 section to a mailing or electronic mail address other than the one
+41 provided by the debtor constitutes unlawful disclosure to a third party,
+42 even if such mail or electronic mail address is associated with the
+43 account.
+44 (c) Within five business days of completing the review under paragraph
+45 (b) of this subdivision, a creditor who recommences collection activ-
+46 ities based on such review shall notify the debtor in writing of such
+47 creditor's determination and the good faith basis for such determi-
+48 nation, and shall enclose all documents and information upon which such
+49 creditor bases its determination therewith, provided however such
+50 documentation shall not include personally identifiable information of
+51 another person. Such written notice shall include a notice of the
+52 debtor's right to request reconsideration of such determination to
+53 recommence collection activities under subdivision four of this section.
+54 (d) Within five business days of completing the review under paragraph
+55 (b) of this subdivision, a creditor who ceases collection activities
+
+S. 1353--A 5
+1 under this section and, based on such review, does not recommence such
+2 collection activities, shall:
+3 (i) notify the debtor in writing that it is ceasing collection activ-
+4 ities based on such debtor's claim of coerced debt;
+5 (ii) contact any consumer reporting agencies to which it furnishes
+6 information about the debtor and the particular debt and instruct such
+7 consumer reporting agencies to delete such information; and
+8 (iii) if the creditor is also a debt collector or debt collection
+9 agency, as defined in section six hundred of this chapter, notify the
+10 original creditor that it has ceased collection activities because the
+11 debt was found to be a coerced debt.
+12 4. A debtor who receives written notice under paragraph (c) of subdi-
+13 vision three of this section that the creditor will recommence
+14 collection activities against such debtor based on such creditor's
+15 determination under subdivision three of this section may make a request
+16 to the creditor that the creditor reconsider such determination to
+17 recommence collection activities within thirty days of the date of mail-
+18 ing of such written determination. A debtor requesting reconsideration
+19 of a creditor's determination to recommence collection activities shall
+20 be permitted to submit additional adequate documentation of coerced
+21 debt, as defined in this article. A creditor who receives a debtors
+22 request for reconsideration shall complete a review of all information,
+23 including additional adequate documentation submitted, within thirty
+24 days of receiving such request. Submitting a request for reconsider-
+25 ation of the determination to the creditor shall not be a condition to
+26 bringing an action under section six hundred four-cc of this article.
+27 5. No inference or presumption that the debt is valid or invalid, or
+28 that the debtor is liable or not liable for such debt, shall arise if
+29 the creditor decides after completing the review under subdivision three
+30 of this section to cease or recommence the debt collection activities.
+31 The exercise or non-exercise of rights under this section shall not
+32 constitute a waiver of any other right or defense of the debtor, credi-
+33 tor, debt collector, or any other person.
+34 6. Ceasing collection activities under this section shall not toll the
+35 statute of limitations period on any action to collect the debt.
+36 7. If at any time any individual or entity, including, but not limited
+37 to the creditor, such creditor's assignor, or any assignee, recommences
+38 collection activities on the debt after ceasing collection activities on
+39 such debt based on such creditor's review of such debtor's notice of
+40 coerced debt, such debtor may submit a subsequent notice of coerced
+41 debt. A subsequent notice of coerced debt submitted under this subdivi-
+42 sion shall be governed by subdivisions one through six of this section.
+43 8. A debtor injured by a violation of this section shall have a cause
+44 of action against the creditor to recover statutory damages of one thou-
+45 sand dollars, actual damages, if any, and the costs and attorneys' fees
+46 reasonably incurred in bringing such action.
+47 § 604-cc. Coerced debt cause of action and affirmative defense. 1. A
+48 person shall not cause another person to incur a coerced debt. A person
+49 who causes another person to incur a coerced debt in violation of this
+50 subdivision shall be civilly liable to the creditor, and/or the debtor
+51 in whose name such coerced debt was incurred if such debtor has already
+52 paid all or part of such coerced debt, for the amount of such debt, or
+53 portion thereof, determined by the court to be a coerced debt, as well
+54 as such creditor's and/or debtor's costs and attorneys' fees reasonably
+55 incurred in bringing the action. An action under this subdivision shall
+56 be commenced within three years of the later of: (a) the creditor's
+
+S. 1353--A 6
+1 determination that all or part of such debt is coerced debt; or (b) a
+2 court's determination that all or part of such debt is coerced debt.
+3 2. (a) A debtor shall have a cause of action against a creditor in any
+4 court having jurisdiction to issue a declaratory judgment establishing
+5 that a debt or portion of a debt asserted to be owed to such creditor is
+6 a coerced debt. Notwithstanding section one thousand one of the civil
+7 practice law and rules, any individual alleged to have caused such
+8 coerced debt to be incurred shall not be a necessary party to such
+9 action. Such action shall not be commenced and maintained unless the
+10 following conditions are satisfied:
+11 (i) (1) the debtor provides by first class mail with certification of
+12 mailing, certified mail, overnight delivery, or other method that allows
+13 for confirmation of the date of mailing, the notice of coerced debt or
+14 subsequent notice of coerced debt under section six hundred four-bb of
+15 this article, provided, however, that receipt of the notice of coerced
+16 debt shall not be a condition to bringing such action if it is sent in a
+17 properly addressed envelope; and
+18 (2) the thirty-day period under paragraph (b) of subdivision three of
+19 section six hundred four-bb of this article has expired and the debtor
+20 has not received written notice that collection activities have ceased;
+21 or
+22 (ii) the debtor receives a written determination under paragraph (c)
+23 of subdivision three of section six hundred four-bb of this article that
+24 the particular disputed debt is not coerced debt.
+25 (b) The submission of a request for reconsideration under subdivision
+26 four of section six hundred four-bb of this article of the creditor's
+27 decision to recommence debt collection activities based on such credi-
+28 tor's review of the debtor's notice of coerced debt is not a condition
+29 to commencing an action under this subdivision.
+30 3. In an action under subdivision two of this section, a debtor shall
+31 plead the allegations of coerced debt with particularity and shall
+32 attach the documents provided to the creditor pursuant to subdivision
+33 one of section six hundred four-bb of this article to any complaint.
+34 4. A debtor who establishes by a preponderance of the evidence in an
+35 action pursuant to subdivision two of this section that a debt or
+36 portion of a debt asserted to be owed to the creditor is coerced debt
+37 shall be entitled to the following relief:
+38 (a) a declaratory judgment stating that the debt or portion thereof is
+39 coerced debt and that the alleged debtor shall not be liable for such
+40 coerced debt;
+41 (b) an order enjoining or restraining the creditor from holding or
+42 attempting to hold the debtor personally liable for the coerced debt or
+43 attempting to obtain or enforce any judgment thereon against such debtor
+44 and enjoining and restraining all future collection activities with
+45 respect to such debt;
+46 (c) an order dismissing any other cause of action brought by the cred-
+47 itor to enforce or collect the coerced debt from the debtor;
+48 (d) if the creditor has furnished adverse information to a consumer
+49 reporting agency with respect to such coerced debt, an order directing
+50 the creditor to notify such agency to delete all such adverse informa-
+51 tion; and
+52 (e) the costs and attorneys' fees reasonably incurred in bringing such
+53 action.
+54 5. In any action by a creditor against a debtor to collect a debt, it
+55 shall be an affirmative defense to such action that all or a portion of
+56 the debt is coerced debt. Providing notice to the creditor under
+
+S. 1353--A 7
+1 section six hundred four-bb of this article shall not be a prerequisite
+2 to asserting such defense; provided, however, the documents described in
+3 subdivision one of section six hundred four-bb of this article shall be
+4 annexed to the debtor's answer. A debtor who prevails on an affirmative
+5 defense of coerced debt shall be entitled to the costs and attorneys'
+6 fees reasonably incurred in defending against the action. Notwithstand-
+7 ing section one thousand one of the civil practice law and rules, any
+8 individual alleged to have caused such coerced debt to be incurred shall
+9 not be or become a necessary party to such action.
+10 6. An action pursuant to subdivision two of this section shall be
+11 commenced within three years after the date on which the debtor provided
+12 the notice of coerced debt pursuant to section six hundred four-bb of
+13 this article to the creditor; provided, however, that if such creditor,
+14 its assignor, or any assignee recommences collection activities on the
+15 debt after ceasing collection activities on such debt based on such
+16 creditor's review of the debtor's claim of coerced debt, such debtor
+17 shall have the right to file a subsequent notice of coerced debt pursu-
+18 ant to subdivision seven of section six hundred four-bb of this article
+19 and the statute of limitations shall commence on the date on which such
+20 debtor provided such subsequent notice of coerced debt.
+21 7. If requested by the debtor, the court presiding over any action in
+22 which coerced debt is raised as a claim or affirmative defense shall
+23 take appropriate steps necessary to prevent abuse of such debtor or an
+24 immediate family member of such debtor, including but not limited to the
+25 sealing of court records, the redaction of such debtor's or their imme-
+26 diate family member's personal information, and/or directing that any
+27 disposition or hearing be held remotely.
+28 8. The provisions of this article shall not be construed so as to
+29 prevent a creditor from enforcing any claim or collecting judgment aris-
+30 ing out of a lawful debt or portion thereof from any other person or
+31 entity other than the coerced debtor.
+32 9. For debts secured by real or personal property, the private cause
+33 of action and affirmative defense authorized by this section shall
+34 affect only the debtor's liability for any deficiency after the foreclo-
+35 sure, repossession, or surrender and disposition of the subject collat-
+36 eral.
+37 10. Whenever there shall be a violation of this section, an applica-
+38 tion may be made by the attorney general in the name of the people of
+39 the state of New York to a court or justice having jurisdiction to issue
+40 an injunction, and upon notice to the defendant of not less than five
+41 days, to enjoin and restrain the continuance of such violations. If it
+42 shall appear to the satisfaction of the court or justice that the
+43 defendant has, in fact, violated this section, an injunction may be
+44 issued by such court or justice, enjoining or restraining any violation,
+45 without requiring proof that any person has, in fact, been injured or
+46 damaged thereby. In any such proceeding the court may make allowances to
+47 the attorney general as provided in section eighty-three hundred three
+48 of the civil practice law and rules, and may make direct restitution. In
+49 connection with any such proposed application, the attorney general is
+50 authorized to take proof and make a determination of the relevant facts
+51 and to issue subpoenas in accordance with the civil practice law and
+52 rules. Whenever the court shall determine that a violation of this
+53 section has occurred, the court may impose a civil penalty for each
+54 violation up to five thousand dollars.
+55 § 2. This act shall take effect on the ninetieth day after it shall
+56 have become a law.

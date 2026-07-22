@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - A2605A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+2605--A
+Cal. No. 448
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 21, 2025
+___________
+Introduced by M. of A. SAYEGH, JACOBSON, SANTABARBARA, OTIS -- read once
+and referred to the Committee on Corporations, Authorities and Commis-
+sions -- recommitted to the Committee on Corporations, Authorities and
+Commissions in accordance with Assembly Rule 3, sec. 2 -- advanced to
+a third reading, passed by Assembly and delivered to the Senate,
+recalled from the Senate, vote reconsidered, bill amended, ordered
+reprinted, retaining its place on the order of third reading
+AN ACT to amend the public service law and the public authorities law,
+in relation to requiring the results of any outage management system
+stress test conducted in the state by a utility company to be posted
+online
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public service law is amended by adding a new section
+2 54 to read as follows:
+3 § 54. Utility outage management system stress testing. 1. For
+4 purposes of this section, "outage management system stress test" shall
+5 mean a test conducted by a utility to determine the ability of such
+6 utility to handle and respond to large scale weather events or natural
+7 disasters that are likely to result in the loss of service to customers.
+8 2. (a) The department shall post the results of any outage management
+9 system stress test conducted in the state by a gas, electric, or combi-
+10 nation gas and electric utility corporation, or municipal electric or
+11 gas on the department's website as soon as such results become avail-
+12 able.
+13 (b) The commission shall also submit an annual report of such results
+14 to the governor, the temporary president of the senate, the speaker of
+15 the assembly and the chairs of the senate and assembly standing commit-
+16 tees on energy.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD02711-03-6
+
+A. 2605--A 2
+1 § 2. Title 1-A of article 5 of the public authorities law, as added by
+2 chapter 517 of the laws of 1986, is amended by adding a new section
+3 1020-oo to read as follows:
+4 § 1020-oo. Outage management system stress testing. 1. For purposes
+5 of this section, "outage management system stress test" shall mean a
+6 test conducted by the authority or a service provider to determine the
+7 ability of the authority or such service provider to handle and respond
+8 to large scale weather events or natural disasters that are likely to
+9 result in the loss of service to customers.
+10 2. (a) The authority shall post the results of any outage management
+11 system stress test conducted by the authority or a service provider on
+12 the authority's website as soon as such results become available.
+13 (b) The board shall also submit a report of such results to the gover-
+14 nor, the temporary president of the senate, the speaker of the assembly
+15 and the chairs of the senate and assembly standing committees on energy.
+16 § 3. The public service law is amended by adding a new section 89-q to
+17 read as follows:
+18 § 89-q. Utility outage management system stress testing. 1. For
+19 purposes of this section, "outage management system stress test" shall
+20 mean a test conducted by a utility to determine the ability of such
+21 utility to handle and respond to large scale weather events or natural
+22 disasters that are likely to result in the loss of service to customers.
+23 2. (a) The department shall post the results of any outage management
+24 system stress test conducted in the state by a waterworks corporation,
+25 or municipal water systems on the department's website as soon as such
+26 results become available.
+27 (b) The commission shall also submit an annual report of such results
+28 to the governor, the temporary president of the senate, the speaker of
+29 the assembly and the chairs of the senate and assembly standing commit-
+30 tees on energy.
+31 § 4. This act shall take effect immediately.

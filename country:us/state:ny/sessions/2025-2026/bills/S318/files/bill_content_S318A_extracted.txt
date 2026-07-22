@@ -1,0 +1,647 @@
+Title: 
+Official Title: 
+Source: versions - S318A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+318--A
+2025-2026 Regular Sessions
+IN SENATE
+(Prefiled)
+January 8, 2025
+___________
+Introduced by Sens. SALAZAR, BRISPORT, BROUK, CLEARE, COMRIE, COONEY,
+FERNANDEZ, GIANARIS, GONZALEZ, GOUNARDES, JACKSON, KAVANAGH, KRUEGER,
+MAY, MYRIE, PARKER, PERSAUD, RAMOS, RIVERA, SANDERS, SEPULVEDA, SERRA-
+NO, STAVISKY, WEBB -- read twice and ordered printed, and when printed
+to be committed to the Committee on Codes -- recommitted to the
+Committee on Codes in accordance with Senate Rule 6, sec. 8 -- commit-
+tee discharged, bill amended, ordered reprinted as amended and recom-
+mitted to said committee
+AN ACT to amend the civil practice law and rules, the executive law, the
+correction law, the vehicle and traffic law, the village law and the
+state finance law, in relation to eliminating certain court surcharges
+and fees; and to repeal certain provisions of the penal law, the vehi-
+cle and traffic law, the correction law, the parks, recreation and
+historic preservation law, the executive law and the environmental
+conservation law relating thereto (Part A); to amend the penal law and
+the vehicle and traffic law, in relation to mandating that courts
+engage in an individualized assessment of a person's financial ability
+to pay a fine prior to imposing a fine (Part B); to amend the criminal
+procedure law, in relation to eliminating the availability of incar-
+ceration as a remedy for a failure to pay a fine, surcharge or fee,
+lifting and vacating all existing warrants issued solely based on a
+person's failure to timely pay a fine, surcharge or fee and ending all
+existing sentences of incarceration based on such failure; and to
+repeal certain provisions of the criminal procedure law relating ther-
+eto (Part C); in relation to vacating all existing unsatisfied civil
+judgments entered solely based on a person's failure to timely pay a
+surcharge or fee and to repeal certain provisions of the criminal
+procedure law relating thereto (Part D); to amend the criminal proce-
+dure law, in relation to prohibiting the collection of a fine, resti-
+tution or reparation from the funds of an incarcerated person; and to
+amend the correction law, in relation to prohibiting the payment of
+court fines, mandatory surcharges, certain fees, restitution, repara-
+tion or forfeitures from the earnings of prisoners (Part E); and in
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD00566-02-6
+
+S. 318--A 2
+relation to vacating all existing unpaid surcharges, DNA databank
+fees, crime victim assistance fees, sexual offender registration fees,
+or supplemental sex offender victim fees (Part F)
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act enacts into law major components of legislation
+2 relating to ending the unfair financial burdens imposed on defendants in
+3 criminal, vehicle and traffic, or other types of criminal or quasi-cri-
+4 minal matters by the existence of mandatory court surcharges and fees,
+5 mandatory minimum fines and mandatory probation or parole fees. This
+6 act further enacts into law procedures by which courts would be required
+7 to engage in an individualized assessment of a person's financial abili-
+8 ty to pay a fine prior to imposing a fine, eliminates the availability
+9 of incarceration as a remedy for a failure to pay a fine, and vacates
+10 all existing warrants or unsatisfied civil judgments issued solely based
+11 on a person's failure to timely pay a fine, surcharge, or fee. Each
+12 component is wholly contained within a Part identified as Parts A
+13 through F. The effective date for each particular provision contained
+14 within such Part is set forth in the last section of such Part. Any
+15 provision in any section contained within a Part, including the effec-
+16 tive date of the Part, which makes reference to a section "of this act",
+17 when used in connection with that particular component, shall be deemed
+18 to mean and refer to the corresponding section of the Part in which it
+19 is found. Section four of this act sets forth the general effective
+20 date of this act.
+21 § 2. Legislative intent. The legislative intent of this act is to end
+22 the inequitable financial burdens placed on defendants by the previously
+23 enacted statutory provisions which have authorized or mandated the impo-
+24 sition of surcharges, fees, and/or mandatory minimum fines, which have
+25 had a disparate impact on poor defendants, people of color, and those
+26 who lack access to the significant financial resources necessary in
+27 order to satisfy the imposition of surcharges, fees, and fines, and
+28 which have also contributed to mass incarceration in New York state. The
+29 legislative intent is also to end New York's regressive reliance on
+30 generating governmental revenue by imposing surcharges, fees, and fines
+31 on those least able to pay.
+32 PART A
+33 Section 1. Section 60.35 of the penal law is REPEALED.
+34 § 2. Section 1809 of the vehicle and traffic law is REPEALED.
+35 § 3. Section 1809-c of the vehicle and traffic law is REPEALED.
+36 § 4. Section 1809-d of the vehicle and traffic law is REPEALED.
+37 § 5. Section 1809-e of the vehicle and traffic law is REPEALED.
+38 § 6. Section 71-0213 of the environmental conservation law is
+39 REPEALED.
+40 § 7. The opening paragraph of paragraph 2 of subdivision (f) of
+41 section 1101 of the civil practice law and rules, as amended by chapter
+42 322 of the laws of 2021, is amended to read as follows:
+43 If the court determines that the incarcerated individual has insuffi-
+44 cient means to pay the full filing fee, the court may permit the incar-
+45 cerated individual to pay a reduced filing fee, the minimum of which
+46 shall not be less than fifteen dollars and the maximum of which shall
+
+S. 318--A 3
+1 not be more than fifty dollars. The court shall require an initial
+2 payment of such portion of the reduced filing fee as the incarcerated
+3 individual can reasonably afford or shall authorize no initial payment
+4 of the fee if exceptional circumstances render the incarcerated individ-
+5 ual unable to pay any fee; provided however, that the difference between
+6 the amount of the reduced filing fee and the amount paid by the incar-
+7 cerated individual in the initial partial payment shall be assessed
+8 against the incarcerated individual as an outstanding obligation to be
+9 collected either by the superintendent or the municipal official of the
+10 facility at which the incarcerated individual is confined, as the case
+11 may be[, in the same manner that mandatory surcharges are collected as
+12 provided for in subdivision five of section 60.35 of the penal law]. The
+13 court shall notify the superintendent or the municipal official of the
+14 facility where the incarcerated individual is housed of the amount of
+15 the reduced filing fee that was not directed to be paid by the incarcer-
+16 ated individual. Thereafter, the superintendent or the municipal offi-
+17 cial shall forward to the court any fee obligations that have been
+18 collected, provided however, that:
+19 § 8. Paragraph (a) of subdivision 2 of section 259-i of the executive
+20 law, as amended by chapter 322 of the laws of 2021, subparagraph (i) as
+21 amended by chapter 486 of the laws of 2022, is amended to read as
+22 follows:
+23 (a) (i) Except as provided in subparagraph (ii) of this paragraph, at
+24 least one month prior to the date on which an incarcerated individual
+25 may be paroled pursuant to subdivision one of section 70.40 of the penal
+26 law, a member or members as determined by the rules of the board shall
+27 personally interview such incarcerated individual and determine whether
+28 [he or she] such individual should be paroled in accordance with the
+29 guidelines adopted pursuant to subdivision four of section two hundred
+30 fifty-nine-c of this article. If parole is not granted upon such review,
+31 the incarcerated individual shall be informed in writing within two
+32 weeks of such appearance of the factors and reasons for such denial of
+33 parole. Such reasons shall be given in detail and not in conclusory
+34 terms. The board shall specify a date not more than twenty-four months
+35 from such determination for reconsideration, and the procedures to be
+36 followed upon reconsideration shall be the same. If the incarcerated
+37 individual is released, [he or she] such individual shall be given a
+38 copy of the conditions of parole. Such conditions shall where appropri-
+39 ate, include a requirement that the parolee comply with any restitution
+40 order, [mandatory surcharge, sex offender registration fee and DNA data-
+41 bank fee] previously imposed by a court of competent jurisdiction that
+42 applies to the parolee. The conditions shall indicate which restitution
+43 collection agency established under subdivision eight of section 420.10
+44 of the criminal procedure law, shall be responsible for collection of
+45 restitution[, mandatory surcharge, sex offender registration fees and
+46 DNA databank fees as provided for in section 60.35 of the penal law and
+47 section eighteen hundred nine of the vehicle and traffic law]. If the
+48 incarcerated individual is released, [he or she] such individual shall
+49 also be notified in writing that [his or her] such individual's voting
+50 rights will be restored upon release.
+51 (ii) Any incarcerated individual who is scheduled for presumptive
+52 release pursuant to section eight hundred six of the correction law
+53 shall not appear before the board as provided in subparagraph (i) of
+54 this paragraph unless such incarcerated individual's scheduled presump-
+55 tive release is forfeited, canceled, or rescinded subsequently as
+56 provided in such law. In such event, the incarcerated individual shall
+
+S. 318--A 4
+1 appear before the board for release consideration as provided in subpar-
+2 agraph (i) of this paragraph as soon thereafter as is practicable.
+3 § 9. Paragraph (a) of subdivision 2 of section 259-i of the executive
+4 law, as amended by chapter 486 of the laws of 2022, is amended to read
+5 as follows:
+6 (a) At least one month prior to the expiration of the minimum period
+7 or periods of imprisonment fixed by the court or board, a member or
+8 members as determined by the rules of the board shall personally inter-
+9 view an incarcerated individual serving an indeterminate sentence and
+10 determine whether [he or she] such individual should be paroled at the
+11 expiration of the minimum period or periods in accordance with the
+12 procedures adopted pursuant to subdivision four of section two hundred
+13 fifty-nine-c of this article. If parole is not granted upon such review,
+14 the incarcerated individual shall be informed in writing within two
+15 weeks of such appearance of the factors and reasons for such denial of
+16 parole. Such reasons shall be given in detail and not in conclusory
+17 terms. The board shall specify a date not more than twenty-four months
+18 from such determination for reconsideration, and the procedures to be
+19 followed upon reconsideration shall be the same. If the incarcerated
+20 individual is released, [he or she] such individual shall be given a
+21 copy of the conditions of parole. Such conditions shall where appropri-
+22 ate, include a requirement that the parolee comply with any restitution
+23 order [and mandatory surcharge] previously imposed by a court of compe-
+24 tent jurisdiction that applies to the parolee. The conditions shall
+25 indicate which restitution collection agency established under subdivi-
+26 sion eight of section 420.10 of the criminal procedure law, shall be
+27 responsible for collection of restitution [and mandatory surcharge as
+28 provided for in section 60.35 of the penal law and section eighteen
+29 hundred nine of the vehicle and traffic law]. If the incarcerated indi-
+30 vidual is released, [he or she] such individual shall also be notified
+31 in writing that [his or her] such individual's voting rights will be
+32 restored upon release.
+33 § 10. Section 257-c of the executive law is REPEALED and a new section
+34 257-c is added to read as follows:
+35 § 257-c. Probation fees prohibited. Notwithstanding any other
+36 provision of law, no county or city may require individuals currently
+37 serving or who shall be sentenced to a period of probation upon
+38 conviction of any crime to pay any fee, including but not limited to an
+39 administrative fee, supervision fee, monitoring fee, testing fee, or
+40 screening fee, to the local probation department with the responsibility
+41 of supervising the probationer. Nothing in this section shall be
+42 construed to affect the collection of restitution payments pursuant to
+43 sections 65.10 and 60.27 of the penal law and subdivision eight of
+44 section 420.10 of the criminal procedure law.
+45 § 11. Paragraph (a) of subdivision 2 of section 205 of the correction
+46 law, as amended by chapter 491 of the laws of 2021, is amended to read
+47 as follows:
+48 (a) A merit termination granted by the department under this section
+49 shall constitute a termination of the sentence with respect to which it
+50 was granted. No such merit termination shall be granted unless the
+51 department is satisfied that termination of sentence from presumptive
+52 release, parole, conditional release or post-release supervision is in
+53 the best interest of society[, and that the parolee or releasee, other-
+54 wise financially able to comply with an order of restitution and the
+55 payment of any mandatory surcharge previously imposed by a court of
+
+S. 318--A 5
+1 competent jurisdiction, has made a good faith effort to comply there-
+2 with].
+3 § 12. Subdivisions 1 and 3 of section 259-j of the executive law, as
+4 amended by section 38-g of subpart A of part C of chapter 62 of the laws
+5 of 2011, are amended to read as follows:
+6 1. Except where a determinate sentence was imposed for a felony other
+7 than a felony defined in article two hundred twenty [or article two
+8 hundred twenty-one] of the penal law, if the board of parole is satis-
+9 fied that an absolute discharge from presumptive release, parole, condi-
+10 tional release or release to a period of post-release supervision is in
+11 the best interests of society, the board may grant such a discharge
+12 prior to the expiration of the full term or maximum term to any person
+13 who has been on unrevoked community supervision for at least three
+14 consecutive years. A discharge granted under this section shall consti-
+15 tute a termination of the sentence with respect to which it was granted.
+16 [No such discharge shall be granted unless the board is satisfied that
+17 the parolee or releasee, otherwise financially able to comply with an
+18 order of restitution and the payment of any mandatory surcharge, sex
+19 offender registration fee or DNA databank fee previously imposed by a
+20 court of competent jurisdiction, has made a good faith effort to comply
+21 therewith.]
+22 3. Notwithstanding any other provision of this section to the contra-
+23 ry, where a term of post-release supervision in excess of five years has
+24 been imposed on a person convicted of a crime defined in article one
+25 hundred thirty of the penal law, including a sexually motivated felony,
+26 the board of parole may grant a discharge from post-release supervision
+27 prior to the expiration of the maximum term of post-release supervision.
+28 Such a discharge may be granted only after the person has served at
+29 least five years of post-release supervision, and only to a person who
+30 has been on unrevoked post-release supervision for at least three
+31 consecutive years. No such discharge shall be granted unless the board
+32 of parole or the department acting pursuant to its responsibility under
+33 subdivision one of section two hundred one of the correction law
+34 consults with any licensed psychologist, qualified psychiatrist, or
+35 other mental health professional who is providing care or treatment to
+36 the supervisee; and the board[: (a)] determines that a discharge from
+37 post-release supervision is in the best interests of society[; and (b)
+38 is satisfied that the supervisee, otherwise financially able to comply
+39 with an order of restitution and the payment of any mandatory surcharge,
+40 sex offender registration fee, or DNA data bank fee previously imposed
+41 by a court of competent jurisdiction, has made a good faith effort to
+42 comply therewith]. Before making a determination to discharge a person
+43 from a period of post-release supervision, the board of parole may
+44 request that the commissioner of the office of mental health arrange a
+45 psychiatric evaluation of the supervisee. A discharge granted under this
+46 section shall constitute a termination of the sentence with respect to
+47 which it was granted.
+48 § 13. Subdivision 5 of section 27.12 of the parks, recreation and
+49 historic preservation law is REPEALED and subdivision 6 is renumbered
+50 subdivision 5.
+51 § 14. Subdivision 4 of section 60.02 of the penal law is renumbered
+52 subdivision 3.
+53 § 15. Subparagraph (i) of paragraph (j-1) of subdivision 2 of section
+54 503 of the vehicle and traffic law, as amended by section 3 of part PP
+55 of chapter 59 of the laws of 2009, is amended to read as follows:
+
+S. 318--A 6
+1 (i) When a license issued pursuant to this article, or a privilege of
+2 operating a motor vehicle or of obtaining such a license, has been
+3 suspended based upon a failure to answer an appearance ticket or a
+4 summons [or failure to pay a fine, penalty or mandatory surcharge],
+5 pursuant to subdivision three of section two hundred twenty-six, subdi-
+6 vision four of section two hundred twenty-seven, or subdivision four-a
+7 of section five hundred ten [or subdivision five-a of section eighteen
+8 hundred nine] of this chapter, such suspension shall remain in effect
+9 until a termination of a suspension fee of seventy dollars [is paid] to
+10 the court or tribunal that initiated the suspension of such license or
+11 privilege. In no event may the aggregate of the fees imposed by an indi-
+12 vidual court pursuant to this paragraph for the termination of all
+13 suspensions that may be terminated as a result of a person's answers, or
+14 appearances [or payments] made in such cases pending before such indi-
+15 vidual court exceed four hundred dollars. For the purposes of this para-
+16 graph, the various locations of the administrative tribunal established
+17 under article two-A of this chapter shall be considered an individual
+18 court.
+19 § 16. Section 4-411 of the village law, as amended by section 12 of
+20 part F of chapter 62 of the laws of 2003, is amended to read as follows:
+21 § 4-411 Disposition of fines and penalties. Except as otherwise
+22 provided by law, all fines and penalties imposed for the violation of a
+23 village local law, ordinance or regulation shall be the property of the
+24 village, whether or not the village has established the office of
+25 village justice. [Nothing in this section shall be deemed to affect the
+26 disposition of mandatory surcharges, sex offender registration fees, DNA
+27 databank fees or crime victim assistance fees as provided by section
+28 60.35 of the penal law, or of mandatory surcharges as provided by
+29 section eighteen hundred nine of the vehicle and traffic law, or of
+30 fines, penalties and forfeitures as provided by section eighteen hundred
+31 three of the vehicle and traffic law relating to traffic offenses.]
+32 § 17. Section 837-j of the executive law is REPEALED.
+33 § 18. Subdivision 1 of section 837-i of the executive law, as added by
+34 chapter 166 of the laws of 1991, is amended to read as follows:
+35 1. The commissioner, in cooperation with the commissioner of the
+36 department of motor vehicles, and in consultation with the chief execu-
+37 tive officers of cities with a population in excess of one hundred thou-
+38 sand persons according to the nineteen hundred eighty United States
+39 census shall prescribe the form and content of uniform parking tickets
+40 for such cities in all cases involving a parking, standing or stopping
+41 violation as defined in accordance with the vehicle and traffic law,
+42 hereinafter referred to as parking violations, or of any local law,
+43 ordinance, rule or regulation adopted pursuant to the vehicle and traf-
+44 fic law relating to parking violations. [Upon written application of the
+45 chief executive officer of any such city, the commissioner, after
+46 consultation with the commissioner of the department of motor vehicles,
+47 may authorize the use of a parking ticket other than the uniform parking
+48 ticket prescribed pursuant to this section if he or she determines that
+49 use of such other parking ticket is not inconsistent with, and will not
+50 diminish the effectiveness of, the parking violations enforcement and
+51 disposition program established pursuant to section eight hundred thir-
+52 ty-seven-j of this chapter, and may also authorize for a specified time
+53 period the use of a parking ticket which was used by such city on or
+54 before the effective date of this section.]
+55 § 19. Subdivision 2 of section 99-n of the state finance law, as added
+56 by chapter 223 of the laws of 2005, is amended to read as follows:
+
+S. 318--A 7
+1 2. The fund shall consist of all monies appropriated for its
+2 purpose[,] and all monies required by this section or any other
+3 provision of law to be paid into or credited to such fund[, collected by
+4 the mandatory surcharges imposed pursuant to subdivision one of section
+5 eighteen hundred nine-d of the vehicle and traffic law]. Nothing
+6 contained in this section shall prevent the department of motor vehicles
+7 from receiving grants or other appropriations for the purposes of the
+8 fund as defined in this section and depositing them into the fund
+9 according to law.
+10 § 20. This act shall take effect immediately; provided however that
+11 the amendments to subdivision (f) of section 1101 of the civil practice
+12 law and rules made by section seven of this act shall not affect the
+13 expiration of such subdivision and shall be deemed to expire therewith;
+14 and provided further, however, that the amendments to paragraph (a) of
+15 subdivision 2 of section 259-i of the executive law made by section
+16 eight of this act shall be subject to the expiration and reversion of
+17 such paragraph pursuant to subdivision d of section 74 of chapter 3 of
+18 the laws of 1995, as amended, when upon such date the provisions of
+19 section nine of this act shall take effect.
+20 PART B
+21 Section 1. Section 80.05 of the penal law is amended by adding a new
+22 subdivision 7 to read as follows:
+23 7. Waiver or reduction of certain fines. Notwithstanding any other
+24 provision of law to the contrary, the court shall waive or reduce any
+25 statutorily mandated fine imposed upon an indigent person, pursuant to
+26 such person's conviction, if:
+27 (a) such person, being financially unable to obtain or afford counsel,
+28 is represented by counsel, or was represented by counsel in the underly-
+29 ing matter, pursuant to section seven hundred twenty-two of the county
+30 law, in which case the court shall waive the statutorily mandated fine;
+31 or
+32 (b) the court determines such fine should otherwise be waived or
+33 reduced in the interest of justice. In determining whether to waive or
+34 reduce any statutorily mandated fine pursuant to this paragraph, the
+35 court may consider the totality of the defendant's circumstances includ-
+36 ing:
+37 (i) the defendant's income and financial resources;
+38 (ii) the defendant's debt and financial obligations;
+39 (iii) whether the imposition of such fine would cause an unreasonable
+40 hardship on the defendant, the defendant's immediate family, or any
+41 other person who is dependent on such defendant for financial support;
+42 and
+43 (iv) any other information concerning the defendant's circumstances
+44 that the court may deem relevant or necessary.
+45 If the court determines that neither condition outlined in paragraph
+46 (a) or (b) of this subdivision applies, the court shall impose a statu-
+47 torily mandated fine, if applicable, as directed by statute.
+48 § 2. The vehicle and traffic law is amended by adding a new section
+49 1811 to read as follows:
+50 § 1811. Fines; individualized assessment. 1. Notwithstanding any other
+51 provision of law to the contrary, the court shall waive or reduce any
+52 statutorily mandated fine imposed upon an indigent person, pursuant to
+53 such person's conviction, if:
+
+S. 318--A 8
+1 a. such person, being financially unable to obtain or afford counsel,
+2 is represented by counsel, or was represented by counsel in the underly-
+3 ing matter, pursuant to section seven hundred twenty-two of the county
+4 law, in which case the court shall waive the statutorily mandated fine;
+5 or
+6 b. the court determines such fine should otherwise be waived or
+7 reduced in the interest of justice. In determining whether to waive or
+8 reduce any statutorily mandated fine pursuant to this paragraph, the
+9 court may consider the totality of the defendant's circumstances includ-
+10 ing:
+11 (i) the defendant's income and financial resources;
+12 (ii) the defendant's debt and financial obligations;
+13 (iii) whether the imposition of such fine would cause an unreasonable
+14 hardship on the defendant, the defendant's immediate family, or any
+15 other person who is dependent on such defendant for financial support;
+16 and
+17 (iv) any other information concerning the defendant's circumstances
+18 that the court may deem relevant or necessary.
+19 If the court determines that neither condition outlined in paragraph a
+20 or b of this subdivision applies, the court shall impose a statutorily
+21 mandated fine, if applicable, as directed by statute.
+22 2. It shall be the duty of a court of record or administrative tribu-
+23 nal to report data to the division of criminal justice services on the
+24 disposition and collection of all surcharges, fees and fines imposed
+25 pursuant to the penal law and this chapter. Such data shall include, at
+26 minimum, information on the number of surcharges, fees and fines
+27 imposed; the provision of law pursuant to which each surcharge, fee or
+28 fine was imposed; the amount of the surcharge, fee or fine; the court
+29 that issued the surcharge, fee or fine; the outcome of any waiver or
+30 reduction application and individualized assessment conducted pursuant
+31 to section 80.05 of the penal law or section eighteen hundred eleven of
+32 this article; the amount of the surcharge, fee or fine that has been
+33 paid, if any; and the race, ethnicity, age, and sex of the person for
+34 whom the surcharge, fee or fine was imposed.
+35 § 3. This act shall take effect immediately.
+36 PART C
+37 Section 1. Subdivisions 3 and 4 of section 420.10 of the criminal
+38 procedure law are REPEALED.
+39 § 2. Section 420.35 of the criminal procedure law is REPEALED.
+40 § 3. Subdivision 5 of section 420.10 of the criminal procedure law, as
+41 separately amended by chapters 233 and 506 of the laws of 1985, the
+42 second undesignated paragraph as amended by chapter 618 of the laws of
+43 1992, the closing paragraph as amended by chapter 322 of the laws of
+44 2021, is amended to read as follows:
+45 5. Application for resentence. In any case where the defendant is
+46 unable to pay a fine, restitution or reparation imposed by the court,
+47 [he] the defendant may at any time apply to the court for resentence. In
+48 such case, if the court is satisfied that the defendant is unable to pay
+49 the fine, restitution or reparation it must:
+50 (a) Adjust the terms of payment; or
+51 (b) Lower the amount of the fine, restitution or reparation to an
+52 amount the defendant is able to pay, or revoke it entirely from the
+53 sentence if the defendant has no ability to pay; or
+
+S. 318--A 9
+1 (c) [Where the sentence consists of probation or imprisonment and a
+2 fine, restitution or reparation, revoke the portion of the sentence
+3 imposing the fine, restitution or reparation; or
+4 (d)] Revoke the entire sentence imposed and resentence the defendant.
+5 Upon such resentence the court may impose any sentence it originally
+6 could have imposed, except that the amount of any fine, restitution or
+7 reparation imposed may not be in excess of the amount the defendant is
+8 able to pay and that the court may not sentence the defendant to any
+9 term of imprisonment, probation, or post-release supervision in excess
+10 of any such term imposed by the original sentence.
+11 In any case where the defendant applies for resentencing with respect
+12 to any condition of the sentence relating to restitution or reparation
+13 the court must order that notice of such application and a reasonable
+14 opportunity to be heard be given to the person or persons given notice
+15 pursuant to subdivision one of this section. If the court grants the
+16 defendant's application by changing the original order for restitution
+17 or reparation in any manner, the court must place the reasons therefor
+18 on the record.
+19 [For the purposes of this subdivision, the court shall not determine
+20 that the defendant is unable to pay the fine, restitution or reparation
+21 ordered solely because of such defendant's incarceration but shall
+22 consider all the defendant's sources of income including, but not limit-
+23 ed to, moneys in the possession of an incarcerated individual at the
+24 time of his or her admission into such facility, funds earned by him or
+25 her in a work release program as defined in subdivision four of section
+26 one hundred fifty of the correction law, funds earned by him or her as
+27 provided for in section one hundred eighty-seven of the correction law
+28 and any other funds received by him or her or on his or her behalf and
+29 deposited with the superintendent or the municipal official of the
+30 facility where the person is confined.]
+31 In determining whether an incarcerated defendant is able to pay a
+32 fine, restitution, or reparation, the court shall not consider income
+33 earned pursuant to subdivision four of section one hundred fifty of the
+34 correction law, income earned pursuant to section one hundred eighty-
+35 seven of the correction law, or funds received by the defendant or on
+36 the defendant's behalf and deposited with the superintendent or the
+37 municipal official of the facility where the person is confined.
+38 § 4. Subdivision 1 of section 420.30 of the criminal procedure law, as
+39 amended by chapter 3 of the laws of 1995, is amended to read as follows:
+40 1. Applicability. The procedure specified in this section governs
+41 remission of fines, restitution or reparation [in all cases not covered
+42 by subdivision four of section 420.10].
+43 § 5. The criminal procedure law is amended by adding a new section
+44 420.11 to read as follows:
+45 § 420.11 Warrants and sentences of incarceration; effectiveness.
+46 1. All warrants issued prior to the effective date of this section
+47 pursuant to the provisions of subdivision three of section 420.10 of
+48 this article as such subdivision existed prior to the effective date of
+49 this section and/or the provisions of subdivision one of section 420.35
+50 of this article as such subdivision existed prior to the effective date
+51 of this section solely based on the alleged failure on the part of a
+52 defendant to timely pay, and/or to appear on a court date set for the
+53 sole purpose of payment of, a fine, restitution, reparation, surcharge,
+54 DNA databank fee, crime victim assistance fee, sexual offender registra-
+55 tion fee, and/or supplemental sex offender victim fee, are deemed to be
+56 null and void.
+
+S. 318--A 10
+1 2. The office of court administration, in consultation with such other
+2 state or municipal agencies as necessary, shall establish procedures to
+3 formally rescind all warrants issued prior to the effective date of this
+4 section pursuant to the provisions of subdivision three of section
+5 420.10 of this article as such subdivision existed prior to the effec-
+6 tive date of this section and/or the provisions of subdivision one of
+7 section 420.35 of this article as such subdivision existed prior to the
+8 effective date of this section solely based on the alleged failure on
+9 the part of a defendant to timely pay, and/or to appear on a court date
+10 set for the sole purpose of payment of, a fine, restitution, reparation,
+11 surcharge, DNA databank fee, crime victim assistance fee, sexual offen-
+12 der registration fee, and/or supplemental sex offender victim fee. Such
+13 procedures shall not require any affirmative actions on the part of any
+14 defendant subject to any such warrant. Such procedures shall be
+15 designed and implemented so as to accomplish the rescinding of all such
+16 warrants within six months of the effective date of this section.
+17 3. All sentences of incarceration imposed prior to the effective date
+18 of this section pursuant to the provisions of subdivision three of
+19 section 420.10 of this article as such subdivision existed prior to the
+20 effective date of this section, subdivision five of section 420.10 of
+21 this article, or section 420.35 of this article as such section existed
+22 prior to the effective date of this section based solely on the alleged
+23 failure on the part of a defendant to timely pay, or timely appear on a
+24 court date scheduled for the purposes of payment of, a fine, restitu-
+25 tion, reparation, surcharge, DNA databank fee, crime victim assistance
+26 fee, sexual offender registration fee, or supplemental sex offender
+27 victim fee are deemed to be null and void and any person serving such a
+28 sentence shall be released from custody immediately.
+29 4. The office of court administration, in consultation with such other
+30 state or municipal agencies as is necessary, shall establish procedures
+31 to formally rescind all sentences of incarceration imposed prior to the
+32 effective date of this section pursuant to the provisions of subdivision
+33 three of section 420.10 of this article as such subdivision existed
+34 prior to the effective date of this section or section 420.35 of this
+35 article as such section existed prior to the effective date of this
+36 section based solely on the alleged failure on the part of a defendant
+37 to timely pay a fine, restitution, reparation, surcharge, DNA databank
+38 fee, crime victim assistance fee, sexual offender registration fee, or
+39 supplemental sex offender victim fee. Such procedures shall not require
+40 any affirmative actions on the part of any defendant subject to any such
+41 sentence.
+42 § 6. Subdivision 1 of section 430.20 of the criminal procedure law, as
+43 amended by chapter 788 of the laws of 1971, is amended to read as
+44 follows:
+45 1. In general. When a sentence of imprisonment is pronounced, [or when
+46 th sentence consists of a fine and the court has directed that the
+47 defendant be imprisoned until it is satisfied,] the defendant must
+48 forthwith be committed to the custody of the appropriate public servant
+49 and detained until the sentence is complied with.
+50 § 7. Subdivision 5 of section 430.20 of the criminal procedure law is
+51 REPEALED.
+52 § 8. This act shall take effect immediately.
+53 PART D
+
+S. 318--A 11
+1 Section 1. All unsatisfied civil judgments issued prior to the effec-
+2 tive date of this act pursuant to the provisions of subdivision 5 of
+3 section 420.40 of the criminal procedure law solely based on the alleged
+4 failure on the part of a defendant to timely pay, and/or to appear on a
+5 court date set for the sole purpose of payment of a surcharge, DNA data-
+6 bank fee, crime victim assistance fee, sexual offender registration fee,
+7 or supplemental sex offender victim fee are deemed to be null and void
+8 and, for all legal purposes, vacated and discharged.
+9 § 2. The office of court administration, in consultation with such
+10 other state or municipal agencies as necessary, shall establish proce-
+11 dures to formally vacate and discharge all unsatisfied civil judgments
+12 entered prior to the effective date of this act pursuant to the
+13 provisions of subdivision 5 of section 420.40 of the criminal procedure
+14 law solely based on the alleged failure on the part of a defendant to
+15 timely pay, and/or to appear on a court date set for the sole purpose of
+16 payment of, a surcharge, DNA databank fee, crime victim assistance fee,
+17 sexual offender registration fee, or supplemental sex offender victim
+18 fee. Such procedures shall not require any affirmative actions on the
+19 part of any defendant subject to any such civil judgment. Such proce-
+20 dures shall be designed and implemented so as to accomplish the vacatur
+21 and discharge of all such civil judgments within six months of the
+22 effective date of this act.
+23 § 3. Subdivision 3 of section 420.30 of the criminal procedure law is
+24 REPEALED.
+25 § 4. This act shall take effect immediately.
+26 PART E
+27 Section 1. Section 420.10 of the criminal procedure law is amended by
+28 adding a new subdivision 9 to read as follows:
+29 9. In no case shall a court fee, surcharge or money owed as part of an
+30 incarcerated person's sentence be collected out of the incarcerated
+31 individual's fund account or any other funds or accounts of a person who
+32 is presently incarcerated, including funds earned by the person in a
+33 work release program as defined in subdivision four of section one
+34 hundred fifty of the correction law, funds earned by a person as
+35 provided for in section one hundred eighty-seven of the correction law,
+36 funds deposited into a commissary or canteen account as defined by
+37 section twenty-six of the correction law, and any other funds received
+38 by the person or on the person's behalf and deposited with the super-
+39 intendent or the municipal official of the facility where the person is
+40 confined.
+41 § 2. Section 154 of the correction law, as added by chapter 788 of the
+42 laws of 1968, subdivision 4 as amended by section 3 of part F of chapter
+43 62 of the laws of 2003, is amended to read as follows:
+44 § 154. Disposition of Earnings. The earnings of a prisoner participat-
+45 ing in a work release program, less any payroll deductions required or
+46 authorized by law, shall be deposited with the department in a trust
+47 fund account. Such earnings shall not be subject to attachment or
+48 garnishment in the hands of the department. The commissioner is author-
+49 ized to provide for disbursements from the trust fund account for any or
+50 all of the following purposes:
+51 1. Such costs incident to the prisoner's confinement as the commis-
+52 sioner deems appropriate and reasonable.
+53 2. Such costs related to the prisoner's work release program as the
+54 commissioner deems appropriate and reasonable.
+
+S. 318--A 12
+1 3. Support of the prisoner's dependents.
+2 [4. Payment of court fines, mandatory surcharge, sex offender regis-
+3 tration fee, DNA databank fee, restitution or reparation, or forfei-
+4 tures.]
+5 The balance of such earnings, if any, after disbursements for any of
+6 the foregoing purposes shall be paid to the prisoner upon termination of
+7 [his] such prisoner's imprisonment.
+8 § 3. This act shall take effect immediately.
+9 PART F
+10 Section 1. All orders issued prior to the effective date of this act
+11 directing payment by a defendant of a surcharge, DNA databank fee, crime
+12 victim assistance fee, sexual offender registration fee, supplemental
+13 sex offender victim fee, probation supervision fee or parole supervision
+14 fee are deemed to be null and void and, such orders are for all legal
+15 purposes, vacated and discharged. Pursuant to this section, any exist-
+16 ing encumbrances on commissary accounts or similar accounts held by a
+17 correctional facility, jail, or detention facility shall be lifted and
+18 deemed null and void.
+19 § 2. This act shall take effect immediately.
+20 § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+21 sion, section or part of this act shall be adjudged by any court of
+22 competent jurisdiction to be invalid, such judgment shall not affect,
+23 impair, or invalidate the remainder thereof, but shall be confined in
+24 its operation to the clause, sentence, paragraph, subdivision, section
+25 or part thereof directly involved in the controversy in which such judg-
+26 ment shall have been rendered. It is hereby declared to be the intent of
+27 the legislature that this act would have been enacted even if such
+28 invalid provisions had not been included herein.
+29 § 4. This act shall take effect immediately provided, however, that
+30 the applicable effective date of Parts A through F of this act shall be
+31 as specifically set forth in the last section of such Parts.

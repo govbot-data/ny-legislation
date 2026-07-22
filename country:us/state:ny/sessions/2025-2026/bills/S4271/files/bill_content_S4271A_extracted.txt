@@ -1,0 +1,704 @@
+Title: 
+Official Title: 
+Source: versions - S4271A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+4271--A
+2025-2026 Regular Sessions
+IN SENATE
+February 3, 2025
+___________
+Introduced by Sens. KAVANAGH, JACKSON -- read twice and ordered printed,
+and when printed to be committed to the Committee on Banks -- recom-
+mitted to the Committee on Banks in accordance with Senate Rule 6,
+sec. 8 -- reported favorably from said committee and committed to the
+Committee on Finance -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the banking law and the civil practice law and rules, in
+relation to licensing consumer debt collectors
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The banking law is amended by adding a new article 7 to
+2 read as follows:
+3 ARTICLE VII
+4 LICENSED CONSUMER DEBT COLLECTORS
+5 Section 295. Definitions.
+6 296. License required; entities exempt.
+7 297. Application for license; fees.
+8 298. Surety bond required.
+9 299. Examination; books and records; reports.
+10 300. Prohibited acts.
+11 301. Regulations; minimum standards.
+12 302. Application for acquisition of control of a consumer debt
+13 collector.
+14 303. Suspension and revocation.
+15 304. Bad actors.
+16 305. Penalties.
+17 306. Preemption of local law.
+18 § 295. Definitions. As used in this article:
+19 1. "Affiliated company" means a consumer debt collector operating
+20 under the control of a licensee, provided that the affiliated company
+21 shares common facilities, management, and operations with the licensee
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD06314-03-6
+
+S. 4271--A 2
+1 and the affiliated company does not engage in any collection activities
+2 other than debt buying or debt collection for the licensee.
+3 2. "Applicant" means a consumer debt collector who has filed an appli-
+4 cation to obtain a license under this article.
+5 3. "Attorney-at-law" and "law firm" means any attorney-at-law or law
+6 firm retained by a client for the purpose of litigation and representing
+7 such client through activities that may only be performed by a licensed
+8 attorney, including acting pursuant to law or regulation by contacting a
+9 consumer debtor in the course of the representation regarding antic-
+10 ipated, pending, or previous litigation.
+11 4. "Communication" and "communicate" means the conveying of informa-
+12 tion regarding a consumer debt directly or indirectly to any person
+13 through any medium.
+14 5. "Consumer debt" means any obligation of a natural person for the
+15 payment of money or its equivalent which arises out of a transaction
+16 which was primarily for personal, family, or household purposes. The
+17 term includes an obligation of a natural person who is a co-maker,
+18 endorser, guarantor or surety of such a transaction.
+19 6. "Consumer debtor" means any natural person who owes or is asserted
+20 to owe any consumer debt.
+21 7. "Consumer debt collector" means any person who engages in a busi-
+22 ness, a principal purpose of which is consumer debt buying, or regularly
+23 collecting or attempting to collect, directly or indirectly, consumer
+24 debts: (a) owed or due or asserted to be owed or due to another person;
+25 or (b) obtained by or assigned to such person that are in default when
+26 obtained or acquired by such person. The term includes any creditor who,
+27 in the process of collecting its own consumer debts, and uses any name
+28 other than its own which would reasonably indicate that a third person
+29 is collecting or attempting to collect a consumer debt.
+30 8. "Control" means the possession, direct or indirect, of the power to
+31 direct or cause the direction of the management and policies of a
+32 person, whether through the ownership of voting securities, by contract,
+33 except a commercial contract for goods or non-management services, or
+34 otherwise. Control shall be presumed to exist if any person directly or
+35 indirectly owns, controls or holds with the power to vote five percent
+36 or more of the voting securities of any other person.
+37 9. "Creditor" means any person to whom a consumer debt is owed, due or
+38 asserted to be due or owed, or any assignee for value of said person.
+39 10. "Licensee" means a consumer debt collector that possesses one or
+40 more licenses pursuant to this article.
+41 11. "Person" means a natural person or any entity, including but not
+42 limited to any partnership, corporation, limited liability company,
+43 branch, agency, association, organization, any similar entity or any
+44 combination of the foregoing acting in concert.
+45 § 296. License required; entities exempt. 1. No person shall act with-
+46 in this state as a consumer debt collector, directly or indirectly,
+47 without first obtaining a license from the superintendent. A consumer
+48 debt collector is acting within this state if it is physically located
+49 in New York or if it is seeking to collect from any consumer debtor that
+50 resides within this state.
+51 2. No creditor, or the state or municipality of the state, may utilize
+52 the services of a consumer debt collector to collect from a consumer
+53 debtor that resides within this state unless the consumer debt collector
+54 is licensed by the superintendent.
+
+S. 4271--A 3
+1 3. No person shall accept payments from consumer debtors on behalf of
+2 a consumer debt collector acting within this state unless such consumer
+3 debt collector is licensed by the superintendent.
+4 4. The requirements of subdivisions one, two and three of this section
+5 shall not apply to:
+6 (a) any officer or employee of a licensed consumer debt collector when
+7 attempting to collect on behalf of such consumer debt collector;
+8 (b) any officer or employee of a creditor while in the name of the
+9 creditor collecting debts for such creditor;
+10 (c) any public officer acting in their official capacity;
+11 (d) a person who is principally engaged in the business of servicing
+12 loans or accounts which are not delinquent for the owners thereof when
+13 in addition to requesting payment from delinquent consumer debtors, the
+14 person provides other services including receipt of payment, accounting,
+15 record-keeping, data processing services and remitting, for loans or
+16 accounts which are current as well as those which are delinquent;
+17 (e) any person while serving or making a bona fide attempt to serve
+18 legal process on any other person in connection with the judicial
+19 enforcement of any debt;
+20 (f) any non-profit organization which, at the request of a consumer
+21 debtor, performs bona fide consumer credit counseling and assists
+22 customers in the liquidation of their debts by receiving payments from
+23 such consumer debtors and distributing such amounts to creditors;
+24 (g) any bank, trust company, savings banks, savings and loan associ-
+25 ation, credit union, or foreign banking corporation, whether incorpo-
+26 rated, chartered, organized or licensed under the laws of this state,
+27 any other state, or the United States, any agency or division of the
+28 federal government, or any insurer doing business under a license issued
+29 under the insurance law;
+30 (h) a subsidiary or affiliate of any bank, trust company, savings
+31 banks, savings and loan association, credit union, or foreign banking
+32 corporation, whether incorporated, chartered, organized or licensed
+33 under the laws of this state, any other state, or the United States, any
+34 agency or division of the federal government, or any insurer doing busi-
+35 ness under a license issued under the insurance law, provided such
+36 affiliate or subsidiary is not primarily engaged in the business of
+37 purchasing and collecting upon delinquent debt, other than delinquent
+38 consumer debt secured by real property;
+39 (i) any person engaged in business, the principal purpose of which is
+40 to regularly collect or attempt to collect debts owed or due or asserted
+41 to be owed or due to another person where the debt is enforced for
+42 child support, spousal support, maintenance or alimony, provided, howev-
+43 er, that if such person also regularly collects or attempts to collect
+44 debts other than those enforced for child support, spousal support,
+45 maintenance or alimony, such person must comply with the requirements of
+46 this article;
+47 (j) any person while acting as a consumer debt collector for another
+48 person, both of whom are related by common ownership or affiliated by
+49 corporate control, if the person acting as a consumer debt collector
+50 does so only for persons to whom it is so related or affiliated and if
+51 the principal business of such person is not the collection of consumer
+52 debts;
+53 (k) any attorney-at-law or law firm;
+54 (l) any person employed by a utility regulated under the provisions of
+55 the public service law, acting for such utility;
+
+S. 4271--A 4
+1 (m) any person collecting or attempting to collect any consumer debt
+2 owed or due or asserted to be owed or due another to the extent such
+3 activity: (i) is incidental to a bona fide fiduciary obligation or a
+4 bona fide escrow agreement; (ii) concerns a consumer debt which was
+5 originated by such person; or (iii) concerns a consumer debt which was
+6 not in default at the time it was obtained by such person as a secured
+7 party in a commercial credit transaction involving the creditor; and
+8 (n) any officer or employee of the United States, any state thereof or
+9 any political subdivision of any state to the extent that collecting or
+10 attempting to collect any debt owed is in the performance of their offi-
+11 cial duties.
+12 § 297. Application for license; fees. 1. (a) An application for a
+13 license under this article shall be in writing, under oath, and in the
+14 form prescribed by the superintendent and shall contain such information
+15 related to the collection of consumer debts as the superintendent may
+16 require. In addition to any other information required, the superinten-
+17 dent shall require the following information, and shall, as appropri-
+18 ate, require such information not only of the applicant but also of any
+19 of its principals, partners, officers and directors, or any person or
+20 entity controlling an interest greater than five percent:
+21 (i) the name and residence address of the applicant;
+22 (ii) the business name, if other than the applicant;
+23 (iii) the address of the principal place of business;
+24 (iv) the business telephone of the applicant;
+25 (v) the length of time that the applicant has been a consumer debt
+26 collector;
+27 (vi) a statement indicating whether the applicant has:
+28 (A) been convicted of any crime or is a debtor on any unpaid civil
+29 judgment relating to work as a consumer debt collector; and
+30 (B) at any time in the past been issued a license pursuant to this
+31 article, or has been issued a license for debt collection activities by
+32 any other state or local authority, and if so, whether such license was
+33 ever revoked or suspended;
+34 (vii) a list of certifications issued to the consumer debt collector
+35 by nonprofit trade associations;
+36 (viii) unless the consumer debt collector is certified by a nonprofit
+37 trade association recognized by the superintendent as having standards
+38 that address the following requirements, a detailed description of the
+39 business practices or methods used, or intended to be used, by the
+40 applicant to confirm the validity of the debts it seeks to collect from
+41 consumers;
+42 (ix) unless the consumer debt collector is certified by a nonprofit
+43 trade association recognized by the superintendent as having standards
+44 that address the following requirements, a summary of the applicant's
+45 record-keeping policy, including, but not limited to:
+46 (A) the length of time the applicant maintains, or intends to main-
+47 tain, records pertaining to consumers; and
+48 (B) the manner in which the applicant records and stores, or intends
+49 to record and store: consumer challenges to the validity of debt; bill-
+50 ing errors; payments made by a consumer; settlement agreements; infor-
+51 mation regarding parties responsible for debt; any statements made by a
+52 consumer alleging that the debt arose from identity theft; and any
+53 statements made by a consumer stating that the consumer received statu-
+54 torily exempt income as defined in section fifty-two hundred twenty-two
+55 of the civil practice law and rules;
+
+S. 4271--A 5
+1 (x) whether the applicant regularly sells, or intends to sell, consum-
+2 er debts. If the applicant sells, or intends to sell consumer debts,
+3 such applicant shall be required to provide the superintendent with a
+4 summary of the applicant's policy with respect to the information
+5 regarding a consumer's account that it transmits, or will transmit, to
+6 the purchaser of a consumer debt, unless the consumer debt collector is
+7 certified by a nonprofit trade association recognized by the superinten-
+8 dent as having standards that address this requirement;
+9 (xi) a sworn statement by the applicant that the information set forth
+10 in the application is current and accurate; and
+11 (xii) the name of each affiliated company the applicant wishes to
+12 include on the license.
+13 (b) The superintendent may reject an application for a license or an
+14 application for the renewal of a license if such superintendent is not
+15 satisfied that the financial responsibility, character, reputation,
+16 integrity and general fitness of the applicant and of the owners, part-
+17 ners or members thereof, if the applicant be a partnership or associ-
+18 ation, and of the officers and directors, if the applicant be a corpo-
+19 ration, are such as to command the confidence of the public and to
+20 warrant the belief that the business for which the application for a
+21 license is filed will be operated lawfully, honestly and fairly.
+22 2. At the time of making the application for a license, the applicant
+23 shall pay to the superintendent a fee as prescribed pursuant to section
+24 eighteen-a of this chapter.
+25 3. In addition to any other fee imposed on an applicant or licensee,
+26 every licensee shall pay to the superintendent the sums provided to be
+27 paid under the provisions of section two hundred six of the financial
+28 services law.
+29 4. The license shall be for a period of two years as of the first of
+30 January each year, or such other date as determined by the superinten-
+31 dent by regulation.
+32 5. Each license shall plainly state the name of the licensee and the
+33 address of the principal place of business. A licensee shall not change
+34 the location of the principal place of business without first providing
+35 written notice to the superintendent. The relocation notice shall be in
+36 writing setting forth the reason for the relocation, and shall be accom-
+37 panied by a relocation fee pursuant to section eighteen-a of this chap-
+38 ter.
+39 6. The business shall at all times be conducted in the name of the
+40 licensee as it appears on the license and in no other name, including a
+41 shortened or abbreviated version thereof. The superintendent may permit
+42 affiliated companies to be under a single license and subject to a
+43 single examination as long as all of the affiliated company names are on
+44 the license.
+45 7. The license shall not be transferable nor assignable.
+46 8. The superintendent may participate in a multi-state licensing
+47 system for the sharing of regulatory information and for the licensing
+48 and application, by electronic or other means, of entities engaged in
+49 the business of consumer debt collection. The superintendent may estab-
+50 lish requirements for participation by an applicant in a multi-state
+51 licensing system which may vary from the provisions of this section. The
+52 superintendent may require a background investigation of each applicant
+53 for a consumer debt collector license by means of fingerprint, which
+54 shall be submitted by all applicants simultaneously with an application
+55 and which the superintendent may submit to the division of criminal
+56 justice services and the federal bureau of investigation for state and
+
+S. 4271--A 6
+1 national criminal history record checks. If the applicant is a partner-
+2 ship, association, corporation or other form of business organization,
+3 the superintendent may require a background investigation for each
+4 member or shareholder holding more than five percent ownership, board
+5 director and principal officer of the applicant and any individual
+6 acting as a manager of an office location. The applicant shall pay
+7 directly to the multi-state licensing system any additional fees relat-
+8 ing to participation in the multi-state licensing system.
+9 9. The superintendent shall issue each consumer debt collector a
+10 unique license number.
+11 10. The department shall maintain and publish a registry of all
+12 licensed consumer debt collectors, which shall list and identify, all
+13 licensed consumer debt collectors doing business in this state. The
+14 department shall make the registry available on its website.
+15 11. Each consumer debt collector engaged in collecting consumer debts
+16 shall communicate their license number upon the request of any inter-
+17 ested party. Any advertisement, letterhead, receipt or other printed
+18 matter of a licensee must contain the license number assigned to the
+19 licensee by the department. Such license number shall be clearly and
+20 conspicuously displayed in no less than a ten-point font.
+21 12. No person shall: (a) present, or attempt to present, as their or
+22 its own, the license number of another;
+23 (b) knowingly give false evidence of a material nature to the depart-
+24 ment for the purpose of procuring a license;
+25 (c) falsely represent themselves to be a licensed consumer debt
+26 collector;
+27 (d) use or attempt to use a license which has expired;
+28 (e) offer to perform or perform any collection of consumer debts with-
+29 out having a current license as is required under this article; or
+30 (f) represent in any manner that their or its license constitutes an
+31 endorsement of the quality of workmanship or competency of the consumer
+32 debt collector.
+33 § 298. Surety bond required. 1. (a) A consumer debt collector shall be
+34 required to file and maintain in force a surety bond, issued by a domes-
+35 tic insurer, as a condition precedent to the issuance or renewal and
+36 maintenance of a license under this article.
+37 (b) The bond shall be for the benefit of creditors who obtain a judg-
+38 ment from a court of competent jurisdiction based on the failure of the
+39 consumer debt collector to remit money collected on account and owed to
+40 the creditor. The bond shall also be for the benefit of consumer
+41 debtors or the attorney general seeking restitution for consumer debtors
+42 when such consumer debtor or the attorney general obtains judgment from
+43 a court of competent jurisdiction based on a violation by the consumer
+44 debt collector of the federal Fair Debt Collection Practice Act or any
+45 other New York law or federal law regulating consumer debt collection
+46 which is applicable to the consumer debt collector if such judgment has
+47 not been paid within six months, except if the decision is under appeal.
+48 (c) The bond shall be in a form prescribed by the superintendent in a
+49 sum based on the gross profit reported to the Internal Revenue Service
+50 for the previous year by such consumer debt collector as follows:
+51 (i) ten thousand dollars for consumer debt collectors that reported a
+52 gross profit of less than two hundred fifty thousand dollars;
+53 (ii) twenty-five thousand dollars for consumer debt collectors that
+54 reported a gross profit of two hundred fifty thousand dollars or more;
+55 (iii) fifty thousand dollars for consumer debt collectors that
+56 reported a gross profit of five hundred thousand dollars or more;
+
+S. 4271--A 7
+1 (iv) seventy-five thousand dollars for consumer debt collectors that
+2 reported a gross profit of seven hundred fifty thousand dollars or more;
+3 (v) one hundred thousand dollars for consumer debt collectors that
+4 reported a gross profit of one million dollars or more.
+5 (d) The bond shall be continuous in form and run concurrently with the
+6 original and each renewal license period unless terminated by the insur-
+7 ance company. An insurance company may terminate a bond and avoid
+8 further liability by filing a notice of termination with the department
+9 sixty days prior to the termination and at the same time sending the
+10 same notice to the consumer debt collector.
+11 2. A license shall be automatically cancelled on the termination date
+12 of the bond unless either (a) a new bond is filed with the department to
+13 become effective at the termination date of the prior bond, or (b) the
+14 licensed entity provides the superintendent a refundable deposit in lieu
+15 of the bond while the consumer debt collector pursues a new bond.
+16 3. If a license has been cancelled under this section, the consumer
+17 debt collector must file a new application to obtain a license and will
+18 be considered a new applicant if it obtains a new bond.
+19 4. For the purposes of this section the term "domestic insurer" shall
+20 have the same meaning as given in section one hundred seven of the
+21 insurance law. If a bond required by this section is not reasonably
+22 available from a domestic insurer the superintendent may, in their
+23 discretion, permit, on a case by case basis or by order, consumer debt
+24 collectors to obtain the bond required by this section from such other
+25 entities licensed by the department as the superintendent deems appro-
+26 priate.
+27 § 299. Examination; books and records; reports. 1. For the purpose of
+28 enforcing the provisions of this article and for ensuring the safe and
+29 sound operation of the consumer debt collector business, the superinten-
+30 dent may at any time, and as often as may be determined, either
+31 personally or by a person duly appointed by the superintendent, investi-
+32 gate the loans, business, business practices, and business methods of
+33 any consumer debt collector, and examine the books, accounts, records,
+34 and files used therein of every licensee.
+35 2. The superintendent and duly designated representatives and law
+36 enforcement officials whose presence is requested by the superintendent
+37 shall have access to the offices and place of business, books, accounts,
+38 papers, records, audio recordings, files, safes and vaults of all such
+39 licensees wherever located. The superintendent shall have authority to
+40 require the attendance of and to examine under oath all persons whomsoe-
+41 ver whose testimony may be required relative to such consumer debts,
+42 including the purchase, sale and collection thereof, as well as payment
+43 processing on such consumer debts, and related business.
+44 3. The superintendent may also address to a licensee, or the officers,
+45 employees or agents thereof, any inquiry in relation to its trans-
+46 actions, operations, or conditions, or any matter connected therewith.
+47 Every person so addressed shall reply in writing to such inquiry prompt-
+48 ly and truthfully, and such reply shall be, if required by the super-
+49 intendent, subscribed by such individual, or by such officer or officers
+50 of a corporation, as the superintendent shall designate, and affirmed by
+51 them as true under the penalties of perjury.
+52 4. Each licensee shall keep and use in its business such books,
+53 accounts, and records as will enable the superintendent to determine
+54 whether such licensee is complying with the provisions of this article
+55 and with the rules and regulations promulgated hereunder. Every licen-
+56 see shall keep recordings of consumer collection calls and make such
+
+S. 4271--A 8
+1 recordings available to the superintendent upon request. Every licensee
+2 shall preserve such books, accounts, and records, for at least five
+3 years after making the final entry regarding a consumer debt. Preserva-
+4 tion of photographic reproduction thereof or records in photographic
+5 form, including an optical disk storage system and the use of electronic
+6 data processing equipment that provides comparable records to those
+7 otherwise required and which are available for examination upon request
+8 shall constitute compliance with the requirements of this section.
+9 5. Each licensee shall annually, on or before April first, file a
+10 report with the superintendent giving such information as the super-
+11 intendent may require concerning the business and operations during the
+12 preceding calendar year. Such report shall be subscribed and affirmed as
+13 true by the licensee under the penalties of perjury and shall be in the
+14 form prescribed by the superintendent.
+15 6. In addition to annual reports, the superintendent may require such
+16 additional regular or special reports as may be deemed necessary to the
+17 proper supervision of licensees under this article. Such additional
+18 reports shall be in the form prescribed by the superintendent and shall
+19 be subscribed and affirmed as true under the penalties of perjury.
+20 7. The expenses of every examination of the affairs of a consumer debt
+21 collector subject to this section shall be borne and paid by the licen-
+22 see.
+23 § 300. Prohibited acts. 1. No consumer debt collector that is required
+24 to be licensed under this article shall engage in unfair, unconsciona-
+25 ble, deceptive, false, misleading, abusive, or unlawful acts or prac-
+26 tices.
+27 2. Without limiting the general application of the prohibited acts in
+28 subdivision one of this section, it shall be unlawful for any consumer
+29 debt collector to:
+30 (a) engage in any act or practice which would be a material violation
+31 of the federal Fair Debt Collection Practices Act, any other New York
+32 law or federal law regulating consumer debt collection, or any act or
+33 practice which would be prohibited under section six hundred one of the
+34 general business law if the consumer debt collector was a principal
+35 creditor or their agent;
+36 (b) engage or retain the services of any person who, being required to
+37 be licensed under this article, does not have a valid license issued by
+38 the department; or
+39 (c) cause any act to be done which violates this section.
+40 3. No consumer debt collector licensed under this article shall:
+41 (a) without the prior written or recorded consent of the consumer
+42 debtor given directly to the creditor or consumer debt collector or the
+43 express permission of a court of competent jurisdiction, a consumer debt
+44 collector may not communicate with a consumer debtor in connection with
+45 the collection of any consumer debts:
+46 (i) at any unusual time or place or a time or place known or which
+47 should be known to be inconvenient to the consumer debtor. In the
+48 absence of knowledge of circumstances to the contrary, a consumer debt
+49 collector shall assume that the convenient time for communicating with a
+50 consumer debtor is after eight o'clock antemeridian and before nine
+51 o'clock postmeridian, local time at the consumer debtor's location.
+52 Unless the consumer debtor is known to be in another time zone, the
+53 consumer debt collector can rely on the local time of the area code
+54 dialed in determining the convenient time for communication;
+55 (ii) if the consumer debt collector knows the consumer debtor is
+56 represented by an attorney with respect to such consumer debt and has
+
+S. 4271--A 9
+1 knowledge of, or can readily ascertain, such attorney's name and
+2 address, unless the attorney fails to respond within a reasonable period
+3 of time to a communication from the consumer debt collector or unless
+4 the attorney consents to direct communication with the consumer debtor;
+5 (iii) at a place known to be the consumer debtor's place of employment
+6 unless the consumer debtor is self-employed;
+7 (iv) more than two times by telephone in a seven day period unless
+8 returning a call made at the consumer debtor's request;
+9 (v) by voicemail on to any telephone that is known or which reasonably
+10 should be known may be received by someone other than the consumer
+11 debtor; or
+12 (vi) by means of electronic communications, including but not limited
+13 to SMS text message, messaging applications on mobile telephones, elec-
+14 tronic mail, Facebook, and other forms of social media, except as
+15 authorized by 12 CFR Part 1006 or by the superintendent in regulations.
+16 (b) communicate with a consumer debtor by postcard;
+17 (c) continue communication with a consumer debtor after the consumer
+18 debt collector's first communication if the consumer debt collector
+19 fails to send the consumer debtor a notice in writing within five days
+20 of that first communication, which such notice shall be promulgated by
+21 the superintendent;
+22 (d) continue to communicate with a consumer debtor about a consumer
+23 debt that the consumer debtor disputes without providing the consumer
+24 debtor with data or documents that verify the disputed consumer debt; or
+25 (e) utilize a service or technology that intentionally causes the
+26 telephone network to indicate to the receiver of a call that the origi-
+27 nator of the call is a station other than the true originating station
+28 for the purpose of collecting a consumer debt.
+29 § 301. Regulations; minimum standards. The superintendent may promul-
+30 gate rules and regulations giving effect to the provisions of this arti-
+31 cle. Such rules and regulations may include but shall not be limited to
+32 the establishment of minimum standards to be observed by consumer debt
+33 collectors acting within this state and further defining acts and prac-
+34 tices which are unfair, unconscionable, deceptive, false, misleading,
+35 abusive, or unlawful under section three hundred of this article.
+36 § 302. Application for acquisition of control of a consumer debt
+37 collector. 1. No person shall acquire control of a licensee under this
+38 article without the prior approval of the superintendent.
+39 2. Any person desirous of acquiring such control shall make written
+40 application to the superintendent, such application shall be in such
+41 form and shall contain such information, including the information
+42 required under section two hundred ninety-seven of this article, as the
+43 superintendent may require and such person, at the time of making such
+44 application if not licensed, shall pay to the superintendent an investi-
+45 gation fee as prescribed pursuant to section eighteen-a of this chapter.
+46 3. In determining whether to approve or deny an application under this
+47 section, the superintendent shall consider:
+48 (a) whether the financial responsibility, experience, character, and
+49 general fitness of the person seeking to acquire control, and of the
+50 members thereof if such person be a partnership or association, and of
+51 the officers, directors and controlling stockholders thereof if such
+52 person be a corporation, are such as to command the confidence of the
+53 community and to warrant belief that the business will be operated
+54 honestly, fairly, and efficiently within the purpose of this article;
+55 (b) the effect the acquisition may have on competition; and
+
+S. 4271--A 10
+1 (c) whether the acquisition may be hazardous or prejudicial to consum-
+2 er debtors or creditors in this state.
+3 4. If no such application has been made prior to the acquisition of
+4 control, the license shall, at the discretion of the superintendent,
+5 become null and void and shall be surrendered to the superintendent.
+6 § 303. Suspension and revocation. 1. In addition to any other power
+7 provided by law, the superintendent may suspend or revoke the license of
+8 a consumer debt collector, if after notice and an opportunity to be
+9 heard, the superintendent finds that a consumer debt collector has:
+10 (a) committed any fraud, engaged in any dishonest activities or made
+11 any misrepresentation;
+12 (b) materially violated any provisions of this chapter or any regu-
+13 lation issued pursuant thereto, or has materially violated any other law
+14 in the course of its or their dealings as a consumer debt collector;
+15 (c) made a false statement or material omission in the application for
+16 or renewal of a license under this article or failed to give a true
+17 reply to a question in such application; or
+18 (d) demonstrated incompetency or untrustworthiness to act as a consum-
+19 er debt collector.
+20 2. The department shall before revoking or suspending any license and
+21 at least fifteen days prior to the date set for the hearing, and upon
+22 due notice to the complainant or objector, notify in writing the holder
+23 of such license, of any charge made and shall afford such licensee an
+24 opportunity to be heard in person or by counsel in reference thereto.
+25 Such written notice may be served personally to the licensee, or by
+26 certified mail to the last known business address of such licensee.
+27 § 304. Bad actors. 1. In addition to any other power provided by law,
+28 the superintendent may require any licensee to remove any director,
+29 officer or employee or to refrain from engaging or retaining any inde-
+30 pendent contractor or service provider if such director, officer,
+31 employee, independent contractor or service provider has themselves had
+32 a license under this chapter suspended or revoked, or has caused the
+33 licensee to violate any provision of this chapter or regulations promul-
+34 gated thereunder.
+35 2. No person that is the subject of an order under this section remov-
+36 ing them as a director, officer or employee or preventing a licensee
+37 from engaging or retaining them as an independent contractor or service
+38 provider, shall become engaged with any licensee without obtaining the
+39 prior written approval of the superintendent. Nor shall such person fail
+40 to disclose that it is the subject of an order under this section to any
+41 licensee for which it is acting or seeking to act as a director, offi-
+42 cer, employee, independent contractor or service provider.
+43 3. Any consumer debt collector or entity claiming to be a consumer
+44 debt collector that is not licensed pursuant to this article and know-
+45 ingly conducts business involving consumer debt collection shall be
+46 required to pay a civil penalty to the department of not more than the
+47 lesser of five hundred dollars per attempt to collect a consumer debt or
+48 one hundred thousand dollars in total damages in violation of this arti-
+49 cle.
+50 § 305. Penalties. 1. In addition to such penalties as may otherwise be
+51 applicable by law, including but not limited to the penalties available
+52 under section forty-four of this chapter, the superintendent may require
+53 a person operating as a consumer debt collector without a license to pay
+54 a civil penalty to the department a sum not to exceed five hundred
+55 dollars per attempt to collect a consumer debt in violation of this
+56 article.
+
+S. 4271--A 11
+1 2. Whenever it appears to the attorney general, either upon complaint
+2 or otherwise, that any person has engaged in any of the acts or prac-
+3 tices stated to be unlawful under this article, the attorney general may
+4 bring an action or special proceeding in the name and on behalf of the
+5 people of the state of New York to enjoin any violation of this article,
+6 to obtain restitution of any moneys or property obtained directly or
+7 indirectly by any such violation, to obtain disgorgement of any profits
+8 obtained directly or indirectly by any such violation, and to obtain
+9 civil penalties of not more than the lesser of five hundred dollars per
+10 attempt to collect a consumer debt or one hundred thousand dollars in
+11 total damages in violation of this article.
+12 3. Nothing in this article shall limit any statutory or common-law
+13 right of any person to bring any action in any court for any act, or
+14 the right of the state to punish any person for any violation of any
+15 law.
+16 § 306. Preemption of local law. 1. Except as provided in subdivision
+17 two of this section, jurisdiction in all matters pertaining to licensed
+18 consumer debt collectors is, by this article, vested exclusively in the
+19 state.
+20 2. a. Any local law or ordinance of any city with a population of two
+21 hundred fifty thousand or more, which is inconsistent with the
+22 provisions of this article or any rules or regulations promulgated here-
+23 under shall not be preempted if such local law or ordinance provides
+24 consumer debt collection procedures equal to or greater than the
+25 provisions of this article or any rules or regulations promulgated here-
+26 under.
+27 b. Any consumer debt collector operating exclusively within such city
+28 pursuant to a valid license issued by such city shall not be required to
+29 obtain a separate license under this article with respect to collection
+30 activities directed at consumer debtors residing within such city,
+31 provided that such collector remains in compliance with the licensing
+32 requirements of such city.
+33 § 2. Subdivision 10 of section 36 of the banking law, as amended by
+34 section 2 of part L of chapter 58 of the laws of 2019, is amended to
+35 read as follows:
+36 10. All reports of examinations and investigations, correspondence and
+37 memoranda concerning or arising out of such examination and investi-
+38 gations, including any duly authenticated copy or copies thereof in the
+39 possession of any banking organization, bank holding company or any
+40 subsidiary thereof (as such terms "bank holding company" and "subsid-
+41 iary" are defined in article three-A of this chapter), any corporation
+42 or any other entity affiliated with a banking organization within the
+43 meaning of subdivision six of this section and any non-banking subsid-
+44 iary of a corporation or any other entity which is an affiliate of a
+45 banking organization within the meaning of subdivision six-a of this
+46 section, foreign banking corporation, licensed lender, licensed casher
+47 of checks, licensed mortgage banker, registered mortgage broker,
+48 licensed mortgage loan originator, licensed sales finance company,
+49 registered mortgage loan servicer, licensed student loan servicer,
+50 licensed insurance premium finance agency, licensed transmitter of
+51 money, licensed budget planner, licensed consumer debt collector, any
+52 other person or entity subject to supervision under this chapter, or the
+53 financial services law or the insurance law, or the department, shall be
+54 confidential communications, shall not be subject to subpoena and shall
+55 not be made public unless, in the judgment of the superintendent, the
+56 ends of justice and the public advantage will be subserved by the publi-
+
+S. 4271--A 12
+1 cation thereof, in which event the superintendent may publish or author-
+2 ize the publication of a copy of any such report or any part thereof in
+3 such manner as may be deemed proper or unless such laws specifically
+4 authorize such disclosure. For the purposes of this subdivision,
+5 "reports of examinations and investigations, and any correspondence and
+6 memoranda concerning or arising out of such examinations and investi-
+7 gations", includes any such materials of a bank, insurance or securities
+8 regulatory agency or any unit of the federal government or that of this
+9 state any other state or that of any foreign government which are
+10 considered confidential by such agency or unit and which are in the
+11 possession of the department or which are otherwise confidential materi-
+12 als that have been shared by the department with any such agency or unit
+13 and are in the possession of such agency or unit.
+14 § 3. Paragraph (a) of subdivision 1 of section 44 of the banking law,
+15 as amended by section 4 of part L of chapter 58 of the laws of 2019, is
+16 amended to read as follows:
+17 (a) Without limiting any power granted to the superintendent under any
+18 other provision of this chapter, the superintendent may, in a proceeding
+19 after notice and a hearing, require any safe deposit company, licensed
+20 lender, licensed casher of checks, licensed sales finance company,
+21 licensed insurance premium finance agency, licensed transmitter of
+22 money, licensed mortgage banker, licensed student loan servicer, regis-
+23 tered mortgage broker, licensed mortgage loan originator, registered
+24 mortgage loan servicer, licensed consumer debt collector or licensed
+25 budget planner to pay to the people of this state a penalty for any
+26 violation of this chapter, any regulation promulgated thereunder, any
+27 final or temporary order issued pursuant to section thirty-nine of this
+28 article, any condition imposed in writing by the superintendent in
+29 connection with the grant of any application or request, or any written
+30 agreement entered into with the superintendent.
+31 § 4. The opening paragraph of subdivision (a) of section 3218 of the
+32 civil practice law and rules, as amended by chapter 311 of the laws of
+33 1963, is amended to read as follows:
+34 Except as provided in section thirty-two hundred one of this article
+35 and subdivision (e) of this section, a judgment by confession may be
+36 entered, without an action, either for money due or to become due, or to
+37 secure the plaintiff against a contingent liability in behalf of the
+38 defendant, or both, upon an affidavit executed by the defendant;
+39 § 5. Section 3218 of the civil practice law and rules is amended by
+40 adding a new subdivision (e) to read as follows:
+41 (e) Prohibition on certain judgments by confession. 1. No judgment of
+42 confession may be entered on: (i) any amount due from one or more indi-
+43 viduals for personal, family, household, consumer, investment or non-bu-
+44 siness purposes;
+45 (ii) any amount under two hundred fifty thousand dollars due from any
+46 person for any purpose; or
+47 (iii) any amount due from any person that either: (A) is currently not
+48 a resident of the state, (B) was not a resident of the state at the time
+49 the affidavit authorizing the entry of the judgment of confession was
+50 executed, or (C) if not a natural person, does not have a place of busi-
+51 ness in the state or did not have a place of business in the state at
+52 the time the affidavit authorizing the entry of the judgment of
+53 confession was executed.
+54 2. Paragraph one of this subdivision shall not apply to a judgment by
+55 confession entered or sought to be entered by the state, a domestic
+
+S. 4271--A 13
+1 municipal corporation or any public officer acting in their official
+2 capacity.
+3 § 6. The civil practice law and rules is amended by adding a new
+4 section 5022 to read as follows:
+5 § 5022. Judgments obtained from unlicensed consumer debt collectors.
+6 Any judgment obtained against a consumer debtor by, or on behalf of, a
+7 consumer debt collector acting without a license from the superintendent
+8 of the department of financial services, when such license is required,
+9 in violation of section two hundred ninety-six of the banking law, shall
+10 be null and void.
+11 § 7. This act shall take effect on the one hundred eightieth day after
+12 it shall have become a law; provided, however that sections one, two and
+13 three of this act shall take effect January 1, 2028. The superintendent
+14 of financial services shall allow any consumer debt collector which
+15 submits an application prior to January 1, 2028 to operate pending the
+16 approval or denial of the application. Effective immediately, the addi-
+17 tion, amendment and/or repeal of any rule or regulation necessary for
+18 the implementation of this act on its effective date are authorized to
+19 be made and completed on or before such effective date. This act shall
+20 not affect the validity of any civil actions or arbitrations commenced
+21 or judgments entered prior to January 1, 2028.

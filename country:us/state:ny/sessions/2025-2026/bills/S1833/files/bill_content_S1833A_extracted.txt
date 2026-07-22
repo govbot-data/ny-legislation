@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - S1833A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+1833--A
+2025-2026 Regular Sessions
+IN SENATE
+January 14, 2025
+___________
+Introduced by Sens. MAY, FAHY, HARCKHAM, HELMING, ROLISON -- read twice
+and ordered printed, and when printed to be committed to the Committee
+on Environmental Conservation -- reported favorably from said commit-
+tee and committed to the Committee on Finance -- committee discharged,
+bill amended, ordered reprinted as amended and recommitted to said
+committee
+AN ACT to amend the environmental conservation law and the state finance
+law, in relation to enacting the "harmful algal bloom monitoring and
+prevention act"
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "harmful algal bloom monitoring and prevention act".
+3 § 2. Legislative findings and declarations. The legislature finds that
+4 the state of New York has a responsibility to maintain the health and
+5 safety of its abundant clean water resources, upon which the residents
+6 of New York state, as well as its many visitors, rely on for drinking,
+7 agriculture, tourism, recreation, and their livelihoods. Because the
+8 waters of the state are under threat by harmful algal blooms (HABS),
+9 which are known to be toxic and even fatal to humans, pets, and wild-
+10 life, the state has a responsibility to provide coordinated, statewide
+11 monitoring, evaluation, prevention and mitigation, going beyond water
+12 body-specific data collection and isolated mitigation efforts. While the
+13 causes of HABS are complex and varied, with a coordinated and standard-
+14 ized approach to monitoring and evaluation, patterns can more readily be
+15 identified to isolate the combination of relevant causes specific to
+16 different bodies of water across the state and determine the most effec-
+17 tive targeted interventions. To address this threat, the state must
+18 develop and maintain a comprehensive state clearinghouse to bring
+19 together existing and new available statewide cross-sectional and longi-
+20 tudinal data and information on harmful algal blooms, potential and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD05332-04-5
+
+S. 1833--A 2
+1 known causes, best practice interventions, expertise, and funding
+2 resources. This data and subsequent report will enable the state to
+3 effectively and efficiently administer a central grant program support-
+4 ing data-driven best practices in prevention and mitigation of harmful
+5 algal blooms.
+6 § 3. The environmental conservation law is amended by adding a new
+7 section 15-0519 to read as follows:
+8 § 15-0519. Harmful algal bloom monitoring and prevention program.
+9 1. Definitions. For the purposes of this section, the following terms
+10 shall have the following meanings:
+11 a. "Harmful algal blooms" shall mean growths of blooms of algal
+12 species present in fresh or salt water that can produce toxins that are
+13 harmful to public health, the economy, or recreational enjoyment, or
+14 that can impair water quality and the natural ecology therein.
+15 b. "Municipality" shall mean a county, city, town, or village.
+16 c. "Waters of the state" means all waterways, or bodies of water
+17 located within New York state or that part of any body of water which is
+18 adjacent to New York state over which the state has territorial juris-
+19 diction.
+20 2. Comprehensive statewide data collection consolidation and analysis;
+21 report. a. The commissioner shall develop a program to further the
+22 comprehensive and consistent collection, consolidation, analysis and
+23 meta-analysis of statewide data relating to the monitoring, evaluation,
+24 prevention, and mitigation of harmful algal bloom outbreaks. The commis-
+25 sioner shall provide guidelines for the submission of existing and
+26 historical harmful algal bloom monitoring, evaluation, mitigation, and
+27 prevention data and strategies from relevant institutions, organiza-
+28 tions, and individuals with experience in peer-reviewed research, grant-
+29 making, or other like activities in the area of water quality relating
+30 to the monitoring, evaluation, prevention, and mitigation of harmful
+31 algal bloom outbreaks, including but not limited to research programs,
+32 clinics, labs, and project management.
+33 b. The data collected, consolidated, and analyzed shall consist of
+34 elements including but not limited to longitudinal data on the incidence
+35 of harmful algal blooms, contextual factors thought to be associated
+36 with the incidence of harmful algal blooms such as water temperature,
+37 turbidity, flow rate, salinity, nutrient levels for phosphorus and
+38 nitrogen, acidity (pH), dissolved oxygen levels, monitoring and evalu-
+39 ation of waters of the state that do not contain harmful algal blooms,
+40 and results of harmful algal bloom interventions in New York state.
+41 c. The data collected, consolidated, and analyzed shall meet a stand-
+42 ard that is consistent with the practices and expertise of institutions,
+43 organizations, or individuals with experience in peer-reviewed research,
+44 grantmaking, or other like activities in the area of water quality
+45 relating to the monitoring, evaluation, prevention, and mitigation of
+46 harmful algal bloom outbreaks, including but not limited to research
+47 programs, clinics, labs, and project management.
+48 d. The department shall annually publish and update a list of vetted
+49 best practice strategies for harmful algal bloom monitoring, evaluation,
+50 prevention, and mitigation, which shall be differentiated by region or
+51 water body with unique confirmed causal pathways for the related harmful
+52 algal bloom outbreak trends. Such strategies shall be supported by find-
+53 ings of the harmful algal bloom database created pursuant to subdivision
+54 three of this section, as well as external evaluation, including but not
+55 limited to strategies approved by the federal environmental protection
+56 agency, certification that such strategies meet or exceed the American
+
+S. 1833--A 3
+1 National Standards for health effects of drinking water treatment chemi-
+2 cals (NSF/ANSI/CAN-60), or testing for efficacy by center of excellence
+3 in healthy water solutions. The department shall publish such list and
+4 findings supporting the strategies on such list on the department's
+5 website.
+6 e. No later than five years after the effective date of this section,
+7 the commissioner, in consultation with the commissioner of agriculture
+8 and markets, shall prepare a report providing comprehensive analysis and
+9 meta-analysis of the data collected pursuant to this section, including
+10 findings and recommendations for establishing, maintaining, and improv-
+11 ing upon a coordinated system of monitoring, evaluation, prevention, and
+12 mitigation of harmful algal bloom outbreaks across New York state. The
+13 department shall:
+14 i. update the report at least once every five years after the initial
+15 completion of the report;
+16 ii. make the report publicly available on the department's website;
+17 iii. hold at least six regional public comment hearings on the draft
+18 report and subsequent updates to the report, including three meetings in
+19 the upstate region and three meetings in the downstate region, and shall
+20 allow at least one hundred twenty days for the submission of public
+21 comment;
+22 iv. provide meaningful opportunities for public comment from all
+23 segments of the populations that live near, or are reliant upon for
+24 drinking, recreation, or economic activity, the waters of the state
+25 included in the report;
+26 v. seek out input from institutions or organizations with relevant
+27 expertise, citizen scientists, and labs testing water quality in
+28 relation to harmful algal blooms;
+29 vi. identify the magnitude of harmful algal blooms across the state
+30 and make recommendations on regulatory measures and other state or local
+31 actions to monitor, evaluate, prevent, or mitigate harmful algal blooms,
+32 including existing opportunities for coordination of federal, state,
+33 municipal, and non-governmental organizations;
+34 vii. identify best practices, technology, and available federal,
+35 state, municipal, or private funding for and existing efforts in moni-
+36 toring, evaluating, preventing, and mitigating harmful algal blooms; and
+37 viii. identify the current need in specific bodies of water for the
+38 establishment of programs or organizations to further the monitoring,
+39 evaluation, prevention, and mitigation of harmful algal blooms, and the
+40 costs therefor.
+41 3. Harmful algal bloom database. a. The commissioner shall establish
+42 and maintain a website providing public access to a harmful algal bloom
+43 database which shall contain all relevant data, research, and reporting
+44 required pursuant to subdivision two of this section.
+45 b. Such database, and analysis of the comprehensive statewide data
+46 therein, shall support the coordination of efforts across the state to
+47 monitor, evaluate, prevent, and mitigate harmful algal blooms, and shall
+48 include, but not be limited to:
+49 i. the geolocation of harmful algal bloom outbreaks, and efforts to
+50 monitor, evaluate, prevent, and mitigate such outbreaks;
+51 ii. existing research, analysis, or reports relating to outbreaks of
+52 harmful algal blooms in the waters of the state and the causes of such
+53 outbreaks;
+54 iii. known or developing strategies and best practices of state,
+55 municipal, and non-governmental organizations that monitor, evaluate,
+56 prevent, or mitigate harmful algal bloom outbreaks, the respective
+
+S. 1833--A 4
+1 waters of the state in which such strategies and best practices have
+2 been conducted, and the geolocations of such waters;
+3 iv. available sources of financing for algal bloom monitoring, evalu-
+4 ation, prevention, and mitigation, including federal, state, municipal,
+5 and/or private funding, grants, or other monies; and
+6 v. information on institutions with expertise in peer-reviewed grant-
+7 making and research in the area of water quality and/or harmful algal
+8 blooms, including but not limited to the New York sea grant at Stony
+9 Brook University, the New York water resource institute at Cornell
+10 University, the center of excellence in healthy water solutions, the
+11 bureau of water supply protection, the New York city department of envi-
+12 ronmental protection, the department of agriculture and markets, commu-
+13 nity-based nonprofit organizations with missions that specifically
+14 involve monitoring, evaluating, mitigating, or preventing harmful algal
+15 blooms, and any other institution or organization providing data
+16 compiled pursuant to this section, and the contact information, relevant
+17 research programs, clinics, labs, and published research of such insti-
+18 tutions.
+19 4. Rules and regulations. The commissioner shall, in a manner which is
+20 coordinated with and supports efforts by federal, state, municipal, and
+21 non-governmental organizations, promulgate rules and regulations to:
+22 a. limit and take action to mitigate the causes of harmful algal
+23 bloom outbreaks; and
+24 b. monitor and mitigate harmful algal bloom outbreaks.
+25 5. Program development. The commissioner shall establish and support
+26 new and existing programs and organizations relevant to the health of
+27 waters of the state that have not implemented strategies to monitor,
+28 evaluate, prevent, or mitigate harmful algal bloom outbreaks.
+29 6. Harmful algal bloom grant program. In addition to the financing to
+30 be identified pursuant to subparagraph iv of paragraph b of subdivision
+31 three of this section:
+32 a. The commissioner, in consultation with the commissioner of agricul-
+33 ture and markets, the commissioner of health, and the president of the
+34 empire state development corporation, shall establish a harmful algal
+35 bloom grant program which shall provide funding to municipalities,
+36 intermunicipal organizations, community-based nonprofits, or academic
+37 institutions for the deployment of harmful algal bloom monitoring, eval-
+38 uation, prevention, and mitigation strategies and best practices.
+39 b. The program shall require that applicants for the harmful algal
+40 bloom grant program conduct and submit a study, as part of their appli-
+41 cation, assessing the most appropriate mitigation and prevention strate-
+42 gies for relevant waters of the state and best practices therefor, as
+43 informed by the harmful algal bloom database created pursuant to subdi-
+44 vision three of this section.
+45 c. In determining which applicants shall be awarded grants pursuant to
+46 this subdivision, first preference shall be given to applicants who
+47 propose strategies that incorporate principles of least harm and great-
+48 est safety to applicators, the public, and the environment, and utilize
+49 passive or non-chemical physical controls, including but not limited to:
+50 i. aeration;
+51 ii. hydrological manipulations;
+52 iii. mechanical mixing;
+53 iv. reservoir drawdown or desiccation;
+54 v. surface skimming;
+55 vi. ultrasound; or
+56 vii. other emerging technologies, as approved by the department.
+
+S. 1833--A 5
+1 d. In determining which applicants shall be awarded grants pursuant to
+2 this subdivision, second preference shall be given to applicants who
+3 demonstrate expertise with previous experience treating water bodies in
+4 the United States larger than one thousand acres, with proven success
+5 using accepted strategies, including but not limited to strategies that:
+6 i. are aimed at reducing cyanotoxins in the water to less than harmful
+7 levels;
+8 ii. employ ready-to-use technology that is means tested, reproducible,
+9 and generalizable, without limitation of size or shape of the water
+10 body;
+11 iii. employ technology which allows for application under emergency
+12 situations and within less than ninety-six hours from approval;
+13 iv. utilize products that are modular and can be used as a preventa-
+14 tive measure;
+15 v. utilize products that are quick and easy to apply and are generally
+16 recognized as safe to the applicator, public, and environment;
+17 vi. utilize products that float on the surface of the water and do not
+18 sink immediately to the bottom of the water column;
+19 vii. utilize products that are distributed autonomously across the
+20 water body after a localized application;
+21 viii. utilize products with a time-release mechanism that applies
+22 constant and prolonged oxidative stress of the cyanobacteria triggered
+23 by the programmed cell death signaling cascade, resulting in their
+24 collapse; and
+25 ix. utilize products manufactured in the United States.
+26 e. The commissioner shall make monies available from the harmful algal
+27 bloom monitoring and prevention fund, as established pursuant to section
+28 ninety-nine-tt of the state finance law, within amounts appropriated
+29 therefor, pursuant to this section.
+30 § 4. The state finance law is amended by adding a new section 99-tt to
+31 read as follows:
+32 § 99-tt. Harmful algal bloom monitoring and prevention fund. 1. There
+33 is hereby established in the joint custody of the state comptroller and
+34 commissioner of taxation and finance a special fund to be known as the
+35 "harmful algal bloom monitoring and prevention fund".
+36 2. Such fund shall consist of all revenues received by the comptroller
+37 and all other moneys appropriated, credited, or transferred thereto from
+38 the general fund or any other fund or source pursuant to law. Nothing
+39 contained in this section shall prevent the state from receiving grants,
+40 gifts, or bequests for the purposes of such fund and depositing them
+41 into such fund according to law.
+42 3. Moneys shall be paid out of the fund on the audit and warrant of
+43 the comptroller on vouchers certified or approved by the commissioner of
+44 environmental conservation or the commissioner of environmental conser-
+45 vation's designee.
+46 4. Moneys of the fund shall be available to the commissioner of envi-
+47 ronmental conservation for the harmful algal bloom monitoring and
+48 prevention program established pursuant to section 15-0519 of the envi-
+49 ronmental conservation law.
+50 § 5. This act shall take effect one year after it shall have become a
+51 law. Effective immediately, the addition, amendment and/or repeal of any
+52 rule or regulation necessary for the implementation of this act on its
+53 effective date are authorized to be made and completed on or before such
+54 effective date.
