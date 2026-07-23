@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - A3058A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+3058--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+January 23, 2025
+___________
+Introduced by M. of A. R. CARROLL, GALLAGHER, LEVENBERG, HYNDMAN, REYES
+-- read once and referred to the Committee on Consumer Affairs and
+Protection -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to promoting
+consumer choice by requiring manufacturers of digital electronic
+equipment to provide retail sellers with a one through ten repair
+score that will be displayed to consumers at point of sale
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as "The Electron-
+2 ics Repair Scores Act".
+3 § 2. Subdivision 1 of section 399-nn of the general business law is
+4 amended by adding two new paragraphs (s) and (t) to read as follows:
+5 (s) "Repair score" or "score" means a one through ten score calculated
+6 by the manufacturer based on the repair scoring criteria developed by
+7 the attorney general.
+8 (t) "Detailed score" means the information regarding the calculation
+9 and meaning of the repair score as defined by the scoring criteria
+10 developed by the attorney general.
+11 § 3. Subdivision 2 of section 399-nn of the general business law, as
+12 amended by chapter 48 of the laws of 2023, is amended to read as
+13 follows:
+14 2. Requirements. (a) An original equipment manufacturer shall make
+15 available to any independent repair provider and owner of digital elec-
+16 tronic equipment manufactured by or on behalf of or sold by such
+17 original equipment manufacturer, on fair and reasonable terms, any
+18 documentation, parts, and tools required for the diagnosis, maintenance,
+19 or repair of such digital electronic equipment and parts that are manu-
+20 factured for the first time, and first sold or used in New York on or
+21 after July first, two thousand twenty-three. Such documentation, parts,
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD01447-02-5
+
+A. 3058--A 2
+1 and tools shall be made available either directly by an original equip-
+2 ment manufacturer or via an authorized repair provider. An original
+3 equipment manufacturer who, in the regular course of business, offers to
+4 an owner the services of diagnosis, maintenance or repair of its own
+5 digital electronic equipment, and who does not have an arrangement
+6 described in paragraph (a) of subdivision one of this section with an
+7 unaffiliated individual or business, shall be considered an authorized
+8 repair provider with respect to such equipment.
+9 (b) (i) For digital electronic equipment that is sold or used in this
+10 state, an original equipment manufacturer shall make available to any
+11 retail sellers and the attorney general the repair score and detailed
+12 score for such digital electronic equipment, inclusive of any updates to
+13 information.
+14 (ii) Original equipment manufacturers shall print the repair score and
+15 detailed score on packaging of such digital electronic equipment, the
+16 score shall include the logo representation of the score as developed by
+17 the attorney general.
+18 (iii) Original equipment manufacturers shall clearly display repair
+19 scores for such products on their website product listing pages, as well
+20 as make publicly available detailed scores to all potential purchasers
+21 on each product listing page.
+22 (iv) Scoring criteria will be determined by the attorney general,
+23 which shall periodically update such criteria, and a logo representation
+24 of scores. Scoring criteria shall include, but is not limited to: the
+25 free and public availability of technical documents regarding the prod-
+26 uct; ease of disassembly of the product; availability of spare parts for
+27 the product; the price of spare parts for the product; length of soft-
+28 ware support by the manufacturer of the product; and other criteria
+29 specific to the category of the product as determined by the attorney
+30 general.
+31 § 4. This act shall take effect one year after it shall have become a
+32 law.

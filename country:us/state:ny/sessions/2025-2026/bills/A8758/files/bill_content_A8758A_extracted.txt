@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - A8758A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+8758--A
+2025-2026 Regular Sessions
+IN ASSEMBLY
+June 2, 2025
+___________
+Introduced by M. of A. BARRETT, R. CARROLL, SHRESTHA, TAPIA, SIMONE,
+ROSENTHAL, SCHIAVONI, LEVENBERG, SIMON, STECK, OTIS, RAJKUMAR,
+SEAWRIGHT, PAULIN, STERN, GIBBS, FORREST, GALLAGHER, McDONALD, GRIF-
+FIN, STIRPE, HUNTER, CONRAD, MEEKS, EACHUS, WOERNER, WEPRIN, LUNSFORD,
+JACOBSON, ROMERO, KELLES, CUNNINGHAM, LEE, LASHER, HEVESI, SOLAGES,
+ROZIC, CLARK, PHEFFER AMATO, DE LOS SANTOS, SANTABARBARA, BORES,
+VALDEZ, P. CARROLL, BENEDETTO, BRONSON, SAYEGH, RAGA, SHIMSKY,
+K. BROWN, DINOWITZ, MAGNARELLI, BURDICK, KAY, REYES, GONZALEZ-ROJAS --
+read once and referred to the Committee on Energy -- recommitted to
+the Committee on Energy in accordance with Assembly Rule 3, sec. 2 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the environmental conservation law and the public
+service law, in relation to enacting the accelerate solar for afforda-
+ble power (ASAP) act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "accelerate solar for affordable power (ASAP) act".
+3 § 2. Legislative findings and intent. The legislature finds that
+4 increasing distributed solar energy capacity and lowering intercon-
+5 nection costs are essential for achieving the state's affordability,
+6 economic development, and environmental goals. It is the intent of the
+7 legislature to amend the climate leadership and community protection act
+8 to set a new target for distributed solar energy capacity and direct the
+9 public service commission to advance reforms to the utility intercon-
+10 nection process to ensure timely and cost-effective integration of new
+11 distributed energy resources, such as solar and energy storage systems,
+12 into the electric distribution system.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD10828-03-6
+
+A. 8758--A 2
+1 § 3. Paragraph e of subdivision 13 of section 75-0103 of the environ-
+2 mental conservation law, as added by chapter 106 of the laws of 2019, is
+3 amended to read as follows:
+4 e. Measures to achieve [six] twenty gigawatts of distributed solar
+5 energy capacity installed in the state by two thousand [twenty-five]
+6 thirty-five, nine gigawatts of offshore wind capacity installed by two
+7 thousand thirty-five, a statewide energy efficiency goal of one hundred
+8 eighty-five trillion British thermal units energy reduction from the two
+9 thousand twenty-five forecast; and three gigawatts of statewide energy
+10 storage capacity by two thousand thirty.
+11 § 4. The public service law is amended by adding a new section 66-x to
+12 read as follows:
+13 § 66-x. Interconnection reforms. 1. (a) Within ninety days of the
+14 effective date of this section the commission shall issue an order
+15 requiring every electric corporation to file a report with the commis-
+16 sion which shall include itemized costs of completed upgrades to the
+17 electric distribution system required in order to interconnect new
+18 distributed energy resources in the prior calendar categorized by
+19 upgrade type and equipment type annually by March thirty-first. Such
+20 reports shall be accompanied by sufficient supporting documentation as
+21 determined by the commission, and shall be subject to inspection and
+22 public comment before adoption by the commission. Adopted reports
+23 received pursuant to this paragraph shall be the basis for electric
+24 corporations to develop future distribution upgrade cost estimates.
+25 (b) Electric corporations shall track actual costs of all distribution
+26 upgrades they perform and disclose such costs to the department and to
+27 the distributed energy resource company that paid for the upgrade. The
+28 department shall maintain a database on its publicly accessible website
+29 of all disclosed cost data and annual reports submitted pursuant to
+30 paragraph (a) of this subdivision.
+31 2. The commission shall consider proposals to create greater cost-cer-
+32 tainty for distribution upgrades in order to limit the risk of uncapped
+33 utility cost overruns, and the commission shall issue an order to
+34 increase cost-certainty and counteract utility cost overruns within one
+35 hundred eighty days of the effective date of this section.
+36 § 5. Subdivision 1 of section 66-j of the public service law is
+37 amended by adding a new paragraph (j) to read as follows:
+38 (j) "Flexible interconnection" means the use of smart-grid technology
+39 to monitor and actively manage distributed energy resources.
+40 § 6. Section 66-j of the public service law is amended by adding two
+41 new subdivisions 2-a and 6-a to read as follows:
+42 2-a. Flexible interconnection. (a) The commission shall direct every
+43 electric corporation to develop a proposal for a flexible intercon-
+44 nection program to be established in the state. Within ninety days of
+45 the effective date of this subdivision, electric corporations with
+46 active flexible interconnection pilot projects shall file a flexible
+47 interconnection implementation plan, including proposed tariff modifica-
+48 tions and interconnection agreement contract language, with the commis-
+49 sion. The commission shall solicit public comments on the electric
+50 corporation proposals, consider alternative proposals, convene at least
+51 two technical conferences, and consult with stakeholders throughout the
+52 process of program development. Every electric corporation which does
+53 not have an active flexible interconnection pilot project shall file
+54 comments in response to the initial proposal and may file alternative
+55 proposals for consideration. Within one year of the effective date of
+56 this subdivision, the commission shall issue an order establishing a
+
+A. 8758--A 3
+1 uniform statewide flexible interconnection program. Such program shall
+2 include clearly defined limits to annual energy curtailment for solar
+3 energy systems and shall include transparent pricing for customer-funded
+4 equipment, software and operating expenses. This program shall be tech-
+5 nology agnostic, and electric corporations must consider customer-pro-
+6 posed flexible interconnection solutions that meet the technical
+7 requirements of the electric corporation.
+8 (b) The commission shall establish guidelines and timelines for the
+9 implementation of flexible interconnection procedures to lower the cost
+10 and shorten the timeline to integrate distributed energy resources.
+11 6-a. Distributed energy resource capacity expansion. (a) Within three
+12 months of the effective date of this subdivision, the commission shall
+13 establish a distribution system investment program whose purpose is to
+14 identify and direct electric corporations to implement proactive
+15 distribution upgrades that create distributed energy resource hosting
+16 capacity. Such program shall be integrated into the coordinated grid
+17 planning process, and electric corporations shall submit annual reports
+18 to the commission detailing actions taken and electric corporation
+19 investments made to expand hosting capacity for distributed energy
+20 resources.
+21 (b) The commission shall establish a defined distribution system volt-
+22 age threshold of 69KV, excluding any lines under federal energy regula-
+23 tory commission jurisdiction, such that electric infrastructure owned by
+24 electric corporations with a voltage at or below 69KV shall be consid-
+25 ered distribution for the purposes of distributed energy resource inter-
+26 connection and distributed energy resource compensation. All distributed
+27 energy resources seeking to interconnect to the distribution system
+28 shall be eligible for interconnection under the New York state standard-
+29 ized interconnection requirements and shall be eligible for compensation
+30 under the value of distributed energy resources tariff.
+31 § 7. Implementation. 1. The New York state energy research and devel-
+32 opment authority (NYSERDA), in collaboration with the department of
+33 public service, is hereby directed to file a proposal to continue the
+34 NY-Sun program to develop and implement initiatives necessary to cost-
+35 effectively achieve the new distributed solar goal set forth in this
+36 act. The implementation plan shall include incentives and other initi-
+37 atives to support rooftop solar for homes and businesses as well as
+38 community solar, with at least thirty-five percent of program investment
+39 benefiting low- to moderate-income households and disadvantaged communi-
+40 ties. The implementation plan may include rate design improvements and
+41 additional interconnection reforms to lower the cost of the program.
+42 2. From available funds, the public service commission is hereby
+43 directed to issue an order authorizing additional funding to NYSERDA for
+44 the continuation of the NY-Sun program. Such funding shall be sufficient
+45 to support the development and implementation of the initiatives
+46 required to meet the new distributed solar goal. NY-Sun funding may be
+47 authorized by the commission in increments to control program costs,
+48 provided that these increments must be sufficient to support at least
+49 two gigawatts of solar energy capacity each. The commission shall ensure
+50 that the NY-Sun program operates continuously, without interruption,
+51 until the distributed solar goal is reached.
+52 3. The public service commission is hereby directed to issue orders
+53 necessary to effectuate the provisions and modifications set forth in
+54 this act.
+55 § 8. This act shall take effect immediately.

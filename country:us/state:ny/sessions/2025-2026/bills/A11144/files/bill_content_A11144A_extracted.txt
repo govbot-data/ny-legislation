@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - A11144A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+11144--A
+IN ASSEMBLY
+April 24, 2026
+___________
+Introduced by M. of A. KASSAY, STECK, GLICK, HEVESI -- read once and
+referred to the Committee on Science and Technology -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to prohibiting the
+manufacture and sale of chatbot toys; and providing for the repeal of
+such provisions upon the expiration thereof
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 48 to read as follows:
+3 ARTICLE 48
+4 PROHIBITION ON CHATBOT TOYS
+5 Section 1800. Definitions.
+6 1801. Prohibition.
+7 1802. Enforcement.
+8 1803. Severability.
+9 § 1800. Definitions. As used in this article, the following terms
+10 shall have the following meanings:
+11 1. "AI companion" shall have the same definition as set forth in
+12 subdivision four of section seventeen hundred of this chapter.
+13 2. "Chatbot toy" shall mean when an AI companion is embedded in or
+14 integrated with a children's toy.
+15 3. "Children's toy" shall mean as defined in subdivision (g) of 15 USC
+16 § 2057c or any successor provision thereof.
+17 4. "User" shall mean any person who is a consumer of a chatbot toy and
+18 who is not an operator, agent, affiliate, developer, manufacturer, sell-
+19 er, reseller, distributor, or commercial provider of such toy.
+20 5. "Operator" shall mean any person, partnership, association, firm,
+21 or business entity, or any member, affiliate, subsidiary or beneficial
+22 owner thereof, who operates or provides an AI companion in a children's
+23 toy.
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14962-04-6
+
+A. 11144--A 2
+1 § 1801. Prohibition. No person, firm, corporation, association, part-
+2 nership, business entity, or agent, employee, affiliate, beneficial
+3 owner, or subsidiary thereof, shall manufacture, exchange, hold for
+4 sale, distribute, or sell any chatbot toy in this state.
+5 § 1802. Enforcement. Whenever the attorney general shall believe from
+6 evidence satisfactory to them that an operator has engaged in or is
+7 about to engage in any of the acts or practices stated to be unlawful in
+8 this article, they may bring an action in the name and on behalf of the
+9 people of the state of New York to enjoin an operator from continuing
+10 such unlawful acts or practices, and may seek civil penalties of up to
+11 fifteen thousand dollars per day for each violation. If it shall appear
+12 to the satisfaction of the court or justice that the defendant has
+13 violated section eighteen hundred one of this article, no proof shall be
+14 required that any person has been injured thereby. In such action
+15 preliminary relief may be granted under article sixty-three of the civil
+16 practice law and rules.
+17 § 1803. Severability. If any clause, sentence, paragraph, subdivision,
+18 section or part of this article shall be adjudged by any court of compe-
+19 tent jurisdiction to be invalid, such judgment shall not affect, impair,
+20 or invalidate the remainder thereof, but shall be confined in its opera-
+21 tion to the clause, sentence, paragraph, subdivision, section or part
+22 thereof directly involved in the controversy in which such judgment
+23 shall have been rendered. It is hereby declared to be the intent of the
+24 legislature that this article would have been enacted even if such
+25 invalid provisions had not been included herein.
+26 § 2. This act shall take effect on the ninetieth day after it shall
+27 have become a law and shall expire and be deemed repealed five years
+28 after such effective date. Effective immediately, the addition, amend-
+29 ment and/or repeal of any rule or regulation necessary for the implemen-
+30 tation of this act on its effective date are authorized to be made and
+31 completed on or before such effective date.

@@ -1,0 +1,349 @@
+Title: 
+Official Title: 
+Source: versions - A11293A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+11293--A
+IN ASSEMBLY
+May 8, 2026
+___________
+Introduced by COMMITTEE ON RULES -- (at request of M. of A. Vanel) --
+read once and referred to the Committee on Banks -- reported and
+referred to the Committee on Codes -- reported and referred to the
+Committee on Ways and Means -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee
+AN ACT to amend the financial services law, in relation to reporting of
+covered loans
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The financial services law is amended by adding a new arti-
+2 cle 8-A to read as follows:
+3 ARTICLE 8-A
+4 COVERED LOAN REPORTING
+5 Section 820. Definitions.
+6 821. Reporting required.
+7 822. Form and filing.
+8 823. Annual report.
+9 824. Regulations.
+10 825. Penalties.
+11 826. Severability.
+12 827. Preemption.
+13 § 820. Definitions. For the purposes of this article, the following
+14 terms shall have the following meanings:
+15 (a) (1) "Covered loan" shall mean any extension of money or credit
+16 that exceeds twenty-five thousand dollars or series of extensions of
+17 money or credit made within twelve months to the same borrower that
+18 exceeds an aggregate of twenty-five thousand dollars made to a resident
+19 of this state, for personal use or for commercial purposes, including
+20 commercial financing, in exchange for the borrower's agreement to repay
+21 an amount greater than the amount financed, extended, or purchased
+22 through interest, finance charges, fees, or other compensation for the
+23 use of such money or credit.
+24 (2) "Covered loan" shall not include:
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15821-02-6
+
+A. 11293--A 2
+1 (A) open-end credit plans subject to the federal Truth in Lending Act
+2 and Regulation Z that are accessed by the use of a credit card or simi-
+3 lar device intended for repeated transactions;
+4 (B) any extension of credit secured by a mortgage, deed of trust, or
+5 other security interest in real property, including home equity lines of
+6 credit; or
+7 (C) any other extension of credit that is subject to a charter,
+8 license, or regulatory regime under this chapter or other provisions of
+9 New York state law that provides for ongoing supervision, examination,
+10 and enforcement authority by the superintendent, as determined by the
+11 superintendent pursuant to rules and regulations.
+12 (b) (1) "Covered lender" shall mean any person, including any affil-
+13 iate or subsidiary of such person, that:
+14 (A) offers or makes a covered loan;
+15 (B) purchases or acquires a whole or partial interest in a covered
+16 loan or any receivable arising from a covered loan;
+17 (C) arranges, brokers, or facilitates a covered loan for a third
+18 party; or
+19 (D) acts as an agent for a third party in making a covered loan,
+20 regardless of whether approval, acceptance, or ratification by the third
+21 party is necessary to create a legal obligation for the third party.
+22 (2) A person is a covered lender notwithstanding that such person
+23 purports to act as an agent, service provider, or in another capacity
+24 for another person that is exempt from this article or the laws of this
+25 state if any of the following apply:
+26 (A) such person holds, acquires, or maintains, directly or indirectly,
+27 the predominant economic interest in a covered loan;
+28 (B) such person markets, brokers, arranges, or facilitates a covered
+29 loan and holds the right, requirement, or first right of refusal to
+30 purchase or acquire a covered loan or any receivable or interest in a
+31 covered loan; or
+32 (C) the totality of the circumstances indicate that such person is a
+33 covered lender, and the covered loan is structured to evade the require-
+34 ments of this article. Circumstances that weigh in favor of such a find-
+35 ing include, without limitation, where such person:
+36 (i) indemnifies, insures, or protects another person that is not
+37 subject to this article for any costs or risks related to such covered
+38 loan;
+39 (ii) predominantly designs, controls, or operates the program for such
+40 covered loan; or
+41 (iii) holds the trademark or intellectual property rights in the
+42 brand, underwriting system, or other core aspects of a covered lender.
+43 (3) Covered lender shall not include any exempt financial entities.
+44 (c) "Automatic debit authorization" shall mean authorization by a
+45 borrower to a covered lender to withdraw funds directly from such
+46 borrower's deposit account.
+47 (d) "Exempt financial entities" shall mean any of the following:
+48 (1) Any bank, savings bank, savings and loan association, trust compa-
+49 ny, private banker, credit union, investment company organized under
+50 article twelve of this chapter, national bank, federal savings associ-
+51 ation, federal savings and loan association, federal credit union,
+52 federal trust company, and foreign banking corporation licensed by the
+53 comptroller of the currency to transact business in this state or by the
+54 United States;
+55 (2) Any person licensed or authorized under articles nine, twelve-B,
+56 twelve-D, twelve-E and fourteen-B of the banking law;
+
+A. 11293--A 3
+1 (3) Any person licensed or authorized under article nine, nine-A, ten
+2 or eleven of the personal property law;
+3 (4) Any person making loans under programs of the United States
+4 Department of Agriculture, United States Department of Housing and Urban
+5 Development, or any other federal government program that provides fund-
+6 ing or access to funding for single-family housing developments or
+7 grants to low-income individuals for the purchase or repair of single-
+8 family housing;
+9 (5) Nonprofit housing organizations making loans, or loans made under
+10 housing programs that are funded in whole or in part by federal or state
+11 programs if the primary purpose of such programs is to assist low-income
+12 borrowers with purchasing or repairing housing or the development of
+13 housing for low-income New York state residents; or
+14 (6) Any person that extends money or credit to another person on a
+15 nonrecourse basis in exchange for a contingent right to receive an
+16 amount of the potential proceeds of any award, judgment, settlement,
+17 verdict, or other resolution from a pending legal action, unless such
+18 person requires repayment in the event that such other person does not
+19 prevail in their civil proceeding.
+20 (e) "Commercial financing" shall have the same meaning as defined in
+21 section eight hundred one of this chapter.
+22 (f) "Finance charge" shall have the same meaning as defined in section
+23 eight hundred one of this chapter.
+24 (g) "Factoring transaction" shall have the same meaning as defined in
+25 section eight hundred one of this chapter.
+26 (h) "Open-end financing" shall have the same meaning as defined in
+27 section eight hundred one of this chapter.
+28 (i) "Closed-end financing" shall have the same meaning as defined in
+29 section eight hundred one of this chapter.
+30 (j) "Sales-based financing" shall have the same meaning as defined in
+31 section eight hundred one of this chapter.
+32 § 821. Reporting required. (a) Any covered lender shall, within thirty
+33 days of originating, acquiring, or refinancing a covered loan, report to
+34 the department the following information on a form prescribed by the
+35 superintendent:
+36 (1) the identity of each covered lender of such covered loan and their
+37 respective interest therein, including the state of incorporation of
+38 each covered lender;
+39 (2) the borrower of such covered loan and their zip code;
+40 (3) the date of origination, acquisition, or refinancing of such
+41 covered loan;
+42 (4) whether such loan is for personal, family, or household use or for
+43 commercial use;
+44 (5) for commercial financing, the arrangement type of such covered
+45 loan, including whether such covered loan constitutes open-end financ-
+46 ing, closed-end financing, sales-based financing, a factoring trans-
+47 action, or a hybrid or combination thereof, or another arrangement
+48 determined by the superintendent to constitute a covered loan;
+49 (6) the amount financed, extended, or purchased under such covered
+50 loan;
+51 (7) the amount actually disbursed to the borrower under such covered
+52 loan;
+53 (8) the repayment frequency and contractual duration or term of such
+54 covered loan, where applicable;
+55 (9) the contractual pricing terms applicable to such covered loan,
+56 including, as applicable:
+
+A. 11293--A 4
+1 (A) annual percentage rates;
+2 (B) repayment percentages based on sales or revenue;
+3 (C) finance charges;
+4 (D) fees; and
+5 (E) other pricing metrics prescribed by the superintendent;
+6 (10) whether such covered loan involves:
+7 (A) automatic debit authorization;
+8 (B) a confession of judgment or similar instrument;
+9 (C) fees or charges arising from prepayment or payoff; or
+10 (D) the refinancing of one or more prior covered loans;
+11 (11) the late fees, penalties or other charges associated with such
+12 covered loan; and
+13 (12) any other information required by the superintendent by rule or
+14 regulation.
+15 (b) The information required pursuant to subsection (a) of this
+16 section shall be submitted electronically or in writing on a form
+17 prescribed by the superintendent pursuant to section eight hundred twen-
+18 ty-two of this article. Such form shall be affirmed as true and accurate
+19 under penalty of perjury.
+20 § 822. Form and filing. (a) The department shall prescribe the form,
+21 contents, filing instructions, and manner of submission for reports
+22 required pursuant to section eight hundred twenty-one of this article by
+23 regulation and shall provide an option to file such reports electron-
+24 ically.
+25 (b) When two or more covered lenders have an interest in the same
+26 covered loan, any such covered lender may file the report required by
+27 this section on behalf of all other covered lenders for such covered
+28 loan. No duplicative report shall be required with respect to a covered
+29 loan that has already been reported pursuant to this section, except
+30 that the superintendent may require by rule or regulation the filing of
+31 amended or supplemental reports to reflect material changes in owner-
+32 ship, acquisition, refinancing, or other information required to be
+33 reported pursuant to this section.
+34 (c) The department may charge a fee for filing such report, provided
+35 that such fee does not exceed twenty-five dollars.
+36 (d) Notwithstanding the public officers law, a report filed under this
+37 article shall be confidential and not subject to public disclosure.
+38 (e) Nothing in this article shall prohibit the department from
+39 publishing aggregated or anonymized information pursuant to this arti-
+40 cle.
+41 (f) The department may disclose such information only to:
+42 (1) the borrower or the borrower's authorized representative;
+43 (2) the covered lender or the covered lender's authorized represen-
+44 tative;
+45 (3) the attorney general or a law enforcement agency;
+46 (4) another state or federal regulator for supervisory, regulatory, or
+47 enforcement purposes; or
+48 (5) as otherwise ordered by a court of competent jurisdiction.
+49 (g) Any recipient of a report filed pursuant to this section shall
+50 maintain the confidentiality of such information.
+51 (h) Nothing in this section shall limit the department's use of infor-
+52 mation contained in a report filed pursuant to this section for supervi-
+53 sory or enforcement purposes.
+54 § 823. Annual report. (a) The superintendent shall collect and main-
+55 tain data submitted pursuant to sections eight hundred twenty-one and
+56 eight hundred twenty-two of this article and shall annually publish a
+
+A. 11293--A 5
+1 report on the department's website containing aggregated information
+2 regarding covered loans reported pursuant to such sections during the
+3 preceding year.
+4 (b) Such report shall include distributions categorized by:
+5 (1) personal, family, or household purposes; and
+6 (2) commercial financing by arrangement, including but not limited to:
+7 (A) open-end financing;
+8 (B) closed-end financing;
+9 (C) sales-based financing;
+10 (D) factoring transactions;
+11 (E) hybrid or combined commercial financing arrangements; and
+12 (F) other arrangements determined by the superintendent to constitute
+13 covered loans.
+14 (c) The report shall include, for each category described in
+15 subsection (b) of this section:
+16 (1) the total number and contractual amount financed, extended, or
+17 purchased under covered loans;
+18 (2) the geographic distribution of borrowers by zip code;
+19 (3) the geographic distribution of covered lenders by state of incor-
+20 poration;
+21 (4) the average and median contractual amount financed, extended or
+22 purchased under covered loans;
+23 (5) the average and median amount actually disbursed to borrowers
+24 under covered loans;
+25 (6) distributions categorized by contractual pricing terms applicable
+26 to covered loans, including, as applicable:
+27 (A) annual percentage rates;
+28 (B) repayment percentages based on sales or revenue;
+29 (C) finance charges;
+30 (D) fees; and
+31 (E) other pricing metrics prescribed by the superintendent;
+32 (7) distributions categorized by repayment frequency, where applica-
+33 ble;
+34 (8) distributions categorized by contractual duration or term of such
+35 covered loan, where applicable;
+36 (9) distributions categorized by late fees, penalties, or other charg-
+37 es associated with covered loans;
+38 (10) the number and percentage of covered loans involving fees or
+39 charges arising from prepayment or payoff of a covered loan;
+40 (11) the number and percentage of covered loans involving automatic
+41 debit authorization;
+42 (12) the number and percentage of covered loans involving confessions
+43 of judgment;
+44 (13) the number and percentage of covered loans involving the refi-
+45 nancing of one or more prior covered loans;
+46 (14) the number of covered lenders referred to the attorney general
+47 for enforcement action; and
+48 (15) the number of covered lenders subject to enforcement actions by
+49 the superintendent.
+50 (d) The superintendent may publish additional arrangement-specific
+51 metrics, analyses, and distributions relevant to particular categories
+52 of covered loans, including relating to reconciliation provisions,
+53 repayment practices, refinancing activity, or other features associated
+54 with particular arrangement types.
+
+A. 11293--A 6
+1 (e) The superintendent may establish additional reporting categories,
+2 methodologies, ranges, and metrics necessary to carry out the purposes
+3 of this section.
+4 (f) The superintendent shall not publish any aggregated or anonymized
+5 information pursuant to this section if the superintendent determines
+6 that such publication could reasonably be expected to identify a borrow-
+7 er or specific covered loan. The superintendent may combine, redact, or
+8 otherwise modify categories, geographic areas, ranges, or other reported
+9 information as necessary to protect confidentiality and prevent re-iden-
+10 tification.
+11 § 824. Regulations. The superintendent may promulgate such rules and
+12 regulations as are necessary to implement, administer, and enforce the
+13 provisions of this article, including but not limited to regulations
+14 relating to:
+15 (a) reporting forms, filing procedures, and electronic submission
+16 requirements;
+17 (b) the classification and categorization of covered loans and commer-
+18 cial financing arrangements;
+19 (c) methodologies, ranges, and standards for reporting contractual
+20 pricing terms and other required information;
+21 (d) the avoidance of duplicative or inconsistent reporting where
+22 multiple covered lenders have an interest in the same covered loan;
+23 (e) standards for determining whether a person is a covered lender or
+24 whether a transaction constitutes a covered loan under this article;
+25 (f) recordkeeping and retention requirements relating to reports filed
+26 pursuant to sections eight hundred twenty-one and eight hundred twenty-
+27 two of this article;
+28 (g) the publication of aggregated or anonymized annual reports pursu-
+29 ant to section eight hundred twenty-three of this article; and
+30 (h) such other matters as the superintendent deems necessary to carry
+31 out the purposes of this section.
+32 § 825. Penalties. A violation of the provisions of this article shall
+33 be a violation of this chapter and may be subject to civil penalties,
+34 injunctive relief and other corrective action or enforcement measures
+35 imposed by the superintendent in regulation.
+36 § 826. Severability. If any provision of this section or the applica-
+37 tion thereof to any person or circumstances is held to be invalid, such
+38 invalidity shall not affect other provisions or applications of this
+39 section which can be given effect without the invalid provision or
+40 application, and to this end, the provisions of this section are severa-
+41 ble.
+42 § 827. Preemption. This section shall not apply to the extent that it
+43 is preempted by federal law. Nothing in this section shall be construed
+44 to require any act prohibited, or prohibit any act required, by federal
+45 law.
+46 § 2. The superintendent of financial services shall promulgate rules
+47 and regulations necessary to implement the provisions of section one of
+48 this act no later than one year after this section shall have become a
+49 law.
+50 § 3. This act shall take effect immediately; provided, however, that:
+51 (a) section one of this act shall take effect on the one hundred
+52 eightieth day after the superintendent of financial services has promul-
+53 gated the rules and regulations required under section two of this act;
+54 and
+55 (b) the superintendent of financial services shall notify the legisla-
+56 tive bill drafting commission upon the occurrence of the promulgation of
+
+A. 11293--A 7
+1 the rules and regulations provided for in section two of this act in
+2 order that the commission may maintain an accurate and timely effective
+3 data base of the official text of the laws of the state of New York in
+4 furtherance of effectuating the provisions of section 44 of the legisla-
+5 tive law and section 70-b of the public officers law.
+6 Effective immediately, the addition, amendment and/or repeal of any
+7 rule or regulation necessary for the implementation of this act on its
+8 effective date are authorized to be made and completed on or before such
+9 effective date.

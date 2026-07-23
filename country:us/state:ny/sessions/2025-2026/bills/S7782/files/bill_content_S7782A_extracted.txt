@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - S7782A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+7782--A
+Cal. No. 1268
+2025-2026 Regular Sessions
+IN SENATE
+May 6, 2025
+___________
+Introduced by Sen. SKOUFIS -- read twice and ordered printed, and when
+printed to be committed to the Committee on Health -- reported favora-
+bly from said committee, ordered to first and second report, ordered
+to a third reading, amended and ordered reprinted, retaining its place
+in the order of third reading
+AN ACT to amend the public health law, in relation to requiring the
+department of health to enter into a contract for the digitalization
+and indexing of certain vital records
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The public health law is amended by adding a new section
+2 4180 to read as follows:
+3 § 4180. Vital records digitalization. 1. For the purposes of this
+4 section, the term:
+5 (a) "vital records index" or "index" shall mean a systematically
+6 organized listing, compilation, or database derived from original vital
+7 records maintained by the state local registrars, including but not
+8 limited to vital records relating to birth, death, marriage, and dissol-
+9 ution of marriage, which includes at a minimum, the names of any regis-
+10 trants, the date and location of the event's registration, and any
+11 assigned identifying reference numbers.
+12 (b) "qualified entity" shall mean a natural person, firm, organiza-
+13 tion, partnership, association, corporation, or any other entity experi-
+14 enced in maintaining genealogical research databases.
+15 2. The department shall enter into a contract which shall be no longer
+16 than seven years in length with a qualified entity to create, maintain,
+17 and update an online genealogical research database of images of New
+18 York state birth, marriage, dissolution of marriage, and death certif-
+19 icates at no direct cost to the state, in exchange for allowing the
+20 qualified entity to also provide such database to its subscribers and
+21 customers. Such online database shall be designed and constructed to
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD11667-05-5
+
+S. 7782--A 2
+1 have the capability of allowing a vital records index of birth,
+2 marriage, dissolution of marriage, and death certificates to be linked
+3 to a digital image of the underlying original birth, marriage, dissol-
+4 ution of marriage, or death record once any such underlying record has
+5 become public information under section forty-one hundred seventy-four
+6 of this title, and the online genealogical research database shall be
+7 designed to allow the department to create and activate such links to
+8 digital images of the original records. Any social security numbers
+9 appearing on such records shall be redacted from the digital images
+10 provided to the public, which may include bulk redaction of social secu-
+11 rity fields from the images via automated methods. Such indexes shall be
+12 a public record and subject to the state freedom of information law
+13 under article six of the public officers law.
+14 § 2. Subdivision 3 of section 4174 of the public health law, as
+15 amended by section 2 of part W-2 of chapter 62 of the laws of 2003, is
+16 amended to read as follows:
+17 3. (a) Notwithstanding any contrary provision of law, the commissioner
+18 shall have the authority to determine the means and methods by which the
+19 following genealogical records shall be released to an applicant meeting
+20 the qualifications to receive the relevant record type as described in
+21 this section or in article three of the domestic relations law: (1) a
+22 record of birth that has been on file for at least seventy-five years;
+23 (2) a record of marriage, dissolution of marriage, or death that has
+24 been on file for at least fifty years; or (3) any record of birth,
+25 marriage, dissolution of marriage, or death for which the requester is a
+26 lineal or collateral descendant.
+27 (b) For any search of the files and records conducted for authorized
+28 genealogical or research purposes, the commissioner or any person
+29 authorized by [him] the commissioner shall be entitled to, and the
+30 applicant shall pay, a fee of twenty dollars for each hour or fractional
+31 part of an hour of time of search, together with a fee of two dollars
+32 for each uncertified copy or abstract of such record requested by the
+33 applicant or for a certification that a search discloses no record.
+34 § 3. (a) Notwithstanding any law, rule, or regulation to the contrary,
+35 all rights or benefits, including terms and conditions of employment,
+36 and protection of civil service and collective bargaining status of all
+37 existing employees of any state or political subdivision thereof which
+38 currently performs any work related to this act, or similar work, shall
+39 be preserved and protected.
+40 (b) Nothing in this act shall result in the: (1) displacement of any
+41 currently employed worker or loss of position, including but not limited
+42 to any partial displacement such as a reduction in the hours of non-ov-
+43 ertime work, wages, or employment benefits, or result in the impairment
+44 of existing collective bargaining agreements; or (2) transfer of any
+45 job, duty or function not directly authorized by this act to the quali-
+46 fied entity.
+47 (c) Nothing contained in this act shall be construed to affect: (1)
+48 the existing rights of employees pursuant to an existing collective
+49 bargaining agreement; and (2) the existing representational relation-
+50 ships among employee organizations or the bargaining relationships
+51 between the employer and an employee organization.
+52 § 4. This act shall take effect immediately.
