@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires epinephrine devices in schools; requires training in the administration of epinephrine where a student is reasonably believed to be suffering from anaphylaxis."
+      "abstract": "Requires epinephrine devices in schools."
     }
   ],
   "other_titles": [],
@@ -54,6 +54,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:02Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T07:47:13Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 149A",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T07:47:13Z"
       }
     }
   ],
@@ -130,6 +155,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A149A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A149A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -137,6 +173,22 @@
     {
       "publication": "New York Laws",
       "citation": "PBH \u00a7 3000-CC",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 921-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 3000-C",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -165,7 +217,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-08-09T07:47:13Z",
     "text_extraction_latest_update": "2026-07-22T01:09:18.795442Z"
   }
 }

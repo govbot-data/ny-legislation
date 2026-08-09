@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A11590",
-  "title": "Relates to assignments from a decedent's estate made to a transferee for value",
+  "title": "Relates to assignment from a decedent's estate to a transferee for value in exchange for cash or other consideration",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires that assignments from a decedent's estate made to a transferee for value acquiring any interest of a beneficiary in exchange for cash or other consideration shall be in the form of a written agreement; provides for exceptions; provides for provisions which must be included in the written agreement and provisions which shall not be included."
+      "abstract": "Enacts certain provisions for the assignment from a decedent's estate to a transferee for value in exchange for cash or other consideration; requires certain conditions and a written agreement."
     }
   ],
   "other_titles": [],
@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:02Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO JUDICIARY",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T07:47:13Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 11590A",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T07:47:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -49,7 +74,18 @@
       "organization_id": "~{\"name\": \"Rules Committee\"}"
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 10469",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 10469",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A11590",
@@ -65,6 +101,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A11590A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A11590A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -72,6 +119,14 @@
     {
       "publication": "New York Laws",
       "citation": "SCP \u00a7 2116",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SCP/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SCP \u00a7 1425",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -100,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-08-09T07:47:13Z",
     "text_extraction_latest_update": "2026-07-22T07:42:33.962590Z"
   }
 }
