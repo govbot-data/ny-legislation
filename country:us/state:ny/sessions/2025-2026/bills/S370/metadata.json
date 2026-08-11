@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S370",
-  "title": "Allows cooperative agreements by licensees to sell wine or liquor at retail for consumption off the premises",
+  "title": "Allows licensees to sell wine or liquor at retail to certain other licensees for resale for consumption off the premises",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows certain licensees to form cooperative agreements to make joint purchases of alcoholic beverages provided that such agreement and activity conform to certain standards."
+      "abstract": "Allows licensees to sell wine or liquor at retail for consumption off the premises to certain other licensees; allows such other licensees to resell such wine or liquor for consumption off the premises."
     }
   ],
   "other_titles": [],
@@ -55,6 +55,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:51Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T07:46:42Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 370A",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T07:46:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,11 +93,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "A 7639",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 7639",
       "legislative_session": "2025-2026",
@@ -104,6 +124,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S370A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S370A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -111,6 +142,14 @@
     {
       "publication": "New York Laws",
       "citation": "ABC \u00a7 106-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ABC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ABC \u00a7 105",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -139,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:51Z",
+    "logs_latest_update": "2026-08-11T07:46:42Z",
     "text_extraction_latest_update": "2026-07-22T07:41:11.608158Z"
   }
 }

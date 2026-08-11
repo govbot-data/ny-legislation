@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S368",
-  "title": "Permits the sale of tonic water, bitters, maraschino cherries and dealcoholized wine at liquor stores",
+  "title": "Permits the sale of tonic water, bitters, and maraschino cherries at liquor stores",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Permits the sale of tonic water, bitters, maraschino cherries and dealcoholized wine at liquor stores."
+      "abstract": "Permits the sale of tonic water, bitters, and maraschino cherries at liquor stores."
     }
   ],
   "other_titles": [],
@@ -55,6 +55,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:44Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T07:46:42Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 368A",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T07:46:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,11 +93,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "A 6726",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 6726",
       "legislative_session": "2025-2026",
@@ -104,10 +124,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S368A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S368A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ABC \u00a7 104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ABC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ABC \u00a7 63",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ABC/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ABC \u00a7 104",
@@ -147,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:44Z",
+    "logs_latest_update": "2026-08-11T07:46:42Z",
     "text_extraction_latest_update": "2026-07-22T01:42:52.711019Z"
   }
 }
