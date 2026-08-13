@@ -37,6 +37,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:04Z"
       }
+    },
+    {
+      "description": "ENACTING CLAUSE STRICKEN",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:24:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,7 +101,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:04Z",
+    "logs_latest_update": "2026-08-13T08:24:24Z",
     "text_extraction_latest_update": "2026-07-22T13:43:03.653517Z"
   }
 }

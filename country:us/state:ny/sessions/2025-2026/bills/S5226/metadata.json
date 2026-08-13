@@ -80,6 +80,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:50Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CONSUMER PROTECTION",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:24:24Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5226B",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T08:24:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,11 +151,6 @@
       "identifier": "A 7380",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
-    },
-    {
-      "identifier": "A 7380",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -159,10 +179,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5226B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5226B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 350-A-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "GBS \u00a7 350-A-1",
@@ -202,7 +241,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:50Z",
+    "logs_latest_update": "2026-08-13T08:24:24Z",
     "text_extraction_latest_update": "2026-07-22T23:39:04.989064Z"
   }
 }
