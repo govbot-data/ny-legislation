@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Directs the commissioner of education to appoint a monitor for the Buffalo city school district; establishes the powers and duties of such monitor and certain other officers; relates to the apportionment of aid to such school district."
+      "abstract": "Directs the commissioner of education to appoint a monitor for the Buffalo city school district; establishes the powers and duties of such monitor and certain other officers."
     }
   ],
   "other_titles": [],
@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-08-09T07:47:13Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO EDUCATION",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:30:10Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 11634A",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:30:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -60,6 +85,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A11634",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A11634A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A11634A",
           "media_type": "application/pdf"
         }
       ],
@@ -91,7 +127,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T07:47:13Z",
+    "logs_latest_update": "2026-08-15T07:30:10Z",
     "text_extraction_latest_update": "2026-08-09T07:50:27.985559Z"
   }
 }

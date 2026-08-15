@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:41Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO BANKS",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:30:10Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10640A",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:30:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,11 +95,6 @@
       "identifier": "S 9483",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
-    },
-    {
-      "identifier": "S 9483",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -92,10 +112,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A10640A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A10640A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "BNK \u00a7 A14-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/BNK/"
+    },
     {
       "publication": "New York Laws",
       "citation": "BNK \u00a7 A14-C",
@@ -127,7 +166,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:41Z",
+    "logs_latest_update": "2026-08-15T07:30:10Z",
     "text_extraction_latest_update": "2026-07-22T19:03:57.076790Z"
   }
 }

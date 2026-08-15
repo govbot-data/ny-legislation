@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes the \"removing barriers to higher education success act\" which directs the state university and city university to adopt policies that makes certain documentation submitted by an enrolled or admitted student sufficient to establish that such student is an individual with a disability."
+      "abstract": "Establishes the \"removing barriers to higher education success act\" which directs the state university and city university to adopt policies that makes certain documentation submitted by an enrolled or admitted student sufficient to establish that such student is an individual with a disability; establishes a program to provide transition services for students with disabilities entering higher education."
     }
   ],
   "other_titles": [],
@@ -54,6 +54,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:00Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HIGHER EDUCATION",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:30:10Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4841A",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:30:10Z"
       }
     }
   ],
@@ -113,6 +138,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Brian Maher\"}",
       "organization_id": null
+    },
+    {
+      "name": "Joseph Sempolinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Sempolinski\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -132,6 +165,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4841",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A4841A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4841A",
           "media_type": "application/pdf"
         }
       ],
@@ -163,7 +207,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:00Z",
+    "logs_latest_update": "2026-08-15T07:30:10Z",
     "text_extraction_latest_update": "2026-07-22T19:35:28.362007Z"
   }
 }
