@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - A10640A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10640--A
+IN ASSEMBLY
+March 13, 2026
+___________
+Introduced by M. of A. VANEL, TAPIA, WEPRIN -- read once and referred to
+the Committee on Banks -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the banking law, in relation to the accessibility of
+consumer financial data and the prohibition of fees for the transfer
+of such data to authorized parties
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Short title. This act shall be known and may be cited as
+2 the "New York financial data rights act".
+3 § 2. The banking law is amended by adding a new article 14-C to read
+4 as follows:
+5 ARTICLE 14-C
+6 CONSUMER AND SMALL BUSINESS FINANCIAL DATA RIGHTS
+7 Section 800. Definitions.
+8 801. Consumer and small business right to data portability.
+9 802. Prohibition of fees for data access.
+10 803. Authorized representative obligations.
+11 804. Security standards.
+12 805. Enforcement and penalties.
+13 § 800. Definitions. As used in this article, the following terms shall
+14 have the following meanings:
+15 1."Authorized representative" means any person or entity, other than
+16 the financial institution holding the data, that seeks to access covered
+17 data with the consumer's or small business's consent pursuant to section
+18 eight hundred three of this article.
+19 2. "Consumer" means an individual who resides in the state of New
+20 York.
+21 3. "Financial institution" means:
+22 (a) a banking organization as defined in subdivision eleven of section
+23 two of this chapter;
+24 (b) any out-of-state bank as defined in subdivision two of section two
+25 hundred twenty-two of this chapter that maintains a financial product or
+26 service for a resident in this state;
+27 (c) any person or entity acting as a custodian for financial assets as
+28 described in section 11-1.9 of the estates, powers and trusts law; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15201-03-6
+
+A. 10640--A 2
+1 (d) any other data provider regulated by the department that maintains
+2 a financial product or service for a resident of this state.
+3 4."Covered data" means the following information relating to a consum-
+4 er or small business in the control or possession of a financial insti-
+5 tution:
+6 (a) Transaction information, including amounts, dates, payment types,
+7 pending or authorized status, and payee or merchant names, for at least
+8 twenty-four months preceding the request;
+9 (b) Account balance information;
+10 (c) Information to initiate payment to or from a covered account,
+11 including account numbers;
+12 (d) Terms and conditions of the consumer or small business, financial
+13 product or service, including interest rates, credit limits, overdraft
+14 coverage, rewards, and fee schedules;
+15 (e) Upcoming bill information, including amounts and due dates; and
+16 (f) Account and identity verification information, including name,
+17 address, and contact information.
+18 5. "Exempt data" means information that a financial institution is not
+19 required to make available, subject to the requirements in subdivision
+20 two of section eight hundred one of this article, consisting of:
+21 (a) Any confidential commercial information, including proprietary
+22 algorithms used to derive credit or risk scores;
+23 (b) Information collected solely for the purpose of preventing fraud
+24 or money laundering;
+25 (c) Information required to be kept confidential by any other
+26 provision of law; and
+27 (d) Any information the financial institution cannot retrieve in the
+28 ordinary course of business.
+29 § 801. Consumer and small business right to data portability. 1. Upon
+30 the request of a consumer, small business, or their authorized represen-
+31 tative, a financial institution shall make available all covered data
+32 they have requested in a secure, electronic, and machine-readable format
+33 by which the consumer, small business, or authorized representative can
+34 retrieve, retain, and transfer such data for processing into a separate
+35 information system.
+36 2. Financial institutions shall maintain a developer interface, such
+37 as a standardized application programming interface, to receive and
+38 respond to requests for access to covered data as set forth in subdivi-
+39 sion one of this section.
+40 3.(a) A financial institution shall not engage in or be a party to any
+41 unreasonable denial or impairment of access by a consumer, a small busi-
+42 ness, or authorized representative, including without limitation any
+43 denial or impairment related to risk or security standards.
+44 (b) Unreasonable denial or impairment under paragraph (a) of this
+45 subdivision includes conduct that:
+46 (i) Is likely to evade or unreasonably delay compliance with, or
+47 interfere with, prevent, or materially discourage access of covered data
+48 by a consumer, a small business, or an authorized representative;
+49 (ii) Degrades, impairs, or creates barriers that would restrict or
+50 systematically impede access to covered data by a consumer, a small
+51 business or authorized representative; or
+52 (iii) Is applied to a consumer, a small business, or authorized repre-
+53 sentative in a discriminatory manner.
+54 (c) A financial institution is not engaged in or a party to an unrea-
+55 sonable denial of access by an authorized representative by denying
+56 access if the denial:
+
+A. 10640--A 3
+1 (i) Is necessary to ensure compliance with specific safety and sound-
+2 ness obligations of the financial institution's prudential regulator,
+3 and is based on standardized safety and soundness criteria available to
+4 authorized representatives upon request; or
+5 (ii) To comply with applicable law.
+6 (d) A financial institution shall bear the burden of demonstrating
+7 that a denial of access under paragraph (c) of this subdivision is
+8 reasonable based on a specific, known risk likely to cause substantial
+9 injury to consumers or small businesses, and that such denial is applied
+10 consistently to authorized representatives facing the same or materially
+11 similar risk.
+12 (e) A financial institution shall provide prompt notice of any denial
+13 of access to a consumer, small business, or authorized representative.
+14 § 802. Prohibition of fees for data access. No financial institution
+15 shall directly or indirectly impose a fee, assessment, or any other
+16 charge to a consumer, small business, or authorized representative in
+17 connection with receiving requests for or making available covered data
+18 as required by section eight hundred one of this article. This prohibi-
+19 tion applies to the establishment, maintenance, and usage of the devel-
+20 oper interface.
+21 § 803. Authorized representative obligations. 1. An authorized repre-
+22 sentative must obtain express, informed consent from a consumer or small
+23 business in order to request access to covered data on the consumer's or
+24 small business's behalf.
+25 2. Authorized representatives shall provide a simple and transparent
+26 mechanism for a consumer or small business to view and revoke any
+27 authorizations for data sharing at any time.
+28 3. An authorized representative must limit its collection, use, and
+29 retention of covered data to what is reasonably necessary to provide the
+30 consumer's or small business's requested product or service.
+31 4. An authorized representative must apply to its systems for the
+32 collection, use, and retention of covered data an information security
+33 program that satisfies the applicable rules issued pursuant to section
+34 five hundred one of the Gramm-Leach-Bliley Act (15 U.S.C. 6801) or, if
+35 the authorized representative is not subject to section five hundred one
+36 of the Gramm-Leach-Bliley Act, the third party shall apply to its
+37 systems for the collection, use, and retention of covered data the
+38 information security program required by the federal trade commission's
+39 standards for safeguarding customer information, 16 CFR part 314.
+40 § 804. Security standards. For the purpose of authenticating a consum-
+41 er's or small business's request pursuant to subdivision one of section
+42 eight hundred one of this article, financial institutions shall use, at
+43 a minimum, the same processes and information that they rely upon to
+44 authenticate a consumer or small business for their online banking
+45 portals.
+46 § 805. Enforcement and penalties. 1. The superintendent of financial
+47 services shall have the power to enforce the provisions of this article.
+48 2. Any financial institution found to be in violation of this article,
+49 including the improper charging of fees or the restrictions set forth in
+50 subdivision three of section eight hundred one of this article, shall be
+51 subject to a civil penalty of not more than ten thousand dollars per
+52 violation.
+53 § 3. This act shall take effect on the sixtieth day after it shall
+54 have become a law.
