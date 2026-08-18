@@ -1,0 +1,205 @@
+Title: 
+Official Title: 
+Source: versions - A9251B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9251--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+November 7, 2025
+___________
+Introduced by M. of A. VANEL, SHIMSKY, STECK, HYNDMAN -- read once and
+referred to the Committee on Consumer Affairs and Protection -- recom-
+mitted to the Committee on Consumer Affairs and Protection in accord-
+ance with Assembly Rule 3, sec. 2 -- committee discharged, bill
+amended, ordered reprinted as amended and recommitted to said commit-
+tee -- again reported from said committee with amendments, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the general business law, in relation to prediction
+markets
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. Legislative findings and declaration. The legislature here-
+2 by finds that the regulation of activity within its jurisdiction is the
+3 foundation of the police powers of the state, that such powers are exer-
+4 cised through comprehensive statutory schemes enacted by the elected
+5 representatives of nearly twenty million New Yorkers, and that such
+6 schemes pair regulated activity with, among other things, criminal and
+7 civil penalties, licensure, authorization, incentives, consumer
+8 protections, and funding for state programs. The legislature further
+9 finds that the placing of money or anything of value upon the outcome of
+10 a future contingent event may implicate various laws of this state,
+11 including laws that prohibit such conduct outright and laws under which
+12 the underlying activity is regulated or prohibited by the state, and
+13 that where such conduct, or the underlying activity upon which it
+14 depends, is unlawful, the offering of speculative positions thereon to
+15 New York consumers is itself unlawful and, where advanced or profited
+16 from by a person other than a mere participant, may be criminal. The
+17 legislature further finds that while the democratization of commodity
+18 trading and the reduction of friction in legitimate hedging and price
+19 discovery serve valuable public purposes, certain prediction market
+20 platforms have strayed far from bona fide commodities into contracts
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14025-06-6
+
+A. 9251--B 2
+1 that serve no hedging or commercial function other than the financial
+2 risk taken by a person on the outcome of the market itself. These
+3 include, among other things, multi-leg combination contracts that repli-
+4 cate sportsbook parlays, on which retail participants have been docu-
+5 mented to have lost hundreds of millions of dollars in the current year
+6 alone, and which have increased to more than a third of all trading
+7 volume on the largest such platform. To that end, the legislature hereby
+8 declares that this act is enacted in the exercise of the police power of
+9 the state to protect its consumers and the integrity of its laws, that
+10 this act governs only prediction markets offered to New York consumers
+11 and speculative positions opened by New York consumers, and that this
+12 act is intended to operate in tandem with, and as a complement to,
+13 federal and state law.
+14 § 2. The general business law is amended by adding a new article 48
+15 to read as follows:
+16 ARTICLE 48
+17 PREDICTION MARKETS
+18 Section. 1800. Definitions.
+19 1801. Certain markets prohibited.
+20 1802. Certain contract provisions void.
+21 1803. Penalties.
+22 1804. Rulemaking authority.
+23 § 1800. Definitions. As used in this article, the following terms
+24 have the following meanings:
+25 1. "Consumer" means an individual who is a resident of the state of
+26 New York.
+27 2. "Prediction market platform" means any platform or service that
+28 provides consumers with the ability to open, close, trade, or settle
+29 speculative positions on prediction markets. A prediction market plat-
+30 form shall not include a platform, or any portion thereof, to the extent
+31 activity thereon is conducted pursuant to and in accordance with a
+32 license issued under the racing, pari-mutuel wagering and breeding law
+33 or other law of this state.
+34 3. "Prediction market" means a system that allows consumers to open a
+35 speculative position on the outcome of future events. This definition
+36 shall include all forms of prediction markets regardless of the mech-
+37 anisms or structures used for opening speculative positions on future
+38 events.
+39 4. "Catastrophic event market" means a prediction market that enables
+40 a consumer to open a speculative position on an outcome that relates to
+41 war, state or national emergencies, natural or human-made disasters,
+42 mass shootings, acts of terrorism, or public health crises or the ancil-
+43 lary effects thereof.
+44 5. "Political market" means a prediction market that enables a consum-
+45 er to open a speculative position that relates to:
+46 (a) a statewide election in New York, or an election held by a munici-
+47 pality within the state; or
+48 (b) the actions or conduct of the New York state government or any of
+49 its agencies, employees, officers or leaders, or a municipal government
+50 or any of its agencies, employees, officers or leaders in their official
+51 government capacity.
+52 6. "Death market" means a prediction market that enables a consumer to
+53 open a speculative position on the death, assassination, or attempted
+54 killing of a person or group of persons, or on mass casualty events.
+55 This shall not include a prediction market where the outcome could indi-
+56 rectly depend on a death as a consequence of a person's inclusion in the
+
+A. 9251--B 3
+1 market, such as a lawful prediction market which depends on a person
+2 engaging in some action where their death would naturally settle the
+3 market as such person not engaging in such action.
+4 7. "Speculative position" means a financial commitment made by a
+5 participant in a prediction market.
+6 8. "Athletic event market" means a prediction market that enables a
+7 consumer to open a speculative position on the outcome of a specific
+8 athletic event or events or events within an athletic event or events.
+9 9. "Athletic event" means an organized competition between two or more
+10 persons or groups of persons that involves physical or mental skill.
+11 Athletic events shall include horse racing and prop betting.
+12 10. "Unlawful commodity" means any commodity offering, contract,
+13 transaction, market, or instrument, or the underlying activity thereof,
+14 that violates this chapter, any other law of this state, or applicable
+15 federal law, including the commodity exchange act and the rules, regu-
+16 lations, orders, and other official interpretations issued thereunder.
+17 Whether the commodity offering, contract, transaction, market, instru-
+18 ment, or underlying activity is prohibited or constitutes a violation
+19 shall be determined by any controlling judicial decision construing
+20 those statutes, rules, regulations, orders and official interpretations.
+21 In the absence of any controlling judicial authority, the attorney
+22 general may rely on a reasonable interpretation of such laws.
+23 § 1801. Certain markets prohibited. A prediction market platform
+24 provider shall not permit New York consumers to open, hold, trade, or
+25 settle a speculative position, or otherwise participate, in the follow-
+26 ing types of prediction markets:
+27 1. Catastrophic event markets;
+28 2. Political markets;
+29 3. Death markets;
+30 4. Athletic event markets; and
+31 5. Unlawful commodity markets.
+32 § 1802. Certain contract provisions void. 1. A provider's terms of
+33 service shall not alter or eliminate any right provided to a consumer
+34 under this article.
+35 2. Any agreement which violates any provision within this article
+36 shall be deemed void.
+37 § 1803. Penalties. 1. The attorney general shall have independent
+38 authority to enforce the provisions of this article where the attorney
+39 general has reason to believe that New York consumers are or will be
+40 harmed by a violation of this article. Pursuant to such authority, the
+41 attorney general may seek such relief and impose such penalties as
+42 provided herein. Such authority shall not be contingent upon, or limited
+43 by, the action or inaction of the commodity futures trading commission.
+44 2. Any prediction market provider or other entity who violates any
+45 provision of this article, or any rule, regulation, or order promulgated
+46 thereunder, shall be liable for a civil penalty not to exceed ten thou-
+47 sand dollars for each violation. Where the attorney general determines
+48 that the provider has engaged in a persistent course of conduct in
+49 violation of this section, the attorney general may impose a civil
+50 penalty not to exceed fifty thousand dollars for each violation.
+51 3. Where a prediction market provider violates the provisions of
+52 section eighteen hundred one of this article, such civil penalty shall
+53 be the greater of two times such profits derived from such market or
+54 fifty thousand dollars.
+55 4. Whenever the attorney general shall believe from evidence satisfac-
+56 tory to them that a prediction market provider has engaged in a persist-
+
+A. 9251--B 4
+1 ent course of conduct in violation of this article, they may bring an
+2 action in the name and on behalf of the people of the state of New York,
+3 in a court of justice having jurisdiction to issue an injunction, to
+4 enjoin and restrain the continuation of such violation. In such action,
+5 preliminary relief may be granted under article sixty-three of the civil
+6 practice law and rules. In such action the court shall order such
+7 provider to cease operations in the state.
+8 5. Where a prediction market provider continues to operate in the
+9 state after an order pursuant to subdivision four of this section is
+10 made, such provider shall incur a civil penalty of one million dollars
+11 per day that such provider is operating in violation of such order in
+12 addition to such penalties provided under this section.
+13 6. Nothing in this article shall be construed to preclude criminal
+14 prosecution under any other law.
+15 7. The fact that a prediction market provider did not charge money or
+16 earn profit from such activities in violation of this section shall not
+17 be a defense to a violation of this article.
+18 8. Nothing in this article shall be construed as limiting the commis-
+19 sioner of the New York state gaming commission or the attorney general
+20 from penalizing prediction market platforms for violating any law under
+21 the jurisdiction of each.
+22 9. The remedies and penalties in this article are cumulative. Imposi-
+23 tion of a penalty under this section does not preclude the attorney
+24 general from taking any other action authorized for the same violation.
+25 § 1804. Rulemaking authority. The attorney general shall promulgate
+26 rules and regulations as are necessary to effectuate and enforce the
+27 provisions of this article.
+28 § 3. Severability. If any clause, sentence, paragraph, subdivision,
+29 section, or part of this act shall be adjudged by any court of competent
+30 jurisdiction to be invalid, such judgment shall not affect, impair, or
+31 invalidate the remainder thereof, but shall be confined in its operation
+32 to the clause, sentence, paragraph, subdivision, section, or part there-
+33 of directly involved in the controversy in which such judgment has been
+34 rendered. It is hereby declared to be the intent of the legislature that
+35 this act would have been enacted if such invalid provisions had not been
+36 included therein.
+37 § 4. This act shall take effect on the ninetieth day after it shall
+38 have become a law.
