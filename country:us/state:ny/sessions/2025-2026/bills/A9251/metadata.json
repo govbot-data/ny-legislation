@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Enacts the oversight and regulation of activity for contracts linked to events (ORACLE) act to provide for requirements and restrictions on prediction markets."
+      "abstract": "Provides for requirements and restrictions on prediction markets."
     }
   ],
   "other_titles": [],
@@ -80,6 +80,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:16:29Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9251B",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:16:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,11 +146,6 @@
       "identifier": "S 9414",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
-    },
-    {
-      "identifier": "S 9414",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -149,6 +169,17 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9251A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A9251B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9251B",
           "media_type": "application/pdf"
         }
       ],
@@ -181,6 +212,14 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 A48",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
     }
   ],
   "sources": [
@@ -205,7 +244,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-08-18T07:16:29Z",
     "text_extraction_latest_update": "2026-07-22T10:38:49.977689Z"
   }
 }
