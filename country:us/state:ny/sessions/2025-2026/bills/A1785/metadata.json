@@ -55,6 +55,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:02Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:25:08Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1785A",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:25:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,6 +93,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 7159",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 7159",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 9512",
       "legislative_session": "2023-2024",
@@ -89,10 +124,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A1785A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A1785A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 376-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
     {
       "publication": "New York Laws",
       "citation": "EXC \u00a7 376-A",
@@ -124,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-08-20T07:25:08Z",
     "text_extraction_latest_update": "2026-07-22T23:37:42.916135Z"
   }
 }
