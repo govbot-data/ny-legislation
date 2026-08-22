@@ -80,6 +80,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:41Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HOUSING",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:23:12Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7380B",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:23:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,18 +133,7 @@
       "organization_id": null
     }
   ],
-  "related_bills": [
-    {
-      "identifier": "S 5226",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
-      "identifier": "S 5226",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    }
-  ],
+  "related_bills": [],
   "versions": [
     {
       "note": "A7380",
@@ -141,6 +155,17 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7380A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A7380B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7380B",
           "media_type": "application/pdf"
         }
       ],
@@ -189,7 +214,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:41Z",
+    "logs_latest_update": "2026-08-22T07:23:12Z",
     "text_extraction_latest_update": "2026-07-22T01:25:57.528657Z"
   }
 }

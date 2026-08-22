@@ -171,6 +171,18 @@
       "_processing": {
         "log_file_created": "2026-08-15T07:30:10Z"
       }
+    },
+    {
+      "description": "SIGNED CHAP.255",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T07:23:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -245,7 +257,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-15T07:30:10Z",
+    "logs_latest_update": "2026-08-22T07:23:12Z",
     "text_extraction_latest_update": "2026-08-15T07:32:58.278784Z"
   }
 }
