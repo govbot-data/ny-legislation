@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to updating school concussion management and response protocols; requires that the injured student have returned to a full class schedule without academic accommodations prior to resuming athletic activity."
+      "abstract": "Updates school concussion management and response protocols; requires that the injured student have returned to a full class schedule without academic accommodations prior to resuming athletic activity; authorizes physician assistants to evaluate pupils with concussions."
     }
   ],
   "other_titles": [],
@@ -62,6 +62,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:49Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO EDUCATION",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T11:17:26Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10675B",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T11:17:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -75,11 +100,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 9686",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "S 9686",
       "legislative_session": "2025-2026",
@@ -132,6 +152,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A10675B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A10675B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -175,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:49Z",
+    "logs_latest_update": "2026-09-04T11:17:26Z",
     "text_extraction_latest_update": "2026-07-22T23:26:27.826610Z"
   }
 }
