@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S10667",
-  "title": "Establishes a presumption that certain refunds received by public utility companies and municipalities shall be passed on to ratepayers",
+  "title": "Establishes a presumption that certain refunds received by public utility companies shall be passed on to ratepayers",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes a presumption that certain refunds received by public utility companies and municipalities shall be passed on to ratepayers through bill credits, direct refunds, reductions in future rates, or other methods that provide a direct and equitable benefit to affected ratepayers."
+      "abstract": "Establishes a presumption that certain refunds received by public utility companies shall be passed on to ratepayers through bill credits, direct refunds, reductions in future rates, or other methods that provide a direct and equitable benefit to affected ratepayers."
     }
   ],
   "other_titles": [],
@@ -36,6 +36,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-08-09T07:47:13Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO RULES",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T11:45:09Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10667A",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T11:45:09Z"
       }
     }
   ],
@@ -65,10 +90,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S10667A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S10667A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 113",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBS \u00a7 113",
@@ -100,7 +144,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T07:47:13Z",
+    "logs_latest_update": "2026-09-10T11:45:09Z",
     "text_extraction_latest_update": "2026-08-09T07:50:47.657014Z"
   }
 }
