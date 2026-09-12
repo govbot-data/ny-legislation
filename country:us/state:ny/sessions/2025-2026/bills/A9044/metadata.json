@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits a person offering loot boxes to consumers within the state to repurchase the contents of any such loot box whether directly themselves or indirectly through a third-party provider."
+      "abstract": "Prohibits a person to offer or promote instant payout loot boxes to New York consumers."
     }
   ],
   "other_titles": [],
@@ -80,6 +80,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:46Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T11:28:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9044B",
+      "date": "2026-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T11:28:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,10 +144,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A9044B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9044B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PML \u00a7 913",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PML \u00a7 913",
@@ -162,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:46Z",
+    "logs_latest_update": "2026-09-12T11:28:56Z",
     "text_extraction_latest_update": "2026-07-22T21:04:40.105843Z"
   }
 }

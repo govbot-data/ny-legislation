@@ -55,6 +55,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:41Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO EDUCATION",
+      "date": "2026-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T11:28:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7919A",
+      "date": "2026-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T11:28:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,7 +172,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 10693",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 10693",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A7919",
@@ -163,6 +199,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A7919A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7919A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -170,6 +217,14 @@
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 819",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 820",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -198,7 +253,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:41Z",
+    "logs_latest_update": "2026-09-12T11:28:56Z",
     "text_extraction_latest_update": "2026-07-22T15:21:40.817660Z"
   }
 }
