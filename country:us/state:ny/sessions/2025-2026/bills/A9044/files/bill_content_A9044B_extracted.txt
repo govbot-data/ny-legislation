@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - A9044B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+9044--B
+2025-2026 Regular Sessions
+IN ASSEMBLY
+September 5, 2025
+___________
+Introduced by M. of A. VANEL -- read once and referred to the Committee
+on Consumer Affairs and Protection -- recommitted to the Committee on
+Consumer Affairs and Protection in accordance with Assembly Rule 3,
+sec. 2 -- committee discharged, bill amended, ordered reprinted as
+amended and recommitted to said committee -- again reported from said
+committee with amendments, ordered reprinted as amended and recommit-
+ted to said committee
+AN ACT to amend the racing, pari-mutuel wagering and breeding law, in
+relation to prohibited practices related to loot boxes
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The racing, pari-mutuel wagering and breeding law is
+2 amended by adding a new section 913 to read as follows:
+3 § 913. Prohibition of instant payout loot boxes and revenue from ille-
+4 gal markets. 1. Definitions. The following terms shall have the follow-
+5 ing meanings:
+6 (a) "Loot box" shall mean any physical or digital container or equiv-
+7 alent that, when opened, awards the purchaser one or more randomized
+8 rewards.
+9 (b) "Person" shall mean any natural person, entity, or group of
+10 persons or entities acting in concert, including but not limited to any
+11 third-party providers, affiliated entities, subsidiaries, parent compa-
+12 nies, joint ventures, partnerships, agents, or employees thereof, or any
+13 entity or individual acting at the direction of, in cooperation with,
+14 under contract or in partnership with, or financially benefitting from
+15 another person or entity. Multiple persons in partnership or under
+16 contract, where one or more persons financially benefit from such part-
+17 nership or contract shall be treated as one person for purposes of this
+18 section.
+19 (c) "Liquid digital item" shall mean any digital item, or any digital
+20 representation of a physical item that is held in the custody of, or
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD13589-03-6
+
+A. 9044--B 2
+1 otherwise by or on behalf of, the platform or service offering the loot
+2 box or any affiliated entity for the benefit of the consumer, for which
+3 the platform offering the loot box or any affiliated entity directly or
+4 indirectly provides, enables, facilitates, materially assists, or makes
+5 readily available a means for a consumer to sell, resell, transfer,
+6 exchange, auction, or otherwise monetize the item or the physical item
+7 it represents, including through any third-party marketplace, exchange,
+8 broker, or other intermediary.
+9 (d) "Repurchase" shall mean the act of offering a consumer a thing of
+10 value in exchange for some or all of the contents of a loot box.
+11 (e) "Thing of value" shall mean money, cash equivalents, cryptocurren-
+12 cy, including non-fungible tokens, another loot box or similar item, a
+13 liquid digital item, any right, privilege, status, service, experience,
+14 or access, points or credits that can be redeemed to purchase or obtain
+15 any of the foregoing or any other item, or any other item, benefit, or
+16 incentive of value, including any incentive used primarily as an arti-
+17 fice or subterfuge to evade the requirements of this section.
+18 (f) "Instant payout loot box" shall mean a loot box that, whether
+19 immediately, upon the satisfaction of a condition, or otherwise on a
+20 deferred basis, awards a thing of value, or that enables a consumer, at
+21 any time and whether directly or indirectly, to sell, redeem, exchange,
+22 transfer, or otherwise convert some or all of its contents into a thing
+23 of value for such consumer or such consumer's benefit, including through
+24 a repurchase by the person that operates, conducts, or promotes such
+25 loot box. A consumer's receipt, retention, or use of the contents of a
+26 loot box shall not, by itself, make a loot box an instant payout loot
+27 box, nor shall a transaction in which a consumer converts such contents
+28 into a thing of value without the participation of, or any consideration
+29 to, the person that operates, conducts, or promotes such loot box.
+30 2. Prohibition. (a) It shall be unlawful for any applicant, licensed
+31 entity, gaming employee, key employee, individual investor or investment
+32 firm, board member, or any other person or entity to operate, conduct,
+33 or promote instant payout loot boxes to New York consumers. Nor may any
+34 third-party provider, affiliated entity, subsidiary, parent company,
+35 joint venture, partnership, agent, or employee of such person, or anoth-
+36 er through any other contractual arrangement repurchase the contents of
+37 any loot box from a New York consumer.
+38 (b) No loot box shall contain money or any cash equivalent or crypto-
+39 currency, including non-fungible tokens, any status, tier, membership
+40 level, or credential, or points that can be redeemed to purchase another
+41 loot box, item, cash or cash equivalent, cryptocurrency, a liquid
+42 digital item, or other thing of value.
+43 (c) It shall be unlawful for any applicant, licensed entity, financial
+44 institution, payment processor, geolocation provider, gaming content
+45 supplier, platform provider, or media affiliate to knowingly support the
+46 operation, conduct, or promotion of instant payout loot boxes within the
+47 state of New York. For purposes of this paragraph, a person shall be
+48 deemed to act knowingly if such person (i) has actual knowledge that the
+49 loot boxes such person supports are prohibited under this section, or
+50 (ii) has received written notice from the state gaming commission, the
+51 state police, or the attorney general identifying such loot boxes as
+52 prohibited under this section and fails to cease such support within
+53 thirty days after receipt of such notice. A person shall not be deemed
+54 to act knowingly solely because such person provides financial, payment
+55 processing, geolocation, content, platform, hosting, advertising, or
+
+A. 9044--B 3
+1 similar services in the ordinary course of business to a person that
+2 operates, conducts, or promotes loot boxes.
+3 3. Penalties. (a) Any applicant, licensed entity, gaming employee, key
+4 employee, individual investor or investment firm, board member, or any
+5 other person or entity found in violation of this section shall be
+6 subject to a fine of not less than ten thousand dollars and not more
+7 than one hundred thousand dollars for each violation and shall be
+8 subject to the loss of a gaming license and/or be ineligible for a
+9 gaming license.
+10 (b) All fines resulting from violations of this section shall be
+11 collected by the state gaming commission and deposited into the commer-
+12 cial gaming revenue fund, established in section ninety-seven-nnnn of
+13 the state finance law, to be distributed for problem gambling education
+14 and treatment purposes pursuant to paragraph a of subdivision four of
+15 such section.
+16 4. Enforcement. (a) The state gaming commission, the state police, or
+17 the attorney general's office shall have the authority to enforce the
+18 provisions of this section.
+19 (b) The state gaming commission, state police or attorney general's
+20 office may conduct investigations, hold hearings, issue cease and desist
+21 letters, and issue subpoenas to ensure compliance with the provisions of
+22 this section.
+23 § 2. This act shall take effect immediately.
