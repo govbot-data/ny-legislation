@@ -1,0 +1,243 @@
+Title: 
+Official Title: 
+Source: versions - A10841A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10841--A
+IN ASSEMBLY
+April 6, 2026
+___________
+Introduced by M. of A. STECK, K. BROWN, NORBER -- read once and referred
+to the Committee on Consumer Affairs and Protection -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to protecting
+minors online from social media and harmful content
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 45-C to read as follows:
+3 ARTICLE 45-C
+4 PROTECTING MINORS ONLINE
+5 Section 1550. Definitions.
+6 1551. Minors as account holders of platforms that provide an
+7 addictive feature.
+8 1552. Age verification.
+9 1553. Enforcement.
+10 1554. E-Safety advisory commission.
+11 § 1550. Definitions. For the purposes of this article, the following
+12 terms shall have the following meanings:
+13 1. "Addictive feature" means any of the following psychologically
+14 exploitative features intended to maximize engagement that foreseeably
+15 lead to compulsive use:
+16 (a) an addictive feed;
+17 (b) autoplay; and/or
+18 (c) any other feature defined in regulations adopted pursuant to
+19 section fifteen hundred fifty-three of this article as an addictive
+20 feature.
+21 2. "Covered platform" means, subject to regulations adopted pursuant
+22 to section fifteen hundred fifty-three of this article, an internet
+23 website, online service, online application, or mobile application,
+24 including, but not limited to, a social media platform, as defined in
+25 section fifteen hundred fifty-one of this article, that offers users or
+26 provides users with an addictive feature as a significant part of the
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD14069-02-6
+
+A. 10841--A 2
+1 service provided by that internet website, online service, online appli-
+2 cation, or mobile application. This definition does not cover either of
+3 the following:
+4 (a) an internet website, online service, online application, or mobile
+5 application for which interactions between users are limited to commer-
+6 cial transactions or to consumer reviews of products, sellers, services,
+7 events, or places, or any combination thereof; or
+8 (b) an internet website, online service, online application, or mobile
+9 application that operates a feed for the primary purpose of cloud stor-
+10 age.
+11 3. "Material harmful to minors" means any material that:
+12 (a) the average person applying contemporary community standards would
+13 find, taken as a whole, appeals to the prurient interest;
+14 (b) depicts or describes, in a patently offensive way, sexual conduct;
+15 and
+16 (c) when taken as a whole, lacks serious literary, artistic, poli-
+17 tical, or scientific value for minors.
+18 4. "Social media platform" means an online forum, website, or applica-
+19 tion that:
+20 (a) allows users to upload content or view the content or activity of
+21 other users;
+22 (b) ten percent or more of the daily active users who are younger than
+23 sixteen years of age spend on average two hours or more per day on the
+24 online forum, website, or application on the days when using the online
+25 forum, website, or application during the previous twelve months or, if
+26 the online forum, website, or application did not exist during the
+27 previous twelve months, during the previous month;
+28 (c) employs algorithms that analyze user data or information on users
+29 to select content for users; and
+30 (d) has any of the following addictive features:
+31 (i) infinite scrolling, including, but not limited to:
+32 (A) continuously loading content, or content that loads as the user
+33 scrolls down the page without the need to open a separate page; or
+34 (B) seamless content, or the use of pages with no visible or apparent
+35 end or page breaks;
+36 (ii) push notifications or alerts sent by the online forum, website,
+37 or application to inform a user about specific activities or events
+38 related to the user's account;
+39 (iii) displays personal interactive metrics that indicate the number
+40 of times other users have clicked a button to indicate their reaction to
+41 content or have shared or reposted the content;
+42 (iv) auto-play video or video that begins to play without the user
+43 first clicking on the video or on a play button for that video; or
+44 (v) live-streaming or a function that allows a user or advertiser to
+45 broadcast live video content in real-time.
+46 The term "social media platform" shall not include an online service,
+47 website, or application where the exclusive function is email or direct
+48 messaging consisting of text, photographs, pictures, images, or videos
+49 shared only between the sender and the recipients, without displaying or
+50 posting publicly or to other users not specifically identified as the
+51 recipients by the sender.
+52 § 1551. Minors as account holders of platforms that provide an addic-
+53 tive feature. 1. (a)(1) A covered platform shall not provide an addic-
+54 tive feature to a user who is under sixteen years of age.
+55 (2) This paragraph does not prohibit a covered platform from permit-
+56 ting a user who is under sixteen years of age to create or maintain an
+
+A. 10841--A 3
+1 account on the covered platform if that user is not provided with any
+2 addictive features.
+3 (b) A covered platform shall implement reasonable measures to ensure
+4 that users under sixteen years of age are not provided any addictive
+5 features on the covered platform.
+6 (c) Except as provided in paragraph (a) of this subdivision, a covered
+7 platform shall:
+8 (1) delete the account of users under sixteen years of age and any
+9 personal information associated with the user of the account;
+10 (2) allow an account holder younger than sixteen years of age to easi-
+11 ly request to terminate the account. Such account shall be terminated
+12 within five business days of such request;
+13 (3) allow a confirmed parent or guardian of an account holder younger
+14 than sixteen years of age to request that the minor's account be termi-
+15 nated. Such account shall be terminated within ten business days of such
+16 request; and
+17 (4) permanently delete all personal information held by the social
+18 media platform relating to the terminated account, unless there are
+19 legal requirements to maintain such information.
+20 2. Subdivision one of this section does not apply to a covered plat-
+21 form that permits a user under sixteen years of age to create or main-
+22 tain an account on the platform pursuant to subparagraph two of para-
+23 graph (a) of subdivision one of this section.
+24 3. The attorney general shall maintain a website to receive
+25 complaints, information or referrals from members of the public concern-
+26 ing a social media platform's alleged compliance or non-compliance with
+27 the provisions of this article.
+28 § 1552. Age verification. Before providing an addictive feature to a
+29 user, a covered platform shall verify the age of a user pursuant to the
+30 age assurance regulations established under article forty-five of this
+31 chapter.
+32 § 1553. Enforcement. 1. (a) No earlier than one hundred eighty days
+33 after the effective date of this article, whenever it appears to the
+34 attorney general, either upon complaint or otherwise, that any person or
+35 entity, within or outside the state, has knowingly or recklessly engaged
+36 in or is about to engage in any of the acts or practices stated to be
+37 unlawful in this article, the attorney general may bring an action or
+38 special proceeding in the name and on behalf of the people of the state
+39 of New York to enjoin any violation of this article, to obtain restitu-
+40 tion of any moneys or property obtained directly or indirectly by any
+41 such violation, to obtain disgorgement of any profits or gains obtained
+42 directly or indirectly by any such violation, including but not limited
+43 to the destruction of unlawfully obtained data, to obtain damages caused
+44 directly or indirectly by any such violation, to obtain civil penalties
+45 of up to fifty thousand dollars per violation, and to obtain any such
+46 other and further relief as the court may deem proper, including prelim-
+47 inary relief. Where the person or entity's actions demonstrate a pattern
+48 of knowing and reckless conduct in violation of this article, punitive
+49 damages may be assessed against the person or entity.
+50 (b) No earlier than one hundred eighty days after the effective date
+51 of this article, a civil action may be brought by a minor account holder
+52 against a person or entity, within or outside the state, which has know-
+53 ingly or recklessly engaged in any of the acts or practices stated to be
+54 unlawful in this article to obtain restitution of any moneys or property
+55 obtained directly or indirectly by any such violation, to obtain
+56 disgorgement of any profits or gains obtained directly or indirectly by
+
+A. 10841--A 4
+1 any such violation, including but not limited to the destruction of
+2 unlawfully obtained data, to obtain damages caused directly or indirect-
+3 ly by any such violation, to obtain civil penalties of up to ten thou-
+4 sand dollars per violation, and to obtain any such other and further
+5 relief as the court may deem proper, including preliminary relief. Where
+6 the person or entity's actions demonstrate a pattern of knowing and
+7 reckless conduct in violation of this article, punitive damages may be
+8 assessed against the person or entity. Any action brought under this
+9 paragraph shall be brought on behalf of a minor account holder.
+10 2. A civil action for a claim under this subdivision shall be brought
+11 within one year from the date the complainant knew, or reasonably should
+12 have known, of the alleged violation. This section does not preclude any
+13 other available remedy at law or equity.
+14 3. The attorney general shall have the authority to investigate
+15 violations of this article. The attorney general shall have authority to
+16 issue, through the attorney general, subpoenas for the attendance of
+17 witnesses before the commission. A subpoena issued under this section
+18 shall be regulated by the civil practice law and rules. All information
+19 collected and held by the attorney general pursuant to an investigation
+20 under this article shall be deemed confidential and shall not be subject
+21 to public disclosure under the freedom of information law or any other
+22 law which requires public disclosure of records maintained by a govern-
+23 mental agency.
+24 4. The attorney general shall promulgate such rules and regulations as
+25 are necessary to effectuate and enforce the provisions of this article.
+26 § 1554. E-Safety advisory commission. 1. A commission to be known as
+27 the E-Safety advisory commission is hereby created to investigate, eval-
+28 uate, and make recommendations to the attorney general on additional
+29 addictive features to be covered under this article.
+30 2. (a) The commission shall consist of five members, to be appointed
+31 as follows: one member to be appointed by the governor, one member to be
+32 appointed by the temporary president of the senate, one member to be
+33 appointed by the minority leader of the senate, one member to be
+34 appointed by the speaker of the assembly, and one member to be appointed
+35 by the minority leader of the assembly.
+36 (b) The members of the commission shall receive no compensation for
+37 their services, but shall be allowed their actual and necessary expenses
+38 incurred in the performance of their duties under this article. The
+39 commission may employ and at pleasure remove such personnel as it may
+40 deem necessary for the performance of its functions and fix their
+41 compensation within the amounts made available by appropriation there-
+42 for.
+43 3. The commission shall investigate additional addictive features not
+44 covered under this article and recommend to the attorney general that
+45 such addictive features are covered under this article.
+46 4. (a) For the accomplishment of its purposes, the commission may meet
+47 and hold public and/or private hearings within or without the state, and
+48 shall have all the powers of a legislative committee pursuant to the
+49 legislative law. The commission is authorized and empowered to undertake
+50 any studies, inquiries, surveys or analyses it may deem relevant through
+51 its own personnel or in cooperation with or by agreement with any other
+52 public or private agency.
+53 (b) To the maximum extent feasible, the commission may request and
+54 shall be entitled to receive and shall utilize and be provided with such
+55 facilities, resources and data from any court in the state and from any
+56 subdivision, department, board, bureau, commission, office, agency, or
+
+A. 10841--A 5
+1 other instrumentality of the state or of any political subdivision ther-
+2 eof as it deems necessary or desirable for the proper execution of its
+3 powers and duties and to effectuate the purposes set forth in this
+4 section.
+5 (c) The commission is hereby authorized and empowered to enter into
+6 any agreements and to do and perform any acts that may be necessary,
+7 desirable or proper to carry out the purposes and objectives of this
+8 section.
+9 (d) The commission is required to hold at least two meetings per year.
+10 5. The commission shall make recommendations and a report of its find-
+11 ings. The commission shall submit such recommendations and report to the
+12 attorney general, the governor, the temporary president of the senate,
+13 the minority leader of the senate, the speaker of the assembly, and the
+14 minority leader of the assembly, and make public online on the gover-
+15 nor's website no later than December first of each year.
+16 § 2. This act shall take effect immediately.
