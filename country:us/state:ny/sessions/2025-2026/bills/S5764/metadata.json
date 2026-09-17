@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S5764",
-  "title": "Relates to the wastewater infrastructure and drinking water program",
+  "title": "Relates to the wastewater infrastructure and drinking water program; appropriation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes a wastewater infrastructure and drinking water program for the purpose of making payments toward the replacement and rehabilitation of existing local municipally-owned and funded drinking water, storm water and sanitary sewer systems."
+      "abstract": "Establishes a wastewater infrastructure and drinking water program for the purpose of making payments toward the replacement and rehabilitation of existing local municipally-owned and funded drinking water, storm water and sanitary sewer systems; makes an appropriation therefor of $5,000,000."
     }
   ],
   "other_titles": [],
@@ -55,6 +55,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:47Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-09-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T12:14:07Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5764A",
+      "date": "2026-09-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T12:14:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,11 +93,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "A 9325",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 9325",
       "legislative_session": "2025-2026",
@@ -99,10 +119,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5764A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5764A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 3-0322",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ENV \u00a7 3-0322",
@@ -134,7 +173,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:47Z",
+    "logs_latest_update": "2026-09-17T12:14:07Z",
     "text_extraction_latest_update": "2026-07-22T21:24:49.569424Z"
   }
 }

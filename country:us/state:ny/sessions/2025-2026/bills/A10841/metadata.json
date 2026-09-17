@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:57Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-09-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T12:14:07Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10841A",
+      "date": "2026-09-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T12:14:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +106,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A10841A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A10841A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -88,6 +124,14 @@
     {
       "publication": "New York Laws",
       "citation": "GBS \u00a7 A45-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 A45-C",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -116,7 +160,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:57Z",
+    "logs_latest_update": "2026-09-17T12:14:07Z",
     "text_extraction_latest_update": "2026-07-22T11:01:42.096170Z"
   }
 }
