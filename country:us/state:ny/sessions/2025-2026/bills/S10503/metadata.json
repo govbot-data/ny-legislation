@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S10503",
-  "title": "Establishes the pro-housing communities incentive fund",
+  "title": "Establishes the build for bucks incentive fund",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes the pro-housing communities incentive fund to provide incentive payments to municipalities based on the number of eligible new housing units produced within such municipality."
+      "abstract": "Establishes the build for bucks incentive fund to provide incentive payments to municipalities based on the number of eligible new housing units produced within such municipality."
     }
   ],
   "other_titles": [],
@@ -36,6 +36,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:58:53Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T11:21:17Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10503A",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T11:21:17Z"
       }
     }
   ],
@@ -65,10 +90,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S10503A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S10503A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 A28",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PVH \u00a7 A28",
@@ -100,7 +144,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:53Z",
+    "logs_latest_update": "2026-09-19T11:21:17Z",
     "text_extraction_latest_update": "2026-07-22T15:34:24.447296Z"
   }
 }

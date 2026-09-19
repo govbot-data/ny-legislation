@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the effectiveness of provisions of law relating to the powers of the chairman and members of the state liquor authority (Part A); authorizes special permits to remain open during certain hours of the morning (Part B); permits certain retail licensees to purchase wine and liquor from certain other retail licensees (Part C); relates to permissible sales by license holders (Part D); allows multiple off-premises licenses (Part E); relates to licensing restrictions for manufacturers and wholesalers of alcoholic beverages and retail licensees (Part F); relates to the approval of seven day licenses to sell liquor at retail for consumption off the premises (Part G); adjusts licensing fees regarding certain alcoholic beverages (Part H); relates to changes of ownership of a licensed business (Part I); relates to the issuance of temporary retail permits; makes permanent certain provisions relating to liquidator's permits and temporary retail permits (Part J); establishes a temporary wholesale permit and allows multiple wholesale licenses owned by the same person or entity to be located at the same premises (Part K); relates to licenses issued for on-premises consumption within a certain distance of a building occupied as a school, church, synagogue or other place of worship with consent of such building's owner or administrator (Part L); permits licenses for premises located within five hundred feet of other premises outside of certain counties (Part M)."
+      "abstract": "Relates to the effectiveness of provisions of law relating to the powers of the chairman and members of the state liquor authority (Part A); authorizes special permits to remain open during certain hours of the morning (Part B); relates to permissible sales by license holders (Part C); allows multiple off-premises licenses (Part D); relates to licensing restrictions for manufacturers and wholesalers of alcoholic beverages and retail licensees (Part E); relates to the approval of seven day licenses to sell liquor at retail for consumption off the premises (Part F); relates to changes of ownership of a licensed business (Part G); relates to the issuance of temporary retail permits; makes permanent certain provisions relating to liquidator's permits and temporary retail permits (Part H); relates to licenses issued for on-premises consumption within a certain distance of a building occupied as a school, church, synagogue or other place of worship with consent of such building's owner or administrator (Part I); and permits licenses for premises located within five hundred feet of other premises outside of certain counties (Part J)."
     }
   ],
   "other_titles": [],
@@ -55,6 +55,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:56Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T11:21:17Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4575A",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T11:21:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,11 +115,6 @@
       "relation_type": "companion"
     },
     {
-      "identifier": "A 10416",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
       "identifier": "S 6785",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -115,10 +135,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S4575A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S4575A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ABC",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ABC/ (generally)"
+    },
     {
       "publication": "New York Laws",
       "citation": "ABC",
@@ -150,7 +189,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:56Z",
+    "logs_latest_update": "2026-09-19T11:21:17Z",
     "text_extraction_latest_update": "2026-07-21T23:22:49.661433Z"
   }
 }
