@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A10841",
-  "title": "Protects minors online from social media and harmful content",
+  "title": "Protects minors online from addictive features of social media",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Protects minors online from social media and harmful content; establishes penalties for failing to restrict certain minors from certain content."
+      "abstract": "Protects minors online from addictive features of social media; establishes penalties for failing to restrict certain minors from certain features."
     }
   ],
   "other_titles": [],
@@ -61,6 +61,31 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-17T12:14:07Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:28:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10841B",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:28:47Z"
       }
     }
   ],
@@ -117,6 +142,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A10841B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A10841B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -124,6 +160,14 @@
     {
       "publication": "New York Laws",
       "citation": "GBS \u00a7 A45-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 A45-C",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -160,7 +204,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T12:14:07Z",
+    "logs_latest_update": "2026-09-22T12:28:47Z",
     "text_extraction_latest_update": "2026-09-17T12:17:17.024269Z"
   }
 }

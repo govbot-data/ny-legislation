@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression."
+      "abstract": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to anti-discrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression."
     }
   ],
   "other_titles": [],
@@ -54,6 +54,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:58:41Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO FINANCE",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:28:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6636A",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:28:47Z"
       }
     }
   ],
@@ -134,6 +159,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S6636A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S6636A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -141,6 +177,14 @@
     {
       "publication": "New York Laws",
       "citation": "EXC \u00a7 170-I",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 170-L",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -169,7 +213,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:41Z",
+    "logs_latest_update": "2026-09-22T12:28:47Z",
     "text_extraction_latest_update": "2026-07-21T23:48:56.975529Z"
   }
 }

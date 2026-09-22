@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A10613",
-  "title": "Increases the tax exemption on real property owned by members of volunteer fire companies or voluntary ambulance services in certain counties",
+  "title": "Improves affordability and the recruitment and retention of volunteer firefighters and volunteer ambulance workers through local tax incentives",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Increases the tax exemption to twenty percent on real property owned by members of volunteer fire companies or voluntary ambulance services in certain counties."
+      "abstract": "Increases the tax exemption on real property owned by members of volunteer fire companies or voluntary ambulance services in certain counties."
     }
   ],
   "other_titles": [],
@@ -36,6 +36,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:58:48Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO REAL PROPERTY TAXATION",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:28:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 10613A",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T12:28:47Z"
       }
     }
   ],
@@ -65,10 +90,38 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A10613A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A10613A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 466-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10613?summary=&detail=",
@@ -91,7 +144,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:48Z",
+    "logs_latest_update": "2026-09-22T12:28:47Z",
     "text_extraction_latest_update": "2026-07-22T22:44:00.374436Z"
   }
 }
