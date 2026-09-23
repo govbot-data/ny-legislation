@@ -161,6 +161,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:08Z"
       }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:56:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,7 +238,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:08Z",
+    "logs_latest_update": "2026-09-23T11:56:19Z",
     "text_extraction_latest_update": "2026-07-22T02:06:44.207662Z"
   }
 }
