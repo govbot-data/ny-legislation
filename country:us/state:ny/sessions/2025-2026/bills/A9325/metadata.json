@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A9325",
-  "title": "Relates to the wastewater infrastructure and drinking water program",
+  "title": "Relates to the wastewater infrastructure and drinking water program; appropriation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes a wastewater infrastructure and drinking water program for the purpose of making payments toward the replacement and rehabilitation of existing local municipally-owned and funded drinking water, storm water and sanitary sewer systems."
+      "abstract": "Establishes a wastewater infrastructure and drinking water program for the purpose of making payments toward the replacement and rehabilitation of existing local municipally-owned and funded drinking water, storm water and sanitary sewer systems; makes an appropriation therefor of $5,000,000."
     }
   ],
   "other_titles": [],
@@ -54,6 +54,31 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:58:53Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T12:30:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9325A",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T12:30:43Z"
       }
     }
   ],
@@ -115,10 +140,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A9325A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9325A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 3-0322",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ENV \u00a7 3-0322",
@@ -150,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:53Z",
+    "logs_latest_update": "2026-09-24T12:30:43Z",
     "text_extraction_latest_update": "2026-07-22T17:43:49.670825Z"
   }
 }
