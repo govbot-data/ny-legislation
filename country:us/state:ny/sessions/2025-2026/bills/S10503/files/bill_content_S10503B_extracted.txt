@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - S10503B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+STATE OF NEW YORK
+________________________________________________________________________
+10503--B
+IN SENATE
+May 15, 2026
+___________
+Introduced by Sen. BOTTCHER -- read twice and ordered printed, and when
+printed to be committed to the Committee on Finance -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee -- committee discharged, bill amended, ordered
+reprinted as amended and recommitted to said committee
+AN ACT to amend the private housing finance law, in relation to estab-
+lishing the build more, get more incentive fund
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. This act shall be known and may be cited as the "build
+2 more, get more act".
+3 § 2. The private housing finance law is amended by adding a new arti-
+4 cle 28 to read as follows:
+5 ARTICLE 28
+6 BUILD MORE, GET MORE INCENTIVE FUND
+7 Section 1240. Definitions.
+8 1241. Establishment of fund.
+9 1242. Incentive payments.
+10 1243. Permitted uses of funds.
+11 1244. Certification and reporting.
+12 1245. Anti-displacement and anti-gaming provisions.
+13 1246. Bonus for certified pro-housing communities.
+14 1247. Annual report.
+15 § 1240. Definitions. For the purposes of this article:
+16 1. "Corporation" means the New York State Housing Trust Fund Corpo-
+17 ration.
+18 2. "Municipality" means any city, town, or village.
+19 3. "Net new housing unit" means a dwelling unit that:
+20 (a) receives a certificate of occupancy, temporary certificate of
+21 occupancy, or equivalent local authorization on or after the effective
+22 date of this article;
+23 (b) increases the total number of lawful dwelling units within the
+24 municipality; and
+EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+[ ] is old law to be omitted.
+LBD15840-04-6
+
+S. 10503--B 2
+1 (c) does not merely replace a dwelling unit that was demolished,
+2 converted, or otherwise eliminated, except as otherwise provided for
+3 deeply affordable, supportive, or public housing replacement.
+4 4. "Eligible housing unit" means a net new housing unit, including but
+5 not limited to:
+6 (a) rental housing;
+7 (b) homeownership housing;
+8 (c) affordable housing;
+9 (d) supportive housing;
+10 (e) senior housing;
+11 (f) accessory dwelling units;
+12 (g) conversions from nonresidential to residential use;
+13 (h) mixed-use development containing residential units; and
+14 (i) public housing, Mitchell-Lama housing, or other publicly assisted
+15 housing.
+16 § 1241. Establishment of fund. There is hereby established the build
+17 more, get more incentive fund, to be administered by the corporation.
+18 Subject to appropriation, the fund shall provide incentive payments to
+19 municipalities based on the number of eligible net new housing units
+20 produced within such municipality.
+21 § 1242. Incentive payments. 1. For each eligible net new housing unit,
+22 the corporation shall provide the municipality with an incentive payment
+23 of:
+24 (a) ten thousand dollars per net new housing unit;
+25 (b) fifteen thousand dollars per net new affordable housing unit
+26 affordable to households earning up to eighty percent of area median
+27 income;
+28 (c) twenty thousand dollars per net new deeply affordable, supportive,
+29 public housing, or formerly homeless housing unit; and
+30 (d) five thousand dollars per net new accessory dwelling unit.
+31 2. The corporation may adjust such amounts annually based on available
+32 appropriations and regional housing need.
+33 § 1243. Permitted uses of funds. 1. Funds awarded under this article
+34 may be used by a municipality for any lawful municipal purpose, includ-
+35 ing but not limited to:
+36 (a) sewer, water, school, park, street, transit, and public realm
+37 infrastructure;
+38 (b) planning, zoning, environmental review, and building department
+39 staffing;
+40 (c) affordable housing preservation or production;
+41 (d) code enforcement;
+42 (e) public safety and emergency services;
+43 (f) climate resilience and green infrastructure;
+44 (g) property tax relief; and
+45 (h) community facilities.
+46 2. Funds shall not be required to be spent directly on the housing
+47 development that generated the award.
+48 3. If eligible claims exceed available appropriations, the corporation
+49 may prorate payments, with priority given to affordable housing,
+50 supportive housing, public housing, and municipalities in regions with
+51 severe housing shortages.
+52 § 1244. Certification and reporting. 1. Each municipality seeking
+53 payment shall submit an annual certification to the corporation identi-
+54 fying:
+55 (a) the number of eligible net new housing units produced;
+56 (b) the type and affordability level of such units;
+
+S. 10503--B 3
+1 (c) the location of such units;
+2 (d) the number of dwelling units demolished, converted, or eliminated
+3 during the same period; and
+4 (e) any local zoning or permitting actions taken to facilitate housing
+5 production.
+6 2. The corporation shall verify such certifications using certificates
+7 of occupancy, building permit data, local assessment rolls, and any
+8 other relevant state or local data.
+9 § 1245. Anti-displacement and anti-gaming provisions. 1. No payment
+10 shall be made for a housing unit if the corporation determines that the
+11 municipality or applicant has artificially created eligibility through:
+12 (a) demolition of existing occupied housing without replacement;
+13 (b) conversion of rent-regulated, affordable, supportive, Mitchell-
+14 Lama, public, or other protected housing into market-rate housing;
+15 (c) temporary or sham dwelling unit classifications; or
+16 (d) failure to comply with applicable fair housing, environmental,
+17 labor, or tenant protection laws.
+18 2. Where new housing replaces demolished or converted housing, incen-
+19 tive payments shall be made only for the net increase in lawful dwelling
+20 units, except where the replacement housing provides greater affordabil-
+21 ity or deeper public benefit as determined by the corporation.
+22 § 1246. Bonus for certified pro-housing communities. 1. A municipality
+23 that has been designated by the state as a pro-housing community shall
+24 receive a twenty-five percent bonus on all payments under this article.
+25 2. A municipality that fails to submit required housing production
+26 data shall be ineligible for payments until such data is submitted.
+27 § 1247. Annual report. 1. The corporation shall publish an annual
+28 report including:
+29 (a) the payments made to each municipality;
+30 (b) the number of units produced by municipality;
+31 (c) the number of affordable units produced;
+32 (d) the number of units demolished or lost;
+33 (e) the regional distribution of awards; and
+34 (f) the corporation's recommendations for improving the program.
+35 2. The report shall be delivered to the governor, the temporary presi-
+36 dent of the senate, the speaker of the assembly, the minority leader of
+37 the senate and the minority leader of the assembly by December thirty-
+38 first of each year.
+39 § 3. This act shall take effect immediately and shall apply to housing
+40 units receiving a certificate of occupancy on or after January first
+41 next succeeding the date on which it shall have become a law.
