@@ -249,6 +249,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:02Z"
       }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR",
+      "date": "2026-09-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T12:58:55Z"
+      }
+    },
+    {
+      "description": "SIGNED CHAP.311",
+      "date": "2026-09-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T12:58:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -398,7 +422,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-29T12:58:55Z",
     "text_extraction_latest_update": "2026-07-22T08:18:00.278559Z"
   }
 }

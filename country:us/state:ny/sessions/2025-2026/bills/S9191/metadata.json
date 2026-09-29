@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides limitations on overlapping control between insurance companies and pharmacy benefits managers and pharmacies; requires divestment of the interest in one or more insurance companies and pharmacy benefits managers."
+      "abstract": "Provides limitations on overlapping control between insurance companies and pharmacy benefits managers and pharmacies; requires divestment of the interest in one or more insurance companies and pharmacy benefits managers; prohibits insurance companies, pharmacies, and pharmacy benefit managers found in violation of such provisions from receiving payment from certain state programs."
     }
   ],
   "other_titles": [],
@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:59Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO JUDICIARY",
+      "date": "2026-09-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T12:58:55Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9191A",
+      "date": "2026-09-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T12:58:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,11 +75,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "A 9184",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 9184",
       "legislative_session": "2025-2026",
@@ -76,10 +96,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S9191A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S9191A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GOB \u00a7 5-338",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GOB/"
+    },
     {
       "publication": "New York Laws",
       "citation": "GOB \u00a7 5-338",
@@ -111,7 +150,7 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:59Z",
+    "logs_latest_update": "2026-09-29T12:58:55Z",
     "text_extraction_latest_update": "2026-07-22T15:32:01.384964Z"
   }
 }
